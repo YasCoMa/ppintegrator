@@ -1,0 +1,1878 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Nature and Pathogenicity of Micro-organisms
+ </title>
+ <abstract>
+  <p id="p0010">
+   <list id="ulist0010" list-type="simple">
+    <list-item id="u0010">
+     <label>
+      •
+     </label>
+     <p id="p0015">
+      Micro-organisms and higher organisms have evolved together and interact in complex ways. Only a small percentage of microbes are inherently pathogenic.
+     </p>
+    </list-item>
+    <list-item id="u0015">
+     <label>
+      •
+     </label>
+     <p id="p0020">
+      Pathogenicity, the ability of infectious agents to cause disease, must be interpreted in the context of the properties of both transmissible agent and host.
+     </p>
+    </list-item>
+    <list-item id="u0020">
+     <label>
+      •
+     </label>
+     <p id="p0025">
+      Understanding this interplay is important to developing methods to prevent infection and reduce the severity of disease.
+     </p>
+    </list-item>
+    <list-item id="u0025">
+     <label>
+      •
+     </label>
+     <p id="p0030">
+      The initial step in infection is usually adherence, mediated by the interaction of surface structures on the pathogen with host cell membrane proteins or carbohydrates. This often presents excellent targets for immunity.
+     </p>
+    </list-item>
+    <list-item id="u0030">
+     <label>
+      •
+     </label>
+     <p id="p0035">
+      Intracellular pathogens have evolved methods to neutralize the cellular defenses that can destroy invaders.
+     </p>
+    </list-item>
+   </list>
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="s0010">
+    <title>
+     Introduction
+    </title>
+    <p id="p0040">
+     The micro-organisms that surround us play roles critical to human existence, through processes as diverse as photosynthesis, nitrogen fixation, production of vitamins in the intestine, and decomposition of organic matter. They are a major driving force behind evolution, providing organelles for photosynthesis and respiration in present-day eukaryotes, and facilitating genome rearrangement in infected host cells. The lifestyle of a micro-organism is intimately related to its environment, be it the human body or a polluted riverbed. Some highly specialized micro-organisms can survive in harsh environmental conditions, while others, such as root-colonizing bacteria and our own intestinal flora, take advantage of the abundant resources provided by higher organisms.
+    </p>
+    <sec id="s0015">
+     <title>
+      The Normal Microbial Flora of the Human Host
+     </title>
+     <p id="p0045">
+      The fetus normally starts acquiring its indigenous microflora from its mother during vaginal delivery and nursing. The human body can be thought of as an ecosystem for microbes. Each part of the body exposed to the outside environment has its own characteristic mixture of microbes. The microbial population is especially dense in the large intestine, where each gram of stool contains ~~10
+      bacteria. The normal flora is well adapted to its niche and forms a complex, metabolically interacting community. Although age, diet and exogenous factors such as antibiotic treatment may induce important variations, the microbial population of the gastrointestinal tract seems to be stable in each individual. The fecal flora is much more diverse in vegetarians than in omnivores or carnivores, probably reflecting the difficulty of digesting complex carbohydrates found in plants. Facultative anaerobes such as
+      <italic>
+       Escherichia coli
+      </italic>
+      , which are frequently used as markers for environmental pollution with human feces, represent less than 1% of the normal flora.
+     </p>
+     <p id="p0050">
+      Our intimate symbiosis with microbes is often peaceful and mutually beneficial (mutualism), as when bacteria shelter in the intestine and in turn supply vitamins, aid in digesting endogenous or exogenous carbohydrates, assist in maintaining oral tolerance and the development of the innate immune system.
+      Alternatively, if the micro-organism benefits while the host is indifferent, the relationship (and organism) is termed commensal. Parasitism occurs when the invad­ing organisms produce harm to the host.
+     </p>
+     <p id="p0055">
+      This chapter focuses on the lifestyle of pathogenic micro-organisms and how they infect us, reproduce and cause disease. We shall use the word ‘pathogenicity’ to indicate the capacity to cause disease (or damage) in nonimmune individuals. Although the word ‘virulence’ is often used in the same sense, we mean it to refer to the severity of the illness that is caused. Communicability refers to the transmissibility or infectiousness of micro-organisms.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s0020">
+    <title>
+     Definition and Comparison of Infectious Agents
+    </title>
+    <p id="p0060">
+     The definition of an ‘infectious agent’ was proposed by Jacob Henle in 1840 and refined by Robert Koch. In 1876, Koch reported experiments on mice with
+     <italic>
+      Bacillus anthracis
+     </italic>
+     showing that:
+     <list id="ulist0015" list-type="simple">
+      <list-item id="u0035">
+       <label>
+        •
+       </label>
+       <p id="p0065">
+        <italic>
+         B. anthracis
+        </italic>
+        could be isolated from all animals suffering from naturally occurring anthrax;
+       </p>
+      </list-item>
+      <list-item id="u0040">
+       <label>
+        •
+       </label>
+       <p id="p0070">
+        disease could be reproduced in an experimental host by infection with a pure culture of this
+        <italic>
+         B. anthracis
+        </italic>
+        ;
+       </p>
+      </list-item>
+      <list-item id="u0045">
+       <label>
+        •
+       </label>
+       <p id="p0075">
+        <italic>
+         B. anthracis
+        </italic>
+        could subsequently be re-isolated from the experimental host.
+       </p>
+      </list-item>
+     </list>
+    </p>
+    <p id="p0080">
+     As discussed in more detail in Chapter 1, this definition of a pathogen is correct but inadequate because many pathogenic microbes have never been cultured (e.g.
+     <italic>
+      Mycobacterium leprae
+     </italic>
+     and
+     <italic>
+      Treponema pallidum
+     </italic>
+     ), others lack a suitable animal host in which the infection can be reproduced (e.g.
+     <italic>
+      Salmonella enterica
+     </italic>
+     serovar Typhi), and some microbes cause disease only under specific conditions that may not be reproducible in experimental animals (e.g. varicella-zoster virus).
+    </p>
+    <p id="p0085">
+     Infectious agents can be divided into four groups:
+     <list id="ulist0020" list-type="simple">
+      <list-item id="u0050">
+       <label>
+        •
+       </label>
+       <p id="p0090">
+        Prions, which consist of only a single protein (PrP). The infectious form (PrP
+        )
+        is transmissible as spongiform encephalopathy (see Chapter 23).
+       </p>
+      </list-item>
+      <list-item id="u0055">
+       <label>
+        •
+       </label>
+       <p id="p0095">
+        Viruses, which contain proteins, lipids and nucleic acids. Virioids consist of only nucleic acid. These organisms characteristically disassemble after cell entry and then assemble their progeny during replication
+        (see Chapters 162 to 175Chapter 162Chapter 163Chapter 164Chapter 165Chapter 166Chapter 167Chapter 168Chapter 169Chapter 170Chapter 171Chapter 172Chapter 173Chapter 174Chapter 175).
+       </p>
+      </list-item>
+      <list-item id="u0060">
+       <label>
+        •
+       </label>
+       <p id="p0100">
+        Bacteria, including archaea and eubacteria. Unlike eukaryotes, the DNA genomes of prokaryotes are not separated from the cell by a membrane. Unlike viruses, they remain enclosed within their own cell envelope throughout their life cycle (see Chapters 176 to 188Chapter 176Chapter 177Chapter 178Chapter 179Chapter 180Chapter 181Chapter 182Chapter 183Chapter 184Chapter 185Chapter 186Chapter 187Chapter 188).
+       </p>
+      </list-item>
+      <list-item id="u0065">
+       <label>
+        •
+       </label>
+       <p id="p0105">
+        Eukaryotes, including fungi (see Chapters 189 and 190), protozoa (see Chapters 191 to 194Chapter 191Chapter 192Chapter 193Chapter 194) and multicellular parasites (see Chapter 195). These organisms have subcellular compartments, including the nucleus.
+       </p>
+      </list-item>
+     </list>
+    </p>
+    <p id="p0110">
+     compares the properties that define prokaryotes with eukaryotes and
+     emphasizes the differences between bacteria and fungi, many of which determine the specificity of antimicrobial agents.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s0025">
+    <title>
+     General Properties and Classification of Viruses
+    </title>
+    <sec id="s0030">
+     <title>
+      Taxonomy of Viruses
+     </title>
+     <p id="p0115">
+      Viruses are classified into families (-viridae), genera (-virus or -viruses) and species (-virus), based on the type (DNA or RNA) and nature (single-stranded or double-stranded, segmented or nonsegmented) of genetic material, and structural features
+      (size, symmetry and presence or absence of a lipid envelope;
+      ). For example, Picornaviridae is a family of small, non-enveloped RNA viruses containing the
+      <italic>
+       Enterovirus
+      </italic>
+      genus, which in turn includes poliovirus species of serotypes 1, 2 and 3.
+      Other schemes emphasize the relationship of the genetic material of the virus and the viral replication scheme.
+      For example, Baltimore group IV contains viruses with single-stranded (ss) RNA genomes where the mRNA shares the same sense as the viral RNA (+ssRNA), including the Picornaviridae, enteroviruses and poliovirus.
+     </p>
+    </sec>
+    <sec id="s0035">
+     <title>
+      Common Steps in Viral Replication
+     </title>
+     <p id="p0120">
+      Virus replication involves the following steps:
+      <list id="olist0025" list-type="simple">
+       <list-item id="o0070">
+        <label>
+         1.
+        </label>
+        <p id="p0125">
+         Attachment: Virus particles (virions) attach to specific receptor(s) on the surface of a host cell.
+        </p>
+       </list-item>
+       <list-item id="o0075">
+        <label>
+         2.
+        </label>
+        <p id="p0130">
+         Entry: Virions fuse to the outer cell membrane or are endocytosed and fuse to endosomal membranes at reduced pH.
+        </p>
+       </list-item>
+       <list-item id="o0080">
+        <label>
+         3.
+        </label>
+        <p id="p0135">
+         Uncoating and transport: The virion disassembles, freeing its nucleic acid and proteins, which are transported into the cytoplasm and/or nucleus.
+        </p>
+       </list-item>
+       <list-item id="o0085">
+        <label>
+         4.
+        </label>
+        <p id="p0140">
+         Transcription and translation: Viral RNA and proteins are expressed. Intermediates such as viral complementary RNA or integrated proviral DNA may be involved.
+        </p>
+       </list-item>
+       <list-item id="o0090">
+        <label>
+         5.
+        </label>
+        <p id="p0145">
+         Assembly and release: New virions are formed and released from the cell via lysis, or budding from surface or internal membranes.
+        </p>
+       </list-item>
+      </list>
+     </p>
+    </sec>
+    <sec id="s0040">
+     <title>
+      Structure of Viruses
+     </title>
+     <p id="p0150">
+      Virions serve to protect the viral genome and facilitate infection of new host cells. The smallest viruses are only 25–30 nm in diameter, while the largest (e.g. mimivirus, an infectious agent of amebae) are 400 nm or more in size.
+      The viral genome is tightly associated with nucleoprotein(s) in a highly organized core structure, the nucleocapsid. In some virus families, such as negative-strand RNA viruses and retroviruses, the virion contains enzymes required for early steps in virus replication. The viral capsid or tegument comprises the outer proteinaceous covering. Some viruses have a surrounding outer lipid layer (the envelope) derived from host cell membranes during budding. Clefts, vertices, or spikes in the capsid or proteins inserted into the envelope layer serve to attach to host receptor molecule(s).
+     </p>
+     <sec id="s0045">
+      <title>
+       The Viral Genome
+      </title>
+      <p id="p0155">
+       Viral genomes usually consist of either DNA or RNA, though some contain both: Cytomegalovirus (CMV) virions include viral RNAs that promote infectivity and human immunodeficiency virus (HIV) virions include partially reverse transcribed DNA.
+       Genomes range from 1.7 kb to 1.2 Mb in size, and may encode only a single gene, or hundreds. For example, Parvoviridae have only two open reading frames, whereas the vaccinia poxvirus has 263 known genes. Genomes may be linear or circular, segmented or nonsegmented. Genome segmentation facilitates genetic exchange between coinfecting virions in a process known as reassortment. Many viral nucleic acids contain modified nucleotides, which inhibit host cell nucleases and/or mediate recognition by viral polymerase. Linear genomes often contain conserved terminal sequences. When complementary, these allow partial circularization of the genome via formation of panhandle or tube-like structures. Terminal sequences may also allow incomplete replication products to recombine or mediate recognition by proteins that prime transcription or replication. Retroviral proviral DNA is flanked by repeat sequences similar to those of transposable genetic elements.
+      </p>
+      <p id="p0160">
+       The viral RNA (vRNA) of positive-strand RNA viruses acts directly as mRNA for protein synthesis; they resemble eukaroytic RNAs with a cap at the 5′ end and are polyadenylated (poly-A) at the 3′ end. In contrast, the RNA-dependent RNA polymerase of (−)ssRNA viruses uses vRNA as a template for mRNA transcription. Negative-strand RNA genomes may lack cap structures and poly-A tails, often parasitizing cap structures from cellular pre-mRNA or mRNA. Retroviruses synthesize a dsDNA copy of the positive-strand RNA genome, which then integrates into cellular DNA.
+      </p>
+     </sec>
+     <sec id="s0050">
+      <title>
+       The Capsid
+      </title>
+      <p id="p0165">
+       The viral genome is protected by one or more protein coats, the nucleocapsid and/or capsid. The capsid is made of viral protein structures known as capsomeres, accounting for a large portion of the viral mass. Papillomavirus produces only two capsid proteins and poliovirus four, but more complex viruses may encode a larger variety.
+      </p>
+      <p id="p0170">
+       Picornaviruses, adenoviruses and papovaviruses have a nucleocapsid structure with icosahedral symmetry (each capsid consists of 20 triangular facets and 12 apices). Influenza, measles and rabies virus form capsids with helical or cylindrical symmetry. The central core is formed by the nucleic acid genome, around which the nucleocapsid proteins are arranged like the steps of a spiral staircase (
+       ).
+      </p>
+      <p id="p0175">
+       More complex virion morphologies also exist. Bacteriophages, viruses that infect bacteria, have complex attachment structures fixed to the capsid. The nucleocapsid of orthopoxviruses, such as variola and vaccinia virus, consists of a network of tubules, sometimes surrounded by an envelope, forming a brick-shaped virion.
+      </p>
+     </sec>
+     <sec id="s0055">
+      <title>
+       The Envelope
+      </title>
+      <p id="p0180">
+       Enveloped viruses contain nucleocapsids of either icosahedral (e.g. herpesviruses, togavirus) or helical symmetry (e.g. influenza). The outer envelope is a lipid bilayer derived from host cell membrane in which both viral glycoproteins and some host proteins are embedded. The viral matrix proteins (M proteins) associate with the envelope, connecting the capsid to the viral glycoprotein(s) inserted in the lipid bilayer. Surface glycoproteins are transmembrane proteins that may also be coupled to fatty acid moieties, and play a key role in attachment and penetration of virions into the cell.
+      </p>
+      <p id="p0185">
+       Some glycoproteins also have enzymatic activity, such as the influenza virus neuraminidase, which is critical for release of newly formed viral particles from the host cell membrane. Maturation of protein structures and transcription steps may occur after release from the host cell. For example, the typical conical core of the human immunodeficiency virus retrovirus is formed after release as viral protease matures the nucleocapsid within the virion.
+      </p>
+     </sec>
+    </sec>
+    <sec id="s0060">
+     <title>
+      Viral Gene Expression Strategies
+     </title>
+     <p id="p0190">
+      In the Baltimore classification, seven major viral replication strategies are distinguished (see following and
+      ).
+      <list id="ulist0030" list-type="simple">
+       <list-item id="u0095">
+        <label>
+         •
+        </label>
+        <p id="p0195">
+         Class IV viruses contain positive-strand RNA viral genomes that serve as mRNA. After entry, translation of the genome produces a polyprotein that is processed via enzymatic cleavage, at least in part in an autocatalytic fashion. Replication may be regulated by the unavailability of functional viral proteases needed to make viral structural proteins until later in the replication cycle, as synthesis of viral complementary RNA and new viral RNA proceeds. As viral proteases accumulate, core proteins are efficiently processed, assembled and begin to encapsidate viral RNA. This strategy is used by picornaviruses and Flaviviridae, including hepatitis C viruses. In other (+)ssRNA virus families, including Coronaviridae, Caliciviridae and hepatitis E virus, the viral complementary RNA is a template for transcription of both full-length vRNA and subgenomic transcripts encoding structural proteins, allowing regulation of expression.
+        </p>
+       </list-item>
+       <list-item id="u0100">
+        <label>
+         •
+        </label>
+        <p id="p0200">
+         Class V viruses, including Orthomyxoviridae and Bunyaviridae, have (−)ssRNA genomes. After entry, primary transcription generates full-length viral complementary RNA (positive-strand) which acts both as mRNA for viral protein synthesis and as a template for transcription of new viral RNA. Alternatively, the incoming viral RNA may initially be transcribed into mRNA messages for individual genes, which must accumulate before transcription of full-length viral complementary RNA and replication of viral RNA can occur (e.g. Paramyxoviridae, Rhabdoviridae). The late phases of replication, transcription and viral protein synthesis proceed simultaneously. The Arenaviridae and some Bunyaviridae use a more complicated strategy, termed ambisense, wherein both viral RNA and viral complementary RNA serve as templates for mRNA transcription by the viral polymerase. This does not result in the formation of complementary double-stranded (ds) mRNAs, as different portions of the genome are transcribed from the viral and complementary RNA strands.
+        </p>
+       </list-item>
+       <list-item id="u0105">
+        <label>
+         •
+        </label>
+        <p id="p0205">
+         Class III viruses, the Reoviridae, have double-stranded, segmented RNA genomes. These include Colorado tick fever virus (
+         <italic>
+          Coltivirus
+         </italic>
+         ) and rotaviruses. Virions have 10–12 dsRNA segments and replication resembles that of (−)ssRNA viruses in that RNA is not infectious, and transcription of segment-length mRNAs using the negative strand of the genomic dsRNA must first occur before genome replication. Both transcription rate (inverse to segment length) and efficiency of translation (varying up to 100-fold) may regulate viral replication.
+        </p>
+       </list-item>
+       <list-item id="u0110">
+        <label>
+         •
+        </label>
+        <p id="p0210">
+         Class II viruses have single-stranded DNA genomes used as templates for transcription of viral protein messages needed for synthesis of complementary DNA. Double-stranded DNA is a replication intermediate, and DNA replication is dependent on repeats that form structures on one or both ends. The Parvoviridae include the B19 erythrovirus that causes erythema infectiosum (fifth disease) in children and exanthem, arthropathy and temporarily halts hematopoeisis in adults. This family also includes the apathogenic adeno-associated dependoviruses (AAV). Parvoviridae have 4.5–5.5 kb ssDNA genomes and only two open reading frames, one of which codes for between two and four nonstructural proteins and the other coats polypeptides. The Circoviridae have circular ssDNA genomes. This family includes Torque Teno viruses (TTV, TTMV), which cause widespread human infection without evidence of disease.
+        </p>
+       </list-item>
+       <list-item id="u0115">
+        <label>
+         •
+        </label>
+        <p id="p0215">
+         Class I viruses have dsDNA genomes. Replication proceeds to cell lysis or latency depending on cellular conditions. The lytic phase can be subdivided into early and late phases. In the early lytic phase, viral genes alter cellular conditions to allow efficient viral DNA synthesis and transcription, often activating the host cell and inducing cell division. In the late lytic phase, viral structural proteins accumulate; virions are assembled and then released upon death of the cell. In latency, viral gene expression is confined to functions that prevent replication while maintaining the viral genome within the cell, often for the lifetime of the individual. When cellular conditions become favorable, the latent virus can be ‘activated’ into lytic replication.
+        </p>
+        <p id="p0220">
+         There are many dsDNA viruses of medical importance for humans, including the herpesvirus family (see Chapter 166) and adenoviruses.
+        </p>
+       </list-item>
+       <list-item id="u0125">
+        <label>
+         •
+        </label>
+        <p id="p0225">
+         Class VI viruses are termed retroviruses: viruses enter the cell and uncoat, discharging the pre-integration complex, consisting of the polyadenylated, diploid viral RNA genome together with nucleoproteins, the viral reverse transcriptase and the viral integrase. The two RNA genomes are converted to a single, mostly dsDNA copy by reverse transcriptase in a process requiring template switching. The viral integrase then cuts the host genome and inserts the linearviral DNA into the chromosome as a provirus. This process may require cellular activation and/or cell division, though retroviruses can persist for weeks at stages before integration. Integrated virus may become latent, with limited or no transcription by cellular RNA polymerase II, until conditions allow virus replication.
+        </p>
+        <p id="p0230">
+         More complex retroviruses (e.g. spumaviruses, lentiviruses) first transcribe multiply-spliced mRNAs that direct the synthesis of regulatory proteins. As these accumulate, the processing of viral transcripts changes and more singly or unspliced mRNAs coding for viral structural proteins are produced. For example, HIV Rev protein, produced from early, multiply-spliced RNA transcripts, prevents splicing and allows nuclear export of singly-spliced and unspliced messages. These viruses (and many other viruses) also co-opt many cellular pathways, including protein sorting and ubiquitination, to modify the abundance of host proteins that would otherwise target the virus for immune recognition or otherwise interfere with virus replication.
+        </p>
+       </list-item>
+       <list-item id="u0135">
+        <label>
+         •
+        </label>
+        <p id="p0235">
+         Class VII hepadnaviruses, including hepatitis B virus, encode genetic information in dsDNA but use reverse transcription during infection in the cell to produce the negative strand of viral DNA, which in turn is used as a template for synthesis of positive-strand viral DNA.
+        </p>
+       </list-item>
+      </list>
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s0065">
+    <title>
+     General Properties and Classification of Bacteria
+    </title>
+    <p id="p0240">
+     Bacteria are small (0.6–4.0 µm) unicellular organisms; 3 × 10
+     bacteria weigh in the order of 1 g. A bacterium may divide up to two or three times per hour, implying ~300 g of bacteria could be produced from a single bacterial cell in one day. Small organisms profit from a favorable cell surface-to-volume ratio, allowing metabolic fluxes superior to those attained by larger eukaryotic cells. Bacteria react quickly to environmental changes by regulating gene transcription to adapt their physiology.
+    </p>
+    <p id="p0245">
+     Bacteria were probably the first cells to appear on Earth, more than 3.5 billion years ago. They have since developed overwhelming diversity, representing the bulk of the world\s biomass today. Although bacteria are not multicellular organisms, they are capable of cell-to-cell communication.
+     By using low molecular weight compounds that they synthesize and secrete, bacteria are able to sense their own density (called quorum sensing), and respond by activating programs such as plasmid conjugation, light production (in certain
+     <italic>
+      Vibrio
+     </italic>
+     spp.), biofilm formation, or virulence gene expression. Some genera of bacteria do not make their own signaling compounds but have receptors that respond to signals from other genera.
+    </p>
+    <p id="p0250">
+     Different cell morphologies can be observed with light microscopy (e.g. spherical cocci, rod-shaped bacilli, curved rods and spiral forms). The rigid cell wall determines the shape of bacteria and resists the osmotic pressure caused by the large difference in solute concentration between the cytoplasm and the environment.
+     <italic>
+      Mycoplasma
+     </italic>
+     spp. lack peptidoglycan and thus have neither a rigid wall nor a defined shape.
+    </p>
+    <sec id="s0070">
+     <title>
+      Bacterial Dichotomy Revealed by a Simple Staining Technique
+     </title>
+     <p id="p0255">
+      In 1884 the Danish bacteriologist Hans-Christian Gram developed a simple staining technique that distinguishes gram-positive from gram-negative bacteria based on retention of a crystal violet-iodine dye by gram-positives in the presence of an organic solvent such as alcohol or acetone. Those solvents dissolve the dye from gram-negative bacteria that are counterstained with a contrasting dye such as safranin. This dichotomy reflects their distinctive cell wall structures. Gram-positive bacteria characteristically have a thick cell wall made up mainly of large molecules of peptidoglycan. Gram-negatives have a thinner peptidoglycan layer surrounded by an asymmetric lipid outer membrane, the outer layer being composed of lipopolysaccharide (endotoxin) (
+      ). Because gram-negative bacteria have two lipid bilayers, they must use active transport systems and protein channels to import water-soluble molecules and nutrients. Export of proteins is accomplished through complex protein structures called secretion systems.
+     </p>
+    </sec>
+    <sec id="s0075">
+     <title>
+      Organization of the Bacterial Cell
+     </title>
+     <p id="p0260">
+      Bacteria have a cell wall, a simple nuclear body without a nuclear membrane, ribosomes and mesosomes in the cytoplasm, and sometimes granules of reserve material, but no endoplasmic reticulum or organelles such as mitochondria or chloroplasts. They frequently have appendages such as flagella that are used for motility, and pili and fimbriae that may be used for adhesion or for conjugation. DNA replication, transcription, protein synthesis, central metabolism and respiration all take place in the same environment. Complex biochemical processes may nonetheless be spatially organized.
+      The cytoplasmic membrane contains numerous metabolite transport systems, and is also the site of intense enzymatic activity. Like eukaryotic cells, bacteria possess efflux systems that allow them to expel unwanted substances from the cytoplasm into the environment. Gram-positive bacteria express many important enzymes and ligands in their cell wall (e.g.
+      <italic>
+       Listeria monocytogenes
+      </italic>
+      may have 42 different cell wall anchored proteins).
+     </p>
+     <p id="p0265">
+      Bacteria generally store their genetic information in a single circular chromosome. The
+      <italic>
+       Haemophilus influenzae
+      </italic>
+      chromosome is 1.83 million base pairs (Mbp) long and encodes 1703 putative proteins.
+      The chromosome
+      <italic>
+       Bacillus megaterium
+      </italic>
+      has 30 Mbp and is more than 500 times the length of the cell. A few organisms, such as
+      <italic>
+       Vibrio cholera
+      </italic>
+      and
+      <italic>
+       Borrelia
+      </italic>
+      spp., have multiple chromosomes, and
+      <italic>
+       Borrelia
+      </italic>
+      genomes are encoded on linear DNA. The advantage of these uncommon arrangements is not known.
+     </p>
+     <p id="p0270">
+      The bacterial chromosome codes for polypeptides and stable RNA molecules such as transfer RNA and ribosomal RNA molecules, and for regulatory RNAs.
+      <italic>
+       E. coli
+      </italic>
+      probably contains well over 1500 different polypeptides with a variety of functions, including maintenance of membrane structure; transport; respiration; digestion of nutrients; synthesis of amino acids, sugars, nucleotides, lipids and vitamins; and production of DNA, RNA, proteins and polysaccharides. Naturally occurring
+      <italic>
+       E. coli
+      </italic>
+      isolates can have genomes that differ by up to 1 Mb. Thus the commensal
+      <italic>
+       E. coli
+      </italic>
+      K12 has a genome of 4.64 Mb, while the human enteric pathogen
+      <italic>
+       E. coli
+      </italic>
+      O157:H7 has a genome of 5.53 Mb. Uropathogenic
+      <italic>
+       E. coli
+      </italic>
+      (UPEC) have genomes varying from 4.94 to 5.23 Mb. The differences in genome sizes are largely due to insertions of transposons and/or phages. If the insertions encode virulence factors they are referred to as pathogenicity islands. Genomic islands in UPEC that are not found in commensal
+      <italic>
+       E. coli
+      </italic>
+      account for more than 10% of the genome, emphasizing the importance of lateral gene transfer in the evolution of pathogens. The overall gene order, except for the insertions, remains the same in all
+      <italic>
+       E. coli
+      </italic>
+      and is remarkably similar to the gene order in other Enterobacteriaceae such as
+      <italic>
+       Salmonella enterica
+      </italic>
+      .
+     </p>
+     <sec id="s0080">
+      <title>
+       Transcription and Translation in Bacteria
+      </title>
+      <p id="p0275">
+       Gene expression is usually regulated at the level of transcription initiation by regulator proteins (and occasionally by small RNA molecules
+       ) that interact with the ‘promoter DNA’ and with the enzyme RNA polymerase (see
+       ). Sigma factors recognize specific DNA sequences at promoters and facilitate the binding of RNA polymerase. The complex opens (‘melts’) the dsDNA to allow synthesis of an RNA copy of one of the two DNA strands. Bacterial cells produce multiple sigma factors, each controlling the expression of a set of genes, and each expressed under different environmental conditions. Some gene transcription is also regulated by binding of activator proteins upstream of the promoters to sites called enhancers, similar to enhancers in eukaryotic cells.
+      </p>
+      <p id="p0280">
+       Four types of RNA are produced: regulatory RNA, transfer (t) RNA, sRNA and messenger RNA (mRNA). tRNAs position the amino acids on the ribosomes during protein synthesis and are important structural components of ribosomes. Messenger RNA molecules are generally quite unstable but are protected from premature degradation by the protein synthesis machinery.
+       Regulatory RNAs, such as small RNAs (sRNA) in two component systems, may function similarly to microRNAs in eukaryotes.
+       Ribosomes bind mRNA as soon as it ‘leaves’ RNA polymerase and start protein synthesis by coupling the initiator amino acid (formyl-methionine) to the second amino acid in the coding sequence and uncoupling it from the tRNA molecule. As mRNA elongation proceeds, more ribosomes bind to the mRNA to form a ‘polysome’. The polypeptides produced by ribosomes fold into native structures either spontaneously or with the help of molecular chaperones. Multiple genes involved in a metabolic pathway are usually contiguous in an operon. Bacterial mRNAs generally encode more than one protein. The bacterial protein synthesis machinery is an important target for antibiotics.
+      </p>
+     </sec>
+    </sec>
+    <sec id="s0085">
+     <title>
+      Motility
+     </title>
+     <p id="p0285">
+      Many bacterial species can detect small variations in concentrations of valuable or harmful substances in the environment, guiding movement in a process called chemotaxis.
+      Flagella are the effectors of chemotaxis. By changing the direction of flagellar rotation, micro-organisms swim towards sites favorable to survival and growth and away from noxious stimuli. Amino acids and sugars are powerful chemoattractants. Although many pathogenic species are flagellated, a role for motility in virulence has not been established in many cases.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s0090">
+    <title>
+     Pathogenesis of Infectious Disease
+    </title>
+    <p id="p0290">
+     The key microbial factors involved in the onset and spread of microbial infection can be identified by carefully analyzing the interaction of the micro-organism with its host (
+     ). Insight into the intimate relationship between host and pathogen helps us answer the all-important questions of how to eliminate the cause of disease and reduce its harmful effects on the human body.
+     <boxed-text id="b0010">
+      <label>
+       Box 2-1
+      </label>
+      <caption>
+       <title>
+        Important Steps in Microbial Pathogenesis
+       </title>
+      </caption>
+      <p id="p0295">
+       <list id="ulist0035" list-type="simple">
+        <list-item id="u0140">
+         <label>
+          •
+         </label>
+         <p id="p0300">
+          Encounter
+         </p>
+        </list-item>
+        <list-item id="u0145">
+         <label>
+          •
+         </label>
+         <p id="p0305">
+          Adherence
+         </p>
+        </list-item>
+        <list-item id="u0150">
+         <label>
+          •
+         </label>
+         <p id="p0310">
+          Evasion of host defenses
+         </p>
+        </list-item>
+        <list-item id="u0155">
+         <label>
+          •
+         </label>
+         <p id="p0315">
+          Local multiplication or general spread in the body (invasion)
+         </p>
+        </list-item>
+        <list-item id="u0160">
+         <label>
+          •
+         </label>
+         <p id="p0320">
+          Cell and tissue damage
+         </p>
+        </list-item>
+        <list-item id="u0165">
+         <label>
+          •
+         </label>
+         <p id="p0325">
+          Shedding from the body
+         </p>
+        </list-item>
+       </list>
+      </p>
+     </boxed-text>
+    </p>
+    <p id="p0330">
+     The introduction of molecular techniques to make targeted mutations in pathogenic organisms has led to major advances. Mutants can be tested in appropriate animal or tissue culture models to determine if the loss of a gene affects the virulence of the pathogen without affecting its ability to grow
+     <italic>
+      in vitro
+     </italic>
+     in standard media. Genes that are identified as ‘virulence’ genes are sometimes considered to be ‘accessory’ genes because they are not required for replication outside the host. A virulence gene can also be cloned into a genetically related nonpathogenic microbe and tested for its ability to confer new properties on that organism such as adhesion or hemolysis.
+    </p>
+    <p id="p0335">
+     Virulence factors generally fall into two functional categories that may overlap. There are purely defensive factors that help the organism to escape the host\s immune response. Bacterial examples include the polysaccharide capsule made by
+     <italic>
+      Streptococcus pneumoniae
+     </italic>
+     and the golden pigment made by
+     <italic>
+      Staphylococcus aureus
+     </italic>
+     . The former prevents complement from effectively opsonizing the bacteria for ingestion and destruction by neutrophils, while the carotenoid pigment (staphyloxanthin) that gives
+     <italic>
+      Staph. aureus
+     </italic>
+     its name, is an antioxidant that helps the bacteria to survive the oxidative damage inflicted by the respiratory burst of phagocytes. Conversely, many microbial factors directly damage the host. For example, cholera and diphtheria toxins are responsible for the manifestations of the diseases they are named for. Lipopolysaccharides (LPS) serve both functions; the long polysaccharide chains divert complement from the inner membrane, rendering gram-negative bacilli resistant to its bactericidal action (defensive), while the lipid A core stimulates exuberant and damaging inflammation by binding to the Toll-like receptor 4 (TLR4)/MD-2/CD14 complex expressed on many host cells.
+    </p>
+    <p id="p0340">
+     Since expression of virulence genes may carry a large metabolic cost, bacteria transcriptionally regulate expression of some virulence genes in response to environmental signals. Examples include the phoP/Q regulon in
+     <italic>
+      S. enterica
+     </italic>
+     and the agr regulon in
+     <italic>
+      Staph. aureus
+     </italic>
+     . The former senses low Mg concentrations and antimicrobial peptides, and the latter senses autosecreted peptides via quorum sensing. Accessory gene expression is partially regulated in
+     <italic>
+      S
+     </italic>
+     . Typhimurium and
+     <italic>
+      E. coli
+     </italic>
+     by H-NS, a histone-like repressor of horizontally acquired genes. H-NS silences gene transcription by trapping or excluding RNA polymerase from promoter regions and preferentially targets A+T-rich DNA, a feature of many horizontally acquired sequences in Enterobacteriaceae. However, A+T-richness is a general feature of bacterial promoters, and so H-NS is also a global repressor of many regulated core genes.
+    </p>
+    <p id="p0345">
+     Viruses face problems similar to bacteria in the host, but must solve them using a limited genetic repertoire. Analogous to bacterial virulence factors, viral genes required for replication and/or pathogenesis in the host that are dispensable for replication in tissue culture are termed accessory genes. For example, simian immunodeficiency virus (SIV) strains lacking the
+     <italic>
+      nef
+     </italic>
+     gene replicate well in certain cell lines but are much less virulent in primate hosts.
+     Expression of both SIV and HIV
+     <italic>
+      nef
+     </italic>
+     both increases viral infectivity and assists in evasion of adaptive host immunity by downregulation of major histocompatibility complex (MHC) class I, needed for presentation of antigens to allow recognition of infected cells by cytotoxic lymphocytes.
+    </p>
+    <p id="p0350">
+     RNA viruses have to avoid triggering innate immunity that impairs viral replication and modification or destruction of viral RNA by host restriction factors. Two broad strategies to accomplish this include masquerading as cellular mRNAs, and inhibiting or degrading host factors through the action of viral proteins or decoy RNA.
+     For example, the HIV
+     <italic>
+      vif
+     </italic>
+     gene, interacting with proteins in the host ubiqui­tin pathway, inactivates APOBEC3G, an innate restriction factor, that otherwise renders viruses uninfectious.
+     Similarly, HIV
+     <italic>
+      vpu
+     </italic>
+     alters protein sorting to prevent cell surface expression of tetherin (BST-2), allowing viral budding to proceed.
+     Viruses also produce proteins analogous to bacterial toxins, including proteins with superantigen activity (HIV gp120, Epstein–Barr virus, filovirus)
+     and envelope proteins that activate signaling of host tyrosine kinases (e.g. sin nombre virus).
+    </p>
+    <sec id="s0095">
+     <title>
+      Lifestyles and Pathogenesis
+     </title>
+     <p id="p0355">
+      Each pathogen has its own infection strategy. In the following sections we shall examine the lifestyles of some pathogenic species.
+     </p>
+     <sec id="s0100">
+      <title>
+       Endogenous Infections and Normal Microbial Flora of the Human Host
+      </title>
+      <p id="p0360">
+       The distinction between parasitism, commensalism and mutualism is not sharp and the condition of the host and the location of the bacteria may make a big difference. For instance, UPEC are commensals in the colon but cause infections in the urinary tract. Some micro-organisms, referred to as opportunistic pathogens, are commensals in the majority of people but can cause disease in an immunocompromised host.
+       <italic>
+        Candida albicans
+       </italic>
+       is part of the normal oral flora, but in acquired immunodeficiency syndrome (AIDS) patients with low numbers of CD4
+       T cells,
+       <italic>
+        C. albicans
+       </italic>
+       causes thrush and esophagitis. Similarly, virtually all immunologically normal individuals chronically infected with human cytomegalovirus (CMV) are asymptomatic, but CMV can cause colitis and pneumonia when the immune system is suppressed. It has been suggested that chronic infection with highly prevalent viruses, including herpesviruses, may play a protective role against bacterial infection by boosting innate immunity, implying a complex, three-way relationship that defies easy classification.
+       Thus, the host and its indigenous microflora maintain a delicately balanced relationship that, when disrupted, may lead to the development of infectious disease.
+      </p>
+      <p id="p0365">
+       An inevitable consequence of antibiotic treatment is the elimination of susceptible bacteria, which are quickly replaced by antibiotic-resistant species, sometimes leading to deleterious consequences. This phenomenon is illustrated by post-antibiotic pseudomembranous colitis caused by toxigenic
+       <italic>
+        Clostridium difficile
+       </italic>
+       . Probiotics (live micro-organisms) may help to restore the natural flora after antibiotic use, but their usefulness is still not fully established. For example,
+       <italic>
+        Saccharomyces boulardii
+       </italic>
+       or
+       <italic>
+        Lactobacillus
+       </italic>
+       spp. have been used to prevent relapses of colitis caused by
+       <italic>
+        C. difficile
+       </italic>
+       (CDI)
+       <italic>
+        .
+       </italic>
+       Two prospective studies appear to show reduction in incidence of CDI when used prophylactically.
+       ,
+       Fecal transplantation, the introduction of colonic flora from healthy individuals into those afflicted with CDI, is an effective technique in refractory disease.
+      </p>
+     </sec>
+     <sec id="s0105">
+      <title>
+       Exogenous Infections and the Normal Flora
+      </title>
+      <p id="p0370">
+       Population levels of the different areas of the gastrointestinal tract are controlled mainly at the level of metabolic competition. Normal flora are well adapted to low oxidation reduction potentials and tightly adherent to the mucosal epithelium. Pathogens that use the gastrointestinal tract as a portal of entry must find ways of dealing with fierce microbial competition in the colon, or target the less densely populated small intestine. Small intestinal pathogens have specific adhesins that allow them to remain attached to epithelial cells or to invade those cells despite high flow.
+      </p>
+      <p id="p0375">
+       Virulent bacteria have evolved strategies to overcome colonization resistance as well as to out-duel host defenses. For instance, infection of epithelial cells by
+       <italic>
+        S. enterica
+       </italic>
+       stimulates the host cells to produce the host-defense protein lipocalin-2, which sequesters enterobactin, the siderophore made by most intestinal bacteria. However,
+       <italic>
+        Salmonella
+       </italic>
+       also make salmochelin, which is not affected by lipocalin-2. Since free iron is limiting, this offers a growth advantage to
+       <italic>
+        Salmonella
+       </italic>
+       . In addition,
+       <italic>
+        S. enterica
+       </italic>
+       invasion induces production of superoxide by inflammatory cells that can oxidize H
+       <sub>
+        2
+       </sub>
+       S and thiosulfate into tetrathionate, which
+       <italic>
+        Salmonella
+       </italic>
+       but not
+       <italic>
+        E. coli
+       </italic>
+       can use as a terminal electron receptor, enabling the former to carry out anaerobic respiration and thus generate more ATP than its competitors in the anaerobic intestine.
+       Undoubtedly we will discover other strategies used by microbes to deal with competing normal flora.
+      </p>
+      <p id="p0380">
+       The skin is much less densely populated by its endogenous flora. Nevertheless, there are bacteria within skin appendages in all areas of the skin. Surprisingly normal skin also harbors a variety of species of the fungus
+       <italic>
+        Malassezia
+       </italic>
+       and several viruses (papillomavirus, polyomavirus, circovirus, merkel virus).
+       Although intact skin is impermeable to bacteria, skin disruptions due to lacerations or insect bites can allow entry of pathogenic microbes into the body, and abnormal skin such as in eczema lacks antimicrobial defensins and has a different bacterial flora.
+      </p>
+     </sec>
+     <sec id="s0110">
+      <title>
+       Exogenous Infections
+      </title>
+      <p id="p0385">
+       Exogenous infections occur after direct contamination by microbial populations in the environment. Humans are continuously in contact with large exogenous microbial populations in the air, soil, food and water, which may harbor highly pathogenic bacteria such as
+       <italic>
+        Clostridium tetani
+       </italic>
+       and
+       <italic>
+        B. anthracis
+       </italic>
+       . Pathogens, such as
+       <italic>
+        S. enterica
+       </italic>
+       ,
+       <italic>
+        Staph. aureus
+       </italic>
+       ,
+       <italic>
+        Clostridium perfringens
+       </italic>
+       and
+       <italic>
+        Clostridium botulinum
+       </italic>
+       , and
+       <italic>
+        Campylobacter jejuni
+       </italic>
+       may be present in food and cause food poisoning or gastroenteritis.
+      </p>
+      <p id="p0390">
+       Live animals represent an important source of exogenous micro-organisms, producing infections (zoonoses) including cat-scratch fever, brucellosis, tularemia, toxoplasmosis, influenza and hantavirus pulmonary syndrome. Bats have proven to be a source of several viruses, including rabies, Ebola, Marburg, Hendra and Nipah, that cause serious infections in different parts of the world. Pathogens can be transmitted from animals to humans by insect vectors such as flies, mosquitoes and ticks. Plague, Rocky Mountain spotted fever and Lyme disease are examples of vector-borne zoonotic bacterial infection. Arboviruses are transmitted by insect vectors and their geographic range is increasing due to global travel and commerce, and changing climate. Many protozoan pathogens are transmitted by insect bites, malaria being the most important.
+      </p>
+      <p id="p0395">
+       The most important source of exogenous infections are probably humans themselves. Well-known examples of human-to-human transmission include sexually transmitted diseases such as AIDS and syphilis, airborne infections such as varicella, rubella, measles and tuberculosis, and fecal–oral infections such as amebiasis, shigellosis and typhoid fever. Vertical transmission of infections to the fetus or newborn is uncommon but may be devastating. Examples include toxoplasmosis, CMV, rubella, HIV, listeriosis and syphilis. Cross-infection in hospitals poses enormous problems, especially in intensive care units, where bacteria are transmitted on fomites or the hands of hospital personnel rather than by direct contact or by droplets.
+      </p>
+      <p id="p0400">
+       Certain bacterial respiratory pathogens have no environmental or animal hosts, and are passed by droplets from person to person. These include
+       <italic>
+        Streptococcus pyogenes
+       </italic>
+       ,
+       <italic>
+        Strep. pneumoniae
+       </italic>
+       and
+       <italic>
+        Neisseria meningitidis
+       </italic>
+       . If newly colonized individuals do not have protective antibodies they are liable to develop symptomatic infections. Other than pre-existing immunity, why some people become ill after they acquire these organisms and others remain asymptomatic carriers is not well understood.
+      </p>
+      <p id="p0405">
+       A small number of exogenous pathogens are airborne and establish lung infections by direct interactions with alveolar macrophages or mucosal dendritic cells. For this to happen the particles must be ~4 µm in diameter; smaller particles will be exhaled and larger particles will be trapped in the nasopharynx. Alveolar macrophages are inherently downregulated for inflammatory responses, which is probably necessary to prevent lung damage from responses to the many noninfectious particles in the air. However, this makes them ill equipped to kill organisms that they may ingest.
+       <italic>
+        Mycobacterium tuberculosis
+       </italic>
+       , primary pathogenic fungi such as
+       <italic>
+        Histoplasma capsulatum
+       </italic>
+       ,
+       <italic>
+        Paracoccidioides brasiliensis
+       </italic>
+       and
+       <italic>
+        Coccidioides immitis
+       </italic>
+       , and the environmental bacterium
+       <italic>
+        Legionella pneumophila
+       </italic>
+       are examples of airborne pathogens.
+      </p>
+      <p id="p0410">
+       Exogenous infections, predominant in the past, have dramatically declined in the industrialized world thanks to improved hygiene, vaccination programs and infection control programs, but are still prevalent in areas with limited resources. Pneumococcal pneumonia, diarrheal diseases from contaminated food and water, malaria, measles, AIDS and tuberculosis are among the main causes of mortality in low- and middle-income countries. In the 1990s, a large diphtheria epidemic occurred in Russia as the result of the collapse of the public health infrastructure. Clearly, despite decades of vaccine use, pathogenic microbes are still in the population and can become epidemic even in technologically advanced countries if vaccination efforts are neglected.
+      </p>
+     </sec>
+    </sec>
+    <sec id="s0115">
+     <title>
+      The Infection Process
+     </title>
+     <sec id="s0120">
+      <title>
+       Attachment to Host Cells
+      </title>
+      <p id="p0415">
+       Only a few pathogens can pass directly through the skin. Examples include the cercariae of various
+       <italic>
+        Schistosoma
+       </italic>
+       species and hookworm larvae, which can invade the skin with the help of their glandular secretions. Many other pathogens enter the body after insect bites, e.g.
+       <italic>
+        Simulium
+       </italic>
+       blackfly bite for
+       <italic>
+        Onchocercus volvulus
+       </italic>
+       , and anopheles mosquito bite for malaria. Injection of contaminated medications or blood can transmit various blood-borne pathogens, such as hepatitis B and C virus, HIV, West Nile virus, syphilis and malaria, or cause infections with environmental fungi.
+      </p>
+     </sec>
+     <sec id="s0125">
+      <title>
+       Adherence
+      </title>
+      <p id="p0420">
+       For many microbial and viral pathogens, adherence to the epithelial surface of the respiratory, digestive or reproductive mucosa is a compulsory step in pathogenesis. The approach of micro-organisms to an epithelial surface is guided by a balance between attractive and repulsive forces. Initial contact may involve nonspecific interactions, such as those between exposed hydrophobic structures on the microbial cell envelope and lipophilic areas on the cell membrane, but eventually, multiple high-affinity contacts between the microbe and the cellular surface establish virtually irreversible association. Even for viruses, attachment may involve multiple adhesins. Interestingly, carbohydrate capsules on respiratory pathogens appear to interfere with epithelial cell adherence and encapsulated bacteria downregulate capsule expression in order to adhere to or invade epithelial cells.
+      </p>
+      <p id="p0425">
+       Specific adherence involves microbial adhesins on the one side and host cell receptors on the other. Specificity of adherence accounts for the early observation that many pathogens infect certain areas or organs of the body and not others. For instance, the receptors for poliovirus, rhinovirus and HIV are expressed only by specific cell types, restricting virus replication accordingly. Different strains of influenza virus adhere via the hemagglutinin to different sialic acids, and this largely determines not only their host range but also their organ tropism. These and many other examples support the notion that adhesins can determine the tropism of microbial pathogens. Pathogens such as
+       <italic>
+        S. enterica
+       </italic>
+       serovar Typhimurium have as many as 12 different fimbriae devoted to adhesion, which may explain its broad host range.
+      </p>
+     </sec>
+     <sec id="s0130">
+      <title>
+       Ubiquitous Receptors
+      </title>
+      <p id="p0430">
+       On the other hand, cell receptors for many organisms are ubiquitous and these organisms have no tissue or even host restriction. Fibrinogen, fibronectin, collagen and heparin-related polysaccharides are major components of the extracellular matrix (ECM) that coats the mucosal surface of epithelial cells. Members of the integrin family are involved in the interaction between the ECM and the underlying epithelium. A number of components of the ECM are used as receptors for microbial adhesins and viral receptor proteins.
+       <italic>
+        Staph. aureus
+       </italic>
+       has cell wall proteins that recognize nearly all ECM proteins including fibronectin, elastin, von Willebrand factor, vitronectin and collagen.
+      </p>
+      <p id="p0435">
+       Attachment to fibronectin is also required for
+       <italic>
+        Staph. aureus
+       </italic>
+       to invade non-phagocytic cells. Fibronectin specifically binds factors on the cell envelopes of other bacteria including
+       <italic>
+        Strep. pyogenes
+       </italic>
+       ,
+       <italic>
+        Treponema pallidum
+       </italic>
+       ,
+       <italic>
+        Mycobacterium
+       </italic>
+       spp. and
+       <italic>
+        Orientia tsutsugamushi
+       </italic>
+       , the etiologic agent of scrub typhus. Fibrinogen binds groups A, C and G streptococci and a member of the integrin family binds the major invasion factor of
+       <italic>
+        Yersinia pseudotuberculosis
+       </italic>
+       . Their abundance and structural conservation among mammalian species make ECM components ideal targets for bacterial adhesins.
+      </p>
+     </sec>
+     <sec id="s0135">
+      <title>
+       Bacterial Adhesins
+      </title>
+      <p id="p0440">
+       Close contact between micro-organism and host cell represents an essential step in pathogenesis. It optimizes the interaction of microbial virulence factors with the target cell to allow the pathogen to penetrate or cause local cell damage, or both. Other possible functions of adhesins include modulation of the inflammatory response, adhesin-directed degranulation from mast cells and adhesin-mediated bacterial phagocytosis by neutrophils. Bacteria use two general strategies to attach themselves to host cells: fimbrial and afimbrial adhesion (
+       ).
+      </p>
+      <sec id="s0140">
+       <title>
+        Pili and Fibrillae.
+       </title>
+       <p id="p0445">
+        Attachment of bacteria to the plasma membrane can be mediated by filamentous structures protruding from the bacterial surface, called fimbriae or curli. The classification of these colonization factors is based on morphologic criteria. Fimbriae (or common pili) are rigid hair-like structures with a regular diameter, whereas curli are amyloid-like fibers. These structures are distinct from sex pili used for bacterial conjugation.
+       </p>
+       <p id="p0450">
+        Twenty different colonization factors have been described for
+        <italic>
+         E. coli
+        </italic>
+        .
+        One of these, the P-pilus, is expressed by uropathogenic
+        <italic>
+         E. coli
+        </italic>
+        and mediates adherence to the epithelium of the upper urinary tract.
+        It recognizes the glycolipid receptor globobiose (α-1–4 linked di-galactose) on the host cell surface.
+        <italic>
+         E. coli
+        </italic>
+        can express several different pili, but not simultaneously. For instance, the mannose-binding pilus is expressed when
+        <italic>
+         E. coli
+        </italic>
+        are in the bladder and the P-pilus is not.
+       </p>
+      </sec>
+      <sec id="s0145">
+       <title>
+        Afimbrial Adhesins.
+       </title>
+       <p id="p0455">
+        Afimbrial adhesins, such as lectins (carbohydrate-binding proteins), also mediate tight binding between the bacteria and the host cell but, unlike pili, they do not form supramolecular structures. Similar adhesins exist in viruses, fungi and protozoa. Afimbrial binding has been extensively studied in
+        <italic>
+         S. pyogenes
+        </italic>
+        (
+        ). Two surface components are believed to be critical in the colonization of an epithelial surface: lipoteichoic acid and fibronectin-binding protein.
+       </p>
+      </sec>
+     </sec>
+     <sec id="s0150">
+      <title>
+       Viral Adhesion
+      </title>
+      <p id="p0460">
+       Adhesion is the first step in viral replication. Several viral proteins may be required to mediate attachment, viral fusion and entry into the cell. For example, the HIV gp120 protein first attaches to the CD4 molecule on the cell surface, exposing an area of gp120 that interacts with a seven-loop transmembrane protein co-receptor, triggering fusion via a portion of the gp41 transmembrane protein. In rotavirus, too, different viral proteins interact with membrane carbohydrates, integrins and a heat shock protein to mediate attachment and entry.
+      </p>
+      <p id="p0465">
+       For some viruses (typically enveloped viruses, including measles and mumps viruses
+       ), attachment proceeds via direct fusion with the cell plasma membrane. These virions have a transmembrane fusion protein that induces contact between the viral and cellular lipid bilayers. Alternatively, attachment may trigger endocytosis, proceeding through clathrin-coated pits, frequently involving acidification of the vesicle to trigger structural changes in viral proteins that result in escape from the endolysosome into the cytoplasm. This pathway is used by many non-enveloped viruses, including adenovirus, rhinovirus and other enteroviruses.
+      </p>
+      <p id="p0470">
+       Cell specificity (‘tropism’) may be relaxed for viruses that use ubiqui­tous receptors or strongly restricted for viruses requiring two or more cellular receptors. As noted, HIV requires co-expression of CD4 and one of several chemokine receptors for efficient infection, and it principally infects only CD4
+       lymphocytes and monocyte/macrophages. In contrast, herpes simplex virus type 1 has four envelope glycoproteins that interact with cell surface receptors: gB and gC interact with heparin sulfate ubiquitously present on cell plasma membranes, while glycoprotein D interacts with nectin-1 or herpesvirus entry mediator (HVEM), widely expressed on epithelial cells and some neurons.
+      </p>
+      <p id="p9250">
+       These different envelope proteins mediate infection of epithelial (skin and mucosal) and neural cells, respectively, after passing into axon termini of neurons. Tropism is not always restricted by surface binding. The JC polyoma virus receptor, sialyl (α2–6) Gal, has a wide distribution in human tissues, while virus replication occurs only in oligodendrocytes, urothelial cells and possibly B lymphocytes.
+      </p>
+      <p id="p0475">
+       Viral adherence and invasion can be blocked by neutralizing antibodies that specifically bind the active site(s) of the adhesin(s). However, many viruses hide these region(s) in protein pockets (or ‘canyons’) or behind attached sugars, making them inaccessible to neutralizing antibodies, escaping humoral immunity. The relative infidelity of viral polymerases generates mutants during replication which facilitates escape from host immunity.
+      </p>
+     </sec>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s0155">
+    <title>
+     Invasion
+    </title>
+    <sec id="s0160">
+     <title>
+      Invasive and Noninvasive Micro-Organisms
+     </title>
+     <p id="p0480">
+      Many micro-organisms, including those of the natural flora, remain at the epithelial surface without invading the underlying tissue (
+      ). This type of colonization is usually harmless although there are exceptions.
+      <italic>
+       Corynebacterium diphtheriae
+      </italic>
+      , which causes pharyngitis, and
+      <italic>
+       Bordetella pertussis
+      </italic>
+      , which causes whooping cough
+      <italic>
+       ,
+      </italic>
+      produce their illnesses via locally released toxins. Some strains of
+      <italic>
+       Staph. aureus
+      </italic>
+      carry a gene on a mobile genetic element that encodes a super-antigen (TSST-1) that can be absorbed from a mucosal surface and precipitate ‘toxic shock’.
+     </p>
+     <p id="p0735">
+      Some micro-organisms gain access to deeper tissues only after a physical or chemical injury of the epithelial barrier. This happens after burns damage the skin epithelial barrier. Invasive micro-organisms exhibit the capacity to penetrate the target tissue to which they adhere without the need for local disruption of the protective epithelium. Invasive bacteria have developed the capacity to enter host cells that are not naturally phagocytic. Penetration into these ‘nonprofessional’ phagocytes is achieved by either engulfment or zippering.
+      <italic>
+       S. enterica
+      </italic>
+      and
+      <italic>
+       Shigella
+      </italic>
+      spp. are examples of bacteria that induce their own engulfment using type III secretion systems to rearrange the host cell cytoskeleton by injecting proteins that mimic host enzymes through the host cell membrane, resulting in actin rearrangement so that the bacteria are carried into the cell (
+      ). The bacteria inject additional enzymes that restore the cytoskeleton to its original shape and restore cellular integrity. In contrast, bacteria such as
+      <italic>
+       Listeria monocytogenes
+      </italic>
+      and
+      <italic>
+       Yersinia pseudotuberculosis
+      </italic>
+      use a ‘zipper’ mechanism to enter cells that starts with binding to integrins on the cell surface, which leads to cytoskeletal rearrangements.
+      <italic>
+       Listeria
+      </italic>
+      uses a second adhesion factor to enter hepatic cells, attaching to the hepatocyte growth factor receptor, which triggers phosphatidylinositol (PI) 3 kinase activation. Surprisingly,
+      <italic>
+       Listeria
+      </italic>
+      enters all cells in a clathrin-dependent, endocytic manner. The adapter protein Dab2 is required for the formation of these clathrin-coated pits and for the recruitment of myosin IV, initiating a process that provides a pulling force for
+      <italic>
+       Listeria
+      </italic>
+      internalization.
+     </p>
+     <p id="p0740">
+      In some cases, such as shigellosis, the infection remains confined to the surface epithelium (see
+      ), but in others the micro-organisms are transported across the epithelium and released into the subepithelial space. This process is called transcytosis and involves the host cell actin network. After transcytosis, the underlying tissues may be invaded and infection may spread (e.g.
+      <italic>
+       N. meningitidis
+      </italic>
+      may cross the pharyngeal epithelium, enter the blood and cause meningitis). Some pathogens, such as
+      <italic>
+       Strep. pyogenes
+      </italic>
+      , usually cause disease on an epithelial surface, but they are also capable of invading epithelial cells and causing deep tissue infections. For a more detailed analysis of the mechanisms of invasion, we shall use the example of enteroinvasive pathogens.
+     </p>
+     <sec id="s0165">
+      <title>
+       Enteroinvasive Pathogens and the Membranous Cell Gateway
+      </title>
+      <p id="p0745">
+       Acute infectious diarrhea spans the clinical spectrum from watery diarrhea to dysentery (bloody diarrhea). Dysentery occurs when the pathogen invades the intestinal mucosa and causes structural damage to the intestine. The immunologic protection of the intestine is performed by epithelial cells themselves and the gut-associated lymphocytes, which are separated from the intestinal lumen by epithelium. There are both intraepithelial lymphocytes and localized lymphoid follicles that are covered by membranous cells (M cells) that play a prominent role in intestinal immunity because they are specialized in the transport of antigens. Enteroinvasive viruses, protozoa and bacteria adhere to M cells and exploit their transport functions to invade the host. Infection by poliovirus may proceed by such a route.
+      </p>
+      <p id="p0750">
+       Enteroinvasive bacteria such as
+       <italic>
+        Salmonella
+       </italic>
+       ,
+       <italic>
+        Shigella
+       </italic>
+       and
+       <italic>
+        Yersinia
+       </italic>
+       spp. appear to distinguish between different subsets of M cells. Membranous cells produce glycocalyx containing distinctive lectin-binding sites. Diversity in lectin-binding sites between different locations of the gut may account for the tropism of enteric pathogens, such as the preferential colonization of colonic mucosa by
+       <italic>
+        Shigella
+       </italic>
+       spp., versus the terminal ileum for
+       <italic>
+        Salmonella
+       </italic>
+       spp. Following adherence, the interactions with the M cells vary according to the pathogen (
+       ). Enteroadherent
+       <italic>
+        E. coli
+       </italic>
+       are not internalized and hence are not invasive.
+       <italic>
+        V. cholerae
+       </italic>
+       is taken up and transported by the M cells but rapidly killed thereafter.
+      </p>
+      <p id="p0755">
+       The
+       <italic>
+        Salmonella
+       </italic>
+       and
+       <italic>
+        Shigella
+       </italic>
+       spp. genes involved in invasion of the eukaryotic host cell are homologous and have been remarkably well conserved with respect to both individual coding sequences and genetic organization.
+       Molecular analyses of virulence factors produced by enteroinvasive
+       <italic>
+        Shigella
+       </italic>
+       spp. have revealed that all virulent species harbor a 220 kb plasmid, of which a 31 kb operon, encoding 32 genes, is both necessary and sufficient for invasion of epithelial cells.
+       The
+       <italic>
+        Salmonella
+       </italic>
+       spp. entry functions are clustered in a 35–40 kb pathogenicity island.
+       Using type III secretion systems, a needle-like molecular complex, invasive bacteria inject effector proteins into the cytosol and the plasma membrane of the target cell.
+       ,
+       Some of these effector proteins specifically modify the activities of cellular small GTPases (see
+       ), inducing cytoskeleton alterations required for bacterial internalization.
+      </p>
+      <p id="p0760">
+       An important difference between the pathogenic lifestyles of these two bacterial species involves their intracellular fate. Once internalized, both are enclosed by a host cell membrane in an endocytic vesicle, but
+       <italic>
+        Shigella
+       </italic>
+       spp. escape from the endosome into the cytoplasm soon after entry, whereas
+       <italic>
+        Salmonella
+       </italic>
+       spp. have adopted an entirely different strategy. Salmonellae modify the endocytic pathway of the host cell by means of virulence factors encoded largely by another pathogenicity island, avoiding exposure to cellular bactericidal mechanisms. Although only some of the cellular targets of the translocated bacterial virulence proteins have been identified to date, it is clear that the physiology of the infected cell is profoundly modified to suit bacterial growth and maintenance.
+      </p>
+     </sec>
+    </sec>
+    <sec id="s0170">
+     <title>
+      Actin-Based Intracellular Motility of Microbial Pathogens
+     </title>
+     <p id="p0765">
+      <italic>
+       L. monocytogenes
+      </italic>
+      ,
+      <italic>
+       Rickettsia
+      </italic>
+      spp.,
+      <italic>
+       Shigella
+      </italic>
+      spp., vaccinia, measles and rabies viruses actively modify actin to move about within the cytoplasm of infected cells and to invade neighboring cells. Microbial products induce the formation of actin cross-linked filaments, which assemble in characteristic ‘comet-like tails’ (
+      ).
+      Elongation of the actin filaments generates sufficient force to move the micro-organisms through the cytoplasm at rates of 2–100 mm/min.
+      <italic>
+       Listeria
+      </italic>
+      penetrates enterocytes using products encoded by the internalin (
+      <italic>
+       inl
+      </italic>
+      ) family of genes, which seem to confer tropism for different cell types.
+      Once inside the cell,
+      <italic>
+       L. monocytogenes
+      </italic>
+      escapes the phagosome into the cytosol by rapidly lysing the endosomal membrane via the action of listeriolysin O, its hemolysin. Actin polymerization is then induced by ActA, localized at one end of the bacterium. Listerial lecithinase and phospholipase C facilitate cell-to-cell spread, dissolving the double membranes that separate bacteria from the cytoplasm of neighboring cells. In this fashion the bacteria spread throughout the body, infecting endothelial cells, Kupffer cells, hepatocytes and placental trophoblasts while avoiding exposure to humoral and cellular defenses. Intracytoplasmic bacteria do still stimulate cell innate immune responses via Nod signaling.
+     </p>
+    </sec>
+    <sec id="s0175">
+     <title>
+      Subepithelial Invasion and Spread Through the Body
+     </title>
+     <p id="p0770">
+      Invasion from the epithelium into the deeper tissues can only be achieved by micro-organisms that effectively resist or subvert the host defense mechanisms in the subepithelial space, most prominently phagocytosis.
+     </p>
+     <p id="p0775">
+      Some organisms take advantage of the normal transport of antigens and are carried by dendritic cells to regional lymph nodes. In the lymph nodes, resident macrophages and polymorphonuclear cells actively fight the invaders. As a result, draining lymph nodes are often inflamed. If the invading micro-organism is sufficiently virulent or present in sufficiently large numbers, it may pass into efferent lymphatic vessels to be conducted to the bloodstream. The result is primary bacteremia or viremia.
+     </p>
+     <p id="p0780">
+      Once in the bloodstream, the micro-organisms can circulate as either an extracellular or an intracellular species. Pathogens have been found in polymorphonuclear cells (
+      <italic>
+       Anaplasma
+      </italic>
+      ), lymphocytes (HIV, EBV), macrophages (
+      <italic>
+       M. tuberculosis
+      </italic>
+      ,
+      <italic>
+       H. capsulatum
+      </italic>
+      and CMV) and even in red blood cells (
+      <italic>
+       Plasmodium
+      </italic>
+      spp.,
+      <italic>
+       Bartonella bacilliformis
+      </italic>
+      ). Intracellular transport protects against potent humoral factors in the plasma, such as complement.
+     </p>
+     <sec id="s0180">
+      <title>
+       Infection of Distant Target Organs
+      </title>
+      <p id="p0785">
+       Transported by the bloodstream, invasive micro-organisms reach distant organs and create metastatic infection throughout the body. Organs containing macrophages and abundant capillary and sinusoid networks (e.g. lungs, liver, spleen, kidneys, bone marrow) that are exposed directly to circulating blood are especially vulnerable. Slow blood flow and increased surface area in these sites provide the micro-organisms enhanced opportunity to adhere and establish infection. The epiphyses of long bones in children are another important target for certain pathogens such as
+       <italic>
+        Staph. aureus
+       </italic>
+       and
+       <italic>
+        H. influenzae
+       </italic>
+       . From these target organs, the invaders may produce a secondary bacteremia or viremia of higher intensity than during primary infections.
+      </p>
+     </sec>
+     <sec id="s0185">
+      <title>
+       Viral Invasion: the Example of Measles Virus
+      </title>
+      <p id="p0790">
+       Inhaled airborne measles virus enters via the membrane co-factor protein (CD46)
+       and/or the signaling lymphocyte activation molecule (SLAM/CD150)
+       on the epithelial surface of the respiratory mucosa. After 2–4 days of local replication in the lining of the trachea and bronchi, pulmonary macrophages carry the virus to the regional lymph nodes, where the infection causes formation of reticuloendothelial giant cells. Progeny virions enter the bloodstream, and the virus spreads to the spleen, lymph nodes, the lung, nasopharynx, oral mucosa, thymus, liver, skin and the central nervous system, with increasing viremia over the next 4–5 days. Virus shedding from the nasopharynx begins 12–13 days after infection, before symptoms or rash develop, increasing transmissibility, so that the attack rate exceeds 80% in nonimmune contacts.
+      </p>
+      <p id="p0795">
+       These pathogenic steps correspond to different clinical manifestations. During the 10-day incubation period, infection and primary viremia proceed with no symptoms. Fever, malaise, cough and conjunctivitis appear during secondary viremia, followed by rash. The characteristic morbilliform exanthem consists of a perivascular mononuclear infiltrate, including cytotoxic T cells that have migrated to the site of infected endothelial and overlying dermal cells. Virus infection produces epithelial giant cells, but does not directly destroy infected cells in the skin. Leukopenia occurs late in viremia, and immune suppression can be seen from the time of appearance of symptoms until 2–3 weeks after clinical infection resolves (see Chapter 163).
+      </p>
+     </sec>
+    </sec>
+    <sec id="s0190">
+     <title>
+      Cell and Tissue Damage Induced by Micro-Organisms
+     </title>
+     <p id="p0800">
+      Infectious disease is often characterized by cell and tissue damage. Paralysis in poliomyelitis, exanthem in varicella, gastroduodenal ulcers in
+      <italic>
+       Helicobacter pylori
+      </italic>
+      infections and bloody diarrhea in shigellosis all result from damage caused directly or indirectly by micro-organisms. Cell damage can be generated by a variety of different mechanisms (
+      ).
+     </p>
+    </sec>
+    <sec id="s0195">
+     <title>
+      Bacterial Toxins
+     </title>
+     <p id="p0805">
+      Bacteria produce a large diversity of toxins, which have been classified according to their mode of action (
+      ). Historically, exotoxins were defined as soluble substances made by bacteria that have deleterious effects on the host. As we learn more about the mechanisms of action of exotoxins, the distinction between them and secreted enzymes that play a role in pathogenesis is disappearing. The clostridial neurotoxins are good examples of proteases that are exotoxins. These toxins, which are responsible for tetanus and botulism, are zinc metalloproteases that cleave synaptobrevins so that docking and fusion of synaptic vesicles are impaired. The localization of the toxins to different nerve junctions is what determines the different clinical presentations of these diseases.
+     </p>
+     <p id="p0810">
+      Cholera toxin ADP ribosylates G
+      <sub>
+       s
+      </sub>
+      protein, locking it into the ‘on’ position, resulting in unregulated activity of adenyl cyclase and high intracellular levels of cAMP. The characteristic illness produced by cholera toxin is not due to the specificity of the toxin binding or its function but rather to the location of the pathogen;
+      <italic>
+       V. cholera
+      </italic>
+      is an extracellular mucosal pathogen so only intestinal epithelial cells are exposed to the toxin
+      <italic>
+       in vivo
+      </italic>
+      .
+     </p>
+     <p id="p0815">
+      Traditionally, exotoxins are said to be excreted toxins. However, some so-called exotoxins are actually intracellular and are released into the environment only after cell lysis. The pneumolysin of
+      <italic>
+       Strep. pneumoniae
+      </italic>
+      , for example, is cytoplasmic, the adenylate cyclase of
+      <italic>
+       B. pertussis
+      </italic>
+      is associated with the cytoplasmic membrane, and the heat-labile toxin 1 (LT-1) from
+      <italic>
+       E. coli
+      </italic>
+      is periplasmic. Others may be released by localized disruption of the cell wall, such as the newly described typhoid toxin.
+     </p>
+     <p id="p0820">
+      The genetic information that encodes bacterial toxins is frequently carried on mobile DNA elements that readily pass from one microbial host to another. The toxins that cause diphtheria, cholera, botulism and scarlet fever, and EHEC-associated hemolytic uremic syndrome are encoded by temperate bacteriophages. Genes for LT-1 and heat-stable toxin (Sta) of
+      <italic>
+       E. coli
+      </italic>
+      are carried on plasmids.
+     </p>
+     <sec id="s0200">
+      <title>
+       The Diphtheria Toxin as Example of an A–B Toxin
+      </title>
+      <p id="p0825">
+       Diphtheria toxin belongs to the so-called bifunctional A–B toxins (
+       ). Portion A mediates the enzymatic activity responsible for halting protein synthesis in the target cell while portion B binds to a cell receptor and mediates the translocation of the A chain into the cytosol. Portion B accounts for the cell and species specificity of the A–B toxins. The B chain of diphtheria toxin recognizes a heparin-binding precursor of epidermal growth factor, an important hormone for cell growth and differentiation. Uptake of diphtheria toxin proceeds via receptor-mediated endocytosis. Acidification of the endocytic vesicle induces a conformational change in the enclosed holotoxin, enabling the A subunit to traverse the membrane and reach its cytoplasmic target. The A subunit of diphtheria toxin catalyzes ADP ribosylation of the elongation factor-2 (EF-2), inactivating it. The
+       <italic>
+        tox
+       </italic>
+       gene is encoded by a phage and is under the control of the repressor protein DtxR, which forms an iron complex, DtxR-Fe (
+       ), that binds DNA and represses
+       <italic>
+        tox
+       </italic>
+       expression. Thus diphtheria toxin is only synthesized under low iron conditions, suggesting that it may be produced to stimulate iron release from target cells. Interestingly, the
+       <italic>
+        Pseudomonas aeruginosa
+       </italic>
+       exotoxin A has a very similar structure, but uses a different cell receptor: the α-2 macroglobulin low-density lipoprotein receptor. Like diphtheria toxin, exotoxin A enters the cell via receptor-mediated endocytosis but the toxin is released only after passage through the Golgi system.
+      </p>
+     </sec>
+     <sec id="s0205">
+      <title>
+       Hydrolyzing Enzymes
+      </title>
+      <p id="p0830">
+       Microbial pathogens often secrete hydrolyzing enzymes, such as proteases, hyaluronidases, coagulases and nucleases. These enzymes do not harm host cells directly and are therefore not considered to be toxins; however, they can facilitate infection by a variety of mechanisms, including proteolysis of IgA, liquefaction of pus, induction of plasma clotting (which may hinder the influx of phagocytes) and the destruction of extracellular DNA nets produced by polymorphonuclear neutrophils (PMNs).
+      </p>
+     </sec>
+     <sec id="s0210">
+      <title>
+       Apoptosis
+      </title>
+      <p id="p0835">
+       Apoptosis is a process in which the cell activates an intrinsic suicide program. It plays a key role in organ development, tissue repair and maintenance of the equilibrium of the immune system, processes that depend on the addition of new cells and elimination of ‘old’ cells. Apoptosis is characterized by reduction of the volume of the cytosol and nuclear condensation (
+       ). Genomic DNA is cleaved by an endonuclease that cuts the DNA into multiples of 180–200 bp.
+       Finally, the remains of the cell are removed by macrophage phagocytosis, without triggering an accompanying inflammatory response.
+      </p>
+      <p id="p0840">
+       Viral infection often triggers apoptosis of infected cells due to interruption of protein synthesis, transcription or signaling. Apoptosis seems to contribute to the depletion of CD4
+       T cells, both in cell culture and in HIV-infected persons.
+       Several different HIV proteins promote or inhibit apoptotic cell death.
+       Similarly, lytic infection by EBV and adenoviruses produce apoptosis, while EBV latent membrane protein 1 (LMP-1) inhibits apoptosis in latency.
+       Apoptosis may benefit the host, to the extent it eliminates cells before they produce a full complement of progeny virus.
+      </p>
+      <p id="p0845">
+       Bacteria can also induce apoptosis.
+       <italic>
+        B. pertussis
+       </italic>
+       , the agent of whooping cough, triggers macrophage apoptosis by interfering with cellular regulation at the level of the cytoplasmic second messenger cyclic AMP (cAMP).
+       The bacterium induces high levels of cytoplasmic cAMP, favoring the induction of apoptosis.
+       <italic>
+        Shigella flexneri
+       </italic>
+       , a cause of dysentery, can kill macrophages by apoptosis. Cell death is induced by invasion plasmid antigen B (IpaB) encoded by the
+       <italic>
+        Shigella
+       </italic>
+       virulence plasmid.
+       The
+       <italic>
+        Shigella
+       </italic>
+       IpaB protein binds to the host cytoplasmic enzyme interleukin IL-1β converting enzyme (caspase-1) and activates it.
+       Caspase-1 activates the proinflammatory cytokines IL-1β and IL-18 by proteolytic cleavage and initiates one of the pro-apoptotic pathways.
+      </p>
+     </sec>
+     <sec id="s0215">
+      <title>
+       Virus-Induced Cytopathic Effect
+      </title>
+      <p id="p0850">
+       Many viruses damage the cells they infect, sometimes inducing visible and distinctive cytopathic effects (
+       ), mediated by virus replication and/or the host immune response. Poliovirus protease 2A shuts off host cell protein translation by cleaving eIF4G, needed for recognition of capped mRNA and cellular protein synthesis
+       and coxsackie B protease 2A cleaves dystrophin in cardiac muscle, contributing to myocardititis.
+       In contrast, infection with hepatitis A and hepatitis C viruses produces very little direct killing of hepatocytes, with most liver damage resulting from the host\s cytotoxic lymphocyte response.
+      </p>
+      <p id="p0855">
+       Virus infection may also result in intracellular accumulation or release of small molecules, such as reactive oxygen or nitric oxide, probably via effects on cellular signaling pathways or induction of innate immune responses. These may play important roles in cell destruction, particularly in macrophages. Rotavirus, CMV and HIV infection produce significant increases in intracellular calcium, a common pathway for the development of irreversible cell injury.
+      </p>
+      <p id="p0860">
+       Viral fusion proteins mediate characteristic formation of multinucleated giant cells (syncytia). Examples include respiratory syncytial virus, parainfluenza viruses, measles virus, herpesviruses and some retroviruses. Viral infection can also produce eosinophilic or basophilic inclusion bodies in the cytoplasm or the nucleus, representing aggregates of mature virions, sites of viral replication, viral assembly or degenerative changes.
+      </p>
+     </sec>
+     <sec id="s0220">
+      <title>
+       Infection and Cancer
+      </title>
+      <p id="p0865">
+       Infection can favor development of cancer by producing chronic inflammation, impairing immune surveillance and directly altering cell growth and death, for example:
+       <list id="ulist0110" list-type="simple">
+        <list-item id="u0420">
+         <label>
+          •
+         </label>
+         <p id="p0870">
+          chronic
+          <italic>
+           H. pylori
+          </italic>
+          infection is associated with gastric adenocarcinoma and mucosa-associated lymphoid tissue (MALT) lymphoma;
+         </p>
+        </list-item>
+        <list-item id="u0425">
+         <label>
+          •
+         </label>
+         <p id="p0875">
+          <italic>
+           Schistosoma haematobium
+          </italic>
+          infestation is associated with bladder cancer;
+         </p>
+        </list-item>
+        <list-item id="u0430">
+         <label>
+          •
+         </label>
+         <p id="p0880">
+          inflammation from HCV and HBV is a cause of hepatocellular carcinoma.
+         </p>
+        </list-item>
+       </list>
+       It is possible that different types of infection may act together in promoting neoplasia. For example, human papillomavirus (HPV) has been found to be present in all bladder tumors associated with schistosomiasis but only the minority without parasitic infestation. Expression of viral oncogenes drives cellular proliferation and impairs apoptosis, producing disordered growth (transformation) that may lead to cancer. For example Burkitt\s-type lymphoma and craniopharyngioma are associated with EBV while cervical, oral and anogenital carcinomas are associated with HPV, Kaposi\s sarcoma-associated herpesvirus produces Kaposi\s sarcoma, and adult T-cell leukemia is caused by human T-cell lymphotropic virus type 1.
+      </p>
+      <p id="p0885">
+       In the case of HPV, persistent infection with ‘high-risk’ strains (e.g. HPV16 and 18) leads to atypia that progresses to invasive carcinoma.
+       When HPV integrates, E2 expression is disrupted, resulting in unchecked expression of E6 and E7, which knock out important tumor-suppressor proteins. E7 binds to retinoblastoma protein (Rb) and cyclins A and E, allowing Rb phosphorylation and release of the E-2F, promoting G1 to S cell cycle transition and unchecked cellular proliferation.
+       E6 functions as a ubiquitin ligase to degrade the p53 anti-oncogene, which arrests the cell-division cycle when DNA is damaged, and then activates DNA repair or initiates cell death. Without p53, a cell replicates wildly even with damaged DNA. Further chromosomal instability and mutations promoted by enhanced viral expression promote the transformation of infected cells to a malignant phenotype.
+      </p>
+     </sec>
+     <sec id="s0225">
+      <title>
+       Damage Resulting from Cytotoxic Lymphocytes
+      </title>
+      <p id="p0890">
+       Host defense against most viral infections is mediated by the CD8
+       cytotoxic T lymphocytes (CTLs) and NK (natural killer) cells. CD8
+       lymphocytes recognize, attack and lyse virus-infected cells that present viral antigens on their surface in the context of MHC class I molecules while NK cells attack stressed cells that do not display MHC I. The cytotoxic reaction contributes to the pathologic and clinical picture of many viral diseases, including measles and hepatitis A and C as noted above. Lymphocyte-induced cytotoxicity may also contribute to the pathology associated with persistent virus infections such as subacute sclerosing panencephalitis, caused by defective measles virus within the brain.
+      </p>
+     </sec>
+    </sec>
+    <sec id="s0230">
+     <title>
+      Harmful Immune Responses
+     </title>
+     <p id="p0895">
+      The destructive potential of the immune system is considerable. It can damage the host in a variety of ways.
+     </p>
+     <sec id="s0235">
+      <title>
+       Autoimmunity
+      </title>
+      <p id="p0900">
+       Autoimmune reactions break the ‘self versus non-self’ dichotomy rule. Autoimmune reactions, directed against ‘self-proteins’, may result from similarity between antigenic determinants of the host and an infective agent or from alterations of self-components caused by infection. Acute rheumatic fever (ARF), which occurs after Group A streptococcal pharyngitis, has been associated with antibodies against antigens found in the cell wall of the streptococcus that also recognize components of the endocardium, synovial membranes, and neurons in the brain.
+       These are the organs that are affected in ARF. Another example of molecular mimicry is the association between production of anti-ganglioside antibodies, the Miller–Fisher (MFS) variant of the Guillain–Barré syndrome (GBS), and prior
+       <italic>
+        C. jejunii
+       </italic>
+       infection. This illness is almost certainly due to cross-reacting antibodies against the sialylated LPS of
+       <italic>
+        C. jejunii
+       </italic>
+       .
+      </p>
+     </sec>
+     <sec id="s0240">
+      <title>
+       Hypersensitivity Reactions
+      </title>
+      <p id="p0905">
+       Hypersensitivity reactions occur if the host immune system seemingly overreacts to microbial infection. Hypersensitivity reactions have been classified by Gell and Coombs into four types.
+      </p>
+      <sec id="s0245">
+       <title>
+        Type I or Immediate Hypersensitivity.
+       </title>
+       <p id="p0910">
+        Type I hypersensitivity occurs within minutes of antigen exposure. It results from antigen binding to mast cell-associated IgE. Vasoactive amines are released and anaphylactic reactions may develop. Some rashes after helminth infections seem to be due to this Type I hypersensitivity.
+       </p>
+      </sec>
+      <sec id="s0250">
+       <title>
+        Type II or Cytotoxic Hypersensitivity.
+       </title>
+       <p id="p0915">
+        Type II hypersensitivity is a consequence of the binding of specific antibodies to cell surface-associated antigens. Antibody binding mediates cytotoxicity via complement activation or NK cells. Infected cells bearing foreign antigens are then lysed via an antibody-dependent mechanism. This mechanism may account for liver cell necrosis during hepatitis B infection.
+       </p>
+      </sec>
+      <sec id="s0255">
+       <title>
+        Type III or Immune Complex-Mediated Hypersensitivity.
+       </title>
+       <p id="p0920">
+        Type III hypersensitivity is induced by classic complement activation, caused by extracellular antibody–antigen complexes. This causes inflammation and changes in vascular permeability and attracts neutrophils to tissues where the immune complexes are deposited, including the kidneys, joints and small vessels of the skin. Glomerulonephritis in chronic malaria and subacute endocarditis are probably due to this mechanism. Some studies have shown that antibodies to viral proteins, including mimivirus viral collagens, which can produce arthritis in murine models, are increased in people with rheumatoid arthritis, but the role of exposure to viruses in generation of these antibodies remains unproven.
+       </p>
+      </sec>
+      <sec id="s0260">
+       <title>
+        Type IV or Delayed-Type Hypersensitivity.
+       </title>
+       <p id="p0925">
+        Type IV hypersensitivity typically occurs at least 48 hours after exposure to an antigen. It involves activated T cells, which release cytokines and chemokines, and macrophages and cytotoxic CD8
+        T cells that are attracted by these moieties. Delayed-type hypersensitivity and granuloma play a major role in tissue damage observed during infections with slow-growing intracellular organisms, such as
+        <italic>
+         M. tuberculosis
+        </italic>
+        (tuberculosis),
+        <italic>
+         M. leprae
+        </italic>
+        (leprosy) and
+        <italic>
+         H. capsulatum
+        </italic>
+        . Many of the clinical manifestations of chlamydial disease, in particular trachoma, seem to result from a delayed-type hypersensitivity triggered by chlamydial heat shock proteins. This is not an autoimmune phenomenon directed to heat shock proteins in general, because the unique rather than the conserved portions of these proteins seem to be implicated.
+       </p>
+      </sec>
+     </sec>
+     <sec id="s0265">
+      <title>
+       Superantigens and Bacterial Components Associated with Toxic and Septic Shock
+      </title>
+      <p id="p0930">
+       Toxic shock and septic shock are impressive syndromes associated with a variety of infectious diseases. Severe hypotension, multiple organ failure and intravascular disseminated coagulopathy occur in the most severe cases. Pathogenesis of these syndromes is complex. Various bacterial components, including LPS, peptidoglycans, lipoteichoic acid and (in some cases) exotoxins acting as superantigens (see
+       ) trigger an intense, potentially lethal host response. Macrophages, neutrophils and/or T cells play important roles in the cascade of events leading to this condition (see Chapters 11, 176 and 177) by releasing high levels of inflammatory response mediators, notably tumor necrosis factor and IL-1β.
+      </p>
+     </sec>
+    </sec>
+    <sec id="s0270">
+     <title>
+      How Micro-Organisms Escape Host Defense
+     </title>
+     <p id="p0935">
+      In spite of the efficacy of host defense mechanisms, microbial pathogens can still infect humans and cause disease. This is in part due to the very potent weapons micro-organisms have but it is also due to the intricate strategies that micro-organisms use to evade host defenses (
+      ).
+     </p>
+     <sec id="s0275">
+      <title>
+       Surviving the Phagocyte
+      </title>
+      <p id="p0940">
+       Invaded epithelial cells secrete IL-8, which attracts neutrophils (PMNs) so that immediately after passage through the epithelial barrier invading micro-organisms encounter the most powerful actors of host defense: phagocytes. The two main types of phagocyte are PMNs and macrophages. These ‘professional’ phagocytes can bind micro-organisms with a variety of receptors, some of which specifically interact with bacterial surface structures, or with antibodies or complement bound to the microbial surface (opsonized micro-organisms).
+      </p>
+      <p id="p0945">
+       Ingested bacteria are exposed to a multitude of phagocyte defense mechanisms in the endosomal pathway, including acidification, reactive oxygen species, antimicrobial peptides and hydrolytic enzymes released after phagosome–lysosome fusion. If the pathogens are killed and degraded in macrophages their microbial antigens may be presented via MHC II to lymphocytes.
+      </p>
+      <p id="p0950">
+       Facultative intracellular pathogens have developed strategies to avoid, mislead, deregulate, or even profit from residence in macrophages.
+       Organisms like
+       <italic>
+        Salmonella
+       </italic>
+       require acidification of the phagosome to trigger the PhoP/PhoQ transcriptional regulatory system that is required for their survival inside macrophages. In contrast,
+       <italic>
+        M. tuberculosis
+       </italic>
+       prevents acidification of the phagosome to varying degrees, and bacilli residing inside less acidic phagosomes remain metabolically active.
+      </p>
+     </sec>
+     <sec id="s0280">
+      <title>
+       Inhibition of Phagocyte Mobilization
+      </title>
+      <p id="p0955">
+       Extracellular micro-organisms can avoid phagocytes by inhibiting chemotaxis or complement activation.
+       <italic>
+        Strep. pyogenes
+       </italic>
+       and
+       <italic>
+        Strep. agalactiae
+       </italic>
+       make a bacterial enzyme that degrades complement protein C5a, a main chemoattractant for phagocytes. Pertussis toxin catalyzes ADP ribosylation in neutrophils, which causes a rise in intracellular cAMP levels that ultimately impairs chemotaxis.
+       <italic>
+        Yersinia pestis
+       </italic>
+       employs several secreted enzymes (YOPS) to subvert macrophage phagocytosis and ensure the bacteria remain extracellular.
+      </p>
+     </sec>
+     <sec id="s0285">
+      <title>
+       Killing the Phagocytes before Being Ingested
+      </title>
+      <p id="p0960">
+       Many soluble products excreted by bacteria are potentially toxic for phagocytes entering the foci of infection. Streptolysin-O binds to cholesterol in cell membranes, resulting in rapid lysis of PMNs, including their lysosomes, releasing their toxic contents, which may have additional deleterious effects on neighboring cells.
+       <italic>
+        Staph. aureus
+       </italic>
+       can express two bicomponent pore-forming leukotoxins, Panton-Valentine and leukotoxin AB, which bind selectively to human leukocytes. Many so-called extra-intestinal pathogenic
+       <italic>
+        E. coli
+       </italic>
+       are hemolytic because they produce an RTX membrane toxin that damages PMNs, impairing several functions, depending on the local concentration of the toxin. Several toxins from
+       <italic>
+        C. perfringens
+       </italic>
+       produce similar effects. Indeed, pus sampled from lesions of gas gangrene may contain numerous gram-positive rods without any visible PMNs.
+      </p>
+     </sec>
+     <sec id="s0290">
+      <title>
+       ‘Professional’ Phagocytes as Vectors or Refuges
+      </title>
+      <p id="p0965">
+       All organisms that have adapted to live inside phagocytic cells have developed mechanisms to escape, disarm or survive the onslaught of antimicrobial factors.
+       <italic>
+        L. pneumophila
+       </italic>
+       provokes entry in mononuclear phagocytes by accumulating the opsonin C3bi on the outer membrane. Macrophages ingest the bacteria via the receptor CR3. Following uptake,
+       <italic>
+        Legionella
+       </italic>
+       remains in phagosomes, which do not fuse with lysosomes thus providing a refuge for the bacteria. Alveolar macrophages are host cells for
+       <italic>
+        M. tuberculosis
+       </italic>
+       .
+       <italic>
+        S. enterica
+       </italic>
+       are ingested by intraepithelial dendritic cells and carried into regional lymph nodes and the systemic circulation by those cells. Many viruses (HIV, dengue virus, measles, etc.) infect and replicate in monocytes or macrophages. Infected monocytes may provide HIV with a route through the blood–brain barrier into the CNS
+       and dendritic cells loaded with infectious HIV may activate and infect T cells
+       (see Chapter 92).
+       <italic>
+        Ehrlichia
+       </italic>
+       are small, gram-negative, obligatory intracellular bacteria that enter the cytoplasm of macrophages via caveoli and block lysosomal fusion.
+      </p>
+     </sec>
+     <sec id="s0295">
+      <title>
+       Avoiding Ingestion
+      </title>
+      <p id="p0970">
+       Numerous pathogenic bacteria are covered with a loose network of polymers, which constitute the bacterial capsule.
+       Capsular material may be very thin, visible only by electron microscopy, as is the case with the hyaluronate capsule of
+       <italic>
+        S. pyogenes
+       </italic>
+       . In some species (
+       <italic>
+        Strep. pneumoniae
+       </italic>
+       ,
+       <italic>
+        Klebsiella pneumoniae
+       </italic>
+       ) capsule material is abundant, easily visible with a light microscope and responsible for the mucoid appearance of bacterial colonies. Most of the capsules are composed of polysaccharides. Some capsule contents mimic host polysaccharides and are thus recognized as ‘self’ by the host immune system. Examples include the capsules of
+       <italic>
+        N. meningitidis
+       </italic>
+       Group B, which contains sialic acid, and
+       <italic>
+        Strep. pyogenes
+       </italic>
+       , which contains hyaluronic acid. Proteins that envelop bacteria in S-layers can serve the same function as polysaccharides, as is seen in
+       <italic>
+        Campylobacter fetus
+       </italic>
+       and
+       <italic>
+        B. anthracis
+       </italic>
+       .
+      </p>
+      <p id="p0975">
+       Complement components C3b and C3bi are recognized by CR3 on phagocytes, and can amplify the opsonic activity of IgG antibodies. Children who lack C3, the central component of all three complement pathways, suffer from repeated bacterial infections and often die in infancy. Complement may be deposited on bacterial cell walls but capsules may mask the opsonins and so protect bacteria from phagocytosis.
+       Encapsulated
+       <italic>
+        Strep. pneumoniae
+       </italic>
+       resist engulfment by macrophages and PMNs and are virulent, while noncapsulated, avirulent mutants are easily ingested and killed by PMN.
+       <italic>
+        Schistosoma mansoni
+       </italic>
+       employs a different strategy to avoid activation of complement, incorporating decay accelerating factors in its membrane; these host plasma proteins inhibit deposition of C3 onto host cell membranes.
+      </p>
+      <p id="p0980">
+       M proteins, which form fibrillae (see
+       ), are necessary virulence determinants of
+       <italic>
+        Strep. pyogenes
+       </italic>
+       . M proteins form stable dimers, arranged in an α-helical, coiled coil configuration, with the carboxyl terminal portion closely associated with the cell wall (see
+       ). Streptococci that express M proteins on their surface are poorly opsonized by the alternative pathway and resist PMN phagocytosis. In contrast, streptococci that fail to express M protein are readily opsonized and phagocytosed, and are avirulent. The mechanism of antiphagocytic activity of M proteins remains unsettled.
+      </p>
+     </sec>
+     <sec id="s0300">
+      <title>
+       Survival within Phagocytes
+      </title>
+      <p id="p0985">
+       Once ingested by the phagocyte, the pathogen may survive and grow using a variety of strategies (
+       ). Some microbes prevent exposure to hydrolytic enzymes by inhibiting fusion of the phagosome and the lysosome, others survive within the phagolysosome because they resist enzymatic degradation or neutralize toxic products to which they are exposed in this compartment. Certain bacteria rapidly escape from the phagolysosome and propagate in the cytoplasm. Recent studies suggest that intracellular pathogens, notably
+       <italic>
+        M. tuberculosis
+       </italic>
+       , may inhibit the acidification of the phagolysosome by excluding vacuolar ATPase using a tyrosine kinase to dephosphorylate a host protein necessary for tethering of the ATPase to the phagosome.
+       <italic>
+        L. pneumophila
+       </italic>
+       accomplishes the same thing by disrupting another host membrane protein–protein interaction.
+      </p>
+     </sec>
+     <sec id="s0305">
+      <title>
+       Inactivation of Reactive Oxygen Species
+      </title>
+      <p id="p0990">
+       Reactive oxygen species damage DNA and inhibit bacterial oxidative phosphorylation. Bacteria may escape from the damaging effect of reactive oxygen species by rapid detoxification of the bactericidal products and by efficient DNA repair. Several bacterial pathogens produce superoxide dismutase (SOD) and catalase, two enzymes that degrade reactive oxygen species. Bacteria also express Rec-A enzymes to repair damaged DNA. In Salmonellae, the RecA pathway is critical, as
+       <italic>
+        rec
+       </italic>
+       A mutants are avirulent. The ability of
+       <italic>
+        S. enterica
+       </italic>
+       to modify the endocytic pathway of the host cell seems to be the most important mechanism of resistance to reactive oxygen species. In macrophages, virulent Salmonellae localize in phagosomes devoid of NADPH oxidase, the enzyme that drives the respiratory burst.
+      </p>
+     </sec>
+     <sec id="s0310">
+      <title>
+       Resistance to Antimicrobial Peptides
+      </title>
+      <p id="p0995">
+       Several cationic peptides produced within the lysosomal granules of phagocytes are believed to kill intracellular pathogens by forming channels in the bacterial cell wall.
+       <italic>
+        Salmonella
+       </italic>
+       spp. resist these antimicrobial peptides by at least two complementary mechanisms, one of which, encoded by the
+       <italic>
+        sap
+       </italic>
+       locus, has been characterized in some detail (
+       ). SapA protein forms a complex with the antimicrobial peptides, reducing the deleterious effect on the bacterial membranes. Other
+       <italic>
+        sap
+       </italic>
+       locus proteins (SapB, SapC and SapD) allow the transport of the SapA–peptide complex into the cytosol. Within the cytosol, peptidases degrade the bound antimicrobial peptides. Recently it was shown that pili make group B streptococci resistant to the mouse antimicrobial peptide CRAMP and the human homologue, LL-37. M1 protein also protects
+       <italic>
+        S. pyogenes
+       </italic>
+       from cathelicidin.
+      </p>
+     </sec>
+    </sec>
+    <sec id="s0315">
+     <title>
+      Antigenic and Phase Variations
+     </title>
+     <p id="p1000">
+      Some pathogens can ‘change appearances’, a powerful strategy used to escape the acquired immune response. Three examples of molecular mechanisms used to achieve antigenic variation, one each by a bacterium, a virus and a protozoan, are illustrated in
+      .
+     </p>
+     <sec id="s0320">
+      <title>
+       Antigenic Variation in Neisseria gonorrhoeae
+      </title>
+      <p id="p1005">
+       <italic>
+        Neisseria gonorrhoeae
+       </italic>
+       varies the composition of at least three major components of its outer membrane: the pili, which mediate initial attachment to host cells; the membrane protein P.II, responsible for closer attachment resulting in phagocytosis; and the lipo-oligosaccharide (LOS).
+      </p>
+      <p id="p1010">
+       Antigenic variations in the major pilin subunit are due to recombination between different copies of
+       <italic>
+        pil
+       </italic>
+       genes scattered over the chromosome (
+       ). Only one or two of these are expressed (
+       <italic>
+        pil
+       </italic>
+       E, where E denotes ‘expressed’) at any point in time, but numerous strains with antigenically distinct pili may arise in response to antibody pressure. In addition to this mechanism, pili are subject to phase variation (i.e. switches between
+       <italic>
+        pil
+       </italic>
+       -positive and
+       <italic>
+        pil
+       </italic>
+       -negative variants) controlled at the transcriptional level.
+      </p>
+      <p id="p1015">
+       The P.II protein is similarly subject to genetic variation. As a consequence, the adaptive immune response never quite catches up with genetic variation in the bacterial population. The combination of this mechanism, LOS sialylation and IgA protease production, explains the lack of acquired immunity to gonorrhea and makes vaccine development very difficult.
+      </p>
+     </sec>
+     <sec id="s0325">
+      <title>
+       Shift and Drift in Influenza A Viruses
+      </title>
+      <p id="p1020">
+       Every year, influenza vaccination programs must contend with antigenic variation. Influenza viruses change through drift and shift. Antigenic drift refers to the gradual accumulation of mutations during circulation of virus as a consequence of the high error rate of RNA-dependent RNA polymerase and the selective pressure of immune responses or antivirals. Influenza A virus mutants with antigenic changes tend to have a selective advantage over the non-mutant viral population. Drift can produce raid change, as illustrated by the dramatic increase in amantadine resistance (from 2–12% to &gt;91%) in influenza A/H3N2 strains, from 2005 to 2006, associated with a single mutation at position 31 of the M2 protein. As a consequence of antigenic drift, the composition of the influenza vaccine must be carefully evaluated and updated annually to cover those strains likely to be circulating.
+      </p>
+      <p id="p1025">
+       Antigenic shift refers to the emergence of a novel influenza virus in humans, due to direct introduction of an avian strain or to a new strain produced by recombination and reassortment of two different influenza viruses. Antigenic shift results in dramatic changes in the antigenic composition of the surface hemagglutinin (which binds the host cell receptor) or the neuraminidase (which modifies these receptors) and can cause devastating worldwide epidemics, or pandemics, in the immunologically unprepared population. Recent influenza A pandemics occurred in 1957 (the H2N2 ‘Asian Flu’), 1968 (the H3N2 ‘Hong Kong Flu’) and most recently in 2009, when an unanticipated, novel H1N1 influenza A virus originating from circulating seasonal influenza, avian, and classic and Eurasian swine strains emerged.
+       In 1997, avian influenza A/H5N1 caused 18 human deaths; a different strain of A/H5N1 has circulated in domestic birds throughout Asia, causing 387 cases and 245 deaths between 2003 and 2008. In the past decade, human infection by H7N2 and H9N2 avian influenza viruses had raised concerns, and H7N9 virus caused severe respiratory infections and death in China in 2013, posing the threat of a future pandemic.
+      </p>
+     </sec>
+     <sec id="s0330">
+      <title>
+       Antigenic Variations in
+       <italic>
+        Trypanosoma brucei (see
+       </italic>
+       <italic>
+        Chapter 110
+       </italic>
+       )
+      </title>
+      <p id="p1030">
+       African trypanosomes (
+       <italic>
+        Trypanosoma brucei
+       </italic>
+       ) are flagellated protozoa, transmitted to humans by several species of
+       <italic>
+        Glossina
+       </italic>
+       (tsetse flies). The parasite survives in mammalian body fluids thanks to antigenic variation of the variant surface glycoprotein (VSG), which forms a 15 nm thick monolayer covering most of the parasite surface.
+       Within a single generation, most or all of the 10
+       VSG molecules may be replaced by an unrelated variant, stemming from a repertoire of an estimated 1000 genomic copies of the gene. The VSG gene is invariably expressed from a polycistronic transcription unit, in the so-called telomeric expression site adjacent to the telomeric repeats. During chronic infection, patients experience successive episodes of parasitemia, each episode coinciding with expression of a new VSG on the surface of the parasite. With this strategy, trypanosomes avoid complete eradication by the specific immune response, while maintaining the pathogenic burden at sublethal levels.
+      </p>
+     </sec>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s0335">
+    <title>
+     Immunosuppression
+    </title>
+    <p id="p1035">
+     The most illustrative example of immunosuppression induced by microbial infection is provided by HIV. Human immunodeficiency virus circulating in the bloodstream readily infects CD4
+     lymphocytes, macrophages and dendritic cells. The destruction of CD4
+     T-helper cells is particularly detrimental to the host and accounts for the occurrence of a variety of opportunistic infections after the T-cell count drops below critical levels. In addition to its general immunosuppressive effects, HIV-1 preferentially infects HIV-1-specific CD4
+     T cells, thereby undermining the ability of the host to mount an effective immune response to the virus.
+     HIV infection rapidly causes a profound depletion of CD4
+     T cells in the gut as well as the lymph nodes and peripheral blood. This local immunosuppression is in turn important in producing continued T-cell activation due to increased bacterial translocation through the damaged mucosal barrier, further enhancing susceptibility to HIV infection
+     (see Chapter 92).
+    </p>
+    <p id="p1040">
+     Other viruses produce immunosuppression in a more subtle fashion. Measles virus infects macrophages and both B and T lymphocytes, interfering with the immunocompetence of the host for weeks after resolution of clinical disease. As a consequence, in areas with a high prevalence of tuberculosis, measles epidemics may be followed by outbreaks of tuberculosis.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s0340">
+    <title>
+     Conclusion
+    </title>
+    <p id="p1045">
+     Throughout evolution, humans, like all mammalian species, have maintained an intimate relationship with the microbial world. We have survived thanks to the efficient defense mechanisms we have developed against potentially dangerous micro-organisms. Pathogenic micro-organisms are still here because they have found ways of avoiding elimination by the host or by the microbial competition. ‘Successful’ pathogens have developed strategies to enter the body, and reach and colonize their favorite niche, while defying the powerful human immune system.
+    </p>
+    <p id="p1050">
+     In this chapter we have looked into microbial survival strategies. Although some of these have been analyzed in ‘molecular detail’, much remains to be discovered. Future remedies for infectious diseases are likely to be aimed at specific molecular interactions between the pathogen and its host.
+    </p>
+    <p id="p1055">
+     <inline-graphic ns0:href="icon03-9780702062858.gif"/>
+     <bold>
+      References available online at
+     </bold>
+     <ext-link ext-link-type="uri" id="iw0010" ns0:href="http://expertconsult.com">
+      <bold>
+       expertconsult.com
+      </bold>
+     </ext-link>
+     <bold>
+      .
+     </bold>
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

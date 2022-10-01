@@ -1,0 +1,2 @@
+id_pmc	sentence location	highlighted phrase	interacting verbs	number of interacting verbs	experimental methods found	number of experimental methods	protein entities found	number of protein entities
+4315098	body	moreover , while a functional dnaj - domain is not required for dnajc19 to interact with phb complexes , it is necessary to rescue the changes in cl molecular composition that occur upon dnajc19 knockdown ( richter - dennerlein et al. , 2014 ) .	interact|complex	2		0	dnaj|dnajc19|phb|complexes	4

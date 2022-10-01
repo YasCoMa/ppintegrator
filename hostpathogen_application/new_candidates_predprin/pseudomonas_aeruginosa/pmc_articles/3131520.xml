@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Multi-Functional Characteristics of the
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   possesses a type III secretion system (T3SS) to intoxicate host cells and evade innate immunity. This virulence-related machinery consists of a molecular syringe and needle assembled on the bacterial surface, which allows delivery of T3 effector proteins into infected cells. To accomplish a one-step effector translocation, a tip protein is required at the top end of the T3 needle structure. Strains lacking expression of the functional tip protein fail to intoxicate host cells.
+   <italic>
+    P. aeruginosa
+   </italic>
+   encodes a T3S that is highly homologous to the proteins encoded by
+   <italic>
+    Yersinia
+   </italic>
+   spp. The needle-tip proteins of
+   <italic>
+    Yersinia
+   </italic>
+   , LcrV, and
+   <italic>
+    P. aeruginosa
+   </italic>
+   , PcrV, share 37% identity and 65% similarity. Other known tip proteins are AcrV (
+   <italic>
+    Aeromonas
+   </italic>
+   ), IpaD (
+   <italic>
+    Shigella
+   </italic>
+   ), SipD (
+   <italic>
+    Salmonella
+   </italic>
+   ), BipD (
+   <italic>
+    Burkholderia
+   </italic>
+   ), EspA (EPEC, EHEC), Bsp22 (
+   <italic>
+    Bordetella
+   </italic>
+   ), with additional proteins identified from various Gram-negative species, such as
+   <italic>
+    Vibrio
+   </italic>
+   and
+   <italic>
+    Bordetella
+   </italic>
+   . The tip proteins can serve as a protective antigen or may be critical for sensing host cells and evading innate immune responses. Recognition of the host microenvironment transcriptionally activates synthesis of T3SS components. The machinery appears to be mechanically controlled by the assemblage of specific junctions within the apparatus. These junctions include the tip and base of the T3 apparatus, the needle proteins and components within the bacterial cytoplasm. The tip proteins likely have chaperone functions for translocon proteins, allowing the proper assembly of translocation channels in the host membrane and completing vectorial delivery of effector proteins into the host cytoplasm. Multi-functional features of the needle-tip proteins appear to be intricately controlled. In this review, we highlight the functional aspects and complex controls of T3 needle-tip proteins with particular emphasis on PcrV and LcrV.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec sec-type="">
+    <title>
+     Introduction
+    </title>
+    <p>
+     The type III secretion system (T3SS) is likened to a molecular machine located on the surface and within the envelope of many Gram-negative bacteria. These systems are essential for virulence and act as a syringe and needle, called an injectisome, forming a channel in the eukaryotic membrane to facilitate the passage of bacterial effectors into infected cells (Galan and Collmer,
+     ; Cornelis,
+     ). The T3S apparatus has been identified in a variety of pathogens that infect animals, plants, and insects (Hueck,
+     ; Mota and Cornelis,
+     ; Troisfontaines and Cornelis,
+     ). Functional attributes of T3SS effectors vary among bacterial genera, with cytotoxicity and anti-phagocytic activity being characteristic for
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     and
+     <italic>
+      Yersinia
+     </italic>
+     spp., invasion, intracellular survival, and the promotion of proinflammatory responses for
+     <italic>
+      Shigella
+     </italic>
+     and
+     <italic>
+      Salmonella
+     </italic>
+     spp., and profound effects on cytoskeletal structure for many other pathogens (reviewed in Hueck,
+     ; Galan and Collmer,
+     ; Mota and Cornelis,
+     ).
+    </p>
+    <p>
+     More than 20 T3S systems have been identified in 16S RNA based studies (Cornelis,
+     ; Troisfontaines and Cornelis,
+     ). In
+     <italic>
+      P. aeruginosa
+     </italic>
+     , 36 genes are involved in T3S (Frank,
+     ). The structure of the assembled injectisome is complex and several components constitute the apparatus. An extracellular needle structure topped with a tip complex extrudes from the basal body that consists of multiple rings spanning the bacterial inner and outer membranes (Figure
+     ). The inner and outer rings of the basal body are connected by a neck domain. A T3S-associated ATPase, another component of the basal body located at the cytosolic face, is involved in the dissociation of secretion substrates from their chaperones as well as supplying energy for protein export (Figure
+     ; Cornelis,
+     ; Galan and Wolf-Watz,
+     ; Blocker et al.,
+     ; Moraes et al.,
+     ; Mueller et al.,
+     ). Bacteria have to complete the assembly of the basal body and polymerize the needle subunit proteins to an appropriate length prior to the formation of the tip complex on the distal end, which is controlled by a substrate-switching mechanism (Journet et al.,
+     ; Galan and Wolf-Watz,
+     ). Other proteins necessary for a functional T3SS are intracellular regulators, specialized chaperones, translocators or translocases, and effectors (Cornelis,
+     ; Galan and Wolf-Watz,
+     ; Schroeder and Hilbi,
+     ; Hauser,
+     ; Parsot,
+     ).
+    </p>
+    <p>
+     Activation of the T3SS is postulated to occur upon sensing the presence of host cells. Bacteria respond by turning on the transcription of T3SS genes, inserting a translocation complex or translocon assembled with translocator proteins into eukaryotic membranes, and eventually delivering effector proteins into the host to result in manipulation of cell physiology (Figure
+     ; Deane et al.,
+     ; Veenendaal et al.,
+     ; Mueller et al.,
+     ; Hauser,
+     ; Parsot,
+     ). Structural and functional aspects of the T3SS and related proteins have been summarized in numerous reviews, thus this review focuses on the needle-tip proteins pertaining to the Ysc family, PcrV from
+     <italic>
+      P. aeruginosa
+     </italic>
+     and LcrV from
+     <italic>
+      Yersinia
+     </italic>
+     spp. The tip complex likely possesses multiple roles in T3SS-mediated modulation of host cellular physiology: (1) sensing the microenvironment of host cell membranes and propagating a signal back to the bacterial cell, (2) regulation of secretion and translocation at the level of the tip complex coordinated with transcriptional activation or repression of bacterial genes, (3) assembly and insertion of a translocon in eukaryotic membranes, (4) physically bridging the needle and translocon embedded in the host membrane during effector delivery, and (5) serving as a clinically important protective antigen. In this review, we will discuss these multi-functional properties of T3 needle-tip proteins.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Needle-Tip Complexes of the T3SS
+    </title>
+    <sec>
+     <title>
+      Families of tip proteins and structural considerations
+     </title>
+     <p>
+      In animal pathogens, there are three major classes of T3SS: (1) the Ysc family that include the so-called V-tip proteins, PcrV (
+      <italic>
+       P. aeruginosa
+      </italic>
+      ), LcrV (
+      <italic>
+       Yersinia
+      </italic>
+      spp.), and AcrV from a fish pathogen,
+      <italic>
+       Aeromonas salmonicida
+      </italic>
+      ; (2) the Inv-Mxi-Spa family members identified in
+      <italic>
+       Shigella flexneri
+      </italic>
+      and
+      <italic>
+       Salmonella typhimurium
+      </italic>
+      (belonging to the SPI-1 system), and (3) the Esc family of enteropathogenic
+      <italic>
+       E. coli
+      </italic>
+      (EPEC), enterohemorrhagic
+      <italic>
+       E. coli
+      </italic>
+      (EHEC), and
+      <italic>
+       S. typhimurium
+      </italic>
+      (SPI-2 system; Cornelis,
+      ,
+      ). In the Ysc family, PcrV and LcrV share the highest overall homology (Table
+      ). Recently, another protein Vp1659 from
+      <italic>
+       Vibrio parahaemolyticus
+      </italic>
+      was identified as a member of this family (Zhou et al.,
+      ). The amino acid sequence of the C-terminus of Vp1659 (residues 420–607) is homologous to PcrV (residues 95–294) with 35% identity and 55% similarity (Table
+      ). The Inv-Mxi-Spa family, is comprised of IpaD (
+      <italic>
+       S. flexneri
+      </italic>
+      ), SipD (
+      <italic>
+       Salmonella
+      </italic>
+      spp.), BipD (
+      <italic>
+       Burkholderia pseudomallei
+      </italic>
+      ), and CT584 (
+      <italic>
+       Chlamydia trachomatis
+      </italic>
+      ; Erskine et al.,
+      ; Espina et al.,
+      ; Johnson et al.,
+      ; Lara-Tejero and Galan,
+      ). Although the proteins in this family contain less sequence identity to PcrV (Table
+      ), the structural similarity of IpaD, BipD, and SipD to the V-proteins has been well studied (Blocker et al.,
+      ; Mueller et al.,
+      ). CT584 is a late cycle gene product of
+      <italic>
+       C. trachomatis
+      </italic>
+      (Betts-Hampikian and Fields,
+      ) and the tertiary structure of this protein could be modeled based on the structure of IpaD (Markham et al.,
+      ). Esc family members include EspA (EPEC and EHEC) and Bsp22 (
+      <italic>
+       Bordetella
+      </italic>
+      spp.; Table
+      ). These proteins polymerize and assemble into a distinct filamentous structure at the tip of the T3 needle (Knutton et al.,
+      ; Daniell et al.,
+      ; Crepin et al.,
+      ; Medhekar et al.,
+      ). Despite the little structural similarity to the other tip protein families, the polymerized-tip complex appears to function similarly in T3SS (Knutton et al.,
+      ; Crepin et al.,
+      ).
+     </p>
+     <p>
+      PcrV and LcrV tip proteins are located at the distal end of the needle structure and required for the pathogenic phenotype of host infection (Fields et al.,
+      ; Pettersson et al.,
+      ; Sato et al.,
+      ). Bacterial strains with a deletion of
+      <italic>
+       pcrV
+      </italic>
+      or
+      <italic>
+       lcrV
+      </italic>
+      are avirulent in mice (Carter et al.,
+      ; Price et al.,
+      ; Skrzypek and Straley,
+      ; Sawa et al.,
+      ) and during infection of cultured epithelial or phagocytic cells (Pettersson et al.,
+      ; Sato et al.,
+      ). In cell culture systems,
+      <italic>
+       pcrV
+      </italic>
+      -deletion strains release effector proteins into the culture medium and are incapable of vectorial translocation of effectors into the host cytosol (Sawa et al.,
+      ; Goure et al.,
+      ; Sato et al.,
+      ). Complementation with wild-type
+      <italic>
+       pcrV
+      </italic>
+      restores translocation and cytotoxicity, suggesting the important role of the tip protein in the intoxication of eukaryotic cells.
+     </p>
+     <p>
+      The crystal structure of LcrV revealed an overall dumbbell shape with a “grip” formed by the coiled-coil interaction of two internal α-helices flanked by globular domains at each end (Derewenda et al.,
+      ). Other V-proteins have sufficient sequence similarity to construct structural models using LcrV as a template (1r6f chain A, deposited in PBD; Derewenda et al.,
+      ). The members of the Ysc family modeled by using the Swiss Model server
+      (Guex and Peitsch,
+      ) are shown in Figure
+      . The coiled-coil structure of two long α-helices is conserved in all three families of the tip proteins (Derewenda et al.,
+      ; Yip et al.,
+      ; Johnson et al.,
+      ; Blocker et al.,
+      ; Mueller et al.,
+      ).
+     </p>
+     <p>
+      Current structural studies indicate that tip proteins form an oligomer, possibly a pentamer, at the top end of the needle structure (Mueller et al.,
+      ,
+      ; Deane et al.,
+      ; Broz et al.,
+      ; Caroline et al.,
+      ). Scanning transmission electron microscopy analyses visualized the oligomer structures of parental or chimeric V-tip proteins on the assembled needle expressed in the
+      <italic>
+       lcrV
+      </italic>
+      deletion strain of
+      <italic>
+       Y. enterocolitica
+      </italic>
+      (Mueller et al.,
+      ; Broz et al.,
+      ). The N-terminal globular domain of LcrV, PcrV, and AcrV form the base structure of the tip complex that interacts with the YscF needle (Broz et al.,
+      ). PcrV forms a complex with a narrower base than that of LcrV or AcrV (Mueller et al.,
+      ; Broz et al.,
+      ). Compared to LcrV translocons (YopB and YopD), PcrV expressed in
+      <italic>
+       Y. pseudotuberculosis
+      </italic>
+      assembles smaller translocation channels with YopB and YopD in infected erythrocyte membranes and slowly delivers effector proteins into host cells (Holmstrom et al.,
+      ; Broms et al.,
+      ). The AcrV oligomerized structure is larger in size and varied in shape (Mueller et al.,
+      ).
+     </p>
+     <p>
+      Structural studies of Inv-Mxi-Spa family members demonstrate that the N-terminal domain of IpaD, SipD, and BipD possesses structural similarity to common chaperones, suggesting a self-chaperoning function of the domain (Erskine et al.,
+      ; Johnson et al.,
+      ; Blocker et al.,
+      ; Wang et al.,
+      ; Chatterjee et al.,
+      ; Rathinavelan et al.,
+      ). In contrast, the N-terminal structure of V-proteins is predicted to be globular and appears to have no intramolecular chaperoning domain (Blocker et al.,
+      ). PcrV and LcrV utilize cognate chaperones PcrG and LcrG in the bacterial cytoplasm. The chaperones and V-proteins are expressed from genes located within the same operon (Blocker et al.,
+      ; Lee et al.,
+      ). EspA is chaperoned by CesA (Yip et al.,
+      ).
+     </p>
+     <p>
+      The distinct coiled-coil structure in the center of the V-tip proteins is similar to the coiled-coil formation of monomeric needle proteins, such as MxiH from
+      <italic>
+       Shigella
+      </italic>
+      (Deane et al.,
+      ), suggesting a common mechanism of assembly and interaction of tip proteins and needle subunits (Blocker et al.,
+      ). One of the coiled-coil helices in LcrV is structurally homologous to a stabilizing helix of monomeric MxiH, which permits the modeling of the LcrV tip complex on the top of the MxiH needle without structural restraints (Deane et al.,
+      ). Also, it has been shown that the lower part of the coiled-coil structure of SipD interacts with the
+      <italic>
+       Salmonella
+      </italic>
+      needle protein PrgI (Rathinavelan et al.,
+      ).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Sensing the Microenvironment and Host Cells
+    </title>
+    <p>
+     Bacteria modulate gene expression according to growth conditions to maximize advantageous strategies for survival and continued replication. It has been suggested that as bacteria sense the growth environment, the clusters of T3SS genes are transcriptionally repressed or activated (reviewed in Motin et al.,
+     ; Hill et al.,
+     ; Sawa et al.,
+     ; Brubaker,
+     ; Yahr and Wolfgang,
+     ; Brutinel and Yahr,
+     ; Urbanowski and Yahr,
+     ; Baer et al.,
+     ). For
+     <italic>
+      P. aeruginosa
+     </italic>
+     , a low-calcium growth environment is one signal to derepress or induce T3SS transcription by the
+     <italic>
+      exsCEBA
+     </italic>
+     -control system with an additional regulatory protein, ExsD (McCaw et al.,
+     ; Dasgupta et al.,
+     ; Rietsch et al.,
+     ; Urbanowski et al.,
+     ,
+     ; Brutinel et al.,
+     ). Translocator and effector proteins are secreted into the extracellular growth medium under low-calcium conditions (Yahr et al.,
+     ). When calcium concentrations are sufficiently high, secretion of effectors is inhibited (Frank,
+     ; Yahr et al.,
+     ; McCaw et al.,
+     ). In addition to calcium depletion, other signals that are involved in ExsA-mediated regulation of the T3SS include host–cell contact, the contribution of two component system regulators, DNA damage, and osmotic and metabolic stresses (Rietsch et al.,
+     ; Rietsch and Mekalanos,
+     ; Yahr and Wolfgang,
+     ; Kang et al.,
+     ). In
+     <italic>
+      Yersinia
+     </italic>
+     , LcrQ was identified as a transcriptional regulator protein unique to
+     <italic>
+      Yersinia
+     </italic>
+     with no homolog found in
+     <italic>
+      Pseudomonas
+     </italic>
+     (Wulff-Strobel et al.,
+     ). T3SS transcriptional control in
+     <italic>
+      Yersinia
+     </italic>
+     also involves regulators, LcrH, SycH, YopD, and YscM1/2 (Rimpilainen et al.,
+     ; Pettersson et al.,
+     ; Brutinel and Yahr,
+     ). In addition, the T3SS is regulated by changes in oxygen levels or by intracellular pH as observed in cellular infections with EHEC,
+     <italic>
+      Shigella
+     </italic>
+     , or
+     <italic>
+      Salmonella
+     </italic>
+     (SPI-2; Marteyn et al.,
+     ; Schuller and Phillips,
+     ; Yu et al.,
+     ). Further, the T3SS mRNA levels are post-transcriptionally modulated by small RNAs (Bordi et al.,
+     ).
+    </p>
+    <p>
+     It is postulated that the T3 needle-tip complex functions as a sensor of the growth environment and the presence of host cells for infection (Deane et al.,
+     ; Veenendaal et al.,
+     ; Mueller et al.,
+     ; Parsot,
+     ). A physiological signal for T3SS activation is the recognition of eukaryotic membranes upon contact (Menard et al.,
+     ; Pettersson et al.,
+     ). Contact of a pathogen to the host cell induces expression of T3SS proteins, leading to the polarized transfer of effectors into the target cell cytosol (Menard et al.,
+     ; Rosqvist et al.,
+     ; Cisz et al.,
+     ). Contact-mediated induction of ExoS expression requires host cell integrity (Cisz et al.,
+     ). For
+     <italic>
+      S. flexneri
+     </italic>
+     , interaction with epithelial cells or incubation with serum is required to release IpaB and IpaC proteins (Menard et al.,
+     ).
+    </p>
+    <p>
+     Low-calcium conditions, induced by the addition of a calcium chelater to the growth medium, activate the T3SS in
+     <italic>
+      Pseudomonas
+     </italic>
+     and
+     <italic>
+      Yersinia
+     </italic>
+     (Carter et al.,
+     ; Frank et al.,
+     ). Mutations in
+     <italic>
+      pcrV
+     </italic>
+     or
+     <italic>
+      lcrV
+     </italic>
+     lead to a calcium-insensitive phenotype (Carter et al.,
+     ; Bergman et al.,
+     ; Sato et al.,
+     ). In the
+     <italic>
+      Shigella
+     </italic>
+     T3SS, several inducers have been shown, such as the amphipathic dye Congo Red, fetal bovine serum, cholesterol-containing lipids, and bile salts (Bahrani et al.,
+     ; Blocker et al.,
+     ; van der Goot et al.,
+     ; Olive et al.,
+     ). The
+     <italic>
+      Shigella
+     </italic>
+     tip protein IpaD “senses” deoxycholate or other bile salts in the environment, resulting in a conformational change in IpaD and subsequent step-wise activation of the secretion apparatus by recruitment of IpaB to the tip (Stensrud et al.,
+     ; Dickenson et al.,
+     ). After completion of IpaB surface presentation, followed by interaction with cholesterol and sphingomyelin containing lipids, IpaC moves toward the surface of the needle tip (Epler et al.,
+     ). At this stage, the tip complex is poised for translocation of effectors (Epler et al.,
+     ).
+     <italic>
+      Salmonella
+     </italic>
+     SipD also interacts with bile salts (Wang et al.,
+     ; Chatterjee et al.,
+     ). In
+     <italic>
+      V. parahaemolyticus
+     </italic>
+     , a bile acid was identified as a host-derived inducer for T3SS genes in a transcriptional regulator-dependent manner, yet the involvement of tip proteins is unknown (Gotoh et al.,
+     ).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Regulation of Type III Secretion and Translocation
+    </title>
+    <p>
+     In this section, we describe the post-translational control of the T3SS, which requires multiple levels of regulatory proteins and several types of signals (Pettersson et al.,
+     ; Wulff-Strobel et al.,
+     ; Agrain et al.,
+     ; Akeda and Galan,
+     ; Galan and Wolf-Watz,
+     ; Sorg et al.,
+     ; Botteaux et al.,
+     ). To complete the formation of a translocon and delivery of effectors into host cells, a functional injection apparatus, including the basal body, needle, and tip complex, must be assembled. This multistep process is postulated to be accomplished by a substrate-switching mechanism, a hierarchical and timely regulation of protein export, which will be discussed later. Post-translational regulation is organized into six classes based on the location of the regulatory or accessory proteins.
+    </p>
+    <list list-type="simple">
+     <list-item>
+      <label>
+       (1)
+      </label>
+      <p>
+       The needle-tip complex of the injectisome: The tip complex is located at the distal end of the needle structure (Mueller et al.,
+       ; Broz et al.,
+       ; Blocker et al.,
+       ). V-tip proteins have been shown to be involved in the mechanical regulation of translocation and secretion (Sarker et al.,
+       ; Sato et al.,
+       ). Bacterial strains containing a deletion of a gene encoding a tip protein,
+       <italic>
+        pcrV
+       </italic>
+       or
+       <italic>
+        ipaD
+       </italic>
+       , are non-cytotoxic and possess a deregulated secretion phenotype as measured by the constitutive secretion of effector proteins (Menard et al.,
+       ; Frank,
+       ; Sawa et al.,
+       ; McCaw et al.,
+       ; Goure et al.,
+       ; Picking et al.,
+       ; Rietsch et al.,
+       ; Sato et al.,
+       ). For
+       <italic>
+        pcrV
+       </italic>
+       and
+       <italic>
+        lcrV
+       </italic>
+       deletion strains, this is referred to as a calcium-blind or calcium independent phenotype (Carter et al.,
+       ; Bergman et al.,
+       ; Sato et al.,
+       ). Similarly, an
+       <italic>
+        ipaD
+       </italic>
+       -deletion mutant is insensitive to the inducer, Congo Red (Veenendaal et al.,
+       ). These data suggest that tip proteins are involved in the control of translocation and secretion of effectors by the type III apparatus.
+      </p>
+     </list-item>
+     <list-item>
+      <label>
+       (2)
+      </label>
+      <p>
+       The needle protein: It has been postulated that the type III needle propagates signals between the needle-tip sensor and regulators in the bacterial cytoplasm (Kenjale et al.,
+       ; Torruellas et al.,
+       ; Deane et al.,
+       ). The needle subunit proteins are related to secretory regulation and multiple YscF mutants demonstrate a constitutive-secretion phenotype (Torruellas et al.,
+       ; Davis and Mecsas,
+       ). A dominant-negative YscF mutant, L54V, blocks secretion of parental YscF and Yop effectors and fails to assemble the injectisome (Davis et al.,
+       ). Mutations in the
+       <italic>
+        Shigella
+       </italic>
+       needle protein MixH, lead to constitutive secretion of effectors, some of which are also not inducible (Kenjale et al.,
+       ). The conserved tertiary structure of both needle subunits and tip proteins is coiled-coil formed by two α-helices, suggesting a similar mechanism of oligomeric assembly (Kenjale et al.,
+       ; Torruellas et al.,
+       ; Blocker et al.,
+       ). Biophysical analyses of common α-helical coiled-coil structures demonstrated that an allosteric potential in this type of structure induces conformational amplification involved in mechanotransduction. In other words, these proteins appear to function as a nanoswitch (Yogurtcu et al.,
+       ). Thus, the environmental signals sensed by the tip complex may be amplified and transmitted to the cytoplasmic side through the needle proteins by conformational changes in coiled-coil structures.
+      </p>
+     </list-item>
+     <list-item>
+      <label>
+       (3)
+      </label>
+      <p>
+       Inner membrane proteins: An inner membrane component in
+       <italic>
+        Yersinia
+       </italic>
+       , YscU, recognizes translocators for secretion and is involved in substrate switching. Amino acid substitutions at specific residues of YscU fail to autocleave the cytoplasmic C-terminal domain and abolish export of translocator proteins LcrV, YopB, and YopD but not Yop effectors (Sorg et al.,
+       ; Riordan and Schneewind,
+       ).
+      </p>
+     </list-item>
+     <list-item>
+      <label>
+       (4)
+      </label>
+      <p>
+       The ATPase complex in the basal body and cytoplasmic chaperones: The basal body consists of the outer and inner rings connected by a neck domain and the ATPase complex (Figure 1; reviewed in Galan and Wolf-Watz,
+       ).
+       <italic>
+        Salmonella enterica
+       </italic>
+       ATPase, InvC, has a critical role in substrate recognition and release of cognate chaperones (Akeda and Galan,
+       ). T3SS-specific chaperones are classified based on their cognate interacting partners, effectors, translocators, and needle proteins (Stebbins and Galan,
+       ; Cornelis,
+       ). Prior to export, chaperones interact with their secreted protein substrates to target this sub-assemblage to the ATPase-sorting complex associated with the basal body. At this specific locale, the effector protein is unfolded, dissociated from the effector-chaperone complex, and then presented to the sorting complex (Boyd et al.,
+       ; Luo et al.,
+       ; Birtalan et al.,
+       ; Galan and Wolf-Watz,
+       ; Lara-Tejero et al.,
+       ). An alternative interface of the effector–chaperone complex induced by conformational changes may act as a recognition signal for the controlled export of effectors (Stebbins and Galan,
+       ). In addition, the ATPase provides proton motive force for export of substrates (Eichelberg et al.,
+       ; Wilharm et al.,
+       ). Tip protein-specific chaperones PcrG and LcrG for PcrV and LcrV, respectively, possess a regulatory function in T3 protein secretion in the presence of calcium (Nilles et al.,
+       ; Matson and Nilles,
+       ; McCaw et al.,
+       ; Sundin et al.,
+       ; Rietsch et al.,
+       ). In
+       <italic>
+        Yersinia
+       </italic>
+       , a deletion of
+       <italic>
+        lcrG
+       </italic>
+       leads to premature release of Yop proteins (DeBord et al.,
+       ). In the
+       <italic>
+        Pseudomonas
+       </italic>
+       system, the interaction between PcrV and its cognate chaperone PcrG facilitates the export of PcrV despite the absence of an influence on the secretory regulation of effectors (Lee et al.,
+       ).
+      </p>
+     </list-item>
+     <list-item>
+      <label>
+       (5)
+      </label>
+      <p>
+       Cytoplasmic regulators: an intrabacterial regulator YopN in
+       <italic>
+        Yersinia
+       </italic>
+       complexes with the co-regulatory protein TyeA to control the entry of secreted proteins to the basal body (Forsberg et al.,
+       ; Iriarte et al.,
+       ; Ferracci et al.,
+       ; Schubot et al.,
+       ). MxiC, an ortholog of YopN in
+       <italic>
+        Shigella
+       </italic>
+       , interacts with the Spa47 ATPase (Botteaux et al.,
+       ). A knockout mutant of
+       <italic>
+        mxiC
+       </italic>
+       constitutively secretes effectors but the secretion of translocator IpaC is weak and delayed upon type III induction (Botteaux et al.,
+       ; Martinez-Argudo and Blocker,
+       ). Another cytoplasmic regulator is a molecular ruler or timer, YscP in
+       <italic>
+        Yersinia
+       </italic>
+       and Spa32 in
+       <italic>
+        Shigella
+       </italic>
+       . These molecules determine the needle length and are also involved in the control of substrate specificity switching (Journet et al.,
+       ; Agrain et al.,
+       ).
+      </p>
+     </list-item>
+     <list-item>
+      <label>
+       (6)
+      </label>
+      <p>
+       In both
+       <italic>
+        Pseudomonas
+       </italic>
+       and
+       <italic>
+        Yersinia
+       </italic>
+       systems, translocated effector proteins ExoS and YopE play some role in a negative regulatory loop. After delivery of ExoS and YopE into the host cytosol, additional cycles of effector translocation into the same host cell are blocked in a feedback fashion (Aili et al.,
+       ; Cisz et al.,
+       ; Urbanowski and Yahr,
+       ). The mechanisms of regulation or feedback signal transduction have not been defined.
+      </p>
+     </list-item>
+    </list>
+    <sec>
+     <title>
+      Translocon assembly and bridging to the needle structure
+     </title>
+     <p>
+      Activation of the T3 secretory activity initiates the assembly of a translocation complex, called a translocon, in eukaryotic membranes (Figure
+      ).
+      <italic>
+       P. aeruginosa
+      </italic>
+      requires the products of the
+      <italic>
+       pcrGVHpopBD
+      </italic>
+      operon to form the translocon (Frank,
+      ; Yahr et al.,
+      ; Frithz-Lindsten et al.,
+      ). PcrV, PopB, and PopD are classified as translocators or translocases necessary to form the translocon structure in eukaryotic membranes (Lee et al.,
+      ; Schoehn et al.,
+      ; Goure et al.,
+      ; Caroline et al.,
+      ). PopB and PopD are hydrophobic translocators that insert into membrane lipids while a hydrophilic translocator, PcrV, is required for assembly and insertion of the functional PopB/PopD translocon into host membranes (Frithz-Lindsten et al.,
+      ; Goure et al.,
+      ,
+      ). The translocon assembly is necessary for contact-dependent lysis of erythrocytes and the one-step delivery of effector proteins into the host cytosolic compartment (Hakansson et al.,
+      ; Lee et al.,
+      ; Schoehn et al.,
+      ; Goure et al.,
+      ; Cornelis,
+      ; Galan and Wolf-Watz,
+      ; Blocker et al.,
+      ; Caroline et al.,
+      ). Also, contact-dependent activation of T3SS requires translocon proteins PopB and PopD as well as host cell integrity (Cisz et al.,
+      ). Using a
+      <italic>
+       Yersinia
+      </italic>
+      co-infection system, YopB, YopD, and LcrV are sufficient for channel formation when these proteins are expressed and secreted by the same bacterium (Marenne et al.,
+      ).
+     </p>
+     <p>
+      The formation of translocon channels is assessed by the release of hemoglobins from erythrocytes (Blocker et al.,
+      ; Neyt and Cornelis,
+      ; Goure et al.,
+      ). Pore formation in eukaryotic cells can be identified by infection with effectorless strains of T3SS-competent bacteria (Frithz-Lindsten et al.,
+      ; Viboud and Bliska,
+      ; Marenne et al.,
+      ; Roy et al.,
+      ; Sato et al.,
+      ). Even in the absence of known effector proteins, expression of PcrV and other type III components leads to cell damage (Roy et al.,
+      ; El Solh et al.,
+      ). V-protein deletion strains are non-cytotoxic and non-hemolytic due to the inability to assemble and insert the translocon in the host membranes (Sarker et al.,
+      ; Sawa et al.,
+      ; Goure et al.,
+      ; Sato et al.,
+      ). Complementation with a wild-type copy of
+      <italic>
+       pcrV
+      </italic>
+      restores cytotoxicity and hemolytic activity (Sawa et al.,
+      ; Goure et al.,
+      ; Sato et al.,
+      ). These results suggest that PcrV is involved in the mechanical control of translocon formation and insertion in lipid bilayers. It is believed that V-proteins act as a platform for assembly and insertion of translocons (Sarker et al.,
+      ; Goure et al.,
+      ; Broz et al.,
+      ). V-proteins may have a chaperone function for translocon assembly and possibly for self-oligomerization (Goure et al.,
+      ). The Inv-Mxi-Spa family tip proteins possess a chaperone domain in the N-terminus (reviewed in Blocker et al.,
+      ). It has also been shown that the C-terminal α-helix of BipD is involved in contacts with translocon proteins (Erskine et al.,
+      ).
+     </p>
+     <p>
+      In cell culture systems, effector proteins are translocated into the host cytoplasm in a polarized or vectorial manner (Rosqvist et al.,
+      ; Sory and Cornelis,
+      ; Persson et al.,
+      ; Vallis et al.,
+      ,
+      ;). It has been suggested that the tip complex forms a physical bridge between the needle and translocon assembled within the host membrane (Knutton et al.,
+      ; Nilles et al.,
+      ; Daniell et al.,
+      ; Sato et al.,
+      ).The leakage of effector proteins in the cell culture medium is minimum and rarely detectable during infection
+      <italic>
+       in vitro
+      </italic>
+      (Vallis et al.,
+      ,
+      ; Sundin et al.,
+      ; Sato et al.,
+      ).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Immunization and Therapeutics Targeting T3SS
+    </title>
+    <sec>
+     <title>
+      LcrV: A protective epitope of
+      <italic>
+       Yersinia
+      </italic>
+      and determinant for evasion of host innate immunity
+     </title>
+     <p>
+      LcrV was first identified as an antigenic factor of
+      <italic>
+       Y. pestis
+      </italic>
+      and named “V-antigen” by Burrows and Bacon
+      . Active immunization with V-antigen protects against pneumonic and bubonic plague in mice (Lawton et al.,
+      ; Leary et al.,
+      ; Anderson et al.,
+      ). Polyclonal antibodies for LcrV provide passive protection against infection with
+      <italic>
+       Y. pestis
+      </italic>
+      and
+      <italic>
+       Y. pseudotuberculosis
+      </italic>
+      (Une and Brubaker,
+      ; Motin et al.,
+      ). LcrV is located at the tip of needles and surface exposed on bacteria so that anti-LcrV antibodies can inhibit the translocon assembly, causing a failure of effector delivery into target cells (Fields et al.,
+      ; Pettersson et al.,
+      ; Mueller et al.,
+      ). LcrV possesses conformational epitopes reported by several groups (Hill et al.,
+      ; Vernazza et al.,
+      ; Quenee et al.,
+      ). In addition to conformational epitopes, a linear epitope was identified in LcrV (amino acid residues 195–225; Figure
+      ; Quenee et al.,
+      ). Several laboratories developed LcrV subunit vaccines (rV) alone or in combination with other
+      <italic>
+       Y. pestis
+      </italic>
+      proteins, such as the fraction 1 pilus capsular antigen or rF1, which are currently in clinical trials (Powell et al.,
+      ; Williamson et al.,
+      ; Quenee and Schneewind,
+      ).
+     </p>
+     <p>
+      Another biological function of LcrV is blocking host inflammatory responses and triggering immunosuppression by the release of IL-10 (Nakajima et al.,
+      ; Nedialkov et al.,
+      ; Sing et al.,
+      ; Brubaker,
+      ; Overheim et al.,
+      ). IL-10 release was amplified in a TLR2/TLR6 and CD14-dependent manner, suggesting that
+      <italic>
+       Yersinia
+      </italic>
+      evades the host innate immune response by exploiting innate pattern recognition molecules (Sing et al.,
+      , (Sing et al.
+      ; Depaolo et al.,
+      ). Additionally, LcrV inhibits the release of proinflammatory cytokines, IFN-γ and TNF-α (Nakajima and Brubaker,
+      ; Nakajima et al.,
+      ). Therapeutically, the ability of LcrV to suppress IFN-γ and TNF-α release was utilized to postpone the inflammatory response in mouse skin allograft models (Motin et al.,
+      ). A deletion of residues 271–300 in LcrV (the position is indicated in the structural model in Figure
+      ) eliminated the immunomodulatory responses and this variant protein has been developed to the rV10 subunit vaccine (Overheim et al.,
+      ). Active immunization with rV10 alone or a combination with rF1 protects cynomolgus macaques from pneumonic plague, and the antibodies from macaques provide protection against bubonic plaque in mice (Cornelius et al.,
+      ). Active immunization with rV10 was also protective in rats and mice (DeBord et al.,
+      ; Anderson et al.,
+      ). The rV10 vaccine is undergoing the preclinical efficacy study (Cornelius et al.,
+      ) along with the FDA pre-investigational new drug authorization review (Quenee and Schneewind,
+      ).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      PcrV: A protective epitope of
+      <italic>
+       Pseudomonas
+      </italic>
+     </title>
+     <p>
+      Among three translocator proteins, only PcrV is a potent protective antigen against T3SS-mediated
+      <italic>
+       Pseudomonas
+      </italic>
+      infection (Sawa et al.,
+      ; Holder et al.,
+      ; Frank et al.,
+      ). Active immunization with recombinant PcrV protects mice from lethal infection even under induced-leukocytopenia or immunosuppression induced by a burn injury (Sawa et al.,
+      ; Holder et al.,
+      ; Moriyama et al.,
+      ). Passive immunization with polyclonal antisera, affinity-purified antibodies, or F(ab′)
+      <sub>
+       2
+      </sub>
+      were effective against cellular intoxication, lung injury, bacteremia, and sepsis in animal models (Sawa et al.,
+      ; Shime et al.,
+      ; Frank et al.,
+      ; Neely et al.,
+      ; Imamura et al.,
+      ; Baer et al.,
+      ). Polyclonal anti-PcrV antibodies block T3SS-mediated hemolysis of erythrocytes and cytotoxicity of macrophages
+      <italic>
+       in vitro
+      </italic>
+      (Goure et al.,
+      ; Sato et al.,
+      ) and reduce inflammatory response and lung injury in infected BALB/c mice (Sawa et al.,
+      ). In addition to the inhibition of the delivery of effector proteins, anti-PcrV antibodies decrease anti-phagocytic effects mediated by host cells (Sawa et al.,
+      ).
+     </p>
+     <p>
+      More than 80 monoclonal stable cell lines were screened by
+      <italic>
+       in vitro
+      </italic>
+      and
+      <italic>
+       in vivo
+      </italic>
+      assays to identify an antibody or combination of antibodies that neutralize the cytotoxic effect of
+      <italic>
+       P. aeruginosa
+      </italic>
+      infection (Frank et al.,
+      ). Mab166 possesses this property and was subsequently developed to a humanized single-chain antibody for immunotherapy. The F(ab′)
+      <sub>
+       2
+      </sub>
+      single-chain antibody conjugated with polyethylene glycol was initially produced by InterMune (Frank et al.,
+      ; Baer et al.,
+      ; Moriyama et al.,
+      ) and subjected to a proprietary affinity maturation procedure by Kalobios to produce KB001. Phase 1 and 1/2 clinical studies of KB001 have been completed in mechanically ventilated ICU patients and cystic fibrosis patients. The results of clinical trials indicated the reduction in the number of inflammatory cells and markers and decreased pneumonia events (KaloBios website
+      ).
+     </p>
+     <p>
+      The protective epitope in PcrV is conformational and located within a region between amino acids 144 and 257 (deletion mapping) or between 158 and 217 as determined by phage display (Frank et al.,
+      ). Only a conformational epitope has been identified in PcrV at this time (Frank et al.,
+      ). Mab166 is reactive to the epitope located in the globular region between the central and C-terminal helices (Figure
+      ). The location of the epitope in the PcrV-structure models overlaps the regions identified as the linear and conformational epitopes of LcrV (Vernazza et al.,
+      ; Quenee et al.,
+      ). There is no indication of PcrV-mediated immunomodulatory effects while LcrV increases IL-10 production and decreases the release of proinflammatory cytokines, IFN-γ and TNF-α (Nakajima and Brubaker,
+      ; Nakajima et al.,
+      ; Sing et al.,
+      ). PcrV has little homology to TLR2-binding motifs located in LcrV, which are responsible for IL-10 induction (Sing et al.,
+      ; Abramov et al.,
+      ). In contrast to LcrV, PcrV does not colocalize with TLR2 (Sing et al.,
+      ; Overheim et al.,
+      ). T3SS-competent
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains, but not the deletion mutants of
+      <italic>
+       pcrV
+      </italic>
+      or other translocator genes, recruit neutrophils to the lung, triggering inflammatory responses (Wangdi et al.,
+      ).
+     </p>
+     <p>
+      <italic>
+       Pseudomonas aeruginosa
+      </italic>
+      is intrinsically resistant to a broad range of antibiotics. A high rate of ventilator-associated pneumonia and mortality in patients is caused by
+      <italic>
+       P. aeruginosa
+      </italic>
+      (Rello et al.,
+      ). PcrV is expressed in most of the type III positive clinical isolates from patients with acute lower respiratory tract infection and systemic infection (Roy-Burman et al.,
+      ). Infection with PcrV-positive isolates results in high mortality rate even in the absence of cytotoxin ExoU or ExoS (Roy-Burman et al.,
+      ; El Solh et al.,
+      ). These data indicate that there might be advantages to the use of PcrV as a therapeutic target. The neutralization of PcrV likely confers little selective pressure to bacteria for their development to a resistant phenotype as compared to selection of resistance through the use of current antibiotic therapies. Thus, passive or active immunization may be useful in combination therapies against intrinsically resistant
+      <italic>
+       P. aeruginosa
+      </italic>
+      isolates (El Solh and Alhajhusain,
+      ).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Possible therapeutics for other Type III targets
+     </title>
+     <p>
+      Immunotherapies targeting a needle-tip protein have been also studied for other type III-positive bacteria. Antibodies recognizing the N-terminus of IpaD neutralize the hemolytic activity of
+      <italic>
+       S. flexneri
+      </italic>
+      (Espina et al.,
+      ). Antibodies against SipD (SPI-1) protect epithelial cells from invasion by
+      <italic>
+       S. enterica
+      </italic>
+      serovar Enteritidis (Desin et al.,
+      ). In contrast, active immunization of mice with recombinant BipD is not protective against experimental melioidosis (Druar et al.,
+      ). CT584 does not induce antibody responses in humans infected with
+      <italic>
+       C. trachomatis
+      </italic>
+      (Wang et al.,
+      ). It will be interesting to see the efficacy of a multivalent vaccine based on tip proteins IpaD, BipD, SipD, LcrV, and PcrV, which is in the initial stages of development (Markham et al.,
+      ). For filamentous-tip protein family, anti-EspA antibodies inhibit cytoskeletal changes in host cells
+      <italic>
+       in vitro
+      </italic>
+      (La Ragione et al.,
+      ). One monoclonal antibody specific to a linear epitope of EspA was protective against EHEC infection (Yu et al.,
+      ). Polyclonal sera reactive to Bsp22 protects mice against
+      <italic>
+       Bordetella
+      </italic>
+      infection (Medhekar et al.,
+      ). Interestingly, the needle protein YscF of
+      <italic>
+       Y. pestis
+      </italic>
+      , another surface-exposed type III protein, induces significant antibody responses and protective effects in mice upon active immunization (Matson et al.,
+      ).
+     </p>
+     <p>
+      Another aspect of immunotherapy studies concerns improvement in delivery methods and adjuvants. For example, various and effective delivery methods of vaccines against
+      <italic>
+       Yersinia
+      </italic>
+      infection include liposomal delivery of epitopes or virus-based delivery of vaccines (Chattopadhyay et al.,
+      ; Heurtault et al.,
+      ; Bhattacharya et al.,
+      ; Van Blarcom et al.,
+      ). Also, whole-cell vaccines, either killed or live and attenuated have been well studied (Bumann et al.,
+      ; Kamei et al.,
+      and reviewed in Quenee and Schneewind,
+      ).
+     </p>
+     <p>
+      Small molecule inhibitors targeting T3SS have been pursued for the development of novel therapeutics. Inhibitors targeting the enzymatic activity of type III effector proteins, ExoU and ExoS, are effective
+      <italic>
+       in vitro
+      </italic>
+      (Lee et al.,
+      ; Arnoldo et al.,
+      ). Inhibitors specific to a
+      <italic>
+       Yersinia
+      </italic>
+      transcription factor, LcrF (VirF), were effective against
+      <italic>
+       Y. pseudotuberculosis-
+      </italic>
+      mediated cytotoxicity
+      <italic>
+       in vitro
+      </italic>
+      and bacterial burden in the lungs in mice of pneumonia, increasing their survival (Garrity-Ryan et al.,
+      ). Moreover, numerous small molecules have been screened for antivirulence inhibitors targeting the T3SS in several genera of bacteria (Veenendaal et al.,
+      ; Baron,
+      ).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Concluding Remarks
+    </title>
+    <p>
+     The T3SS is a potent part of the virulence machinery expressed by
+     <italic>
+      P. aeruginosa
+     </italic>
+     and multiple Gram-negative pathogens. Assembly of type III components and subsequent execution of this intoxication system are intricately regulated and coordinated at multiple levels. Having a comprehensive understanding of these systems as well as working out the mechanistic steps of each stage in the process will give investigators a clue toward the development of novel therapeutics. These therapeutics could target the assembly of the injectisome, the sensing of the microenvironment followed by signal transduction, transcriptional activation, translocon formation in host membranes, and effector delivery into the host cytoplasmic compartment. The PcrV tip complex is located at the distal end of the needle and responsible for several important functions.
+     <italic>
+      pcrV
+     </italic>
+     -deletion strains are unable to intoxicate host target cells due to a failure in the formation of the translocon channel in host plasma membranes. Thus, the structural and functional mechanism of the tip proteins and translocon proteins is particularly relevant to the design of vaccines and therapeutics targeted to neutralize T3SS-mediated intoxication (Motin et al.,
+     ; Hill et al.,
+     ; Sawa et al.,
+     ; Brubaker,
+     ; Baer et al.,
+     ).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Conflict of Interest Statement
+    </title>
+    <p>
+     D. W. Frank is a co-inventor of Mab 166 and its humanized derivative molecules.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

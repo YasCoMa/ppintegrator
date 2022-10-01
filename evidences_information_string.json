@@ -1,0 +1,11 @@
+{
+    "evidences": [ { "name": "neighborhood", "description": "", "type_": "Evolutionary relationship" },
+			{ "name": "fusion", "description": "", "type_": "Evolutionary relationship" },
+			{ "name": "cooccurence", "description": "", "type_": "Functional feature" },
+			{ "name": "coexpression", "description": "", "type_": "Functional feature" },
+			{ "name": "experimental", "description": "", "type_": "Previous knowledge" },
+            { "name": "database", "description": "", "type_": "Previous knowledge" },
+            { "name": "textmining", "description": "", "type_": "literature curation" },
+			{ "name": "combined_score", "description": "compilation of other scores", "type_": "combination" }
+		]
+}

@@ -1,0 +1,2 @@
+id_pmc	sentence location	highlighted phrase	interacting verbs	number of interacting verbs	experimental methods found	number of experimental methods	protein entities found	number of protein entities
+5507773	body	we note that the additional bands present in these purified ago2 mutants are either degradation products ( as determined by western blot and mass spectrometry ( d–s5g ) or bacterial hsp70 ( dnak ) , which did not affect binding to limd1 ( h ) .	bind	1		0	ago2|dnak|hsp70|limd1	4

@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Immune recognition of
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   is a Gram-negative bacterium that causes opportunistic infections in immunocompromised individuals.
+   <italic>
+    P. aeruginosa
+   </italic>
+   employs a type III secretion system to inject effector molecules into the cytoplasm of the host cell. This interaction with the host cell leads to inflammatory responses that eventually result in cell death. We show that infection of macrophages with
+   <italic>
+    P. aeruginosa
+   </italic>
+   results in activation of caspase-1 in an IPAF-dependent, but flagellin-independent, manner. Macrophages deficient in IPAF or caspase-1 were markedly resistant to
+   <italic>
+    P. aeruginosa
+   </italic>
+   –induced cell death and release of the proinflammatory cytokine interleukin (IL)-1β. A subset of
+   <italic>
+    P. aeruginosa
+   </italic>
+   isolates express the effector molecule exoenzyme U (ExoU), which we demonstrate is capable of inhibiting caspase-1–driven proinflammatory cytokine production. This study shows a key role for IPAF and capase-1 in innate immune responses to the pathogen
+   <italic>
+    P. aeruginosa
+   </italic>
+   , and also demonstrates that virulent ExoU-expressing strains of
+   <italic>
+    P. aeruginosa
+   </italic>
+   can circumvent this innate immune response.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec>
+    <title>
+     RESULTS
+    </title>
+    <sec>
+     <title>
+      <italic>
+       P. aeruginosa
+      </italic>
+      –induced macrophage cell death is caspase-1 dependent
+     </title>
+     <p>
+      Caspase-1 is responsible for initiating cell death in response to several stimuli. We tested whether
+      <italic>
+       P. aeruginosa
+      </italic>
+      –induced macrophage cell death was dependent on caspase-1. WT macrophages infected with the
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PAK underwent rapid cell death, as measured by lactate dehydrogenase (LDH) release (
+      and Fig. S1 A, available at
+      <ext-link ext-link-type="uri" ns0:href="http://www.jem.org/cgi/content/full/jem.20071239/DC1">
+       http://www.jem.org/cgi/content/full/jem.20071239/DC1
+      </ext-link>
+      ). In contrast, caspase-1–deficient macrophages had a marked delay in cell death in response to infection with
+      <italic>
+       P. aeruginosa
+      </italic>
+      (
+      and Fig. S1 A). WT macrophages infected with
+      <italic>
+       P. aeruginosa
+      </italic>
+      also secreted IL-1β in a caspase-1–dependent manner (
+      and Fig. S1 B), demonstrating that caspase-1 plays a role in both
+      <italic>
+       P. aeruginosa
+      </italic>
+      –induced macrophage cell death and the secretion of IL-1β.
+     </p>
+     <p>
+      NALP3 (also known as NLRP3, CIAS1, and cryopyrin), along with the adaptor molecule ASC, can activate caspase-1 in response to a variety of stimuli, including ATP, nigericin, maitotoxin, uric acid, and the pathogens
+      <italic>
+       Listeria monocytogenes
+      </italic>
+      and
+      <italic>
+       Staphylococcus aureus
+      </italic>
+      (
+      –
+      ). ASC- and NALP3-deficient macrophages were as susceptible to
+      <italic>
+       P. aeruginosa
+      </italic>
+      –induced macrophage cell death as WT macrophages (
+      and Fig. S1 C). However, IL-1β secretion in response to
+      <italic>
+       P. aeruginosa
+      </italic>
+      infection was partially dependent on ASC (
+      and Fig. S1 D). NALP3-deficiency did not have any effect on IL-1β secretion in response to
+      <italic>
+       P. aeruginosa
+      </italic>
+      infection (
+      ).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      <italic>
+       P. aeruginosa
+      </italic>
+      activation of caspase-1 is dependent on IPAF
+     </title>
+     <p>
+      We used IPAF-deficient macrophages to test if IPAF was required for
+      <italic>
+       P. aeruginosa
+      </italic>
+      –induced caspase-1 activation. IPAF-deficient macrophages infected with the
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PAK displayed a marked delay in cell death compared with WT macrophages (
+      ). Macrophage cell death did eventually occur in IPAF-deficient macrophages, suggesting that
+      <italic>
+       P. aeruginosa
+      </italic>
+      possesses additional mechanisms by which to kill host cells. IPAF-deficient macrophages also secreted markedly less IL-1β in response to infection with PAK (
+      ). The defect in cell death and IL-1β secretion observed in IPAF-deficient macrophages in response to infection with
+      <italic>
+       P. aeruginosa
+      </italic>
+      was not caused by differences in binding of bacteria to the macrophages. We found an equal number of bacteria bound to both WT and IPAF-deficient macrophages 30 min after infection with
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PAK (unpublished data).
+     </p>
+     <p>
+      Caspase-1 activation involves autocatalytic processing of the 45-kD pro-caspase-1 to generate two subunits, p20 and p10. Caspase-1 activation in PAK-infected WT macrophages was detected by Western blot by the appearance of the p10 cleavage product as early as 30 min after infection (
+      ). We did not observe caspase-1 activation in response to
+      <italic>
+       P. aeruginosa
+      </italic>
+      infection in either IPAF- or ASC-deficient macrophages (
+      ). NALP3-deficient macrophages did not display any defect in caspase-1 activation in response to
+      <italic>
+       P. aeruginosa
+      </italic>
+      infection (Fig. S1 E). These data identify IPAF as the critical inflammasome component required for caspase-1–mediated cell death and IL-1β secretion in response to infection with
+      <italic>
+       P. aeruginosa
+      </italic>
+      .
+     </p>
+    </sec>
+    <sec>
+     <title>
+      ExoU induces macrophage cell death independently of IPAF
+     </title>
+     <p>
+      The TTSS is capable of delivering up to four different effector proteins, ExoS, ExoT, ExoU, and ExoY. Two of these effector molecules, ExoS and ExoU, have direct cytotoxic effects on the host cell (
+      ,
+      ); however, ExoU, which possesses phospholipase A2 activity (
+      ,
+      ,
+      ), is markedly more cytotoxic than the ADP-ribosyltransferase/Rho GTPase-activating protein ExoS (
+      ). ExoU is expressed by ∼20% of clinical isolates, but is not produced by the
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PAK, which expresses the effectors ExoS, ExoT, and ExoY (
+      ). To examine the role of ExoU in
+      <italic>
+       P. aeruginosa
+      </italic>
+      –induced macrophage cell death, we used the
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PA103, which expresses ExoU and ExoT, but not ExoS and ExoY. WT macrophages infected with PA103 rapidly underwent cell death, as measured by LDH release (
+      ). IPAF-deficient macrophages infected with PA103 also underwent rapid cell death (
+      ) in contrast to the protection observed in IPAF-deficient macrophages infected with the
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PAK. We also observed cell death in WT macrophages infected with the ExoU-deficient strain PA103ΔU, which is consistent with the findings of others (
+      ); however, IPAF-deficient macrophages infected with PA103ΔU were resistant to cell death (
+      ). These data suggest that
+      <italic>
+       P. aeruginosa
+      </italic>
+      has at least two distinct methods by which it can induce cell death in macrophages. The first is by the previously described ExoU pathway, whereas the second is a caspase-1–dependent cell death, which is observable when ExoU is not present. IPAF-deficient macrophages infected with the ExoT-deficient strain PA103ΔT remained susceptible to cell death, and infection with PA103ΔUT, which is deficient in both ExoU and ExoT, had a similar cell death phenotype to that observed with PA103ΔU (
+      ). Thus, PA103ΔUT, which produces none of the known effector molecules, still kills macrophages in an IPAF-dependent manner (
+      ), suggesting that the IPAF inflammasome is not activated by any of the four exotoxins.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      ExoU inhibits caspase-1 activation and secretion of IL-1β
+     </title>
+     <p>
+      We observed that WT macrophages infected with either PA103 or PA103ΔU both underwent cell death with similar kinetics as observed by LDH release (
+      ). However, PA103ΔU-infected macrophages secreted markedly more IL-1β (
+      ) compared with macrophages infected with PA103, suggesting that ExoU actively inhibits the secretion of IL-1β from macrophages. TNFα (
+      ) levels were also elevated in PA103ΔU-infected macrophages compared with macrophages infected with PA103. However, IL-6 (
+      ) secretion induced by infection with PA103ΔU or PA103 was not significantly different. A similar difference in IL-1β secretion was also observed in LPS-primed macrophages infected with PA103ΔU versus PA103 (Fig. S2 A, available at
+      <ext-link ext-link-type="uri" ns0:href="http://www.jem.org/cgi/content/full/jem.20071239/DC1">
+       http://www.jem.org/cgi/content/full/jem.20071239/DC1
+      </ext-link>
+      ). As seen in Fig. S2 (A and B) LPS-primed macrophages produced substantially more IL-1β in response to infection with either PA103 or PA103ΔU compared with unprimed macrophages caused by the large intracellular pool of pro-IL-1β generated after its induction by LPS treatment. However, we were unable to measure
+      <italic>
+       P. aeruginosa
+      </italic>
+      –induced TNFα in LPS-primed macrophages because LPS treatment alone induced robust TNFα production. Both PA103 and PA103ΔU induced equal amounts of pro-IL-1β production in unprimed macrophages, but PA103 failed to activate caspase-1, as observed during Western blotting by the absence of the caspase-1 p10 subunit in PA103-infected macrophages (
+      ). PA103 was able to activate caspase-1 in LPS-primed macrophages, but this activation was markedly reduced compared with infection with PA103ΔU (Fig. S2 C). To determine if ExoU was specifically inhibiting caspase-1 activation, we examined the effects of PA103 and PA103ΔU infection on the NF-κB and MAPK signaling cascades. Phosphorylation (not depicted) and degradation of IκBα in macrophages infected with either PA103 or PA103ΔU occurred at similar rates (
+      ). Phosphorylation of p38 and ERK1/2 was not inhibited in macrophages infected with PA103 as compared with PA103ΔU (
+      ); in fact, ERK1/2 phosphorylation occurred more quickly in PA103-infected macrophages. However, caspase-1 activation was not observed in the presence of ExoU (
+      ), suggesting that ExoU inhibition of caspase-1 activation leads to markedly reduced secretion of IL-1β. Activation of caspase-3 in macrophages infected with either PA103 or PA103ΔU occurred at similar rates (Fig. S2 D), further suggesting that the effects of ExoU were specific to caspase-1. TNFα production is independent of caspase-1 activation; however, the increased TNFα production by macrophages infected with PA103ΔU as compared with PA103 (
+      ) may be caused by the indirect effects of increased IL-1β production.
+     </p>
+     <p>
+      To determine whether the phospholipase activity of ExoU is required for inhibition of caspase-1–dependent cytokine secretion, we used a reversible inhibitor of iPLA
+      <sub>
+       2
+      </sub>
+      and cPLA
+      <sub>
+       2
+      </sub>
+      , AACOCF
+      <sub>
+       3
+      </sub>
+      . Pretreatment of LPS-primed macrophages with AACOCF
+      <sub>
+       3
+      </sub>
+      had no effect on cell death or IL-1β secretion induced by infection with PA103ΔU (
+      ). AACOCF
+      <sub>
+       3
+      </sub>
+      did, however, significantly decrease the amount of cell death induced by the ExoU containing strain PA103 (
+      ), confirming the findings of others (
+      ,
+      ). AACOCF
+      <sub>
+       3
+      </sub>
+      pretreatment of LPS-primed macrophages also resulted in an increased amount of secreted IL-1β (
+      ). In addition, AACOCF
+      <sub>
+       3
+      </sub>
+      pretreatment of unprimed macrophages infected with PA103 resulted in the activation of caspase-1 in contrast to untreated macrophages in which PA103 infection failed to activate caspase-1 (
+      ). These results demonstrate that the phospholipase activity of ExoU not only affects macrophage cell death, but also has dramatic effects on the ability of the macrophage to effectively activate caspase-1 and secrete proinflammatory cytokines. It was interesting to find that the inhibition of ExoU phospholipase A
+      <sub>
+       2
+      </sub>
+      activity with AACOCF
+      <sub>
+       3
+      </sub>
+      resulted in an increase of IPAF-driven IL-1β secretion, whereas AACOCF
+      <sub>
+       3
+      </sub>
+      completely inhibited the NALP3-driven production of IL-1β by treatment with ATP (
+      ).
+     </p>
+     <p>
+      The role of ExoU PLA
+      <sub>
+       2
+      </sub>
+      activity in inhibiting caspase-1 activation was also tested using ExoU point mutants. ExoU bearing an alanine substitution for the putative catalytic serine residue (referred to as ExoU-S142A) has previously been shown to lack PLA
+      <sub>
+       2
+      </sub>
+      activity and to be noncytotoxic (
+      ). The ExoU-LS608 variant of ExoU contains a 5 amino acid insertion in the localization domain (immediately before N608) and is not appropriately targeted to the plasma membrane; this protein also lacks PLA
+      <sub>
+       2
+      </sub>
+      activity and is noncytotoxic (
+      ,
+      ). PA103ΔUT expressing either ExoU-S142A or -LS608 were unable to inhibit IL-1β secretion from WT macrophages (
+      ), again suggesting that the phospholipase activity of ExoU is required for the inhibition of caspase-1 activation.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      In vivo production of IL-1β and -18 in response to
+      <italic>
+       P. aeruginosa
+      </italic>
+      peritonitis is dependent on IPAF
+     </title>
+     <p>
+      To assess whether ExoU inhibits caspase-1–driven cytokine production in vivo, we used a
+      <italic>
+       P. aeruginosa
+      </italic>
+      peritonitis model. WT mice were infected intraperitoneally with 1 × 10
+      CFU of either
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PA103 or PA103ΔU, and serum cytokines were analyzed 4 h after infection. The caspase-1–driven cytokines IL-1β (P = 0.036) and IL-18 (P &lt; 0.0001) were both significantly higher in serum from mice infected with PA103ΔU compared with PA103 (
+      ), whereas serum TNFα (P = 0.313) levels were not statistically different between PA103- and PA103ΔU-infected mice (
+      ). Collectively, these data recapitulate in vivo our in vitro finding that ExoU is capable of inhibiting caspase-1 activation.
+     </p>
+     <p>
+      We next asked whether IPAF was responsible for the secretion of caspase-1–driven cytokines in vivo in response to infection with the ExoU-deficient
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PA103ΔU. Serum cytokines were analyzed from WT and IPAF
+      mice 4 h after intraperitoneal infection with 1 × 10
+      CFU of PA103ΔU. Serum IL-1β (P = 0.023) and IL-18 (P = 0.014) were both significantly decreased in PA103ΔU-infected IPAF
+      mice compared with WT (
+      ). Serum TNFα (P = 0.357) levels were not statistically different between PA103ΔU-infected WT and IPAF
+      mice (
+      ). These data support a significant role for IPAF in the production of caspase-1–driven cytokines in vivo in response to infection with
+      <italic>
+       P. aeruginosa
+      </italic>
+      . Bacterial burdens from peritoneal lavage and spleen of WT, IPAF
+      , and IPAF
+      mice 12 h after intraperitoneal infection with 5 × 10
+      CFU of PA103ΔU were determined (
+      ). Bacterial burdens in the peritoneal lavage fluid and spleen were significantly higher in IPAF-deficient mice compared with WT (P &lt; 0.0001 and P = 0.0009, respectively) or IPAF
+      mice (P = 0.0005 and P = 0.0017, respectively). Hence, IPAF is important in innate immune defenses required to control the replication of PA103ΔU in vivo.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      An intact type III secretion system is required for
+      <italic>
+       P. aeruginosa–
+      </italic>
+      induced activation of caspase-1
+     </title>
+     <p>
+      Because no
+      <italic>
+       P. aeruginosa
+      </italic>
+      effector molecule appeared to be responsible for activation of caspase-1, we examined if the TTSS itself was required for
+      <italic>
+       P. aeruginosa
+      </italic>
+      -mediated caspase-1 activation. We used two TTSS mutants, PA103
+      <italic>
+       pscJ
+      </italic>
+      ∷Tn5 (MutN), which fails to assemble a TTSS apparatus, and PA103
+      <italic>
+       pcrV
+      </italic>
+      ∷Tn5 (Mut1), which assembles a TTSS apparatus lacking translocon components. Neither PA103MutN nor PA103Mut1 were able to induce macrophage cell death, as has been previously described (
+      ,
+      ), or to induce IL-1β secretion upon infection (
+      ). We also failed to detect caspase-1 activation by Western blot after infection of macrophages with either PA103MutN or PA103Mut1 (
+      ), suggesting that an intact TTSS is required for
+      <italic>
+       P. aeruginosa
+      </italic>
+      –induced caspase-1 activation.
+      <italic>
+       Pseudomonas
+      </italic>
+      type IV pili are not required for effector molecule delivery by the TTSS, though they appear to render the process more efficient (
+      ). Infection of macrophages with the type IV pilus mutant, PA103Δ
+      <italic>
+       pilA
+      </italic>
+      , still resulted in caspase-1 activation, macrophage cell-death, and IL-1β secretion, although to a lesser extent than PA103ΔUT (
+      ). IPAF-deficient macrophages failed to secrete IL-1β when infected with PA103Δ
+      <italic>
+       pilA
+      </italic>
+      , demonstrating that IL-1β secretion triggered by PA103Δ
+      <italic>
+       pilA
+      </italic>
+      was still IPAF dependent (unpublished data).
+     </p>
+     <p>
+      PA103Mut1, which was not able to activate caspase-1, does not produce PopB or PopD, the two proteins that form the translocon pore within the host cell membrane. We examined whether both proteins were required for caspase-1 activation by infecting macrophages with PA103Δ
+      <italic>
+       popB
+      </italic>
+      and PA103Δ
+      <italic>
+       popD
+      </italic>
+      , which are deficient in PopB and PopD, respectively. Infection with either PA103Δ
+      <italic>
+       popB
+      </italic>
+      or PA103Δ
+      <italic>
+       popD
+      </italic>
+      did not induce macrophage cell death or induce IL-1β secretion (
+      ), suggesting that membrane disruption by the translocon is a required step for
+      <italic>
+       P. aeruginosa
+      </italic>
+      –induced caspase-1 activation.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      IPAF-dependent activation of caspase-1 by
+      <italic>
+       P. aeruginosa
+      </italic>
+      is not dependent on bacterial flagellin
+     </title>
+     <p>
+      Recent studies have suggested that IPAF recognizes cytosolic flagellin (
+      ,
+      ,
+      ). As PA103ΔU does not assemble flagella on its surface, but nonetheless activates caspase-1 in an IPAF-dependent manner, we decided to test the requirement for flagellin explicitly. We used PAK and an isogenic mutant deficient in flagellin (PAKΔ
+      <italic>
+       fliC
+      </italic>
+      ) to determine if the IPAF-dependent caspase-1 activation we observed in response to
+      <italic>
+       P. aeruginosa
+      </italic>
+      infection was caused by flagellin. We first confirmed that the flagellin-deficient
+      <italic>
+       P. aeruginosa
+      </italic>
+      mutant, PAKΔ
+      <italic>
+       fliC
+      </italic>
+      , did not express flagellin (
+      ). Polyclonal antibody against PAK FliC protein was used to probe whole cell extract of the PAK strain and the PAKΔ
+      <italic>
+       fliC
+      </italic>
+      mutant by Western blot. Cell extracts from the PAK strain immunoblotted with anti-FliC polyclonal antibody revealed a 50-kD product, which was not observed in cell extracts from the PAKΔ
+      <italic>
+       fliC
+      </italic>
+      mutant (Fig. S3, available at
+      <ext-link ext-link-type="uri" ns0:href="http://www.jem.org/cgi/content/full/jem.20071239/DC1">
+       http://www.jem.org/cgi/content/full/jem.20071239/DC1
+      </ext-link>
+      ). WT macrophages infected with PAKΔ
+      <italic>
+       fliC
+      </italic>
+      still secreted a large amount of IL-1β, although less than compared with that induced by PAK (
+      ). Importantly, the IL-1β secreted in response to infection with both PAK and PAKΔ
+      <italic>
+       fliC
+      </italic>
+      was IPAF dependent, as IPAF-deficient macrophages secreted greatly diminished IL-1β in response to infection with PAK and PAKΔ
+      <italic>
+       fliC
+      </italic>
+      than did WT macrophages (
+      ). Caspase-1 activation in PAKΔ
+      <italic>
+       fliC
+      </italic>
+      -infected WT macrophages was detected by Western blot by the appearance of the p10 cleavage product (
+      ). PAKΔ
+      <italic>
+       fliC
+      </italic>
+      failed to activate caspase-1 in IPAF-deficient macrophages (
+      ). These data demonstrate that flagellin is not required for
+      <italic>
+       P. aeruginosa
+      </italic>
+      –induced caspase-1 activation.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     DISCUSSION
+    </title>
+    <p>
+     Caspase-1 and IL-1β have been postulated to have deleterious effects for the host in acute
+     <italic>
+      P. aeruginosa
+     </italic>
+     -infections. Schultz et al. found that IL-1R deficiency had a protective effect in response to pulmonary infection with
+     <italic>
+      P. aeruginosa
+     </italic>
+     (
+     ). In another study, neutralization of IL-1β with antibodies protected acid sphingomyelinase-deficient mice from lethal
+     <italic>
+      P. aeruginosa
+     </italic>
+     pneumonia (
+     ). In addition, Thakur et al. found in a
+     <italic>
+      P. aeruginosa
+     </italic>
+     keratitis model, that caspase-1 deficiency results in less corneal damage (
+     ). However, it remains unclear from these studies if the adverse effects mediated by IL-1β and caspase-1 are caused by inflammatory damage or lack of control of bacterial replication. In contrast to these studies, IL-1R–deficient mice had greater colonization with
+     <italic>
+      P. aeruginosa
+     </italic>
+     compared with WT mice after oral exposure to the pathogen in drinking water (
+     ). We show that the IPAF-inflammasome plays an important role in host defenses against
+     <italic>
+      P. aeruginosa
+     </italic>
+     . IPAF-deficiency resulted in increased bacterial burdens in the peritoneum and spleen of mice infected intraperitoneally with PA103ΔU, which also correlated with a decrease in serum IL-1β and IL-18.
+    </p>
+    <p>
+     Our results demonstrate that
+     <italic>
+      P. aeruginosa
+     </italic>
+     –induced macrophage cell death and secretion of IL-1β occur in a manner that is dependent on activation of the IPAF inflammasome. After macrophage infection with
+     <italic>
+      P. aeruginosa
+     </italic>
+     , caspase-1 is activated through an IPAF-dependent mechanism. The resulting activation of caspase-1 leads to the processing and secretion of IL-1β and the initiation of macrophage cell death. The adaptor molecule ASC contains a Pyrin and a CARD domain and can form a multiprotein complex along with NALP3 and caspase-1 that results in caspase-1 activation and processing of pro-IL-1β (
+     ). As IPAF can interact directly with pro-caspase-1 through a CARD–CARD interaction, the role of ASC in IPAF-mediated caspase-1 activation remains unclear. We found that ASC-deficient macrophages were partially defective in IL-1β secretion, but still underwent
+     <italic>
+      P. aeruginosa
+     </italic>
+     –induced cell death with similar kinetics compared with WT macrophages (Fig. S1, C and D). This was surprising, as caspase-1 activation is not observed in ASC-deficient macrophages after
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection (
+     ). However, this is consistent with the finding that
+     <italic>
+      S. typhimurium
+     </italic>
+     –induced caspase-1–dependent cell death, although IPAF dependent, was only partially dependent on ASC (
+     ). These observations suggest that ASC is, in fact, crucial for IPAF-mediated caspase-1 activation, and that in the absence of ASC, IPAF may partner with another caspase, such as caspase-11, to mediate cell death.
+    </p>
+    <p>
+     Recent studies have suggested that cytosolic flagellin can activate the IPAF inflammasome (
+     –
+     ). The intracellular pathogen,
+     <italic>
+      L. pneumophila
+     </italic>
+     can activate caspase-1 upon infection of macrophages, a process that requires IPAF and a second NLR protein called Naip5 (Birc1e) (
+     ).
+     <italic>
+      L. pneumophila
+     </italic>
+     mutants deficient in the gene encoding flagellin fail to activate caspase-1 (
+     ,
+     ).
+     <italic>
+      S. typhimurium
+     </italic>
+     also activates caspase-1 in an IPAF-dependent manner, but does not require Naip5 (
+     ).
+     <italic>
+      S. typhimurium
+     </italic>
+     mutants deficient in flagellin were found to be defective in their ability to activate caspase-1 (
+     ,
+     ). In contrast, we found that infection with either the nonflagellated strain PA103ΔU or the flagellin-deficient mutant strain PAKΔ
+     <italic>
+      fliC
+     </italic>
+     , resulted in the robust activation of caspase-1 and secretion of IL-1β (
+     ). At higher multiplicity of infection (MOI), flagellin-deficient
+     <italic>
+      S. typhimurium
+     </italic>
+     strains were also capable of inducing macrophage secretion of IL-1β (
+     ). Collectively, these data suggest that IPAF-dependent activation of caspase-1 occurs independently of bacterial flagellin.
+     <italic>
+      P. aeruginosa
+     </italic>
+     flagellin may act to enhance TTSS-dependent caspase-1 activation by aiding bacterial adhesion to the host cell in a manner similar to type IV pili.
+    </p>
+    <p>
+     A functional TTSS that contains the translocon proteins PopB and PopD was required for
+     <italic>
+      P. aeruginosa
+     </italic>
+     –induced caspase-1 activation and IL-1β secretion. Both
+     <italic>
+      S. typhimurium
+     </italic>
+     and
+     <italic>
+      S. flexneri
+     </italic>
+     also require their TTSS for activation of caspase-1. Likewise,
+     <italic>
+      L. pneumophila
+     </italic>
+     –induced caspase-1 activation is dependent on the Dot-Icm type IV secretion system, which is structurally unrelated but functionally analogous to the TTSS (
+     ). Thus, the type III and IV secretion systems are a common feature of Gram-negative pathogens shown to activate the IPAF inflammasome. We have demonstrated that flagellin is not required for IPAF-dependent caspase-1 activation by
+     <italic>
+      P. aeruginosa
+     </italic>
+     . We favor the hypothesis that in the case of
+     <italic>
+      P. aeruginosa
+     </italic>
+     , IPAF detects membrane damage induced by the type III secretion system translocon rather than any specific pathogen-derived molecule.
+    </p>
+    <p>
+     In addition to the IPAF/caspase-1–dependent macrophage cell death that we have described,
+     <italic>
+      P. aeruginosa
+     </italic>
+     also possesses multiple additional methods to induce host cell death. Upon infection of epithelial cells,
+     <italic>
+      P. aeruginosa
+     </italic>
+     induces the up-regulation of CD95/CD95 ligand on the cell surface. Ligation of CD95 by the CD95 ligand results in the activation of caspases 8 and 3 and the initiation of apoptosis of the epithelial cell (
+     ). Additional studies are needed to determine if the cell death pathways initiated by
+     <italic>
+      P. aeruginosa
+     </italic>
+     in macrophages are the same as those in epithelial cells (
+     ,
+     ). The
+     <italic>
+      P. aeruginosa
+     </italic>
+     TTSS is capable of delivering a combination of four different effector proteins, ExoS, ExoT, ExoU, and ExoY, into the host cell. Of these, ExoS and ExoU have been shown to be cytotoxic. Using the
+     <italic>
+      P. aeruginosa
+     </italic>
+     mutant strain PA103ΔUT, which has an intact TTSS but lacks all known effector molecules, we were able to demonstrate that caspase-1–dependent macrophage cell death and IL-1β secretion do not require the action of any described TTSS effectors. In addition, ExoU-expressing
+     <italic>
+      P. aeruginosa
+     </italic>
+     were still capable of killing macrophages, even in the absence of IPAF. These data identify at least two pathways that
+     <italic>
+      P. aeruginosa
+     </italic>
+     can exploit to kill macrophages, i.e., IPAF-dependent caspase-1 activation and IPAF-independent ExoU-mediated cytotoxicity/necrosis.
+    </p>
+    <p>
+     The effector molecule ExoU also had a dramatic and unexpected effect on cytokine secretion. In vivo infection of mice with the
+     <italic>
+      P. aeruginosa
+     </italic>
+     mutant strain PA103ΔU led to substantially more IL-1β and -18 production than infection with ExoU-expressing PA103. This effect was mediated by the inhibition of caspase-1 activation by ExoU. As either pharmacologic inhibition of PLA
+     <sub>
+      2
+     </sub>
+     activity or infection with strains expressing ExoU mutants lacking PLA
+     <sub>
+      2
+     </sub>
+     activity resulted in enhanced caspase-1 activation and IL-1β secretion, ExoU phospholipase activity appears central to its ability to suppress caspase-1 activation. It is unclear if ExoU-mediated caspase-1 inhibition occurs directly or through the effects of ExoU on another intermediate. Although less than one-third of clinical isolates express ExoU, strains that secrete ExoU cause more severe disease than strains that do not (
+     ). Disruption of the
+     <italic>
+      exoU
+     </italic>
+     gene resulted in decreased virulence of
+     <italic>
+      P. aeruginosa
+     </italic>
+     in mouse models of acute pneumonia (
+     ). In addition, patients with nosocomial
+     <italic>
+      P. aeruginosa
+     </italic>
+     pneumonias who were infected with ExoU-secreting isolates had worse outcomes than patients infected with isolates that did not secrete type III effectors (
+     ). The ability of ExoU to inhibit caspase-1 production may serve as an additional virulence mechanism that ExoU-expressing strains of
+     <italic>
+      P. aeruginosa
+     </italic>
+     use to evade the immune system.
+    </p>
+    <p>
+     It has recently been demonstrated that membrane damage induced by pore-forming toxins, such as listeriolysin O and aerolysin, can activate caspase-1 through a NALP3-dependent pathway (
+     ,
+     ). Disruption of the phagosome by
+     <italic>
+      Francisella tularensis
+     </italic>
+     has also been demonstrated to activate caspase-1 in an ASC-dependent manner (
+     ). It is possible that IPAF and NALP3 recognize an endogenous molecule that is induced or modified by pathogen-induced membrane disruption rather than direct recognition of the pathogen itself. This has been described for the Arabidopsis R protein RPS5, which, like the NLRs, contains a nucleotide-binding site and leucine-rich repeats. In Arabidopsis, resistance to
+     <italic>
+      P. syringae
+     </italic>
+     strains expressing AvrPphB requires RPS5 and the protein kinase PBS1 (
+     ). Proteolytic cleavage of PBS1 by AvrPphB is required for RPS5-mediated resistance. This suggests that RPS5 does not directly detect AvrPphB, but rather recognizes this protein indirectly through its cleavage of endogenous PBS1. Further studies to identify the downstream events after membrane disruption by the TTSS that result in IPAF inflammasome activation will be critical to understanding how IPAF participates in pathogen sensing.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="materials|methods">
+    <title>
+     MATERIALS AND METHODS
+    </title>
+    <sec disp-level="3">
+     <title>
+      Mice.
+     </title>
+     <p>
+      The generation of NALP3-, ASC-, caspase-1–, and IPAF-deficient mice has been previously described (
+      ,
+      ). ASC and NALP3-deficient mice were backcrossed onto the C57BL/6 genetic background for at least 8 generations. IPAF- and caspase-1–deficient mice were backcrossed onto the C57BL/6 genetic background for at least 5 generations. Age- and sex-matched C57BL/6 mice purchased from The Jackson Laboratory were used as WT controls for most studies. IPAF
+      mice were intercrossed to generate mutant and control mice for experiments using IPAF-deficient mice. All protocols used in this study were approved by the Yale Institutional Animal Care and Use Committee.
+     </p>
+    </sec>
+    <sec disp-level="3">
+     <title>
+      Bacterial strains and growth conditions.
+     </title>
+     <p>
+      The
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PAK and the isogenic PAKΔ
+      <italic>
+       fliC
+      </italic>
+      mutant, in which
+      <italic>
+       fliC
+      </italic>
+      is disrupted by a tetracycline resistance cassette, were obtained from J. Mattick (University of Queensland, Brisbane, Australia). All other
+      <italic>
+       P. aeruginosa
+      </italic>
+      mutants used in this study are isogenic with PA103 (
+      ), which is a nonflagellated clinical isolate that produces two Type III secreted exotoxins, ExoU and ExoT. The type III secretion mutant PA103
+      <italic>
+       pscJ
+      </italic>
+      ∷Tn5 (mutN) (
+      ), the type III translocation-deficient mutant PA103
+      <italic>
+       pcrV
+      </italic>
+      ∷Tn5 (mut1) (
+      ), the pilin-deficient strain PA103
+      <italic>
+       pilA
+      </italic>
+      ∷
+      <italic>
+       aacC1
+      </italic>
+      (
+      ), and the strains lacking ExoU (PA103ΔU), ExoT (PA103ΔT), or both exotoxins (PA103ΔUT) have been previously described (
+      ). The ExoU variants PA103ΔUT/S142A and PA103ΔUT/LS608 were expressed in
+      <italic>
+       P. aeruginosa
+      </italic>
+      by integrating a single copy of the mutated
+      <italic>
+       exoU
+      </italic>
+      allele with its endogenous promoter into the chromosomal
+      <italic>
+       aatB
+      </italic>
+      site of strain PA103ΔUT, as previously described (
+      ).
+     </p>
+     <p>
+      Unmarked in-frame deletions of
+      <italic>
+       popB
+      </italic>
+      (Δaa 11–371) and
+      <italic>
+       popD
+      </italic>
+      (Δaa 7–274) were constructed by allelic exchange (
+      ). 5′ and 3′ sequences flanking each gene were amplified by PCR and cloned in tandem into pEX18Gm (
+      ) to create the vectors pEX18-Δ
+      <italic>
+       popB
+      </italic>
+      and pEX18-Δ
+      <italic>
+       popD
+      </italic>
+      . The plasmids were mobilized into PA103 by conjugation; exconjugants were initially selected on Vogel-Bonner media plus gentamicin (100 μg/ml), and then subcultured to VBM plus 5% sucrose to select for vector backbone excision. Candidate Δ
+      <italic>
+       popB
+      </italic>
+      and Δ
+      <italic>
+       popD
+      </italic>
+      isolates were screened by PCR and confirmed by Southern blotting (unpublished data).
+     </p>
+     <p>
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains were cultured in Luria–Bertani broth overnight, diluted 1:50 (volume/volume), and grown for 2 h. Bacteria were washed and resuspended in PBS.
+     </p>
+    </sec>
+    <sec disp-level="3">
+     <title>
+      Macrophages.
+     </title>
+     <p>
+      Thioglycollate-elicited peritoneal macrophages were generated by injecting 1 ml of 3% thioglycollate solution into the peritoneal cavity of mice. 3–4 d later, macrophages were collected by peritoneal lavage and plated in DME supplemented with 10% FCS, 2 mM
+      <sc>
+       l
+      </sc>
+      -glutamine, 100 U/ml penicillin G, and 100 μg/ml streptomycin. Unless otherwise indicated, macrophages were activated by stimulating with 50 ng/ml LPS from
+      <italic>
+       E. coli
+      </italic>
+      serotype 0111:B4 (Invivogen) for 12–16 h before infection with
+      <italic>
+       P. aeruginosa
+      </italic>
+      .
+     </p>
+    </sec>
+    <sec disp-level="3">
+     <title>
+      In vitro bacterial infection.
+     </title>
+     <p>
+      Macrophages that were either unstimulated or had been activated with 50 ng/ml LPS for 12–16 h were washed, and the medium was replaced with antibiotic-free DME supplemented with 10% FCS and 2 mM
+      <sc>
+       l
+      </sc>
+      -glutamine. Macrophages were then infected with
+      <italic>
+       P. aeruginosa
+      </italic>
+      at a MOI of 20 bacteria per macrophage unless otherwise indicated; plates were then centrifuged for 3 min at 700 rpm in a swinging-bucket centrifuge. At the indicated time after infection, supernatants were collected. Culture supernatants were then assayed for IL-1β and TNFα. Antibody pairs for the IL-1β and TNFα ELISAs were purchased from R&amp;D Systems and eBioscience, respectively. Antibody pairs for the IL-6 ELISA were obtained from BD Biosciences. Macrophage cell death was determined at the indicated time points by LDH release using a cytotoxicity (LDH) detection kit (Promega).
+     </p>
+    </sec>
+    <sec disp-level="3">
+     <title>
+      Bacterial peritonitis.
+     </title>
+     <p>
+      Mice (8–12 wk old) were injected intraperitoneally with 1 × 10
+      CFU of either
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PA103 or PA103ΔU in 250 μl of DME. 4 h after infection, mice were killed and blood was collected by cardiac puncture. Serum was diluted two- to threefold in PBS and assayed for IL-1β, TNFα, and IL-18 levels by ELISA. Antibody pairs for the IL-18 ELISA were purchased from MBL. To determine bacterial loads in the peritoneum and spleen, mice (8–12 wk old) were injected intraperitoneally with 5 × 10
+      CFU of
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PA103ΔU in 250 μl of DME. 12 h after infection, mice were killed, peritoneal lavage with 10 ml of PBS was collected, and the spleen was homogenized in PBS. Dilutions were plated on Vogel-Bonner minimal medium to determine CFUs.
+     </p>
+    </sec>
+    <sec disp-level="3">
+     <title>
+      Western blotting.
+     </title>
+     <p>
+      Electrophoresis of proteins was performed using the NuPAGE system (Invitrogen) according to manufacturer\s protocol. In brief, after infection with
+      <italic>
+       P. aeruginosa
+      </italic>
+      , macrophages and supernatants were lysed in lysis buffer (50 mM Tris-HCL, 5 mM EDTA, 150 mM NaCl, 1% Triton X-100, and a protease inhibitor cocktail [Roche]) and stored at −80
+      C until analyzed. Proteins were separated on a NuPAGE gel, and transferred to PVDF membrane by electroblotting. To detect caspase-1 a rabbit polyclonal anti–mouse casapse-1 p10 antibody (Santa Cruz Biotechnology, Inc.) was used. Antibodies to phosphorylated-IκBα, IκBα, phosphorylated-p38, p38, phosphorylated-ERK1/2, ERK1/2, and caspase-3 were purchased from Cell Signaling Technology. The anti–IL-1β antibody used for Western blotting was purchased from Chemicon International.
+     </p>
+    </sec>
+    <sec disp-level="3">
+     <title>
+      Statistical analysis.
+     </title>
+     <p>
+      We performed statistical analysis by using an unpaired Student\s
+      <italic>
+       t
+      </italic>
+      test for all studies, except bacterial burdens, which were compared by the nonparametric Mann-Whitney test. We considered values of P &lt; 0.05 to be statistically significant.
+     </p>
+    </sec>
+    <sec disp-level="3">
+     <title>
+      Online supplemental material.
+     </title>
+     <p>
+      Fig. S1 (A–D) shows kinetics of macrophage cell death and IL-1β secretion in WT, ASC-, and caspase-1–deficient macrophages in response to infection with
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PAK. Fig. S1 E shows that NALP3-deficient macrophages are not defective in caspase-1 activation in response to infection with PAK. Fig. S2 (A–C) shows that, similar to unprimed macrophages, caspase-1 activation and IL-1β secretion in LPS-primed macrophages is inhibited by ExoU. Fig. S2 D shows that caspase-3 activation occurs with similar kinetics in unprimed macrophages infected with either PA103 or PA103ΔU. Fig. S3 shows the absence of flagellin expression in the
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PAKΔ
+      <italic>
+       fliC
+      </italic>
+      . The online version of this article is available at
+      <ext-link ext-link-type="uri" ns0:href="http://www.jem.org/cgi/content/full/jem.20071239/DC1">
+       http://www.jem.org/cgi/content/full/jem.20071239/DC1
+      </ext-link>
+      .
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="supplementary-material">
+    <title>
+     Supplemental Material
+    </title>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <p>
+    <italic>
+     Pseudomonas aeruginosa
+    </italic>
+    causes a variety of acute infections, such as ventilator-associated pneumonias, burn superinfections, and medical device–related infections. In addition,
+    <italic>
+     P. aeruginosa
+    </italic>
+    chronically infects cystic fibrosis patients and causes significant morbidity and mortality in this population. Like many other pathogenic Gram-negative bacteria,
+    <italic>
+     P. aeruginosa
+    </italic>
+    utilizes a type III secretion system (TTSS) to inject effector molecules into the cytoplasmic compartment of the host cell. Four effector molecules, exoenzyme S (ExoS), ExoT, ExoU, and ExoY, are variably expressed by
+    <italic>
+     P. aeruginosa
+    </italic>
+    strains and are able to initiate inflammatory events that may lead to apoptotic or necrotic cell death (
+    ,
+    ). The TTSS is a complex macromolecular structure that spans both bacterial membranes and includes a long, needlelike structure through which the effector molecules pass. Access of the effector molecules into the cytoplasm of the host cell requires disruption of the plasma membrane by a proteinaceous structure that forms a pore (
+    ). This structure, called the translocon, is made up of two bacterial proteins, PopB and PopD, inserted into the host cell membrane (
+    ,
+    ).
+    <italic>
+     P. aeruginosa
+    </italic>
+    mutants that have a defective TTSS have been shown to be less virulent than their wild-type counterparts (
+    –
+    ). Although other Gram-negative bacteria, such as
+    <italic>
+     Salmonella typhimurium
+    </italic>
+    (
+    ) and
+    <italic>
+     Shigella flexneri
+    </italic>
+    (
+    ,
+    ), have been shown to mediate a caspase-1–dependent macrophage death that is dependent on a functional TTSS, the mechanisms by which
+    <italic>
+     P. aeruginosa
+    </italic>
+    mediates TTSS-dependent macrophage cell death is largely unknown (
+    ).
+   </p>
+  </textgroup>
+  <textgroup>
+   <p>
+    The mammalian NLR family is composed of &gt;20 members that contain a C-terminal leucine-rich repeat domain, a central nucleotide-binding NACHT domain, and an N-terminal protein–protein interaction domain composed of a caspase activation and recruitment domain (CARD) or Pyrin domain (
+    –
+    ). These proteins promote the assembly of multiprotein complexes, termed inflammasomes, which are required for the activation of inflammatory caspases. Caspase-1 is a key component of the inflammasome, and is able to initiate a cell death program, as well as process the proinflammatory cytokines pro-IL-1β and pro-IL-18 into their mature forms, IL-1β and -18, respectively (
+    ). IPAF (also known as NLRC4, CARD12, or CLAN), which is a member of the NLR family, has been shown to be responsible for caspase-1 activation in response to
+    <italic>
+     S. typhimurium
+    </italic>
+    and
+    <italic>
+     Legionella pneumophila
+    </italic>
+    (
+    ,
+    ). It has been suggested that for
+    <italic>
+     Salmonella
+    </italic>
+    and
+    <italic>
+     Legionella
+    </italic>
+    , cytosolic flagellin is required for the activation of caspase-1 through an IPAF-dependent pathway (
+    –
+    ).
+   </p>
+  </textgroup>
+  <textgroup>
+   <p>
+    In this study, we show that ExoU-deficient strains of
+    <italic>
+     P. aeruginosa
+    </italic>
+    kill macrophages in an IPAF/caspase-1–dependent manner that also results in the secretion of caspase-1–driven proinflammatory cytokines. In contrast, ExoU-expressing
+    <italic>
+     P. aeruginosa
+    </italic>
+    strains kill macrophages independently of caspase-1. In addition, ExoU can inhibit caspase-1 activation and thereby inhibit the secretion of IL-1β and -18. Unlike previous reports, which have suggested that flagellin activates the IPAF inflammasome, we show that
+    <italic>
+     P. aeruginosa
+    </italic>
+    activation of IPAF and caspase-1 is independent of flagellin, but does require a functional TTSS/translocon.
+   </p>
+  </textgroup>
+ </sentences>
+</article>

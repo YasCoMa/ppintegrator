@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  The
+ </title>
+ <abstract>
+  <p>
+   Clinical infections by
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   , a deadly Gram-negative, opportunistic pathogen of immunocompromised hosts, often involve the formation of antibiotic-resistant biofilms. Although biofilm formation has been extensively studied
+   <italic>
+    in vitro
+   </italic>
+   on glass or plastic surfaces, much less is known about biofilm formation at the epithelial barrier. We have previously shown that when added to the apical surface of polarized epithelial cells,
+   <italic>
+    P. aeruginosa
+   </italic>
+   rapidly forms cell-associated aggregates within 60 minutes of infection. By confocal microscopy we now show that cell-associated aggregates exhibit key characteristics of biofilms, including the presence of extracellular matrix and increased resistance to antibiotics compared to planktonic bacteria. Using isogenic mutants in the type III secretion system, we found that the translocon, but not the effectors themselves, were required for cell-associated aggregation on the surface of polarized epithelial cells and at early time points in a murine model of acute pneumonia. In contrast, the translocon was not required for aggregation on abiotic surfaces, suggesting a novel function for the type III secretion system during cell-associated aggregation. Supernatants from epithelial cells infected with wild-type bacteria or from cells treated with the pore-forming toxin streptolysin O could rescue aggregate formation in a type III secretion mutant, indicating that cell-associated aggregation requires one or more host cell factors. Our results suggest a previously unappreciated function for the type III translocon in the formation of
+   <italic>
+    P. aeruginosa
+   </italic>
+   biofilms at the epithelial barrier and demonstrate that biofilms may form at early time points of infection.
+  </p>
+  <p>
+   Clinical infections by
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   , a deadly Gram-negative, opportunistic pathogen of immunocompromised patients, involve the formation of antibiotic-resistant biofilms. Although
+   <italic>
+    P. aeruginosa
+   </italic>
+   biofilm formation has been extensively studied on glass or plastic surfaces, less is known about biofilm formation at the epithelial barrier. This study shows that, on epithelial cells,
+   <italic>
+    P. aeruginosa
+   </italic>
+   forms aggregates that exhibit key characteristics of biofilms. Furthermore, we demonstrate that aggregation on epithelial cells and at early time points in mouse pneumonia requires pore formation mediated by the type III secretion system. Our results indicate that biofilm-like aggregation is induced by a host cell factor that is released after pore formation, suggesting an unexpected role for an acute virulence factor in biofilm formation.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="s1">
+    <title>
+     Introduction
+    </title>
+    <p>
+     For
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     and many other human pathogens, biofilms are an important mode of growth in a wide variety of clinically significant infections, including lung infections in cystic fibrosis patients, endocarditis, and periodontitis
+     ,
+     . A widely accepted and core definition of a biofilm comprises: 1) the presence of aggregates or microcolonies that adhere to a surface, 2) encasement in an extracellular matrix, and 3) increased resistance to antimicrobials
+     –
+     . This last feature has profound clinical implications and is thought to account for many infectious disease challenges, including recurrent or persistent infections and the spread of infectious emboli
+     . Thus, models of human pathogenic infections that incorporate biofilms and host cells are essential for developing rational approaches to prevention and treatment.
+    </p>
+    <p>
+     The Gram-negative, opportunistic pathogen
+     <italic>
+      P. aeruginosa
+     </italic>
+     causes both life-threatening hospital-acquired acute infections—including ventilator-associated pneumonia, post-operative wound infections, and skin and soft tissue infections in burn patients—as well as chronic lung infections in patients with cystic fibrosis. Previous reports support the concept that acute infections are associated with the planktonic life style, whereas chronic infections involve biofilm formation in the host
+     . For example, critical virulence factors associated with acute infections, such as the type III secretion system (T3SS)—a contact-dependent, needle-like apparatus that directly injects bacterial toxins into infected host cells—are inversely regulated with biofilm determinants, such as the production of the exopolysaccharides Psl and Pel
+     . Some recently published data challenges this idea
+     –
+     .
+    </p>
+    <p>
+     However, most of what is known about
+     <italic>
+      P. aeruginosa
+     </italic>
+     biofilm formation and development derives from studies on abiotic (i.e. glass or plastic) surfaces. Although relevant to device-related infections, whether these findings are pertinent to biofilms formed at the epithelial barrier, such as in lung tissue, are important unanswered questions. Only a few groups have investigated
+     <italic>
+      P. aeruginosa
+     </italic>
+     biofilm formation on epithelial cells
+     ,
+     . While that work has shown that host cells play an important role in the development of biofilms, the bacterial virulence determinants of
+     <italic>
+      P. aeruginosa
+     </italic>
+     biofilm formation on eukaryotic cells have not been fully examined.
+    </p>
+    <p>
+     We have previously used
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection of polarized epithelial cells to model host-pathogen interactions at the mucosal barrier
+     ,
+     . When grown for several days on porous membrane filters (Transwells), Madin-Darby Canine Kidney (MDCK) epithelial cells form well-polarized, confluent monolayers with distinct apical and basolateral surfaces that are separated by tight junctions
+     . When
+     <italic>
+      P. aeruginosa
+     </italic>
+     is added to the apical surface of polarized epithelial cells, cell-associated aggregates are formed from free-swimming planktonic bacteria within 30 minutes
+     ,
+     . The binding of cell-associated aggregates induces remarkable changes in epithelial cell polarity that result in the formation of an actin-rich host cell protrusion at the site of aggregate binding
+     ,
+     . This model system allows clinically important questions to be asked about the mechanism and requirements of cell-associated aggregation during infection at the epithelial barrier, which can then be extended to
+     <italic>
+      in vivo
+     </italic>
+     models of human disease.
+    </p>
+    <p>
+     We used this epithelial cell model system together with a murine model of acute
+     <italic>
+      P. aeruginosa
+     </italic>
+     pneumonia to investigate whether cell-associated aggregates of
+     <italic>
+      P. aeruginosa
+     </italic>
+     show characteristics of biofilms and whether biofilm formation is modulated by the T3SS. Our studies reveal a previously unappreciated role of the T3SS in the formation of biofilms at the epithelial barrier. Furthermore, our results indicate that biofilm formation may occur at early time points of infection, thus opening up new therapeutic strategies for treating acute
+     <italic>
+      P. aeruginosa
+     </italic>
+     infections.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s2">
+    <title>
+     Results
+    </title>
+    <sec id="s2a">
+     <title>
+      Cell-associated aggregates represent biofilms
+     </title>
+     <p>
+      We first tested whether cell-associated aggregates showed key characteristics of biofilms, including the presence of a matrix containing extracellular DNA (eDNA) and exopolysaccharides, increased resistance to antimicrobials, and a requirement for the major adhesins type IV pili and flagella
+      ,
+      . Confluent monolayers of MDCK epithelial cells were apically infected with the
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PAK or PAO1, fixed after 60 minutes of infection, and examined by laser scanning confocal microscopy together with fluorescent probes for DNA and polysaccharides. Incubation with DDAO
+      , a nucleic acid stain, revealed a cloud of eDNA within and surrounding the aggregate (
+      ). The aggregates also stained with the lectins FITC-HHA (
+      and
+      ), which binds to the exopolysaccharide Psl
+      ,
+      , and FITC-Concanavalin A (
+      ), which binds to mannose-containing polysaccharides such as alginate. The observed lectin staining of bacterial aggregates was specific, as no FITC-HHA or FITC-Concanavalin A staining was observed in PAO1Δ
+      <italic>
+       pelFpslD
+      </italic>
+      , a strain lacking two major
+      <italic>
+       P. aeruginosa
+      </italic>
+      exopolysaccharides (
+      ).
+     </p>
+     <p>
+      To determine whether cell-associated aggregates showed increased resistance to antibiotics, PAK was incubated with high doses of amikacin (400 ug/ml, &gt;50 times the MIC
+      <sub>
+       50
+      </sub>
+      ) for 2 hours, fixed, and subjected to live (green)/dead (red) staining. Although 100% of planktonically grown bacteria were killed after 2 hour exposure to amikacin, only a small fraction of the bacteria in cell-associated aggregates were killed by amikacin (red/orange staining), while most remained viable (
+      ). Single bacteria bound to MDCK cells were uniformly killed by amikacin (white arrows). These findings indicate that cell-associated wild-type aggregates exhibit resistance to high doses of amikacin and suggest that antibiotic resistance is specific to cell-associated aggregates, but not to adherent single bacteria. Live/dead staining of PA01Δ
+      <italic>
+       pelFpslD
+      </italic>
+      aggregates after 2 hour exposure to amikacin showed that all bacteria were readily killed (
+      ), further suggesting that antibiotic resistance of cell-associated aggregates requires exopolysaccharide production.
+     </p>
+     <p>
+      We next sought to determine the role of flagella and type IV pili in cell-associated aggregation, as these two
+      <italic>
+       P. aeruginosa
+      </italic>
+      adhesins are required for abiotic biofilm formation
+      ,
+      . To quantify cell-associated aggregation, we recorded the number of cell-associated aggregates (defined as groupings of ≥10 bacteria) formed after 60 minutes of infection by imaging 342 consecutive fields (5*10
+      square microns) in the center of each monolayer with spinning disk confocal microscopy. Formation of cell-associated aggregates was reduced by 90–95% in both the non-flagellated mutant PAKΔ
+      <italic>
+       fliC
+      </italic>
+      and the non-piliated mutant PAKΔ
+      <italic>
+       pilA
+      </italic>
+      (
+      ). Together, these results support the hypothesis that cell-associated aggregates represent
+      <italic>
+       P. aeruginosa
+      </italic>
+      biofilms.
+     </p>
+    </sec>
+    <sec id="s2b">
+     <title>
+      Cell-associated aggregation requires the T3SS translocon but does not require T3SS effectors
+     </title>
+     <p>
+      The T3SS is a key virulence determinant in acute infections
+      <italic>
+       in vitro
+      </italic>
+      and
+      <italic>
+       in vivo
+      </italic>
+      , but most published studies suggest that it is downregulated in abiotic biofilms
+      ,
+      ,
+      ,
+      . To investigate the role of T3SS components in cell-associated aggregates, we infected MDCK cells stably expressing the PH domain of Akt fused to GFP (PH-Akt-GFP), a probe for the basolateral phospholipid phosphatidylinositol 3,4,5-trisphosphate (PIP3)
+      , with a panel of isogenic T3SS mutants. This cell line allowed us to visualize host cell protrusions at the site of aggregate binding
+      ,
+      . The bacterial strains tested were PAKΔ
+      <italic>
+       STY
+      </italic>
+      , which lacks all known secreted effectors of PAK; PAKΔ
+      <italic>
+       pscC
+      </italic>
+      , which harbors a mutation in a structural gene for the T3SS needle apparatus and therefore cannot form a needle complex or a translocon; and PAKΔ
+      <italic>
+       popB
+      </italic>
+      , which harbors a mutation in an essential component of the pore-forming translocon but has a functional T3SS needle apparatus
+      .
+     </p>
+     <p>
+      We first observed that the effectorless mutant PAKΔ
+      <italic>
+       STY
+      </italic>
+      could form cell-associated aggregates similar to those formed by PAK (
+      ). Furthermore, these aggregates were associated with the formation of membranous protrusions on the apical surface of MDCK cells that were enriched in PIP3, as occurs with wild-type bacteria
+      . Quantification by spinning disk confocal microscopy demonstrated that the efficiency of cell-associated aggregation was similar in PAK and PAKΔ
+      <italic>
+       STY
+      </italic>
+      (
+      ). Thus, the three known T3SS effectors encoded in PAK are not required for cell-associated aggregate or protrusion formation. In contrast, PAKΔ
+      <italic>
+       pscC
+      </italic>
+      and PAKΔ
+      <italic>
+       popB
+      </italic>
+      showed a 66% decrease in cell-associated aggregation (
+      ). Importantly, overall binding was not decreased: individual or groups of 2 to 3 bacteria were observed to bind to the cell surface (
+      ,
+      ), and the number of bound colony-forming units (CFUs) per well was similar in all mutants when measured by conventional adhesion assays (
+      ), consistent with previous reports
+      . The few aggregates that were formed by PAKΔ
+      <italic>
+       popB
+      </italic>
+      resembled wild-type aggregates in production of eDNA (
+      ) and exopolysaccharide (
+      ) and in antibiotic resistance (
+      ). Overall, our results show that the T3SS translocon is required for cell-associated aggregation, whereas the known T3SS effectors are not required.
+     </p>
+    </sec>
+    <sec id="s2c">
+     <title>
+      Bacterial aggregation in mouse pneumonia requires the T3SS translocon but does not require T3SS effectors
+     </title>
+     <p>
+      To determine whether the T3SS also plays a role in bacterial aggregation
+      <italic>
+       in vivo
+      </italic>
+      , mice were intranasally infected with PAK and the T3SS mutants PAKΔ
+      <italic>
+       STY
+      </italic>
+      and PAKΔ
+      <italic>
+       popB
+      </italic>
+      . Lungs were isolated, sectioned, and stained with anti-Pseudomonal antibody at 3 hours post-infection to examine differences in aggregation while avoiding cytotoxicity to airway cells and the subsequent inflammatory response expected at later time points
+      . Overall bacterial load (measured as CFUs/lung) was similar for all strains (
+      ). Imaging of lung sections by widefield epifluorescent microscopy (
+      ) and by confocal microscopy (
+      ) after infection with PAK revealed the formation of multiple bacterial aggregates attached to the epithelium of distal airways and alveoli. Microscopic images of PAKΔ
+      <italic>
+       STY
+      </italic>
+      also showed robust aggregation, whereas less aggregation was observed with PAKΔ
+      <italic>
+       popB
+      </italic>
+      (
+      ).
+     </p>
+     <p>
+      Because intranasal infection results in “pockets” of high and low bacterial density in the distal airways, over 60 widefield images of varying bacterial density were analyzed for each bacterial strain. By quantifying the proportion of total bacteria that was found within aggregates, we discovered that the amount of aggregation increased linearly with bacterial density across all strains. (
+      and
+      ). However, compared to PAK and PAKΔ
+      <italic>
+       STY
+      </italic>
+      , PAKΔ
+      <italic>
+       popB
+      </italic>
+      showed a ∼30% decrease in aggregation as judged by pairwise comparisons using linear regression lines (
+      , p&lt;0.05). Thus, our results demonstrate that the early stages of aggregation in a murine model of pneumonia are dependent on the T3SS translocon but independent of the T3SS effectors. These findings suggest that our model system of aggregate formation on MDCK cells can be used to accurately model
+      <italic>
+       in vivo
+      </italic>
+      events.
+     </p>
+    </sec>
+    <sec id="s2d">
+     <title>
+      Co-infection with type III secretion-competent bacteria restores cell-associated aggregation in the translocon mutant
+     </title>
+     <p>
+      To elucidate the mechanism responsible for differences in aggregation among T3SS mutants, we considered the possibility that type III translocon-mediated membrane damage could result in the release of a factor that could act in
+      <italic>
+       trans
+      </italic>
+      to induce bacterial aggregation. We therefore assayed by confocal microscopy whether the defect in cell-associated aggregation of PAKΔ
+      <italic>
+       popB
+      </italic>
+      could be rescued by co-infection with T3SS+ bacteria. Equal numbers of PAKΔ
+      <italic>
+       popB
+      </italic>
+      expressing mCherry and T3SS+ bacteria expressing GFP were added to the apical surface of MDCK cells and the composition of the resulting aggregates was determined by volumetric analysis. In control experiments, mixing of PAK-mCherry with PAK-GFP led to the formation of cell-associated aggregates composed equally of red and green bacteria (
+      ), consistent with previous reports that aggregates form
+      <italic>
+       de novo
+      </italic>
+      after contact with the cell surface
+      . When PAKΔ
+      <italic>
+       popB
+      </italic>
+      -mCherry was co-infected with PAK-GFP, the deficiency in cell-associated aggregation was restored (
+      ), and the resulting aggregates were also composed equally of red and green bacteria (
+      ). Similarly, cell-associated aggregation of PAKΔ
+      <italic>
+       popB
+      </italic>
+      -mCherry was restored by co-infection with PAKΔ
+      <italic>
+       STY
+      </italic>
+      -GFP (
+      ), confirming that T3SS effectors were not required for this process.
+     </p>
+     <p>
+      Although PAKΔ
+      <italic>
+       fliC
+      </italic>
+      and PAKΔ
+      <italic>
+       pilA
+      </italic>
+      are deficient in binding and motility, they have a functional T3SS
+      . We assessed whether these mutants could restore cell-associated aggregation when co-infected with PAKΔ
+      <italic>
+       popB
+      </italic>
+      . Upon co-infection of PAKΔ
+      <italic>
+       fliC
+      </italic>
+      -mCherry or PAKΔ
+      <italic>
+       pilA
+      </italic>
+      -mCherry with PAKΔ
+      <italic>
+       popB
+      </italic>
+      -GFP, the deficiency in aggregation was restored (
+      ). Remarkably, each cell-associated aggregate contained a few T3SS-competent bacteria surrounded by many T3SS-deficient bacteria (
+      ). Together, our findings indicate that the T3SS can function in
+      <italic>
+       trans
+      </italic>
+      to induce formation of cell-associated aggregates and that even a small number of adherent T3SS+ bacteria are sufficient to restore aggregation.
+     </p>
+    </sec>
+    <sec id="s2e">
+     <title>
+      Cell-associated aggregation is restored by supernatants from PAK-infected cells
+     </title>
+     <p>
+      We tested whether supernatants from infected cells were sufficient to restore cell-associated aggregation in PAKΔ
+      <italic>
+       popB
+      </italic>
+      . We co-incubated filtered apical supernatants from PAK-infected MDCK cells with PAKΔ
+      <italic>
+       popB
+      </italic>
+      (
+      ) and quantified cell-associated aggregation. Addition of filtered supernatant from PAK-infected cells restored cell-associated aggregation to PAKΔ
+      <italic>
+       popB
+      </italic>
+      , whereas addition of filtered supernatant from bacterial culture only, uninfected cells, or cells infected with PAKΔ
+      <italic>
+       popB
+      </italic>
+      , did not (
+      ). These results show that an aggregate-inducing factor is released into the supernatant. Furthermore, the presence of both T3SS+ bacteria and the host cell is required for the generation of this aggregate-inducing factor.
+     </p>
+     <p>
+      Although the type III translocon has only been shown to insert into eukaryotic cells
+      , our results did not distinguish whether the translocon resulted in release of a factor from host cells or from bacteria, nor did they exclude the possibility of a previously undescribed type III-secreted effector. To discriminate among these possibilities, we prepared supernatants from uninfected MDCK cells exposed to the pore-forming toxin streptolysin O (SLO)
+      and tested whether they could restore cell-associated aggregation to PAKΔ
+      <italic>
+       popB
+      </italic>
+      (
+      ). Lactate dehydrogenase release assays confirmed that the amount of SLO used was sufficient to permeabilize the apical membrane of the MDCK cells without lysing the cell monolayer (see
+      ). Remarkably, addition of SLO-generated supernatant restored cell-associated aggregation to PAKΔ
+      <italic>
+       popB
+      </italic>
+      (
+      ), suggesting that a soluble factor released by host cells in response to pore formation is sufficient to induce aggregate formation.
+     </p>
+    </sec>
+    <sec id="s2f">
+     <title>
+      The T3SS is not required for abiotic biofilm formation
+     </title>
+     <p>
+      Our results thus far showed that the T3SS translocon induces release of a host cell factor that leads to biofilm-like aggregate formation on the surface of polarized epithelial cells. We predicted that there should be no effect of the T3SS on biofilm formation in the absence of host cells. To test this hypothesis, we examined the ability of PAK and the isogenic T3SS mutants to form biofilms under two different abiotic conditions: flow chambers and static microtiter plate assays. We found no difference among the mushroom-shaped multicellular biofilm structures formed by PAK, PAKΔ
+      <italic>
+       STY
+      </italic>
+      , PAKΔ
+      <italic>
+       pscC
+      </italic>
+      , and PAKΔ
+      <italic>
+       popB
+      </italic>
+      after 96 hours of growth in flow chambers (
+      ). We further validated these results in biofilms grown in tissue culture media on microtiter plates and observed no significant difference among PAK, PAKΔ
+      <italic>
+       STY
+      </italic>
+      , PAKΔ
+      <italic>
+       pscC
+      </italic>
+      , and PAKΔ
+      <italic>
+       popB
+      </italic>
+      after 17 hours of growth (
+      , black bars). Collectively, these results show that the T3SS is not required for biofilm formation in the absence of host cells.
+     </p>
+    </sec>
+    <sec id="s2g">
+     <title>
+      The aggregate-inducing factor enhances abiotic biofilm formation and is sensitive to heat treatment
+     </title>
+     <p>
+      We assessed whether our isolated aggregate-inducing factor was sufficient to augment biofilm formation in the absence of host cells. Filtered apical supernatants from PAK-infected MDCK cells were added to PAK or the T3SS mutants, and biofilm formation on microtiter plates was measured after 17 hours. Biofilm formation in tissue culture media (MEM) served as the control. The supernatant significantly increased biofilm formation in PAK and in the T3SS mutants (
+      , gray bars), demonstrating that the aggregate-inducing factor can enhance biofilm formation even on abiotic surfaces.
+     </p>
+     <p>
+      We used this assay to biochemically characterize the aggregate-inducing factor. The ability of supernatants from PAK-infected MDCK cells to enhance biofilm formation was diminished by heat treatment at 95°C but not by protease treatment (
+      ). Iron has previously been established as a biofilm-enhancing factor, and the iron chelator conalbumin has been shown to reduce
+      <italic>
+       P. aeruginosa
+      </italic>
+      biofilm formation on airway epithelial cells
+      ,
+      . Addition of conalbumin did not reduce the activity of the aggregate-inducing factor (
+      ). We thus conclude that the aggregate-inducing factor is neither protein nor iron.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s3">
+    <title>
+     Discussion
+    </title>
+    <p>
+     Biofilm formation is increasingly recognized as a major problem in human infections
+     ,
+     . Because biofilms can resist innate immune defenses and antibiotic therapy, prevention and adequate eradication of biofilms present a difficult clinical challenge. Most studies have examined
+     <italic>
+      P. aeruginosa
+     </italic>
+     biofilms formed on abiotic (i.e. glass or plastic) surfaces, which may not recapitulate important features of host-pathogen interactions. In this work, we establish that co-culture of bacteria with polarized epithelial cells serves as a robust model system of biofilm formation that accurately predicts key aspects of
+     <italic>
+      in vivo
+     </italic>
+     infections. We demonstrate a previously unappreciated role for the type III secretion translocon in biofilm-like aggregate formation on polarized epithelial cells and in a murine model of acute pneumonia.
+    </p>
+    <p>
+     Several lines of evidence indicated that cell-associated aggregates exhibit key characteristics of biofilms. First, these aggregates contained both extracellular DNA and exopolysaccharides, known components of the extracellular matrix of biofilms. Second, the aggregates showed increased resistance to doses of aminoglycoside that readily kill planktonic bacteria. Third, our results suggest that the flagella and Type IV pili—adhesins that are known requirements for biofilm formation
+     ,
+     —are also required for cell-associated aggregation. Our cell-associated model system provides a robust tool for investigating many other virulence determinants of biofilms and will be used in future experiments to examine the role of exopolysaccharide secretion, cyclic di-GMP production, and quorum-sensing.
+    </p>
+    <p>
+     Through quantitative analysis of infected mouse lungs, we uncovered a previously undescribed role for the type III translocon in early
+     <italic>
+      in vivo
+     </italic>
+     infection. Translocon-competent bacteria were more efficient at forming aggregates in the distal airways and alveoli of the lung at 3 hours after infection. While numerous studies clearly show that the type III secreted effectors contribute to virulence
+     , the role of the translocon is less well-defined. Previous reports have described translocon-dependent pathogenicity
+     <italic>
+      in vitro
+     </italic>
+     ,
+     –
+     and
+     <italic>
+      in vivo
+     </italic>
+     , although the mechanism remains unclear. Our results also indicate a role for the translocon in the formation of aggregates at early timepoints of infection, which may confer advantages to bacteria, including resistance to antibiotics. However, the inner rod protein of the T3SS has been shown to activate the cytosolic innate immune response and thus may also alert the host to infection
+     . Therefore, early formation of T3SS-dependent aggregates has important implications for the balance between host and pathogen.
+    </p>
+    <p>
+     Although several
+     <italic>
+      in vitro
+     </italic>
+     studies have reported that the T3SS of
+     <italic>
+      P. aeruginosa
+     </italic>
+     and abiotic biofilm formation are reciprocally regulated
+     ,
+     ,
+     , we determined that the T3SS is essential for the initiation of cell-associated aggregation in conditions that may recapitulate human infections. These results imply that the coordinate regulation of T3SS and biofilm formation may be more complex during formation of cell-associated aggregation. Indeed, some studies have shown that T3SS can be activated in a subset of biofilm-grown bacteria
+     –
+     . Our data suggest a model in which a few type III secretion-competent bacteria adhere to the apical surface of the epithelial barrier and elicit the release of one or more host cell factors (
+     ). It is currently unclear whether this release is solely a result of apical cell membrane damage or if it requires downstream signaling from the host cell. The released host cell factor is sufficient for inducing the formation of cell-associated aggregation even in bacteria that lack a functional T3SS. Future studies will examine whether T3SS is downregulated at later time points and whether known regulators of the T3SS in abiotic biofilms, including the RetS/GacS signaling pathway
+     , also impact cell-associated aggregation.
+    </p>
+    <p>
+     Remarkably, our results suggest that this host cell factor has a significant enhancing effect even on biofilms grown on abiotic surfaces. Although we did not investigate
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection of other cell lines, we speculate that the same factor may be responsible for the T3SS-dependent phenomena of “pack-swarming” of
+     <italic>
+      P. aeruginosa
+     </italic>
+     around macrophages
+     . Characterization of the aggregate-inducing factor suggests that it is neither iron nor protein, although it was sensitive to heat treatment. The identity of the host factor and its mechanism of action, which are currently being investigated, may offer new therapeutic strategies for both cell-associated and abiotic biofilms as well as
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection of other types of cells.
+    </p>
+    <p>
+     Our work is consistent with kinetic measurements of aggregate formation
+     in which time-lapse microscopy showed that cell-associated aggregates develop within minutes after the recruitment of a “sentinel” bacterium, followed by 1–2 more bacteria, and then rapid accumulation of multiple bacteria. Thus, in contrast to abiotic biofilm formation, biofilm-like aggregate formation on the apical surface of polarized epithelial cells is extremely rapid. Our work adds to a growing body of evidence that biofilms may form during the time course of an acute infection. In an analogous
+     <italic>
+      in vitro
+     </italic>
+     model system of
+     <italic>
+      P. aeruginosa
+     </italic>
+     biofilm formation on airway epithelial cells, significant biofilm formation occurred within 3 hours of inoculation
+     , while alginate-secreting biofilms have been observed within 8 hours in a mouse model of acute burn infection
+     . Uropathogenic
+     <italic>
+      E. coli
+     </italic>
+     also forms well-organized biofilms in mouse bladders within 6–8 hours
+     .
+    </p>
+    <p>
+     The formation of biofilms during acute infection may have significant implications for medical treatment, as our work suggests that antibiotic resistance develops at early time points of infection. Our results indicate that antibiotic resistance may be mediated by aggregate formation rather than bacterial adaptations—as single bacteria adherent to MDCK cells were readily killed by antibiotics—and are consistent with recently published work that shows that
+     <italic>
+      P. aeruginosa
+     </italic>
+     aggregates formed in stationary-phase culture
+     and in agar gels
+     exhibit increased resistance to antibiotics. Our work further suggests that exopolysaccharide production plays a crucial role in antibiotic resistance, corroborating similar findings in abiotic biofilms
+     . An exopolysaccharide matrix may function in biofilms by binding or sequestering antibiotics, thus limiting penetration into the center of the aggregate.
+    </p>
+    <p>
+     Previous studies reported that the T3SS is downregulated in biofilms, both in
+     <italic>
+      in vitro
+     </italic>
+     abiotic systems and in longitudinal studies of sputum from cystic fibrosis patients
+     –
+     . These studies have contributed to the prevailing idea that virulence factors required by
+     <italic>
+      P. aeruginosa
+     </italic>
+     for acute infection are incompatible with the ability of
+     <italic>
+      P. aeruginosa
+     </italic>
+     to persist for years within the human host as an antibiotic-resistant biofilm, suggesting that biofilms are only compatible with chronic infections
+     ,
+     . However, our results demonstrate that T3SS-dependent biofilm formation and antibiotic resistance can develop during early time points of infection. Further delineation of the role of biofilms in acute infections may lead to new therapeutic strategies for treating antibiotic-resistant
+     <italic>
+      P. aeruginosa
+     </italic>
+     infections.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s4" sec-type="materials|methods">
+    <title>
+     Materials and Methods
+    </title>
+    <sec id="s4a">
+     <title>
+      Ethics statement
+     </title>
+     <p>
+      This study was carried out in strict accordance with the recommendations in the Guide for the Care and Use of Laboratory Animals of the National Institutes of Health. The protocol was approved by the Institutional Animal Care and Use Committee of Northwestern University (protocol # 2011-1509).
+     </p>
+    </sec>
+    <sec id="s4b">
+     <title>
+      Bacterial strains and plasmids
+     </title>
+     <p>
+      The bacterial strains and plasmids used in this study are described in
+      . Bacterial cultures were streaked from frozen cultures onto Luria-Bertani (LB) agar. For infections, cultures of
+      <italic>
+       P. aeruginosa
+      </italic>
+      were grown in liquid LB overnight shaking at 250 rpm at 37°C in 2 ml LB, diluted 1∶100 into fresh minimal essential medium (MEM), and grown for 2–3 hours to exponential phase. Antibiotic concentrations used were carbenicillin 250 µg/ml and amikacin 400 µg/ml.
+     </p>
+    </sec>
+    <sec id="s4c">
+     <title>
+      Infection of polarized epithelial monolayers
+     </title>
+     <p>
+      MDCK type II cells or MDCK type II cells stably expressing PH-Akt-GFP
+      were cultured in minimum essential medium (MEM) supplemented with 10% fetal bovine serum at 37°C with 5% CO
+      <sub>
+       2
+      </sub>
+      . For infections, cells were plated at an instant monolayer density (6×10
+      cells/well) on 12-mm polycarbonate Transwell filters (0.4 µm pore size; Corning Glassworks, Corning, NY) and cultured for 3 days. Media was changed every 24–48 hours. Exponential phase
+      <italic>
+       P. aeruginosa
+      </italic>
+      (multiplicity of infection (MOI) = 100) was added to the apical chamber of the Transwells for 60 minutes at 37°C. For mixed infection experiments, two different strains of
+      <italic>
+       P. aeruginosa
+      </italic>
+      , one expressing GFP and the other expressing mCherry, were combined (each at an MOI = 50) and immediately inoculated on the apical surface of MDCK cells.
+     </p>
+    </sec>
+    <sec id="s4d">
+     <title>
+      Bacterial adhesion assays
+     </title>
+     <p>
+      Bacterial adhesion assays (MOI = 100) were performed on 3-day Transwell-grown MDCK cells in triplicate wells as previously described
+      . Results are reported for three independent experiments with at least six replicates per experiment and are normalized to PAK control (100%).
+     </p>
+    </sec>
+    <sec id="s4e">
+     <title>
+      Immunofluorescence staining
+     </title>
+     <p>
+      For confocal microscopy, bacteria were removed at 60 min post-infection by washing the cells three times with PBS. Unless otherwise indicated, the samples were fixed with 4% paraformaldehyde at room temperature for 20 min, permeabilized as necessary with 0.2% Triton X-100 at room temperature for 15 min, and stained as previously described
+      . Actin filaments were stained with CF405M conjugated phalloidin (Biotium) or with Alexa Fluor 350 phalloidin (Invitrogen). To stain extracellular DNA, N, N-Dimethyldodecylamine N-oxide (DDAO, Sigma) was diluted in DMSO to a final concentration of 10 µM, and incubated with fixed samples overnight at 4°C. Fixed samples were subsequently treated with RNase A 50 µg/ml at 37°C for 15 minutes before mounting. For staining mannose-containing exopolysaccharides such as alginate, FITC-Concanavalin A (Sigma) was diluted in water to a final concentration of 100 µg/ml and incubated overnight at 4°C with samples fixed with 2% paraformaldehyde. For staining Psl, FITC-conjugated Hippeastrum Hybrid Lectin Amaryllis (FITC-HHA, EY Laboratories) was diluted to 100 µg/ml and incubated overnight at 4°C with samples fixed with 2% paraformaldehyde. Although Psl has not previously been described in PAK, the
+      <italic>
+       psl
+      </italic>
+      locus is present in the PAK genome [Jorth P and Whiteley M (2013) Genbank accession number KK037225.1].
+     </p>
+     <p>
+      For experiments to evaluate bacterial viability after exposure to amikacin, MDCK cells were infected apically with log-phase bacteria for 60 min. Side-by-side controls consisted of equal numbers of bacteria incubated in MEM on the apical side of empty Transwell filters. Samples were then treated with amikacin (400 ug/ml) for 2 hours. To distinguish live from dead bacteria, samples were first fixed with 4% paraformaldehyde before staining with the BacLight Bacterial Viability Kit (Invitrogen) according to the manufacturer\s instructions. Samples were subsequently treated with RNase A 50 µg/ml at 37°C for 15 minutes before mounting.
+     </p>
+    </sec>
+    <sec id="s4f">
+     <title>
+      Image acquisition by confocal microscopy
+     </title>
+     <p>
+      For imaging, Transwell filters were excised with a scalpel and mounted on glass slides using Prolong Gold with or without DAPI (Invitrogen). Unless otherwise indicated, images were acquired using a Nikon FN-1 Microscope equipped with a Nikon C1si spectral confocal, a Nikon Plan 100×/1.4 oil objective, and C1si software (Nikon). For samples stained with DDAO, which required a far-red laser, images were acquired on a Nikon Ti-E microscope equipped with a Yokagawa CSU22 spinning disk confocal and a Nikon Plan Apo VC 100×/1.4 oil objective using Micro-Manager software
+      . Confocal images of bacterial aggregation within murine lungs were acquired with a Zeiss UV LSM510 confocal microscope using a 100× oil objective.
+     </p>
+    </sec>
+    <sec id="s4g">
+     <title>
+      Quantitative imaging with confocal microscopy
+     </title>
+     <p>
+      For experiments in which we quantified the efficiency of cell-associated aggregation, images were acquired on a Nikon Ti-E microscope equipped with a Yokagawa CSU22 spinning disk confocal with a Nikon Plan Fluor 40×/1.30 oil objective. Using Micro-Manager software to pre-program a region of ∼5*10
+      square microns (342 fields) in the center of each specimen, we quantified the number of cell-associated aggregates (defined as groupings of ≥10 bacteria) and normalized them to results from same-day infection with PAK control. Results are reported for three or more independent experiments.
+     </p>
+    </sec>
+    <sec id="s4h">
+     <title>
+      Confocal image analysis
+     </title>
+     <p>
+      Orthogonal images were processed and analyzed with NIS Elements software (Nikon). Three-dimensional reconstructions were processed and analyzed with IMARIS software (Bitplane). For co-infection experiments, the relative volume of each strain of bacteria within a single aggregate was determined using ImageJ
+      (NIH) with the 3D Object Counter plug-in
+      . The number of voxels in each channel (red or green) was measured and then calculated as a percentage of total voxels. Results are reported for three independent experiments.
+     </p>
+    </sec>
+    <sec id="s4i">
+     <title>
+      Infection, fixation, and staining of mouse lungs
+     </title>
+     <p>
+      Mouse studies of acute pneumonia were conducted using the mouse model described by Comolli
+      <italic>
+       et al
+      </italic>
+      . Six- to eight-week old female BALB/c mice were anesthetized by intraperitoneal injection of a mixture of ketamine (75 mg/kg) and xylazine (5 mg/kg). Mice were intranasally inoculated with 4×10
+      –7×10
+      CFUs of PAK, PAKΔ
+      <italic>
+       popB
+      </italic>
+      , and PAKΔ
+      <italic>
+       STY
+      </italic>
+      in PBS. Inocula were confirmed by plating serial dilutions on LB agar. For quantification of bacterial persistence at 3 hours post-infection, lungs were excised and homogenized in 5 ml PBS. The bacterial load per lung was determined by plating serial dilutions on Vogel-Bonner-minimal (VBM) agar and incubating at 37°C overnight.
+     </p>
+     <p>
+      At 3 hour post-infection, the mice were anesthetized and sacrificed by cervical dislocation. Lungs were excised and inflated with approximately 800 ul of 4% paraformaldehyde (PBS, pH 7.4) and placed in a vial of 10 ml 4% paraformaldehyde overnight at room temperature for fixation. Lungs were then placed in a sucrose gradient for cryoprotection prior to sectioning (15% sucrose for 8 h, 30% sucrose overnight at room temperature). Lungs were frozen using Clear Frozen Section Compound (VWR) in a dry ice/isopentane bath. Six-micron sections were cut by the Mouse Histology and Phenotyping Core of the Robert H. Lurie Comprehensive Cancer Center at Northwestern University, supported by the Northwestern University Mouse Histology and Phenotyping Laboratory and a Cancer Center Support Grant (NCI CA060553).
+     </p>
+     <p>
+      Slides were stored at −80°C prior to additional staining. For visualization of bacterial aggregates, slides were acclimated to room temperature and blocked with 1X TBS, 10% mouse serum, 1% BSA for 2 hours. Rabbit polyclonal anti-Pseudomonas antibody (Abcam ab68538) was diluted 1∶100 and applied for 2 hours at 37°C. Slides were washed with 1X TBS, 0.05% Triton twice for 5 min each. Fluorescently-conjugated Alexa Fluor 555 secondary antibody (Invitrogen) was diluted 1∶1000 and incubated for 1 hour at 37°C. Slides were washed with 1X TBS, 0.05% Triton twice for 5 min each, air-dried, and mounted using Antifade mounting media (Invitrogen).
+     </p>
+    </sec>
+    <sec id="s4j">
+     <title>
+      Imaging and quantitative analysis of infected murine lungs
+     </title>
+     <p>
+      For each infected mouse, 5 lung sections from the base of the lungs were imaged at Northwestern University Cell Imaging Facility using a widefield TissueFAXS imaging system (TissueGnostics) with a 40× oil objective. 1400×1000 micron regions from each lung section were randomly selected for imaging. Between 2–10 regions per lung section were imaged, depending on sample quality, for a minimum of 15 images per mouse and at least 60 images per bacterial strain.
+     </p>
+     <p>
+      For each image, the number of bacteria within aggregates was calculated with the Object Count tool in NIS Elements (Nikon). Image thresholds were set so that a single rod-shaped bacterium measuring 3 µm×1 µm generated a measured area of 2.8 µm
+      (area = πr
+      +2rh, where r = 0.5 µm and h = 2 µm). Aggregates were defined as objects that contained ≥10 bacteria (or measured ≥28 µm
+      ). For each image, percent aggregation was defined as the ratio of bacteria within aggregates to total bacteria.
+     </p>
+     <p>
+      In calculating bacterial density for each image, we noticed that increased amount of lung tissue resulted in greater numbers of bacteria, presumably due to increased availability of epithelial surfaces upon which bacteria could bind. In contrast, images that contained large empty airspaces and less lung tissue had fewer bacteria. Therefore, bacterial density was defined as the ratio of total bacteria to the amount of lung tissue in each image.
+     </p>
+    </sec>
+    <sec id="s4k">
+     <title>
+      Cell permeabilization with streptolysin O (SLO)
+     </title>
+     <p>
+      SLO (Sigma) was reconstituted in PBS and immediately aliquoted and frozen at −80°C to preserve activity. Aliquots were thawed, activated with 10 mM DTT for 30 minutes at 37°C, then immediately placed on ice at 4°C and used within one hour of activation. Three-day Transwell-grown MDCK cells were washed 3 times with cold PBS. SLO (140 µl) was added to the apical surface, and the basolateral medium was replaced with 1.5 ml of cold PBS. Cells were placed on ice and rocked for 10 minutes, then washed twice with ice cold PBS. Room temperature PBS (600 µl for the apical chamber and 1.5 ml for the basolateral chamber of the Transwells) was added and the cells were then incubated at room temperature for 45 minutes to enable pore formation. Supernatants were used immediately. SLO activity was quantified using the Cytotox 96 Assay (Promega), which measures LDH release, according to the manufacturer\s instructions. Because SLO activity varies among preparations, we used the amount of SLO required to generate 60–80% cytotoxicity without lysis of the cell monolayer (as determined by measuring basolateral LDH release). For most preparations, this corresponded to approximately 15 µg/ml of SLO. Results are reported for three independent experiments.
+     </p>
+    </sec>
+    <sec id="s4l">
+     <title>
+      Filtered supernatant experiments
+     </title>
+     <p>
+      Supernatant (500 µl) from Transwell-grown MDCK cells infected with PAK for 60 minutes was collected by aspiration; residual bacteria was removed by filtration through a 0.22 micron filter (Millipore) and used immediately. Supernatant sterility was confirmed by plating ∼50 µl on LB agar plates. Exponential phase PAKΔ
+      <italic>
+       popB
+      </italic>
+      were pelleted by centrifugation (14000 RPM×5 min), re-suspended in 500 µl of filtered supernatant, and inoculated on the apical surface of Transwell-grown MDCK cells (MOI = 100). Cell-associated aggregation was quantified by spinning disk confocal microscopy. Results are normalized to PAK control (100%) and reported for three or more independent experiments.
+     </p>
+     <p>
+      To further characterize the aggregate-inducing factor, filtered supernatants were subjected to one of several treatments prior to addition of PAK. Heat treatment used 95°C for 30 minutes. Proteinase K (Sigma) was added at a final concentration of 200 µg/ml to supernatants and incubated for 60 minutes at 37°C. A stock solution of conalbumin (Sigma) was prepared in MEM immediately prior to use and added at a final concentration of 20 µg/ml to supernatants. Biofilm formation was normalized to PAK control with untreated filtered supernatant (100%). Results are reported for three or more independent experiments.
+     </p>
+    </sec>
+    <sec id="s4m">
+     <title>
+      Flow-chamber biofilm formation
+     </title>
+     <p>
+      Flow-chamber biofilms were grown in FAB minimal media containing 0.6% glucose. Flow chambers had individual channel dimensions of 1×4×40 mm. The flow system was inoculated by injecting 400 µl of an overnight culture diluted 1∶1000 using a sterile syringe (0.5 ml). Cells were allowed to attach for 1 hour before flow was resumed at 1.75 RPM using a Watson Marlow 205S peristaltic pump. Biofilms were grown for 96 hours before imaging and biomass was estimated. Images were obtained using a laser scanning confocal microscope (Zeiss) using a 63×/1.4 oil objective. 3-D reconstructions were generated using the imaging software program IMARIS (Bitplane). The relative biofilm biomass was measured using the statistical imaging software COMSTAT2. Results are reported for six independent experiments with six images measured per experiment.
+     </p>
+    </sec>
+    <sec id="s4n">
+     <title>
+      Microtiter plate biofilm formation
+     </title>
+     <p>
+      <italic>
+       P. aeruginosa
+      </italic>
+      was inoculated into tissue-culture media (MEM) or filtered supernatant from PAK-infected cells and incubated at 37°C for 17 hours. Biofilm formation on microtiter plates was measured as previously described
+      . Results are reported for three independent experiments with at least four replicates per experiment.
+     </p>
+    </sec>
+    <sec id="s4o">
+     <title>
+      Statistical methods
+     </title>
+     <p>
+      Statistical significance was calculated using an unpaired two-tailed
+      <italic>
+       t
+      </italic>
+      -test or ANOVA with post-hoc testing when appropriate. Differences were considered to be significant at p values &lt;0.05.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s5" sec-type="supplementary-material">
+    <title>
+     Supporting Information
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

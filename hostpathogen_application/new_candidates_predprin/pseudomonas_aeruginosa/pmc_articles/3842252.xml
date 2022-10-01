@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  In the Absence of Effector Proteins, the
+ </title>
+ <abstract>
+  <p>
+   Herein we describe a pathogenic role for the
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   type three secretion system (T3SS) needle tip complex protein, PcrV, in causing lung endothelial injury. We first established a model in which
+   <italic>
+    P. aeruginosa
+   </italic>
+   wild type strain PA103 caused pneumonia-induced sepsis and distal organ dysfunction. Interestingly, a PA103 derivative strain lacking its two known secreted effectors, ExoU and ExoT [denoted PA103 (ΔU/ΔT)], also caused sepsis and modest distal organ injury whereas an isogenic PA103 strain lacking the T3SS needle tip complex assembly protein [denoted PA103 (ΔPcrV)] did not. PA103 (ΔU/ΔT) infection caused neutrophil influx into the lung parenchyma, lung endothelial injury, and distal organ injury (reminiscent of sepsis). In contrast, PA103 (ΔPcrV) infection caused nominal neutrophil infiltration and lung endothelial injury, but no distal organ injury. We further examined pathogenic mechanisms of the T3SS needle tip complex using cultured rat pulmonary microvascular endothelial cells (PMVECs) and revealed a two-phase, temporal nature of infection. At 5-hours post-inoculation (early phase infection), PA103 (ΔU/ΔT) elicited PMVEC barrier disruption via perturbation of the actin cytoskeleton and did so in a cell death-independent manner. Conversely, PA103 (ΔPcrV) infection did not elicit early phase PMVEC barrier disruption. At 24-hours post-inoculation (late phase infection), PA103 (ΔU/ΔT) induced PMVEC damage and death that displayed an apoptotic component. Although PA103 (ΔPcrV) infection induced late phase PMVEC damage and death, it did so to an attenuated extent. The PA103 (ΔU/ΔT) and PA103 (ΔPcrV) mutants grew at similar rates and were able to adhere equally to PMVECs post-inoculation indicating that the observed differences in damage and barrier disruption are likely attributable to T3SS needle tip complex-mediated pathogenic differences post host cell attachment. Together, these infection data suggest that the T3SS needle tip complex and/or another undefined secreted effector(s) are important determinants of
+   <italic>
+    P. aeruginosa
+   </italic>
+   pneumonia-induced lung endothelial barrier disruption.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="s1" sec-type="introduction">
+    <title>
+     Introduction
+    </title>
+    <p>
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     is a Gram-negative, opportunistic pathogen that causes nosocomial infections in patients undergoing mechanical ventilation and in people that are immunocompromised (e.g., severe burn) [
+     –
+     ]. This pathogen is also a major cause of chronic infections in cystic fibrosis patients leading to increased mortality [
+     –
+     ].
+     <italic>
+      P. aeruginosa
+     </italic>
+     is a ubiquitous environmental microbe and is typically considered an extracellular pathogen that attaches to eukaryotic cells and/or forms biofilms to establish host colonization [
+     –
+     ]. Cellular invasive
+     <italic>
+      P. aeruginosa
+     </italic>
+     phenotypes have been described [
+     –
+     ] but the role of intracellular pseudomonads in pathogenesis remains unclear. In susceptible hosts, acute and chronic
+     <italic>
+      P. aeruginosa
+     </italic>
+     infections are difficult to treat owing to endogenous antibiotic resistance systems such as multi-drug efflux pumps and biofilms.
+    </p>
+    <p>
+     <italic>
+      P. aeruginosa
+     </italic>
+     is a leading cause of pneumonia-induced Acute Respiratory Distress Syndrome (ARDS) [
+     ,
+     ,
+     ,
+     ,
+     ,
+     ,
+     ]. Upon infection of the airway, pseudomonads infect alveolar epithelial cells and resident macrophages, eliciting release of pro-inflammatory cytokines to recruit immune cells into the lung parenchyma and airspaces [
+     ,
+     –
+     ]. Subsequent damage to the alveolar epithelial barrier allows direct infection of lung endothelial cells that, along with the deleterious effects of endotoxin and cytokines, precipitate vascular endothelial barrier disruption [
+     ,
+     ,
+     –
+     ].
+    </p>
+    <p>
+     Pulmonary microvascular endothelial cells (PMVECs) form contiguous, semi-permeable barriers between the bloodstream and the interstitial space, limiting the vectorial movement of fluid, solute, macromolecules, and gases [
+     –
+     ]. Thus, disruption of PMVEC barriers by
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection results in the hallmark features of ARDS, namely, increased neutrophil infiltration, increased fluid filtration, pulmonary edema, and low blood oxygen levels [
+     –
+     ].
+    </p>
+    <p>
+     The propensity for
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection to elicit ARDS and the attendant PMVEC injury is largely dependent on the cadre of virulence factors available to the pathogen. In particular, highly virulent clinical
+     <italic>
+      P. aeruginosa
+     </italic>
+     isolates cause cellular damage through the use of a type three secretion system (T3SS) that injects effector proteins directly into the cytoplasm of an infected eukaryotic cell [
+     ,
+     ,
+     –
+     ]. To date, four
+     <italic>
+      P. aeruginosa
+     </italic>
+     T3SS-delivered effector proteins (ExoU, ExoS, ExoT, and ExoY) have been described [
+     ,
+     ]. All of these T3SS-delivered effector proteins are notoriously dependent upon eukaryotic co-factors to activate their enzymatic activities. ExoU is a potent phospholipase A
+     <sub>
+      2
+     </sub>
+     cytotoxin that rapidly causes eukaryotic cell lysis and stimulates lipid signal transduction cascades [
+     ,
+     ]. ExoU activation is mediated by interactions with eukaryotic mono- and poly-ubiquitin, and ubiquitinylated proteins such as Cu/Zn superoxide dismutase 1 [
+     –
+     ]. ExoS and ExoT are dual functioning Rho GTPase activating and ADP-ribosyltranferase effectors that disrupt eukaryotic cell signaling, prevent phagocytosis, and mediate the pathogen’s ability to disrupt the epithelial barrier [
+     ,
+     ,
+     ,
+     ]. ExoS and ExoT are activated by the 14-3-3 family of proteins. ExoY is an adenylyl cyclase that increases levels of cAMP in the cytoplasm disrupting PMVEC barrier function [
+     ,
+     ]. A eukaryotic co-factor for ExoY has yet to be identified. Interestingly, all four effector proteins are rarely found together in a given clinical isolate with ExoU and ExoS being almost mutually exclusive. Of the four effector proteins, ExoU and ExoS are known to elicit cellular cytotoxicity, and strains that secrete ExoU are associated with poor patient outcome [
+     ,
+     ,
+     ]. It is thought that the predominant role of the effector proteins in pathogenesis is to mediate cellular damage, impair phagocyte engulfment, and suppress immune cell infiltration, which ultimately facilitate bacterial persistence in the lung and subsequent dissemination [
+     ,
+     ,
+     ,
+     ,
+     –
+     ].
+    </p>
+    <p>
+     The T3SS is analogized as a highly complex and ordered molecular syringe that directly facilitates energy-dependent intoxication of eukaryotic host cell cytoplasm with the effector proteins [
+     –
+     ]. In the bacterial cytoplasm, the activity of molecular chaperones and ATPases mobilize the effector proteins for secretion [
+     ]. At the eukaryotic cell surface the P.
+     <italic>
+      aeruginosa
+     </italic>
+     PopB, PopD, and PcrV proteins constitute the T3SS needle tip complex; forming a membrane pore through which the effector proteins translocate into host cells [
+     ,
+     ,
+     ]. The pore-forming potential of the PopBD/PcrV complex has been demonstrated using red blood cell hemolysis assays [
+     –
+     ]. Regulation of membrane pore formation by the T3SS needle tip complex is dependent upon PcrV. Indeed,
+     <italic>
+      pcrV
+     </italic>
+     null mutant strains of
+     <italic>
+      P. aeruginosa
+     </italic>
+     are unable to directly inject effector proteins into eukaryotic host cells but instead, display dysregulated secretion of effector proteins into the culture medium [
+     ,
+     ]. As a result,
+     <italic>
+      pcrV
+     </italic>
+     mutants are avirulent and the PcrV protein is being developed and tested as a protective antigen against
+     <italic>
+      P. aeruginosa
+     </italic>
+     -induced pneumonia.
+    </p>
+    <p>
+     Beyond its known requirement for regulated effector protein delivery, the T3SS needle tip complex itself is emerging as a virulence factor that mediates critical pathogen-host interactions [
+     ,
+     ]. In
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains that do not encode any of the four known effector proteins (
+     <italic>
+      ΔexoU/S/T/Y
+     </italic>
+     ), the T3SS needle tip complex alone has been shown to mediate virulence-associated effects such as pro-inflammatory cytokine induction, immune cell infiltration into the lung, immune cell death, and mortality in animal models of infection [
+     ]. Indeed, clinical isolates that express only a functional T3SS with no effector proteins have been isolated from patients and correlated with increased morbidity and mortality compared to strains lacking a functional T3SS [
+     ]. However, no studies to date have directly assessed a role for the P.
+     <italic>
+      aeruginosa
+     </italic>
+     T3SS needle tip complex in non-immune cell mediated pathogenesis of lung injury and PMVEC barrier dysfunction during pneumonia-induced ARDS. To this end, we have developed rat airway- and isolated PMVEC-infection model systems and described a role for the P.
+     <italic>
+      aeruginosa
+     </italic>
+     T3SS needle tip complex protein, PcrV, as a virulence factor that mediates PMVEC barrier disruption, lung injury, sepsis, and systemic dysfunction.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s2" sec-type="results">
+    <title>
+     Results
+    </title>
+    <sec id="s2.1">
+     <title>
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PA103 Causes Sepsis and Multi-Organ Dysfunction in a Rat Airway Infection Model
+     </title>
+     <p>
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PA103 is a virulent clinical isolate that encodes only two T3SS effector proteins, namely ExoU and ExoT. We used strain PA103 to establish an airway infection model where lung injury is induced by intratracheal instillation of bacteria into adult, male CD rats.
+      shows the one-week mortality dose-response curve from rats inoculated with PA103 (wild type) where ~7 x 10
+      colony forming units (CFUs) resulted in a 50% mortality rate. In patients, airway infection with
+      <italic>
+       P. aeruginosa
+      </italic>
+      often progresses to sepsis and, in some instances, multiple organ dysfunction.
+      shows animal biometrics at 48-hours post-inoculation with a moderate dose of PA103 (~2.5 x 10
+      CFUs). Infection elicited elevated body temperature and adversely affected liver function as indicated by elevated levels of AST (
+      ), and liver pathological analysis revealed the presence of periportal inflammation (
+      ). PA103 infection also resulted in depressed cardiac function as indicated by decreased dP/dt and stroke work (
+      ), and bacteria were detected in the blood and lungs by direct plating on
+      <italic>
+       Pseudomonas
+      </italic>
+      isolation agar (data not shown). PA103 infection increased creatinine levels when compared to vehicle control (
+      ), and kidney pathological analysis revealed the presence of tubular casts indicative of sepsis-induced injury (
+      ). In addition, PA103 infection caused a systemic neutrophilia, accompanied by a marked lymphopenia (
+      ). Together these data suggest that our rat airway instillation model using PA103 recapitulates infection-induced morbidity, sepsis, multi-organ dysfunction, and mortality.
+     </p>
+    </sec>
+    <sec id="s2.2">
+     <title>
+      The P.
+      <italic>
+       aeruginosa
+      </italic>
+      PcrV Protein Contributes to Mortality and Morbidity in a Rat Airway Infection Model
+     </title>
+     <p>
+      To examine the role of the T3SS needle tip complex (specifically, PcrV) in
+      <italic>
+       P. aeruginosa
+      </italic>
+      virulence, we compared rats infected with an isogenic PA103 mutant encoding an intact T3SS needle tip complex but defective in the synthesis of ExoU and ExoT genes [PA103 (ΔU/ΔT)] to rats infected with an isogenic PA103 mutant deleted for the
+      <italic>
+       pcrV
+      </italic>
+      gene [PA103 (ΔPcrV)].
+      shows that inoculation with ~1 x 10
+      CFUs of the PA103 (ΔU/ΔT) mutant resulted in a 50% mortality rate at one week post-inoculation whereas the PA103 (ΔPcrV) mutant did not cause mortality at the maximal dose tested. Thus, although the PA103 (ΔU/ΔT) mutant is attenuated compared to wild type PA103, it causes infection-induced mortality in a PcrV-dependent manner.
+     </p>
+     <p>
+      While it is clear that morbidity in
+      <italic>
+       P. aeruginosa
+      </italic>
+      -infected patients strongly correlates with secretion of effector proteins [
+      ], it is poorly understood whether
+      <italic>
+       P. aeruginosa
+      </italic>
+      expressing only a function T3SS needle tip complex elicits lung endothelial injury via immune cell-independent mechanisms [
+      ].
+      shows a Kaplan-Meier curve at an inoculation dose of ~1X10
+      CFUs, where ~75% and 100% of the animals survive at 48-hours post-inoculation with PA103 (ΔU/ΔT) or PA103 (ΔPcrV), respectively. Once established for the two mutant
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains, this moderate infectious dose was used in all subsequent
+      <italic>
+       in vivo
+      </italic>
+      experiments to assess indexes of injury at 48-hours post-inoculation. PA103 (ΔU/ΔT) elicited elevated body temperature and adversely affected liver function as indicated by elevated AST (
+      ), and the presence of periportal inflammation, whereas PA103 (ΔPcrV) did not (
+      ). Only PA103 (ΔU/ΔT) could be detected in the blood by direct plating (data not shown). While neither
+      <italic>
+       P. aeruginosa
+      </italic>
+      mutant strain affected kidney function as measured by creatinine levels (
+      ), infection with PA103 (ΔU/ΔT) caused modest formation of tubular casts, whereas PA103 (ΔPcrV) did not (
+      ). Finally, infection with PA103 (ΔU/ΔT) also caused a systemic leukopenia with neutrophilia, accompanied by a marked lymphopenia (
+      ). Together these data suggest that PcrV and the T3SS needle tip complex contribute to infection-induced morbidity including sepsis- and multi-organ dysfunction.
+     </p>
+    </sec>
+    <sec id="s2.3">
+     <title>
+      The P.
+      <italic>
+       aeruginosa
+      </italic>
+      PcrV Protein Contributes to Lung Injury and Vascular Endothelial Barrier Disruption in a Rat Airway Infection Model
+     </title>
+     <p>
+      Macroscopic observation of lungs at 48-hours post-inoculation paralleled the mortality and morbidity observations described above, in that PA103 (ΔU/ΔT) caused more overt damage to the lung than PA103 (ΔPcrV) (
+      ). We next compared fixed sections of the injured portions of lungs from rats inoculated with either PA103 (ΔU/ΔT) or PA103 (ΔPcrV) by hematoxylin and eosin (H&amp;E) staining in survivors at 48-hours post-inoculation (both mutant strains were recovered from lung tissue at equivalent levels, data not shown).
+      shows H&amp;E-stained sections imaged by light microscopy. The left panel set shows normal lung sections from an animal that underwent intra-tracheal instillation with saline solution (vehicle control). The septal network is thin and the airspaces are pristine. The center panel set shows lung sections from an animal infected with PA103 (ΔPcrV) which resulted in septal thickening and edema. The right panel set shows that infection with PA103 (ΔU/ΔT) resulted in thickening of the septal network and lung parenchyma, and the airspaces are either collapsed and/or appear edematous (stained proteinaceous fluid, marked with arrowheads in the 20X panel). Interestingly, infection with PA103 (ΔU/ΔT) resulted in formation of perivascular fluid-filled cuffs (marked with arrowheads in the 10X panel) which were not observed in PA103 (ΔPcrV)-infected animals or vehicle controls.
+     </p>
+     <p>
+      An independent set of lung sections were stained for myeloperoxidase to facilitate enumeration of infiltrating neutrophils as an indicator of inflammation.
+      shows that infection with PA103 (ΔU/ΔT) induced significant neutrophil infiltration compared to PA103 (ΔPcrV). This result supports observations made using a murine model of infection [
+      ]. Together, these data suggest that the presence of a functional T3SS needle tip complex in PA103 (ΔU/ΔT) contributes to
+      <italic>
+       P. aeruginosa
+      </italic>
+      -induced lung injury.
+     </p>
+     <p>
+      Lung histopathology indicated that the presence of a functional T3SS needle tip complex was potentially influencing the extent of injury. Therefore, vascular permeability was quantitatively assessed by excising,
+      <italic>
+       en bloc
+      </italic>
+      , the heart and lungs from control and infected animals and measuring the fluid filtration coefficient (K
+      <sub>
+       f
+      </sub>
+      ). In this method, the heart and lungs are suspended in a force transducer where buffer is perfused at a constant pressure over time and the rate of weight gain is used as a sensitive index of vascular endothelial cell barrier integrity (i.e., the extent of perfusate fluid leakage into the lung tissue) [
+      ].
+      shows that the lungs from animals infected with PA103 (ΔU/ΔT) displayed a significant increase in K
+      <sub>
+       f
+      </sub>
+      compared to saline-treated or PA103 (ΔPcrV)-infected animals. These data suggest that the presence of a functional T3SS needle tip complex in PA103 (ΔU/ΔT) contributes to
+      <italic>
+       P. aeruginosa
+      </italic>
+      -induced lung injury in the absence of secreted effector proteins.
+     </p>
+     <p>
+      During the Early Phase of Infection, the P.
+      <italic>
+       aeruginosa
+      </italic>
+      PcrV Protein Contributes to PMVEC Barrier Disruption via Perturbation of the Host Actin Cytoskeleton that Occurs in a Cell Death-Independent Manner
+     </p>
+     <p>
+      The
+      <italic>
+       in vivo
+      </italic>
+      infection data presented thus far revealed a T3SS needle tip complex-dependent, but effector protein-independent mechanism by which
+      <italic>
+       P. aeruginosa
+      </italic>
+      pneumonia elicits hallmark features of ARDS, namely pulmonary edema (
+      ), neutrophil infiltration (
+      ), and increased fluid filtration (
+      ). Importantly, these pathologies are all indicative of pulmonary endothelial barrier disruption. Thus, we tested an
+      <italic>
+       in vitro
+      </italic>
+      cell culture infection model to further compare the pathogenic potential of the T3SS needle tip complex to cause pulmonary endothelial barrier disruption and have revealed a two-phase, temporal nature of the pathogen-host interaction.
+     </p>
+     <p>
+      We have previously described the isolation, propagation, and barrier-forming properties of PMVECs derived from rat lung capillaries [
+      ,
+      ] and herein used these cells to test the effects of
+      <italic>
+       P. aeruginosa
+      </italic>
+      infection. During the early phase of infection (5-hours post-inoculation), PA103 (ΔU/ΔT) induced significant PMVEC barrier disruption measured as an increased rate of fluorescein isothiocyanate-labeled dextran flux (FITC-dextran, 40,000 MW) across a confluent PMVEC monolayer adhered onto a transwell (
+      ). Conversely, PMVECs inoculated with PA103 (ΔPcrV) demonstrated a rate of FITC-dextran flux comparable to uninoculated PMVEC controls (
+      ).
+     </p>
+     <p>
+      Visual inspection of the monolayers by time-lapse phase contrast light microscopy was used as a second indicator of cell-to-cell association in confluent PMVEC monolayers during a time-course infection. The same region of the culture well was monitored with time and revealed that PMVECs inoculated with PA103 (ΔU/ΔT) begin to alter morphology during the early phase of infection (5-hours post-inoculation) compared to PMVECs inoculated with PA103 (ΔPcrV) and uninoculated PMVEC controls (
+      ).
+     </p>
+     <p>
+      We have determined that the differences in PMVEC barrier disruption between the two
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains were not due to differences in bacterial growth over the time course as both PA103 (ΔU/ΔT) and PA103 (ΔPcrV) displayed comparable growth rates (
+      ). In addition, both PA103 (ΔU/ΔT) and PA103 (ΔPcrV) were equally able to adhere to the PMVEC monolayers indicating that the T3SS needle tip complex is not likely a major determining factor of pathogen-host attachment (
+      ). Together, these data suggest that the T3SS needle tip complex contributes to
+      <italic>
+       P. aeruginosa
+      </italic>
+      -induced PMVEC barrier disruption during the early phase of infection.
+     </p>
+     <p>
+      Interestingly, the observed early phase of PMVEC barrier disruption induced by PA103 (ΔU/ΔT) was not attributable to infection-induced host cell death as measured by Trypan Blue exclusion assay (
+      ), nor were there any measurable TUNEL-positive staining cells (data not shown). Inoculation of PMVECs with PA103 (ΔPcrV) also did not significantly affect host cell viability (
+      and data not shown). In addition, while both PA103 mutants caused measurable rates of LDH release, the amounts were negligible. (
+      ). These data suggest that while PA103 (ΔU/ΔT) infection induces cell damage, the primary mechanism of early phase PMVEC barrier disruption occurs in a host cell death-independent manner.
+     </p>
+     <p>
+      Actin cytoskeletal rearrangements and perturbations have been implicated in other model systems as a critical, cell death-independent mechanism of PMVEC barrier disruption [
+      ,
+      ]. Thus, we examined actin in fixed cells by phalloidin staining and fluorescence confocal microscopy.
+      shows that inoculation of PMVECs with PA103 (ΔU/ΔT) resulted in actin stress fiber formation compared to PA103 (ΔPcrV) and uninoculated control cells. These data suggest that the T3SS needle tip complex induces early phase PMVEC barrier disruption via perturbation of the host cell actin cytoskeletal network.
+     </p>
+    </sec>
+    <sec id="s2.4">
+     <title>
+      During the Late Phase of Infection, the P.
+      <italic>
+       aeruginosa
+      </italic>
+      PcrV Protein Contributes to PMVEC Barrier Disruption via Induction of Host Cell Damage and Death
+     </title>
+     <p>
+      Extrapolation of the data in
+      suggests that inoculation with PA103 (ΔU/ΔT) will result in substantial host cell damage during the late phase of infection (24-hours post-inoculation), compared to PA103 (ΔPcrV). This observation is supported by
+      which shows the increased kinetics of PA103 (ΔU/ΔT)-induced PMVEC barrier disruption during the late phase of infection compared to PA103 (ΔPcrV), measured as a function of the transelectrical resistance (TER) of the monolayer.
+     </p>
+     <p>
+      Time-lapse phase contrast microscopic analysis of PMVEC monolayers revealed that during the late phase of infection PA103 (ΔU/ΔT) caused more PMVEC damage and loss of cell-to-cell adhesion compared to inoculation with PA103 (ΔPcrV) and uninoculated PMVEC controls (
+      ). These data suggest that the presence of a functional T3SS needle tip complex in PA103 (ΔU/ΔT) contributes to late phase PMVEC barrier disruption and loss of cell-to-cell adhesion. These associated changes occurred over a protracted time course compared to what has been previously reported for strains that deploy the ExoU PLA
+      <sub>
+       2
+      </sub>
+      secreted effector (we have confirmed this using the wild type PA103 strain, data not shown).
+     </p>
+     <p>
+      To better understand the mechanisms underlying the observed T3SS needle-tip complex-dependent barrier disruptive effects during the late phase of infection we examined PMVEC viability and metabolic function.
+      shows that PA103 (ΔU/ΔT) caused significantly more PMVEC death compared to inoculation with PA103 (ΔPcrV) and uninoculated PMVEC controls as assessed by Trypan Blue exclusion assay. Furthermore, analysis of cell death by TUNEL staining revealed a population of TUNEL-positive cells (
+      ).
+     </p>
+     <p>
+      Finally, as an index of cellular fitness, PMVEC metabolic function was determined using WST-1, which measures cellular red-ox state.
+      shows that during the late phase of inoculation with a P.
+      <italic>
+       aeruginosa
+      </italic>
+      strain encoding a functional T3SS needle tip complex [PA103 (ΔU/ΔT)], the metabolic fitness of PMVECs is severely impaired compared to inoculation with PA103 (ΔPcrV) and uninoculated PMVEC controls. Together, these data suggest that the presence of a functional T3SS needle tip complex in PA103 (ΔU/ΔT) contributes to
+      <italic>
+       P. aeruginosa
+      </italic>
+      -induced barrier disruption via effects on PMVEC metabolic function and viability.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s3" sec-type="discussion">
+    <title>
+     Discussion
+    </title>
+    <p>
+     The studies presented herein describe a previously unappreciated role for the P.
+     <italic>
+      aeruginosa
+     </italic>
+     T3SS needle tip complex in the elicitation of pneumonia-induced lung injury and ARDS that occur independently of the four known secreted effector proteins. While the P.
+     <italic>
+      aeruginosa
+     </italic>
+     T3SS needle tip complex has been implicated as a virulence factor in animal infection models and in stimulating recruitment and cell death in immune cells to drive damaging inflammatory responses [
+     ,
+     ,
+     ,
+     ,
+     –
+     ], ours is the first study to reveal the deleterious effects associated with lung endothelial barrier and systemic organ dysfunction.
+    </p>
+    <p>
+     Using a rat lung airway infection model, we have shown that a P.
+     <italic>
+      aeruginosa
+     </italic>
+     strain possessing a functional T3SS needle tip complex but devoid of the four known effector proteins is able to: 1) elicit neutrophil infiltration; 2) cause lung damage, alveolar edema/collapse, and increased permeability; and 3) cause damage sufficient to elicit dysfunction of at least two other organ systems. Deletion of the gene encoding the T3SS needle tip complex protein PcrV severely attenuated the three above-mentioned deleterious effects during infection of the lung.
+    </p>
+    <p>
+     Using a lung endothelial cell culture infection model, we have elucidated a two-phase, temporal nature of
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection of PMVECs. Specifically, a P.
+     <italic>
+      aeruginosa
+     </italic>
+     strain possessing a functional T3SS but devoid of known effector proteins caused early phase barrier disruption (5-hours post-inoculation) by inducing actin cytoskeletal rearrangement, but without accompanying host cell death. A functional T3SS needle tip complex PcrV protein was essential to elicit early phase barrier disruption. Perturbations of the PMVEC actin cytoskeleton, including the formation of stress fibers as observed here, have been previously reported as an important determinant of PMVEC barrier disruption [
+     ,
+     ]. Future studies will be aimed at uncovering the host cell signaling pathways specifically disrupted or activated by a functional
+     <italic>
+      P. aeruginosa
+     </italic>
+     T3SS needle tip complex.
+    </p>
+    <p>
+     Hallmarks of late phase barrier disruption (24-hours post-inoculation) included damage and destruction of confluent PMVEC monolayers, loss of cell-to-cell adhesion, and were attributable to deleterious effects of infection on cellular fitness and viability. Deletion of the gene encoding the T3SS needle tip complex protein PcrV attenuated late phase barrier disruptive effects. The fact that there were high numbers of both, Trypan Blue- and TUNEL-positive cells suggested that PcrV-dependent cell death is a major contributor to PMVEC demise during late stages of infection. Thus, during the late stages of infection, cell-death dependent mechanisms elicited by the T3SS needle tip complex might be similar between PMVECs and immune cells where apoptosis was previously shown to be a major contributor to pathobiology in a murine infection model [
+     ].
+    </p>
+    <p>
+     Our studies raise the intriguing questions of whether engagement of infected eukaryotic cells by the T3SS needle tip complex elicits damage directly or whether the translocation of unknown effector proteins is responsible for the observed deleterious effects. The damaging effects of the T3SS needle tip complex are inferred from red blood cell hemolysis assays describing its pore-forming capacity [
+     ,
+     ]. Interestingly, the extrapolated amount of LDH release from PMVECs during the late phase of infection suggested that the T3SS needle tip complex might be inducing cell damage and lysis. However, the reported T3SS needle tip complex-dependent hemolysis of red blood cells occurs over a much shorter time course than that required to damage PMVECs in our experiments and, thus, we can not entirely preclude a contribution of unknown effectors/hemolysins.
+    </p>
+    <p>
+     Another possible mechanism of T3SS needle tip complex-induced cellular damage/death during the late phase of infection is engagement of inflammasomes and activation of caspase-1. Families of germ-line encoded Pattern Recognition Receptor (PRR) proteins sense and respond to extracellular and intracellular signals that accompany infections [
+     –
+     ]. In particular, the Nucleotide Oligomerization Domain-Like Receptors (NLRs) have emerged as important PRRs that mediate caspase-1 activation. Caspase-1 and NLRs assemble with scaffolding proteins to form inflammasomes – complexes that respond to environmental signals to stimulate caspase-1 activation. The T3SS itself has been shown to engage inflammasomes [
+     ] in addition to bacterial proteins such as flagellin [
+     ,
+     ,
+     ] (note that the PA103 strain used in our studies does not express flagellin). One consequence of caspase-1 activation is initiation of pyroptosis, a rapid form of programmed cell death described in immune cells [
+     ]. However, there are no studies describing inflammasome function or caspase-1-mediated pyroptosis in PMVECs. We are currently examining this possibility in PMVECs and our preliminary, unpublished studies suggest that PMVEC inflammasome activation does not lead to induction of pyroptosis.
+    </p>
+    <p>
+     While mechanisms underlying the deleterious effects of the T3SS needle tip complex on lung and PMVEC function are unclear, the current evidence highlights an evolutionary importance of this molecular machinery in pathogen virulence. An extensive study of
+     <italic>
+      P. aeruginosa
+     </italic>
+     clinical isolates revealed that the presence of a T3SS and either of the ExoU or ExoS effector proteins correlated with severity of outcome [
+     ]. Interestingly, clinical isolates encoding only PcrV correlated with more severe outcomes compared to patients infected with strains lacking a functional T3SS. Together these data suggest a possible pathway of evolutionary acquisition of virulence factors that were subverted from their original function in bacteria cellular physiology to facilitate colonization of new niches (such as humans). Just as the restriction endonuclease systems likely evolved to protect the bacterium from invading foreign nucleic acids, perhaps the ancestral T3SS endowed a selective advantage by jettisoning potentially toxic protein products encoded by invading foreign genetic elements. This idea is suggested by the fact that many examples of T3SSs and their effectors reside in pathogenicity islands which tend to possess a different AT:GC ratio than the core bacterial genome, suggesting their acquisition via horizontal gene transfer. These intriguing evolutionary questions and the clinical relevance to combating
+     <italic>
+      P. aeruginosa
+     </italic>
+     pneumonia-induced ARDS underscore the need for future studies directed at furthering our understanding of the direct role of the T3SS needle tip complex in pathogen-host interactions and cellular viability/damage. Furthermore, it will be necessary to determine whether
+     <italic>
+      P. aeruginosa
+     </italic>
+     isolates expressing the ExoS effector (i.e., non-PA103-like strains) also employ the T3SS needle tip complex as an effector-independent virulence factor.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s4" sec-type="materials|methods">
+    <title>
+     Materials and Methods
+    </title>
+    <sec id="s4.1">
+     <title>
+      Ethics Statement
+     </title>
+     <p>
+      This study was carried out in accordance with the recommendations in the Guide for the Care and Use of Laboratory Animals of the National Institutes of Health. The experimental protocol was approved by the University of South Alabama IACUC (protocol number 278188). All surgeries were performed after confirming that animals had achieved anesthetic plane and all efforts were made to minimize suffering. For the survival studies described herein, animals were humanely euthanized when they exhibited signs of high respiratory distress or by direct recommendation of the veterinarian. For all other studies, control and infected animals were humanely euthanized within 72-hours post inoculation. Animals were euthanized with a barbiturate overdose followed by exsanguination, a procedure conforming to recommendations from the veterinarian panel of euthanasia and the IACUC.
+     </p>
+    </sec>
+    <sec id="s4.2">
+     <title>
+      Bacterial Strains and Growth
+     </title>
+     <p>
+      The P.
+      <italic>
+       aeruginosa
+      </italic>
+      strains used in this study were kindly provided by Dr. Dara Frank (Medical College of Wisconsin). The wild type PA103 is a clinical isolate that expresses a functional T3SS and the effector proteins ExoU and ExoT (PA103 does not encode the effector proteins ExoS and ExoY). PA103 (ΔU/ΔT) is an isogenic PA103 mutant deleted for
+      <italic>
+       exoU
+      </italic>
+      and possessing a tetracycline resistance cassette inserted into
+      <italic>
+       exoT
+      </italic>
+      (PA103
+      <italic>
+       ΔexoU:exoT
+      </italic>
+      ::Tc) but expresses a fully functional T3SS [
+      ]. PA103 (ΔPcrV) is an isogenic PA103 mutant that possesses functional
+      <italic>
+       exoU
+      </italic>
+      and
+      <italic>
+       exoT
+      </italic>
+      genes but is deleted for the
+      <italic>
+       pcrV
+      </italic>
+      gene (PA103
+      <italic>
+       ΔpcrV
+      </italic>
+      ) and, thus cannot form a functional T3SS needle tip complex. PA103 (ΔPcrV) is unable to inject ExoU and ExoT into eukaryotic host cells and instead, the effector proteins are secreted indiscriminately into the culture medium [
+      ].
+     </p>
+     <p>
+      Bacteria from frozen stock solutions (Difco Nutrient Broth medium with 15% glycerol, stored at -80 °C) were routinely cultured on the minimal E salts medium of Vogel and Bonner overnight at 37 °C. Immediately prior to use in infection experiments, bacteria were washed in 10 mL of normal saline solution (SS), collected by centrifugation (4000 x
+      <italic>
+       g
+      </italic>
+      , 10 minutes, at room temperature), and suspended in SS. The correlation between OD 600
+      <sub>
+       nm
+      </sub>
+      and relative CFU/mL for all three bacterial strains was determined by serial dilution and direct plate counts on Luria Bertani (LB) agar (grown overnight at 37 °C), and spectrophotometry used for CFU/mL determinations in animal and cell culture infection experiments thereafter.
+     </p>
+    </sec>
+    <sec id="s4.3">
+     <title>
+      Rat Airway Infection Experiments
+     </title>
+     <p>
+      Adult, male CD rats were purchased from Charles River Laboratories. Animals weighing between 275 - 300 grams were anesthetized with ketamine/xylazine (75/5 mg/kg intra-peritoneally, respectively). After confirming anesthetic plane, the ventral neck area of the animal was prepared with 70 % ethanol, an incision of 2 cm length was made, the sternomastoid muscles were retracted, and the trachea exposed. The animal was positioned at a 75
+      Fowler’s angle and a 27-gauge needle inserted in between tracheal rings immediately below the thyroid gland to inject 150 µL SS delivered caudally. After 3-minutes post inoculation, the skin was sutured and the animal transferred to a clean cage for recovery. These were considered control, sham surgery animals. Infected animals underwent the same procedure except that the 150 µL SS contained any one of the three aforementioned
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains (prepared as described above) at the concentrations described in the results section. This protocol was used to generate the one-week survival dose response and Kaplan-Meier curves.
+     </p>
+     <p>
+      At 48-hours post-infection, body temperature was measured rectally in anesthetized animals. A microtipped pressure-volume catheter (1.4 Fr, Millar instruments) was advanced through the carotid artery and used to measure ventricular function (dP/dt). Peripheral blood was subsequently collected and analyzed for total and differential white cell counts, aspartate aminotransferase (AST), and creatinine. CFUs were determined from peripheral blood and lung tissue by direct plate counts on Luria Bertani (LB) agar (grown overnight at 37 °C).
+     </p>
+    </sec>
+    <sec id="s4.4">
+     <title>
+      Lung Histopathology
+     </title>
+     <p>
+      Terminal experiments were performed in control or infected animals anesthetized as described above. Animals were mechanically ventilated (Harvard Inspira 55-7058) with 6 mL of room air per kg body weight at 55 breaths per minute and 2 cmH
+      <sub>
+       2
+      </sub>
+      O positive end expiratory pressure. Following a thoracotomy, the trachea was tied-off at the peak of inspiration, the lungs removed, and then immersed in 10 % neutral buffered formalin solution. Lung specimens were embedded in paraffin and processed for hematoxylin and eosin (H&amp;E) staining. Sections at 5 µm thickness were visualized on a Nikon coupled to a CCD camera and images acquired at 10x and 20x magnification.
+     </p>
+     <p>
+      An independent set of lung sections from the same animals were stained for myeloperoxidase (MPO) to facilitate enumeration of infiltrating neutrophils following the protocol previously described in [
+      ]. The average numbers of MPO positive cells from at least 5 independent fields of view from three different animals per condition are presented.
+     </p>
+    </sec>
+    <sec id="s4.5">
+     <title>
+      Lung Hydraulic Permeability
+     </title>
+     <p>
+      Terminal experiments were performed in control or infected animals anesthetized and ventilated as described above. Following a thoracotomy, the pulmonary artery and the left atrium were cannulated and constant perfusion initiated with Earle’s Buffered Salt Solution containing 4% bovine serum albumin (EBSS 4% BSA). The solution pH was adjusted to 7.4 using NaHCO
+      <sub>
+       3
+      </sub>
+      . The lung and heart were removed
+      <italic>
+       en bloc
+      </italic>
+      , and suspended in a force transducer. Pulmonary venous and arterial pressures, and lung weight were digitally recorded using a Biopac System (AD Instruments). Flow rates were adjusted based on animal weight and venous pressure set at 5 cmH
+      <sub>
+       2
+      </sub>
+      O [
+      ]. After 10 minutes of perfusion, pulmonary capillary pressure was measured (baseline) via double occlusion, venous pressure was then raised to 15 cmH
+      <sub>
+       2
+      </sub>
+      O for 15 minutes and capillary pressure measured to calculate its change compared to baseline. Lung hydraulic permeability is calculated as the normalized rate of lung weight gain over the change in capillary pressure during the last 2 minutes of elevated venous pressure and expressed as K
+      <sub>
+       f
+      </sub>
+      .
+     </p>
+    </sec>
+    <sec id="s4.6">
+     <title>
+      Propagation and Infection of PMVECs
+      <italic>
+       in vitro
+      </italic>
+      for Barrier Assays
+     </title>
+     <p>
+      PMVECs from CD rats were isolated and characterized as previously described [
+      ], and made available for our studies through the University of South Alabama Center for Lung Biology Cell Culture Core. Low passage number cells (&lt;15) were routinely cultured in DMEM high glucose medium (Invitrogen) containing 10% fetal bovine serum (DMEM/FBS) and grown at 37 °C, (5% CO
+      <sub>
+       2
+      </sub>
+      , atm O
+      <sub>
+       2
+      </sub>
+      ) to confluence prior to infection.
+     </p>
+     <p>
+      The early phase effects (5-hours post-inoculation) of the T3SS needle tip complex on PMVEC barrier function were examined using a fluorescein isothiocyanate (FITC)-dextran flux assay. PMVECs in DMEM culture medium containing 1% FBS were seeded onto polycarbonate transwell filters (0.4 µm pore size, 6.5 mm insert) at 1.3 x 10
+      cells per well and incubated overnight to give a final cell density of ~2.6 x 10
+      cells per well (confluence) at the time of inoculation.
+      <italic>
+       P. aeruginosa
+      </italic>
+      PA103 (ΔU/ΔT) or PA103 (ΔPcrV) were then added to individual wells to achieve a multiplicity of infection (MOI) of 40 bacteria: 1 PMVEC (SS was added to individual wells as the vehicle control). At 4-hours post inoculation, FITC-dextran (40,000 MW from Sigma, 0.1 mg/mL in DMEM 1% FBS culture medium) was added to each transwell chamber. The transwell chambers were then moved to new bottom wells containing fresh DMEM 1% FBS culture medium and samples removed at 15-, 30-, 45-, and 60-minutes, and stored protected from light until the end of the assay. The amount of FITC-dextran flux across the monolayer was determined by measuring fluorescent signal from the medium in the bottom well on a NanoDrop Fluorospectrometer ND-330 (ThermoScientific) using an excitation wavelength of 488 nm +/- 10 nm and an emission wavelength of 515 nm. Increases in the rate of FITC-dextran flux across the monolayer are indicative of PMVEC barrier disruption. Average flux rate data from the SS vehicle control transwells were used to normalized the flux rate from duplicate inoculations with PA103 (ΔU/ΔT) or PA103 (ΔPcrV) (n=3 for each condition).
+     </p>
+     <p>
+      The late phase effects (24-hours post-inoculation) of the T3SS needle tip complex on PMVEC barrier function were examined using the transelectrical resistance (TER) assay. PMVECs were seeded onto gold electrodes at 4.5 x 10
+      cells per well, grown for 2-days to a final concentration of 4.0 x 10
+      cells per well (confluence), and the baseline resistance across the monolayer determined using the Electric Cell-substrate Impedance Sensing system (Applied Biophysics) as previously described [
+      ].
+      <italic>
+       P. aeruginosa
+      </italic>
+      PA103 (ΔU/ΔT) or PA103 (ΔPcrV) at an MOI of 40:1 were then added to individual wells and monolayer resistance monitored in real time over a 24-hour time course (SS was added to individual wells as the vehicle control). The resistance of the confluent monolayer prior to challenge was used to normalize all subsequent resistance values acquired post-challenge. A decrease in resistance with time is indicative of barrier disruptive effects of infection.
+     </p>
+     <p>
+      To examine PMVEC barrier function by time-lapse phase contrast microscopy, cells were seeded as described above. Medium was removed from the well and replaced with DMEM without FBS followed by addition of bacteria to individual wells at a MOI of 40:1 (SS was added to individual wells as a vehicle control). A single region of the culture well was marked and images from the same area were serially captured by phase contrast microscopy over a 24-hour time course. Still images are shown at early phase infection (5-hours post-inoculation) and at late phase infection (24-hours post-inoculation). Increased PMVEC rounding, appearance of intercellular gap formation (loss of cell-to-cell adhesion), and appearance of fully exposed areas due to cell sloughing are indicators of the barrier disruptive effects of infection.
+     </p>
+    </sec>
+    <sec id="s4.7">
+     <title>
+      <italic>
+       P. aeruginosa
+      </italic>
+      Growth Rates and Adherence to PMVECs
+      <italic>
+       in vitro
+      </italic>
+     </title>
+     <p>
+      Growth rate of
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains under the static cell culture infection conditions was determined by removing aliquots over time and counting bacteria by serial dilution in SS and direct plate counts on LB agar (grown overnight at 37 °C).
+     </p>
+     <p>
+      Adherence of
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains to PMVECs during cell culture infection experiments was determined at 1-hour post-infection. At that time, the culture medium was removed and wells washed 2-times with 5 mL of DMEM. A third wash with 1 mL of DMEM was performed and 0.1 mL of this wash solution plated onto LB agar to assess the efficiency of removing the unattached bacteria. Finally, monolayers were lysed with 1 mL of 0.1% Triton X-100 to release all associated bacteria. Bacterial numbers were determined in triplicate by direct plate counts of 0.1 mL of lysate onto LB agar (grown overnight at 37 °C). We also verified that the addition of 0.1% Triton X-100 had no adverse effects on
+      <italic>
+       P. aeruginosa
+      </italic>
+      plating efficiency.
+     </p>
+    </sec>
+    <sec id="s4.8">
+     <title>
+      Infection of PMVECs
+      <italic>
+       in vitro
+      </italic>
+      for Viability Assays
+     </title>
+     <p>
+      To examine changes in cell viability at early (5-hours post-inoculation) phase of infection, PMVECs were grown to confluence and inoculated as described above. At the times indicated, medium was removed, wells washed with phosphate buffered saline (PBS, Invitrogen), incubated for 5-minutes with trypsin-EDTA (Invitrogen) to free cells from the well, the trypsin-EDTA removed by washing in DMEM/FBS and centrifugation (500 x
+      <italic>
+       g
+      </italic>
+      , 4-minutes, at room temperature), cells stained with Trypan Blue, and live/dead cells enumerated using a Countess Automated Cell Counter as per the manufacturer’s directions (Invitrogen). Only the dead cells take up the dye. The numbers of live and dead cells in the SS vehicle control wells were used to normalize data from the various infection conditions.
+     </p>
+     <p>
+      As a second measure of cellular death, TUNEL staining was performed on PMVECs grown and inoculated with saline solution (vehicle control), PA103 (ΔPcrV), or PA103 (ΔU/ΔT) as above except that cells were adhered to glass cover slips placed sterilely onto the bottom of the culture well. At 5- or 24-hours post-inoculation, PMVECs were permeabilized in phosphate buffered saline solution (PBS) containing 0.15% Triton X-100. TUNEL staining (indicative of late apoptotic cells) was performed using FITC-conjugated TUNEL labeling reagent following the manufacturer’s instructions (Roche). After TUNEL staining, slides were incubated with antibody against PECAM-1 (CD31), washed in PBS, and then incubated with an Alexa Fluor560-conjugated secondary antibody. Images were acquired by confocal fluorescent microscopy using a Nikon A1 equipped for hyperspectral imaging [
+      ]. Post-acquisition image analysis for quantification of TUNEL-positive cells was performed using Cell Profiler cell image analysis software (Broad Institute) where 9 consecutive fields of view per slide were stitched together and the total number of TUNEL-positive cells normalized to the total number of PECAM-1-positive cells. Data were collected in this manner from 3 independent experiments.
+     </p>
+    </sec>
+    <sec id="s4.9">
+     <title>
+      Infection of PMVECs
+      <italic>
+       in vitro
+      </italic>
+      for Visualization of the Actin Cytoskeleton
+     </title>
+     <p>
+      To examine changes in the host cell actin cytoskeleton, phalloidin staining was performed on PMVECs grown and inoculated with saline solution (vehicle control), PA103 (ΔPcrV), or PA103 (ΔU/ΔT) as above except that cells were adhered to glass coverslips. At 5-hours post-inoculation, PMVECs were permeabilized in PBS containing 0.05% saponin, washed in PBS, incubated in FITC-labeled phalloidin (Life Technologies), washed in PBS, and fixed using chilled methanol (-20 °C). Slides were mounted using Antifade mounting medium (Dako) and images were acquired by confocal fluorescent microscopy using a Nikon A1. Z-stack images encompassing the entire cell volume were acquired and compressed. Data were collected in this manner from 3 independent experiments.
+     </p>
+    </sec>
+    <sec id="s4.10">
+     <title>
+      Infection of PMVECs
+      <italic>
+       in vitro
+      </italic>
+      for Damage and Metabolism Assays
+     </title>
+     <p>
+      To examine changes in cellular damage, PMVECs were grown to confluence and inoculated with saline solution (vehicle control), PA103 (ΔPcrV), or PA103 (ΔU/ΔT). At the times indicated, culture medium was serially removed and the amount of host cell lactate dehydrogenase (LDH) released was assayed using a cytotoxicity detection kit as per the manufacturer’s directions (Roche). The amount of LDH detected in the culture medium was normalized to the total cellular LDH in lysed, uninfected control monolayers. Data were collected in this manner from 3 independent experiments.
+     </p>
+     <p>
+      To examine changes in the cellular red-ox state in response to infection the PMVEC culture infection experiments described above were scaled down to a 96-well format. At 24-hours post-infection, the WST-1 reagent was added to the wells for 1-hour and visualized by spectrophotometry as per the manufacturer’s direction (Roche). Growing cells metabolize the WST-1 dye resulting in proportional changes in medium color. The extent of WST-1 metabolism in the infected wells was normalized to the SS vehicle control wells. Data were collected in this manner from 5 independent experiments.
+     </p>
+    </sec>
+    <sec id="s4.11">
+     <title>
+      Statistical Analyses
+     </title>
+     <p>
+      Data are reported as mean ± standard error. GraphPad Prism v4.3 was used for all analyses. Comparison among groups was performed using parametric analyses. Unpaired
+      <italic>
+       t
+      </italic>
+      -test was used to compare two groups. One-way ANOVA was used to compare more than two groups with a Newman-Keuls
+      <italic>
+       post-hoc
+      </italic>
+      test applied as necessary. Differences with a P value &lt; 0.05 were considered significant.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="supplementary-material">
+    <title>
+     Supporting Information
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

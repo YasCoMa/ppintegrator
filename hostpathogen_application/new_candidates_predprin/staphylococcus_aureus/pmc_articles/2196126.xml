@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  rho, a Small GTP-Binding Protein, Is Essential for
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    Shigella
+   </italic>
+   , the causative agents of bacillary dysentery, are capable of invading mammalian cells that are not normally phagocytic. Uptake of bacteria by the mammalian cells is directed by bacterial factors named IpaB, IpaC, and IpaD invasins, in which Ipa invasins secreted into the bacterial environment can interact with α
+   <sub>
+    5
+   </sub>
+   β
+   <sub>
+    1
+   </sub>
+   integrin. We report here that
+   <italic>
+    Shigella
+   </italic>
+   invasion of epithelial cells requires rho activity, a ras-related GTP-binding protein. The invasive capacity of
+   <italic>
+    Shigella flexneri
+   </italic>
+   for Chinese hamster ovary (CHO) cells and other epithelial cells were greatly reduced when treated with
+   <italic>
+    Clostridium botulinum
+   </italic>
+   exoenzyme C3 transferase. Conversely, uptake of bacteria by CHO cells was promoted upon microinjection of an activated rho variant, Val14RhoA. Attachment of
+   <italic>
+    S. flexneri
+   </italic>
+   to CHO cells can elicit tyrosine phosphorylation of pp125   and paxillin, localized accumulation of F-actin, vinculin, and talin, and activation of protein kinase C, which were all blocked by the treatment with C3 transferase. Our results indicate that cellular signal transduction regulated by rho is essential for
+   <italic>
+    Shigella
+   </italic>
+   invasion of epithelial cells.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec sec-type="materials|methods">
+    <title>
+     Materials and Methods
+    </title>
+    <sec disp-level="3">
+     <title>
+      Bacterial Strains, Plasmids, Cell Lines, and Media.
+     </title>
+     <p>
+      <italic>
+       S. flexneri
+      </italic>
+      2a YSH6000T and YSH6200T, a large 230-kb plasmidless derivative of YSH6000T, have been described previously (      –      ). CS2585, a
+      <italic>
+       spa32
+      </italic>
+      mutant of YSH6000T, possesses an in-frame deletion in the
+      <italic>
+       spa32
+      </italic>
+      gene on the 230-kb plasmid (      ).
+      <italic>
+       Salmonella typhimurium
+      </italic>
+      SB300 was obtained from J. E. Galán (State University of New York, Stony Brook, NY) (      ). The bacteria were, unless otherwise indicated, routinely grown in brain heart infusion broth (Difco, Detroit, MI) at 37°C. CHO cells, MK2 cells, and HeLa cells were maintained in MEM (Nissui, Tokyo, Japan), Caco-2 cells were grown in MEM containing 0.1 mM nonessential amino acids (
+      <named-content content-type="company" ns0:href="gibco">
+       GIBCO BRL
+      </named-content>
+      , Gaithersburg, MD), and Swiss 3T3 cells were grown in DMEM (Nissui) containing 10% FCS (Nichirei, Tokyo, Japan) in a 5% CO
+      <sub>
+       2
+      </sub>
+      atmosphere. When necessary, they were seeded to ∼80% confluency and serum starved in MEM deprived of FCS for 3 d.
+     </p>
+    </sec>
+    <sec disp-level="3">
+     <title>
+      Botulinum C3 Exoenzyme.
+     </title>
+     <p>
+      <italic>
+       C. botulinum
+      </italic>
+      type C strain 003-9 was used for purification of exoenzyme C3 as described previously (      ). The exoenzyme was purified from a culture supernatant by ammonium sulfate precipitation, chromatography (CM-Sephadex;
+      <named-content content-type="company" ns0:href="pharmacia">
+       Pharmacia
+      </named-content>
+      , Uppsala, Sweden), and gel filtration (Sephadex G-100;
+      <named-content content-type="company" ns0:href="pharmacia">
+       Pharmacia
+      </named-content>
+      ). The exoenzyme was then applied to a column (Mono S HR 5/5;
+      <named-content content-type="company" ns0:href="pharmacia">
+       Pharmacia
+      </named-content>
+      ) that had been equilibrated with 0.05 M Tris-HCl buffer (pH 7.0), and it was eluted with a linear gradient of NaCl from 0 to 0.3 M. The purified exoenzyme was dialyzed against 0.1 M phosphate buffer (pH 7.5) and sterilized by passage through a membrane filter (0.22 μm) (
+      <named-content content-type="company" ns0:href="millipore">
+       Millipore Corp.
+      </named-content>
+      , Bedford, MA).
+     </p>
+    </sec>
+    <sec disp-level="3">
+     <title>
+      Treatment of Cultured Cells with C3.
+     </title>
+     <p>
+      To determine the effect of C3 on bacterial invasion, various cell lines were cultured in six-well plates to ∼80% confluency and then the cells were cultured for 24 h in fresh medium that contained C3 at various concentrations (      ).
+     </p>
+    </sec>
+    <sec disp-level="3">
+     <title>
+      Invasion Assay.
+     </title>
+     <p>
+      The invasive capacity of bacteria was measured by counting the viable number of internalized bacteria using the gentamicin-protection assay (      ,      ).
+     </p>
+    </sec>
+    <sec disp-level="3">
+     <title>
+      MEM Containing Secreted Ipa Invasins.
+     </title>
+     <p>
+      Preparation of MEM containing secreted Ipa invasins from
+      <italic>
+       S. flexneri
+      </italic>
+      was carried out as follows. A 5 ml culture of YSH6000T in MEM (-FCS) was grown at 37°C up to middle log phase (∼2 × 10      CFU/ml), centrifuged at 4,000
+      <italic>
+       g
+      </italic>
+      for 10 min, and the resulting supernatant passed through a 0.45 μm pore size filter (
+      <named-content content-type="company" ns0:href="millipore">
+       Millipore Corp.
+      </named-content>
+      ). The filtrate was immediately used as a source of secreted Ipa invasins.
+     </p>
+    </sec>
+    <sec disp-level="3">
+     <title>
+      Immunofluorescence and Confocal Laser Scanning Microscopy.
+     </title>
+     <p>
+      Immunofluorescence was performed essentially as described previously (      ,      ). CHO cells were infected with bacteria or MEM containing Ipa invasins was added to serum-starved CHO cells and this was followed by fixation in 4% paraformaldehyde and permiabilization in 0.2% Triton X-100. The polymerized actin was stained with rhodamine-labeled phalloidin (Molecular Probes Inc., Eugene, OR), while protein phosphotyrosine was detected with a mouse anti–phosphotyrosine antibody (PT-66;
+      <named-content content-type="company" ns0:href="sigma">
+       Sigma Chemical Co.
+      </named-content>
+      , St. Louis, MO) before by an FITC-labeled goat anti–mouse IgG (Cappel Labs., Durham, NC). Assemblies of vinculin were detected by staining the cells with a mouse anti–vinculin antibody (VIN-11-5;
+      <named-content content-type="company" ns0:href="sigma">
+       Sigma Chemical Co.
+      </named-content>
+      ) followed by the FITC-labeled goat anti–mouse IgG. Bacteria were labeled using rabbit antiserum raised against the
+      <italic>
+       S. flexneri
+      </italic>
+      2a lipopolysaccharide and a goat anti– rabbit Cy5-conjugated IgG (Chemicon International Inc., Temecula, CA) as the secondary antibody.
+     </p>
+     <p>
+      The stained cells were viewed under a confocal laser scanning microscope equipped with dual detectors and an argon-krypton laser for simultaneous scanning of the three different fluorochromes (MRC-1024K; Bio-Rad Labs., Richmond, CA). Quantification of development of F-actin and assembly of focal complexes were calculated using image processing software (LaserSharp version 2.0; Bio-Rad Labs.).
+     </p>
+    </sec>
+    <sec disp-level="3">
+     <title>
+      PKC Activity Assay and Inhibitors.
+     </title>
+     <p>
+      PKC translocation in control and C3 treatment groups was determined using a modification of the method of Thomas et al. (1987) (      ). PKC activity in the cytosolic and membrane fractions was assayed 0, 5, 10, 15, 20, 25 and 30 min after YSH6000T infection of CHO cells. After infection, cells were washed twice in ice-cold PBS and then washed twice in 20 mM Tris-HCl buffer (pH 7.5) containing 2 mM EDTA, 0.5 mM EGTA, 2 mM PMSF, 25 μg/ml leupeptin, and 0.33 M sucrose (buffer A). Cells were then sonicated and the lysate was centrifugated at 190,000
+      <italic>
+       g
+      </italic>
+      for 1 h. The soluble fraction was retained and the membrane pellet was resuspended in buffer B (buffer A minus 0.33 M sucrose) containing 1% Nonidet P-40 to solubilize the membrane fraction. Both the cytosolic and solubilized membrane fractions were partially purified using ionexchange chromatography as previously described (      ). PKC activity in those fractions was then measured using the PepTag Non-Radioactive Assay system (
+      <named-content content-type="company" ns0:href="promega">
+       Promega Corp.
+      </named-content>
+      , Madison, WI).
+     </p>
+     <p>
+      Inhibitors were dissolved in dimethly sulfoxide and stock solutions of calphostin C (50 mM), 1-(5-isoquinolinesulfonyl)-2-methylpiperazine (H7; 10 mM), and
+      <italic>
+       N
+      </italic>
+      -(2-guanidinoethyl)-5-isoquinolinesulfonamide (HA1004; 10 mM) (all inhibitors obtained from
+      <named-content content-type="company" ns0:href="sigma">
+       Sigma Chemical Co.
+      </named-content>
+      ) were aliquoted and stored at −20°C. Before use, the inhibitors were diluted in MEM and this was added to the cultured CHO cells for 1 h at 37°C.
+     </p>
+    </sec>
+    <sec disp-level="3">
+     <title>
+      Immunoprecipitation and Immunoblot Analysis.
+     </title>
+     <p>
+      Infected CHO cells or Ipa invasin-treated serum-starved CHO cells were washed with HBSS and lysed in 0.5 ml lysis buffer (10 mM Tris-HCl [pH 7.5], 5 mM EDTA, 50 mM NaCl, 30 mM sodium pyrophosphate, 50 mM NaF, 1% Triton X-100, 100 μM Ma
+      <sub>
+       3
+      </sub>
+      VO
+      <sub>
+       4
+      </sub>
+      , 1 mM PMSF) per well. Immunoprecipitation and immunoblotting were performed as previously described (      ,      ,      ). The sample was then immunoprecipitated with the anti-FAK monoclonal antibody 2A7 (Upstate Biotechnology Inc., Lake Placid, NY) or antipaxillin monoclonal antibody 347 (Affiniti Research Products Ltd., Exeter, UK) and incubated at 4°C overnight, this step being followed by precipitation using protein A–Sepharose beads for 1 h at room temperature. The precipitates were washed with PBS and analyzed by immunoblotting with anti–phosphotyrosine monoclonal antibody PT-66 (
+      <named-content content-type="company" ns0:href="sigma">
+       Sigma Chemical Co.
+      </named-content>
+      ).
+     </p>
+    </sec>
+    <sec disp-level="3">
+     <title>
+      Recombinant Protein and Microinjection.
+     </title>
+     <p>
+      Pure recombinant Val14RhoA was obtained by subcloning the cDNA into the pGEX-2T vector (      ) and purified by a protocol described by Ridley et al. (1992) (      ). Purified protein was then microinjected into the cytoplasm. To determine the efficiency of microinjection, mouse IgG at 0.5 mg/ml was microinjected together with recombinant protein in some experiments and localized with FITC- or TRITC-conjugated goat anti–mouse IgG. In all cases, cells showing a response to the microinjected proteins also contained mouse IgG. These microinjections were carried out using Transjector 5246 and Micromanipulator 5171 (Eppendorf, Hamburg, Germany).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Results
+    </title>
+    <sec disp-level="4">
+     <title>
+      Shigella Invasion of Mammalian Cells Is Blocked by C. botulinum C3.
+     </title>
+     <p>
+      To examine whether or not the invasion of mammalian cells by
+      <italic>
+       Shigella
+      </italic>
+      is dependent on the activity of rho, a ras-related GTP-binding protein (      ,      ), semiconfluent (∼80%) CHO cell monolayers treated with various concentrations of C3 (0–2.0 μg/ml) for 1 d were infected with YSH6000T (wild-type
+      <italic>
+       S. flexneri
+      </italic>
+      ) for 20 min, and the internalized bacterial numbers were measured by gentamicin-protection assay. As shown in Fig.
+      <italic>
+       A
+      </italic>
+      , the invasive capacity of the bacteria decreased upon pretreatment of the CHO cells with C3, with the invasive capacity for the CHO cells pretreated with 2.0 μg/ml of C3 being only 10% of the initial invasiveness (100%). Under the same conditions, we observed that the invasion of the C3-treated CHO cells by a
+      <italic>
+       S. typhimurium
+      </italic>
+      strain, SB300 (      ), with its characteristic apical entry and induction of membrane ruffling (      ), was not decreased (Fig.
+      <italic>
+       A
+      </italic>
+      ). The inhibitory effect of C3 treatment on the invasiveness of YSH6000T was also revealed in other tissue cultured cell lines such as LLC-MK2, Caco-2, HeLa, and Swiss3T3 cells (Fig.
+      <italic>
+       B
+      </italic>
+      ); YSH6000T invasiveness for LLC-MK2, Caco-2, HeLa, and Swiss3T3 cells pretreated with C3 was decreased to 13, 9, 11, and 13% of the initial invasive capacity (100%), respectively. Unlike YSH6000T, SB300 invasiveness for these cell lines treated with C3 were not decreased at all, suggesting that the inactivation of rho function specifically prevents
+      <italic>
+       Shigella
+      </italic>
+      invasion of mammalian cells.
+     </p>
+    </sec>
+    <sec disp-level="4">
+     <title>
+      Activation of Rho in CHO Cells Promotes Uptake of Shigella.
+     </title>
+     <p>
+      To further confirm the requirement of rho activity for
+      <italic>
+       Shigella
+      </italic>
+      invasiveness of epithelial cells, we microinjected recombinant, activated Val14RhoA protein (      ) together with mouse IgG (for probing the injected cells) into CHO cells. In this experiment, semiconfluent CHO cells–monolayers made quiescent by serum starvation for 3 d were used, since it was hard to obtain quiescent CHO cells in the single cell islets as judged by the presence of actin stress fibers. Hence, we microinjected Val14RhoA together with mouse IgG, or the mouse IgG alone, into areas of the CHO cell monolayers, each containing 10–15 cells, and after 30 min of injection, YSH6000T was infected for 20 min. The CHO cells were fixed and stained with FITClabeled anti–
+      <italic>
+       S. flexneri
+      </italic>
+      2a LPS antibody and TRITClabeled anti–mouse IgG. For a total of 576 CHO cells injected with the mouse IgG alone, 31% were associated with bacteria, whereas for a total of 582 CHO cells injected with Val14RhoA, 61% of the cells were associated with bacteria. Furthermore, the average number of bacteria associated with CHO cells injected with mouse IgG alone was 7.8 ± 1.2, while that associated with the Val14RhoA-injected CHO cells was 40.2 ± 11.8.
+     </p>
+     <p>
+      To visualize CHO cell responses such as development of actin polymerization and protein tyrosine phosphorylation, the microinjection of Val14RhoA, or the effect on infecting bacteria, the microinjected CHO cells infected with YSH6000T were examined by triple fluorescence staining with Cy5-labeled anti–
+      <italic>
+       S. flexneri
+      </italic>
+      2a LPS antibody, rhodamine-phalloidin, and FITC-labeled anti-phosphotyrosine antibody. As shown in Fig.      , the Val14RhoA-injected CHO cells displayed dramatic actin polymerization that was accompanied by the appearance of tyrosine phosphorylated protein foci concentrated around the bacterial particles at the periphery of the CHO cells (Fig.      ,
+      <italic>
+       B
+      </italic>
+      ,
+      <italic>
+       D
+      </italic>
+      , and
+      <italic>
+       F
+      </italic>
+      ). Since bacterial particles associated with the CHO cells were visualized in immunostainings of cells permiabilized by 0.2%Triton X-100 but not in unpermiabilized cells, the bacterial particles appeared to be internalized into the cytoplasm. This data thus indicates that
+      <italic>
+       Shigella
+      </italic>
+      invasion of epithelial cells can be promoted upon activation of rho.
+     </p>
+    </sec>
+    <sec disp-level="4">
+     <title>
+      C3-treated CHO Cells Fail to Induce Protein Tyrosine Phosphorylation and Localized Accumulation of F-actin and Vinculin by Shigella Invasion.
+     </title>
+     <p>
+      We recently showed that localized accumulation of F-actin, vinculin, or talin was elicited by the attachment of
+      <italic>
+       S. flexneri
+      </italic>
+      to CHO cells, and that this was also accompanied by tyrosine phosphorylation of FAK and paxillin (      ). Hence, we examined whether such cellular responses to
+      <italic>
+       Shigella
+      </italic>
+      invasion were regulated by rho. Semiconfluent CHO cell monolayers treated with or without C3 (at 1.25 μg/ml) for 1 d were infected with YSH6000T, and, at 10, 20, and 30 min after the infection, whole cell protein extracts were immunoprecipitated with the antiFAK or anti-paxillin antibody. The proteins in the precipitates were separated by SDS-PAGE and immunoblotted with each of the anti-FAK, anti-paxillin, and anti-phosphotyrosine antibodies. As shown in Fig.      , both the CHO cells with and without C3 treatment expressed some amounts of FAK and paxillin (nonphosphorylated), but the tyrosine phosphorylated FAK and paxillin were evoked in nontreated CHO cells after 20–30 min infection with YSH6000T. Under the same conditions, neither of these proteins was tyrosine phosphorylated in the C3-treated CHO cells.
+     </p>
+     <p>
+      To visualize the protein tyrosine phosphorylation elicited by
+      <italic>
+       Shigella
+      </italic>
+      invasion of CHO cells and the effect of C3 treatment, the semiconfluent CHO cell monolayers pretreated with or without C3 were infected with YSH6000T for 20 min and examined by triple fluorescence staining with rhodamine-labeled phalloidin, FITC-labeled anti-phosphotyrosine antibody and Cy5-labeled anti–
+      <italic>
+       S. flexneri
+      </italic>
+      LPS. As shown in Fig.      , actin polymerization and foci of protein tyrosine phosphorylation was concentrated around the bacteria accumulated at the periphery of the untreated CHO cells (Fig.      ,
+      <italic>
+       A
+      </italic>
+      ,
+      <italic>
+       B
+      </italic>
+      ,
+      <italic>
+       D
+      </italic>
+      ,
+      <italic>
+       E
+      </italic>
+      ,
+      <italic>
+       G
+      </italic>
+      , and
+      <italic>
+       H
+      </italic>
+      ). On the other hand, the CHO cells treated with C3 (at 1.25 μl/ml) for 1 d had an altered cell shape and became surrounded with an F-actin sash (Fig.
+      <italic>
+       C
+      </italic>
+      ). As has been indicated above, only a few bacteria were associated with the CHO cells in which accumulation of foci of protein tyrosine phosphorylation had disappeared (Fig.      ,
+      <italic>
+       F
+      </italic>
+      and
+      <italic>
+       I
+      </italic>
+      ). Indeed, the bacteria associated with the C3-treated CHO cells (as counted in 20 different fields of the immunofluorescence micrograpy) were less than one tenth of those associated with the nontreated CHO cells. Furthermore, examination of the infected CHO cells using triple fluorescence staining with rhodamine-labeled phalloidin, FITC-labeled anti-vinculin, and Cy5-labeled anti–
+      <italic>
+       S. flexneri
+      </italic>
+      LPS revealed that localized actin polymerization (Fig.      ,
+      <italic>
+       A
+      </italic>
+      and
+      <italic>
+       B
+      </italic>
+      ) and accumulation of vinculin (Fig.      ,
+      <italic>
+       D
+      </italic>
+      and
+      <italic>
+       E
+      </italic>
+      ) were also associated with the infecting bacteria (Fig.      ,
+      <italic>
+       G
+      </italic>
+      and
+      <italic>
+       H
+      </italic>
+      ). None of those events were observed in C3-treated CHO cells (Fig.      ,
+      <italic>
+       C
+      </italic>
+      ,
+      <italic>
+       F
+      </italic>
+      and
+      <italic>
+       I
+      </italic>
+      ), suggesting that localized rearrangement of the host cytoskeleton elements such as actin, vinculin, and protein tyrosine phosphorylation elicited around invading
+      <italic>
+       Shigella
+      </italic>
+      is regulated by rho.
+     </p>
+    </sec>
+    <sec disp-level="4">
+     <title>
+      Activation of PKC in CHO Cells by Infection with Shigella.
+     </title>
+     <p>
+      Since intracellular signals regulated by rho accompany the activation of PKC (      ), we thus looked to see if PKC was indeed activated in CHO cells in response to infection by
+      <italic>
+       S. flexneri.
+      </italic>
+      Since the active form of PKC exists in the plasma membrane while the nonactive form remains in the cytoplasm (      ), the changes of PKC activity in the two subcellular fractions of CHO cells were monitored after infection by YSH6000T or CS2585 (noninvasive
+      <italic>
+       spa32
+      </italic>
+      mutant) at 5 min intervals up to 30 min. As shown in Fig.
+      <italic>
+       A
+      </italic>
+      , the PKC was activated in the CHO cells upon invasion by YSH6000T, but not by CS2585 (Fig.
+      <italic>
+       C
+      </italic>
+      ). However, the activation of PKC was not evoked in C3-treated CHO cells (Fig.
+      <italic>
+       B
+      </italic>
+      ). Since
+      <italic>
+       Salmonella
+      </italic>
+      invasion of CHO cells was not blocked by the treatment with C3 (Fig.      ), we tested whether or not
+      <italic>
+       S. typhimurium
+      </italic>
+      can activate PKC upon invasion of CHO cells. Under the same conditions,
+      <italic>
+       Salmonella
+      </italic>
+      invasion did not activate the PKC at all (data not shown). To further confirm this, PKC inhibitors calphostin C, H7, and HA1004 (      –      ) were tested for their effects on the invasiveness of YSH6000T using the gentamicinprotection assay. As shown in Fig.      ,
+      <italic>
+       D–F
+      </italic>
+      , the PKC inhibitors greatly diminished the
+      <italic>
+       Shigella
+      </italic>
+      invasive capacity for the CHO cells as their concentration was increased. Under the same conditions, none of the PKC inhibitors blocked
+      <italic>
+       Salmonella
+      </italic>
+      invasiveness.
+     </p>
+    </sec>
+    <sec disp-level="4">
+     <title>
+      Activation of Focal Adhesion Complex in CHO Cells upon Incubation in Secreted Ipa Invasins Is Blocked by C3 Treatment.
+     </title>
+     <p>
+      The secretion of Ipa invasins from the surface of
+      <italic>
+       S. flexneri
+      </italic>
+      into the external medium is essential for allowing the bacteria to invade epithelial cells (      ,      ). We therefore wished to clarify that the CHO cell response to YSH6000T invasion observed in this study was the consequence of the activity displayed by the Ipa invasins secreted into the medium. To test this, semiconfluent CHO cell monolayers serum starved for 3 d were incubated in tissue culture medium (MEM) containing secreted IpaB, IpaC, and IpaD and examined for the appearance of actin polymerization, foci of protein tyrosine phosphorylation, and accumulation of vinculin and talin. As shown in Fig.
+      <italic>
+       A
+      </italic>
+      , a dramatic change in the development of actin polymerization in CHO cells incubated in Ipa-containing MEM was accompanied by the appearance of foci of protein tyrosine phosphorylation around the peripheral edges. Similar responses were also observed in Swiss3T3 fibroblasts (Fig.
+      <italic>
+       B
+      </italic>
+      ). As shown in Fig.
+      <italic>
+       C
+      </italic>
+      , the semiquantitative measurement of amounts of actin polymerization, and accumulation of vinculin, talin, paxillin, FAK, and tyrosine phosphorylated proteins in the CHO cells revealed that at 30 (lane
+      <italic>
+       2
+      </italic>
+      ) and 60 min (lane
+      <italic>
+       3
+      </italic>
+      ) after the incubation was increased to greatly higher levels as compared with those of the CHO cells incubated in the MEM at 0 min (lane
+      <italic>
+       1
+      </italic>
+      ). Such cellular responses were not evoked at 60 min incubation in the CHO cells incubated in the MEM whose Ipa invasins had been removed by immunoprecipitation with anti-IpaB, -IpaC, and -IpaD antibodies (lane
+      <italic>
+       4
+      </italic>
+      ). The cellular responses to the addition of Ipa invasins were almost completely shut off in CHO cells pretreated with C3 (lane
+      <italic>
+       5
+      </italic>
+      ). In fact, measurement of phosphorylated FAK and paxillin levels by immunoblottings with anti-phosphotyrosine revealed that they were elicited upon incubation of the CHO cells in Ipa-containing MEM 30 min after incubation (Fig.
+      <italic>
+       D
+      </italic>
+      ). These data thus indicate that the cellular responses to the addition of secreted Ipa invasins are regulated by rho.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Discussion
+    </title>
+    <p>
+     In this study, we have investigated whether
+     <italic>
+      Shigella
+     </italic>
+     invasion of epithelial cells is regulated by rho, a ras-related small GTP-binding protein (     ,     ). The data provided by this study indicates that the invasion of mammalian cells by
+     <italic>
+      Shigella
+     </italic>
+     requires rho activity. This was deduced from the following results: (
+     <italic>
+      a
+     </italic>
+     ) invasive capacity of
+     <italic>
+      S. flexneri
+     </italic>
+     for various tissue cultured cell lines was greatly diminished when pretreated with C3; (
+     <italic>
+      b
+     </italic>
+     ) uptake of
+     <italic>
+      S. flexneri
+     </italic>
+     was enhanced in CHO cells upon microinjection of Val14RhoA, an activated rho variant; (
+     <italic>
+      c
+     </italic>
+     ) localized accumulation of actin polymerization, vinculin, talin, and tyrosine phosphorylated proteins were elicited upon attachment of
+     <italic>
+      S. flexneri
+     </italic>
+     to CHO cells, and this was blocked by pretreatment with C3; and (
+     <italic>
+      d
+     </italic>
+     ) tyrosine phosphorylation of FAK and paxillin elicited in CHO cells in response to infection with
+     <italic>
+      S. flexneri
+     </italic>
+     was blocked by pretreatment with C3. These results are compatible with a recent study by Ménard et al. (     ) who showed that immunopurified Ipa complex immobilized on latex beads was efficiently internalized into HeLa cells, but that this was severely blocked by the pretreatment with
+     <italic>
+      C. botulinum
+     </italic>
+     ToxB, which inhibits the activity of the rho superfamily including rho, rac, and cdc42 (     ). In that study, they indicated that IpaB-C–coated beads intimately attached to the HeLa cells elicited membrane ruffling.
+    </p>
+    <p>
+     We recently reported that
+     <italic>
+      Shigella
+     </italic>
+     invasion of CHO cell lines expressing high levels of α
+     <sub>
+      5
+     </sub>
+     β
+     <sub>
+      1
+     </sub>
+     integrin enhanced the invasive capacity according to the levels of production of the integrin, and observed that bacterial attachment to the CHO cells elicited convergence of the integrin, F-actin, vinculin, and talin around the bacterial attachment sites (     ). In that study, we also observed that Ipa invasins secreted from YSH6000T can directly interact with α
+     <sub>
+      5
+     </sub>
+     β
+     <sub>
+      1
+     </sub>
+     integrin under in vitro and in vivo conditions, and showed that the addition of α
+     <sub>
+      5
+     </sub>
+     β
+     <sub>
+      1
+     </sub>
+     integrin to the tissue culture medium greatly inhibited the invasiveness of YSH6000T for CHO cells (     ). Thus, these results together with the results in this and other studies (     ) strongly suggest that invasion of epithelial cells by
+     <italic>
+      Shigella
+     </italic>
+     involves cellular functions associated with focal adhesion plaques.
+    </p>
+    <p>
+     Interestingly, the release of IpaB, IpaC, and IpaD invasins from
+     <italic>
+      S. flexneri
+     </italic>
+     YSH6000T occurred more efficiently upon contact with the basolateral surface of the polarized Caco-2 cells compared with that on the apical surface (     ). In agreement with this, contact with extracellular matrix, such as fibronectin, laminin, or collagen type IV, which exist abundantly in the basolateral surface of polarized epithelial cells, triggers secretion of the Ipa invasins (     ). Ipa invasins thus released into the bacterial environment can form high molecular weight matrix-like structures (     ) made up of IpaB, IpaC, and IpaD (     ). Since
+     <italic>
+      S. flexneri
+     </italic>
+     mutants such as the
+     <italic>
+      spa32
+     </italic>
+     mutant, unable to release Ipa invasins into the bacteria environment, become noninvasive (     ,     ), the formation of Ipa complex might be a prerequisite for interaction with a putative host receptor such as α
+     <sub>
+      5
+     </sub>
+     β
+     <sub>
+      1
+     </sub>
+     integrin (     ). Since α
+     <sub>
+      5
+     </sub>
+     β
+     <sub>
+      1
+     </sub>
+     integrin is the essential component of focal adhesion plaques for adherence to the matrix, engaging promotion of localized rearrangements of major host cytoskeletons, tyrosine phosphorylation of focal adhesion proteins such as FAK and paxillin, and transmission of extracellular signals into the cytoplasm (     ,     ), it is possible that the interaction between the Ipa complex and α
+     <sub>
+      5
+     </sub>
+     β
+     <sub>
+      1
+     </sub>
+     integrins can trigger intracellular signaling such as that regulated by rho (     ).
+    </p>
+    <p>
+     It has been shown that the activation of integrin-mediated PKC (     ,     ), a serine-threonine kinase, is a downstream event in rho-regulated signal transduction (     ) which precedes cell spreading or tyrosine phosphorylation of FAK and paxillin (     ,     ). Hence, we investigated CHO cells infected with YSH6000T for the activation of PKC. As shown in Fig.
+     <italic>
+      A
+     </italic>
+     , PKC can be activated by infecting CHO cells with YSH6000T, but not SC2585 (a
+     <italic>
+      spa32
+     </italic>
+     mutant), and activation is almost completely blocked when the CHO cells were treated by C3 before YSH6000T invasion (Fig.
+     <italic>
+      B
+     </italic>
+     ). In addition, since the invasive capacity of YSH6000T was greatly decreased in the CHO cells treated with PKC inhibitors such as calphostin, H7, or HA1004, we concluded that activation of PKC regulated by rho is indeed involved in the entry of
+     <italic>
+      Shigella
+     </italic>
+     into epithelial cells.
+    </p>
+    <p>
+     Upon addition of secreted Ipa invasins to serum-starved CHO cell monolayers, a dramatic change in development of actin polymerization is elicited and this is accompanied by accumulation of tyrosine phosphorylated proteins, vinculin, and talin, members of the focal adhesion complex, around the periphery of the cells. All of this is blocked when the CHO cells were pretreated with C3. Indeed, the uptake of bacteria by CHO cells elicited upon incubation with secreted Ipa invasins can also be blocked by treatment with C3, suggesting that the uptake of bacteria by the CHO cells is regulated by rho.
+    </p>
+    <p>
+     It has been indicated that
+     <italic>
+      Shigella
+     </italic>
+     enter polarized colonic epithelial cells from the basolateral surface much more efficiently than from the apical surface (     ). When
+     <italic>
+      Shigella
+     </italic>
+     infecting the nonpolarized epithelial cell islets are observed by Giemsa stain, the bacteria tend to enter through the edges of epithelial cells, which correspond to the basolateral surface of polarized epithelial cells (     ). We thus believe that, although all experiments in this study were conducted using nonpolarized epithelial cells, the cellular responses that occurred in the CHO cells, which require the rho activity, could reflect similar invasion mechanisms to that operated in vivo when infected by
+     <italic>
+      Shigella.
+     </italic>
+    </p>
+    <p>
+     There has been cumulative evidence indicating that bacterial entry into epithelial cells can trigger a cascade of transmembrane intracellular signals that lead to rearrangement of major cytoskeletons (     ). For example, uptake of
+     <italic>
+      Yersinia
+     </italic>
+     by epithelial cells, mediated by interaction of the invasin protein with β
+     <sub>
+      1
+     </sub>
+     integrins, can be blocked by inhibition of protein kinases using staurosporine (     ). Intimate contact of enteropathogenic
+     <italic>
+      Escherichia coli
+     </italic>
+     with epithelial cells induces tyrosine phosphorylation of an unidentified host protein called Hp90, which seems to be involved in assembly of the actin cytoskeletons beneath the bacterial attachment sites (     ). Attachment of
+     <italic>
+      S. typhimurium
+     </italic>
+     to epithelial cells elicits membrane ruffling and stimulates mitogen-activated protein kinase (     ).
+     <italic>
+      Listeria monocytogenes
+     </italic>
+     internalinA can interact with E-cadherin of epithelial cells, which mediates internalization of the bacterium (     ), and this can be inhibited by genistein (     ).
+     <italic>
+      S. flexneri
+     </italic>
+     entry into HeLa or Caco-2 cells elicits tyrosine phosphorylation of cortactin, a cytoskeleton-associated protein tyrosine kinase substrate, through overexpression of proto-oncoprotein pp60     (     ), and its entry into CHO cells elicits tyrosine phosphorylation of FAK and paxillin (     ). Thus, invasive pathogens are capable of eliciting a variety of cellular signals depending on their entry properties for the target host cells, but localized actin polymerization could be a common attribute, though the extent of actin assembly varies among pathogens and the host cells. Although
+     <italic>
+      Shigella
+     </italic>
+     entry into epithelial cells absolutely depends on actin polymerization, the mechanisms of bacterial internalization seem to involve several pathways. For example, Clerc and Sansonetti used a wild-type
+     <italic>
+      S. flexneri
+     </italic>
+     strain harboring pIL22, which encodes the
+     <italic>
+      E. coli
+     </italic>
+     afimbrial adhesin AFAI (     ) thus enabling the bacteria (SC301) to adhere to epithelial cell surfaces, to demonstrate that bacterial internalization into HEp-2 cells is mediated by clathrin-coated vesicle endocytosis (     ). Recently, Adam et al. reported that SC301 can also be internalized into HeLa cells by macropinocytosis, a form of endocytosis that accompanies cell surface ruffling (     ), resembling the entry of
+     <italic>
+      S. typhimurium
+     </italic>
+     (     ). This and other studies have suggested that invasion of CHO or HeLa cells by
+     <italic>
+      S. flexneri
+     </italic>
+     can elicit cellular signals in the epithelial cells which are similar to those elicited by phagocytosis of professional macrophages (     ,     ). Therefore, it seems likely that
+     <italic>
+      Shigella
+     </italic>
+     uses a variety of invasive pathways for nonprofessional phagocytes. At present, it is not clear whether the differences in the bacterial entry fashions are due to the different mammalian cell lines or different bacterial surface properties. It is also still uncertain whether
+     <italic>
+      Shigella
+     </italic>
+     uses a standard or hybrid pathway in the invasion of epithelial cells in the human colon.
+    </p>
+    <p>
+     It is also worth mentioning that the host cellular events and the signals elicited upon infection by
+     <italic>
+      Shigella
+     </italic>
+     were quite different from those elicited by
+     <italic>
+      Salmonella
+     </italic>
+     under the same experimental conditions in this study. For example, tyrosine phosphorylation of FAK and paxillin were not elicited at all in CHO cells by
+     <italic>
+      Salmonella
+     </italic>
+     infection, and the invasive capacity was not altered in CHO cells treated with either C3, PKC inhibitors, or genistein (     ). The different responses observed between
+     <italic>
+      Shigella
+     </italic>
+     and
+     <italic>
+      Salmonella
+     </italic>
+     invasions to those drugs must reflect their different entry pathways into the polarized epithelial cells;
+     <italic>
+      Shigella
+     </italic>
+     enter into polarized epithelial cells from basolateral side (     ), while
+     <italic>
+      Salmonella
+     </italic>
+     enter from the apical surface (     ). Nevertheless,
+     <italic>
+      Salmonella
+     </italic>
+     secrete a set of invasins, SipB (SspB), SipC (SspC), and SipD (SspD), upon contact with epithelial cells, and the Sip invasins share significant amino acid similarity to IpaB (28%), IpaC (32%), and IpaD (40%), respectively (     –     ). Thus, it is interesting to ask whether or not the Sip invasins are directly involved in the apical entry of
+     <italic>
+      Salmonella
+     </italic>
+     into polarized epithelial cells, and whether the amino acids domains in IpaB, IpaC, and IpaD, similar to those of SipB, SipC, and SipD, are involved in the bacterial entry process. In any case, the potential ability to elicit such multiple pathways of internalization into epithelial cells, as indicated for
+     <italic>
+      Shigella
+     </italic>
+     , would be beneficial for invasive pathogens since it would enhance their chances to colonize the various types of host cells and tissues, an important strategy for pathogens to escape from the host defense systems.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <p>
+    <italic>
+     S
+    </italic>
+    <italic>
+     higella
+    </italic>
+    are the causative agents of bacillary dysentery (shigellosis), a disease which provokes severe, bloody diarrhea in humans and primates. An early essential step leading to shigellosis is the invasion of colonic epithelial cells, followed by bacterial multiplication and spread into adjacent cells. The invasive capacity of
+    <italic>
+     Shigella
+    </italic>
+    depends upon proteins encoded by a subset of three contiguous operons (
+    <italic>
+     ipa
+    </italic>
+    ,
+    <italic>
+     mxi
+    </italic>
+    , and
+    <italic>
+     spa
+    </italic>
+    ) in a 31-kb “pathogenicity island” on the large 230-kb plasmid (for review see references    and    ). The three invasins, IpaB, IpaC, and IpaD, encoded by the
+    <italic>
+     ipaBCD
+    </italic>
+    genes in the
+    <italic>
+     ipa
+    </italic>
+    operon, play crucial roles in the invasion of epithelial cells by
+    <italic>
+     Shigella. Shigella
+    </italic>
+    mutants, unable to express any one of them, are incapable of eliciting rearrangement of the actin cytoskeleton around bacterial attachment sites on epithelial cells (    ) or disrupting the phagocytic vacuoles surrounding invading bacteria (    ,    ).
+   </p>
+  </textgroup>
+  <textgroup>
+   <p>
+    Although none of the Ipa sequences contain classical signal peptide sequences (    ), the secretion of Ipa invasins into the bacterial environment can be mediated by the Mxi and Spa proteins (encoded by the
+    <italic>
+     mxi
+    </italic>
+    and
+    <italic>
+     spa
+    </italic>
+    operons in the “pathogenic island” (    –    )), forming a type III protein secretion system (    ). Secretion of Ipa invasins from
+    <italic>
+     Shigella flexneri
+    </italic>
+    occurs upon contact with epithelial cells such as HeLa (    ) and Caco-2 cells (    ), and it occurs more efficiently upon contact with the basolateral surface of polarized Caco-2 cells, as compared with contact on the apical surface (    ). In agreement with this, Ipa invasins can also quickly be secreted into the environmental medium upon contact with extracellular matrix such as fibronectin, laminin, and collagen type IV (    ), whereupon they form matrix-like, high molecular weight structures (    ).
+   </p>
+  </textgroup>
+  <textgroup>
+   <p>
+    <italic>
+     S. flexneri
+    </italic>
+    preferentially enters into polarized epithelial cells from the basolateral surface (    ); this is distinct from
+    <italic>
+     Salmonella
+    </italic>
+    invasion, which occurs on the apical surface by the elicitation of membrane ruffling (    ). When fibroblasts such as chicken embryonic fibroblasts are infected by
+    <italic>
+     S. flexneri
+    </italic>
+    , the bacteria enter into the cells at the point of adhesion plaques (    ). We have recently found that the secreted Ipa complex is capable of interacting with α
+    <sub>
+     5
+    </sub>
+    β
+    <sub>
+     1
+    </sub>
+    integrin under in vitro and in vivo conditions, and showed that the invasive capacity of
+    <italic>
+     S. flexneri
+    </italic>
+    for Chinese hamster ovary (CHO)    cells was increased as the levels of α
+    <sub>
+     5
+    </sub>
+    β
+    <sub>
+     1
+    </sub>
+    integrin expressed by the CHO cells was elevated (    ), and that the increased invasive capacity was competitively inhibited by the addition of α
+    <sub>
+     5
+    </sub>
+    β
+    <sub>
+     1
+    </sub>
+    integrin (    ). Bacterial entry into epithelial cells can elicit protein tyrosine phosphorylation of cortactin (    ), or pp125    (FAK) and paxillin (    ), and the sites of bacterial attachment to CHO cells expressing a high level of α
+    <sub>
+     5
+    </sub>
+    β
+    <sub>
+     1
+    </sub>
+    integrin showed enhanced assembly of α
+    <sub>
+     5
+    </sub>
+    β
+    <sub>
+     1
+    </sub>
+    integrin and localized accumulation of F-actin, vinculin, and talin (    ). These data thus led us to speculate that cellular signals such as those regulated by rho, one of the members of the Rho subfamily (    ,    ), are required for uptake of
+    <italic>
+     Shigella
+    </italic>
+    by epithelial cells, since assembly of integrin focal complexes have been indicated to require clustering of integrin and rho/rac activity (    ).
+   </p>
+  </textgroup>
+  <textgroup>
+   <p>
+    It has previously been shown that rho-induced assembly of focal adhesions and actin stress fibers in fibroblasts can be blocked by genistein, a kinase inhibitor, suggesting that an essential rho-regulated (tyrosine) kinase is required (    ). Indeed, several candidate protein kinases including protein kinase C (PKC), pp60    , and FAK are found in focal adhesions, along with structural proteins such as vinculin, talin, and α-actinin (    ). Recently, we observed that
+    <italic>
+     Shigella
+    </italic>
+    invasiveness can be blocked by the treatment of CHO cells by genistein (    ). Ménard et al. reported that immunopurified IpaB and IpaC complexes on latex beads were efficiently internalized into HeLa cells, which was accompanied by membrane ruffling (    ). In that study, they also revealed that the internalization of the Ipa-coated beads was blocked by the pretreatment of the cells with
+    <italic>
+     Clostridium botulinum
+    </italic>
+    ToxB (    ), which glycosylates rho, rac and cdc42, Rho subfamily (    ).
+   </p>
+  </textgroup>
+  <textgroup>
+   <p>
+    In this study, we used a
+    <italic>
+     S. flexneri
+    </italic>
+    based invasive system with CHO epithelial cells and investigated whether the invasion of epithelial cells by the bacteria depends on the rho function. We show that the
+    <italic>
+     Shigella
+    </italic>
+    invasion of epithelial cells including the host cellular responses to invasion such as localized polymerization of F-actin, accumulation of vinculin, talin, and tyrosine phosphorylated proteins, and activation of PKC, can be severely inhibited by treatment of the epithelial cells with
+    <italic>
+     C. botulinum
+    </italic>
+    exoenzyme C3 transferase (C3). Under the same conditions,
+    <italic>
+     Salmonella
+    </italic>
+    invasion was not impaired. A possible role of rho in the invasion of epithelial cells by
+    <italic>
+     Shigella
+    </italic>
+    will be presented.
+   </p>
+  </textgroup>
+ </sentences>
+</article>

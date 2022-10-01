@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Factors Affecting Early Antibody Secreting Cell Maturation Into Long-Lived Plasma Cells
+ </title>
+ <abstract>
+  <p>
+   Antibody secreting cells (ASCs) are terminally differentiated cells of the humoral immune response and must adapt morphologically, transcriptionally, and metabolically to maintain high-rates of antibody (Ab) secretion. ASCs differentiate from activated B cells in lymph nodes and transiently circulate in the blood. Most of the circulating ASCs undergo apoptosis, but a small fraction of early ASCs migrate to the bone marrow (BM) and eventually mature into long-lived plasma cells (LLPCs). LLPC survival is controlled both intrinsically and extrinsically. Their differentiation and maintenance programs are governed by many intrinsic mechanisms involving anti-apoptosis, autophagy, and metabolism. The extrinsic factors involved in LLPC generation include BM stromal cells, cytokines, and chemokines, such as APRIL, IL-6, and CXCL12. In humans, the BM CD19
+   CD38
+   CD138
+   ASC subset is the main repository of LLPCs, and our recent development of an
+   <italic>
+    in vitro
+   </italic>
+   BM mimic provides essential tools to study environmental cues that support LLPC survival and the critical molecular mechanisms of maturation from early minted blood ASCs to LLPCs. In this review, we summarize the evidence of LLPC generation and maintenance and provide novel paradigms of LLPC maturation.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="s1" sec-type="intro">
+    <title>
+     Introduction
+    </title>
+    <p>
+     A key aspect of the adaptive immune response is the rapid production of high-affinity antibodies (Abs). This antibody production is the function of an antibody secreting cell (ASC), which arises from naïve (or memory) B cells as they encounter antigen, activate, proliferate, and differentiate. In draining lymph nodes, the B cell to ASC differentiation can occur either in the germinal center (GC) reactions (which has implications for ASC longevity; see below) or outside GC, as a part of an extrafollicular response (
+     –
+     ) (
+     ). Differentiated ASCs subsequently egress out of lymph nodes and circulate in the blood (
+     ). Despite their critical function, ASCs are rare and comprise of no more than ~0.01–1% of the total cellularity in the circulation and lymphoid tissues.
+    </p>
+    <p>
+     In the blood and secondary lymph organs (SLOs), the ASC presence is transient (days to a few weeks) during primary and secondary immune responses (
+     –
+     ). After vaccination or during infection, ASCs appear in circulation for days and quickly disappear from the blood while serum Ab titers remain (
+     ,
+     –
+     ). The bimodal characteristics of serum Ab decay after infection or long-lived vaccines suggests that the large initial burst of ASCs is responsible for the peak of serum Ab titers and the secondary decay is due to ASCs with longer half-lives (
+     ).
+    </p>
+    <p>
+     In the circulation, the majority of circulating ASCs undergo apoptosis; yet a specialized fraction further matures into long-lived plasma cells (LLPCs) as they migrate to BM or other tissues (
+     ) (
+     ). LLPCs are quiescent, terminally-differentiated, non-dividing cells that survive after the antigen vanishes and is responsible for protection (
+     ,
+     –
+     ). It is thought that LLPCs constitutively produce specific Abs for years or even decades after an initial infection or immunization (
+     ), with evidence that they can persist independently of memory B cells (
+     ,
+     –
+     ). Hence, generating LLPCs is the main objective of an ideal vaccine.
+    </p>
+    <p>
+     Many studies show that ASCs derived from GC reactions, rather than extrafollicular responses, have the potential for LLPC formation and survival (
+     ,
+     –
+     ). After B cell receptor (BCR) cross-linking and costimulation, a number of cytokines (particularly IL-21 and IFNγ), through help from T follicular helper cells (Tfh), and affinity maturation have significant intrinsic influence on an ASC generated through GC responses to become a LLPC (
+     –
+     ). Most recently, IFNγ through B cell intrinsic T-bet expression is required for LLPC generation (
+     ). Thus, the GC appears to be important for the formation of LLPCs, yet the overall molecular mechanisms and programs that govern these processes are largely unexplored.
+    </p>
+    <p>
+     Some investigators show that LLPCs can be generated independently of B cell maturation (i.e., in the absence of GC formation) (
+     –
+     ). However, these studies showed persistence of ASCs for only 3–4 months and it is unclear if they are indeed long-lived. Nonetheless, whether a memory B cell generated initially through a GC response and re-stimulated extrafollicularly has similar intrinsic LLPC potential is not entirely known. Thus, it is still debated if some ASCs derived extrafollicularly from memory vs. naïve B cell origins may have long-lived survival potential.
+    </p>
+    <p>
+     In this review, we focus on the molecular and cellular processes involved in the adaptation of ASCs after exiting the GC into the medullary cords and efferent lymphatics and upon entering the blood, and eventually the BM niche (
+     ). Throughout the review, we will refer to “differentiation” as the process in which a B cell becomes an ASC (through GC or non-GC reactions), and “maturation” as the process in which an early minted ASC develops or transforms into a LLPC. The term “maintenance” will be used for survival of the ASCs. On this basis, we will discuss the role of BM “microniches” in both the maturation and the maintenance of BM LLPCs.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s2">
+    <title>
+     Transformation of B Cells to ASCs and Then to LLPCs
+    </title>
+    <p>
+     The prime directive of ASCs is to synthesize and secrete Abs that provide protection against microorganisms. ASCs produce large amounts of Abs, typically at a rate of between ~10 and 1,000 (and can be up to ~5,000–10,000) Ab molecules per cell per second, which corresponds to ~0.2–22 pg/cell/day (
+     –
+     ). To perform this heroic feat, ASCs undergo fundamental changes in morphology and homeostasis during terminal differentiation, which include altering cellular structure, surface protein expression profile, metabolism, and other cellular and molecular programs. In this section, we discuss these changes by contrasting the recent findings of human blood and BM ASCs.
+    </p>
+    <sec>
+     <title>
+      Cellular Structure
+     </title>
+     <p>
+      To accommodate the production of copious amounts of proteins, ASCs expand their cytoplasm, endoplasmic reticulum (ER), and Golgi apparatus during differentiation and maturation, enabling increased capacity for Ab synthesis and secretion (
+      ) (
+      ). Early ASCs lose their proliferative capacity and reduce the nucleus size by condensing their chromatin. The decrease in nuclear area and the repositioning of the nucleus closer to the cell membrane enable ASCs to accommodate additional cellular machinery necessary for protein production. Overall, these morphological changes are orchestrated to result in assembling an Ab factory.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Blood ASC Phenotypes
+     </title>
+     <p>
+      As ASCs differentiate and mature, they alter their surface protein expression profile. These proteins can be used as the phenotypic markers for identifying subsets within the ASC population. Notably, there is no universally accepted or “standardized” phenotype to identify ASCs—in humans or in mice (which make it difficult to compare across studies). Nevertheless, human ASCs in general lose their surface immunoglobulins and can typically be identified based on the expression of one or more of the following cell surface markers: CD19, CD27, CD38, CD138, and BCMA (
+      –
+      ) (
+      ). In mice, blood ASCs typically reduce or lose the expression of B220, MHC-II, and BCR. Additional markers such as Sca-1, TACI, and CD98, have also recently been used for identifying ASCs in mice—on the basis of CD138 expression (
+      ,
+      –
+      ); however, it is unclear how this combination translates to humans or other animal models.
+     </p>
+     <p>
+      In humans, blood ASCs are typically identified as CD19
+      CD27
+      CD38
+      (gated on CD3
+      CD14
+      IgD
+      cells) (
+      ). However, our recent studies along with others have demonstrated that human blood ASCs are heterogeneous and can be further subgrouped on the basis of the additional expression of CD19 and CD138 (
+      ,
+      ) (
+      ,
+      ,
+      ). Of the five different ASC subsets we identified, three were CD19
+      whereas two were CD19
+      subsets. Among them, populations 2 (pop 2; CD19
+      IgD
+      CD27
+      CD38
+      CD138
+      ) and 3 (pop 3; CD19
+      IgD
+      CD27
+      CD38
+      CD138
+      ) are the most abundant, and population 5 (pop 5; CD19
+      IgD
+      CD27
+      CD38
+      CD138
+      ) resembles LLPCs by surface markers (
+      ). The other ASC subsets contained a mixed population of B cells and other cell types and thus, the study focused on pops 2, 3 (CD19
+      ), and 5 (CD19
+      ). Based on RNAseq analysis, pops 2 and 3 are very similar transcriptionally whereas pop 5 is quite distinct (
+      ). More interestingly, all pops 2, 3, and 5 have similar potential for survival in an
+      <italic>
+       in vitro
+      </italic>
+      BM mimetic system, suggesting the importance of extrinsic factors in their survival.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Blood ASC Migration
+     </title>
+     <p>
+      The exit of ASCs from SLOs into the blood is guided by the expression of their S1P receptor 1 (S1P1) (
+      ,
+      ). Subsequently, in concert with changes in surface markers, blood ASCs modulate the expression of chemokine receptors that direct them to local tissues (
+      ). For example, CXCR3 directs ASCs to inflamed tissues, CCR9 guides them to the small intestine, CCR10 directs the cells to a variety of tissues, including the colon, lung, trachea, or mammary glands (
+      ), and, importantly, CXCR4 leads them to the BM rich in CXCL12 (
+      –
+      ). It is also thought that ASCs are retained in the BM by CXCR4 because they fail to accumulate in the BM microenvironment in CXCR4
+      mice (
+      ).
+     </p>
+     <p>
+      It still remains unclear how the expression of chemokine receptors on ASCs is regulated, although transcription factor c-Myb may be involved (
+      ). In the absence of c-Myb, no ASCs are detected in the BM. Whether this phenomenon is due to inability of c-Myb deficient ASCs to migrate along a CXCL12 gradient or if c-Myb is involved in ASC survival will need further elucidation. Nonetheless, the migratory capability of ASCs appears to be decreased as they mature (
+      ,
+      ), along with upregulation of Blimp-1 (
+      –
+      ). This phenomenon may serve as another means of retaining ASCs in the BM or other tissues. Clearly, migration to specific sites rich in survival factors enhances ASC survival; but whether fundamental intrinsic differences are imprinted during ASC differentiation or whether maintenance is solely dependent on homing markers alone is not well-established. Thus, the nature (intrinsic) or nurture (extrinsic) is a critical debate for LLPC generation. To further its complexity, ASC maturation to a LLPC may actually require a combination of both.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      BM LLPC Phenotype
+     </title>
+     <p>
+      As previously mentioned, LLPCs are non-dividing, long-lasting terminally differentiated ASCs. In mice and humans, most LLPCs reside in the BM (
+      ,
+      ,
+      ) (
+      ). These specialized ASCs persist and are thought to autonomously and continuously produce Abs for decades or beyond, independently of antigen stimulation (
+      –
+      ). BM ASCs are also thought to be unresponsive to further antigenic stimulation (
+      ). However, unlike IgG ASCs, a recent report identified a population of IgM BCR expressing ASCs that may sense antigen (
+      ). In mice, ASCs in the spleen and the BM are identified based on the expression of B220, CD138, and Sca-1 subsets, with implications of B220
+      ASCs as mature subsets (
+      –
+      ). Human BM ASCs are heterogeneous, with few overlapping markers with mice, and can be grouped on the basis of expression of CD19, CD27, CD38, and CD138 (
+      ) (
+      ,
+      ). To identify the human BM LLPC subset, we interrogated each compartment for microbial specificity against viral infection (measles and mumps) that occurred decades ago and found that only the CD19
+      CD38
+      CD138
+      subset contained these long-lived viral specificities. We assigned the CD19
+      BM populations as short-lived plasma cells (SLPCs), which include pops A and B that did not comprise of the long-lived specificities (
+      ) (
+      ). Others have alluded to these results but did not show long-lived antigen specificities (
+      ). Thus, it appears that the ASC fraction that downregulates CD19 expression and escapes apoptotic cell death eventually becomes LLPCs.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s3">
+    <title>
+     Intrinsic Regulation of ASC Differentiation and Maintenance
+    </title>
+    <p>
+     The B cell to ASC differentiation involves an extensive reorganization of transcriptional networks (
+     ,
+     ) (
+     ). In order for ASCs to synthesize and secrete large amounts of Abs, these regulatory networks massively upregulate transcription of the heavy and light chain mRNA transcripts (up to 100–1,000-folds). ASCs have unique transcriptomes where &gt;70% transcripts encode the IgH and IgL chains for Ab synthesis (
+     ). The differentiation of ASCs is regulated at the transcriptional, post-translational, and epigenetic levels. In this section, we discuss the intrinsic cellular programs—including signaling pathways and metabolic alterations as well as transcriptional, post-transcriptional, and epigenetic networks—involved in regulation of ASC differentiation, maturation, and maintenance.
+    </p>
+    <sec>
+     <title>
+      Transcriptional Regulatory Networks
+     </title>
+     <p>
+      Aspects of ASC biology, metabolism, homeostasis, migration, and survival are controlled by their distinct gene expression programs (or transcriptional regulatory networks) (
+      ,
+      ,
+      ). These regulatory programs promote features to produce large quantities of Abs and to shed B cell characteristics. They function through two groups of antagonistic transcription factors, in which acquisition of plasma cell-specific transcription results in termination of B cell-specific transcriptional program (
+      ,
+      –
+      ).
+     </p>
+     <p>
+      Transcription factors maintaining the B cell program are mainly BCL6 and PAX5 (
+      ), although Bach2 and IRF8 are also important (
+      ,
+      ). BCL6 is highly expressed in GC B cells and promotes cell proliferation and survival. Transcription factors facilitating ASC differentiation include Blimp1 (encoded by
+      <italic>
+       Prdm1
+      </italic>
+      ) (
+      ), XBP1, and IRF4 (
+      ,
+      ,
+      ,
+      ,
+      –
+      ). These ASC-“specific” transcription factors are uniquely upregulated in plasma cell transcriptome (
+      ,
+      ), with Blimp1 and XBP1 required for Ab secretion whereas IRF4 is likely essential for survival (
+      ,
+      –
+      ). Importantly, Blimp1 and XBP1 play a multifunctional role in both instructing differentiation and maintaining homeostasis. Blimp1 inactivation downregulates the unfolded protein response (UPR), thus negatively affecting the cell secretory capabilities (
+      ,
+      ). Also, Blimp1 positively regulates mTORC1 activity (
+      ) as loss of Raptor negatively affects ASC maturation and Ab secretion (but not survival) (
+      ). Finally, XBP1 has been shown to be an important regulator of the UPR (
+      ).
+     </p>
+     <p>
+      In addition to these two reciprocally-regulated groups of transcription factors, a number of other factors have been found differently expressed by ASCs in distinct compartments (i.e., SLOs, blood, and BM). Examples include anti-apoptotic factors, such as Mcl-1, Bcl-2, BclxL, Bim, and BCLw, which are increased, and pro-apoptotic factors, such as Bax and BID, which are decreased, to promote ASC maintenance (
+      –
+      ). Importantly, expression of Mcl-1 appears to be required for ASC survival in the BM and is mediated by BCMA, a TNF receptor (
+      ), potentially under the control of IRF4 (
+      ) or Zbtb20 (
+      ,
+      –
+      ).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Signaling and Metabolism
+     </title>
+     <p>
+      During differentiation, ASCs adapt and utilize various signaling pathways to accommodate the need for high-rate Ab production and maintenance of homeostasis (
+      ). Thus, activation of the UPR, the cellular response to ER stress due to accumulation of misfolded (damaged) proteins, is essential for increased Ab secretion during ASC differentiation from B cells (
+      ,
+      ,
+      ,
+      ). In most cells, upregulation of the UPR indicates the inability of the cells to recycle proteins via ubiquitination or signify the hijacking of this pathway (i.e., by virus). In these situations, the UPR typically results in apoptosis as a means to eliminate a virally infected or dysfunctional cell. In the case of ASCs, the UPR is upregulated due to stress from the massive protein secretion in order to maintain the cell\s survival since this imbalance could quickly lead to apoptosis. This pathway strongly involves XBP1 through ATF6 and IRE-1 during differentiation (
+      ,
+      ,
+      ). Nevertheless, little is known about the regulation of this pathway in human ASCs after differentiation or how it may be modulated to ensure the maintenance of LLPCs. Thus, identifying the molecular mechanisms that regulate this pathway could lead to modulating LLPC formation and maintenance.
+     </p>
+     <p>
+      Antibody secreting cells (ASCs) must also adapt their metabolism to produce Abs during circadian nutrient fluctuations while maintaining cellular homeostasis. As terminally-differentiated cells, ASCs do not actively remodel their cytoplasm through cell division but rely on autophagy to recycle their protein aggregates and organelles in order to optimize energy for survival. Multiple autophagy genes, such as
+      <italic>
+       Atg5, Atg9
+      </italic>
+      , and
+      <italic>
+       Atg13
+      </italic>
+      , are upregulated in ASCs and likely play a role as LLPCs mature (
+      ,
+      ,
+      ). This increased autophagic activity enables LLPCs to regulate the production of Abs when nutrients are limited (
+      ). Interestingly, hypoxia is a known inducer of autophagocytic pathways, and we recently showed that hypoxic conditions enhance the survival of human ASCs
+      <italic>
+       in vitro
+      </italic>
+      (
+      ). Whether autophagy programs are upregulated prior to BM localization or in response to the hypoxic BM microenvironment is still not clear.
+     </p>
+     <p>
+      Another important signaling pathway for ASCs is the mTOR. The mTOR kinase is a major regulator of many cellular processes, including survival and proliferation. mTOR signaling, mainly through the mTORC1 signaling complex (mTORC1), regulates the biosynthesis of cellular macromolecules, including proteins, nucleic acids, and fatty acids, as well as glycolysis and organelle biosynthesis (
+      ,
+      ). Blimp1 positively regulates mTOR signaling as B cells differentiate into an ASC (
+      ,
+      ,
+      ). However, in humans, as ASCs mature into BM LLPCs, mTORC1 activity is downregulated (
+      ) and autophagy is increased (
+      ). Additionally, the survival of human BM LLPCs, unlike that of BM SLPCs or early minted blood ASCs, is resistant to mTOR inhibitors, illustrating downregulation of mTOR pathways for LLPC maturation (
+      ). Similar findings were corroborated in mouse studies (
+      ).
+     </p>
+     <p>
+      As ASCs evolve into LLPCs, major metabolic changes occur. In addition to differences in mTOR signaling that functionally distinguishes LLPCs from SLPCs, a sundry of metabolic mechanisms differs between these two cell types. LLPCs have higher glucose uptake than SLPCs, and utilize glucose for Ab glycosylation (
+      ). Moreover, LLPCs have increased expression of the glucose transporter, GLUT1 (
+      ,
+      ). Recently, the ATP-degrading enzyme ENPP1, a regulator of glucose metabolism, was shown to be required for the development and survival of LLPCs in mice (
+      ). In both mice and human, higher maximal respiratory capacity was shown in LLPCs compared to SLPCs (
+      ), suggesting differences in respiratory capacity that may be linked to survival advantages. Nonetheless, more studies are warranted to understand whether versatility of energy utilization may determine survival advantages in unique nutrient-deprived environments.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Post-transcriptional Modulation
+     </title>
+     <p>
+      Post-transcriptional regulation of mRNA expression is a major mechanism to rewire the transcriptome and proteome. This type of regulation defines the fate of mRNAs, including immunoglobulin transcripts, through multiple steps of mRNA processing, including alternative splicing of pre-mRNAs, mRNA stability and turnover, 3\ UTR regulation, and translational control (
+      –
+      ). The two key players in post-transcriptional regulation of protein expression are non-coding RNAs (mainly miRNAs) and associated RNA-binding proteins (RBPs) (
+      ,
+      ,
+      ). In committed ASCs, post-transcriptional regulation is employed in several processes and can play a role in the magnitude of immunoglobulin expression (
+      ). The processing of
+      <italic>
+       IgH
+      </italic>
+      mRNA is modulated post-transcriptionally (which requires Blimp-1) (
+      ,
+      ). Expression of the glucose transporter GLUT1 is also regulated at the post-transcriptional level (
+      ,
+      ). However, whether post-transcriptional regulation of mRNA and non-coding RNAs plays a role in LLPC maturation needs further evaluation.
+     </p>
+     <p>
+      RNA-binding proteins (RBPs) are involved in regulating the B cell programs and thus, can also influence ASC differentiation (
+      ,
+      ). An example is HuR, an RBP splicing regulator ubiquitously found in the nucleus and capable of nucleo-cytoplasmic shuttling (
+      ). Depletion of HuR results in unbalanced mitochondrial metabolism and impaired B cell proliferation and differentiation, which has a negative impact on ASC differentiation (
+      ). Another major RBP involved in ASC differentiation is the splicing factor hnRNPLL, a member of the hnRNP (heterogeneous nuclear ribonucleoprotein) family. hnRNPLL is specifically induced in ASCs and, through regulating mRNA alternative splicing and stability, facilitates B cell differentiation and ASC Ab secretion (
+      ). Also, hnRNPLL and the transcription elongation factor ELL2 (elongation factor, RNA polymerase II, 2), a regulator of pre-mRNA processing in plasma cells, modulate the ratio of secreted vs. membrane-encoding IgH transcripts. Most interesting, ELL2 was responsible for differentially processed transcripts such as BCMA (
+      ).
+     </p>
+     <p>
+      Our recent integrated transcriptomic and proteomic analysis distinguishing early minted ASCs and BM LLPCs identified a novel RBP, hnRNP A1, as a potential post-transcriptional modulator (
+      ). Blocking hnRNP A1 led to reduced survival of both human blood ASCs and BM LLPCs (
+      ). Thus, unlike HuR or hnRNPLL, which are involved in regulating the differentiation of B cells to ASCs, hnRNP A1 may be unique and important in the regulation of the maturation of early blood ASCs and BM LLPCs. Altogether, these data highlight the important role of post-transcriptional regulation in the differentiation as well as maturation of ASCs, which can also influence the survival of LLPCs.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Epigenetic Regulation
+     </title>
+     <p>
+      <italic>
+       Ezh2
+      </italic>
+      , a histone methyltransferase that catalyzes trimethylation of histone H3 (H3K27me3), has been shown to epigenetically regulate gene expression during ASC differentiation.
+      <italic>
+       Ezh2
+      </italic>
+      expression is upregulated during ASC differentiation, and
+      <italic>
+       Ezh2
+      </italic>
+      -deficient ASCs exert reduced levels of the UPR, glucose metabolism, and mitochondrial respiration, resulting in decreased Ab secretion (
+      ,
+      ) (
+      ). Thus,
+      <italic>
+       Ezh2
+      </italic>
+      plays a role in ASC differentiation by promoting metabolic changes that are important for Ab secretion. Interestingly, this enzyme can interact directly with Blimp1 (
+      ) and represses the B cell program (
+      ). It will be important to understand if
+      <italic>
+       Ezh2
+      </italic>
+      expression is modified as ASCs mature into a LLPC.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s4">
+    <title>
+     Extrinsic Factors in ASC Maturation and Maintenance
+    </title>
+    <p>
+     The notion that some ASC subsets exist for only a few days whereas others live for decades is thought to be chiefly determined extrinsically, i.e., largely dependent on where ASCs reside. In both mice and humans, most LLPCs reside in a specialized BM microenvironment, known as the survival niche (
+     ,
+     ,
+     ) (
+     ). Removal of ASCs from this specialized residence leads to rapid cell death. Thus, these niches enable ASC maintenance and longevity—via intracellular crosstalk or direct ASC interactions with neighboring cells and/or through soluble factors produced locally by neighboring cells (
+     ,
+     ,
+     ). It is believed that these niches support only a limited ASC number due to their physical confines (
+     ). Thus, the BM environment must be stable to protect their resident cells yet dynamic enough to adapt to new arrivals.
+    </p>
+    <p>
+     Although LLPCs are highly enriched in the BM (
+     ), recent studies have described several tissue-specific niches (TSNs) that afford LLPC survival advantages. LLPCs can also be found, albeit at low frequencies, in other tissues throughout the body, such as the nasal-associated lymphoid tissues (NALT) (
+     ), human tonsillar lymphoid tissues (
+     ), human mucosa or mucosa-associated lymphoid tissues (MALT) (
+     ,
+     ), human intestine (
+     –
+     ), spleen (
+     ,
+     ), and human salivary gland microenvironment (in primary Sjögren\s syndrome) (
+     ) (
+     ). In mice, the spleen appears to provide extrinsic signals to determine the cell survival (
+     ,
+     ). Thus, outside the BM, TSNs may also be capable of maintaining LLPCs, but may be unique for specific isotypes or specificities (
+     –
+     ,
+     ,
+     ,
+     ).
+    </p>
+    <sec>
+     <title>
+      BM Niches: Cells Involved in ASC Maintenance
+     </title>
+     <p>
+      The BM niche is the primary “home” for LLPCs. This ASC niche represents a highly-complex microenvironment which includes multiple cell types such as mesenchymal stromal/stem cells (MSCs) (
+      ,
+      ), eosinophils (
+      ,
+      ), megakaryocytes (
+      ), basophils (
+      ), monocytes (
+      ), macrophages (
+      ), dendritic cells (
+      ), T cells (
+      ), osteoclasts (
+      ), and fat cells (
+      ) (
+      ). Notably, the BM is physiologically hypoxic—with oxygen tensions range ~1–6%, depending upon the vicinity of blood vessels (
+      –
+      ). Despite the rich cellular BM composition, it still remains a mystery whether LLPCs preferentially home to the BM or pro-actively adapt upon arrival to the extreme hypoxic BM environment.
+     </p>
+     <sec>
+      <title>
+       MSCs (and Derivatives)
+      </title>
+      <p>
+       Mesenchymal stromal/stem cells (MSCs) are the principal organizer of the BM microniche involved in supporting LLPC survival. Evidence shows that this support is mediated through cell-cell contacts and/or soluble signals (
+       ,
+       –
+       ). BM ASCs are in direct contact with MSCs (
+       ,
+       ). This interaction is thought to be mediated mainly via ASC adhesion receptors, VLA-4 and LFA-1 (
+       ,
+       ,
+       ,
+       ) and their natural ligands, VCAM-1 and ICAM-1, respectively, on MSCs, and are thought to anchor them to the extracellular matrix (ECM) (
+       ). MSCs also assist ASC survival through the secretion of soluble molecules. For example, MSCs secrete CXCL12 that interacts with CXCR4 on ASCs (
+       ,
+       ,
+       ,
+       ), which direct them to close proximity of MSCs. In addition to chemokines, MSCs secrete IL-6 that is critical for ASC differentiation and survival (
+       ). Moreover, interaction of VLA-4 and fibronectin was shown to be essential for MSC-mediated survival of ASCs (
+       ). MSCs also secrete TGF-β1 and TGF-β2, which are involved in B cell homeostasis and IgA responses in mice (
+       ,
+       –
+       ). Finally, MSCs produce ECM-modifying molecules, such as heparan sulfate (HS) (
+       ,
+       ,
+       ), which is an unconventional “receptor” that induces APRIL oligomerization and may trigger BCMA-mediated survival signaling of ASCs (
+       ,
+       ).
+      </p>
+      <p>
+       The interaction between MSCs and ASCs via MSC-produced CXCL12 and ASC membrane-bound CXCR4 is well-established (
+       ). However, it was unclear whether cell-cell contact between MSCs and ASCs was essential (
+       ,
+       ,
+       ,
+       ) or dispensable (
+       ,
+       ). Possible explanations for this discrepancy may be due to distinct MSC subsets for each study. Our recent work confirms that human BM-derived MSCs provided sufficient soluble factors for ASC survival without the need for cell-cell contact (
+       ). While the persistence of BM ASCs is supported in general by MSCs, a unique subset of CXCL12
+       MSCs are obligatory to form and maintain the survival niche (
+       ,
+       ). Alternatively, the requirements for the survival of ASCs as they mature into LLPCs may vary, supporting a model that different MSC subsets are needed for distinct ASC populations (specific to blood or BM).
+      </p>
+      <p>
+       Recently, a unique subset of lymph node stromal cells found in the medullary cords provided a major source of ASC survival factors, including CXCL12, IL-6, APRIL, and BAFF (
+       ). Distinct from T zone fibroblastic reticular cells (FRCs), the medullary FRC subset (MedRCs) together with macrophages promoted ASC survival by soluble signals similar to our observations with BM stromal cells. Additionally, FRCs at the GC-T cell zone interface may also have similar characteristics (
+       ,
+       ). In summary, particular stromal cells in specific locations (i.e., lymph nodes, BM, or other tissue sites) may ultimately orchestrate ASC survival.
+      </p>
+      <p>
+       Extracellular vesicles (EVs) from BM MSCs provide additional evidence that MSC-ASC cell-cell contacts are non-essential (
+       ). Both MSCs and ASCs are rare cell types in the BM microniche and EVs may provide survival factors over greater distances compared to the local paracrine factors which are limited by proximity. MSC-derived EVs have been shown to be involved in multiple myeloma (
+       ), but our group recently showed that human BM MSC-derived EVs can support healthy ASC survival
+       <italic>
+        in vitro
+       </italic>
+       (
+       ). Although the exact mechanism was not determined, EVs probably mediate the delivery and transfer of diverse biologically-active molecules over greater distances.
+      </p>
+     </sec>
+     <sec>
+      <title>
+       Eosinophils and Osteoclasts
+      </title>
+      <p>
+       In addition to MSCs, ASCs are also surrounded by other cell types in the BM microenvironment. Among them, eosinophils (
+       ) and osteoclasts (OCs) (
+       ) (
+       ) have been shown to promote ASC survival. Eosinophils have high-turnover, are located in the ASC vicinity, and produce survival factors, including IL-6 and APRIL (and BAFF) (
+       ,
+       ). Although Chu et al. showed that eosinophils are needed for ASC survival (
+       ), other investigators found that they are not essential (
+       –
+       ). This discrepancy may be attributed to redundancy of ASC survival factors among a variety of accessory cells. Monocyte-derived OCs, which are able to support myeloma cell growth (
+       ), also appeared to support the survival of ASCs
+       <italic>
+        in vitro
+       </italic>
+       (
+       ). Interestingly, OCs produce BAFF and APRIL (
+       ), but their ASC survival benefits may actually be independent of either APRIL or BAFF (
+       ).
+      </p>
+     </sec>
+     <sec>
+      <title>
+       Other Accessory Cell Types
+      </title>
+      <p>
+       Other accessory cell types that are capable of promoting ASC maintenance include megakaryocytes (
+       ,
+       ), basophils (
+       ,
+       ), dendritic cells (
+       ), Tfh (
+       ,
+       ), and Treg (
+       ,
+       ). Again, some of these cell types in BM niche may have redundant functions or secrete overlapping factors with other BM cell types and thus, may play overlapping roles for ASC survival. For example, IL-6 is paramount for ASC survival and is produced by both MSCs and eosinophils. Similarly, APRIL, another important ASC survival factor, can be secreted by neutrophils, eosinophils, megakaryocytes, osteoclasts, as well as BM MSCs (
+       ,
+       ,
+       ). At this point, redundant functions from many BM cell types facilitate ASC persistence; however, the BM MSCs appear to be essential beyond IL-6 production for ASC survival (
+       ,
+       ,
+       ,
+       ,
+       ). The precise soluble factors and molecular mechanisms are not known, but specific clues suggest the MSC surrounding ECM.
+      </p>
+     </sec>
+    </sec>
+    <sec>
+     <title>
+      BM Niches: Signals and Factors Implicated in ASC Maturation and Maintenance
+     </title>
+     <p>
+      In addition to via cell-cell interactions, BM niches also support the process of ASC maturation by soluble components that ultimately alter the cell phenotype into a LLPC.
+     </p>
+     <sec>
+      <title>
+       APRIL/BAFF:BCMA and APRIL:SDC-1 Signaling
+      </title>
+      <p>
+       The APRIL/BAFF:BCMA signaling axis is a well-characterized pathway in ASC survival (
+       ,
+       ,
+       ). APRIL or BAFF, two members of the TNF family of ligands, promotes ASC survival and longevity
+       <italic>
+        in vitro
+       </italic>
+       (
+       ,
+       ,
+       ), in mice (
+       ,
+       ,
+       ), and
+       <italic>
+        ex vivo
+       </italic>
+       (in humans) (
+       ). These signals are primarily triggered and delivered through the interactions of BAFF/APRIL with one of their shared receptors, BCMA (
+       ). BCMA is predominantly expressed on terminally differentiated B cells with upregulation on LLPCs (
+       ) (
+       ). BCMA is required for maintenance of ASCs residing within BM niches, which likely acts through APRIL (or BAFF) in combination with IL-6 (
+       ) or CD4
+       T cells (
+       ). Moreover, APRIL also promotes IgA PC survival in human mucosa (
+       ). Molecularly, APRIL mediates cell survival primarily by activation of Akt, Erk1/2, JNK, and NF-κB signaling pathways, which leads to upregulation of antiapoptotic genes. APRIL:BCMA has shown to sustain expression of Mcl-1, an important Bcl2-family antiapoptotic factor that is expressed in ASCs (
+       ,
+       ).
+      </p>
+      <p>
+       Syndecan-1 (SDC-1), otherwise known as CD138, a heparan sulfate proteoglycan (HSPG), has been shown to be a pro-survival factor for ASCs (
+       ) (
+       ). While BAFF predominately binds BAFF receptor (BAFF-R; which is expressed on immature B cells), APRIL can bind through HSPGs (
+       ,
+       ,
+       ) and thereby through SDC-1, APRIL oligomerizes and triggers BCMA mediating ASC survival. Alternatively, binding to APRIL may enable syndecans to deliver survival signals through intracellular tails (
+       ). In humans, SDC-1 expression had been used as a LLPC surrogate (
+       ,
+       ,
+       ); however, our group recently showed that SDC-1 can be found in early blood ASCs even though SDC-1
+       ASCs could eventually upregulate SDC-1 in our
+       <italic>
+        in vitro
+       </italic>
+       BM mimetic cultures (
+       ). Not surprisingly, both SDC-1
+       and SDC-1
+       ASCs survived similarly, concluding that upregulation of SDC-1 plays a role in ASC maintenance.
+      </p>
+      <p>
+       Although there was some debate whether BAFF and APRIL equally support ASC survival (
+       ), BAFF provides no survival advantage in our
+       <italic>
+        in vitro
+       </italic>
+       BM mimetic cultures (
+       ). Only APRIL enhanced
+       <italic>
+        ex vivo
+       </italic>
+       survival of human early minted blood ASCs (
+       ). Also, BAFF and APRIL do not appear to be involved in the pro-survival support to ASCs of OCs, which is reported to be fully cell-cell dependent (
+       ). To our surprise, APRIL provided no additional enhancement over the BM MSC secretome for BM LLPCs (
+       ) (
+       ). Together, these data suggest that APRIL may only be needed transiently in the early blood ASC phase, permanently altering the phenotype into the LLPC maturation program.
+      </p>
+     </sec>
+     <sec>
+      <title>
+       IL-6:IL-6R and IL-6:IL-6ST Signaling
+      </title>
+      <p>
+       IL-6 signaling has been known to play a critical role in ASC differentiation and long-term survival (
+       ). IL-6 is important for the differentiation of B cells into ASCs and acts as a pro-survival factor during ASC migration (
+       ). Inhibiting IL-6 signaling leads to a profound reduction of human ASCs (
+       ,
+       ). Early minted blood ASC subsets have a relatively high expression of the IL-6R (~32–77%), as shown in our recent study (
+       ). Thus, during the acute phase of an infection when B cells differentiate to ASCs, when there is an abundance of free IL-6, ASCs signal through IL-6 through the cell surface IL-6 receptor (IL-6R). However, after resolution of the infection during steady state, free IL-6 levels decrease dramatically with most of it bound to the soluble IL-6 receptor (sIL-6R). The fact that, unlike blood ASCs, BM ASC have low expression of the surface IL-6R (
+       ), might have implicated distinct mechanisms for IL-6 signaling in early minted ASCs and LLPCs.
+      </p>
+      <p>
+       Fortunately, IL-6 can act through two distinct signaling pathways: classic and trans-signaling. In the classic pathway, IL-6 first binds to the membrane-bound IL-6R (also known as gp80 or CD126); this interaction leads to dimerization and activation of the signal transducing protein gp130 (also known as IL-6ST or CD130), a transmembrane protein important for signal transduction following cytokine engagement through activation of the Jak-1/STAT and Akt/MAPK/ERK-1/2 signal transduction pathways, to eventually upregulate STAT3 (
+       –
+       ). In the absence of IL-6R, IL-6 has no binding affinity for IL-6ST; therefore, only cells that express IL-6R can be stimulated by IL-6 (
+       ). Thus, the effect of IL-6 through classic signaling is rather limited because it is restricted to only cell types that express the IL-6R such as early minted blood ASC (
+       ,
+       ,
+       ). The trans-signaling activates the IL-6/STAT3 through extracellular IL-6 initially binding to its soluble IL-6R (sIL-6R), then this IL-6/sIL-6R complex subsequently binds to IL-6ST (
+       ). Through trans-signaling, IL-6 (and the sIL-6R) stimulates cells that lack the membrane-bound IL-6R. Interestingly, IL-6ST is virtually expressed on all cells in the body (
+       ), including BM LLPCs. It will be interesting to corroborate evidence from the transcriptomes of early minted ASCs and BM LLPCs for IL-6ST expression and investigate whether IL-6 trans-signaling plays a role in LLPC survival.
+      </p>
+     </sec>
+     <sec>
+      <title>
+       CXCL12:CXCR4 Signaling
+      </title>
+      <p>
+       As aforementioned, CXCR4 (CD184) and its ligand CXCL12 (SDF-1) play an essential role in directing blood ASCs to BM (
+       ,
+       ,
+       ). Whether CXCL12 can directly also act as an ASC survival factor
+       <italic>
+        in vivo
+       </italic>
+       (
+       ), or merely functions as a retention factor to maintain ASCs in survival niches is not known (
+       ). One study showed that CXCL12:CXCR4 signaling promotes ASC survival
+       <italic>
+        in vitro
+       </italic>
+       (
+       ). Nonetheless, further studies are needed to discriminate survival vs. homing mechanisms of CXCL12.
+      </p>
+     </sec>
+     <sec>
+      <title>
+       Other Soluble and Membrane-Bound Survival Factors
+      </title>
+      <p>
+       Additional survival factors reported to date include TGF-β1 (as mentioned previously) (
+       ,
+       ,
+       ), IGF-1, TNF-a, HGF, VEGF, IL-21 (
+       ,
+       ,
+       ,
+       ,
+       ), and fibronectin-1 (FN-1) and YWHAZ (14-3-3 zeta/delta) (
+       ,
+       ) (
+       ). Among some of the cell surface molecules involved in ASC survival are CD28 (
+       ,
+       ,
+       ), CD93 (
+       ), CD44 (
+       ), CD37 (
+       ), FcgRIIb (
+       ), LFA-1, CD49d (VLA-4), CD49e (VLA-5) (
+       ,
+       ,
+       ), CD73 (
+       ), CD13 (YWHAZ receptor) (
+       ,
+       ), and CD123 (IL-3R) (
+       ). Although some of the factors, such as CD28 (
+       ,
+       ) and CD93 (
+       ), have been shown to be important for the Ab secretion and survival of BM ASCs, the other factors will probably need further evaluation to understand if they are essential or redundant factors for healthy LLPC maturation and maintenance.
+      </p>
+     </sec>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s5">
+    <title>
+     Novel BM Mimetic Supports ASC Survival and Maturation
+     <italic>
+      EX VIVO
+     </italic>
+    </title>
+    <p>
+     Mouse and human ASCs undergo rapid apoptosis
+     <italic>
+      ex vivo
+     </italic>
+     (
+     ,
+     ,
+     ,
+     ). Therefore, studies to understand human ASC survival
+     <italic>
+      in vitro
+     </italic>
+     have not been possible. To overcome this issue, we developed a novel culture system that mimics the human BM microniche to support ASC survival
+     <italic>
+      ex vivo
+     </italic>
+     to interrogate mechanisms of LLPC maturation (
+     ). To establish this system, we derived and expanded primary human BM MSCs, which are spindle-shaped, plastic-adherent, and phenotyped as CD90
+     CD73
+     CD45
+     CD19
+     (
+     ) (
+     ). We initially utilized irradiated BM MSCs as feeders for
+     <italic>
+      in vitro
+     </italic>
+     cultures of ASCs but quickly found their pro-survival support was entirely driven through paracrine effects, thus defining cell-free BM-derived MSC secretome (
+     ). In contrast, we did not find prolonged ASC survival from cell types found in the blood (
+     ).
+    </p>
+    <p>
+     We also found that the BM MSC secretome alone was not sufficient for long-lived ASC survival and exogenous APRIL and BM hypoxic conditions provided enhanced longevity (
+     ,
+     ). We refer to the BM MSC secretome, exogenous APRIL, and hypoxic conditions as the human cell-free
+     <italic>
+      in vitro
+     </italic>
+     BM mimetic (iBMM). Previous systems supported human ASCs with co-cultures of supportive cells for a few days or from
+     <italic>
+      in vitro
+     </italic>
+     generated ASCs (
+     ,
+     ,
+     ). Our unique system maintains freshly isolated human ASCs
+     <italic>
+      ex vivo
+     </italic>
+     for 8–12 weeks and beyond (
+     ).
+    </p>
+    <p>
+     The development of iBMM has been critical for studying human ASCs
+     <italic>
+      in vitro
+     </italic>
+     . It provides powerful tools to follow the human ASC maturation process in the BM microniche to characterize the survival factors, signaling pathways, or metabolic programs important for LLPC generation. Moreover, by coupling recent advances in single cell molecular analysis, epigenetics, proteomics, and metabolomics together with the
+     <italic>
+      in vitro
+     </italic>
+     iBMM, we will be able to dissect the mechanisms of LLPC generation and provide novel insights to their survival and modulation of Ig secretion.
+    </p>
+    <p>
+     Additionally, the iBMM or cell-free ASC survival system provides a rapid novel system for monoclonal Ab discovery. Currently, monoclonal antibody discovery is limited by cost and time, limiting the ability to identify rare clones. With this system, a priori selection of rare but targeted ASC clones can be identified prior to monoclonal Ab generation. For example, Abs for only neutralizing epitopes can be selected for monoclonal Ab generation, thereby decreasing cost and time.
+    </p>
+    <p>
+     The ability to support human blood and BM ASC survival
+     <italic>
+      ex vivo
+     </italic>
+     for months may also provide novel assays to measure vaccine durability. Most vaccine candidates go through extensive clinical testing to assess immunogenicity, safety, and efficacy, and at this time, assessment of vaccine longevity requires the tincture of time. By using the BM mimetic, antigen specificity and neutralization capacity (i.e., protectiveness), of the Ab secreted from circulating ASCs can easily be assessed prior to serum level. Additionally, durability of the vaccines may also be assessed
+     <italic>
+      in vitro
+     </italic>
+     using the iBMM.
+    </p>
+    <p>
+     In summary, the generation of LLPCs is complex and involves both intrinsic and extrinsic factors. B cell differentiation to an ASC is immensely intricate involving GC and non-GC reactions together with upregulating the ASC programs. Although ASC differentiation is necessary it is not sufficient for LLPC generation, which involves BM survival factors to maintain ASC Ab secretion as well as other extrinsic elements in the microniche that appear to fundamentally transform early minted ASCs into a LLPC phenotypes. The novel iBMM culture system provides tools for studying LLPC generation and maintenance. Coupling with the recent advances in transcriptomics, at both a high-throughput scale and single-cell resolution, this system has the potential to answer questions about the intrinsic and extrinsic factors that regulate differentiation, maturation, and longevity of human LLPCs. Despite the progress in understanding the extrinsic cues that support ASC survival and Ab secretion, more studies are needed to characterize the complex maturation and maintenance of LLPCs.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s6">
+    <title>
+     Author Contributions
+    </title>
+    <p>
+     DN, CJ, and FL wrote the manuscript. IS provided important editorial input.
+    </p>
+    <sec>
+     <title>
+      Conflict of Interest Statement
+     </title>
+     <p>
+      FL founded MicroB-plex, Inc. The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

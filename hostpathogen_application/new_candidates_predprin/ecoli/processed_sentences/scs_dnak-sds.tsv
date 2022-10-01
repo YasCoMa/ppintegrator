@@ -1,0 +1,3 @@
+id_pmc	sentence location	highlighted phrase	interacting verbs	number of interacting verbs	experimental methods found	number of experimental methods	protein entities found	number of protein entities
+4807281	body	the run - through and eluted fractions were checked by sds - page to evaluate the extent of binding of control , glutathionylated , or deglutathionylated dnak with atp / adp .	bind	1		0	sds|dnak	2
+7912811	abstract	the non - covalent binding between the two proteins was found to be atp - dependent , as the addition of atp released the interaction between dnak and the precursor form of csp5 , as was shown on silver - stained sds - polyacrylamide gels and by western blot analysis .	bind|interact	2		0	dnak|sds|atp|csp5	4

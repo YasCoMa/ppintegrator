@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  None
+ </title>
+ <abstract>
+  <p>
+   Ventilator-associated pneumonia is the most common infection in intensive care unit patients associated with high morbidity rates and elevated economic costs;
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   is one of the most frequent bacteria linked with this entity, with a high attributable mortality despite adequate treatment that is increased in the presence of multiresistant strains, a situation that is becoming more common in intensive care units. In this manuscript, we review the current management of ventilator-associated pneumonia due to
+   <italic>
+    P. aeruginosa
+   </italic>
+   , the most recent antipseudomonal agents, and new adjunctive therapies that are shifting the way we treat these infections. We support early initiation of broad-spectrum antipseudomonal antibiotics in present, followed by culture-guided monotherapy de-escalation when susceptibilities are available. Future management should be directed at blocking virulence; the role of alternative strategies such as new antibiotics, nebulized treatments, and vaccines is promising.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec>
+    <title>
+     Background
+    </title>
+    <p>
+     Ventilator-associated pneumonia (VAP) is the most common infection among the critically ill and the first cause of antibiotic prescription in intensive care units (ICUs), with an incidence of five to 20 cases per 1,000 mechanical ventilation (MV)-days and a global prevalence of 15.6%
+     –
+     that has not changed significantly despite the implementation of care bundles. Episodes caused by multidrug-resistant (MDR) organisms, such as
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     are associated with significant attributable mortality;
+     ,
+     VAP represents a major clinical and economical problem in critically ill patients due to its associated morbidity, prolonged MV-days, and ICU length of stay (LOS), which translates to elevated health care costs as high as US$40,000 per episode.
+     ,
+    </p>
+    <p>
+     <italic>
+      P. aeruginosa
+     </italic>
+     (with
+     <italic>
+      Staphylococcus aureus
+     </italic>
+     ) is one of the most common bacteria causing VAP,
+     ,
+     with a prevalence of approximately 4%,
+     and its attributable mortality is as high as 13.5%, even with adequate antibiotic treatment.
+     In MDR strains, mortality rises up to 35.8%, and the presence of MDR strains has been identified as an independent predictor of hospital death (adjusted odds ratio [AOR] 1.634, 95% confidence interval [CI]: 1.124–2.374) and is the single strongest predictor of initial inadequate antibiotic therapy (AOR 5.706, 95% CI: 3.587–9.077).
+     ,
+     A recent study by Micek et al demonstrated that
+     <italic>
+      P. aeruginosa
+     </italic>
+     VAP mortality has increased to 41.9%, with increased age and Charlson comorbidity score, inappropriate initial antibiotic therapy, and vasopressor use as independent predictors of mortality.
+     Antibiotic resistance has been on the rise in the last decade,
+     ,
+     –
+     which is worrisome since
+     <italic>
+      P. aeruginosa
+     </italic>
+     is one of the three top microorganisms causing health care respiratory infection and is resistant to carbapenem,
+     and, even in patients with early-onset VAP and no risk factors, MDR
+     <italic>
+      P. aeruginosa
+     </italic>
+     is frequent.
+     ,
+     Among known risk factors for MDR
+     <italic>
+      P. aeruginosa
+     </italic>
+     in MV patients, the most frequent are antimicrobial therapy within 90 days (51.9%) and current hospitalization of more than or equal to 5 days (45.3%).
+     Infection by MDR
+     <italic>
+      P. aeruginosa
+     </italic>
+     is associated with worse outcomes with an excess mortality rate of 12 with a more than twofold increased risk of mortality (relative risk [RR] 2.34, 95% CI: 1.53–3.57) and ICU LOS, compared to susceptible strains.
+     In VAP caused by MDR
+     <italic>
+      P. aeruginosa
+     </italic>
+     ,
+     ,
+     both prior antibiotic use and delayed effective antibiotic therapy in infection also negatively affect mortality and cost.
+     ,
+     ,
+    </p>
+    <p>
+     <italic>
+      P. aeruginosa
+     </italic>
+     serotypes causing VAP have different behavior; O6 and O11, the most common, are associated with a clinical resolution of 60%, and serotypes O1 and O2, represent less common strains, with higher mortality.
+     Vallés et al performed an analysis of pulsed-field electrophoresis on more than 1,700 isolates of
+     <italic>
+      P. aeruginosa
+     </italic>
+     in ICU patients, identifying different genotypes. Clones that were responsible for colonization (skin, gut, and respiratory) least frequently caused pneumonia, and VAP’s resolution was frequent and uncomplicated. However, clones that were not related to prior colonization were associated with very high mortality rates.
+     This observation may be associated with the expression of virulence factors in
+     <italic>
+      P. aeruginosa
+     </italic>
+     , such as type III secretory proteins.
+    </p>
+    <p>
+     Most clonally related isolates caused gastric colonization before skin or respiratory tract colonization, suggesting an association with instillation of tap water used for medication by the oral route. A similar study conducted in two different ICUs in a single hospital in France
+     identified an MDR clone of
+     <italic>
+      P. aeruginosa
+     </italic>
+     in the sinks of 12 rooms. As a whole, from 26 cases of colonization/infection by
+     <italic>
+      P. aeruginosa
+     </italic>
+     , five were related to an exogenous colonization (environmental colonization in four patients and cross-infection in one). These findings emphasize the fact that different risk factors may be implicated depending on whether the clone is from exogenous contamination or carried as endogenous colonization. Therefore, different infection control strategies should be applied to prevent colonization of patients with
+     <italic>
+      P. aeruginosa
+     </italic>
+     , including strategies to limit the potential of sinks to act as potential reservoirs.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Risk factors
+    </title>
+    <p>
+     Risk factors for
+     <italic>
+      P. aeruginosa
+     </italic>
+     in VAP are mainly prior antibiotic exposure and MV longer than 5 days.
+     –
+     Patients with chronic obstructive pulmonary disease and other chronic respiratory diseases may carry endogenous colonization and can develop a severe respiratory infection following intubation and MV. Interestingly, risk factors in patients with
+     <italic>
+      P. aeruginosa
+     </italic>
+     and prior antibiotic exposure are different.
+     <italic>
+      P. aeruginosa
+     </italic>
+     is the first cause of pneumonia in the post operative period of lung transplant
+     and in intubated patients with a prior episode of pneumonia.
+     <italic>
+      P. aeruginosa
+     </italic>
+     is also the most common pathogen in patients with health care-associated pneumonia who required ICU admission and further MV.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Current management
+    </title>
+    <p>
+     Latest guidelines for the antibiotic treatment of
+     <italic>
+      P. aeruginosa
+     </italic>
+     VAP are the 2005 American Thoracic Society/Infectious Diseases Society of America guidelines, which recommend combination therapy with antipseudomonal cephalosporin (cefepime, ceftazidime) or carbapenem (imipenem, meropenem, or β-lactam/β-lactamase inhibitor [piperacillin–tazobactam]) plus antipseudomonal fluoroquinolone (ciprofloxacin or levofloxacin) or aminoglycoside.
+     However, since their publication a decade ago, many findings have been made in the field of antibiotic management in the critically ill, highlighting inappropriate treatment due to insufficient dosing and suboptimal antibiotic exposure, which are associated with increased mortality and worse outcomes.
+     –
+     Furthermore, the rise of MDR strains in nosocomial pneumonia renders this approach outdated.
+     ,
+     It is important to bear in mind that it is critical to avoid antibiotics to which the patient has been exposed over the last 30 days, since the new episodes usually are relapses of a strain with phenotypic variations and not reinfection. Also, recently, a multicenter study has shed some light regarding treatment failure in
+     <italic>
+      P. aeruginosa
+     </italic>
+     VAP. With an occurrence rate of approximately 30% of episodes, the study identified risk factors for failure, including age, chronic illness, limitation of life support, severity of illness, previous use of a fluoroquinolone, and bacteremia. Interestingly, neither antibiotic susceptibility patterns nor combination therapy influenced failure rates; on the other hand, treatment with a fluoroquinolone did decrease it.
+     outlines initial
+     <italic>
+      P. aeruginosa
+     </italic>
+     VAP management.
+    </p>
+    <p>
+     To avoid suboptimal antibiotic management, we believe that a composite approach has to be made, taking into account variables other than the classic microbiological paradigm of appropriate antibiotic therapy based only in minimum inhibitory concentration (MIC)’s susceptibility patterns and tailoring treatment to each patient, assessing specific risk factors especially for MDR (
+     ).
+     The cornerstone for improving outcomes is timing; early effective therapy as soon as possible might be the difference between death and successful treatment, especially when shock is present.
+     ,
+     Appropriate empirical choice of agent is fundamental, as is the use of a broad-spectrum antibiotic based on local ecology followed by reassessment of clinical response and microbiological data at 48–72 hours.
+     ,
+     In
+     <italic>
+      P. aeruginosa
+     </italic>
+     VAP, empiric combination therapy with a β-lactam plus an amino-glycoside has proved to be superior to monotherapy, reducing mortality up to 50% in many studies and meta- analyses, mainly due to appropriate initial therapy.
+     –
+     However, there is no difference between one or two effective antibiotics, which is the rationale for de-escalating to monotherapy once microbiological results are available.
+     De-escalation is a safe strategy and has to be done when possible, even in neutropenic patients.
+     Regarding duration of therapy, many studies have demonstrated that 8 days of antibiotic for VAP is safe, reduces emergence of MDR and costs, and avoids unnecessary toxicity to the patient.
+     –
+     However, in VAP caused by gram-negative bacilli, 8 vs 15 days of antibiotic is associated with increased pulmonary infection recurrence.
+     Since the aim of antibiotic therapy is pneumonia resolution and not
+     <italic>
+      P. aeruginosa
+     </italic>
+     eradication from the endotracheal tube/tracheostomy biofilm, antibiotic courses longer than 10 days in patients with clinical cure only add MDR-strain selection. In
+     <italic>
+      P. aeruginosa
+     </italic>
+     VAP, patients with inappropriate empirical antibiotic therapy, clinical resolution (fever and hypoxemia) is delayed 8 days (median), as happens with other MDR bacteria.
+     Furthermore, longer antibiotic courses may be recommended for immunosupressed patients with initial inappropriate empirical therapy VAP caused by MDR/extensively drug-resistant strains without clinical resolution.
+     Recently, biomarkers’ roles in antibiotic duration guidance have been the subject of multiple studies, with procalcitonin being the only one that has proved to be safe and reduce antibiotic days in VAP. When procalcitonin concentration is &lt;0.5 ng/mL or has decreased by ≥80% (compared with the first peak concentration), antibiotics can be discontinued even in very short-course therapy (3 days), irrespective of the severity of the infectious episode; however, in bacteremic patients, at least 5 days of therapy is recommended.
+     –
+    </p>
+    <p>
+     Another point to consider is optimizing the choice of antimicrobial according to pharmacokinetic (PK)/pharmacodynamic parameters. It is important to bear in mind that the antibiotic we choose has to reach therapeutic concentrations at the site of infection, where the bacteria–antibiotic interaction takes place, in order to obtain bacterial clearance as soon as possible.
+     Also, administration of a loading dose and administration of β-lactams in extended and continuous infusions increases antibiotic exposure and the probability of PK target attainment, which is essential in cases of septic shock, obesity, burn patients, and intermediate-resistant
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains,
+     and it is associated with decreased 14-day mortality, faster recovery, and shorter ICU LOS and duration of treatment.
+     –
+     With this in mind, nebulized antibiotic administration in MV may increase alveolar penetration compared with IV administration.
+     Nebulized colistin (high dose) in monotherapy has been studied in a small-randomized trial and a retrospective study, and noninferiority to IV combination therapy has been reported.
+     –
+     This approach is very interesting since it enables delivery of high concentrations of the antibiotic with minimal absorption and marginal systemic levels, which could be a turning point in cases of MDR strains where available drugs are highly toxic. Effective treatment of VAP caused by MDR organisms such as
+     <italic>
+      P. aeruginosa
+     </italic>
+     and
+     <italic>
+      Acinetobacter baumannii
+     </italic>
+     has been reported with high-dose nebulized colistin, even achieving airway eradication.
+     Currently, a few agents are available for nebulization (colistin, tobramycin, aztreonam, ceftazidime, and amikacin) but are required to be tested in randomized clinical trials to know the safety and what adds to standard therapy. Further research and evidence-based guidelines are required. Other nebulized agents such as hypertonic saline and
+     <italic>
+      N
+     </italic>
+     -acetylcysteine, sometimes used as coadjutant therapy in the treatment of
+     <italic>
+      P. aeruginosa
+     </italic>
+     lung infection in cystic fibrosis patients, are still controversial, without strong evidence supporting or advice against its use in VAP treatment.
+     –
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     New antibiotic treatments
+    </title>
+    <sec>
+     <title>
+      Cephalosporins
+     </title>
+     <p>
+      Proven efficacy, broad spectrum (some of them including
+      <italic>
+       P. aeruginosa
+      </italic>
+      ), and a well-characterized PK/pharmacodynamic profile, in addition to a favorable safety profile, make this antimicrobial class play an important role in nosocomial infection treatment, including VAP.
+      In response to the emergence of nosocomial infections due to β-lactam-resistant gram-negative bacteria in recent years, two strategies have been developed to improve their coverage: the development of new β-lactam molecules with the capacity to evade some mechanisms expressed by resistant bacteria and the addition of novel compounds capable of inactivating β-lactamases.
+     </p>
+     <sec>
+      <title>
+       Ceftobiprole (BAL9141)
+      </title>
+      <p>
+       Ceftobiprole medocaril has enhanced activity against gram-negative pathogens, including
+       <italic>
+        Escherichia coli
+       </italic>
+       ,
+       <italic>
+        Klebsiella pneumoniae
+       </italic>
+       ,
+       <italic>
+        A. baumannii
+       </italic>
+       , and other Enterobacteriaceae; its antipseudomonal in vitro activity is similar to that of cefepime, and
+       <italic>
+        P. aeruginosa
+       </italic>
+       cross-resistance between ceftobiprole and other antipseudomonal cephalosporins has been reported.
+       ,
+       Also, it is inactive against bacteria expressing extended-spectrum β-lactamase (ESBL).
+       ,
+       Its bactericidal activity also acts against gram-positive bacteria, including resistant
+       <italic>
+        Streptococcus pneumoniae
+       </italic>
+       , methicillin-resistant
+       <italic>
+        S. aureus
+       </italic>
+       , and
+       <italic>
+        Enterococcus faecalis
+       </italic>
+       , but not against
+       <italic>
+        Enterococcus faecium
+       </italic>
+       .
+       Its activity against some of the ESKAPE pathogens and its stability against a wide range of β-lactamases (not KPC) make it an attractive option for hospital-acquired pneumonia treatment. A total of 781 patients were included in a Phase III study, 210 of whom had VAP. Clinical cure rates overall were 49.9% and 52.8% for ceftobiprole and ceftazidime/linezolid, respectively. However, while the cure rates were not different in nosocomial pneumonia, ceftobiprole performed worse on VAP (23.1% vs 36.5 cure rate). In contrast, those patients who had to be ventilated because of worsening of the pneumonia had a better outcome with ceftobiprole than with ceftazidime/linezolid (
+       ).
+       These findings might be associated with increases in distribution volume in septic patients receiving sedation to start MV, which cannot be anticipated using Monte Carlo simulation.
+      </p>
+     </sec>
+     <sec>
+      <title>
+       Ceftazidime–avibactam
+      </title>
+      <p>
+       Ceftazidime is a well-known antipseudomonal cephalosporin, also active against other gram-negative bacilli and gram-positive cocci and playing an important role in the treatment of nosocomial infections; however, it is susceptible to degradation due to β-lactamases, especially those of Ambler class A and C. Avibactam (NXL 104), recently added to the three approved β-lactamase inhibitors, is a molecule capable of avoiding the activity from A-, B-, and some D-class β-lactamases, including AmpC, KPC (
+       <italic>
+        Klebsiella pneumoniae
+       </italic>
+       carbapenemase), and ESBL.
+       ,
+       ,
+       ,
+       Despite not having antibacterial activity, its union with ceftazidime protects it from degradation from β-lactamases, enhancing its activity against Enterobacteriaceae producing β-lactamases, including
+       <italic>
+        P. aeruginosa
+       </italic>
+       .
+       ,
+       In a murine model, ceftazidime–avibactam has shown good penetration of epithelial lining fluid and effectiveness against
+       <italic>
+        P. aeruginosa
+       </italic>
+       with an MIC up to 32 μg/mL.
+       Ceftazidime–avibactam exhibits a great in vitro MIC50/90 reduction against
+       <italic>
+        P. aeruginosa
+       </italic>
+       producing β-lactamases compared with ceftazidime alone and also shows activity against some meropenem-non-susceptible strains in catheter-associated urinary tract infection.
+       ,
+       ,
+       Phase II trials with ceftazidime avibactam have shown favorable results, a good safety profile, and have been well tolerated when used alone for complicated urinary infections, and when used with metronidazol for intra-abdominal infections.
+       ,
+       Its role in nosocomial pneumonia is actually being analyzed in a Phase III study (
+       ).
+       Caution should be taken into account in countries/institutions where the main resistance problem is OXA-48, and consideration given to the need for initial loading dose, to avoid the potential risk of initial underdosing, particularly in those patients with decreased creatinine clearance.
+      </p>
+     </sec>
+     <sec>
+      <title>
+       Ceftolozane–tazobactam (CXA-201)
+      </title>
+      <p>
+       Like other cephalosporins, ceftolozane develops its bactericidal activity by inhibiting the cell wall synthesis via penicillin-binding proteins; particularly, ceftolozane has shown an enhanced affinity for these proteins in comparison with β-lactams.
+       In vitro studies suggest it is not affected by some β-lactam resistance mechanisms expressed by
+       <italic>
+        P. aeruginosa
+       </italic>
+       , such as efflux pumps or reduced wall permeability due to porin channel mutations,
+       ,
+       making it the most active antipseudomonal β-lactam.
+       ,
+       However, by itself it does not have activity against β-lactamase-producing strains. Tazobactam’s activity against β-lactamases bring to ceftolozane the potential to eliminate many resistant strains of
+       <italic>
+        P. aeruginosa
+       </italic>
+       and other β-lactamase-producing gram-negative bacteria.
+       A Phase III trial has shown ceftolozane–tazobactam’s efficacy in complicated intra-abdominal infections in combination with metronidazole, including those caused by MDR pathogens,
+       and a Phase II trial also demonstrated its efficacy in complicated urinary tract infection treatment.
+       Currently, a Phase III study is evaluating its safety and efficacy in VAP (
+       ).
+      </p>
+     </sec>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Arbekacin
+    </title>
+    <p>
+     Arbekacin is an aminoglycoside discovered in the 1970s and has been used in many countries for more than 2 decades. Usually indicated in the treatment of infections caused by methicillin-resistant
+     <italic>
+      S. aureus
+     </italic>
+     , it has also shown activity against gram-negative pathogens, including
+     <italic>
+      Pseudomonas
+     </italic>
+     spp. Its capacity to be unaltered by many of the aminoglycoside-modifying enzymes, one of the most frequent ways by which aminoglycosides are inactivated, confers to arbekacin enhanced activity against
+     <italic>
+      P. aeruginosa
+     </italic>
+     resistant to amikacin, gentamicin, and tobramycin.
+     ,
+     In vitro analysis suggests that arbekacin in combination with aztreonam is an effective regimen against MDR
+     <italic>
+      P. aeruginosa
+     </italic>
+     , including metallo-β-lactamase-producing strains;
+     however, further studies are needed to show its applicability and safety in clinical practice. In PK studies, arbekacin has shown acceptable pulmonary tissue distribution and an adequate safety profile;
+     however, therapeutic plasma level monitoring is recommended to optimize its efficacy and minimize adverse effects, mainly nephrotoxicity.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     POL7080
+    </title>
+    <p>
+     POL7080 is a novel peptidomimetic antibiotic with proven activity against
+     <italic>
+      P. aeruginosa
+     </italic>
+     in murine models.
+     Its mechanism of action is not totally clear, but it is known that it modifies the lipopolysaccharide-assembling of the bacterial outer membrane via the lipopolysaccharide-assembling protein LptD.
+     A Phase I study has shown POL7080 to be safe and well tolerated,
+     and actually a Phase II study is evaluating its safety and efficacy in patients with VAP due to
+     <italic>
+      P. aeruginosa
+     </italic>
+     (
+     ).
+     Nephrotoxicity is a major concern with this drug.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Pathogenicity and newer adjunctive therapies
+    </title>
+    <sec>
+     <title>
+      Pathogenicity
+     </title>
+     <p>
+      <italic>
+       P. aeruginosa
+      </italic>
+      ’s pathogenicity is very complex,
+      –
+      and a detailed analysis is far from the objective of this report. During a host’s infection process,
+      <italic>
+       P. aeruginosa
+      </italic>
+      uses pili, flagella, and fimbriae, a series of functional elements, to move and adhere on living and nonliving surfaces, such as different tissues and medical devices,
+      ,
+      and also employs these mobile elements to form bacterial communities based on an intricate intercellular communication mechanism (ie, quorum sensing), many times surrounded by a polysaccharide-based structure known as biofilm. This structure is produced by the bacterial colony and acts as a barrier against different chemical factors and physical forces (eg, immune system response and antibiotics), providing a favorable environment for colony survival and playing an important role in its permanency and in the chronic colonization/infection process.
+      ,
+      ,
+      ,
+     </p>
+     <p>
+      Many of the steps in the biofilm formation process are being highly investigated as treatment targets, with many others not being completely understood yet.
+     </p>
+     <p>
+      Alginate is a very important virulence variable, affecting children with cystic fibrosis.
+      ,
+      However, cystic fibrosis patients carry mucosal strains
+      which are uncommon in patients with VAP, requiring different therapeutic considerations.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Quorum sensing
+     </title>
+     <p>
+      Quorum sensing is an evolved adaptive strategy expressed in several gram-negative and gram-positive bacteria species, based on a highly complex cell-to-cell communication mechanism, which allows a group of bacteria to exchange information and make dynamic and coordinated changes in response to different environmental stimuli, thus playing an important role in host infection and the bacterial permanence.
+      This system is based on signal molecules expressed by bacteria in a density-dependent way and released to the environment; these molecules are called autoinducers and are recognized by other cells, in some cases from different species (eg, between
+      <italic>
+       P. aeruginosa
+      </italic>
+      and
+      <italic>
+       Burkholderia cepacia
+      </italic>
+      ), inducing genomic changes and giving to a population of bacteria the ability to deploy coordinated responses to affront different environmental assaults.
+      –
+      With three known autoinducers from the acyl-homoserine lactone (AHL) family, Las, Rhl, and the
+      <italic>
+       P. aeruginosa
+      </italic>
+      quinolone signal,
+      <italic>
+       P. aeruginosa
+      </italic>
+      has one of the most classical and understood quorum sensing models, involved in many defense mechanisms such as bio-film formation and production of antimicrobial substances and bacterial virulence factors.
+      ,
+      ,
+      ,
+      This communication system facilitates host infection, ensures the permanency of colonies, and makes eradication of these colonies difficult, making it a highly attractive target for novel treatments. Three targets in this communication circuit have been identified as susceptible to pharmacological intervention: the inhibition of both Las and Rhl synthesis, the autoinducers’ degradation, and the blockage of AHL receptor function,
+      ,
+      ,
+      with several in vitro and animal model trials demonstrating the blockade of the quorum sensing as a feasible strategy to reduce the bacterial virulence and restore some
+      <italic>
+       P. aeruginosa
+      </italic>
+      susceptibility to classical antibiotics. However, further investigations are needed to evaluate its role in the treatment of human infections due to MDR
+      <italic>
+       P. aeruginosa
+      </italic>
+      .
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Monoclonal antibodies
+     </title>
+     <p>
+      Current research in the management of
+      <italic>
+       P. aeruginosa
+      </italic>
+      infection has been directed toward prevention of infection in high-risk patients with vaccines and modulation of virulence with monoclonal antibodies instead of focusing on bacterial clearance attainment. Its main appeal relies on multidrug therapy with one molecule targeting mechanisms of action of bacteria covering MDR strains and probably active in different infection models.
+     </p>
+     <sec>
+      <title>
+       Monoclonal anti-type three secretion system antibodies
+      </title>
+      <p>
+       Type three secretion system, known as TTSS or T3SS, is a complex system expressed by some bacteria which allows intoxication of host cells. This system is present in many gram-negative bacteria, including
+       <italic>
+        P. aeruginosa
+       </italic>
+       , and is based in several groups of proteins (more than 20) exhibited in the bacterial wall, which acts as a syringe, making the bacteria capable of injecting modulation factors and cytotoxins into other eukaryotic organisms, including the immune host apparatus and epithelial cells, inducing cellular death and playing an important role in
+       <italic>
+        P. aeruginosa
+       </italic>
+       virulence and in the inflammatory response.
+       –
+       TTSS is a marker of virulence in
+       <italic>
+        P. aeruginosa
+       </italic>
+       penumonia
+       and its presence in patients with VAP is associated with worse outcomes.
+       ,
+       TTSS plays an important role in VAP, since worse clinical outcomes are seen when TTSS is present. An obvious implication of this is that adjunctive therapies targeting these proteins, such as antibodies, may improve outcomes of patients under MV and
+       <italic>
+        P. aeruginosa
+       </italic>
+       respiratory isolation (both colonization and infection).
+       ,
+       The PcrV is a needle-tip protein involved in many steps of the TTSS-mediated infection process, sensing the outside environment and helping bacteria to recognize the strange cells. It also plays a role in translocation and secretion control of some proteins involved in functional molecular syringe assembling and facilitating the union into the molecular needle and the host membrane, which makes an attractive target in TTSS-mediated virulence control, with studies showing loss of virulence capacity in bacteria with an unfunctional PcrV, both in in vitro and in vivo animal models.
+       ,
+       Based on this idea, antibodies have been developed for the blockage of PcrV protein function, with many studies reporting a decrease in blood bacterial colonies and a less severe inflammatory response in various animal models treated with anti-PcrV immunoglobulins.
+       ,
+       –
+       One of the most successful is the KB001, a high-affinity PEGylated Fab antibody, which, in a Phase II study, has been well tolerated and showed a safety profile in mechanically ventilated patients colonized by
+       <italic>
+        P. aeruginosa
+       </italic>
+       , also showing a nonstatistically significant tendency to reduce
+       <italic>
+        P. aeruginosa
+       </italic>
+       pneumonia episodes in the intervention group (
+       ).
+      </p>
+     </sec>
+     <sec>
+      <title>
+       Monoclonal anti-alginate antibodies
+      </title>
+      <p>
+       Alginate is involved in many processes during
+       <italic>
+        P. aeruginosa
+       </italic>
+       infection, providing protection against a variety of host defense mechanisms and environmental factors such as antimicrobial agents; it also is highly present in mucoid bio-films and facilitates medical device colonization.
+       ,
+       ,
+       This exopolysaccharide, principally exhibited by mucoid strains of
+       <italic>
+        P. aeruginosa
+       </italic>
+       , is capable of reducing the host immune response by interfering with the activation of complements and polymorphonuclear chemotaxis, and also was shown to play a role in decreasing the phagocytosis of
+       <italic>
+        Pseudomonas
+       </italic>
+       spp., both those that are planktonic and those that form bio-film structure guaranteeing the
+       <italic>
+        P. aeruginosa
+       </italic>
+       survival during the first steps of primary infection, its permanency, and its chronic colonization development.
+       ,
+       ,
+      </p>
+      <p>
+       Different monoclonal antibodies against alginate have been developed, showing an increase in
+       <italic>
+        P. aeruginosa
+       </italic>
+       phagocytosis. In some cases, as with the monoclonal antibody F429, this improvement in immune response against
+       <italic>
+        P. aeruginosa
+       </italic>
+       infection was also reported in different models of infection such as pneumonia, sepsis, and keratitis in animal models,
+       ,
+       being promising as an adjunctive strategy in
+       <italic>
+        P. aeruginosa
+       </italic>
+       infection management (
+       ).
+      </p>
+     </sec>
+     <sec>
+      <title>
+       Panobacumab (AR-101)
+      </title>
+      <p>
+       Panobacumab is an IgM-type human monoclonal antibody that is directed against IATS 011 serotype
+       <italic>
+        P. aeruginosa
+       </italic>
+       , one of the most prevalent serotypes associated with nosocomial pneumonia.
+       ,
+       ,
+       A multicenter Phase II study using panobacumab in combination with different antipseudomonal antibiotics in critical patients with nosocomial pneumonia due to
+       <italic>
+        P. aeruginosa
+       </italic>
+       serotype O11, almost all with VAP, showed a good safety profile with good PKs (
+       ).
+       ,
+      </p>
+     </sec>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Vaccines
+    </title>
+    <p>
+     <italic>
+      P. aeruginosa
+     </italic>
+     ’s infection mechanism and its interaction with the host immunity is highly studied and well known. With the advances in antimicrobial therapy and many sites identified as possible targets to improve the acquired immunity response and block the
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection and biofilm formation, different types of vaccines are being designed to improve the immune response against many substances involved in this process. The most common targets are components of the bacterial surface, such as outer membrane proteins (Opr) and different polysaccharides (lipopolysaccharides, mucoid exopolysaccharide, and O-polysaccharides), structures involved in
+     <italic>
+      P. aeruginosa
+     </italic>
+     adhesion and movement, such as flagella, pili, and several virulence factors, such as TTSS, exotoxin A, or proteases.
+     ,
+     Development of an effective vaccine is difficult due to the high variability between
+     <italic>
+      Pseudomonas
+     </italic>
+     species and the complexity of its infection process and its interaction with the host immune response. In many cases during phase I, II and III studies, some molecules failed to provide an adequate coverage against different
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains, or showed a low inmunogenicity capacity or an unsecure profile.
+     –
+    </p>
+    <p>
+     One of the most promising targets to induce an acquired immune response are the Opr, showing an improved immune response against
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection in murine models previously exposed to modified epitopes from Opr.
+     ,
+     ,
+     From this group, the Opr-based vaccine IC43 has been used in healthy individuals and in different groups with increased risk to develop
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection, including critical patients under MV, showing a good safety profile and being well tolerated,
+     –
+     and there is an ongoing Phase II/III study designed to show its effect on mortality in mechanically ventilated ICU patients.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Conclusion
+    </title>
+    <p>
+     <italic>
+      P. aeruginosa
+     </italic>
+     VAP management requires prompt and adequate antibiotic exposure. Initial empiric therapy should be done with broad-spectrum antibiotics in combination therapy followed by de-escalation with one effective antibiotic since its effectiveness equals two antibiotics. Immunotherapy, including strategies with monoclonal antibodies, might be a new approach to treat (and perhaps prevent)
+     <italic>
+      P. aeruginosa
+     </italic>
+     infections. Future research should focus on optimizing outcomes with strategies of blocking virulence and vaccination.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

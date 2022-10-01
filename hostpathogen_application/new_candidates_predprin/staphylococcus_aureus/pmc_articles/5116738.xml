@@ -1,0 +1,1983 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  The Type III Secretion System Effector SeoC of
+ </title>
+ <abstract>
+  <p>
+   <named-content content-type="genus-species">
+    Salmonella
+   </named-content>
+   species utilize type III secretion systems (T3SSs) to translocate effectors into the cytosol of mammalian host cells, subverting cell signaling and facilitating the onset of gastroenteritis. In this study, we compared a draft genome assembly of
+   <named-content content-type="genus-species">
+    Salmonella enterica
+   </named-content>
+   subsp.
+   <named-content content-type="genus-species">
+    salamae
+   </named-content>
+   strain 3588/07 against the genomes of
+   <named-content content-type="genus-species">
+    S. enterica
+   </named-content>
+   subsp.
+   <named-content content-type="genus-species">
+    enterica
+   </named-content>
+   serovar Typhimurium strain LT2 and
+   <named-content content-type="genus-species">
+    Salmonella bongori
+   </named-content>
+   strain 12419.
+   <named-content content-type="genus-species">
+    S. enterica
+   </named-content>
+   subsp.
+   <named-content content-type="genus-species">
+    salamae
+   </named-content>
+   encodes the
+   <named-content content-type="genus-species">
+    Salmonella
+   </named-content>
+   pathogenicity island 1 (SPI-1), SPI-2, and the locus of enterocyte effacement (LEE) T3SSs. Though several key
+   <italic>
+    S
+   </italic>
+   . Typhimurium effector genes are missing (e.g.,
+   <italic>
+    avrA
+   </italic>
+   ,
+   <italic>
+    sopB
+   </italic>
+   , and
+   <italic>
+    sseL
+   </italic>
+   ),
+   <named-content content-type="genus-species">
+    S. enterica
+   </named-content>
+   subsp.
+   <named-content content-type="genus-species">
+    salamae
+   </named-content>
+   invades HeLa cells and contains homologues of
+   <named-content content-type="genus-species">
+    S. bongori sboK
+   </named-content>
+   and
+   <italic>
+    sboC
+   </italic>
+   , which we named
+   <italic>
+    seoC
+   </italic>
+   . SboC and SeoC are homologues of EspJ from enteropathogenic and enterohemorrhagic
+   <named-content content-type="genus-species">
+    Escherichia coli
+   </named-content>
+   (EPEC and EHEC, respectively), which inhibit Src kinase-dependent phagocytosis by ADP-ribosylation. By screening 73 clinical and environmental
+   <named-content content-type="genus-species">
+    Salmonella
+   </named-content>
+   isolates, we identified EspJ homologues in
+   <named-content content-type="genus-species">
+    S. bongori
+   </named-content>
+   ,
+   <named-content content-type="genus-species">
+    S. enterica
+   </named-content>
+   subsp.
+   <named-content content-type="genus-species">
+    salamae
+   </named-content>
+   , and
+   <named-content content-type="genus-species">
+    Salmonella enterica
+   </named-content>
+   subsp.
+   <named-content content-type="genus-species">
+    arizonae
+   </named-content>
+   . The β-lactamase TEM-1 reporter system showed that SeoC is translocated by the SPI-1 T3SS. All the
+   <named-content content-type="genus-species">
+    Salmonella
+   </named-content>
+   SeoC/SboC homologues ADP-ribosylate Src E310
+   <italic>
+    in vitro
+   </italic>
+   . Ectopic expression of SeoC/SboC inhibited phagocytosis of IgG-opsonized beads into Cos-7 cells stably expressing green fluorescent protein (GFP)-FcγRIIa. Concurrently,
+   <named-content content-type="genus-species">
+    S. enterica
+   </named-content>
+   subsp.
+   <named-content content-type="genus-species">
+    salamae
+   </named-content>
+   infection of J774.A1 macrophages inhibited phagocytosis of beads, in a
+   <italic>
+    seoC
+   </italic>
+   -dependent manner. These results show that
+   <named-content content-type="genus-species">
+    S. bongori
+   </named-content>
+   ,
+   <named-content content-type="genus-species">
+    S. enterica
+   </named-content>
+   subsp.
+   <named-content content-type="genus-species">
+    salamae
+   </named-content>
+   , and
+   <named-content content-type="genus-species">
+    S. enterica
+   </named-content>
+   subsp.
+   <named-content content-type="genus-species">
+    arizonae
+   </named-content>
+   share features of the infection strategy of extracellular pathogens EPEC and EHEC and shed light on the complexities of the T3SS effector repertoires of
+   <named-content content-type="genus-species">
+    Enterobacteriaceae
+   </named-content>
+   .
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="sec1" sec-type="intro">
+    <title>
+     INTRODUCTION
+    </title>
+    <p>
+     <named-content content-type="genus-species">
+      Salmonella
+     </named-content>
+     strains comprise a large group of foodborne bacterial pathogens of the gastrointestinal tract. Originally, the genus
+     <named-content content-type="genus-species">
+      Salmonella
+     </named-content>
+     was divided into seven subspecies (I, II, IIIa, IIIb, IV, V, and VI [
+     ]) but is currently classified as two species,
+     <named-content content-type="genus-species">
+      Salmonella bongori
+     </named-content>
+     , previously subspecies V, and
+     <named-content content-type="genus-species">
+      Salmonella enterica
+     </named-content>
+     . The remaining subspecies have been renamed under the
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     species as
+     <named-content content-type="genus-species">
+      enterica
+     </named-content>
+     (I),
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     (II),
+     <named-content content-type="genus-species">
+      arizonae
+     </named-content>
+     (IIIa),
+     <named-content content-type="genus-species">
+      diarizonae
+     </named-content>
+     (IIIb),
+     <named-content content-type="genus-species">
+      houtenae
+     </named-content>
+     (IV), and
+     <named-content content-type="genus-species">
+      indica
+     </named-content>
+     (VI), which are further divided into over 2,600 serovars based on their O (oligosaccharide) and H (flagellar) antigens (
+     ).
+    </p>
+    <p>
+     It is estimated that salmonellosis, the disease caused by consumption of contaminated food and water, is responsible for approximately 1.2 million cases and 450 fatalities per annum in the United States alone (
+     ). Reservoirs of
+     <named-content content-type="genus-species">
+      Salmonella
+     </named-content>
+     spp. can be found in a range of domestic and wild animals, such as cattle, swine, poultry, and birds (
+     ). In addition, exposure to exotic reptiles has been increasingly reported as a source of infection due to their growing popularity as pets (
+     ). Salmonellae can cause a variety of conditions aside from the local diarrheal disease, including bacteremia, osteomyelitis, and enterocolitis (
+     ).
+    </p>
+    <p>
+     The majority of salmonellosis cases observed in mammals and birds are a result of infections with
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      enterica
+     </named-content>
+     . As a result, research into the remaining five
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subspecies and
+     <named-content content-type="genus-species">
+      S. bongori
+     </named-content>
+     , often considered nonpathogenic commensals of cold-blooded vertebrates, is limited to date. Nevertheless, these other salmonellae do cause sporadic disease in mammals, with children and immunocompromised individuals most at risk (
+     ). Several fatalities have been reported, and clinical evidence suggests that as a proportion of cases, those infections caused by non-
+     <named-content content-type="genus-species">
+      enterica
+     </named-content>
+     (I) subspecies are more likely to cause invasive extraintestinal disease (
+     ).
+    </p>
+    <p>
+     Salmonellae encode two virulence-associated type III secretion systems (T3SSs) on
+     <named-content content-type="genus-species">
+      Salmonella
+     </named-content>
+     pathogenicity island 1 (SPI-1) and SPI-2, which are required for different stages of salmonellosis. T3SSs are macromolecular syringes, which translocate effectors into the membrane and cytosol of cells lining the gastrointestinal mucosae. The SPI-1 T3SS and its effectors are required for the initial infection process involving the invasion of nonphagocytic cell epithelium and M-cells and the stimulation of diarrhea (reviewed in reference
+     ). Once internalized, the bacterium resides within the specialized
+     <named-content content-type="genus-species">
+      Salmonella
+     </named-content>
+     -containing vacuole (SCV), where the SPI-2 is utilized for bacterial replication and systemic spreading of the infection. Recent reports have shown that
+     <named-content content-type="genus-species">
+      Salmonella enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     strains 1582 (serotype 58:d:z6), 1583 (serotype 47:b:1,5) (
+     ), S1635, and S1296 (serovar Sofia, serotype 1,4,12,27:b:−) (
+     ) carry genes similar to those carried by the locus of enterocyte effacement (LEE) pathogenicity island of the human pathogens enteropathogenic and enterohemorrhagic
+     <named-content content-type="genus-species">
+      Escherichia coli
+     </named-content>
+     (EPEC and EHEC, respectively) and the mouse pathogen
+     <named-content content-type="genus-species">
+      Citrobacter rodentium
+     </named-content>
+     , including the T3SS. Unlike members of
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     ,
+     <named-content content-type="genus-species">
+      S. bongori
+     </named-content>
+     lacks SPI-2 and its SPI-1 locus appears to have acquired 11 genes not found in
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      enterica
+     </named-content>
+     , 10 of which are homologues of T3SS effectors from EPEC and EHEC (
+     ). For example, SboH from
+     <named-content content-type="genus-species">
+      S. bongori
+     </named-content>
+     shares sequential and functional homology to the antiapoptotic effector NleH1 (
+     ). Furthermore, SboC shares 57% sequence identity to the EPEC antiphagocytic effector EspJ (
+     ).
+    </p>
+    <p>
+     EPEC EspJ is able to ADP-ribosylate the kinase domain of Src, preventing the phosphorylation of the Fcγ-receptor-IIa (FcγRIIa) required for opsonophagocytosis (
+     ,
+     ), and was the first example of a bacterial ADP-ribosyltransferase (ART) to target a mammalian tyrosine kinase. Mass spectrometry suggested a novel mechanism with coupled amidation and ADP-ribosylation of Src E310, a residue highly conserved throughout the kinase superfamily (
+     ).
+    </p>
+    <p>
+     While producing a draft genome sequence for
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     strain 3588/07, we found an
+     <italic>
+      espJ/sboC
+     </italic>
+     homologue, which we named SeoC, within a complex effector protein repertoire. The aim of this study was to determine the prevalence of
+     <italic>
+      espJ
+     </italic>
+     /
+     <italic>
+      sboC/seoC
+     </italic>
+     in representative clinical and environmental isolates from each of the
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subspecies and to characterize their activity in relation to EspJ from EPEC, EHEC, and
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     .
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec2" sec-type="materials|methods">
+    <title>
+     MATERIALS AND METHODS
+    </title>
+    <sec id="sec2-1">
+     <title>
+      Determination of the effector repertoire of
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      strain 3588/07.
+     </title>
+     <p>
+      The whole genome of
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      strain 3588/07 was sequenced using paired-end 454 FLX pyrosequencing using the Titanium chemistry from both 3-kb and 20-kb insert libraries. The read data were assembled using the 454/Roche Newbler assembly program into 138 contigs (
+      <italic>
+       N
+      </italic>
+      <sub>
+       50
+      </sub>
+      contig size, 173,757 bp;
+      <italic>
+       N
+      </italic>
+      <sub>
+       50
+      </sub>
+      scaffold size, 5,041,913 bp) representing 5,116,235 bp of sequence from 631,936 sequence reads representing 25× total coverage. We compared a draft assembly of
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      (PATRIC accession no. GCA_000308035.1) against the genomes of
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       enterica
+      </named-content>
+      serovar Typhimurium LT2 and
+      <named-content content-type="genus-species">
+       S. bongori
+      </named-content>
+      12419. We performed all-against-all BLAST searches comparing each of these genomes against the
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      assembly to identify regions with shared sequence similarity. We then visualized the BLAST searches using the Artemis Comparison Tool (
+      ) and used known effectors in the
+      <named-content content-type="genus-species">
+       Salmonella enterica
+      </named-content>
+      serovar Typhimurium and
+      <named-content content-type="genus-species">
+       S. bongori
+      </named-content>
+      genomes to identify putative coding sequences for effectors in the
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      assembly. We verified their presence based on a combination of direct examination of the nucleotide or amino acid sequence similarity and identification of their presence along with the same up- and/or downstream genes present in
+      <italic>
+       S
+      </italic>
+      . Typhimurium or
+      <named-content content-type="genus-species">
+       S. bongori
+      </named-content>
+      .
+     </p>
+    </sec>
+    <sec id="sec2-2">
+     <title>
+      Bacterial strains and growth conditions.
+     </title>
+     <p>
+      Bacterial strains used in this study can be found in Tables S1 and S2 in the supplemental material. Bacteria were routinely cultured in Luria-Bertani (LB) broth at 37°C, with tetracycline (6 μg/ml), ampicillin (100 μg/ml), or kanamycin (50 μg/ml) as appropriate.
+     </p>
+     <p>
+      Seventy-three strains were selected from the Collection of the Spanish National Laboratory for Salmonella. All the
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      strains were isolated in Spain, while
+      <named-content content-type="genus-species">
+       S. bongori
+      </named-content>
+      strains were from the National Salmonella Reference Laboratory at the Centers for Disease Control and Prevention, Atlanta, GA (see Table S2 in the supplemental material).
+     </p>
+    </sec>
+    <sec id="sec2-3">
+     <title>
+      Construction of
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      mutants.
+     </title>
+     <p>
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      mutants (see Table S1 in the supplemental material) were created using the lambda red recombinase method (
+      ). For
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <italic>
+       salamae ΔseoC
+      </italic>
+      , a PCR product was generated from
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      including
+      <italic>
+       seoC
+      </italic>
+      and 500-bp flanking regions using primer pair 15 (see Table S3) and inserted into pGEMT vector by blunt-ended ligation. Inverse PCR with primer pair 16 was used to remove
+      <italic>
+       seoC
+      </italic>
+      coding sequence from this plasmid, and the kanamycin resistance cassette amplified from pKD4 using primer pair 18 was blunt-end ligated into the pGEMT backbone containing the
+      <italic>
+       seoC
+      </italic>
+      flanking regions. Primer pair 15 was used to amplify the kanamycin resistance cassette flanked by 500-bp flanking regions of
+      <italic>
+       seoC
+      </italic>
+      . For
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <italic>
+       salamae ΔescN/ΔinvA/Δssav
+      </italic>
+      mutants, the kanamycin resistance cassette from pKD4 was amplified with 50-bp flanking regions of
+      <italic>
+       escN
+      </italic>
+      ,
+      <italic>
+       invA
+      </italic>
+      , or
+      <italic>
+       ssaV
+      </italic>
+      on either side, using primer pairs 20/21/22. PCR products from the two above methods were transformed by electroporation into electrocompetent
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      3558/07 expressing the lambda red genes from an arabinose-inducible promoter within the pKD46 plasmid (
+      ). Clones were selected on 50-μg/ml kanamycin LB agar, cured by growth at 42°C, and verified by PCR and DNA sequencing using primer pairs 17/23/24/25 (for Δ
+      <italic>
+       seoC/ΔescN/ΔinvA/Δssav
+      </italic>
+      , respectively), 560 bp flanking the
+      <italic>
+       seoC
+      </italic>
+      gene, and primers for the kanamycin cassette.
+     </p>
+    </sec>
+    <sec id="sec2-4">
+     <title>
+      Plasmid construction.
+     </title>
+     <p>
+      Oligonucleotides for gene amplification and site-directed mutagenesis are shown in Table S3 in the supplemental material, plasmids are shown in Table S4, and the strains from which genes were amplified are shown in Table S1. Briefly, oligonucleotides were used to amplify the gene insert from genomic DNA, and products were purified using the Qiagen PCR purification kit according to the manufacturer\s instructions. Target vectors and PCR products were digested for 1 h at 37°C with restriction enzymes before dephosphorylating the cut vector with calf intestinal phosphatase (New England BioLabs [NEB]) for 30 min at 37°C. Inserts and vectors were incubated together at a 3:1 molar ratio for 20 min at room temperature (RT) with T4 DNA ligase (NEB) before transformation into Top10 competent cells. Inserts were confirmed by colony PCR followed by DNA sequencing. Subcloning with EcoRI and HindIII restriction enzymes was used to “cut and paste” EPEC EspJ from pRK5-myc-EspJ
+      <sub>
+       EPEC
+      </sub>
+      to pMALXE-EspJ
+      <sub>
+       EPEC
+      </sub>
+      . Site-directed mutagenesis was performed either by nonoverlapping inverse PCR followed by blunt-ended ligation or by overlapping inverse PCR and transformation using the QuikChange II site-directed mutagenesis kit (Agilent) according to the manufacturer\s instructions.
+     </p>
+    </sec>
+    <sec id="sec2-5">
+     <title>
+      Screening and sequencing
+      <italic>
+       seoC/sboC/espJ
+      </italic>
+      orthologues among
+      <named-content content-type="genus-species">
+       Salmonella
+      </named-content>
+      isolates.
+     </title>
+     <p>
+      PCR was performed using
+      <italic>
+       espJ
+      </italic>
+      primers (primer pair 1 [see Table S3 in the supplemental material]) on bacterial boilates using a PuReTaq-Ready-To-Go PCR bead system (GE Healthcare). The amplification products of
+      <italic>
+       espJ
+      </italic>
+      were purified and sequenced using the same primers. Sequencing was performed on an ABI Prism 3730XL DNA analyzer (Applied Biosystems, Applera Hispania, S.A., Spain) using the
+      <italic>
+       Taq
+      </italic>
+      Dye Deoxy Terminator cycle sequencing kit (Applied Biosystems/Perkin-Elmer). Sequences analysis was performed with Lasergene v.5.0 software (DNAStar, Madison, WI, USA).
+     </p>
+    </sec>
+    <sec id="sec2-6">
+     <title>
+      Eukaryotic cell maintenance.
+     </title>
+     <p>
+      Cos-7, J774.A1, and HEK293 cells were maintained in Dulbecco\s modified Eagle\s medium (DMEM; Sigma-Aldrich) containing 4,500 mg/liter glucose supplemented with 10% (vol/vol) heat-inactivated fetal calf serum and 1% (vol/vol) GlutaMAX (Life Technologies) at 37°C and 5% CO
+      <sub>
+       2
+      </sub>
+      . HeLa cells were similarly maintained, only with 1,000 mg/liter glucose. Green fluorescent protein (GFP)-FcγIIa-stably transduced Cos-7 cells had the addition of 0.1 μg/ml of puromycin.
+     </p>
+    </sec>
+    <sec id="sec2-7">
+     <title>
+      Translocation assay.
+     </title>
+     <p>
+      The β-lactamase (TEM-1) translocation assay was performed as previously described (
+      ). Briefly, 8 × 10
+      HeLa/4 × 10
+      J774.A1 cells were seeded per well of a 96-well plate (BD Falcon; catalogue no. 353948) 48 h prior to infection. Overnight cultures of
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      strains were diluted 1:33 and grown for 2 h at 37°C with shaking before inducing TEM fusion expression from pCX340 (
+      ) with 0.05 mM isopropyl-β-
+      <sc>
+       d
+      </sc>
+      -1-thiogalactopyranoside (IPTG). Cultures were then incubated to an optical density at 600 nm (OD
+      <sub>
+       600
+      </sub>
+      ) of 1.8 (typically a further 30 min) and used to infect monolayers with a multiplicity of infection (MOI) of 100 for 1 h at 37°C, 5% CO
+      <sub>
+       2
+      </sub>
+      . The cell monolayers were washed with 100 μl Hanks\ buffered salt solution (Gibco), supplemented with 20 mM HEPES and 3 mM probenecid (Sigma), pH 7.4, and developed as described previously (
+      ). Fluorescence emission at 450 nm and 520 nm was measured using a FLUOstar Optima plate reader (excitation wavelength, 410 nm; 10-nm band-pass). The translocation rate was calculated as recommended in the Live Blazer FRET-B/G loading kit manual. Expression of the TEM-1 fusion proteins was analyzed by Western blotting using a mouse anti-β-lactamase antibody (QED Bioscience Inc.; data not shown).
+     </p>
+    </sec>
+    <sec id="sec2-8">
+     <title>
+      Protein overexpression.
+     </title>
+     <p>
+      EspJ homologues were cloned into pMALX(E) (
+      ) backbone and Src 250–533
+      <sub>
+       K295M/Y416F
+      </sub>
+      (Src
+      <sub>
+       250–533KY
+      </sub>
+      ) and Src 250–533
+      <sub>
+       K295M/Y416F/E310A
+      </sub>
+      (Src
+      <sub>
+       250–533KYE
+      </sub>
+      ) were cloned into pGEX-KG to produce an N-terminally maltose binding protein (MBP)-tagged fusion and N-terminally glutathione
+      <italic>
+       S
+      </italic>
+      -transferase (GST)-tagged fusions, respectively. These vectors were transformed into BL21-STAR competent cells (Novagen), and overnight cultures were used to inoculate 1:100 of fresh LB broth. After growth to an OD
+      <sub>
+       600
+      </sub>
+      of 0.6 at 37°C, protein expression from the T7 promoter was induced with 1 mM IPTG at 18°C overnight. Cells harvested at 4,500 relative centrifugal force (RCF) were resuspended in MBP lysis buffer (500 mM NaCl, 50 mM
+      <italic>
+       N
+      </italic>
+      -cyclohexyl-3-aminopropanesulfonic acid [CAPS], 5 mM dithiothreitol [DTT], 10% glycerol, pH 11) or GST lysis buffer (300 mM NaCl, 50 mM Na
+      <sub>
+       2
+      </sub>
+      HPO
+      <sub>
+       4
+      </sub>
+      , 5 mM DTT, 5% glycerol, pH 7.4) before cell disruption by sonication and clarification at 40,000 RCF.
+     </p>
+    </sec>
+    <sec id="sec2-9">
+     <title>
+      GST-Src 250–533 purifications.
+     </title>
+     <p>
+      Lysis supernatant was passed over a GSTrap 4B Sepharose column (GE Healthcare) to bind GST fusion proteins, and nonspecific interaction mixtures were washed with a 20× column volume of GST lysis buffer before being eluted with 20 mM reduced glutathione-containing elution buffer. Next, gel filtration in lysis buffer using a Superdex 200 10/300 gel filtration column (Invitrogen) was utilized to remove protein aggregates.
+     </p>
+    </sec>
+    <sec id="sec2-10">
+     <title>
+      <italic>
+       In vitro
+      </italic>
+      ADP-ribosylation assay.
+     </title>
+     <p>
+      Five hundred microliters of lysis supernatant was incubated with 50 μl of amylose resin (Novagen) for 1 h at 4°C with rotation. After washing 3 times with MBP lysis buffer, 4 μg of GST-tagged Src
+      <sub>
+       250–533KY
+      </sub>
+      or Src
+      <sub>
+       250–533KYE
+      </sub>
+      and 10 μM 6-biotin-17-NAD
+      (AMSBio) in phosphate-buffered saline (PBS), pH 7.4, were added. After 1 h, room-temperature (RT) Laemmli buffer was added and samples were boiled to stop the reaction.
+     </p>
+    </sec>
+    <sec id="sec2-11">
+     <title>
+      Western immunoblotting.
+     </title>
+     <p>
+      After separation by SDS-PAGE, the Bio-Rad Transblot semidry transfer cell was used to transfer samples to a polyvinylidene difluoride (PVDF) membrane for 1 h at 15 V. Membranes were blocked for 1 h at RT with 5% skim milk–PBS-Tween (PBST) (Sigma-Aldrich) before sequential incubation with primary and secondary antibodies in 1% skim milk-PBST for 1 h each with washing in between (see Table S5 in the supplemental material).
+     </p>
+    </sec>
+    <sec id="sec2-12">
+     <title>
+      Construction of a stably transduced Cos-7 GFP-FcγRIIa cell line.
+     </title>
+     <p>
+      GFP-FcγRIIa was cloned from pEGFP-FcγRIIa (
+      ) into pMXs-IP (Invitrogen). HEK293 cells were seeded in a 6-well plate (Becton Dickinson) at 4.8 × 10
+      cells per well 24 h before transfection. Cells were transfected with 500 ng pMX-IP–GFP-FcγRIIa, 400 ng of Moloney murine leukemia virus (MMLV) plasmid, and 100 ng of vesicular stomatitis virus G protein (VSV-G) plasmid using Lipofectamine (Invitrogen) according to the manufacturer\s protocol. After 24 h, transfected cells were washed and fresh medium was added, allowing the cells to produce virions for a further 24 h when the GFP-FcγRIIa packaged virion-containing supernatant was collected. HEPES buffer was added to a final concentration of 20 mM, and the supernatant was filtered through a non-PVDF membrane before being added to a 70 to 90% confluent T25 flask of Cos-7 cells. After 24 h, the transduction of GFP-FcγRIIa was confirmed by fluorescence microscopy. Transduced cells were selected with 0.3 μg/ml puromycin for 1 week before fluorescence-activated cell sorting (FACS) using a BD FACS Aria III cell sorter and assessed using a BD FACS Fortessa III cell analyzer.
+     </p>
+    </sec>
+    <sec id="sec2-13">
+     <title>
+      Transfection of Cos-7 GFP-FcγRIIa cells.
+     </title>
+     <p>
+      Glass coverslips in 24-well tissue culture plates (Becton Dickinson) were seeded with 5 × 10
+      cells per well 24 h prior to transfection. Cells were transfected using Genejuice transfection reagent (Novagen) at a 3:1 Genejuice/DNA ratio according to the manufacturer\s instructions. DNA at 0.5 μg/well was transfected for 14 to 16 h before subjection to the opsonophagocytosis protocol.
+     </p>
+    </sec>
+    <sec id="sec2-14">
+     <title>
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      infection of J774.A1/HeLa cells.
+     </title>
+     <p>
+      J774.A1/HeLa cells were seeded on glass coverslips in a 24-well plate at 1.5 × 10
+      /7.5 × 10
+      cells per well 24 h before infection, respectively. Overnight
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      cultures were diluted 1:33 in Lennox-LB broth and incubated for 2.5 h at 37°C with shaking for 2.5 h to an OD
+      <sub>
+       600
+      </sub>
+      of 0.8 before infection of macrophages with an MOI of 100. For complementation, genes were expressed from the pWSK29 backbone (
+      ) using 0.05 mM IPTG 30 min prior to and during the infection. After 30 min of infection, bacterium-containing medium was removed and infected cells were challenged with opsonized beads as described below. For assessment of the bacterial invasion/internalization,
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      expressing GFP from the pFPV25.1 plasmid (
+      ) was used for infection. External bacteria were stained prepermeabilization using the BacTrace goat anti-CSA-1 antibody (Kirkegaard &amp; Perry Laboratories [KPL]).
+     </p>
+    </sec>
+    <sec id="sec2-15">
+     <title>
+      Gentamicin protection invasion assay.
+     </title>
+     <p>
+      HeLa cells were infected as described above, washed with PBS after 60 min, and incubated with gentamicin-containing medium (200 μg/ml) for a further 60 min. Cells were then washed 5 times with PBS and lysed with 0.1% Triton X-100 before being plated in serial dilutions on LB agar to assess the number of CFU. Internalization is expressed as a percentage of the calculated inoculum.
+     </p>
+    </sec>
+    <sec id="sec2-16">
+     <title>
+      LDH release cytotoxicity assay.
+     </title>
+     <p>
+      J774.A1 cells were infected as described above, taking supernatant samples at 30 and 60 min. After centrifugation at 4,000 RCF followed by 20,000 RCF to remove mammalian and bacterial cells, supernatants were assessed for lactate dehydrogenase (LDH) release using the CytoTox 96 nonradioactive cytotoxicity assay (Promega) according to the manufacturer\s protocol. Absorbance at 490 nm was measured using a medium-only control to calculate the net absorbance, and readings were normalized to uninfected controls.
+     </p>
+    </sec>
+    <sec id="sec2-17">
+     <title>
+      Bead opsonization and opsonophagocytosis assay.
+     </title>
+     <p>
+      Transfected cells were incubated for 2 h with serum-free DMEM (SF-DMEM). Meanwhile, 3.4-μm Sphero bovine serum albumin (BSA)-coated polystyrene beads (Spherotech) were opsonized for phagocytosis. Per coverslip, 10 μl (Cos-7 GFP-FcγRIIa cells) or 2.5 μl (J774.A1 cells) of bead slurry was washed in 1 ml of 20 mM 2-(
+      <italic>
+       N
+      </italic>
+      -morpholino)ethanesulfonic acid (MES)-8 mM HEPES before incubation with rotation with mouse anti-BSA primary antibody at room temperature (RT). After 1 h, opsonized beads were harvested and resuspended in 1 ml SF-DMEM (Cos-7 GFP-FcγRIIa cells) or serum-containing DMEM (J774.A1 cells) per coverslip before addition to transfected/infected cells. Beads were centrifuged onto the cells at 500 RCF for 5 min. Transfected cells were incubated at 4°C for 15 min before bead-containing medium was replaced with serum-containing DMEM, and phagocytosis was allowed to occur for 90 min. Infected macrophages were incubated with beads for 30 min at 37°C with 5% CO
+      <sub>
+       2
+      </sub>
+      . Infected/transfected cells were then washed once with cold tissue-grade PBS on ice before a 7-min staining of extracellular beads using donkey anti-mouse Alexa 488/RRX antibody on 0.2% BSA-PBS before washing twice with PBS and fixation with 3.7% paraformaldehyde (PFA)-PBS for 25 min.
+     </p>
+    </sec>
+    <sec id="sec2-18">
+     <title>
+      Immunofluorescence staining.
+     </title>
+     <p>
+      Fixed cells were neutralized with 50 mM NH
+      <sub>
+       4
+      </sub>
+      Cl-PBS for 15 min and permeabilized with 0.2% Triton X-100–PBS for 2 min. Nonspecific binding was blocked using 0.2% bovine serum albumin (BSA)-PBS for 15 min prior to incubation with primary antibodies (see Table S5 in the supplemental material). After 45 min, cells were washed 3 times with PBS before being blocked again and incubated with secondary antibodies.
+     </p>
+    </sec>
+    <sec id="sec2-19">
+     <title>
+      Quantification of bead internalization.
+     </title>
+     <p>
+      The internalization of beads associated with either transfected GFP-FcγRIIa Cos-7 cells or
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      -infected J774.A1 cells was counted manually by immunofluorescence microscopy. Transfected cells were detected using chicken anti-myc antibody (Bethyl Laboratories), and bacteria were visualized with BacTrace goat anti-CSA-1 antibody (KPL).
+     </p>
+    </sec>
+    <sec id="sec2-20">
+     <title>
+      Accession number(s).
+     </title>
+     <p>
+      The
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      3588/07 genome sequencing reads from the 454 platform have been deposited in the Short Read Archive with accession no. ERR043066.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec3" sec-type="results">
+    <title>
+     RESULTS
+    </title>
+    <sec id="sec3-1">
+     <title>
+      Effector repertoire of
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      3588/07.
+     </title>
+     <p>
+      The majority of sequenced
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      strains are from the
+      <named-content content-type="genus-species">
+       enterica
+      </named-content>
+      subspecies, but recently, a few genomes have been annotated from the non-
+      <named-content content-type="genus-species">
+       enterica
+      </named-content>
+      subspecies (
+      ,
+      ,
+      ). We sequenced the genome of
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      3588/07 in order to compare its T3SS effector repertoire to other
+      <named-content content-type="genus-species">
+       Salmonella
+      </named-content>
+      strains. Of the seven
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      isolates, four were from a water bath area which strain 3588/07 was selected to represent. The draft genome sequence is represented by 140 contigs and is 5,116,236 bp in size. In agreement with previously sequenced
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      strains (
+      ,
+      ),
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      3588/07 carries the SPI-1, SPI-2, and LEE T3SSs, including the signature LEE region proteins encoded by
+      <italic>
+       escN
+      </italic>
+      , the ATPase required for EPEC/EHEC T3SS effector translocation (
+      ), and the translocon proteins EspA/B/D. The EPEC/EHEC outer membrane adhesin intimin was present along with six translocated effectors, including the intimin receptor Tir (
+      ). However, the LEE-encoded effectors Map, EspG, and EspH were missing (
+      ). The entire effector repertoire of
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      3588/07 (
+      ) reveals that several key effectors found in
+      <italic>
+       S
+      </italic>
+      . Typhimurium are not present, including the anti-inflammatory effectors AvrA (
+      ) and GogB (
+      ) and the deubiquitinase SseL (
+      ) (
+      ). In particular, only a short, 189-bp fragment of the
+      <italic>
+       sopB
+      </italic>
+      gene, which is considered a core effector with regard to
+      <named-content content-type="genus-species">
+       Salmonella
+      </named-content>
+      virulence, is found in the
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      3588/07 genome, compared to the 1,686 bp in
+      <italic>
+       S
+      </italic>
+      . Typhimurium.
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      3588/07 also encodes the effectors SteA, SteB, SteC, SopE, SspH1, and SseK2, which have not been previously found in
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      strains (
+      ). In addition, the
+      <named-content content-type="genus-species">
+       S. bongori
+      </named-content>
+      effectors SboK and SboC are also present in
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      3588/07. SboC is homologous to the EPEC, EHEC, and
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      antiphagocytic effector EspJ; we named the
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      homologue SeoC (
+      <named-content content-type="genus-species">
+       Salmonella enterica
+      </named-content>
+      outer protein C).
+     </p>
+    </sec>
+    <sec id="sec3-2">
+     <title>
+      Prevalence of
+      <italic>
+       sboC/seoC
+      </italic>
+      in
+      <named-content content-type="genus-species">
+       S. bongori
+      </named-content>
+      and
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      spp.
+     </title>
+     <p>
+      We investigated the prevalence of
+      <italic>
+       seoC
+      </italic>
+      across the
+      <named-content content-type="genus-species">
+       Salmonella
+      </named-content>
+      genus by screening 73 clinical and environmental
+      <named-content content-type="genus-species">
+       Salmonella
+      </named-content>
+      isolates by PCR. Strain selection was based upon belonging to different species/subspecies of
+      <named-content content-type="genus-species">
+       Salmonella
+      </named-content>
+      and to the most frequent serotypes within each species/subspecies and, if possible, being isolated from human/nonhuman sources (see Table S2 in the supplemental material). All tested
+      <named-content content-type="genus-species">
+       S. bongori
+      </named-content>
+      isolates were
+      <italic>
+       sboC
+      </italic>
+      positive. Of the
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      isolates,
+      <italic>
+       seoC
+      </italic>
+      was found in 4 out of 7 isolates belonging to subspecies
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      and in 8 out of 9 isolates belonging to subspecies
+      <named-content content-type="genus-species">
+       arizonae
+      </named-content>
+      but not in any isolates of subspecies
+      <named-content content-type="genus-species">
+       enterica
+      </named-content>
+      ,
+      <named-content content-type="genus-species">
+       diarizonae
+      </named-content>
+      , or
+      <named-content content-type="genus-species">
+       houtenae
+      </named-content>
+      (see Table S2).
+     </p>
+     <p>
+      Amino acid sequence alignment (
+      ) revealed that SeoC from
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       arizonae
+      </named-content>
+      and that from
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      share 83% sequence identity and 77%/78% identity, respectively, to SboC from
+      <named-content content-type="genus-species">
+       S. bongori
+      </named-content>
+      . Between 56% and 58% sequence identity is shared between the
+      <named-content content-type="genus-species">
+       Salmonella
+      </named-content>
+      SeoC/SboC and EspJ from EPEC, EPEC, and
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      (see Table S6 in the supplemental material). Sequence variation was concentrated at the N-terminal 50 amino acids with only around 35% sequence identity between the
+      <italic>
+       E. coli/C. rodentium
+      </italic>
+      and
+      <named-content content-type="genus-species">
+       Salmonella
+      </named-content>
+      homologues (see Table S6). Typically, this region harbors a 20- to 30-residue secretion signal, required for specific targeting to the correct secretion system. Phylogenetic analysis revealed that the
+      <named-content content-type="genus-species">
+       Salmonella
+      </named-content>
+      and the
+      <italic>
+       E. coli/C. rodentium
+      </italic>
+      homologues fall on separate branches in the tree (
+      ). However, residues R79 and D187, required for EPEC EspJ ART activity, are preserved in all EspJ/SeoC homologues, suggesting a conserved catalytic function (
+      , black box).
+     </p>
+    </sec>
+    <sec id="sec3-3">
+     <title>
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      SeoC is translocated by the SPI-1 T3SS.
+     </title>
+     <p>
+      In order to determine through which T3SS the
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      SeoC is translocated, translocation assays were performed using wild-type (WT)
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      and LEE (Δ
+      <italic>
+       escN
+      </italic>
+      ), SPI-1 (Δ
+      <italic>
+       invA
+      </italic>
+      ), and SPI-2 (Δ
+      <italic>
+       ssaV
+      </italic>
+      ) T3SS nonfunctional mutants expressing SeoC fused to the TEM-1 reporter. The housekeeping/cytosolic protein FabI fused to TEM-1, used as a negative control, was not translocated when expressed in WT
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      , while the
+      <named-content content-type="genus-species">
+       S. bongori
+      </named-content>
+      T3SS effector SboI, which was used as a positive control, was translocated into both HeLa cells and J774.A1 macrophages. SeoC-TEM was translocated into both HeLa cells and J774.A1 macrophages following infection with WT
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      , and to a lesser extent from the Δ
+      <italic>
+       escN
+      </italic>
+      and Δ
+      <italic>
+       ssaV
+      </italic>
+      mutants. In contrast, no translocation was seen from the Δ
+      <italic>
+       invA
+      </italic>
+      strain (
+      ), suggesting that SeoC is an SPI-1 effector.
+     </p>
+    </sec>
+    <sec id="sec3-4">
+     <title>
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      invades phagocytic and epithelial cells independently of SeoC.
+     </title>
+     <p>
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      is mainly isolated from extraintestinal infections (
+      ). We therefore aimed to investigate the invasion potential of
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      and any involvement of SeoC in this process, considering that EspJ has an antiphagocytic activity, albeit of opsonized particles (
+      ).
+      <named-content content-type="genus-species">
+       Salmonella
+      </named-content>
+      expressing GFP (
+      ) was used to infect HeLa cells and J774.A1 macrophages. Lactate dehydrogenase (LDH) release, indicative of cell lysis, measured 30 and 60 min after infection of J774.A1 with WT and Δ
+      <italic>
+       seoC S. enterica
+      </italic>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      , revealed no significant increase over uninfected cells (
+      ), suggesting that these strains are not cytotoxic. Gentamicin protection invasion assays showed that while
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      Δ
+      <italic>
+       invA
+      </italic>
+      was significantly less invasive into HeLa cells, no significant difference was seen between the WT and
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      Δ
+      <italic>
+       seoC
+      </italic>
+      strains (
+      ). Extracellular bacterial staining, using the anti-CSA-1 antibody prepermeabilization, confirmed that
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      and
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      Δ
+      <italic>
+       seoC
+      </italic>
+      invaded both phagocytic and epithelial cells (
+      and
+      ). The SPI-1 T3SS-deficient Δ
+      <italic>
+       invA
+      </italic>
+      strain was still internalized by J774.A1 macrophages but unable to invade HeLa cells. Together, these data show that, similarly to EspJ, SeoC does not play a role in inhibition of
+      <italic>
+       cis
+      </italic>
+      -phagocytosis (uptake of nonopsonized bacteria).
+     </p>
+    </sec>
+    <sec id="sec3-5">
+     <title>
+      SeoC ADP-ribosylates Src E310.
+     </title>
+     <p>
+      We have previously reported that EPEC EspJ inhibits Src by ADP-ribosylation of E310 within its protein kinase domain (SH1) (
+      ). In order to determine if SeoC from
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      and
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       arizonae
+      </named-content>
+      , SboC from
+      <named-content content-type="genus-species">
+       S. bongori
+      </named-content>
+      , and EspJ from EHEC and
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      share this activity, we performed an
+      <italic>
+       in vitro
+      </italic>
+      ADP-ribosylation assay. Purified MBP-tagged effectors and GST-tagged Src-SH1
+      <sub>
+       K295M/Y416F
+      </sub>
+      (Src-SH1
+      <sub>
+       KY
+      </sub>
+      ; K295M, kinase dead; Y416F, autophosphorylation mutant) were incubated with NAD-biotin and then analyzed by Western blotting. This revealed that SeoC, SboC, and EspJ ADP-ribosylated GST-Src-SH1
+      <sub>
+       KY
+      </sub>
+      (
+      , lower band, streptavidin panel) and also had various levels of autoactivity (
+      , upper band, streptavidin panel). No ADP-ribosylation was detected using the negative control GST or when GST-Src was incubated with MBP-EspJ-EPEC
+      <sub>
+       R79A
+      </sub>
+      (ART catalytic mutant) or MBP. Importantly, we detected no ADP-ribosylation of Src mutated at residue E310 (Src-SH1
+      <sub>
+       KYE
+      </sub>
+      ), suggesting that the target residue is shared between SeoC, SboC, and EspJ.
+     </p>
+    </sec>
+    <sec id="sec3-6">
+     <title>
+      Ectopic expression of SeoC inhibits FcγRIIa-mediated phagocytosis.
+     </title>
+     <p>
+      Src kinase is involved in the regulation of many cellular processes, including cell proliferation and differentiation, cell motility, and phagocytosis (reviewed in reference
+      ). Src phosphorylates the cytoplasmic immunotyrosine activation motifs (ITAMs) of FcγRIIa, allowing the recruitment of Syk kinase and initiating the signaling cascade for phagocytic actin remodeling. To assess the inhibition of phagocytosis by the different SeoC/SboC/EspJ homologues, we generated a Cos-7 cell line stably expressing FcγRIIa. The cells were then transfected with the different SeoC/SboC/EspJ homologues before being challenged with IgG-opsonized beads. The internal/external localization of cell-associated beads in transfected cells was observed by immunofluorescence (
+      ). Mock-transfected cells or cells transfected with EPEC EspJ
+      <sub>
+       R79A/D187A
+      </sub>
+      (ART mutant) were used as negative controls. Immunofluorescence analysis showed that all the SeoC/SboC/EspJ homologues reduced bead internalization from 60% in mock- and EspJ
+      <sub>
+       R79A/D187A
+      </sub>
+      -transfected cells to below 10% (
+      ). Thus, the ADP-ribosylation of Src appears inhibitory, and each effector is capable of inhibiting opsonophagocytosis, independently of other effector proteins.
+     </p>
+    </sec>
+    <sec id="sec3-7">
+     <title>
+      SeoC inhibits FcγR-mediated phagocytosis during
+      <named-content content-type="genus-species">
+       Salmonella
+      </named-content>
+      infection.
+     </title>
+     <p>
+      To confirm the inhibitory activity of SeoC during infection, J774.A1 macrophages were infected with WT
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      ,
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      Δs
+      <italic>
+       eoC
+      </italic>
+      , and
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      Δs
+      <italic>
+       eoC
+      </italic>
+      complemented with plasmids carrying
+      <italic>
+       seoC
+      </italic>
+      or
+      <italic>
+       seoC
+      </italic>
+      <sub>
+       R79A
+      </sub>
+      and then challenged with IgG-opsonized beads. Immunofluorescence revealed that macrophages infected with WT
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      displayed reduced phagocytosis of cell-associated beads (&lt;18%) compared to uninfected cells (57%) or cells infected with
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      Δ
+      <italic>
+       seoC
+      </italic>
+      (68%) (
+      and
+      ).
+      <named-content content-type="genus-species">
+       S. enterica
+      </named-content>
+      subsp.
+      <named-content content-type="genus-species">
+       salamae
+      </named-content>
+      Δ
+      <italic>
+       seoC
+      </italic>
+      complemented with
+      <italic>
+       seoC
+      </italic>
+      restored inhibition of phagocytosis (26%), whereas the
+      <italic>
+       seoC
+      </italic>
+      <sub>
+       R79A
+      </sub>
+      strain had a level of phagocytosis similar to that of the Δ
+      <italic>
+       seoC
+      </italic>
+      mutant, confirming that ADP-ribosylation activity of SeoC is required for inhibition of phagocytosis.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec4" sec-type="discussion">
+    <title>
+     DISCUSSION
+    </title>
+    <p>
+     In this study, genomic sequencing revealed the effector repertoire of the SPI-1, SPI-2, and LEE T3SSs of
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     3588/07, a crucial determinant for bacterial infection strategies and host specificities. For example, the absence of
+     <italic>
+      sseJ
+     </italic>
+     from
+     <named-content content-type="genus-species">
+      Salmonella enterica
+     </named-content>
+     serovar Typhi was linked to reduced cytotoxicity in
+     <italic>
+      in vitro
+     </italic>
+     infection models (
+     ). Similarly, a
+     <named-content content-type="genus-species">
+      Salmonella enterica
+     </named-content>
+     serovar Typhimurium
+     <italic>
+      slrP
+     </italic>
+     mutant caused a colonization defect in mice but had no effect in calves (
+     ). Despite its importance in
+     <italic>
+      S
+     </italic>
+     . Typhimurium, SlrP is not found in
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     and is observed only as a pseudogene in many other
+     <named-content content-type="genus-species">
+      Salmonella
+     </named-content>
+     strains. We observed six effector genes not previously seen in
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     . These were
+     <italic>
+      steA
+     </italic>
+     ,
+     <italic>
+      steB
+     </italic>
+     , and
+     <italic>
+      steC
+     </italic>
+     , with unknown function;
+     <italic>
+      sseK2
+     </italic>
+     , which is similar in sequence to the EPEC/EHEC anti-inflammatory effector NleB (
+     ); the NF-κB inhibitor with E3 ligase activity
+     <italic>
+      sspH1
+     </italic>
+     (
+     ); and the guanine nucleotide exchange factor (GEF) gene
+     <italic>
+      sopE
+     </italic>
+     . In
+     <italic>
+      S
+     </italic>
+     . Typhimurium, a
+     <italic>
+      sopE
+     </italic>
+     ,
+     <italic>
+      sopE2
+     </italic>
+     , and
+     <italic>
+      sopB
+     </italic>
+     triple mutant is noninvasive (
+     ). Both
+     <italic>
+      sopE
+     </italic>
+     and
+     <italic>
+      sopE2
+     </italic>
+     are present in
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     3558/07, but
+     <italic>
+      sopB
+     </italic>
+     , which contributes to invasion, fluid secretion, SCV development, and intracellular survival (
+     ,
+     ), and
+     <italic>
+      avrA
+     </italic>
+     , which also supports intracellular survival (
+     ), were absent. Desai et al. identified paralogues of
+     <named-content content-type="genus-species">
+      S. bongori
+     </named-content>
+     effector SboH in
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     1582, SboK and SboL in
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     1583, and SboC in both strains (
+     ).
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     3588/07 possesses SboK, which has no known function but is predicted to have a domain organization similar to SlrP, and SboC, the predicted homologue of EPEC/EHEC EspJ. Strain 3588/07 was selected to represent the four of seven
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     isolates originating from water bath areas. Differences in its effector repertoire from those of other
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     strains highlight that the remaining six isolates are likely to possess unique subsets of effectors, which could be revealed by further genome sequencing.
+    </p>
+    <p>
+     PCR screening showed that
+     <italic>
+      sboC/seoC
+     </italic>
+     was present in
+     <named-content content-type="genus-species">
+      S. bongori
+     </named-content>
+     (6 from 6),
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     (4 from 7), and
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      arizonae
+     </named-content>
+     (8 from 9) isolates, but none of the
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      diarizonae
+     </named-content>
+     and
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      houtenae
+     </named-content>
+     isolates tested.
+     <named-content content-type="genus-species">
+      S. bongori
+     </named-content>
+     SboC is known to be translocated by the T3SS (
+     ), and this study shows that
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     SeoC is mainly a substrate of the SPI-1 T3SS. SeoC did, however, inhibit phagocytosis during the infection of murine macrophages, as did the ectopic expression of all tested SeoC/SboC/EspJ homologues within a GFP-FcγRIIa-expressing Cos-7 cell line. It is possible for effector proteins to be substrates of more than one secretion system at different stages of infection, as is the case for SlrP (
+     ). For SeoC, this could explain the reduction in translocation in LEE and SPI-2 T3SS mutant strains, which would be interesting to investigate using secretion assays specific to each T3SS.
+    </p>
+    <p>
+     <named-content content-type="genus-species">
+      Salmonella
+     </named-content>
+     and
+     <named-content content-type="genus-species">
+      E. coli
+     </named-content>
+     are members of the same
+     <named-content content-type="genus-species">
+      Enterobacteriaceae
+     </named-content>
+     family with common ancestry over 100 million years ago (
+     ). While pathogenic
+     <named-content content-type="genus-species">
+      E. coli
+     </named-content>
+     types such as EPEC and EHEC possess a LEE-encoded T3SS and have adapted an extracellular lifestyle, the majority of
+     <named-content content-type="genus-species">
+      Salmonella
+     </named-content>
+     strains have SPI-1 and SPI-2 T3SSs for invasion and intracellular replication, respectively. The SPI-1 T3SS was acquired prior to the divergence of
+     <named-content content-type="genus-species">
+      S. bongori
+     </named-content>
+     and
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     , after which the SPI-2 T3SS was introduced, before separation into further subspecies (
+     ). Pathogenicity islands are generally acquired by horizontal gene transfer but can also be carried in integrative elements such as cryptic prophages (
+     ). Horizontal gene transfer has allowed the diversification and specialization of
+     <named-content content-type="genus-species">
+      Salmonella
+     </named-content>
+     infection strategies, and the distribution of the SeoC/SboC/EspJ homologues in
+     <named-content content-type="genus-species">
+      Salmonella
+     </named-content>
+     and
+     <italic>
+      E. coli/C. rodentium
+     </italic>
+     is a good example of this.
+    </p>
+    <p>
+     The presence of both SPI-1 and SPI-2 T3SSs in
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     and
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      arizonae
+     </named-content>
+     suggests an intracellular lifestyle, while the identification of a LEE-encoded T3SS in
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     could promote the opposite. It has been reported that
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      arizonae
+     </named-content>
+     and
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      diarizonae
+     </named-content>
+     are internalized poorly by J774.A1 macrophages (
+     ). Additionally, from a variety of
+     <named-content content-type="genus-species">
+      Salmonella
+     </named-content>
+     serovars isolated from crocodiles, only subspecies
+     <named-content content-type="genus-species">
+      enterica
+     </named-content>
+     and not
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     or
+     <named-content content-type="genus-species">
+      diarizonae
+     </named-content>
+     displayed invasive phenotypes in a mouse model system (
+     ). In fact, the presence of both SPI-1 and SPI-2 does not necessarily confer invasiveness
+     <italic>
+      in vivo
+     </italic>
+     , as although the transfer of SPI-2 to
+     <named-content content-type="genus-species">
+      S. bongori
+     </named-content>
+     increased intracellular persistence in cell culture, systemic pathogenicity in a murine model was not possible (
+     ). We showed that
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     can invade both J774.A1 and HeLa cells in a SeoC-independent manner and lacks the actin-rich pedestals characteristic of the LEE T3SS. This observation is interesting considering the lack of
+     <italic>
+      sopB
+     </italic>
+     and
+     <italic>
+      avrA
+     </italic>
+     in
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     , which are key effectors for
+     <italic>
+      S
+     </italic>
+     . Typhimurium invasiveness and intracellular survival. For further characterization of the
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     subspecies, it will be useful to investigate invasiveness into other epithelial and macrophage cell lines. The SeoC-independent invasiveness of
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     shows that SeoC, like EspJ, does not have a role in the inhibition of
+     <italic>
+      cis
+     </italic>
+     -phagocytosis.
+    </p>
+    <p>
+     Inhibition of phagocytosis by EPEC EspJ is mediated by amidation and ADP-ribosylation of the kinase domain of Src (
+     ). Many bacterial toxins possess ART activity, and several T3SS effector proteins with ART activity have been identified, including
+     <named-content content-type="genus-species">
+      Pseudomonas syringae
+     </named-content>
+     HopF2,
+     <named-content content-type="genus-species">
+      Pseudomonas aeruginosa
+     </named-content>
+     ExoS and ExoT, and
+     <named-content content-type="genus-species">
+      Salmonella
+     </named-content>
+     SpvB. HopF2 shares 20 to 25% sequence identity with the SeoC/SboC/EspJ homologues and ADP-ribosylates multiple mitogen-activated protein kinases (MAPKs) and RIN4, inhibiting plant pathogen-associated molecular pattern (PAMP)-triggered defenses (
+     ,
+     ). The catalytic activity of SpvB is essential for virulence of
+     <italic>
+      S
+     </italic>
+     . Typhimurium in mice (
+     ), via the modification of actin, a target for many ADP-R toxins, including
+     <named-content content-type="genus-species">
+      Clostridium botulinum
+     </named-content>
+     C2,
+     <named-content content-type="genus-species">
+      Clostridium perfringens
+     </named-content>
+     iota toxin, and the
+     <named-content content-type="genus-species">
+      Clostridium difficile
+     </named-content>
+     toxin (CDT) (
+     ). Of the non-
+     <named-content content-type="genus-species">
+      enterica
+     </named-content>
+     subspecies,
+     <italic>
+      spvB
+     </italic>
+     is present only in
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      arizonae
+     </named-content>
+     , making SeoC and SboC the first T3SS translocated ARTs identified in
+     <named-content content-type="genus-species">
+      S. enterica
+     </named-content>
+     subsp.
+     <named-content content-type="genus-species">
+      salamae
+     </named-content>
+     and
+     <named-content content-type="genus-species">
+      S. bongori
+     </named-content>
+     . We showed that all the EspJ homologues ADP-ribosylate E310 within the kinase domain of Src, inhibiting Src-dependent phagocytosis signaling. ExoT also inhibits phagocytosis and has many observed targets, including Ras, ezrin/radixin/moesin (ERM) proteins, and Rab5 (
+     ). As Src E310 is highly conserved throughout the kinase superfamily, the SeoC/SboC/EspJ homologues may, too, have additional targets, the discovery of which is vital for uncovering the ultimate role of these effectors. This could be pursued using proteomic mass spectrometry after
+     <italic>
+      Salmonella/E. coli
+     </italic>
+     infections to identify ADP-ribosylated proteins or changes to the phosphoproteome indicating the inactivation of target kinases.
+    </p>
+    <p>
+     The presence of SeoC/SboC/EspJ homologues in a subset of bacteria with stark differences in their infection strategies displays the importance of horizontal gene transfer for shaping the complex T3SS effector repertoire of
+     <named-content content-type="genus-species">
+      Enterobacteriaceae
+     </named-content>
+     . It would be interesting to study the consequences of expressing SeoC/SboC in
+     <italic>
+      S
+     </italic>
+     . Typhimurium, which lacks this translocated enzyme, using the mouse model of salmonellosis. In combination with powerful mass spectrometry analysis, this will help uncover the ultimate impact of these homologues on
+     <named-content content-type="genus-species">
+      Salmonella
+     </named-content>
+     infection strategies.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="supplementary-material">
+    <title>
+     Supplementary Material
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

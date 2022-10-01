@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Protective Efficacy of the Trivalent
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   is a formidable pathogen that is responsible for a diverse spectrum of human infectious diseases, resulting in considerable annual mortality rates. Because of biofilm formation and its ability of rapidly acquires of resistance to many antibiotics,
+   <italic>
+    P
+   </italic>
+   .
+   <italic>
+    aeruginosa
+   </italic>
+   related infections are difficult to treat, and therefore, developing an effective vaccine is the most promising method for combating infection. In the present study, we designed a novel trivalent vaccine, PcrV
+   <sub>
+    28-294
+   </sub>
+   -OprI
+   <sub>
+    25-83
+   </sub>
+   -Hcp1
+   <sub>
+    1-162
+   </sub>
+   (POH), and evaluated its protective efficacy in murine pneumonia and burn models. POH existed as a dimer in solution, it induced better protection efficacy in
+   <italic>
+    P
+   </italic>
+   .
+   <italic>
+    aeruginosa
+   </italic>
+   lethal pneumonia and murine burn models than single components alone when formulated with Al(OH)
+   <sub>
+    3
+   </sub>
+   adjuvant, and it showed broad immune protection against several clinical isolates of
+   <italic>
+    P
+   </italic>
+   .
+   <italic>
+    aeruginosa
+   </italic>
+   . Immunization with POH induced strong immune responses and resulted in reduced bacterial loads, decreased pathology, inflammatory cytokine expression and inflammatory cell infiltration. Furthermore,
+   <italic>
+    in vitro
+   </italic>
+   opsonophagocytic killing assay and passive immunization studies indicated that the protective efficacy mediated by POH vaccination was largely attributed to POH-specific antibodies. Taken together, these data provided evidence that POH is a potentially promising vaccine candidate for combating
+   <italic>
+    P
+   </italic>
+   .
+   <italic>
+    aeruginosa
+   </italic>
+   infection in pneumonia and burn infections.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="Sec1" sec-type="introduction">
+    <title>
+     Introduction
+    </title>
+    <p>
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     is one of the leading formidable pathogens responsible for hospital-acquired pneumonia, surgical infection, bacteremia and other life-threatening infections worldwide
+     . It is especially problematic in long-term hospitalized patients in intensive care units and burn victims.
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     causes ventilation-associated pneumonia and contributes to a mortality rate as high as 13.5%
+     .
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     is the most frequent Gram-negative pathogen in burn patients, and infection with this pathogen can quickly lead to a systemic infection with a mortality rate ranging from 38% to 70%
+     . Conventional use of antibiotics for the treatment of
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     infections is of restricted efficacy, and the emergence of antibiotic-resistant bacteria makes the treatment of
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     infection a persistent problem
+     . To combat the spread of
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     infection, an effective vaccine or other alternative immunotherapy is urgently needed.
+    </p>
+    <p>
+     Several
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     vaccine candidates have been tested
+     , however, no vaccine has yet been licensed for clinical use
+     . One great challenge for the development of vaccines against
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     is that the bacteria utilize multiple pathways to cause infection, and vaccines that block only one or two of the pathways are unable to provide effective protection
+     . In addition, frequent variations in the
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     genome make selecting conserved antigens difficult
+     .
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     attaches to host cells
+     <italic>
+      via
+     </italic>
+     flagella, type 4 pili and other adhesion sites, additionally, the bacteria use dozens of proteases to cause tissue damage. Moreover,
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     encodes a type III secretion system (T3SS) and a type VI secretion system (T6SS), which directly inject effector molecules into host cells and disrupt cellular functions
+     .
+    </p>
+    <p>
+     The
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     V-antigen (PcrV) is an extracellular component of the T3SS that enables killing of epithelial and immune cells by protein toxin injection
+     . Promising results from a phase II trial of KB001, a recombinant anti-PcrV Fab fragment, showed that it reduced airway inflammation and damage in CF patients with chronic
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     infection
+     . Outer membrane protein I (OprI) is a major surface lipoprotein that plays a vital role in bacterial susceptibility to antimicrobial peptides
+     . The most promising
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     vaccine (IC43), which was evaluated in a phase III clinical trial (NCT01563263), is composed of OprI and a fragment of the outer membrane protein OprF. In addition, OprI acts as an adjuvant by triggering the TLR2/TLR4 pathway to improve immunity against
+     <italic>
+      Mycobacterium tuberculosis
+     </italic>
+     and classical swine fever
+     . Hemolysin co-regulated protein 1 (Hcp1) is a central component of the T6SS-dependent intercellular effector transport which can deliver toxin proteins directly into prey prokaryotes and also eukaryotic cells during bacterial infection
+     .
+    </p>
+    <p>
+     After a critical review of the immunogenicity, distribution and crucial role of PcrV, OprI and Hcp1 in
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     pathogenesis, we hypothesized that a combination of these proteins could induce a significant immune response and provide full protection against infection. In this study, we generated a trivalent vaccine containing PcrV, OprI and Hcp1 and evaluated its immunogenicity and protective potential in an acute pneumonia and burn mouse model.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec2" sec-type="materials|methods">
+    <title>
+     Methods
+    </title>
+    <sec id="Sec3">
+     <title>
+      Ethics statement
+     </title>
+     <p>
+      All animal care and use protocols in this study were performed in accordance with the Regulations for the Administration of Affairs Concerning Experimental Animals approved by the State Council of People’s Republic of China. All animal experiments in this study were approved by the Animal Ethical and Experimental Committee of the Third Military Medical University (Chongqing, Permit No. 2011-04) in accordance with their rules and regulations. All surgery was performed under sodium pentobarbital anesthesia, and all efforts were made to minimize suffering.
+     </p>
+    </sec>
+    <sec id="Sec4">
+     <title>
+      Bacterial strains and culture method
+     </title>
+     <p>
+      The
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      standard strain PAO1 was purchased from ATCC (Manassas, VA, USA). Clinical strains of 4
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      isolates were collected from 4 hospitals in different districts of China (Supplementary Table
+      ). Bacterial strains were cultured in Luria Bertani broth, washed and diluted with sterile PBS to an appropriate cell concentration determined spectrophotometrically at 600 nm (OD
+      <sub>
+       600
+      </sub>
+      ).
+     </p>
+    </sec>
+    <sec id="Sec5">
+     <title>
+      Animals
+     </title>
+     <p>
+      8 to 12-week-old female BALB/c mice were purchased from Beijing HFK Bioscience Limited Company (Beijing, People’s Republic of China). Mice were matched for age and sex, and kept under specific pathogen-free (SPF) conditions. Female New Zealand white rabbits (weighing 2.00 ± 0.20 kg) were provided by TengXin Company (Chongqing, China).
+     </p>
+    </sec>
+    <sec id="Sec6">
+     <title>
+      Cloning, expression and purification of recombinant proteins
+     </title>
+     <p>
+      The sequences encoding PcrV (28–294), OprI (25–83) and Hcp1 (1–162) were amplified from the genome of
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      PAO1 and cloned into an expression vector derived from the pGEX-6P-2 plasmid and placed between the
+      <italic>
+       Bam
+      </italic>
+      HI and
+      <italic>
+       Xho
+      </italic>
+      I restriction sites. The primers used for gene amplification are listed in Supplementary Table
+      . The N-terminus of each protein was fused to a Glutathione S-transferase (GST) tag to facilitate protein expression and purification. The DNA sequence encoding recombinant PcrV-OprI-Hcp1 (POH) was synthesized and inserted into the pGEX-6P-2 vector between the same restriction sites by Sheng Gong Biological Engineering (Shanghai, China). The POH DNA and amino acid sequences are shown in Supplementary Table
+      , and two linkers, “GGGGS” and “GSGGSG,” were inserted among the three proteins (Fig.
+      ). For expression of recombinant proteins, these vectors were transformed into the
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      strain XL-1 Blue (Biovector Science Lab, Beijing, China), and the bacteria were grown in LB media supplemented with ampicillin (100 μg/ml) until the optical density at 600 nm (OD
+      <sub>
+       600
+      </sub>
+      ) reached 0.6. Isopropyl β-D-1-thiogalactopyranoside (IPTG) was then added to a final concentration of 0.2 mM to induce expression of the recombinant protein at 16 °C overnight.
+     </p>
+     <p>
+      All four recombinant proteins were purified according to the same protocol. In brief, the cells were harvested by centrifugation, and the bacterial pellets were resuspended in PBS and disrupted by ultrasonication. Insoluble cellular material was removed by centrifugation, and the supernatant was mixed with Glutathione Sepharose 4B agarose (GE Healthcare, Piscataway, NJ, USA). After washing the beads 4 times with PBS and adding preScission protease (GE) to the mixture to cleave the N-terminal GST tag, the supernatant containing the GST-free protein was collected and concentrated to approximately 1.0 ml and applied onto a HiLoad 16/60 Superdex 75 prep-grade gel-filtration column (Amersham Biosciences) equilibrated with His buffer (0.01 M His, 0.15 M NaCl, pH 6.0). The peak fractions from size exclusion analysis that corresponded to the recombinant protein were pooled. Endotoxin was further removed by Triton X-114 phase separation as described elsewhere
+      . Protein purity was determined by SDS-PAGE and high-performance liquid chromatography (HPLC). Protein concentration was determined using the bicinchoninic acid (BCA) method (Pierce). The endotoxin content was detected using the tachyplens ameboyto lysate assay (Houshiji cod Inc., Xiamen, China). And endotoxin levels were &lt;2.5 pg/μg for all the four recombinant proteins
+      .
+     </p>
+    </sec>
+    <sec id="Sec7">
+     <title>
+      Gel-filtration and dynamic light scattering assay
+     </title>
+     <p>
+      The oligomeric states of the fusion protein POH was determined by gel-filtration chromatography using Superdex
+      75 10/300 GL based on a method established by us previously
+      . Gel Filtration Calibration Kits (GE Healthcare, Piscataway, NJ, USA) was used to generate the calibration curve, 200 μl purified POH was loaded onto the column, and the elution volume of the corresponding peak was used to calculate the molecular weight, thereby determining the oligomeric state of the protein. For dynamic light scattering assay, POH was diluted to 0.5 mg/ml and loaded onto a dynamic light-scattering instrument (Zetasizer) equipped with an argon ion laser, the analysis was performed three times at 25 °C.
+     </p>
+    </sec>
+    <sec id="Sec8">
+     <title>
+      Chemical cross-linking analysis
+     </title>
+     <p>
+      We followed the protocol described by Fadouloglou previously
+      . In brief, POH was diluted to 1 mg/ml and incubated with glutaraldehyde at 37 °C for 30 min. The final concentration of glutaraldehyde in each reaction was 0.01%, 0.05%, 0.1%, 0.2%, 0.3%, 0.4%, and 0.5%. The cross-linking reaction was then terminated by adding loading buffer containing SDS and glycine. The protein samples were then analyzed by SDS-PAGE.
+     </p>
+    </sec>
+    <sec id="Sec9">
+     <title>
+      Immunization of the mice
+     </title>
+     <p>
+      For active immunization, purified proteins in His buffer were emulsified 1:1 (volume ratio) in Freund’s (Sigma), MF59 (Invivogen), Al(OH)
+      <sub>
+       3
+      </sub>
+      (Pierce), AlPO
+      <sub>
+       4
+      </sub>
+      (Pierce), or AS04 (GSK). Mice were intramuscularly injected with 200 μl of the emulsion containing 30 μg protein, His buffer plus adjuvant, or His buffer alone as the control on days 0, 14, and 21. And, mice were infected at day 28.
+     </p>
+     <p>
+      For passive immunization, polyclonal antibodies (pcAb) were generated in rabbits based on a previously published method
+      . The IgG in the serum from antigen immunized or unimmunized rabbits were purified by affinity chromatography with a protein A column (GE, USA), followed by desalting with PBS, the concentration of each pcAb was determined by the BCA method
+      and adjusted to a final concentration of 20 mg/ml. Two hours before infection, mice were injected intravenously with 2 mg of each pcAb, 2 mg of negative control pcAb or the same volume of PBS.
+     </p>
+    </sec>
+    <sec id="Sec10">
+     <title>
+      <italic>
+       P. aeruginosa
+      </italic>
+      infection
+     </title>
+     <p>
+      For acute pneumonia model, mice in each group were anesthetized with pentobarbital sodium followed by intracheal injection of a lethal dose of
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      isolates to measure the survival rates. The number of deaths in each group was recorded every 12 hours in a 7-day observation period post-challenge. The lethal dose of
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      strains PAO1, XN-1, BJ-15, GZ-18 and KM-9 were determined to be 1.0 × 10
+      , 6.0 × 10
+      , 2.0 × 10
+      , 2.0 × 10
+      and 4.0 × 10
+      colony-forming units (CFUs), respectively. For bacterial burdens, histopathology, inflammatory cells and cytokines analyses, mice were infected intracheal injection with 5.0 × 10
+      CFUs of PAO1. In sub-lethal challenge group, the overall health condition of animals was assessed by piloerection, posture, locomotion, breathing rate and nasal secretion, resulting in the following global disease score: unaffected (0–1), slightly affected (2–4), moderately affected (5–7), severely affected (8–10)
+      .
+     </p>
+     <p>
+      In burn model, mice were burned and challenged as described previously
+      . Briefly, the anesthetized, shaved mouse was placed supine in a device and immersed in boiling water (88 °C). A burn wound (12–15% of the body surface area, third-degree) was created after ten seconds of exposure. Immediately after burning, 0.5 ml of sterile saline solution was injected intraperitoneally into the mice for fluid replacement. Acetaminophen (0.25 mg/ml) was used as post-burn analgesic. Next, the mice were infected by subcutaneous injection of
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      strains PAO1, XN-1, BJ-15, GZ-18 and KM-9 (300 CFUs) at the burn site, respectively. 24 h after subeschar infection, bacterial burdens were determined, and survival rate of experimental mice was monitored for 7 days.
+     </p>
+    </sec>
+    <sec id="Sec11">
+     <title>
+      ELISA
+     </title>
+     <p>
+      On day 28 after primary immunization, mice were exsanguinated, and serum samples were collected for the enzyme-linked immunosorbent assay (ELISA). Wells of microtiter plates (Thermo Labsystems) were coated with PcrV, OprI, Hcp1 or POH (400ng per well) in 0.05 M carbonate buffer (pH 9.5) overnight at 4 °C. Diluted serum samples were used as the primary antibodies. The secondary antibodies were HRP-conjugated goat anti-mouse IgG (Tianjin Sungene Biotech Co., Ltd., Tianjin, China), anti-IgG1, anti-IgG2a or anti-IgG2b (Sigma). The optical density at 450 nm was measured, and the titers were defined as the highest dilution that yielded an absorbance value of more than twice the value of the pre-immune serum.
+     </p>
+    </sec>
+    <sec id="Sec12">
+     <title>
+      Aluminum adjuvant absorption capacity
+     </title>
+     <p>
+      As previously described
+      , AlPO
+      <sub>
+       4
+      </sub>
+      and Al(OH)
+      <sub>
+       3
+      </sub>
+      were diluted with His buffer to a final concentration of 1 mg/ml aluminum and then incubated with a gradient concentration of POH (0.2 to 2.0 mg/ml). The samples were mixed for 1 hour and then centrifuged. The concentration of unabsorbed protein in the supernatant was determined using the BCA assay. The assay was performed three times, and the adsorption capacity of the aluminum adjuvant was calculated according to the POH content in the supernatant.
+     </p>
+    </sec>
+    <sec id="Sec13">
+     <title>
+      Bacterial burden
+     </title>
+     <p>
+      For pneumonia model, lung tissues were collected, weighed, and homogenized in 1 ml of sterilized PBS buffer 8 and 24 hours post-challenge. For burn model, 5 mice per group were sacrificed at 24 h after subeschar infection. To determine the local spread of the challenged bacterial, about 15 × 15 mm skin sections were removed from the burned skin of infected mice at the injection/inoculation site. To determine the systemic spread, liver, spleen, and blood samples were extracted from each animal. Individual skin sections and internal organs were weighed and homogenized in PBS. All homogenates were then plated on LB plates at a 10-fold serial dilution and cultured at 37 °C for 20 hours. Number of CFUs per gram of tissue (CFUs/g) was calculated from each plate.
+     </p>
+    </sec>
+    <sec id="Sec14">
+     <title>
+      Histological analysis
+     </title>
+     <p>
+      Lung tissues were collected 24 hours post-infection from the pneumonia model mice. And skin sections were obtained 24 hours post-burned from the burn model. Lung and skin samples were fixed in neutral 10% formalin, embedded in paraffin, sectioned, and stained with hematoxylin and eosin (HE). The sections were then viewed at 100× magnifications by a single pathologist. Each lung section was given a score of 0–4 (no abnormality to most severe) according to established criteria based on hyperemia, edema, hemorrhage, and neutrophil infiltration
+      .
+     </p>
+    </sec>
+    <sec id="Sec15">
+     <title>
+      Evaluation of inflammation
+     </title>
+     <p>
+      To quantify the neutrophils infiltration, cells in BALF from mice 24 hours post challenge were collected and stained using the following antibodies: PE/Cy7 anti-mouse CD45 and APC/cy7 anti-mouse Ly-6G (Biolegend, Inc, USA). Samples were then analyzed using BD FACSArray softwareTM on a BD FACS Array flow cytometer (BD Biosciences).
+     </p>
+     <p>
+      To quantify pro-inflammatory responses, cytokines such as TNF-α, IL-1β and IL-6 in BALF were collected 8 and 24 hours after infection with PAO1. The concentrations of pro-inflammatory cytokines were determined using a Mouse Quantikine ELISA kit for TNF-α, IL-1β or IL-6 (R&amp;D Systems, USA), respectively, according to the manufacturer’s instructions.
+     </p>
+    </sec>
+    <sec id="Sec16">
+     <title>
+      Cell proliferation and cytokine assays
+     </title>
+     <p>
+      Lymphocyte proliferation was determined using the cellular incorporation of 5-bromo-2-deoxyuridine (BrdU, Roche, Germany) and measured by absorbance at 450 nm
+      , and the stimulation index (SI) was calculated by dividing the absorbance of stimulated cells by absorbance of unstimulated cells. The lymphocyte proliferation rates and the phenotype of the proliferative cells was evaluated by using the intracellular fluorescent dye 5-(and -6)-carboxyfluorescein diacetate succinimidyl ester (CFSE) followed by Flow cytometric analysis
+      . APC/Cy7 anti-mouse CD3 Antibody (17A2, Biolegend), PerCP/Cy5.5 anti-mouse CD4 Antibody (RM4-4, Biolegend), APC anti-mouse CD8a Antibody (53−6.7, Biolegend) and PE anti-mouse CD19 Antibody (1D3/CD19, Biolegend) were used for cells staining. Cells treated with 10 mM phytohemagglutinin-A (PHA) (Gibco, USA) or not served as positive and negative controls, respectively. The levels of IFN-γ, IL-4 and IL-17 were measured in 72 hours cultures by examining cell-free culture supernatant fluid using a Mouse Quantikine ELISA kit for IFN-γ, IL-4 or IL-17 (R&amp;D Systems, USA), respectively.
+     </p>
+    </sec>
+    <sec id="Sec17">
+     <title>
+      Indirect immunofluorescence
+     </title>
+     <p>
+      Indirect immunofluorescence was carried out based on a method established by us previously
+      .
+     </p>
+    </sec>
+    <sec id="Sec18">
+     <title>
+      Opsonophagocytic killing assay
+     </title>
+     <p>
+      The antibody opsonophagocytic killing assay was carried out as described by Burton and Nahm
+      . Briefly, HL-60 cells (ATCC, CCL-240) were differentiated into granulocyte-like cells in growth medium containing 100 mM N’,N-dimethylformamide (Sangon, Shanghai, China) for 5 days. Sera samples from immunized mice containing opsonic antibodies were heat-inactivated (56 °C, 30 min) and serially diluted with opsonization buffer (mix of 80 ml of sterile water, 10 ml of 10× Hank’s balanced salt solution, 10 ml of 1% gelatin, and 5.3 ml of fetal bovine serum). The assay was performed in 96-well plates, with each well containing the following components: 40 μl of 4 × 10
+      HL60 cells, 10
+      CFUs of PAO1 in 10 μl of opsonophagocytic buffer, 20 μl of serum, and 10 μl of 1% infant rabbit serum as a complement source (Pel-Freez). After a 2-h incubation, 10 μl of each sample was plated on agar medium. This experiment was performed in triplicate for each sample. The opsonophagocytic killing effect was defined as a reduction in CFUs after overnight growth compared with the CFUs in the sera from unimmunized mice.
+     </p>
+    </sec>
+    <sec id="Sec19">
+     <title>
+      Statistical analysis
+     </title>
+     <p>
+      Data are presented as means ± Standard Deviation (SD) or means ± Standard Error of Mean (SEM). Scoring experiments were performed in a blind manner. Survival data were analyzed using Kaplan–Meier survival curves. To calculate
+      <italic>
+       P
+      </italic>
+      values, nonparametric Mann-Whitney test, log-rank test, Student’s t-test, one-way ANOVA with Bonferroni correction were used depending on sample distribution and variation as mentioned in figure legends. SPSS 13.0 (SPSS, Inc, USA) and GraphPad Prism 6.0 (GraphPad Software, Inc., USA) were used to perform statistical analyses. Significance was accepted at
+      <italic>
+       P
+      </italic>
+      &lt; 0.05.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec20" sec-type="results">
+    <title>
+     Results
+    </title>
+    <sec id="Sec21">
+     <title>
+      POH is soluble and exists as a dimer in solution
+     </title>
+     <p>
+      As shown in Fig.
+      , all 4 proteins (PcrV, OprI, Hcp1 and POH) expressed in
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      were soluble, and the purity was up to 95% as determined by SDS-PAGE after two rounds of chromatography. The molecular weights of these recombinant proteins were in accordance with their predicted molecular masses (29.6, 6.4, 17.4, and 54.1 kDa for PcrV, OprI, Hcp1 and POH, respectively).
+     </p>
+     <p>
+      The oligomeric state and homogeneity of recombinant proteins are of great importance for vaccine development because of their impact on antigen immunogenicity. As shown in Fig.
+      , the elution volumes for POH and the protein standard aldolase (158 kDa) and conalbumin (75 kDa) were 9.2 ml, 8.8 ml and 9.6 ml, respectively. The molecular weight of POH was calculated as 108.2 kDa. Additionally, POH formed a single peak when detected by dynamic light scattering (Fig.
+      ). The size of the POH particle was approximately 6.9 ± 1.7 nm, and thereby, the estimated molecular weight was approximately 91.2 ± 22.4 kDa. The theoretical molecular weight of POH is 54.1 kDa, and thus, it appears to be a dimer in solution. This was further confirmed by a cross-linking assay, where a band corresponding to dimerized POH was observed on the gel in the presence of the glutaraldehyde, and the amount of the linked POH dimer increased in a glutaraldehyde dose-dependent manner (Fig.
+      ).
+     </p>
+    </sec>
+    <sec id="Sec22">
+     <title>
+      Al(OH)
+      <sub>
+       3
+      </sub>
+      is an optimal adjuvant for POH immunization
+     </title>
+     <p>
+      To choose an optimal adjuvant for POH immunization, mice were immunized with POH formulated with different adjuvants (Freund’s, AS04, MF59, Al(OH)
+      <sub>
+       3
+      </sub>
+      and AlPO
+      <sub>
+       4
+      </sub>
+      ). The immunized mice were then challenged with lethal dose of PAO1 to evaluate the differences in protective efficacy. The survival rate of mice vaccinated with adjuvant-free POH was 30%, suggesting that vaccination with recombinant POH alone was able to provide partial protection (Fig.
+      ). Further, improved survival rates were observed when an adjuvant is formulated with the fusion protein, which emphasis the importance of adjuvant for enhancing of protective efficacy (Fig.
+      ). Furthermore, the titers of POH-, PcrV-, OprI-, and Hcp1-specific antibodies were not significantly different among the four adjuvant groups (Fig.
+      ). Moreover, adjuvant absorb assay showed that Al(OH)
+      <sub>
+       3
+      </sub>
+      exhibited a higher absorbance capacity of POH than did AlPO
+      <sub>
+       4
+      </sub>
+      (Fig.
+      ). As Freund’s adjuvant is not recommended for use in humans, and no significant difference in the level of antigen-specific antibodies and protection efficiency was observed among the other adjuvants, Al(OH)
+      <sub>
+       3
+      </sub>
+      was chosen as the optimal adjuvant for the subsequent studies.
+     </p>
+    </sec>
+    <sec id="Sec23">
+     <title>
+      POH vaccination protects mice from pneumonia by reducing bacterial burden and inflammation
+     </title>
+     <p>
+      To further confirm the protective effects of POH immunization, mice were immunized with trivalent POH and a single unit of PcrV, OprI, and Hcp1. As shown in Fig.
+      (left and right panel), at the end of the observation period, mice vaccinated with the PcrV, OprI, Hcp1 and POH both exhibited higher survival rates than the control group. And when mice challenged with 2 × LD
+      <sub>
+       50
+      </sub>
+      (1.0 × 10
+      CFUs/mouse), the trivalent POH group showed a higher protective efficacy than did vaccination with PcrV, OprI, or Hcp1 alone (
+      <italic>
+       P
+      </italic>
+      <sub>
+       POH-PcrV
+      </sub>
+      = 0.0412,
+      <italic>
+       P
+      </italic>
+      <sub>
+       POH-OprI
+      </sub>
+      = 0.0197, and
+      <italic>
+       P
+      </italic>
+      <sub>
+       POH-Hcp1
+      </sub>
+      = 0.0140, Fig.
+      left panel). Moreover, as the challenging dose reached to 5 × LD
+      <sub>
+       50
+      </sub>
+      (2.5 × 10
+      CFUs/mouse), the trivalent POH group showed a significantly higher protective efficacy than did vaccination with PcrV, OprI, or Hcp1 alone (
+      <italic>
+       P
+      </italic>
+      <sub>
+       POH-PcrV
+      </sub>
+      = 0.0064,
+      <italic>
+       P
+      </italic>
+      <sub>
+       POH-OprI
+      </sub>
+      = 0.0009, and
+      <italic>
+       P
+      </italic>
+      <sub>
+       POH-Hcp1
+      </sub>
+      = 0.0010, Fig.
+      right panel). In addition, there was no significant difference in survival between the mice immunized with trivalent POH and those immunized with a mixture of PcrV, OprI, and Hcp1 (Fig.
+      ). Further, the titers of specific antibody against each antigen were not statistically different between POH and single antigen immunized mice (Fig.
+      ). Therefore, vaccination with POH generated improved protective effect than a single unit of PcrV, OprI, and Hcp1.
+     </p>
+     <p>
+      Next, the POH-immunized mice were challenged with a sub-lethal dose of
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      to investigate the mechanism for POH-induced protection. First, the lungs from immunized and control mice were harvested, and bacterial burden at 8 and 24 hours post-infection was evaluated. As shown in Fig.
+      , the vaccinated groups showed significantly lower bacterial loads than Al(OH)
+      <sub>
+       3
+      </sub>
+      group 8 hours post-infection, but there was no difference between these four vaccinated groups. Further, the reduction in
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      colonization was significantly enhanced in the POH group compared with that of the PcrV, OprI and Hcp1 groups 24 hours post-infection (Fig.
+      ). These results suggested that POH was able to partially inhibit
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      growth and colonization
+      <italic>
+       in vivo
+      </italic>
+      .
+     </p>
+     <p>
+      Histological analysis then showed that the lungs from the mice in the recombinant vaccine immunized groups exhibited reduced alveolar disruption, vascular leakage and deposition of bacterial microcolonies in the alveoli after infection compared with the Al(OH)
+      <sub>
+       3
+      </sub>
+      group (Fig.
+      ). Furthermore, typical pathological changes were observed in mice immunized with Al(OH)
+      <sub>
+       3
+      </sub>
+      (Fig.
+      ). However, mice immunized with POH exhibited reduced inflammatory cell infiltration, bleeding, and tissue damage compared with the Al(OH)
+      <sub>
+       3
+      </sub>
+      group (Fig.
+      ). Taken together, the results demonstrate that the severity of lung damage was significantly lower in the POH group than in the OprI, Hcp1 and Al(OH)
+      <sub>
+       3
+      </sub>
+      groups (Fig.
+      ).
+     </p>
+     <p>
+      Markers of inflammation including neutrophil infiltration and proinflammatory cytokine production in the BALF, such as TNF-α, IL-1β and IL-6, were determined 8 and 24 hours post-infection. Neutrophil number and percentage relative to other leukocytes was significantly reduced in the BALF of mice immunized with POH (Fig.
+      ), which was in consistent with reduced cell infiltration observed by histological analysis. Despite being higher than in the POH-immunized mice, the levels of neutrophil infiltration in the PcrV-, OprI- and Hcp1-immunized mice decreased compared with that in the Al(OH)
+      <sub>
+       3
+      </sub>
+      immunized mice (Fig.
+      ). Similar results were observed in proinflammatory cytokine secretion (Fig.
+      and Supplementary Fig.
+      ). Taken together, these results confirm the protective effect of POH vaccination due to reduced bacterial burden, pathology and pro-inflammatory cytokine production.
+     </p>
+    </sec>
+    <sec id="Sec24">
+     <title>
+      POH vaccination protects burned mice from
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      infection
+     </title>
+     <p>
+      A third-degree burn was induced on the backs of immunized mice with hot water and was confirmed by histological examination (Fig.
+      ). The skin structure was destroyed, and the damaged tissues lacked nuclei. The mice were then subcutaneously infected with
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      to evaluate the efficacy of the POH-induced immunity. As shown in Fig.
+      , all of the mice in the unchallenged burn control group survived, the mice vaccinated with the POH, PcrV, OprI or Hcp1 exhibited higher survival rates (90%, 60%, 30%, and 30% at 168 hours post-infection, respectively) than did mice in the Al(OH)
+      <sub>
+       3
+      </sub>
+      group (10% survival,) or the His group (no mice survived),and the survival rates of the POH and PcrV groups were significantly higher than that of the Al(OH)
+      <sub>
+       3
+      </sub>
+      group (
+      <italic>
+       P
+      </italic>
+      <sub>
+       POH-Al(OH)3
+      </sub>
+      = 0.0002,
+      <italic>
+       P
+      </italic>
+      <sub>
+       PcrV-Al(OH)3
+      </sub>
+      = 0.0190). The trivalent POH vaccine also yielded a significantly higher protective effect than did the OprI or Hcp1 vaccines alone (
+      <italic>
+       P
+      </italic>
+      <sub>
+       POH-OprI
+      </sub>
+      = 0.0077, and
+      <italic>
+       P
+      </italic>
+      <sub>
+       POH-Hcp1
+      </sub>
+      = 0.0072), as shown in Fig.
+      .
+     </p>
+     <p>
+      The bacterial loads in the liver, spleen, blood, and skin were quantified to investigate the possible mechanism of the POH-induced immune response. Immunization with POH significantly decreased the bacterial burdens in the liver, spleen, and blood compared with those of the control groups (
+      <italic>
+       P
+      </italic>
+      &lt; 0.0001, Fig.
+      ). In addition, the bacterial loads in the skin were also decreased in the POH vaccinated mice, but these reductions were not significant compared with those in the control group (Fig.
+      ). Therefore, these results strongly indicate that the trivalent POH vaccine induces protective effects in a lethal
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      burn model.
+     </p>
+    </sec>
+    <sec id="Sec25">
+     <title>
+      POH vaccination elicits Th1, Th2 and Th17 responses
+     </title>
+     <p>
+      To understand the POH vaccination-mediated protection, the immune response in the spleen was also evaluated in addition to assessing serum antibodies. First, the stimulation index of splenocytes from mice immunized with POH, PcrV, OprI or Hcp1 was analyzed. As shown in Fig.
+      , the stimulation indices of mouse splenocytes treated with POH, PcrV, OprI or Hcp1 were all significantly higher than that of the Al(OH)
+      <sub>
+       3
+      </sub>
+      control group (
+      <italic>
+       P
+      </italic>
+      <sub>
+       POH
+      </sub>
+      &lt; 0.0001,
+      <italic>
+       P
+      </italic>
+      <sub>
+       PcrV
+      </sub>
+      &lt; 0.0001,
+      <italic>
+       P
+      </italic>
+      <sub>
+       OprI
+      </sub>
+      = 0.0330,
+      <italic>
+       P
+      </italic>
+      <sub>
+       Hcp1
+      </sub>
+      = 0.0007). The mice immunized with POH achieved the highest splenocyte lympho-proliferation among the four groups, and this proliferation was significantly higher than that of OprI or Hcp1 alone (
+      <italic>
+       P
+      </italic>
+      <sub>
+       POH-OprI
+      </sub>
+      &lt; 0.0001, and
+      <italic>
+       P
+      </italic>
+      <sub>
+       POH-Hcp1
+      </sub>
+      = 0.0028) (Fig.
+      ). However, there was no difference between the POH and the PcrV group (Fig.
+      ).
+     </p>
+     <p>
+      The lymphocyte proliferation rates of splenocytes from mice immunized with POH, PcrV, OprI or Hcp1 were consistent with SI (Supplementary Table
+      and Figure
+      ). And the proliferation of different phenotypes (CD3
+      CD19
+      , CD3
+      CD4
+      , CD3
+      CD8
+      cells) were observed with different extent. Notably, the ratio of CD4
+      /CD8
+      T cells in all proteins immunization groups increased significantly compared with that of the control group (
+      <italic>
+       P
+      </italic>
+      &lt; 0.05), which showed that the CD4
+      T cell population was predominant in the proliferative T cells (Supplementary Table
+      ).
+     </p>
+     <p>
+      Next, the cytokine levels in the supernatants were measured after stimulation with recombinant proteins. The splenocytes from the vaccinated mice produced significantly more IL4, IFN-γ and IL-17A when stimulated with the corresponding recombinant proteins than did the Al(OH)
+      <sub>
+       3
+      </sub>
+      control group (
+      <italic>
+       P
+      </italic>
+      &lt; 0.0001, Fig.
+      ). Furthermore, the splenocytes from the POH group produced the greatest amounts of cytokines (Fig.
+      ), demonstrating that splenocytes from mice immunized with POH could produce more IL4, IFN-γ and IL-17A following antigen encounters.
+     </p>
+     <p>
+      In addition, to determine the type of antibody response induced by the recombinant proteins, the levels of IgG subgroups (IgG1, IgG2a and IgG2b) in the immunized mouse sera were also measured. As shown in Fig.
+      , POH induced higher levels of antigen-specific IgG1, IgG2a and IgG2b subtypes compared with those in the Al(OH)
+      <sub>
+       3
+      </sub>
+      control group (
+      <italic>
+       P
+      </italic>
+      <sub>
+       IgG1
+      </sub>
+      &lt; 0.0001,
+      <italic>
+       P
+      </italic>
+      <sub>
+       IgG2a
+      </sub>
+      = 0.0003 and
+      <italic>
+       P
+      </italic>
+      <sub>
+       IgG2b
+      </sub>
+      = 0.0001). Furthermore, the level of antigen-specific IgG1 was approximately 160 times higher than IgG2a (Fig.
+      ). IgG1 and IgG2a are markers for Th2 and Th1 responses, respectively. These results suggest that a Th2-biased response was induced, which is consistent with the trend of cytokine production in the supernatants.
+     </p>
+    </sec>
+    <sec id="Sec26">
+     <title>
+      POH specific antibodies are functional
+      <italic>
+       in vitro
+      </italic>
+      and
+      <italic>
+       in vivo
+      </italic>
+     </title>
+     <p>
+      Indirect immunofluorescence assay was carried out to validate the interaction between pcAb and PAO1. The results clearly indicated that no immunofluorescence was detected in the absence of antigen specific pcAbs, whereas positive indirect immunofluorescence signals indicated the binding of four kinds of pcAb with PAO1 (Fig.
+      ). These results indicated that all pcAbs generated in this study were able to bind PAO1
+      <italic>
+       in vitro
+      </italic>
+      , and the binding of POH-pcAb with PAO1 may essential in clearing and controlling the infection.
+     </p>
+     <p>
+      To investigate whether the POH-specific antibodies were independently protective, an OPA that measured antibody- and complement-mediated bacterial killing was performed
+      <italic>
+       in vitro
+      </italic>
+      . The killing assay was performed using immune cells (neutrophils) that play a critical role in the host clearance of
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      . In the presence of HL60 phagocytic cells and complement, all four pcAbs exhibited significantly increased opsonophagocytic activity for
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      (
+      <italic>
+       P
+      </italic>
+      &lt; 0.0001, Fig.
+      ), the percentage of killed
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      in the POH-pcAb group (70.3%) was significantly higher than that in the PcrV-pcAb group (56.1%,
+      <italic>
+       P
+      </italic>
+      <sub>
+       POH-PcrV
+      </sub>
+      &lt; 0.0001), OprI-pcAb group (58.6%,
+      <italic>
+       P
+      </italic>
+      <sub>
+       POH-OprI
+      </sub>
+      = 0.0004), and Hcp1-pcAb group (40.4%,
+      <italic>
+       P
+      </italic>
+      <sub>
+       POH-Hcp1
+      </sub>
+      &lt; 0.0001, Fig.
+      ). These results indicate that the POH-specific antibodies were the most effective at killing
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      . Thus, the antibody response may functionally regulate phagocytosis and killing of
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      by innate immune cells.
+     </p>
+     <p>
+      Then, POH-specific antibody-mediated protection was verified
+      <italic>
+       in vivo
+      </italic>
+      by passive immunization in an acute pneumonia model and a mouse burn model. As shown in Fig.
+      , mice immunized with POH-pcAb, PcrV-pcAb, OprI-pcAb, and Hcp1-pcAb all displayed higher survival rates (80%, 50%, 30% and 40%, respectively) than did the PBS control group (10% survival) in the acute pneumonia model. The mice that were passively immunized with POH-pcAb exhibited the highest survival rate, which was significantly higher than that of any other group (
+      <italic>
+       P
+      </italic>
+      &lt; 0.05, Fig.
+      ). For the other three experimental groups immunized with antibodies generated using only a single antigen, the mice immunized with PcrV-pcAb exhibited the highest survival rate when compared with mice immunized with either OprI-pcAb or Hcp1-pcAb (Fig.
+      ). In addition, passive immunization extended the survival time of mice, in the PBS control group, the mice did not survive more than 2 days. In contrast, the mean survival time of the immunized mice was approximately 4 days (Fig.
+      ). In addition, similar survival results were observed in the mouse burn model (Fig.
+      ). Notably, a higher survival rate was not observed in mice that were immunized with control pcAb compared with that of mice immunized with PBS (Fig.
+      ), which indicates that the protection efficacy observed was directly provided by antigen-specific pcAbs.
+     </p>
+    </sec>
+    <sec id="Sec27">
+     <title>
+      POH vaccination protects mice against clinical
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      strains in murine pneumonia and burn models
+     </title>
+     <p>
+      To determine whether POH could provide broad protection, immunized mice were challenged with four different clinical strains of
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      . The four clinical strains were chosen from a library established in our lab based on their representation and diversity. The library contains more than 400 clinical isolates collected from different districts in China. Information regarding the 4 isolates is listed in Supplementary Table
+      . As shown in Fig.
+      , all 4 clinical strains exhibited different pathogenicity and virulence in mice, as indicated by the survival rates in the His control groups. POH was able to protect 60% to 70% of mice from the clinical isolate challenge when compared with the Al(OH)
+      <sub>
+       3
+      </sub>
+      controls (
+      <italic>
+       P
+      </italic>
+      <sub>
+       XN-1
+      </sub>
+      = 0.0002,
+      <italic>
+       P
+      </italic>
+      <sub>
+       BJ-15
+      </sub>
+      = 0.0011,
+      <italic>
+       P
+      </italic>
+      <sub>
+       GZ-18
+      </sub>
+      = 0.0003,
+      <italic>
+       P
+      </italic>
+      <sub>
+       KM-9
+      </sub>
+      = 0.0024, Fig.
+      ). In addition, the four clinical strains exhibited different pathogenicity and virulence in the burn mice, as shown by the survival rates in the His control groups (Fig.
+      ). POH was able to protect 50% to 80% of mice from the clinical isolate challenge when compared with the Al(OH)
+      <sub>
+       3
+      </sub>
+      controls (
+      <italic>
+       P
+      </italic>
+      <sub>
+       XN-1
+      </sub>
+      = 0.0014,
+      <italic>
+       P
+      </italic>
+      <sub>
+       BJ-15
+      </sub>
+      = 0.0003,
+      <italic>
+       P
+      </italic>
+      <sub>
+       GZ-18
+      </sub>
+      = 0.0026 and
+      <italic>
+       P
+      </italic>
+      <sub>
+       KM-9
+      </sub>
+      = 0.0016), as shown in Fig.
+      .
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec28" sec-type="discussion">
+    <title>
+     Discussion
+    </title>
+    <p>
+     Antigens are critical for the development of effective vaccines. In this study, three antigens were selected for vaccine development against
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     infection for the following reasons. First, the immunogenicity and protective efficacy of OprI and PcrV have been well studied elsewhere. Both active immunization with OprI
+     and passive immunization with PcrV
+     can protect animals from fatal
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     challenge in different animal models, and the efficacy of both agents have already been evaluated in clinical trials
+     . Hcp1 was a new candidate antigen screened by our lab using reverse immunology. It exhibited strong immunogenicity in mice and was able to partially protect mice form
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     challenge. Second, the sequences of all three antigens were highly conserved among different
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     isolates, and therefore, they may provide cross-protective efficacy during challenge with different clinical strains. Third, single target vaccines may be inadequate for inducing an effective immune response. As shown in this study, immunization with any of the three antigens resulting in lower than 50% of protection. However, higher than 80% of protection was observed when immunization with the 3 proteins together or as a fusion protein.
+    </p>
+    <p>
+     Interestingly, a number of publications have focused on the protective efficacy of polyclonal or monoclonal antibodies against PcrV during
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     infection
+     , but few reports have described vaccines based on this antigen. We speculate that this may be attributed to the pool solubility of this protein. In our previous work, a number of PcrV constructs were designed and cloned into different vectors with different tags, only a truncated form of PcrV (Glutamic
+     <sub>
+      28
+     </sub>
+     -Isoleucine
+     <sub>
+      294
+     </sub>
+     ) was partially soluble expressed in vector pGEX-6p-2 with a N-terminal GST tag, and this protein was soluble after cleaving the GST tag. Similarly, when designing the trivalent protein containing the three antigens, we also found that both the order of these proteins and the linker have a significant impact on the expression and solubility of the fusion protein. Only three proteins in a tandem sequence of POH can be expressed as soluble proteins, and the other two proteins and the linkers may facilitate the expression and folding of PcrV. Further, as shown in Fig.
+     , the titer of antigen specific antibodies induced by POH was similar to that induced by the 3 proteins, respectively. This result indicated that POH immunization would not cause interference among each vaccine component in induction of protective antibodies.
+    </p>
+    <p>
+     The question as to what type of immunity is essential for an effective
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     vaccine is still controversial. Early studies emphasized the importance of high levels of opsonophagocytic antibodies in the clearance of the infection. For example, antibodies against alginate have been shown to correlate with less
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     infection in CF patients
+     , and passive immunization with pcAb or MAbs against
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     antigens have already shown potential in the treatment of acute
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     pneumonia
+     . However, more recent studies have suggested that antibodies alone are insufficient to protect against
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     infection, and it seems that multiple cellular and humoral facets of the immune system must be simultaneously activated to provide protection. Some studies have described a Th1-dominated response, independent of antibody production that plays a protective role during chronic
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     pneumonia
+     . Another study also reported that PopB-immunized mice were protected from lethal pneumonia in an antibody-independent, IL-17-dependent manner
+     . In addition, some other immune system components, such as neutrophils
+     , macrophages
+     , complement
+     , NKT cells
+     and Th22 cells
+     , have also been reported to provide protection against
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     infection.
+    </p>
+    <p>
+     In this study, antigen specific Th1, Th2, and Th17 cell responses in the spleen and antibodies in the serum were observed in POH immunized mice, thus the comprehensive immune response to vaccination could be the reason for the effective POH-induced protection. However, this raised the question that which type of immune response was pivotal to POH-induced protection. In this study, opsonophagocytic killing assay showed that
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     could be killed by POH specific antibody efficiently
+     <italic>
+      in vitro
+     </italic>
+     . Besides, passive immunization with POH specific antibodies resulting in 80% of protection against
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     infection in mice, and the protection was obtained in a dose dependent manner (data not shown). These results suggesting that antibody is critical in POH mediated protection, and this was in consistence with former reports that OprI- and PcrV-specific antibodies were critical for protection against
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     infection
+     . Moreover, protection was also observed in the burn model in this study, as the disorder of immune function followed the tissue damage due to the burn, this protection was mainly provided by antibodies induced before the burn. On the other hand, up to 90% of protection was observed in the pneumonia model by active immunization, which was slightly higher than that observed in passive immunization, this difference indicated that cellular immune response was also contributed to the protection induced by POH immunization.
+    </p>
+    <p>
+     Furthermore, due to the conservation of the sequences of the three antigens, cross-protective efficacy was observed among different clinical isolates of
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     . These results indicated that POH is a promising antigen for the development of a vaccine against
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     . Typically, nasal immunization is considered to be the first choice for immunization against mucosal infection. In the current study, although intramuscular immunization was used in the pneumonia model, high protective efficacy accompanied by a lower bacterial burden and inflammatory cell infiltration was also observed. This may be explained by the adequate blood supply to the lung tissue, suggesting that intramuscular immunization can be used as an alternative route for immunization against pneumonia.
+    </p>
+    <p>
+     Taken together, our results showed that immunization with the trivalent candidate antigen (POH) designed in this study significantly reduced acute skin infection and pneumonia due to
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     in mice. Furthermore, passive immunization suggested that humoral immune responses play a dominant role in POH-mediated protection. Moreover, POH immunization induced a cross-protective efficacy among different clinical isolates of
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     . Therefore, POH can be regarded as a novel
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     vaccine candidate. Because
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     has posed therapeutic challenges worldwide as some strains have become resistant to nearly all front-line antibiotics, our results provided the basis for an alternative strategy for the prevention of
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     infection by immunization.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="supplementary-material">
+    <title>
+     Electronic supplementary material
+    </title>
+    <sec id="Sec29">
+     <p/>
+    </sec>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

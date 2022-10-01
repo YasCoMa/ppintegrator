@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1998/Math/MathML" xmlns:ns1="http://www.w3.org/1999/xlink">
+ <title>
+  Comparative Proteomic Profiling of Pancreatic Ductal Adenocarcinoma Cell Lines
+ </title>
+ <abstract>
+  <p>
+   Pancreatic cancer is one of the most fatal cancers and is associated with limited diagnostic and therapeutic modalities. Currently, gemcitabine is the only effective drug and represents the preferred first-line treatment for chemotherapy. However, a high level of intrinsic or acquired resistance of pancreatic cancer to gemcitabine can contribute to the failure of gemcitabine treatment. To investigate the underlying molecular mechanisms for gemcitabine resistance in pancreatic cancer, we performed label-free quantification of protein expression in intrinsic gemcitabine-resistant and - sensitive human pancreatic adenocarcinoma cell lines using our improved proteomic strategy, combined with filter-aided sample preparation, single-shot liquid chromatography-mass spectrometry, enhanced spectral counting, and a statistical method based on a power law global error model. We identified 1931 proteins and quantified 787 differentially expressed proteins in the BxPC3, PANC-1, and HPDE cell lines. Bioinformatics analysis identified 15 epithelial to mesenchymal transition (EMT) markers and 13 EMT-related proteins that were closely associated with drug resistance were differentially expressed. Interestingly, 8 of these proteins were involved in glutathione and cysteine/methionine metabolism. These results suggest that proteins related to the EMT and glutathione metabolism play important roles in the development of intrinsic gemcitabine resistance by pancreatic cancer cell lines.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec sec-type="intro">
+    <title>
+     INTRODUCTION
+    </title>
+    <p>
+     Pancreatic cancer (PC) has a very poor prognosis, making it one of the five most common causes of cancer mortality world-wide (
+     ;
+     ). Because the diagnosis of this disease often occurs at a late stage and shows poor responsiveness to chemotherapy and radiation therapy, it is associated with a dismal 5-year survival rate of less than 3% (
+     ). Pancreatic ductal adenocarcinoma (PDAC) is the most common type of pancreatic cancer, accounting for up to 90% of cases, and is thought to develop by a multistep process that involves intermediate precursor lesions known as pancreatic intraepithelial neoplasias (PanINs) (
+     ). PDAC arises as a consequence of mutations and/or the silencing of several oncogenes and tumor suppressor genes, including
+     <italic>
+      KRAS
+     </italic>
+     ,
+     <italic>
+      TP53
+     </italic>
+     ,
+     <italic>
+      CDKN2A
+     </italic>
+     ,
+     <italic>
+      EGFR
+     </italic>
+     , and
+     <italic>
+      SMAD4
+     </italic>
+     , which lead to pancreatic tumor development and resistance to chemotherapeutic agents (
+     ).
+    </p>
+    <p>
+     Gemcitabine (2′-deoxy-2′-difluorodeoxycytidine), the nucleoside analog, is the leading therapeutic for pancreatic cancer that is used to improve quality of life and overall survival (
+     ). However, the median survival time of patients treated with gemcitabine is only 6.3 months (
+     ). Intrinsic or acquired resistance to this drug is a major factor in the failure of this agent to control pancreatic cancer, and this has renewed the interest in developing novel therapeutic agents and combinations (
+     ). Although several combination remedies with gemcitabine, as well as novel agents, have prolonged survival rates compared with gemcitabine alone (
+     ), drug resistance and toxicity still decrease the overall clinical usefulness of these therapeutic agents. Therefore, a better understanding of the cellular and molecular mechanisms involved in gemcitabine resistance is imperative for improving drug efficiency and patient outcomes.
+    </p>
+    <p>
+     Tumor heterogeneity is a prominent feature of pancreatic malignancies, which represents a major challenge to studying PDAC (
+     ;
+     ;
+     ). Therefore, cell line models have become invaluable tools for PDAC research (
+     ;
+     ). Large-scale proteomic analyses using in vitro cell line models are needed to understand the molecular mechanisms underlying drug resistance and PDAC biology. However, few comparative analyses of pancreatic cell proteomes that underlie drug resistance and PDAC biology have been reported (
+     ;
+     ;
+     ;
+     ;
+     ;
+     ).
+    </p>
+    <p>
+     The BxPC3 and PANC-1 cell lines are well established and widely used in research on the development of PDAC and drug resistance (
+     ;
+     ;
+     ;
+     ). Although there are many apparent contradictory reports regarding both the phenotype and genotype of these two cell lines, they have been designated KRAS-independent cell lines (
+     ). Interestingly, recent studies showed that BxPC3 cells with wild-type KRAS are the most sensitive to gemcitabine (
+     ;
+     ). By contrast, PANC-1 cells, which express mutant KRAS, are the most resistant to gemcitabine. Furthermore, these two pancreatic cancer cell lines have different genotypes and phenotypes associated with the stage of tumor development (
+     ) (
+     ;
+     ). Hence, a comprehensive proteomics analysis of these cell lines would provide a valuable resource for studying the possible mechanisms associated with intrinsic gemcitabine resistance and PDAC development.
+    </p>
+    <p>
+     In this study, we performed a comparative proteomic analysis between the PDAC cell lines (BxPC3 and PANC-1) and a normal cell line (HPDE) using an improved proteomic strategy. The approach included filter-aided sample preparation (FASP), single-shot LC-MS/MS, spectral counting using the distributed normalized spectral abundance factors (dNSAF), and a statistical approach using a power law global error model (PLGEM). We identified a total of 1931 proteins (FDR &lt; 1%), of which 837 were differentially expressed in the PDAC cell lines. Finally, we validated the reliability of our proteomic data using western blotting for seven differentially expressed proteins (VIM, CDH1, CTNNB1, FGFBP1, IQGAP1, FLNB, and STAT3).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="materials|methods">
+    <title>
+     MATERIALS AND METHODS
+    </title>
+    <sec>
+     <title>
+      Materials
+     </title>
+     <p>
+      Dulbecco’s Modified Eagle Medium (DMEM) and Roswell Park Memorial Institute (RPMI-1640) media were acquired from Welgene (Korea). Keratinocyte-SFM medium, fetal bovine serum (FBS), and a BCA Protein Assay Kit (reducing reagent compatible) were purchased from Pierce (USA). Amicon Ultra 0.5 ml-30 K was purchased from Millipore (UK). We acquired the tC18 Sep-Pak cartridge from Waters (USA). Sequence-grade modified trypsin and MTS assay kits were purchased from Promega (USA). Anti-vimentin (sc-7557), anti-STAT3 (sc-482), anti-cadherin 1 (sc-7870), anti-beta catenin (sc-7963), anti-IQGAP1 (sc-10792), and anti-filamin beta (sc-376241) were purchased from Santa Cruz Biotechnology (USA). Anti-FGFBP1 (ab67931) was purchased from Abcam (UK).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Cell culture
+     </title>
+     <p>
+      Human pancreatic cancer cell lines (BxPC3; CRL-1687, PANC-1; CRL-1469) were purchased from the American Tissue Culture Collection (ATCC, USA). The immortalized epithelial cell line (HPDE) that derived from normal human pancreatic duct was provided by Dr. Ming-Sound Tsao (Ontario Cancer Institute, Canada) (
+      ;
+      ;
+      ;
+      ). PANC-1 cells were maintained in DMEM with 10% FBS, 100 U/ml penicillin, and 100 mg/mL streptomycin. BxPC3 cells were maintained in RPMI-1640 with 10% FBS, 100 U/ml penicillin, and 100 mg/mL streptomycin. HPDE cells were maintained in Keratinocyte-SFM media with bovine pituitary extract (BPE) and human recombinant EGF. All cells were cultured in a 37°C incubator with 5% CO
+      <sub>
+       2
+      </sub>
+      and a humidified atmosphere.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      IC
+      <sub>
+       50
+      </sub>
+      assay
+     </title>
+     <p>
+      Each cell line was seeded in a 96-well cell culture plate at 2,500 cells per well. After 24 h, cells were treated with gemcitabine (0–20 nM and 0–1 μM for BxPC3 and PANC-1 cells, respectively). After treatment with gemcitabine, cells were incubated for 72 or 96 h, and then cell viability was analyzed using an MTS assay kit to assess the gemcitabine resistance of each cell line. All samples were analyzed in duplicate.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Sample preparation
+     </title>
+     <p>
+      Peptide samples were prepared using FASP. To digest proteins, the FASP procedure was performed for 200 μg proteins using a 30K Amicon filter (Millipore, UK) as described previously (
+      ;
+      ;
+      ). Trypsin, a universal digestion enzyme for shotgun proteomics (
+      ;
+      ;
+      ;
+      ;
+      ), was used to digest proteins in the FASP. Digested samples were desalted using a tC18 Sep-Pak cartridge (Waters, USA). The desalted peptide samples were dried by Speed Vac and stored at −80°C until use in LC-MS/MS analysis.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      LC-MS/MS analysis
+     </title>
+     <p>
+      Peptide samples were analyzed using an LTQ-velos mass spectrometer (Thermo Scientific, Germany) coupled to an EASY nano-LC system (Proxeon Biosystems, Denmark) as described previously (
+      ). For each sample, 10 μl sample dissolved in 50 μl solution A (2% acetonitrile and 0.1% formic acid) was loaded onto a nano-LC trap column (Zorbax 300SB-C18, 5 μm, 5 × 0.3 mm) and separated over a C18 analytical column (75 μm i.d. × 15 cm, 5 μm particle size). Peptides were separated using a 160 min gradient at 300 nl/min consisting of 5–30% solution B (100% acetonitrile and 0.1% formic acid) for 120 min, 30–40% solution B for 20 min, 40–90% solution B for 5 min, 90% solution B for 10 min, and 90-5% solution B for 5 min. The LTQ-velos mass spectrometer was set to scan masses ranging from 300 to 2000 m/z using a data-dependent scan mode for the 10 most abundant ions over a minimum threshold of 1000. The dynamic exclusion was set to the following parameters: repeat count, 1; repeat duration, 30 s; and exclusion duration, 60 s. The normalized collision energy was adjusted to 35%. All samples were analyzed in technical triplicates.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Database searches
+     </title>
+     <p>
+      The raw mass spectrometry files were searched using the SEQUEST search algorithm (SORCERER-SEQUEST, v.27, rev. 11) as previously described with some modifications (
+      ). SEQUEST search parameters were set to the following: fully tryptic peptides; missed cleavages, 2; parent ion tolerance, 1.5 Da; fragment ion mass tolerance, ± 0.5 Da; fixed modifications, carbamidomethyl cysteine; and variable modifications, methionine oxidation. SEQUEST search results were processed by Scaffold 3 software (Proteome Software, USA) to obtain peptide and protein identification information. A total of 27 LC-MS/MS runs were merged using Scaffold 3. Protein probability with at least two-peptides was set to 99%, and peptide probability was set to 95%. To adjust the false discovery rates (FDRs) to be &lt;1.0% at peptide and protein level, XCorr scores were set at 1.8, 2.0, and 3.0 for singly, doubly, and triply charged peptides, respectively. The deltaCn scores were set to &gt; 0.10.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Label-free quantitation and statistical analysis
+     </title>
+     <p>
+      For label-free quantitation, unweighted spectrum counts of all proteins identified were exported to an Excel file using Scaffold 3. Representative protein abundances were calculated by the dNSAF method as described previously (
+      ). We calculated the dNSAF using the following equation.
+      <disp-formula id="FD1">
+       <label>
+        I.
+       </label>
+       <ns0:math id="mm1">
+        <ns0:mrow>
+         <ns0:msub>
+          <ns0:mrow>
+           <ns0:mi mathvariant="italic">
+            dSAF
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mi>
+           i
+          </ns0:mi>
+         </ns0:msub>
+         <ns0:mfrac>
+          <ns0:mrow>
+           <ns0:msub>
+            <ns0:mrow>
+             <ns0:mi mathvariant="italic">
+              uSpC
+             </ns0:mi>
+            </ns0:mrow>
+            <ns0:mi>
+             i
+            </ns0:mi>
+           </ns0:msub>
+           <ns0:mo>
+            +
+           </ns0:mo>
+           <ns0:mfrac>
+            <ns0:mrow>
+             <ns0:msub>
+              <ns0:mrow>
+               <ns0:mi mathvariant="italic">
+                uSpC
+               </ns0:mi>
+              </ns0:mrow>
+              <ns0:mi>
+               i
+              </ns0:mi>
+             </ns0:msub>
+            </ns0:mrow>
+            <ns0:mrow>
+             <ns0:msubsup>
+              <ns0:mrow>
+               <ns0:mi mathvariant="normal">
+                Σ
+               </ns0:mi>
+              </ns0:mrow>
+              <ns0:mrow>
+               <ns0:mi>
+                p
+               </ns0:mi>
+               <ns0:mo>
+                =
+               </ns0:mo>
+               <ns0:mn>
+                1
+               </ns0:mn>
+              </ns0:mrow>
+              <ns0:mi>
+               P
+              </ns0:mi>
+             </ns0:msubsup>
+             <ns0:mi mathvariant="italic">
+              uSpCp
+             </ns0:mi>
+            </ns0:mrow>
+           </ns0:mfrac>
+           <ns0:mo>
+            ×
+           </ns0:mo>
+           <ns0:msub>
+            <ns0:mrow>
+             <ns0:mi mathvariant="italic">
+              sSPC
+             </ns0:mi>
+            </ns0:mrow>
+            <ns0:mi>
+             i
+            </ns0:mi>
+           </ns0:msub>
+          </ns0:mrow>
+          <ns0:mrow>
+           <ns0:msub>
+            <ns0:mrow>
+             <ns0:mi>
+              L
+             </ns0:mi>
+            </ns0:mrow>
+            <ns0:mi>
+             i
+            </ns0:mi>
+           </ns0:msub>
+          </ns0:mrow>
+         </ns0:mfrac>
+        </ns0:mrow>
+       </ns0:math>
+      </disp-formula>
+      <disp-formula id="FD2">
+       <label>
+        II.
+       </label>
+       <ns0:math id="mm2">
+        <ns0:mrow>
+         <ns0:msub>
+          <ns0:mrow>
+           <ns0:mi mathvariant="italic">
+            dNSAF
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mi>
+           i
+          </ns0:mi>
+         </ns0:msub>
+         <ns0:mfrac>
+          <ns0:mrow>
+           <ns0:msub>
+            <ns0:mrow>
+             <ns0:mi mathvariant="italic">
+              dSAF
+             </ns0:mi>
+            </ns0:mrow>
+            <ns0:mi>
+             i
+            </ns0:mi>
+           </ns0:msub>
+          </ns0:mrow>
+          <ns0:mrow>
+           <ns0:msubsup>
+            <ns0:mrow>
+             <ns0:mi mathvariant="normal">
+              Σ
+             </ns0:mi>
+            </ns0:mrow>
+            <ns0:mrow>
+             <ns0:mi>
+              i
+             </ns0:mi>
+             <ns0:mo>
+              =
+             </ns0:mo>
+             <ns0:mn>
+              1
+             </ns0:mn>
+            </ns0:mrow>
+            <ns0:mi>
+             N
+            </ns0:mi>
+           </ns0:msubsup>
+           <ns0:msub>
+            <ns0:mrow>
+             <ns0:mi mathvariant="italic">
+              DSAF
+             </ns0:mi>
+            </ns0:mrow>
+            <ns0:mi>
+             i
+            </ns0:mi>
+           </ns0:msub>
+          </ns0:mrow>
+         </ns0:mfrac>
+        </ns0:mrow>
+       </ns0:math>
+      </disp-formula>
+      <list list-type="simple">
+       <list-item>
+        <p>
+         <italic>
+          uSpCi, unique spectrum counts of i peptide
+         </italic>
+        </p>
+       </list-item>
+       <list-item>
+        <p>
+         <italic>
+          uSpCp, unique spectrum counts of proteins sharing i peptide
+         </italic>
+        </p>
+       </list-item>
+       <list-item>
+        <p>
+         <italic/>
+         <italic>
+          sSpC, sum of double and triple charged spectrum counts
+         </italic>
+        </p>
+       </list-item>
+       <list-item>
+        <p>
+         <italic>
+          L, number of amino acid for each protein
+         </italic>
+        </p>
+       </list-item>
+      </list>
+     </p>
+     <p>
+      After conversion, dNSAF datasets for the three dataset comparisons (HPDE vs. BxPC3, HPDE vs. PANC-1, and BxPC3 vs. PANC-1) were imported into R 3.0.1 software for statistical analysis and converted into “exprSet” objects to allow for recognition by PLGEM software package (Bioconductor, v2.15.1) (
+      ). Missing values were dealt with using “TrimAllZeroRows” and “ZeroMeanorSD” scripts. Data fitting was performed to estimate the “goodness of fit” of our datasets.
+      <italic>
+       P
+      </italic>
+      -values were obtained using the “plgem.pvalue” script, and then adjusted
+      <italic>
+       p
+      </italic>
+      -values were calculated using the “BH (Benjamini and Hochberg)” method based on the
+      <italic>
+       p
+      </italic>
+      -values that were obtained. After adjusted
+      <italic>
+       p
+      </italic>
+      -values were calculated, differentially expressed proteins were selected based on an adjusted
+      <italic>
+       p
+      </italic>
+      -value &lt; 0.05.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Bioinformatics analysis
+     </title>
+     <p>
+      Analyses of Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways were performed using DAVID (Database for Annotation, Visualization, and Integrated Discovery) bioinformatics tools (
+      ). IPI accessions of target proteins were imported to the list category, and then we selected IPI_ID identifiers and Gene list types. GO analysis was used to assign the biological process, molecular function, and cellular localization. Significant pathways were selected based on
+      <italic>
+       p
+      </italic>
+      -values &lt; 0.05. K-means clustering was performed using the GENE-E program (Broad Institute, USA) for significantly differentially expressed proteins based on PLGEM to discover protein functions based on protein expression patterns (
+      ). Among all 787 differentially expressed proteins, only 711 proteins were differentially expressed in two dataset comparisons (HPDE vs. BxPC3 and HPDE vs. PANC-1). We performed K-means clustering for these 711 proteins, which were grouped into six clusters that were calculated based on 2000 iterations.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Validation by Western blotting
+     </title>
+     <p>
+      To validate the mass spectrometric results, seven proteins were quantified by Western blotting. Western blotting was performed as described previously (
+      ). Briefly, each cell line was lysed using RIPA buffer (150 mM NaCl, 50 mM Tris-HCl pH 7.4, 0.1% SDC, 1 mM EDTA, 1% NP-40, protease inhibitor cocktail, and 0.1 mM PMSF). We separated 30 g of proteins on 8–12% SDS-PAGE gels. Proteins were transferred to nitrocellulose membranes for 70 min at 100 V using wet-transfer techniques. Membranes were blocked with TBST containing 5% BSA for 2 h at room temperature and were then incubated with each primary antibody at 4°C overnight, based on optimized protein-antibody ratios; anti-vimentin, anti-STAT3, anti-cadherin 1, anti-beta catenin, anti-IQGAP1, and anti-filamin beta were diluted at a 1:1000 ratio, and anti-FGFBP1 was diluted at a 1:500 ratio. Membranes were washed with TBST five times and were subsequently incubated with HRP-conjugated secondary antibody (1:5000) at room temperature for 2 h. After washing with TBST five times, the membranes were developed using an ECL chemiluminescence system (GenDEPOT, USA), and visualized using a LAS-3000 system (Fujifilm, Japan).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Gene expression profiling and proteomic and genomic dataset comparisons
+     </title>
+     <p>
+      Gene expression profiling was performed as described in a previous study (
+      ). In previous study, expression profiling for PDAC and HPDE cell lines was performed using Agilent 4 × 44K expression arrays (Agilent, Canada). Normalization of expression values for each array was calculated using the following formula: (median intensity - background intensity) / (median array intensity value). To reduce overestimation resulting from poor probe performance, the lowest 2% of genes, calculated based on expression values in the HPDE cell line, were eliminated.
+     </p>
+     <p>
+      To compare publically available genomic data with our proteomic data, our proteomic data were converted from IPI numbers (1931) to gene symbols (1910). Among 1910 gene symbols, 1695 gene symbols overlapped between the genomic (30,484 total gene symbols) and proteomic (1910 total gene symbols) data. Of these, 697 gene symbols for the differentially expressed in our proteomic dataset were subjected to Pearson correlation analysis. The fold-changes between dataset comparisons were transformed to log
+      <sub>
+       2
+      </sub>
+      scales.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Evaluation of the quantitative proteomics platform using protein standards
+     </title>
+     <p>
+      To examine quantitative linearity, serially diluted ovalbumin samples were spiked in the matrix at fixed quantities (into 200 μg of PANC-1 cell lysate). Ovalbumin was serially diluted to 5.0, 2.5, 1.25, 0.625, 0.3125, and 0.15625 μg. All experimental steps were processed using conditions similar to those described above. All samples were analyzed in technical triplicates. The average dNSAF value for ovalbumin was used for each sample in technical triplicates to plot linear response curves.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     RESULTS AND DISCUSSION
+    </title>
+    <sec>
+     <title>
+      The overall scheme for the proteomic analysis of pancreatic cancer cell lines
+     </title>
+     <p>
+      Treatment of PC remains a therapeutic challenge because of the high degree of intrinsic and acquired resistance to chemotherapy and radiation therapy (
+      ;
+      ). Despite the improved understanding of the molecular pathways involved in pancreatic oncogenesis and chemoresistance, the clinical impact of targeted drugs, including gemcitabine, remains quite limited by the high degree of intrinsic and acquired drug resistance and the heterogeneous genetic makeup of PC (
+      ). Therefore, understanding the underlying molecular mechanisms of intrinsic drug resistance in a well-established pancreatic cancer model system would provide valuable information to expand the treatment options for this deadly disease (
+      ;
+      ;
+      ).
+     </p>
+     <p>
+      Accordingly, we performed comparative proteomic analysis between normal pancreatic duct cells, HPDE cells, and two well-established pancreatic cancer cell lines, BxPC3 and PANC-1 cells. Interestingly, despite the presence of KRAS mutations (
+      ), these two KRAS-independent cancer cell lines are known to have different gemcitabine resistance profiles (
+      ) and phenotypes (
+      ;
+      ) (
+      ).
+     </p>
+     <p>
+      To increase the numbers of proteins identified in the pancreatic cancer cell proteome, we processed proteins extracted from the cell lines using FASP, which effects high and stable recovery of peptides from protein samples (
+      ;
+      ). After LC/MS analysis of the resultant peptides, dNSAF was used for relative label-free quantitation to obtain more accurate and reproducible quantitation results (
+      ). For the linear response curve, the
+      <italic>
+       R
+      </italic>
+      value was 0.9891 for six amounts of ovalbumin using unweighted spectrum counts, but it improved to 0.9903 using dNSAF values. Additionally, the average CV for ovalbumin for the six different “spiked” amounts improved after being transformed to dNSAF from 17.5% to 7.2%. These results indicate that the adoption of dNSAF improves the linearity and reliability of quantification (
+      ). To estimate protein expression changes, we adapted a powerful statistical tool, PLGEM (
+      ).
+     </p>
+     <p>
+      Quantified proteins were functionally annotated using bioinformatics tools, such as the DAVID bioinformatics resource. Additionally, we performed Western blot validation and comparison analysis with previously reported transcriptome data (
+      ).
+     </p>
+     <p>
+      To study the mechanism of gemcitabine resistance, we first generated BxPC3 and PANC-1 gemcitabine-resistant cell lines by exposing cells to varying concentrations of gemcitabine at two time points (72 and 96 h). The average IC
+      <sub>
+       50
+      </sub>
+      value in BxPC3 cells was 0.1565 nM, while the average IC
+      <sub>
+       50
+      </sub>
+      value in PANC-1 cells was 39.17 nM (
+      ).
+     </p>
+     <p>
+      Next, we assessed the reproducibility of our label-free quantitative proteomic experiment by measuring concentrations of ovalbumin that were spiked into the peptide mixtures isolated from each cell line. The linearity curves for ovalbumin showed that our quantitative measurements were highly reproducible (
+      <italic>
+       R
+      </italic>
+      = 0.9903) (
+      ) and the average coefficient of variation (CV) for the six amounts of spiked ovalbumin ranged from 1% to 13% (
+      ). Additionally, the CVs of actin and GAPDH, selected as internal standards, were 5.2% and 8.7% for all 18 replicates, respectively. Furthermore, CV comparisons between traditional spectral counting and dNSAF indicated that the label-free quantitation method using dNSAF was more reproducible than the traditional method (
+      ).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Generic characterization of the pancreatic cancer cell proteome
+     </title>
+     <p>
+      The 3 cell lines (HPDE, BxPC3, and PANC-1) were analyzed in triplicate. Using SEQUEST search engines and stringent filtering, a total of 1931 protein groups were identified at an FDR &lt; 1%, of which 1307 (68%) were protein groups common to all three cell lines (
+      ). Furthermore, 1581, 1672, and 1689 unique protein groups were identified in the HPDE, BxPC3, and PANC-1 cell lines, respectively.
+     </p>
+     <p>
+      Among 1931 proteins, 1209 (63%) proteins were identified by more than 3 peptides, while 868 (45%) proteins were identified by more than 4 peptides, and 629 (33%) were identified by more than 5 peptides (
+      ). More detailed proteomic information is provided in
+      .
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Label-free quantitation
+     </title>
+     <p>
+      For label-free quantification, the technical and biological variability was evaluated by calculating the correlation value (
+      <italic>
+       R
+      </italic>
+      ) with the representative dNSAF values of each protein after converting the unweighted spectrum counts that were obtained from Scaffold 3 to dNSAF values (
+      ). Correlations for the technical and biological replicates in each cell line ranged from 0.8132 to 0.975, indicating that our proteomic strategy is highly reproducible. Additionally, the correlations for dataset comparisons were as follows: HPDE vs. BxPC3 ranged from 0.6777 to 0.7961, HPDE vs. PANC-1 ranged from 0.3325 to 0.4359, and BxPC3 vs. PANC-1 ranged from 0.4639 to 0.5998 (
+      ).
+     </p>
+     <p>
+      Next, to calculate the CV of the proteins that we identified, the spectral counts for groups of high-, medium-, and low-abundance proteins were ≥ 15, ≥ 5 and &lt;15, &gt; 0 and &lt; 5, respectively. The average CV in the high- and medium-abundance protein groups was 11.7% and 20.0%, respectively. These CV values suggested that the measurements of these two groups were reliable, whereas the CV of the low-abundance group was relatively high (∼64.5%). The average CV for all proteins identified was ∼53.8% (
+      ). The CV for ovalbumin as the external standard and the CVs for actin and GAPDH, as the internal standards, were 25.4%, 17.3%, and 19.1% against the 27 datasets, respectively. The CVs for the external and internal standards suggest that this quantitative experiment has no bias or overestimation in quantitating proteins.
+     </p>
+     <p>
+      Finally, principal component analysis (PCA) was performed on a matrix consisting of the objects defined by 3 biological and 3 technical replicates of the 3 cell lines, and the variables were defined as the dNSAF values of each protein identified in each cell line. The PCA results revealed the correct segregation of the cell lines and each replicate into their corresponding groups, which had been generated based on component 1 (
+      ), the component that accounts for the largest amount of variability in the system (59.8% in this case). Consequently, the correlations, CVs, and PCA results in the technical and biological replicates all indicated that our proteomic strategy is robust and highly reproducible.
+     </p>
+     <p>
+      To quantify differentially expressed proteins, pairwise PLGEM analysis was performed. The dNSAF values of 1931 proteins that were identified in 27 replicates were imported into PLGEM to select differentially expressed proteins. PLGEM has been regarded as a reliable model capable of handling large proteomic datasets. PLGEM has been proposed to improve the confidence of proteomic datasets. Pearson’s correlation was calculated between ln (row, Mean) values and the corresponding ln (row, S.D.) values for quality control, and an adjusted
+      <italic>
+       R
+      </italic>
+      value was obtained between the modeling points and the fitted PLGEM. Overall, the PLGEM fitted well on all dataset comparisons with correlation coefficients of 0.948 and 0.938, adjusted
+      <italic>
+       R
+      </italic>
+      values of 0.995 and 0.994, and fitted slope values 0.626 and 0.63 in HPDE-control and BxPC3-control datasets, respectively (
+      ). If the fitted slope value was less than 0.5, or the Pearson correlation coefficient was less than 0.85, or the adjusted
+      <italic>
+       R
+      </italic>
+      value was less than 0.95, the dataset quality was considered to be poor. Additionally, all proteins identified in this study showed a normal distribution and broad dynamic range (
+      ). In addition, the relationship between the standard normal distribution and the distribution about observed residuals showed a good correlation (
+      ).
+     </p>
+     <p>
+      Finally, 837 of 1931 proteins were found to be significantly differentially expressed proteins with an adjusted
+      <italic>
+       p
+      </italic>
+      -value &lt; 0.05 for at least one pair-wise comparison. After filtering based on 2-fold changes of dNSAF values, a total of 787 proteins (94%) ultimately met this criterion for at least one pair-wise comparison. Overall, 267, 628, and 399 proteins were detected in each pair-wise comparison (
+      ). Detailed information about the differentially expressed proteins is provided in
+      .
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Clustering of the differentially expressed protein signatures
+     </title>
+     <p>
+      To extract protein signatures that significantly segregated the three cell lines, we performed K-means clustering of the 711 differentially expressed proteins, which yielded 6 clusters. Each protein cluster was enriched in a specific pathway based on KEGG pathway analysis (
+      and
+      ). In clusters 0 and 5, proteins were down-regulated and up-regulated, respectively, in BxPC3 cells. The proteins that were included in cluster 0 were not significantly annotated to specific pathways;
+      <italic>
+       p
+      </italic>
+      &lt; 0.05. Proteins that were included in cluster 5 were significantly enriched for seven pathways: ARVC (arrhythmogenic right ventricular cardiomyopathy), fatty acid metabolism, antigen processing and presentation, viral myocarditis, tight junction, adherens junction, and cardiac muscle contraction. In clusters 1 and 4, proteins were increased or decreased in PANC-1 cells compared with other cell lines, respectively. The proteins in cluster 1 were enriched for eight pathways: ribosome, aminoacyl-tRNA biosynthesis, pyrimidine metabolism, pathogenic
+      <italic>
+       Escherichia coli
+      </italic>
+      infection, glycoslysis/gluconeogenesis, drug metabolism, purine metabolism, and proteasome pathways. The proteins in cluster 4 were significantly associated with two pathways: the lysosome and
+      <italic>
+       Vibrio cholerae
+      </italic>
+      infection pathways. In cluster 2, proteins were down-regulated in both cancer cell lines, whereas proteins in cluster 3 were up-regulated. Proteins in cluster 2 were significantly associated with 18 pathways, including the arginine and proline metabolism, ECM-receptor interaction, TCA cycle, limonene and pinene degradation, and glycolysis/gluconeogenesis pathways. The proteins involved in cluster 3 were associated with two pathways: the ribosome and glycolysis/gluconeogenesis pathways.
+     </p>
+     <p>
+      Clustering results were consistent with the properties of each cell line. For example, cluster 1 mostly includes up-regulated proteins in PANC-1 cells that were enriched for ribosome, biosynthesis, and metabolism activities. By contrast, cluster 5 mostly includes proteins that are up-regulated in BxPC3 cells that were enriched for tight junction and adherens junction functions, which are closely related to epithelial cell properties. Both BxPC3 and PANC-1 cells are epithelial primary cancer cell lines, but BxPC3 cells exhibit epithelial properties, whereas PANC-1 cells exhibit more mesenchymal properties.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Functional analyses of the pathways associated with gemcitabine resistance
+     </title>
+     <p>
+      Previous studies have shown that gemcitabine resistance is closely associated with the acquisition of an epithelial-mesenchymal transition (EMT)-like phenotype by cancer cells (
+      ). The EMT is characterized by the loss of cell-cell adhesion and the acquisition of cell motility, which leads to increased invasion ability (
+      ). The progression of the EMT involves the loss of proteins involved in cell junctions, such as E-cadherin and claudins, and the expression of mesenchymal molecular markers, such as fibronectin, vimentin, and N-cadherin (
+      ).
+     </p>
+     <p>
+      A total 15 of well-known EMT markers were identified in this study: ANPEP, ALCAM, DSG3, DSG2, KRT 14, KRT 19, KRT 8, CLDN1, VIM, CDH1, SDC1, CD44, ITGB1, NT5E, and DSP (
+      ). Further, 13 proteins that are closely associated with the EMT phenotype were detected: CAV1, IQGAP1, ITGB4, ITGA6, CTNNB1, ACTN4, FLNA, FLNB, KRT18, MYH14, MYH9, MYL6, and PXN (
+      ).
+     </p>
+     <p>
+      CDH1, an epithelial cell marker, was significantly downergulated, and VIM, a mesenchymal cell marker, was significantly upregulated in PANC-1 cells compared with BxPC3 cells. The suppression of CDH1 is a critical step in enhancing the invasiveness and EMT in carcinomas (
+      ). This result suggests that the EMT progressed further in PANC-1 versus BxPC3 cells.
+     </p>
+     <p>
+      Mechanistically, CAV1 mediates focal adhesion and cytoskeletal organization and promotes the EMT through the focal adhesion pathway (
+      ). In this study, the abundance of CAV1 increased ∼3-fold in PANC-1 cells. IQGAP1 regulates the actin cytoskeleton and resistance to gemcitabine (
+      ). Also, IQGAP1 mediates the disruption of CDH1 and promotes tumor progression (
+      ). IQGAP1 was upregulated ∼5-fold in BxPC3 cells and ∼8-fold in PANC-1 cells.
+     </p>
+     <p>
+      SDC1 governs ECM-receptor interactions, cell-cell interactions, cell proliferation, and cell migration (
+      ), and its levels are depressed in a pancreatic cancer cell line (
+      ). SDC1 had a similar expression pattern in this proteomic dataset, being markedly decreased in BxPC3 and PANC-1 cells.
+     </p>
+     <p>
+      ITGB1 has been linked to the invasiveness of pancreatic carcinoma, and its activity correlates with the invasiveness of pancreatic carcinoma cell lines, based on
+      <italic>
+       in vitro
+      </italic>
+      chemoinvasion assays (
+      ). ITGB1 is increased ∼3-fold in 2 pancreatic cancer cell lines compared with HPDE cells. ITGB4-ITGA6 complexes are involved in epithelial cell migration (
+      ). In this study, ITGB4 and ITGA6 were downregulated in both tumor cell lines.
+     </p>
+     <p>
+      CTNNB1 binds to the cytoplasmic tails of CDH1 (
+      ), and declined ∼22-fold in PANC-1 cells. ACTN4 regulates the focal adhesion pathway (
+      ) and was consistently upregulated in pancreatic cancer cell lines versus HPDE cells (∼8-fold in BxPC3 cells and ∼13-fold in PANC-1 cells). Filamin subunits participate in focal adhesion and cytoskeletal organization. Upregulation of FLNA and FLNB has been reported in pancreatic cancers and precancerous lesions (
+      ;
+      ;
+      ;
+      ). FLNA and FLNB were increased ∼3-fold and ∼5-fold, respectively, in BxPC3 cells.
+     </p>
+     <p>
+      The keratin family is associated with the differentiation of epithelial cancer cells (
+      ). KRT18 expression is downregulated in pancreatic cancer cells (
+      ) and declined by more than 2-fold in PANC-1 cells in this study. The myosin family is involved in cytoskeletal composition and cellular movement (
+      ). We detected MYH6, MYH9, and MYL14 expression in this study, which were upregulated in pancreatic cancer. PXN is a marker of focal adhesion (
+      ), which is a crucial pathway for the EMT (
+      ). PXN expression increased significantly in PANC-1 cells.
+     </p>
+     <p>
+      In summary, several EMT markers were identified as being differentially expressed between BxPC3 and PANC-1 cells, indicating that PANC-1 cells show decreased expression of epithelial markers and increased expression of mesenchymal markers. Additionally, analysis of the expression patterns of several proteins that were either directly or indirectly associated with the EMT revealed that PANC-1 cells acquired a phenotype that resembled the EMT more closely than did BxPC3 cells. This finding suggests that the expression of EMT-related proteins correlates with gemcitabine resistance.
+     </p>
+     <p>
+      With regard to therapeutics, the 28 differentially expressed proteins that we identified are potential targets for gemcitabine resistance in pancreatic cancer, because the EMT pathway is related to drug resistance (
+      ;
+      ;
+      ). In addition, these proteins have not been studied in earlier pancreatic cancer proteomic studies of drug resistance by mass spectrometry (
+      ;
+      ;
+      ;
+      ;
+      ;
+      ;
+      ), suggesting that these proteins, related to the EMT phenotype, are novel targets for the treatment of drug-resistant pancreatic cancer.
+     </p>
+     <p>
+      Furthermore, to investigate pathways that underlie the molecular mechanism of gemcitabine resistance, we analyzed differentially expressed proteins in BxPC3 and PANC-1 cells using the KEGG pathways database (
+      ). Most of the 178 up-regulated proteins in BxPC3 cells were linked to the fatty acid degradation, phenylalanine metabolism, tight junction, and adherens junction pathways (
+      ). Notably, ten proteins linked to the tight junction and adherens junction pathways were also closely associated with the progression of the EMT, suggesting that increased expression of cell-cell adhesion proteins may be associated with increased gemcitabine sensitivity in pancreatic cancer cells (
+      ).
+     </p>
+     <p>
+      The majority of up-regulated proteins in PANC-1 cells are likely to be involved in metabolic pathways, such as pyruvate metabolism, the pentose phosphate pathway, glycolysis/gluconeogenesis, pyrimidine metabolism, and aminoacyl-tRNA biosynthesis (
+      and
+      ), which is consistent with the relationship between gemcitabine resistance and metabolic pathways (
+      ;
+      ;
+      ).
+     </p>
+     <p>
+      Glutathione is a tripeptide thiol, composed of cysteine, glutamate, and glycine, which plays a critical role in DNA synthesis, multidrug and/or radiation resistance, and tumor surveillance (
+      ). Glutathione biosynthesis is critically dependent upon the metabolism of cysteine and methionine (
+      ). In several cancers, glutathione and cysteine/methionine metabolism have been previously associated with drug resistance (
+      ). However, the characterization of these metabolism-related proteins in the development of gemcitabine resistance in pancreatic cancer cells has been limited (
+      ;
+      ;
+      ).
+     </p>
+     <p>
+      Interestingly, we observed that eight proteins linked to the glutathione and cysteine/methionine metabolism pathways were up-regulated in PANC-1 cells (
+      ). In addition to the previously reported proteins (G6PD, MGST3, and hCG_23833) (
+      ;
+      ;
+      ;
+      ;
+      ;
+      ), we were the first to identify the expression of five such metabolism-related proteins, SMS, ANPEP, MAT2A, LDHA, and GOT1, in this study. Thus, these 5 proteins could represent novel targets for gemcitabine resistance in pancreatic cancer. Detailed information about these proteins is presented in
+      .
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Validation using western blotting and comparisons with transcriptome data
+     </title>
+     <p>
+      To validate our mass spectrometry quantification results, we measured changes in the abundance of seven proteins (VIM, CDH1, CTNNB1, FGFBP1, IQGAP1, FLNB, and STAT3) by Western blotting (
+      ). The analyses of the three different cell lines showed similar changes in protein abundance by both mass spectrometry quantification and western blotting, supporting the reliability of our label-free quantitation results.
+     </p>
+     <p>
+      We next assessed the correlation between our proteomic datasets and public gene expression datasets (
+      ) for the three pancreatic cell lines. For three dataset comparisons (HPDE vs. BxPC3, HPDE vs. PANC-1, and BxPC3 vs. PANC-1), Pearson correlation analysis was performed. Overall correlations between the proteomic and transcriptomic data were calculated as 0.145, 0.435, and 0.528 for the three dataset comparisons (HPDE vs. BxPC3, HPDE vs. PANC-1, and BxPC3 vs. PANC-1), respectively (
+      ). Notably, the mRNA expression patterns of genes encoding the seven proteins assessed by western blotting were significantly correlated with the label-free quantitation results (
+      ).
+     </p>
+     <p>
+      In summary, a comprehensive proteomic analysis of model pancreatic cancer cell lines was conducted to investigate the molecular mechanisms of drug resistance and PC biology. We performed a comprehensive proteome analysis of two PDAC cell lines (BxPC3 and PANC-1) and a normal pancreatic ductal cell line (HPDE) using combined proteomic methods, including FASP, dNSAF, and PLGEM. We confidently identified 1931 proteins and a subset of proteins that may be associated with intrinsic gemcitabine resistance. We found that the majority of differentially expressed proteins are involved in tight junctions, adherens junctions, and glutathione and cysteine/methionine metabolism pathways, which are related to drug resistance in pancreatic cancer. We identified 15 known EMT markers and 13 EMT-related proteins in the comparison between BxPC3 and PANC-1 cells, suggesting that the EMT-related proteins may confer gemcitabine chemoresistance. Using well-validated pancreatic cell lines, we generated comprehensive proteome profiling data that can serve as baseline information associated with gemcitabine resistance in the major pancreatic cell lines. Further studies are needed to validate the functional roles of the other proteins that we identified in conferring gemcitabine resistance.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="supplementary-material">
+    <title/>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

@@ -1,0 +1,1628 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  A High-Throughput Method for Identifying Novel Genes That Influence Metabolic Pathways Reveals New Iron and Heme Regulation in
+ </title>
+ <abstract>
+  <p>
+   The ability to simultaneously and more directly correlate genes with metabolite levels on a global level would provide novel information for many biological platforms yet has thus far been challenging. Here, we describe a method to help address this problem, which we dub “Met-Seq” (
+   <underline>
+    met
+   </underline>
+   abolite-coupled Tn
+   <underline>
+    seq
+   </underline>
+   uencing).
+  </p>
+  <p>
+   Heme is an essential metabolite for most life on earth. Bacterial pathogens almost universally require iron to infect a host, often acquiring this nutrient in the form of heme. The Gram-negative pathogen
+   <named-content content-type="genus-species">
+    Pseudomonas aeruginosa
+   </named-content>
+   is no exception, where heme acquisition and metabolism are known to be crucial for both chronic and acute infections. To unveil unknown genes and pathways that could play a role with heme metabolic flux in this pathogen, we devised an omic-based approach we dubbed “Met-Seq,” for
+   <underline>
+    met
+   </underline>
+   abolite-coupled transposon
+   <underline>
+    seq
+   </underline>
+   uencing. Met-Seq couples a biosensor with fluorescence-activated cell sorting (FACS) and massively parallel sequencing, allowing for direct identification of genes associated with metabolic changes. In this work, we first construct and validate a heme biosensor for use with
+   <named-content content-type="genus-species">
+    P. aeruginosa
+   </named-content>
+   and exploit Met-Seq to identify 188 genes that potentially influence intracellular heme levels. Identified genes largely consisted of metabolic pathways not previously associated with heme, including many secreted virulence effectors, as well as 11 predicted small RNAs (sRNAs) and riboswitches whose functions are not currently understood. We verify that five Met-Seq hits affect intracellular heme levels; a predicted extracytoplasmic function (ECF) factor, a phospholipid acquisition system, heme biosynthesis regulator Dnr, and two predicted antibiotic monooxygenase (ABM) domains of unknown function (PA0709 and PA3390). Finally, we demonstrate that PA0709 and PA3390 are novel heme-binding proteins. Our data suggest that Met-Seq could be extrapolated to other biological systems and metabolites for which there is an available biosensor, and provides a new template for further exploration of iron/heme regulation and metabolism in
+   <named-content content-type="genus-species">
+    P. aeruginosa
+   </named-content>
+   and other pathogens.
+  </p>
+  <p>
+   <bold>
+    IMPORTANCE
+   </bold>
+   The ability to simultaneously and more directly correlate genes with metabolite levels on a global level would provide novel information for many biological platforms yet has thus far been challenging. Here, we describe a method to help address this problem, which we dub “Met-Seq” (
+   <underline>
+    met
+   </underline>
+   abolite-coupled Tn
+   <underline>
+    seq
+   </underline>
+   uencing). Met-Seq uses the powerful combination of fluorescent biosensors, fluorescence-activated cell sorting (FACS), and next-generation sequencing (NGS) to rapidly identify genes that influence the levels of specific intracellular metabolites. For proof of concept, we create and test a heme biosensor and then exploit Met-Seq to identify novel genes involved in the regulation of heme in the pathogen
+   <named-content content-type="genus-species">
+    Pseudomonas aeruginosa
+   </named-content>
+   . Met-Seq-generated data were largely comprised of genes which have not previously been reported to influence heme levels in this pathogen, two of which we verify as novel heme-binding proteins. As heme is a required metabolite for host infection in
+   <named-content content-type="genus-species">
+    P. aeruginosa
+   </named-content>
+   and most other pathogens, our studies provide a new list of targets for potential antimicrobial therapies and shed additional light on the balance between infection, heme uptake, and heme biosynthesis.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="s1" sec-type="intro">
+    <title>
+     INTRODUCTION
+    </title>
+    <p>
+     The tetrapyrrole heme is an important molecule in nature, where it serves as a cofactor in several critical enzymes, such as catalases that detoxify reactive oxygen species, and the electron transport chain, which facilitates aerobic respiration (     ). In addition, heme serves as a major source of iron for most bacterial pathogens (     ). Owing to its importance, most bacteria are able to synthesize heme
+     <italic toggle="yes">
+      de novo
+     </italic>
+     (     ) or have dedicated systems for internalizing it from the environment (e.g., a host) (     ). In the former case, there are two main routes to synthesizing heme: the C
+     <sub>
+      4
+     </sub>
+     and C
+     <sub>
+      5
+     </sub>
+     pathways. In the C
+     <sub>
+      4
+     </sub>
+     pathway, glycine and coenzyme A (CoA), the latter a product of the tricarboxylic acid (TCA) cycle, are condensed to 5-aminolevulinic acid (ALA), the first committed heme precursor. The C
+     <sub>
+      5
+     </sub>
+     pathway relies on glutamate and a two-reaction step to synthesize ALA (     ), and is the only pathway harbored by most nonphotosynthetic prokaryotes (     ).
+    </p>
+    <p>
+     Contrary to the well-conserved heme biosynthesis pathways in bacteria (and all life), heme uptake systems can differ between bacterial species yet serve the same function: to internalize environmental heme as a major source of iron. Heme uptake has been well studied in the Gram-negative pathogen
+     <named-content content-type="genus-species">
+      Pseudomonas aeruginosa
+     </named-content>
+     , a major cause of death in cystic fibrosis patients and source of infection in burn victims (     ). In both circumstances, heme is required to cause robust disease states (     ).
+     <named-content content-type="genus-species">
+      P. aeruginosa
+     </named-content>
+     possesses three known heme uptake systems,
+     <italic toggle="yes">
+      Pseudomonas
+     </italic>
+     heme uptake (Phu), heme assimilation system (Has), and hemopexin uptake (Hxu), whose outer membrane receptors then use the PhuUV inner membrane transporter and ultimately the periplasmic chaperone PhuS to traffic heme to the cytoplasm. Once internalized, PhuS then chaperones heme to a heme oxygenase, HemO (     ,     ), a major regulator of heme uptake in this pathogen. HemO cleaves heme to yield biliverdin (BV) IXδ, enabling iron extraction (     ).
+     <named-content content-type="genus-species">
+      P. aeruginosa
+     </named-content>
+     also possesses another heme oxygenase, BphO, that serves to convert heme to BV IXα, which is then attached to the phytochrome light receptor to enable far-red-light detection, and the subsequent modulation of biofilm formation and possibly virulence (     ).
+    </p>
+    <p>
+     To date, most heme-related studies in
+     <named-content content-type="genus-species">
+      P. aeruginosa
+     </named-content>
+     have focused on the aforementioned heme uptake and iron acquisition pathways (for reviews see references     ,     ,     , and     ). In comparison, the influence of heme biosynthesis on heme uptake and the general maintenance of intracellular heme levels has been neglected (     ). One reason for this could be that heme biosynthesis and its genes are essential and, therefore, difficult to study. In an attempt to address this issue and discover novel genes and metabolic pathways involved in the maintenance of total intracellular heme levels, we devised a heme biosensor based on a phytochrome light receptor protein architecture (     ) as per Nobles et al. (     ). After testing the efficacy of our biosensor, we then built on existing Tn-coupled “FlowSeq”-based studies (e.g., fluorescence-activated sorting of transposon mutants coupled with insertion site sequencing [FAST-INSeq] [     ], transposon-directed insertion sequencing enrichment [TraDISort] [     ], fluorescence-activated cell sorting with NGS for persister physiology [Persister-FACSeq] [     ], and others [     ,     ]) to enable the identification of genes
+     <italic toggle="yes">
+      en masse
+     </italic>
+     that affect the levels of a desired metabolite, which we dub here
+     <underline>
+      met
+     </underline>
+     abolite-coupled Tn-
+     <underline>
+      seq
+     </underline>
+     uencing (Met-Seq).
+    </p>
+    <p>
+     After three rounds of fluorescence-activated cell sorting (FACS) enrichment, Met-Seq identified 188 genes that significantly diminished the biosensor signal. Results included several known iron/heme regulatory genes such as
+     <italic toggle="yes">
+      dnr
+     </italic>
+     , which positively controls heme biosynthesis by regulation of both
+     <italic toggle="yes">
+      hemA
+     </italic>
+     and
+     <italic toggle="yes">
+      hemF
+     </italic>
+     transcription in
+     <named-content content-type="genus-species">
+      P. aeruginosa
+     </named-content>
+     (     ,     ). However, most genes that we identified had not previously been associated with heme/tetrapyrrole regulation, including genes involved in siderophore synthesis, several predicted small RNAs (sRNAs)/riboswitches, central metabolic pathways, and virulence delivery systems and their effectors, suggesting that there is a regulatory connection between these pathways and the maintenance of intracellular heme levels. We validate that
+     <italic toggle="yes">
+      dnr
+     </italic>
+     and four novel genes identified by Met-Seq affect intracellular heme levels in
+     <named-content content-type="genus-species">
+      P. aeruginosa
+     </named-content>
+     , namely, genes encoding an extracytoplasmic function (ECF) sigma factor, a lipid taxis and uptake system, and two similar proteins of unknown function which both contained a predicted antibiotic monooxygenase (ABM) domain (PA0709 and PA3390). Finally, we demonstrate that the ABM domain-containing proteins PA0709 and PA3390 are both novel heme-binding proteins in this pathogen.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s2" sec-type="results">
+    <title>
+     RESULTS
+    </title>
+    <sec id="s2.1">
+     <title>
+      Construction and testing of a heme biosensor in
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      .
+     </title>
+     <p>
+      To construct our phytochrome heme biosensor, we used an arabinose-inducible replicating parent expression vector (pSB109) to express the phytochrome-based fluorophore (PBF) protein (IFP1.4 [      ]) and a bacterial heme oxygenase (HO) as a synthetic operon, resulting in vector pIFPHO (      ). We reasoned that when induced with arabinose, free heme would be degraded to BV IXα, which would, in turn, be incorporated into the PBF to give near-infrared (NIR) fluorescence (      ) (      ,      ,      ,      ). To test this hypothesis, we transformed wild-type (WT) MPAO1 cells with either pIFPHO, pIFPHO lacking the heterologous HO (pIFP), or the empty parent vector (pSB109) and then grew cells in the presence or absence of arabinose and measured NIR fluorescence. Only cells expressing the heterologous HO fluoresced and resulted in the expected dramatic change in cellular absorbance (      ; see also      A and B in the supplemental material) (      ,      ), indicating that expression of a heterologous HO is required for biosensor detection and that virtually all of the cellular BV IXα was being provided by the pIFPHO heme biosensor-expressing plasmid. In addition, the fluorescence signal was stable over time (      C and D). Importantly, WT MPAO1 grew comparably with cells harboring either empty plasmid (pSB109) or the biosensor plasmid (pIFPHO) in minimal medium supplemented with 5 μM heme and induced with arabinose (      ). Since these conditions were identical to conditions used in our Met-Seq screen (see below), these data suggest that the biosensor does not sufficiently alter the bacterial metabolism so as to produce a stress response, and that excess carbon monoxide, an inhibitor of respiration (      ), was not produced by the HO at sufficient concentrations to affect growth.
+     </p>
+     <p>
+      We then examined if the biosensor fluorescence paralleled actual heme levels in the cell by using a standard fluorescence assay for the detection of intracellular heme (      ). This was initiated by deleting the major heme uptake system (Phu [      ]), outer membrane receptor PhuR, or the inner membrane transporter system (PhuUV) (      ) and then introducing the biosensor plasmid. After culturing, both fluorescence of the biosensor and total cellular heme (through measurement of protoporphyrin fluorescence [      ]) were measured for comparison (      and      , respectively). Results showed that the relative differences in biosensor fluorescence between the WT and deletion mutants paralleled the relative differences in intracellular heme levels, with the Δ
+      <italic toggle="yes">
+       phuR
+      </italic>
+      strain showing a marked increase in protoporphyrin-derived fluorescence compared to that for the WT, and the Δ
+      <italic toggle="yes">
+       phuUV
+      </italic>
+      strain showing a marked decrease (      and      ). These trends also held true when cells were grown under the same conditions but without the addition of arabinose (      ). However, when grown in the absence of the biosensor (pSB109), the Δ
+      <italic toggle="yes">
+       phuUV
+      </italic>
+      mutant displayed a statistically significant increase in relative heme levels instead of the decrease observed when the cells harbored the pIFPHO plasmid, regardless of whether arabinose was added (      ). This difference could be explained by the leaky expression of the HO from the pIFPHO plasmid, as determined by anti-FLAG Western blotting (      ). Taken together, these data suggest that expression of the IFPHO biosensor is an accurate read-out of intracellular free (available) heme. However, expression of the biosensor clearly altered heme homeostasis, which could then become amplified through deletion of certain genes (e.g.,
+      <italic toggle="yes">
+       phuUV
+      </italic>
+      ).
+     </p>
+     <p>
+      We then sought to test the response of the reporter strain to heme uptake or biosynthesis by the extracellular addition of either heme or the first committed precursor to heme biosynthesis, 5-aminolevulinic acid (ALA) (      ), respectively. As expected, reporter cells grown in LB supplemented with increasing concentrations of ALA showed a concomitant increased PBF fluorescence density in a dose-dependent manner (see      to      ), indicating that the biosensor detected heme biosynthesis increases. On the other hand, reporter cells cultured in medium containing heme as the sole iron source resulted in a clear dose-dependent reduction in biosensor fluorescence density (      to      ), suggesting that the presence of extracellular heme results in decreased available free intracellular heme. These results suggest that the addition of extracellular heme might be suppressing the biosynthesis of ALA/heme, a phenomenon that was previously documented in
+      <named-content content-type="genus-species">
+       Escherichia coli
+      </named-content>
+      (      ). Collectively, our data suggest that it is biosynthesized heme which is primarily being degraded by the HO heterologously provided by biosensor plasmid and therefore “seen” by our PBF reporter.
+     </p>
+     <p>
+      To further validate that our biosensor was responsive to changes in intracellular heme homeostasis, we deleted all three of the known
+      <underline>
+       o
+      </underline>
+      uter
+      <underline>
+       m
+      </underline>
+      embrane (heme)
+      <underline>
+       r
+      </underline>
+      eceptors (OMRs; PhuR, HasR, and HxuC [      ,      ]), the PhuUV inner membrane transporter, the intracellular heme chaperone PhuS (      ,      ), and the main
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      heme oxygenase, HemO (      ). We also obtained a PAO1 strain lacking the iron regulatory sRNA
+      <italic toggle="yes">
+       prrF1/2
+      </italic>
+      , which is known to influence the expression of heme-related proteins involved in both biosynthesis and uptake in
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      (      ) (      ). A strain lacking the chemotaxis gene
+      <italic toggle="yes">
+       cheY
+      </italic>
+      was generated as a negative control.
+     </p>
+     <p>
+      Most mutants demonstrated varied fluorescence compared to that of WT cells, while deletion of
+      <italic toggle="yes">
+       cheY
+      </italic>
+      had no significant effect (      and      ). Deletion of the OMR genes
+      <italic toggle="yes">
+       phuR
+      </italic>
+      (as previously observed) (      ),
+      <italic toggle="yes">
+       hxuC
+      </italic>
+      , or all three OMRs (
+      <italic toggle="yes">
+       phuR
+      </italic>
+      ,
+      <italic toggle="yes">
+       hxuC
+      </italic>
+      , and
+      <italic toggle="yes">
+       hasR
+      </italic>
+      ; the ΔOMR strain) resulted in an elevated reporter signal. However, the signal was not affected in the Δ
+      <italic toggle="yes">
+       hasR
+      </italic>
+      mutant, a gene that has been previously shown to not significantly contribute to hemin uptake under these conditions (      ). Collectively, these results may indicate a regulatory connection between OMR synthesis and heme biosynthesis, a link which was previously suggested to exist in other pathogens (      ). In contrast, deletion of cytoplasmic regulator PhuS resulted in lower signal than that from the WT, similar to deletion of genes that encode the PhuUV inner membrane components. Deletion of the iron/heme regulatory sRNA
+      <italic toggle="yes">
+       prrF1/2
+      </italic>
+      also resulted in a marked decrease in signal and added further verification to previous studies which have indicated that
+      <italic toggle="yes">
+       prrF1/2
+      </italic>
+      could influence heme-related pathways (      ,      ,      ). Finally, the deletion of
+      <italic toggle="yes">
+       hemO
+      </italic>
+      , which has been shown to control heme internalization (      ), had no significant effect on intracellular heme concentrations as measured by our biosensor. This result presents further evidence that the biosensor primarily detects free synthesized heme rather than bound/chaperoned heme internalized by the heme uptake systems, which HemO was previously shown to control (      ).
+     </p>
+     <p>
+      As a final test to validate and quantify the sensitivity of our assay for Met-Seq, WT MPAO1 cells expressing the biosensor were spiked with the brighter biosensor-expressing
+      <italic toggle="yes">
+       ΔphuR
+      </italic>
+      strain at different ratios. Addition of the
+      <italic toggle="yes">
+       ΔphuR
+      </italic>
+      fluorescent strain resulted in a concomitant dose-dependent increase in cells gated in a bright “
+      <italic toggle="yes">
+       ΔphuR”
+      </italic>
+      fluorescence gate (see      to      ). These data demonstrate that small populations of cells with an altered PBF fluorescence phenotype may be identified by flow cytometry using our PBF biosensor system and could therefore be isolated by FACS.
+     </p>
+    </sec>
+    <sec id="s2.2">
+     <title>
+      Library construction and Met-Seq.
+     </title>
+     <p>
+      After validation of the PBF reporter strain, we sought to discover novel genes involved in heme metabolism using the Met-Seq method (illustrated in      ). This was accomplished by first creating a Tn mutant library using the
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      strain MPAO1 (      ) followed by introduction of a modified pIFPHO biosensor plasmid (pIFPHO_AR; see Materials and Methods for details) into the pooled library. We then compared fluorescence of the pooled Tn library population to that that of WT MPAO1 cells by using flow cytometry. As expected, the mean fluorescence values were similar (      and      ); however, slightly greater proportions of library transformants were noted in the defined “dim” and “bright” population gates (      , top three panels), suggesting that the library contained a distinct set of Tn insertions resulting in differential reporter fluorescence. Cells which appeared within the dim and bright populations were then sorted and collected by FACS, propagated, and sorted once again for enrichment as per the Met-Seq protocol (see      ).
+     </p>
+     <p>
+      Following the initial round of enrichment (E1), the dim cells showed a moderate enrichment (5.09% to 14.3% of the library falling into the dim gate), which then increased more substantially to 33.7% after the second (E2) enrichment (      ). Cells falling into the dim gate in E2 were then collected by FACS in a final (third) enrichment (E3). Isolation of biosensor plasmids from randomly selected colonies in the E3 population revealed that 2 of 18 tested clones (11%) resulted in no detectable fluorescent signal when introduced into
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      DH5α (      ), strongly suggesting these colonies had biosensor plasmids which had incurred a mutation that rendered them “dark” rather than a bona fide Tn insertion. In contrast to the dim collected cells, the bright gate did not show an appreciable number of divergent events (1.93%) (      ), nor did it exhibit a measurable enrichment (data not shown), and was therefore not pursued further. As a final control to ensure that the enrichment of the dim population in the pooled library was due to Tn insertions in heme-related genes and not due to random genetic variation, WT MPAO1 cells harboring the pIFPHO_AR biosensor plasmid were gated in parallel and enriched using the same criteria applied to the pooled Tn library. As expected, no enrichment occurred (      E and F).
+     </p>
+    </sec>
+    <sec id="s2.3">
+     <title>
+      Analyses of the Tn library.
+     </title>
+     <p>
+      To determine the genomic location of Tn insertions in cells enriched in the dim population, the original library and the three dim enrichment populations harboring pIFPHO_AR (library and E1 to -3, respectively) were analyzed using Tn sequencing (Tn-seq) (      ,      ). Sequencing revealed that the pooled Tn library harbored 4,988 unique insertions, of which 3,385 were within the 1,775 annotated MPAO1 open reading frames (ORFs) (of 5,570 total ORFs). Overall, data indicated insertions in 31.8% of the total
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      MPAO1 predicted ORFs. Approximately 12% of MPAO1 genes are essential in rich medium (LB) (      ). However, because we used minimal medium in this study, this percentage could be greater. Even so, our Tn library missed 3,418 genes, or 61.4%, indicating that our coverage was not saturating. However, as many of the Tn insertions obtained were within operons and promoter (regulatory) regions, we reasoned that such insertions could disrupt the function of several genes simultaneously (i.e., operon transcript disruption), thereby enhancing our overall genome coverage. Nevertheless, several known genes involved in heme uptake and metabolism (e.g., several
+      <italic toggle="yes">
+       has
+      </italic>
+      ,
+      <italic toggle="yes">
+       phu
+      </italic>
+      , and
+      <italic toggle="yes">
+       hxuC
+      </italic>
+      genes) were absent from our Tn library and therefore could not be enriched for as internal controls. A list of known heme-related genes and their Tn insertions in our library is shown in      .
+     </p>
+     <p>
+      We observed that the total number of unique Tn insertions decreased sequentially with each enrichment, while a defined subset of insertions increased (      ). There was also a noted sharp decrease in the number of unique Tn insertions between the initial unsorted Tn library and E2 populations. Conversely, between E2 and E3 populations, the number of genes with Tn insertions remained more constant. Further analyses using our
+      <underline>
+       T
+      </underline>
+      n-
+      <underline>
+       S
+      </underline>
+      eq
+      <underline>
+       a
+      </underline>
+      nalysis
+      <underline>
+       s
+      </underline>
+      oftware (TSAS) (      ) revealed that the sequencing coverage was sufficient for the complexity of our library (      ; see Materials and Methods for further details).
+     </p>
+     <p>
+      The final Met-Seq output (E3 hits) is displayed in      and contains 188 genes, 150 of which were determined to have a positive change in reads of &gt;2-fold over the initial library representation and 143 of which had a statistically significant
+      <italic toggle="yes">
+       P
+      </italic>
+      value of 0.05 or less. In addition to tabulating these 188 Tn insertions within ORFs, we also applied the same constraints to Tn insertions identified within promoter (regulatory) regions upstream of ORFs (within 100 bp upstream of the ATG start codon; 23 hits) (      ) and, finally, predicted sRNAs and riboswitches based on references (      ,      ) (11 hits) (      ). A graphical output showing the entire Tn insertion library coverage of the
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      genome is displayed in      , and the enrichment of a subset of Tn insertions within specific genes/operons that were investigated further is shown in      .
+     </p>
+    </sec>
+    <sec id="s2.4">
+     <title>
+      Assessment of the dim E3 population.
+     </title>
+     <p>
+      The final dim hits, i.e., ones with Tn insertions presumed to result in less intracellular heme available to the biosensor, were applied to functional categories using manual BLAST searches and also computational analyses via the STRING (      ) database. Functional category data generated using STRING displayed with Gene Ontology (GO), KEGG (      ), and Cytoscape ontology enrichment analysis (      ) are shown in      and graphically in      . To expand on these results, we also uploaded Met-Seq hits (      ) into the Database for Annotation, Visualization and Integrated Discovery (DAVID) online bioinformatics resource, (      ), which resulted in an expanded list of 15 functional clusters of genes and further categorized Met-Seq hits into (i) heme-related, (ii) iron-related, (iii) cytochrome and electron transport-related, and (iv) siderophore-related functional categories (      ).
+     </p>
+     <p>
+      STRING-generated data identified metabolic connections within 6 major categories that consisted of (i) heme-binding proteins, (ii) transmembrane/transport, (iii) metabolism, (iv) virulence factors, (v) transcriptional regulation, and (vi) “other.” Interestingly, the genes identified in the “other” category made centralized connections to the remaining five categories and included Dnr, a transcription factor which binds heme and regulates heme biosynthesis and anaerobic metabolic adaptation in pseudomonads and other Gram-negative bacteria (      ,      ,      ) (      ). Of particular interest were the metabolism-related hits, which collectively pointed to the utilization of specific amino acids and other molecular building blocks required to synthesize the TCA intermediate succinate, a preferred carbon source of
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      (      ). Succinate would then be predicted to drive heme biosynthesis (      ).
+     </p>
+     <p>
+      In total, the genes of the most represented functional category identified by manual annotation in the E3 population were involved in metabolism, followed by genes of unknown function, transport, regulation, and adherence/motility (      ). Notably, Tn enrichments were observed within two different arabinose transport systems (PA5219 and PA4113) (      ), which served as excellent internal controls, as we used arabinose to induce biosensor expression.
+     </p>
+     <p>
+      A comprehensive diagram of heme-related pathways identified by Met-Seq is shown in      . Below, we describe noteworthy Met-Seq hits (      ) in five functional categories related to (i) heme biosynthesis and uptake, (ii) siderophores and iron, (iii) central metabolism, (iv) virulence, and (v) unknown function.
+     </p>
+    </sec>
+    <sec id="s2.5">
+     <title>
+      (i) Heme biosynthesis and uptake.
+     </title>
+     <p>
+      ALA is the first committed precursor for heme biosynthesis and can be made via either the C
+      <sub>
+       4
+      </sub>
+      or C
+      <sub>
+       5
+      </sub>
+      pathway (      ). In the C
+      <sub>
+       5
+      </sub>
+      pathway, HemA initially reduces glutamyl-tRNA      to glutamate-1-semialdehyde, which is subsequently converted to ALA by HemL (glutamate-1-semialdehyde aminotransferase [      ]), and is the sole known synthesis pathway for most prokaryotes, including pseudomonads (      ,      ). The alternative pathway is the C
+      <sub>
+       4
+      </sub>
+      or Shemin pathway, which generates ALA instead by the condensation of succinyl-CoA and glycine through the action of ALA synthetase (      ), and is predominantly found in eukaryotes and some select bacteria (      ,      ).
+     </p>
+     <p>
+      An interesting gene identified by Met-Seq that could contribute to C
+      <sub>
+       5
+      </sub>
+      heme synthesis was glutamyl queuosine-tRNA      synthetase (GluQ-RS) (locus number PA4724; reads enriched 4-fold) (      ). GluQ-RS is a paralog of the canonical glutamyl-tRNA synthetase catalytic domain, responsible for catalyzing the formation of glutamyl-queuosine on the wobble position of tRNA      (      ). Although a function has not been determined for the accumulation of glutamyl-queuosine other than a possible role in stress response signaling (      ), its function could potentially alter the overall glutamate pool required for the C
+      <sub>
+       5
+      </sub>
+      heme biosynthesis pathway. Genes that could affect synthesis of ALA itself were also found in the E3 population, including a potential HemL paralog, PA5523, whose precise metabolic role remains to be determined.
+     </p>
+     <p>
+      We also identified two enriched Tn insertions within the heme
+      <italic toggle="yes">
+       d
+      </italic>
+      <sub>
+       1
+      </sub>
+      biosynthesis pathway operon (
+      <italic toggle="yes">
+       nirJ
+      </italic>
+      [
+      <italic toggle="yes">
+       PA0511
+      </italic>
+      ] and
+      <italic toggle="yes">
+       nirL
+      </italic>
+      [
+      <italic toggle="yes">
+       PA0509
+      </italic>
+      ], enriched ∼3.6- and 2-fold, respectively) (      ). Heme
+      <italic toggle="yes">
+       d
+      </italic>
+      <sub>
+       1
+      </sub>
+      is a specific cofactor used by dissimilatory nitrite reductase (a key enzyme in the denitrification pathway), which occurs under anaerobic or low-oxygen conditions and allows
+      <italic toggle="yes">
+       Pseudomonas
+      </italic>
+      sp. to utilize N-oxides as terminal electron acceptors in low-oxygen environments such as the cystic fibrosis lung (      ). The importance of denitrification in influencing
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      heme levels was further supported by an insertion in a possible
+      <italic toggle="yes">
+       norV
+      </italic>
+      homolog (
+      <italic toggle="yes">
+       PA4348
+      </italic>
+      , enriched &gt;4-fold) and
+      <italic toggle="yes">
+       norD
+      </italic>
+      (
+      <italic toggle="yes">
+       PA0525
+      </italic>
+      , enriched 1.5-fold), both involved in nitric oxide detoxification (      ) (      ). The
+      <italic toggle="yes">
+       nir
+      </italic>
+      denitrification operon has been directly tied to iron/heme regulation by way of the sRNA
+      <italic toggle="yes">
+       prrF1
+      </italic>
+      /
+      <italic toggle="yes">
+       2-prrH
+      </italic>
+      , as well as the nitric oxide-sensing and heme-binding transcription factor Dnr (      ,      ) that directly controls
+      <italic toggle="yes">
+       hemA
+      </italic>
+      expression and therefore heme biosynthesis (      ). In support of this regulatory relationship, the
+      <italic toggle="yes">
+       dnr
+      </italic>
+      Tn insertion clone was enriched in our E3 data set (enriched 6.4-fold) (      and      ) along with the gene encoding the integration host factor (IHF) regulator histone-like binding protein (
+      <italic toggle="yes">
+       PA5348
+      </italic>
+      , enriched &gt;2-fold), which has also been shown to directly regulate the
+      <italic toggle="yes">
+       hemA
+      </italic>
+      transcript (      ). A clean deletion in the
+      <italic toggle="yes">
+       dnr
+      </italic>
+      gene (
+      <italic toggle="yes">
+       PA0527
+      </italic>
+      ) and measurement of biosensor fluorescence density in the presence of either ALA or heme indeed demonstrated a reduction in reporter signal (      and      ).
+     </p>
+     <p>
+      To further verify that Met-Seq had provided a gene set that influenced actual intracellular heme levels, we also measured intracellular heme directly and, this time, in the absence of the biosensor, using both a hemochrome assay based on absorbance (      ) and a fluorescence-based assay that ultimately detects protoporphyrin (      ) (      and      ). When heme levels were measured in the
+      <italic toggle="yes">
+       dnr
+      </italic>
+      mutant (Δ
+      <italic toggle="yes">
+       PA0527
+      </italic>
+      ) and compared to those in the WT, we observed a concomitant reduction in total intracellular heme (      ), verifying that Dnr positively influences heme levels in
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      (      ). Although the Δ
+      <italic toggle="yes">
+       phuR
+      </italic>
+      control showed higher heme concentrations, which paralleled our results with the biosensor present in this strain, interestingly, the Δ
+      <italic toggle="yes">
+       phuUV
+      </italic>
+      and Δ
+      <italic toggle="yes">
+       hemO
+      </italic>
+      strains trended differently, with the Δ
+      <italic toggle="yes">
+       phuUV
+      </italic>
+      strain (in the absence of the biosensor) showing increased heme levels and the Δ
+      <italic toggle="yes">
+       hemO
+      </italic>
+      strain trending slightly lower or unchanged depending on the assay (compare      and      ). We again attribute this result to the biosensor having an effect on intracellular heme levels in some of the mutants.
+     </p>
+     <p>
+      In general, Met-Seq failed to identify enrichment of Tn insertions within most known heme uptake systems (e.g.,
+      <italic toggle="yes">
+       phuSTUVW
+      </italic>
+      operon), even though Tn insertions were present within most of these genes in the initial library (      ). Although some were enriched within the first round (E1) (e.g.,
+      <italic toggle="yes">
+       phuV
+      </italic>
+      ), the reason for this remains unclear but could be due to these mutants being outcompeted during the initial library heme starvation step and/or subsequent growth and enrichments. Nevertheless, STRING output identified 16 known heme-binding proteins from our Met-Seq screen.
+     </p>
+     <p>
+      PsdR was one protein identified by STRING as having a connection to heme-binding proteins (PA4499; enriched by ∼2-fold) (      and      A to C;      ). PsdR is a transcription factor which functions to repress the
+      <italic toggle="yes">
+       dpp
+      </italic>
+      transporter operon, which is responsible for uptake of peptides in
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      (      ,      ). Interestingly, the
+      <italic toggle="yes">
+       dpp
+      </italic>
+      transporter operon is induced under low-iron conditions and involved in the binding and uptake of heme as well as the heme precursor ALA in many other Gram-negative pathogens, including
+      <named-content content-type="genus-species">
+       Salmonella enterica
+      </named-content>
+      serovar Typhimurium (      ),
+      <named-content content-type="genus-species">
+       Escherichia coli
+      </named-content>
+      (      ), and
+      <named-content content-type="genus-species">
+       Haemophilus influenzae
+      </named-content>
+      (      ), but thus far not
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      . This observation suggests a link between intracellular heme levels and regulation of
+      <italic toggle="yes">
+       dpp
+      </italic>
+      , and that the
+      <italic toggle="yes">
+       Pseudomonas
+      </italic>
+      sp. Dpp homolog could also serve as a heme and/or ALA transporter.
+     </p>
+     <p>
+      Another interesting tetrapyrrole-related hit was identified as a predicted cobalamin (vitamin B
+      <sub>
+       12
+      </sub>
+      ) synthesis pathway riboswitch,
+      <italic toggle="yes">
+       cobG
+      </italic>
+      (      ,      ) (between the
+      <italic toggle="yes">
+       cobG
+      </italic>
+      open reading frame [
+      <italic toggle="yes">
+       PA2906
+      </italic>
+      ] and
+      <italic toggle="yes">
+       PA2907
+      </italic>
+      ; enriched by 4-fold). This
+      <italic toggle="yes">
+       cobG
+      </italic>
+      riboswitch homolog was identified in a
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      transcriptome sequencing (RNA-seq) study (      ) and contains the signature sequences known to bind cobalamin (      ), a metabolite whose synthesis directly branches from the heme intermediate product uroporphyrinogen III (      ). Future work will determine if this sRNA is a novel riboswitch that regulates cobalamin and heme biosynthesis pathways in this pathogen.
+     </p>
+    </sec>
+    <sec id="s2.6">
+     <title>
+      (ii) Siderophore and iron-related genes.
+     </title>
+     <p>
+      Manual (      ) and computational (      ) annotation identified several enriched Tn insertions within genes that govern iron acquisition through siderophore biosynthesis and uptake. These data suggest a regulatory connection between cellular heme levels, its biosynthesis, and iron uptake systems. Notable hits included
+      <italic toggle="yes">
+       chtA
+      </italic>
+      (
+      <italic toggle="yes">
+       PA4675
+      </italic>
+      ) (      ) and
+      <italic toggle="yes">
+       fptA
+      </italic>
+      (
+      <italic toggle="yes">
+       PA4221
+      </italic>
+      ) (      ), both of which have been identified in outer membrane vesicles (OMVs), the genes encoding the master pyochelin regulator PchR (
+      <italic toggle="yes">
+       PA4227
+      </italic>
+      ) (      ,      ), the PiuA iron receptor (
+      <italic toggle="yes">
+       PA4514
+      </italic>
+      ) (      ), and the predicted FoxB xenosiderophore operon (
+      <italic toggle="yes">
+       PA2464
+      </italic>
+      ) (      ). Two genes encoding ECF factors,
+      <italic toggle="yes">
+       PA1363
+      </italic>
+      and
+      <italic toggle="yes">
+       PA0149
+      </italic>
+      , predicted to regulate siderophore and metal uptake, respectively, also emerged in our E3 population (
+      <italic toggle="yes">
+       PA0149
+      </italic>
+      was enriched 4-fold) (      ).
+     </p>
+     <p>
+      Interestingly, PA0149 bears 48% identity to pyoverdine regulator PvdS (      ,      ) and is in a predicted operon containing a homolog of the iron uptake regulator FecR (PA0150) (      ) (      ,      ). Similar to that for Dnr, we made a clean deletion of
+      <italic toggle="yes">
+       PA0149
+      </italic>
+      in MPAO1, introduced the biosensor, measured fluorescence density over time with either ALA or heme added, and also measured total intracellular heme levels using two different methods. Results demonstrated a lower biosensor florescence level over time compared to that for the WT (up to 22% reduction) (      and      ). In the absence of the biosensor, more direct measurements of the heme levels in the mutant showed a similar reduction compared to the WT level (      ), indicating that PA0149 is linked to intracellular heme levels and that Met-Seq was capable of identifying such novel associations.
+     </p>
+     <p>
+      Enriched Tn insertions were also observed within several sulfur transport and metabolism genes, which have been explicitly linked to pyochelin biosynthesis through replenishing the cysteine pool in pseudomonads and related species (      ,      ) (      ). These insertions were found within the sulfite reductase gene
+      <italic toggle="yes">
+       cysI
+      </italic>
+      (
+      <italic toggle="yes">
+       PA1838
+      </italic>
+      ) and other genes involved in sulfate transport (
+      <italic toggle="yes">
+       cysW
+      </italic>
+      [
+      <italic toggle="yes">
+       PA0281
+      </italic>
+      ],
+      <italic toggle="yes">
+       PA0278
+      </italic>
+      , and
+      <italic toggle="yes">
+       PA2563
+      </italic>
+      ) (      ).
+      <italic toggle="yes">
+       cysW
+      </italic>
+      and
+      <italic toggle="yes">
+       PA0278
+      </italic>
+      Tn insertions were enriched 4-fold in the E3 population (      ), suggesting potential importance in heme regulation. In further support of a connection between sulfur and heme/iron metabolism, Nelson et al. have reported that cysteine biosynthesis and sulfur assimilation pathway protein levels are associated with intracellular iron depletion (      ). Additionally,
+      <sc>
+       l
+      </sc>
+      -cysteine can be catabolized to glutamate, which then can enter the C
+      <sub>
+       5
+      </sub>
+      heme biosynthesis pathway directly (      ).
+     </p>
+     <p>
+      Another enriched Tn insertion related to iron acquisition was found within the upstream regulatory region of the
+      <italic toggle="yes">
+       phzH
+      </italic>
+      ORF, an enzyme that converts the chorismate-based metabolite phenazine-1-carboxylic acid (PCA) to phenazine-1-carboxamide (      ) (      ). In the absence of siderophores, PCA is able to reduce ferric iron (Fe      ) to ferrous iron (Fe      ), enabling iron acquisition (      ). In addition, a Tn insertion was identified downstream of a PhzF1 homolog ORF encoded by
+      <italic toggle="yes">
+       PA3578
+      </italic>
+      (enriched 2.5-fold) (      ;      ). This region is predicted to be transcribed (      ,      ) and encompasses the 105 bp upstream of the small hypothetical gene
+      <italic toggle="yes">
+       PA3577
+      </italic>
+      . As illustrated in      , the potential leader RNA is predicted to form a hairpin loop secondary structure and could therefore encode a novel
+      <italic toggle="yes">
+       PA3577
+      </italic>
+      -associated riboswitch.
+     </p>
+    </sec>
+    <sec id="s2.7">
+     <title>
+      (iii) Central metabolism.
+     </title>
+     <p>
+      The greatest number of heme-related genes identified by both manual and computational Met-Seq analyses were associated with the regulation and enzymatic activity of central metabolic pathways (      ). One example is
+      <italic toggle="yes">
+       creB
+      </italic>
+      (
+      <italic toggle="yes">
+       PA0463
+      </italic>
+      ) and
+      <italic toggle="yes">
+       creC
+      </italic>
+      (
+      <italic toggle="yes">
+       PA0464
+      </italic>
+      ) (      ;      ), a two-component signaling system that regulates production of the TCA cycle entry molecule acetyl-CoA (      ). Interestingly, the CreC histidine kinase recognizes a peptide derived from the iron-binding host protein lactoferrin, which is an important source of iron during infection (      ). In this same pathway, Met-Seq identified insertions both in
+      <italic toggle="yes">
+       acsA
+      </italic>
+      (
+      <italic toggle="yes">
+       PA0087
+      </italic>
+      ) and
+      <italic toggle="yes">
+       acsB
+      </italic>
+      (
+      <italic toggle="yes">
+       PA4733
+      </italic>
+      ), the aspartate decarboxylase
+      <italic toggle="yes">
+       panD
+      </italic>
+      (      ) (enriched by &gt;33-fold) (      ), and finally, several genes linked to beta oxidation, all of which are involved in the formation of acetyl-CoA, which ultimately drives the TCA cycle and therefore heme production (      ). Finally, the second most enriched Tn insertion was within
+      <italic toggle="yes">
+       PA0747
+      </italic>
+      (enriched by &gt;41-fold) (      ) and is part of a predicted 5-gene operon (
+      <italic toggle="yes">
+       PA0743
+      </italic>
+      to
+      <italic toggle="yes">
+       PA0747
+      </italic>
+      ) required for
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      virulence and siderophore production (      ). Although the precise function of PA0747 is unknown, it bears a 47% identity and predicted structural similarity to MmsA, an enzyme that uses CoA and valine to eventually synthesize succinyl-CoA from the propionate pathway (      ) (      ). Of note, the propionate pathway was identified as enriched by STRING (      and      ) and points to propionate as a carbon source that
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      might use to feed into the TCA cycle to enhance heme production.
+     </p>
+     <p>
+      One of the most prominently represented metabolic pathways identified from our screen was that of chorismate (      ), a central metabolite best recognized as the precursor for aromatic amino acids (      ) and the pseudomonas quorum sensing (PQS) molecule. PQS can either be synthesized via the precursor anthranilate or by catabolism of tryptophan via the kynurenine pathway (      ,      ) (      ). Met-Seq identified enrichments in the
+      <italic toggle="yes">
+       phnA
+      </italic>
+      /
+      <italic toggle="yes">
+       B
+      </italic>
+      operon responsible for anthranilate synthesis (
+      <italic toggle="yes">
+       PA1001
+      </italic>
+      /
+      <italic toggle="yes">
+       PA1002
+      </italic>
+      ) (      ) and a gene encoding a predicted kynurenine aminotransferase, whose precise function remains to be determined (      ) (
+      <italic toggle="yes">
+       PA3798
+      </italic>
+      ; enriched by &gt;41-fold) (      ). In addition to PQS, several other metabolic pathways connected with that of chorismate were identified in the screen, including that of (i) the siderophore pyochelin (PchR; Tn insertion in
+      <italic toggle="yes">
+       PA4227
+      </italic>
+      ), (ii) phenazine biosynthesis (PhzH; Tn insertion within the promoter region of
+      <italic toggle="yes">
+       PA0051
+      </italic>
+      ) (      ), (iii) folate biosynthesis via the PabABC pathway (Tn insertion in
+      <italic toggle="yes">
+       pabB
+      </italic>
+      [
+      <italic toggle="yes">
+       PA1758
+      </italic>
+      ]), and several within the
+      <italic toggle="yes">
+       AroBCDEFG
+      </italic>
+      operon (
+      <italic toggle="yes">
+       aroG1
+      </italic>
+      [
+      <italic toggle="yes">
+       PA1750
+      </italic>
+      ],
+      <italic toggle="yes">
+       aroG2
+      </italic>
+      [
+      <italic toggle="yes">
+       PA2843
+      </italic>
+      ], and again PhzH [
+      <italic toggle="yes">
+       PA0051
+      </italic>
+      ]) (      ) (      ;      ).
+     </p>
+     <p>
+      Also noteworthy, Met-Seq identified two enriched Tn insertions within the vanillin synthesis operon
+      <italic toggle="yes">
+       vanAB
+      </italic>
+      (
+      <italic toggle="yes">
+       PA4904
+      </italic>
+      /
+      <italic toggle="yes">
+       PA4905
+      </italic>
+      ; both enriched &gt;4-fold) (      ), responsible for the synthesis of this aromatic metabolite that branches off the shikimic acid pathway (      ). The VanAB proteins together comprise active vanillate demethylase, an enzyme required for the conversion of vanillin to 3,4-dihydroxybenzoic acid (3,4-DB). 3,4-DB is a known microbial siderophore and possesses the iron-binding moiety of petrobactin (      ,      ), a siderophore which was not previously described in
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      . In other Gram negatives, oxidized vanillin (vanillic acid) regulates quorum sensing, biofilm formation, virulence, and, importantly, iron transport and heme biosynthesis (      ) by inhibition of the fatty acid synthesis protein FabG, a homolog of which is also enriched in our Met-Seq data by &gt;4-fold enrichment (PA0182) (      ).
+     </p>
+     <p>
+      STRING analysis of our E3 Tn insertion population revealed additional metabolic pathways that were not obvious to us from manual annotation (      ). Especially interesting were arginine and proline pathways, which are metabolically linked (      and      ). Routes to heme biosynthesis through arginine include both arginine succinyl transferase (AST) and arginine transaminase (ATA) pathways (      ) or, alternatively, arginine can be catabolized either through the arginine decarboxylase (ADC) pathway to the polyamine entry molecule putrescine or by the arginine decarboxylase IdcA to cadaverine (      ). The ADC and ATA pathways both provide precursors for the TCA entry substrate succinate, a preferred carbon source of
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      , whereas the AST pathway eventually produces the intermediate ornithine. From this central point, ornithine can be converted to either glutamic acid, which can enter the heme biosynthesis pathway at the HemA stage, or proline, which can enter at the HemL stage (      ). Enriched Tn insertions were obtained by Met-Seq in all the aforementioned pathways with the exception of the AST route.
+     </p>
+    </sec>
+    <sec id="s2.8">
+     <title>
+      (iv) Virulence factors.
+     </title>
+     <p>
+      Our Met-Seq screen identified a surprising number of virulence factors (      ), a functional category that, to the best of our knowledge, was not previously suggested to regulate intracellular heme levels. Met-Seq hits in this category included PopB, the main chaperone for type III secretion system (T3SS) effectors (      ) (enriched &gt;4-fold). However, virulence factors associated with the type 6 secretion system (T6SS) were much better represented (      ). These hits included Tn insertions within genes encoding a predicted lipase with an α-β hydrolase domain (
+      <italic toggle="yes">
+       PA0260
+      </italic>
+      ; 2-fold enrichment) (      ), the Tle4 phospholipase family protein T6SS effector TplE (
+      <italic toggle="yes">
+       PA1510
+      </italic>
+      ; 4-fold enrichment) (      ), and the Vrgb1-dependent nuclease toxin (      ) (
+      <italic toggle="yes">
+       PA0099
+      </italic>
+      , 4-fold enrichment). Several other lipases and host lipid-degrading virulence factors were also enriched, including SphC and CerN that are both important for host lung surfactant sphingolipid degradation (      ), the secreted arachidonate 15-lipoxygenase (LoxA) that helps limit host-induced inflammation (      ), and two predicted patatin-like domain-containing lipases (the
+      <italic toggle="yes">
+       PA2660/PA2661
+      </italic>
+      operon and RssA [PA3241]) (      ). Finally, the
+      <italic toggle="yes">
+       PA0026-PA0028
+      </italic>
+      operon was enriched in our screen, which is involved in lipid chemotaxis and excretion of a phospholipase (      ). Subsequent deletion of
+      <italic toggle="yes">
+       PA0028
+      </italic>
+      , a gene of unknown function in this operon, was then reassessed using our biosensor. Results trended toward a decrease in biosensor signal that varied (up to an 11% decrease) depending on the growth phase and addition of ALA or heme (      and      ). Subsequent measurements comparing intracellular heme levels between WT MPAO1 cells and the Δ
+      <italic toggle="yes">
+       PA0028
+      </italic>
+      strain showed a decrease in total intracellular heme concentrations, further verifying that this operon influences intracellular heme levels (      ).
+     </p>
+     <p>
+      After the
+      <italic toggle="yes">
+       PA0026-PA0028
+      </italic>
+      operon facilitates taxis and enzymatic breakdown of phosphatidylcholine (PC) to choline, the choline can be internalized and further catabolized. Indeed, Met-Seq also identified two homologs of the choline dehydrogenase BetA (PA3710 and PA5372), which metabolizes choline to glycine betaine (GB). GB then eventually yields glycine, which can then enter the C
+      <sub>
+       4
+      </sub>
+      heme biosynthesis pathway directly (      ). Intriguingly, both choline and GB can act as sources of energy to promote survival in the lung and have been shown to regulate hemolytic phospholipase C (PlcH) production in
+      <italic toggle="yes">
+       Pseudomonas
+      </italic>
+      sp. (      ). Further support of a possible phospholipid-heme regulatory connection illuminated by our studies comes from several enriched genes that are able to transport choline and/or GB into the bacterial cell (presumably after extracellular host phospholipid cleavage). These Met-Seq hits included (i)
+      <italic toggle="yes">
+       PA5378
+      </italic>
+      (
+      <italic toggle="yes">
+       cbcX
+      </italic>
+      ), which encodes a periplasmic choline-binding protein and is part of the
+      <italic toggle="yes">
+       cbcXWV
+      </italic>
+      choline uptake operon (      ), (ii)
+      <italic toggle="yes">
+       PA5401
+      </italic>
+      , which encodes a predicted GB transporter, and (iii) two genes encoding predicted glycine transporters (
+      <italic toggle="yes">
+       PA2252
+      </italic>
+      and
+      <italic toggle="yes">
+       PA3641
+      </italic>
+      ) (      and      ). Taken together, the plethora of Tn insertions identified by Met-Seq within the GB/choline uptake and catabolism genes are consistent with the literature, which has clearly shown that both GB and choline are potent stimulators of heme biosynthesis and B
+      <sub>
+       12
+      </sub>
+      biosynthesis in pseudomonads (      ). Nevertheless, as pseudomonads and most other nonphotosynthetic bacteria do not have the C
+      <sub>
+       4
+      </sub>
+      biosynthesis pathway, which relies on glycine as an entry substrate for heme synthesis (      ), the question still remains as to the precise metabolic roles choline/GB play in heme regulation.
+     </p>
+    </sec>
+    <sec id="s2.9">
+     <title>
+      (v) Unknown function.
+     </title>
+     <p>
+      Some of the most exciting findings from these studies were genes of unknown function. To validate that such genes were indeed a contributing factor to heme biosynthesis and not artefactual, we chose two related genes to further investigate from our E3 population,
+      <italic toggle="yes">
+       PA3390
+      </italic>
+      and
+      <italic toggle="yes">
+       PA0709
+      </italic>
+      , which we first determined influenced actual intracellular heme levels (      ). Both of these genes are ABM domains, some of which have been implicated in the catabolism of heme in
+      <named-content content-type="genus-species">
+       Staphylococcus aureus
+      </named-content>
+      (      ),
+      <named-content content-type="genus-species">
+       Mycobacterium tuberculosis
+      </named-content>
+      (      ), and many other microbes (      ). Interestingly, both
+      <italic toggle="yes">
+       PA3390
+      </italic>
+      and
+      <italic toggle="yes">
+       PA0709
+      </italic>
+      are transcriptionally linked to glyoxal detoxification enzymes (      ,      ), possibly suggesting a functional connection to the presence of this ubiquitous toxin (      ). Deletion of
+      <italic toggle="yes">
+       PA0709
+      </italic>
+      and
+      <italic toggle="yes">
+       PA3390
+      </italic>
+      resulted in a reduction in the total cellular heme levels as compared to WT using the absorption assay. Using the fluorescence-based assay, the
+      <italic toggle="yes">
+       PA0709
+      </italic>
+      deletion strain trended similarly, whereas the
+      <italic toggle="yes">
+       PA3390
+      </italic>
+      deletion instead resulted in a large and statistically significant increase in heme levels (      ). The reason for this increase in heme levels in the
+      <italic toggle="yes">
+       PA3390
+      </italic>
+      deletion strain remains unclear but could be attributed to the assay itself, where the iron is stripped from heme and protoporphyrin IX fluorescence is ultimately measured. These data indicate that although PA0709 and PA3390 share much homology, they could play different cellular roles in heme homeostasis.
+     </p>
+     <p>
+      As ABM domains have been shown to bind and metabolize heme, the next logical experiment was to investigate if PA0709 and PA3390 could also bind heme. To this end, both PA0709 and PA3390 were expressed and purified to homogeneity (      ), and heme was added incrementally before absorbance spectra were collected. After heme addition, the samples exhibited a notable change in color (      ) and the typical increase in absorbance (peak 412 nm) indicative of protein-heme interactions (      and      ). An examination of the saturation concentrations suggested that PA0709 binds one molecule of heme per monomer, whereas PA3390 binds two (similar to the heme-degrading enzyme MhuD [      ]). Next, we examined if PA0709 and PA3390 were heme-degrading enzymes by first saturating the proteins with heme and then adding an electron donor and monitoring absorbance over time. Results shown in      showed no appreciable decrease in absorbance at 412 nm and no increase in absorbance around 575 nm, which is indicative of biliverdin accumulation (      ). These data demonstrate that both ABM domains do not degrade heme and likely have another regulatory function, such as signaling or chaperoning.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s3" sec-type="discussion">
+    <title>
+     DISCUSSION
+    </title>
+    <p>
+     The ability to exploit biosensors to more directly monitor intracellular metabolites provides the most accurate assessment of intracellular metabolite concentration in real time. Here, we describe a method (Met-Seq) where we combine a heme biosensor with FACS and extend the available Tn-Seq technology to identify new factors that influence the intracellular heme concentrations in the pathogen
+     <named-content content-type="genus-species">
+      P. aeruginosa
+     </named-content>
+     . The uniqueness of Met-Seq over other massively parallel sequencing methods is that it can be used to monitor metabolites directly, rather than relying on inference through measurement of promoter activity, RNA (RNA-seq), or protein levels (proteomics), all of which do not always correlate with concentrations of their metabolic end products due to posttranscriptional and posttranslational regulation (     ).
+    </p>
+    <p>
+     Aside from the more obvious tetrapyrrole-related genes obtained in the screen, a less understood and more complex overall picture emerged of
+     <named-content content-type="genus-species">
+      P. aeruginosa
+     </named-content>
+     intracellular heme control (collectively illustrated in     in the supplemental material and represented by STRING output data in     ). One major metabolic pathway that appeared to surface extensively was the chorismate pathway (relevant Met-Seq hits highlighted in cyan in     ). Chorismate is a precursor molecule of the three aromatic amino acids and many other important aromatic compounds (e.g., for the synthesis of the siderophore enterobactin, folate, ubiquinones, and the quorum sensing signal PQS) (     ). We detected one or more enriched Tn insertions within all of these pathways, including three insertions within the Shikimate pathway, responsible for producing chorismate itself (     ). The precise reason why this central metabolic pathway was substantially enriched in our screen remains unclear; however, we can speculate as to some possibilities. In a direct connection to iron regulation, chorismate is the precursor for PQS, which has been shown to directly bind iron and aid in its uptake through the siderophore pyochelin and its transporter FptA (enriched in the E3 population) (     ). This process is facilitated by the formation of OMVs through the action of the T6SS and the effector TseF (PA2374, also enriched in our screen) (     ) (     ). TseF is incorporated into the PQS-containing OMVs and interacts directly with the PQS-pyochelin complex to then facilitate internalization of the PQS-iron through FptA and the OprF porin (     ) (     ). Indeed, it is PQS itself that is responsible for driving the formation of OMVs (     ).
+    </p>
+    <p>
+     A possible explanation for a regulatory connection between T6SS effectors and intracellular heme/iron levels could involve OMVs, where they help deliver virulence factors (e.g., hemolysins) into host cells to acquire nutrients during infection, especially iron and heme (     ,     ). Such action is generally thought to result from stress brought on by the competitive, nutrient-deprived environment of the host (     ) (or in this case, possibly, the minimal medium used in the Met-Seq screen). In support of this connection, in addition to the TseF effector, we found a total of 10 genes with enriched Tn insertions in our E3 population that have all been identified as present in OMVs (     ) (boxed in gray in     ). Moreover, studies have shown that nutrient-driven stresses cause a hyperproducing OMV phenotype (     ), which likely results in virulence, damage to host tissue, and the coordinated “theft” of host nutrients. An intriguing hypothesis is that a direct regulatory connection exists between iron/heme acquisition, siderophore and heme biosynthesis, and coordination of OMVs and their associated virulence factors, all processes known to be directed by the chorismate-derived PQS quorum sensing signal (     ,     ).
+    </p>
+    <p>
+     A possible connection between virulence factors and heme biosynthesis control is logical. As heme is an essential metabolite, bacterial cells must tightly regulate the synthesis of heme, a process that is more energetically costly than simply acquiring it from the host (     ). Indeed, iron and heme can be readily extracted from certain tissues with ease; therefore, where heme is abundant, it is conceivable that
+     <named-content content-type="genus-species">
+      P. aeruginosa
+     </named-content>
+     ceases
+     <italic toggle="yes">
+      de novo
+     </italic>
+     biosynthesis while obtaining this essential nutrient by excreting virulence factors such as hemolysins and upregulating heme transport and its associated processivity systems. In this work, we observed such a connection
+     <italic toggle="yes">
+      in vitro
+     </italic>
+     , where the addition of extracellular heme lowered biosensor fluorescence (     to     ) and therefore, by association, is suggestive of a decrease in intracellular heme biosynthesis when heme is plentiful in the extracellular milieu. Indeed, this phenomenon has been known to exist in
+     <named-content content-type="genus-species">
+      E. coli
+     </named-content>
+     for decades (     ). A further expansion on this hypothesis that involves
+     <italic toggle="yes">
+      in vivo
+     </italic>
+     host-pathogen interactions comes from a recent report which shows a direct regulatory link between cholera toxin expression and iron/heme acquisition in the host (     ).
+    </p>
+    <p>
+     In addition to the internalization of heme itself to be used as a source of iron, or as a cofactor to be directly incorporated into the cell’s metabolic processes, pathogens might also internalize other host nutrients, such as certain amino acids, to then feed into the heme biosynthesis pathways. In this regard, Met-Seq identified Tn insertions within several genes in such metabolic pathways that affected internal heme levels. For example, it is well established that catabolism of arginine and proline results in metabolites that can then enter the TCA cycle (     ,     ,     ) and C
+     <sub>
+      5
+     </sub>
+     pathway directly to produce heme, respectively. Computational methods using our data indeed revealed several genes involved in the breakdown of these amino acids that had been enriched during the Met-Seq process (     and     ). These data would indicate that arginine and proline could be important precursors for synthesizing heme. In particular, arginine catabolism was blocked through Tn insertions within the IdcA decarboxylase and also within two pathways that feed into the TCA cycle (     ). However, we found no enriched insertions within the AST pathway that results in ornithine and the eventual production of glutamic acid, a metabolic requirement for HemA enzymatic activity (     ). Because the original library contained insertions within the AST pathway, these data point to a possible metabolic preference for
+     <named-content content-type="genus-species">
+      P. aeruginosa
+     </named-content>
+     to use arginine and polyamines as a means to feed the TCA cycle at the succinate entry point in order to expedite heme biosynthesis. Since amino acids and succinate are preferred sources of carbon utilization for this pathogen (     ), these data would support this hypothesis. In further support, a recent proteomics study in
+     <named-content content-type="genus-species">
+      P. aeruginosa
+     </named-content>
+     indeed revealed that iron starvation results in a repression of arginine biosynthesis through the same ornithine intermediate in a
+     <italic toggle="yes">
+      prrF
+     </italic>
+     -dependent manner (     ) (     ,     ). Ornithine is not only a precursor for succinate but also a precursor for the synthesis of the important siderophore pyoverdine required for iron uptake in OMVs. Taken together, these data point to ornithine as a possible central hub in the coordination of iron acquisition and heme biosynthesis, whose activity might be governed by the available concentrations of arginine and proline.
+    </p>
+    <p>
+     One of the major categories of protein function identified by STRING was heme-binding proteins (     ;     ). Since a large category of identified genes were of unknown function, we wanted to explore if some of these proteins also could bind heme and were involved in its metabolism. Met-Seq hits PA0709 and PA3390, both ABM domains, were shown to bind heme directly and were found adjacent to or within operons that detoxify glyoxal (     ), a metabolite by-product of glycolysis and other pathways that can be damaging to cells, both prokaryotic and eukaryotic (     ,     ,     ). These two novel ABM domains were unable to degrade heme, as most known heme-binding ABM domains have been shown to do in other pathogens; therefore, their precise functional roles remain to be determined. One possible connection could be that cytochromes (     ) and hemoglobin (     ) can be modified by glyoxal or methylglyoxal, resulting in conformational changes and an inability to accommodate heme. Although the literature in this area is sparse, one study has suggested a close association between heme and glyoxal/methylglyoxal metabolism (     ).
+    </p>
+    <p>
+     We have established Met-Seq as a powerful tool in identifying novel regulatory networks associated with a cellular metabolite (heme). In doing so, we first describe the building of a heme biosensor and then use the biosensor in conjunction with Met-Seq to reveal many potentially novel genes and pathways related to intracellular heme levels in a major pathogen. Our data presented here are intended to provide a foundation for the use of Met-Seq in identifying genes that directly affect cellular metabolite levels in any biological system where a biosensor is available. For future Met-Seq studies, improvements can certainly be made using more saturating and unbiased library technologies such as barcoding (     ,     ). A recent publication has utilized barcoding and an enzyme biosensor, similar to what we describe here, to screen for genes in yeast influencing
+     <sc>
+      l
+     </sc>
+     -3,4-dihydroxyphenylalanine (
+     <sc>
+      l
+     </sc>
+     -DOPA) production (     ). Here, we have expanded this technology to prokaryotes and, specifically, applications to bacterial pathogens. It is therefore exciting to envision the possibilities Met-Seq could theoretically be extrapolated to for use with any genetically tractable prokaryotic or eukaryotic system to provide data that directly link a given gene product, under a given environmental condition, with metabolic flux. We envision that Met-Seq will enable more rapid discoveries of global metabolic connections, thereby expediting scientific discoveries.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s4" sec-type="materials|methods">
+    <title>
+     MATERIALS AND METHODS
+    </title>
+    <sec id="s4.1">
+     <title>
+      Bacterial growth conditions.
+     </title>
+     <p>
+      For standard strain maintenance,
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      and
+      <named-content content-type="genus-species">
+       Escherichia coli
+      </named-content>
+      liquid cultures were grown in lysogeny broth (LB; Invitrogen, Carlsbad, CA). For growth on solid media, LB solidified with 1.5% agar (No. 1; Oxoid, Hampshire, UK) was used for
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      , and both LB agar and
+      <italic toggle="yes">
+       Pseudomonas
+      </italic>
+      isolation agar (PIA; Sigma-Aldrich, St. Louis, MO) supplemented with 20 ml/liter glycerol were used for
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      . Where LB containing sucrose was required, 5% (wt/vol) sucrose was added after autoclaving. M9 minimal salts was prepared according to the manufacturer’s instructions (Anachem, Leicester, UK). To deplete iron, M9 medium was treated (after autoclaving but prior to the addition of supplements) with 2% (wt/vol) Chelex-100 sodium (Sigma-Aldrich, St. Louis, MO) overnight at 4°C with stirring. Chelex beads were removed by filter sterilization with a 0.2-μm filter. Chelex-treated M9 medium was then supplemented with 0.2% glycerol and 2 mM MgSO
+      <sub>
+       4
+      </sub>
+      for
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      growth (this is referred to as “minimal medium” throughout this study). M-56 medium was made as described in reference      .
+      <underline>
+       S
+      </underline>
+      uper
+      <underline>
+       o
+      </underline>
+      ptimal broth with
+      <underline>
+       c
+      </underline>
+      atabolite repression (SOC) contained 2% (wt/vol) tryptone, 0.5% (wt/vol) yeast extract, 10 mM NaCl, 2.5 mM KCl, 10 mM MgCl
+      <sub>
+       2
+      </sub>
+      , and 20 mM glucose. Vogel-Bonner medium E (VBM) was prepared as per the recipe described in reference      at 50× stock solution. Hemin stock solutions were prepared as described in reference      . For
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      , the following antibiotics and concentrations were used: carbenicillin (Cb), 250 μg/ml; gentamicin (Gm), 30 to 75 μg/ml; streptomycin (Sm), 2,000 μg/ml. For
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      , 50 μg/ml Cb, 50 μg/ml kanamycin (Kan), 30 μg/ml Gm, and 50 μg/ml Sm were used.
+     </p>
+    </sec>
+    <sec id="s4.2">
+     <title>
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      growth and fluorescence assays.
+     </title>
+     <p>
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      growth and fluorescence assays were performed in either 250-ml Erlenmeyer flasks in a shaking incubator or, alternatively, in microtiter plates in a microtiter plate reader, which could also act as a temperature and gas-regulated air shaker. For plate reader assays, an Infinite PRO M200 with an extended red spectrum photomultiplier was used (Tecan, Männedorf, Switzerland), with the exception of experiments shown in      and      , and      F and G, where a BioTek Synergy H1 multimode plate reader (also with extended red spectrum photomultiplier) was used (BioTek, Winooski, VT).
+     </p>
+     <p>
+      Optical density at 600 nm (OD
+      <sub>
+       600
+      </sub>
+      ) was measured using a Biomate 3 spectrophotometer (Fisher Scientific, Waltham, MA), and PBF fluorescence was either measured using a microtiter plate reader or assessed by flow cytometry (see below). For assays performed with iron-depleted M9 minimal medium (      and      and      to      ; see also      E,      A to C, E, F and      in the supplemental material), overnight cultures of
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      cells were resuspended to an OD of 0.2 and starved of iron via growth in minimal medium in the absence of an iron source for 4 h at 37°C with 230 rpm shaking. After 4 h, hemin was added to a final concentration of 5 μM and PBF plus HO expression was induced with the addition of 0.2% (wt/vol) arabinose. For assays performed with LB/M-56, expression of the PBF plus HO synthetic operon from the pIFPHO plasmid was induced by the addition of 0.2% arabinose (wt/vol) at time zero (after resuspension). Optical density and PBF fluorescence together (i.e., fluorescence density) was measured every 1 to 2 h as described above. For assays performed in microtiter plates, overnight cultures were pelleted at 1,700 ×
+      <italic toggle="yes">
+       g
+      </italic>
+      for 10 min, followed by a washing step using fresh growth medium. Cells were then resuspended in the above-indicated medium with or without the relevant supplements (e.g., ALA or hemin) and arabinose at 0.2% (wt/vol) to an OD
+      <sub>
+       600
+      </sub>
+      of approximately 0.1 (for growth in LB) or 0.2 (for growth in minimal medium). Cells were then grown in 96-well black μClear microtiter plates (Greiner Bio-One, Kremsmünster, Austria) in either an InfinitePRO microtiter plate reader (Tecan) or a BioTek Synergy H1 multimode plate reader (BioTek) in 100- to 200-μl volumes in triplicates. Plates were incubated at 37°C and aerated by 452 rpm linear shaking throughout the assay.
+     </p>
+    </sec>
+    <sec id="s4.3">
+     <title>
+      Construction of pIFP, pIFPHO, and pIFPHO_AR.
+     </title>
+     <p>
+      pIFP and pIFPHO plasmids were constructed using the pSB109
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      -
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      shuttle vector plasmid as a backbone (      ) (      ;      ). Prior to constructing pIFP and pIFPHO, we poisoned the latter NcoI site by introducing a point mutation using a variation on the QuikChange method (Stratagene, La Jolla, CA) (      ). A synthetic operon construct was synthesized by GenScript (Piscataway, NJ) consisting of the gene encoding the IFP1.4 fluorophore (      ) and a 3′ heme oxygenase (HemO) from the cyanobacteria
+      <italic toggle="yes">
+       Synechocystis
+      </italic>
+      sp. strain PCC 6803 preceded by a strong ribosome binding site (RBS). The IFP and IFP1.4-HO constructs were amplified by PCR and ligated into pSB109 digested with NcoI and NdeI (New England Biolabs, Ipswich, MA) using a restrictionless cloning method (      ). Two separate PCRs were run to generate NcoI and NdeI cohesive ends using primer pairs IFP F1/IFP R2 and IFP F2/IFP R1 for IFP and IFP F1/IFPHO R2 and IFP F2/IFPHO R1 for IFPHO (      ). The reverse primers include a C-terminal FLAG epitope tag to facilitate detection of IFP1.4 when expressed from pIFP or the HO in the case of pIFPHO.
+     </p>
+     <p>
+      To construct pIFPHO_AR, the parent pIFPHO plasmid was digested with PstI (New England Biolabs), which cuts at a single site within the multiple cloning site of pIFPHO downstream of the
+      <italic toggle="yes">
+       IFP-HO
+      </italic>
+      operon. The
+      <italic toggle="yes">
+       bla
+      </italic>
+      (ampicillin) resistance gene and its promoter were amplified by PCR from pUCP19 using primers pUCP19_bla_F/pUCP19_bla_R (      ), which introduce PstI restriction sites to the ends of the DNA product. Following PstI digestion (New England Biolabs), the resulting DNA product was ligated into the PstI site of pSB109, yielding pIFPHO_AR, which expresses both gentamicin (
+      <italic toggle="yes">
+       accC1
+      </italic>
+      ) and ampicillin (
+      <italic toggle="yes">
+       bla
+      </italic>
+      ) resistance markers (      ). Successful insertion of
+      <italic toggle="yes">
+       bla
+      </italic>
+      into pIFPHO was confirmed by growth of pIFPHO_AR on LB agar containing 50 μg/ml carbenicillin followed by DNA sequencing. pIFPHO_AR was then transformed into WT MPAO1, Δ
+      <italic toggle="yes">
+       phuUV
+      </italic>
+      , and Δ
+      <italic toggle="yes">
+       phuR
+      </italic>
+      strains and tested for growth and fluorescence density signal over time. It was then verified that strains harboring pIFPHO_AR grew as expected (      ). In addition, the expected fluorescence density differences were observed that paralleled that of the parent pIFPHO biosensor plasmid (      C, D), indicating the slightly modified pIFPHO_AR vector could be used for Met-Seq library construction.
+     </p>
+    </sec>
+    <sec id="s4.4">
+     <title>
+      Generation of
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      deletion mutants.
+     </title>
+     <p>
+      Clean deletions of genes of interest in
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      were constructed essentially as described in reference      . DNA primers were designed to amplify the 500-bp region 5′ to the gene of interest containing the first three codons of the gene to be deleted (designated primer 1 and 2) (      ) and a 500 bp region 3′ to the gene of interest containing the last three codons of the gene of interest (designated primers 3 and 4) (      ). Primers 2 and 3 were designed such that they also contained regions complementary to each other, allowing overlap extension PCR to be performed to join the 500 bp upstream and downstream regions to create a “mutator fragment.” All primers were designed such that no part of the coding region or ribosome binding sites of neighboring genes were disrupted. PCRs were carried out using either Phusion high-fidelity DNA polymerase (New England Biolabs, Ipswich, MA) or Platinum Pfx DNA polymerase (Life Technologies).
+     </p>
+     <p>
+      The resultant mutator fragments were then ligated into the pCR2.1 plasmid (Thermo Fisher Scientific) using T4 DNA ligase (New England Biolabs) and then subcloned into pKNG101 (      ) using two of the following sites: ApaI, SpeI, and BamHI. Successful ligation of the mutator fragments into pKNG101 was confirmed by restriction digest. To generate the HasR, PA0028, PA0149, and PA0527 (Dnr) mutator products, cassettes were first synthesized by GenScript in the vector pUC57 (for HasR) or as linear DNA fragments (for PA0028, PA0149, and PA0527), which were subsequently ligated into pUC19. The cassettes were then excised by restriction enzyme digestion and ligated into pKNG101. For all mutants, pKNG101 containing the relevant mutator fragment was transformed into
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      CC118 λ
+      <italic toggle="yes">
+       pir
+      </italic>
+      for mobilization into MPAO1 using
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      1047 cells containing pRK2013 (      ). MPAO1 transformants were confirmed by colony PCR using gene specific primers 1 plus 4 and 5 plus 6 (      ) and sequencing (GATC Biotech, Cologne, Germany). Biosensors were introduced into WT MPAO1 by electroporation as previously described (      ), and expression of
+      <italic toggle="yes">
+       holo
+      </italic>
+      PBFs (i.e., uniform incorporation of the biliverdin chromophore) was confirmed by zinc blot and Coomassie brilliant blue staining as per reference      (      ).
+     </p>
+    </sec>
+    <sec id="s4.5">
+     <title>
+      Transposon mutant library construction.
+     </title>
+     <p>
+      For pIFPHO_AR compatibility, we needed to remove the
+      <italic toggle="yes">
+       bla
+      </italic>
+      gene from pBT20, the vector used to generate the transposon library. pBT20 harbors both gentamicin (
+      <italic toggle="yes">
+       aacC1
+      </italic>
+      ) and ampicillin (
+      <italic toggle="yes">
+       bla
+      </italic>
+      ) selectable markers and was thus digested with SpeI and PvuI restriction enzymes to excise the Bla coding sequence. This product was then treated with T4 DNA polymerase (NEB) to generate blunt ends and finally religated with T4 DNA ligase (Promega) to generate pBT20_AS. Loss of the
+      <italic toggle="yes">
+       bla
+      </italic>
+      gene was confirmed by patching the resulting transformants on LB agar containing 50 μg/ml Cb. The MPAO1 transposon library was then constructed with pBT20_AS (      ) as previously described (      ).
+     </p>
+    </sec>
+    <sec id="s4.6">
+     <title>
+      Fluorescence analysis of individual clones.
+     </title>
+     <p>
+      For plate reader detection, PBF fluorescence was measured either in an InfinitePRO microplate reader (Tecan, Männedorf, Switzerland), or a BioTek Synergy H1 multimode plate reader (BioTek, Winooski, VT). Bacterial cells were measured in 100- to 200-μl volumes in a 96-well Black μClear microtiter plate (Greiner Bio-One, Kremsmünster, Austria). PBFs were excited at 675 (bandwidth 9) nm and fluorescence detected at 725 (bandwidth 20) nm. Data were processed via the Tecan Magellen or Biotek Gen5 software packages and exported to Microsoft Excel for analysis. For flow cytometry,
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      cells were fixed in 4% paraformaldehyde (PFA) for 10 min at room temperature and stored in phosphate-buffered saline (PBS). Cells were then analyzed on an LSRFortessa (BD Biosciences, San Jose, CA) cell analyzer using a gate based on side scatter (SSC-H) at a voltage of 200. PBFs were excited with a 640 nm laser, and fluorescence was collected using a 730/45 nm band pass filter. Data were analyzed using FlowJo 8.6.3 or FlowJo 10.0 software (FlowJo LLC, Ashland, OR).
+     </p>
+    </sec>
+    <sec id="s4.7">
+     <title>
+      Fluorescence-activated cell sorting of the PBF-expressing Tn library.
+     </title>
+     <p>
+      To enrich for PBF fluorescence, glycerol stocks of the previously stored library populations were defrosted on ice and used to inoculate minimal medium to an OD
+      <sub>
+       600
+      </sub>
+      of approximately 0.2. Cells were starved for 4 h without an iron source. After this, cells were supplemented with 5 μM heme and 0.2% (wt/vol) arabinose and grown as described above. After 14 h growth, cells were pelleted at 4,000 ×
+      <italic toggle="yes">
+       g
+      </italic>
+      for 10 min, followed by resuspension in sterile PBS. Cell reporter fluorescence was measured on a FACSAria III (BD Biosciences), equipped with a 633 nm laser and Alexa Flour 700 filters (730/45 nm). Library cells that exhibited diminished (dim), similar (mid), or enhanced (bright) fluorescence compared to that of the WT were determined by eye and gated into separate populations. At least 2 × 10      events were collected in each gate. Sorted cells were recovered by plating on LB agar containing 250 μg/ml Cb and incubating overnight at 37°C. Colonies were subsequently scraped from the agar plates and stored in LB containing 15% glycerol at −80°C to be either used for the next round of enrichment or sequenced.
+     </p>
+    </sec>
+    <sec id="s4.8">
+     <title>
+      Transposon sequencing.
+     </title>
+     <p>
+      Genomic DNA (gDNA) for transposon sequencing was isolated from FACS populations (the initial pre-FACS library and enrichments E1 to -3) by phenol-chloroform extraction. To process the gDNA samples, RNA contamination was first removed by RNase A treatment (Fisher Scientific, Waltham, MA), and then the samples were further prepared for sequencing essentially as previously described (      ). Sequencing reads containing the transposon were collected using FASTX Barcode Splitter (FASTX-Toolkit) and then mapped to the
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      PAO1 genome using Bowtie version 0.12.8 with default parameters, except that only one read was reported (at random) for reads with more than one reportable alignment.
+     </p>
+    </sec>
+    <sec id="s4.9">
+     <title>
+      Met-Seq data manipulation and statistical analyses.
+     </title>
+     <p>
+      Overall, we received fewer sequencing reads than expected with our MiSeq runs of all samples. Based on this initial observation, we then needed to test if the low number of unique Tn insertions could be problematic for accurate statistical analyses. To test this, we randomly sampled the mapped reads for the library to various depths and then analyzed these in a one-sample analysis using TSAS (      ). This was conducted to identify the number of unique Tn insertions at each tested depth. When comparing the reads versus insertions, we observed that having more sequencing reads in our MiSeq run would not have uncovered significantly more unique insertions, confirming that our sequencing coverage was sufficient for a library of our complexity (      and      ). Thus, changing the minimum read threshold did not have a significant impact on the final E3 output list. Even so, we still applied a stringent minimum threshold of at least 10 reads to the finalized gene output file (      ), as per reference      . Seven hundred thirteen insertion sites in total were identified in the E3 population, with the number of reads at single Tn insertion site ranging from 1 to 341,474. The average number of reads per insert in the E3 population was 1,062, and the median was 65 (with the mode at 1 read).
+     </p>
+     <p>
+      Statistics displayed in      were computed by comparing the control (presorted MPAO1 Tn library) to the treatment (E3 sorted population only). Statistical categories included average unique hits (Tn insertions), average raw reads, ratio of insertions (treatment/control), log
+      <sub>
+       2
+      </sub>
+      fold change in insertions, log
+      <sub>
+       2
+      </sub>
+      fold change in reads, and
+      <italic toggle="yes">
+       P
+      </italic>
+      values.
+      <italic toggle="yes">
+       P
+      </italic>
+      values from a binomial distribution assessing the likelihood of genes whose disruption by transposon insertions may have resulted in an overall improvement of fitness were calculated by comparing the proportions of insertions in the E3 population versus that in the library control. These
+      <italic toggle="yes">
+       P
+      </italic>
+      values where then adjusted (Adj.
+      <italic toggle="yes">
+       P
+      </italic>
+      value column) using the Benjamini-Hochberg (BH) method as described in reference      . Weighted outputs were not used, as these data would bias larger genes that would have a statistically greater chance of having more Tn insertions. The data were sorted on log
+      <sub>
+       2
+      </sub>
+      fold change in overall reads per gene before being displayed in      . Data were exported as WIG files to upload into MochiView (      ) for analyses and illustrated representations.
+     </p>
+    </sec>
+    <sec id="s4.10">
+     <title>
+      Computational analyses of Met-Seq data.
+     </title>
+     <p>
+      Protein-protein interaction data for
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      was downloaded from STRING DB v11.0 (
+      <ext-link ext-link-type="uri" ns0:href="https://string-db.org/">
+       https://string-db.org/
+      </ext-link>
+      ) (      ). STRING protein identifiers were mapped to NCBI gene identifiers (IDs) and then to locus tags using
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      genomes GCA_000006765.1_ASM676v1 and GCA_000743405.1_PAG. The top 20% of all STRING-predicted
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      protein-protein interactions were retained. This corresponded to a combined score cutoff of 317 and a total of 356,372 interactions. All unique interactions between the proteins encoded by the 188 enriched ORFs (      ) were then extracted from this list, resulting in a total of 244 unique protein-protein interactions. The resulting network map was plotted in Cytoscape 3.7.2 (      ). The enriched ORFs, as well as gene clusters in the STRING network, were tested for functional enrichment via overrepresentation analysis using the hypergeometric distribution.
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      pathways and GO terms were obtained from the
+      <italic toggle="yes">
+       Pseudomonas
+      </italic>
+      genome database (
+      <ext-link ext-link-type="uri" ns0:href="https://www.pseudomonas.com">
+       https://www.pseudomonas.com
+      </ext-link>
+      ) (      ). Additional functional enrichment analysis was conducted with the DAVID bioinformatics database using genes in      (      ).
+     </p>
+    </sec>
+    <sec id="s4.11">
+     <title>
+      Determination of intracellular heme concentrations.
+     </title>
+     <p>
+      Intracellular heme concentrations were determined by either a pyridine hemochrome assay (      ) or a fluorometric assay (      ). For the pyridine hemochrome assay, 12 ml of LB in a 125-ml Erlenmeyer flask was inoculated with a single colony of
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      from an LB plate and shaken overnight at 37°C. Forty milliliters of culture at an OD
+      <sub>
+       600
+      </sub>
+      of 0.2 was then transferred by successive centrifugations into 2-ml microcentrifuge tubes. Supernatants were removed, and pellets were then transferred into 50-ml conical tubes containing 4 ml of M9, washed twice more in 5 ml of M9, and then finally resuspended in 1 ml of M9 and transferred to 250-ml Erlenmeyer flasks containing 39 ml of fresh M9 medium. Cultures were then shaken at 37°C for 4 h to starve cells of iron. After 4 h, hemin was then added to cultures to a final concentration of 5 μM, and the cells were shaken at 37°C for an additional 10 h. After 10 h, flasks were immediately placed on ice and the OD
+      <sub>
+       600
+      </sub>
+      was read. Cultures were then transferred to 50-ml conical tubes (Corning), pelleted, washed twice in PBS, and finally resuspended in fresh PBS to an OD
+      <sub>
+       600
+      </sub>
+      of 10. Samples were then pelleted in 1-ml tubes and stored at −80°C at a stopping point.
+     </p>
+     <p>
+      To read the absorbance, samples were thawed and resuspended in 840 μl of B-PER reagent (Thermo Scientific) with 1 mg/ml lysozyme (Millipore Sigma), 4 μg/ml DNase I (Roche Diagnostics), and 1.2 μg/ml RNase A (Sigma-Aldrich, St. Louis, MO). Samples were then incubated at room temperature with constant mixing for 30 min. Two hundred microliters of pyridine (Fisher Chemicals) and 100 μl of 1 M NaOH were then added to the samples on ice, followed by addition of 10 μl of 1 M potassium ferricyanide (Acros Organics) in order to oxidize the sample. Samples were then transferred to 1.4-ml quartz cuvettes, and absorbance spectra were obtained on a Shimadzu UV-1650PC spectrophotometer, which was blanked to a cuvette with assay reagents only. Samples were then scanned from 400 to 700 nm at wavelength intervals of 0.5 nm. Two to five milligrams of sodium dithionite (Acros Organics) was then added and mixed by pipetting to reduce the sample. Absorbance spectra were then similarly obtained for the reduced sample. Heme calculations were then calculated as per reference      .
+     </p>
+     <p>
+      To determine intracellular heme by fluorescence, we used a protocol which originated from reference      and was performed essentially as described in ref      .
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      was grown in M9 minimal medium containing 5 μM hemin as the sole iron source as described above. After 14 h of growth, 20 ml of culture was pelleted and washed twice in the same volume of PBS. After the second wash, the pellet was resuspended in 21 ml PBS, the OD
+      <sub>
+       600
+      </sub>
+      was measured, and then 4 × 5-ml pellets were saved for measurement of total cellular heme. Pellets were resuspended in 500 μl of 20 mM oxalic acid (Sigma-Aldrich) and incubated overnight (16 to 24 h) at 4°C in amber 1.5-ml tubes. Next, 500 μl of 2 M oxalic acid was added and mixed. Five hundred microliters of each sample was then put aside in another amber 1.5-ml tube and kept in an opaque box at room temperature. The other 500 μl was boiled at 98°C for 30 min. Both boiled and nonboiled samples were then clarified by centrifugation at full speed. Two hundred microliters of supernatant was taken, and fluorescence (excitation 400 nm, emission 620 nm) was measured in a 96-well black μClear microtiter plate (Greiner Bio-One, Kremsmünster, Austria) using a BioTek Synergy H1 multimode plate reader (BioTek, Winooski, VT). The nonboiled sample acted as a blank for the boiled sample. Fluorescence measurements were normalized using the culture density (OD
+      <sub>
+       600
+      </sub>
+      ). Independent biological replicates were used and at least three technical replicates were performed for each biological replicate.
+     </p>
+    </sec>
+    <sec id="s4.12">
+     <title>
+      Construction of pET15DG1.
+     </title>
+     <p>
+      To construct pET15DG1, pET-15b (Novagen, EMD Millipore) was modified. The DNA sequence between the NcoI and NdeI sites of pET-15b encodes a thrombin cleavage site. To change this site to a tobacco etch virus (TEV) protease cleavage site, complementary oligonucleotides that encode the TEV protease site and that, when annealed, generate NcoI and NdeI sticky ends, were synthesized (pET15b TEV F/pET15b TEV R) (      ). The two oligonucleotides were annealed by mixing at an equal molar ratio, and the resulting product was phosphorylated using T4 polynucleotide kinase (Promega, Madison, WI) in a reaction mixture supplemented with 1 mM ATP at 37°C for 4 h. The phosphorylated products were then cleaned again using QIAquick PCR purification columns and then ligated in pET-15b that had been digested with NcoI-HF and NdeI (NEB, Ipswich, MA) using T4 DNA ligase and LigaFast rapid DNA ligation buffer (Promega) for 5 min at room temperature. Ligation reaction mixtures were then transformed into
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      DH5α chemically competent cells and plated on LB agar containing 50 μg/ml carbenicillin. Clones were verified by DNA sequencing.
+     </p>
+    </sec>
+    <sec id="s4.13">
+     <title>
+      Protein expression strain construction.
+     </title>
+     <p>
+      PA0709 and PA3390 DNA from
+      <named-content content-type="genus-species">
+       P. aeruginosa
+      </named-content>
+      strain MPAO1 was amplified and ligated into the NdeI and BlpI sites of pET15DG1 by a restrictionless cloning method (      ). Two separate reactions were run to generate cohesive ends using primer pairs PA0709-F1/PA0709-R2 and PA0709-F2/PA0709-R1, or PA3390-F1/PA3390-R2 and PA3390-F2/PA3390-R1 (      ). The two reactions were then combined and purified using QIAquick PCR purification columns (Qiagen, Valencia, CA) and eluted in 40 μl of double-distilled water (ddH
+      <sub>
+       2
+      </sub>
+      O). Using a thermocycler, the combined insert DNA was melted at 98°C and slowly reannealed to generate the NdeI and BlpI cohesive ends. Next, the PA0709/PA3390 products were phosphorylated using polynucleotide kinase (Promega, Madison, WI) in a reaction mixture supplemented with 1 mM ATP at 37°C for 4 h. The phosphorylated products were then cleaned again using QIAquick PCR purification columns and then ligated into pET15DG1 digested with NdeI and BlpI using T4 DNA ligase and LigaFast rapid DNA ligation buffer (Promega) for 5 min at room temperature. Ligation reactions were then transformed into
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      DH5α. chemically competent cells and plated on LB agar containing 50 μg/ml carbenicillin. Clones were verified by DNA sequencing. To generate the final protein expression strains, the resultant plasmids were transformed into
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      T7 Express
+      <italic toggle="yes">
+       lysY
+      </italic>
+      cells (New England Biolabs Inc., Ipswich, MA).
+     </p>
+    </sec>
+    <sec id="s4.14">
+     <title>
+      Protein expression and purification.
+     </title>
+     <p>
+      Expression and purification of PA0709 and PA3390 were carried out as described in reference      . His
+      <sub>
+       6
+      </sub>
+      -tagged PA0709 and PA3390 proteins were expressed in
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      T7 Express
+      <italic toggle="yes">
+       lysY
+      </italic>
+      cells (New England BioLabs Inc., Ipswich, MA) carrying pET15DG1-PA0709 or pET15DG1-PA3390. Cultures were grown at 37°C with shaking at 230 rpm in LB medium supplemented with 50 μg/ml carbenicillin. When cultures reached an OD
+      <sub>
+       600
+      </sub>
+      of ∼0.8, protein expression was induced by the addition of 1 mM isopropyl-β-
+      <sc>
+       d
+      </sc>
+      -thiogalactopyranoside (IPTG). The temperature was then reduced to 18°C, and the cultures were grown overnight with shaking at 150 rpm. The following morning, cells were harvested by centrifugation and resuspended in 25 ml of lysis/wash buffer (50 mM Tris-HCl [pH 8.0], 50 mM imidazole, 1 mM β-mercaptoethanol [BME]) supplemented with 1 mM phenylmethylsulfonyl fluoride (PMSF) and one cOmplete mini protease inhibitor tablet (Sigma-Aldrich, St. Louis, MO). Cells were lysed by sonication using a Branson Sonifier S-450 cell disruptor (Branson Ultrasonics Corp., Danbury, CT) for a total of 2 min of sonication at 75% amplitude with 15-s pulses, separated by 5-min rest periods on ice. The lysate was then clarified by centrifugation at 27,000 ×
+      <italic toggle="yes">
+       g
+      </italic>
+      for 45 min in a Sorvall SS-34 rotor (Thermo Fisher scientific). To isolate the recombinant His
+      <sub>
+       6
+      </sub>
+      -tagged PA0709 protein, the clarified lysate was applied to 1 ml of Ni-nitrilotriacetic acid (NTA)-agarose (Qiagen, Valencia, CA) by gravity flow. To remove contaminating proteins, the column was washed with 50 ml lysis/wash buffer. Recombinant proteins were eluted in 20 ml of elution buffer (150 mM Tris-HCl [pH 8.0], 300 mM imidazole, 1 mM BME) in 1-ml fractions. The purity of the fractions was assessed by SDS-PAGE and Coomassie staining before pooling. Proteins were then dialyzed against 4 liters of storage buffer (150 mM Tris-HCl [pH 8.0], 1 mM BME, 5% glycerol) overnight before storage at −80°C. The resulting preparations were &gt;95% pure.
+     </p>
+    </sec>
+    <sec id="s4.15">
+     <title>
+      Heme binding experiments.
+     </title>
+     <p>
+      Heme binding experiments were performed as described in reference      with some modifications. Aliquots of hemin were added to 10 μM apo-PA0709 or apo-PA3390 to a final concentration of 2 to 40 μM. After a 5-min incubation, 3 × 200 μl of each binding reaction was transferred to a 96-well plate, and a spectral scan of the absorbance between 300 nm and 800 nm with 2-nm increments was performed in a BioTek Synergy H1 multimode plate reader (BioTek, Winooski, VT).
+     </p>
+    </sec>
+    <sec id="s4.16">
+     <title>
+      Single-turnover heme degradation experiments.
+     </title>
+     <p>
+      Heme degradation experiments were carried out as described in reference      with some modifications. Briefly, recombinant
+      <italic toggle="yes">
+       apo
+      </italic>
+      -PA0709 or
+      <italic toggle="yes">
+       apo
+      </italic>
+      -PA3390 proteins were reconstituted with hemin to a molar ratio of 1:1 by dropwise addition of 400 μM hemin in 150 mM Tris-HCl (pH 8.0) into solutions of either
+      <italic toggle="yes">
+       apo
+      </italic>
+      -PA0709 or
+      <italic toggle="yes">
+       apo
+      </italic>
+      -PA3390 in the same buffer. Samples were incubated on ice for 1 h before desalting on a 10 ml Zeba 7-kDa molecular weight cutoff (MWCO) desalting column (Thermo Fisher Scientific). Protein concentration was then read by Bradford assay. Catalase (MP Biomedicals LLC, Solon, OH) was then added to a 0.5:1 ratio (catalase to protein) to prevent nonenzymatic degradation. The samples were then diluted in 150 mM Tris-HCl (pH 8.0) to a final concentration of 10 μM with either PA0709 or PA3390 protein. The electron donor,
+      <sc>
+       l
+      </sc>
+      -ascorbic acid (Fisher Scientific), was then added to a final concentration of 10 mM. Two-hundred-microliter reactions were performed in 96-well plates. Degradation was monitored by taking a spectral scan of the absorbance between 300 nm and 700 nm with 2-nm increments in a BioTek Synergy H1 multimode plate reader (BioTek, Winooski, VT) every 5 min for 1 h. Reactions were performed in triplicates.
+     </p>
+    </sec>
+    <sec id="s4.17">
+     <title>
+      Western blot analysis.
+     </title>
+     <p>
+      For Western blot analysis, protein extracts were separated by SDS-PAGE and then transferred to polyvinylidene difluoride (PVDF) membranes (EMD Millipore). To probe for FLAG-tagged proteins, an M2 mouse anti-FLAG monoclonal antibody (Sigma-Aldrich, St. Louis, MO) was used at a dilution of 1:10,000 with overnight incubation at 4°C. Proteins of interest were detected using horseradish peroxidase (HRP)-conjugated goat anti-mouse IgG used at a dilution of 1:5,000 (Jackson ImmunoResearch, West Grove, PA) and visualized with Pierce ECL Western blotting substrate (Thermo Scientific). Blots were imaged using a ProteinSimple FluorChem E imager (ProteinSimple).
+     </p>
+    </sec>
+    <sec id="s4.18">
+     <title>
+      Data availability.
+     </title>
+     <p>
+      Transposon-generated library and E1, E2, and E3 enrichments have been deposited in the NCBI Sequence Read Archive (SRA) (
+      <ext-link ext-link-type="uri" ns0:href="https://www.ncbi.nlm.nih.gov/sra">
+       https://www.ncbi.nlm.nih.gov/sra
+      </ext-link>
+      ) as BioProject ID
+      <ext-link assigning-authority="bioproject" ext-link-type="uri" ns0:href="https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA685600">
+       PRJNA685600
+      </ext-link>
+      . Tn-seq analysis software (TSAS) used in this study is in reference      . TSAS software code can be accessed at GitHub with the following URL:
+      <ext-link ext-link-type="uri" ns0:href="https://github.com/srimam/TSAS">
+       https://github.com/srimam/TSAS
+      </ext-link>
+      .
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

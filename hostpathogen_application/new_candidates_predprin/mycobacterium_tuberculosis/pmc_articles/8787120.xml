@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Protein Tyrosine and Serine/Threonine Phosphorylation in Oral Bacterial Dysbiosis and Bacteria-Host Interaction
+ </title>
+ <abstract>
+  <p>
+   The human oral cavity harbors approximately 1,000 microbial species, and dysbiosis of the microflora and imbalanced microbiota-host interactions drive many oral diseases, such as dental caries and periodontal disease. Oral microbiota homeostasis is critical for systemic health. Over the last two decades, bacterial protein phosphorylation systems have been extensively studied, providing mounting evidence of the pivotal role of tyrosine and serine/threonine phosphorylation in oral bacterial dysbiosis and bacteria-host interactions. Ongoing investigations aim to discover novel kinases and phosphatases and to understand the mechanism by which these phosphorylation events regulate the pathogenicity of oral bacteria. Here, we summarize the structures of bacterial tyrosine and serine/threonine kinases and phosphatases and discuss the roles of tyrosine and serine/threonine phosphorylation systems in
+   <italic>
+    Porphyromonas gingivalis
+   </italic>
+   and
+   <italic>
+    Streptococcus mutans
+   </italic>
+   , emphasizing their involvement in bacterial metabolism and virulence, community development, and bacteria-host interactions.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="s1">
+    <title>
+     Introduction
+    </title>
+    <p>
+     The oral microbiome is the second largest and most diverse microbiota in the human body, encompassing approximately 1,000 species (     ). According to the expanded Human Oral Microbiome Database (eHOMD), the oral bacteria are highly diverse, and account for the majority of oral microorganisms, composed mainly of six major phyla: Firmicutes, Bacteroidetes, Proteobacteria, Actinobacteria, Spirochaetes and Fusobacteria (     ). In healthy systems, the polymicrobial communities maintain an ecological balance
+     <italic>
+      via
+     </italic>
+     intermicrobial and host microbial interactions. Dysbiosis, or perturbations in the composition of commensal communities, is a driver of the host immune inflammatory response and can disrupt host tissue homeostasis, promoting oral diseases such as dental caries and periodontitis (     ;     ). Oral bacteria can also directly or indirectly affect a variety of systemic diseases, such as cardiovascular disease and diabetes (     ). Although some controversies remain, several potential mechanisms have been proposed, including (1) bacteria entering the blood circulation, resulting in distant dissemination; (2) systemic injury by free toxins of oral bacteria; (3) stimulation of systemic inflammation by soluble antigens of oral bacteria; and (4) inducing dysbiosis of gut microbiota (     ). Notably,
+     <italic>
+      Porphyromonas gingivalis
+     </italic>
+     , a keystone pathogen in periodontitis, expresses a variety of virulence factors (
+     <italic>
+      e.g.
+     </italic>
+     , lipopolysaccharide, outer membrane vesicles and fimbriae) that facilitate its survival, spreading and disrupting the immune response (     ). The colonization of
+     <italic>
+      P. gingivalis
+     </italic>
+     can remodel the commensal bacterial community, thus promoting the bacterial dysbiosis and the imbalance of bacteria-host interactions. The transition from homeostatic balance to dysbiosis and imbalance plays a central role in oral microbial diseases (     ;     ).
+    </p>
+    <p>
+     Evidence has shown that post-translational modifications (PTMs) are critical processes used by oral bacteria to modify proteins and coordinate the signaling networks, and are therefore involved in the regulation of bacterial communities and bacteria-host interactions (     ). In fact, protein phosphorylation is a critical covalent protein modification in signal transduction pathways. By combining or separating small molecular phosphates with substrate amino acid residues, phosphates can be passed along these information pathways, causing a cascade of signal transduction protein alterations, thus allowing signal transmission (     ). This process is modulated by two families of enzymes: kinases and phosphatases (     ). Protein kinases and their cognate phosphatases play extensive roles in many basic physiological processes in bacteria, including signal transduction, growth control and malignant transformation, as well as in regulating bacterial pathogenicity and antibiotic resistance (     ;     ;     ). Many studies have emphasized protein phosphorylation which occurs in prokaryotes (     ). Phosphorylation of tyrosine and serine/threonine residues is the most prevalent PTM.
+    </p>
+    <p>
+     Pioneering investigations of the tyrosine and serine/threonine phosphorylation in bacteria began in the 1970s (     ;     ). In the early 1990s, the first protein kinase PknL was discovered in
+     <italic>
+      Myxococcus xanthus
+     </italic>
+     . This enzyme shares a structural similarity with eukaryotic serine/threonine kinases (STKs) and is required for the normal development of
+     <italic>
+      M. xanthus
+     </italic>
+     (     ). Later, the first bacterial phosphatase was discovered by G A Nimmo et al. who reported that isocitrate dehydrogenase (IDH) is regulated by phosphorylation in
+     <italic>
+      Escherichia coli
+     </italic>
+     (     ;     ). Phosphorylation systems modify bacterial proteomes, imparting cells with rapid and reversible responses to specific environmental stimuli (     ). Evidence has indicated a close association between phosphorylation and bacterial pathogenesis. For instance,
+     <italic>
+      Mycobacterium tuberculosis
+     </italic>
+     can secrete the eukaryotic serine-threonine protein kinase PknG into host macrophages by blocking the transition of Rab7l1-GDP to Rab7l1-GTP in a kinase activity-dependent process, thus realizing its pathogenic potential by facilitating bacterial survival inside human macrophages (     ;     ). PtpA, a tyrosine phosphatase secreted by
+     <italic>
+      Mycobacterium
+     </italic>
+     , can also inhibit the fusion of phagosomes and lysosomes, which helps pathogens to evade host immune mechanisms (     ). Further evidence has been derived from
+     <italic>
+      Streptococcus pneumoniae
+     </italic>
+     . The tyrosine phosphatase PhpP regulates proteins phosphorylation by direct dephosphorylation of target protein and dephosphorylation of its homologous kinase StkP, thus coordinating cell wall synthesis and division of
+     <italic>
+      S. pneumoniae
+     </italic>
+     (     ;     ). The
+     <italic>
+      PhpP
+     </italic>
+     mutant of
+     <italic>
+      S. pneumoniae
+     </italic>
+     displayed insufficient cell elongation and increased sensitivity at high temperature and oxidative stress, as well as decreased genetic transformation ability (     ).
+    </p>
+    <p>
+     Bacterial protein kinases and phosphatases are closely interconnected, regulating phosphate transmission and covalent modifications, and contributing to bacterial pathogenesis. However, the reciprocal relationships between oral bacterial protein tyrosine and serine/threonine phosphorylation and pathogenesis remain to be elucidated. This review focuses on two well-known oral pathogens,
+     <italic>
+      Streptococcus mutans
+     </italic>
+     and
+     <italic>
+      P. gingivalis
+     </italic>
+     , aiming to summarize the present knowledge of the structural and functional aspects of kinases and phosphatases in oral bacteria, with emphasis on the role of tyrosine and serine/threonine phosphorylation in oral bacterial dysbiosis and oral bacteria-host interactions.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s2">
+    <title>
+     The Structure of Bacterial Tyrosine and Serine/threonine Kinases and Phosphatases
+    </title>
+    <p>
+     When bacteria perceive external stimulation, kinases undergo autophosphorylation and catalyze the phosphorylation,
+     <italic>
+      i.e.
+     </italic>
+     the transfer of the γ-phosphate group from nucleoside triphosphates, usually adenosine triphosphate (ATP) to other proteins (     ). Bacterial phosphatases remove the covalently linked phosphate group from the phosphorylated protein (phosphoprotein) by hydrolysis (dephosphorylation), thereby maintaining the stability of the physiological environment. Kinases and phosphatases act as switches to regulate specific signal transduction pathways (     ). In bacteria, protein kinases can be classified into five types: histidine kinases (His kinases), tyrosine kinases (Tyr kinases), arginine kinases (Arg kinases), Hanks-type Ser/Thr kinases (STKs) (commonly known as eukaryotic-like STKs), and atypical serine kinases (     ). Among them, Tyr kinases and STKs can phosphorylate various proteins and regulate bacterial physiology (     ). Compared to kinases, fewer bacterial phosphatases have been discovered and biochemically characterized. The protein phosphatase family in bacteria can be divided into four categories: phosphoprotein phosphatases (PPPs), metal-dependent phosphatases (PPMs) acting on serine/threonine residues, low-molecular-weight protein tyrosine phosphatases (LMW-PTPs), and Asp-based phosphatases (     ;     ).
+    </p>
+    <sec id="s2_1">
+     <title>
+      Tyrosine Kinases
+     </title>
+     <p>
+      Protein phosphorylation on tyrosine residues is catalyzed by autophosphorylating ATP-dependent tyrosine kinases that exhibit structural and functional features similar to those of their eukaryotic counterparts. Most enzymes discovered in bacteria with tyrosine kinase activity discovered in bacterial are bacterial tyrosine kinases (BY kinases). The structure of BY kinases has been comprehensively reviewed (      ). In brief, BY kinases have a transmembrane domain and an intracellular catalytic domain (      ). The transmembrane domain interacts with other proteins through the outer membrane and affects the cellular function of tyrosine kinase, which is critical for triggering kinase activity (      ). The conservative ExxRxxR motif, canonical Walker A motif (GxxxxGK[S/T]), Walker B motif ([ilvfm](3)DxDxR), and a tyrosine-rich cluster (Y cluster) at the C-terminal sites are common features of the BY-kinase family (      ). Some BY kinases have an additional Walker A’ motif [(ILVFM(3)DxxP)] (      ). BY kinases autophosphorylate in the Y clusters to facilitate their interaction with other proteins. The steps of signal transduction in BY-kinases are similar to those in the eukaryotic signal transduction cascade. For instance, the Tyr (569) residue of Wzc, a BY kinase of
+      <italic>
+       Escherichia coli
+      </italic>
+      K12, can autophosphorylate, resulting in an increased protein kinase activity (      ).The phosphorylation level in the tyrosine-rich cluster may affect the intensity of the interaction between BY-kinase and other proteins (      ). Ptk1, which is the first discovered BY kinase in
+      <italic>
+       P. gingivalis
+      </italic>
+      , contains ExxRxxR, Walker A, Walker A’, Walker B motifs, and a C-terminal Y cluster (      ) (      ,      ). All of these domains are required for kinase autophosphorylation and substrate phosphorylation activity. And Ptk1 is highly homologous to Wzc
+      <italic>
+       Escherichia coli
+      </italic>
+      (      ). Moreover, the functional phosphor-transfer is indispensable for Ptk1-mediated control of
+      <italic>
+       P. Porphyromonas gingivalis-Streptococcus gordonii
+      </italic>
+      community formation and extracellular polysaccharide biosynthesis (      ). The ubiquitous bacterial kinase (UbK) family is a newly discovered tyrosine kinase family in oral bacteria. The UbK family was originally classified as an unknown but essential P-loop ATPase (      ). A recent study revealed that the UbK family members can auto-phosphorylate and phosphorylate protein substrates on S/T and Y residues, which classifies them as dual-specific kinases (      ). Structurally, UbK contains a conserved domain: the Walker A motif, HxDxYR, SPT/S and EW motifs. Ubk1 is a UbK family member in
+      <italic>
+       P. gingivalis
+      </italic>
+      that can autophosphorylate on the tyrosine and serine residues within the HxDxYR and SPT/S domains, respectively (      ).
+     </p>
+    </sec>
+    <sec id="s2_2">
+     <title>
+      Tyrosine Phosphatase
+     </title>
+     <p>
+      There are three categories of protein tyrosine phosphatases: eukaryotic like phosphatases (PTPs) and dual-specific phosphatases; low molecular weight protein tyrosine phosphatases (LMW-PTPs), and the less common polymerase–histidinol phosphatases (PHPs), which are often found in gram-positive bacteria (      ). Some LMW-PTPs are similar to eukaryotic low molecular weight peptide, and the other part has typical characteristics of prokaryotic LMW-PTPs, such as Wzb in
+      <italic>
+       E. coli
+      </italic>
+      (      ). Eukaryotic and prokaryotic LMW-PTPs diverged during the evolution process. For example, there are two tyrosine phosphatases (PtpA and PtpB) in both
+      <italic>
+       Staphylococcus aureus
+      </italic>
+      and
+      <italic>
+       Bacillus subtilis
+      </italic>
+      (      ;      ). PTPs, dual-specific phosphatases and LMW-PTPs utilize a common catalytic mechanism that contains the conserved signature C(x)5R motif, where cysteine and arginine residues are important for the catalytic activity. Functioning as a nucleophile, cysteine attacks the phosphorus atom of the phosphor-tyrosine residue of the substrate, while the arginine residue interacts with the phosphate moiety of the phosphor-tyrosine (      ). This motif is flanked by an important aspartic acid residue, whose position varies among the families. Unlike the other members in PTPs, PHPs are divalent metal ion-dependent phosphor-tyrosine phosphatases, whose catalytic mechanism is metal-dependent (      ;      ). PHPs show optimal activity at basic pH and depend on the presence of a metal ion, especially when combined with Mn      (      ). This mechanism also requires an arginine residue in the active site and a nucleophilic attack by metal-bound water, even if it is dependent on metal ions (      ). Recently, a tyrosine phosphatase (Php1) belonging to the PHP family of
+      <italic>
+       P. gingivalis
+      </italic>
+      was reported by      . Php1 maintains all the invariant histidine, aspartate, and arginine residues in four conserved motifs, similar to other bacterial PHP-PTP proteins, such as in
+      <italic>
+       M. xanthus
+      </italic>
+      and
+      <italic>
+       S. pneumoniae
+      </italic>
+      , and shows high structural conservation with YwqE, a PHP-PTP in
+      <italic>
+       B. subtilis
+      </italic>
+      (      ).
+     </p>
+    </sec>
+    <sec id="s2_3">
+     <title>
+      Serine/Threonine Kinases
+     </title>
+     <p>
+      The first structurally characterized bacterial serine/threonine kinase was PknB in
+      <italic>
+       M. tuberculosis
+      </italic>
+      , which revealed a striking similarity of a two-lobe structure to the eukaryotic versions in terms of its two-lobe structure (      ). The two-lobe structure of serine/threonine kinase contains an N-terminal lobe, which is involved in the binding and orientation of an ATP molecule, whereas the C-terminal lobe is responsible for binding to the protein substrate and transferring of the phosphate group. ATP binds to a deep cleft between the two lobes. These similarities suggest that bacterial and eukaryotic STKs share conserved ATP-binding and hydrolysis mechanisms (      ). Additional domains mediate the binding of ligands and/or protein-protein interactions, such as penicillin-binding proteins and serine/threonine kinase associated (PASTA) domains (      ). A study analyzing
+      <italic>
+       B. subtilis
+      </italic>
+      revealed an interaction between PASTA motifs and peptidoglycan, the ligand of the STK receptor (      ). Several
+      <italic>
+       in vitro
+      </italic>
+      studies have also demonstrated that PASTA motifs are able to bind β-lactams and peptidoglycan fragments, making STK as a cell membrane receptor that transmits information from the cell wall state to the phosphorylation target (      ;      ). Importantly, STKs with PASTA motifs play a major role in the regulation of bacterial cell division and morphogenesis (      ). The activation of STKs is thought to be initiated by the binding of these neuropeptide ligands, resulting in dimerization and subsequent autophosphorylation of the cytoplasmic N-terminal kinase domain. This leads to the phosphorylation of downstream target proteins and eventually results in the modulation of transcriptional activity. This process has been confirmed in a study of
+      <italic>
+       Mycobacterium tuberculosis
+      </italic>
+      and
+      <italic>
+       Staphylococcus aureus
+      </italic>
+      (      ;      ). A topological analysis predicted PknB, the serine/threonine protein kinase of
+      <italic>
+       S. mutans
+      </italic>
+      , as a transmembrane protein with a catalytic domain in the cytoplasm and a C-terminal domain located extracellularly (      ). Three PASTA domains are located at the C terminus (      ).
+     </p>
+    </sec>
+    <sec id="s2_4">
+     <title>
+      Serine/Threonine Phosphatases
+     </title>
+     <p>
+      The serine/threonine phosphatase system has long been considered as an exclusive PTM in eukaryotes for a long time (      ), and the first reported bacterial example was the
+      <italic>
+       E. coli
+      </italic>
+      tricarboxylic acid cycle enzyme isocitrate dehydrogenase (IDH) (      ). Most enzymes with serine/threonine phosphatase (STP) activity are members of two structurally different families, PPMs and PPPs. A large number of identified and biochemically characterized STPs belong to the PPM family (      ;      ). They share a common catalytic domain consisting of 9-11 signature sequence motifs containing eight conserved amino acid residues and eight invariant residues (one Asp in motifs 1 and 2, Thr in motif 4, Gly in motifs 5 and 6, Asp and Gly in motif 8, and Asp in motif 11) (      ;      ;      ). The phosphatase activity of STPs in the PPM family is dependent on mental status (      ). The conserved STP structure is highly parallel to the human PP2C phosphatase. The active site was surrounded by a central β-sandwich, with a pair of α-helices in the flank, and a binuclear metal center is located within the channel of the β-sandwich, and two metal ions located at the base of the cleft (      ;      ). There are some key differences between the structure of STPs and the human PP2C family, such as Mn      and Mg      ; a structural analysis revealed that bacterial enzymes have a third metal ion bound within the catalytic core (      ;      ;      ). Another difference is the lack of his62 residue in the bacterial structure, which has been shown to function as an acid that splits the phosphate oxygen bond in human PP2C (      ). The most remarkable structural difference corresponds to the flap subdomain. In bacteria, this region is located further away from the active site. As a mobile element, it may facilitate binding and turnover of the substrates, and introduce the specificity to the dephosphorylation of the substrates (      ). Most serine/threonine phosphatases of the PPP family have dual specificity and can also dephosphorylate phosphor-histidine and phosphor-tyrosine residues (      ;      ). PppL of
+      <italic>
+       S. mutants
+      </italic>
+      was the first reported oral bacterial STP (      ). However, its structure requires further investigation. The haloacid dehalogenase (HAD) family phosphatase is also widespread in prokaryotes, and it is characterized by a Rossman-like fold with active motif (DxDx[V/T]) (      ). The HAD family of phosphatases uses aspartic acid as a nucleophile to form phosphatase intermediates during the phosphoryl transfer process, and absolutely requires divalent ion cofactors (      ). SerB of
+      <italic>
+       P. gingivalis
+      </italic>
+      is a well-studied HAD family phosphatase in oral bacteria (      ). SerB is secreted by
+      <italic>
+       P. gingivalis
+      </italic>
+      and is involved in oral bacteria-host interactions, which will be described in subsequent sections.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s3">
+    <title>
+     The Function of Oral Bacterial Tyrosine and Serine/Threonine Kinases and Phosphatases
+    </title>
+    <sec id="s3_1">
+     <title>
+      Tyrosine and Serine/Threonine Kinases and Phosphatases in Bacterial Metabolism and Virulence
+     </title>
+     <p>
+      The first identification and characterization of tyrosine phosphorylation in bacteria appeared in 1996, when Bertrand Duclos et al. revealed the autophosphorylation of tyrosine residues in
+      <italic>
+       Acinetobacter johnsonii
+      </italic>
+      (      ). Increasing evidence has demonstrated that tyrosine phosphorylation is crucial for bacterial survival and pathogenicity (      ;      ). Studies have shown that tyrosine phosphorylation is involved in the biosynthesis and export of extracellular polysaccharides (EPS), which are key virulence factors and integral components of biofilm communities (      ;      ;      ). Ltp1, the LMW-PTP in
+      <italic>
+       P. gingivalis
+      </italic>
+      , is critical for bacterial virulence, as it helps to regulate various virulence factors at multiple levels. Ltp1 controls EPS production and secretion by regulating the transcriptional activity of genes involved in K-antigen production (PG 0106-0120) and anionic polysaccharide production (PG 0435-0437) (      ). Ltp1 can also control the expression of the LuxS enzyme, which is responsible for AI-2 formation, and promote the intake of hemin, thus increasing the toxicity of
+      <italic>
+       P. gingivalis
+      </italic>
+      (      ;      ). More importantly, the secretion and activity of gingipains (Rgp and Kgp) in
+      <italic>
+       P. gingivalis
+      </italic>
+      was regulated by Ltp1 in distinct manner. The secretion efficiency of the Rgp has been positively correlated with the phosphatase activity of Ltp1. In contrast, the dephosphorylated Kgp shows diminished proteolytic activity (      ). Consistently, compared with parental strains, the
+      <italic>
+       php1
+      </italic>
+      mutant exhibited less EPS productivity and caused less alveolar bone loss in murine periodontitis models (      ).
+     </p>
+     <p>
+      Both Ltp1 and Php1 can be phosphorylated by the tyrosine kinase Ptk1, which is also required for EPS production by
+      <italic>
+       P. gingivalis
+      </italic>
+      (      ). The 159 and 161 tyrosine residues of Php1 can be phosphorylated by Ptk1, and the 161-residue phosphorylation may indicate a specific regulatory mechanism in
+      <italic>
+       P. gingivalis
+      </italic>
+      (      ). Interestingly, Ptk1 is also a substrate of Ltp1 and Php1 (      ;      ). These results indicated that reversible tyrosine phosphorylation of
+      <italic>
+       P. gingivalis
+      </italic>
+      is tightly orchestrated by the activity of tyrosine kinase (Ptk1) and tyrosine phosphatases (Ltp1 and Php1), allowing the bacteria to sense and respond to perturbations in the environment (      ). Further evidence has been derived from high-throughput transposon sequencing has been used to screen the fitness of gene mutants involved in epithelial colonization in a murine abscess model (      ). Either
+      <italic>
+       php1
+      </italic>
+      or
+      <italic>
+       ptk1
+      </italic>
+      mutant showed reduced fitness in the epithelial colonization model. Thus, the Ptk1-Php1 axis may be prompt the interaction of
+      <italic>
+       P. gingivalis
+      </italic>
+      with host epithelial barriers, functioning as a potential regulator of pathogen colonization and virulence (      ). UbK1 in
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       gingivalis
+      </italic>
+      can also exert its pathogenic function. Specifically, RprY, an orphan two-component system response regulator, can be phosphorylated by UbK1 on Y41 residue, affecting its transcriptional function (      ;      ). The UbK in
+      <italic>
+       S. mutans
+      </italic>
+      has been reported associated with cell morphology and biofilm development (      ).
+     </p>
+     <p>
+      STK is also essential for bacterial survival and is related to oral biofilm formation related to the oral bacterial.
+      <italic>
+       S. mutans
+      </italic>
+      is a major etiologic agent in dental caries, primarily because of its ability to form biofilms on the tooth surface and to ferment a variety of carbohydrates to produce organic acids (      ). STK and STP systems play a pivotal role in the pathogenicity of
+      <italic>
+       S. mutans
+      </italic>
+      (      ).
+      <italic>
+       S. mutans
+      </italic>
+      possesses a STK, PknB. The
+      <italic>
+       pknB
+      </italic>
+      mutant presented a transformation defect, reduced biofilm formation, and reduced the microbial growth rate in culture medium at pH 5.0 and sensitivity to low pH, as well as oxidative and osmotic stress (      ;      ). A whole-genome transcriptome analysis revealed that the
+      <italic>
+       pknB
+      </italic>
+      mutant exhibited downregulation of
+      <italic>
+       SMU.1895c
+      </italic>
+      and
+      <italic>
+       SMU.1896c
+      </italic>
+      , which are involved in bacteriocin production (      ). The STP of
+      <italic>
+       S. mutans
+      </italic>
+      is encoded by the
+      <italic>
+       pppL
+      </italic>
+      gene located immediately downstream of
+      <italic>
+       pknB
+      </italic>
+      . The mutant of
+      <italic>
+       pppL
+      </italic>
+      and
+      <italic>
+       pknB pppL
+      </italic>
+      double mutants displayed reduced biofilm thickness and transformation defects.
+     </p>
+    </sec>
+    <sec id="s3_2">
+     <title>
+      Tyrosine and Serine/Threonine Kinases and Phosphatases in Oral Bacterial Dysbiosis
+     </title>
+     <p>
+      Oral bacterial dysbiosis is characterized by disruption in bacterial homeostasis, caused by an imbalance in the microflora, changes in composition, and metabolic activities, which contribute to oral diseases, such as dental caries and periodontitis (      ).
+      <italic>
+       P. gingivalis
+      </italic>
+      acts as a critical agent by disrupting bacterial homeostasis (      ;      ). In dental plaque,
+      <italic>
+       P. gingivalis
+      </italic>
+      can accumulate into a heterotypic community with
+      <italic>
+       S. gordonii
+      </italic>
+      and utilize physiological support, while the heterotypic colonies are more virulent than
+      <italic>
+       P. gingivalis
+      </italic>
+      mono-species infections (      ;      ).The mechanism of
+      <italic>
+       P. gingivalis
+      </italic>
+      accumulation in the
+      <italic>
+       S. gordonii
+      </italic>
+      matrix is due to the metabolite, 4-amino benzoate (pABA), and direct contact between
+      <italic>
+       P. gingivalis
+      </italic>
+      and
+      <italic>
+       S. gordonii
+      </italic>
+      , which is stringently regulated by the Ltp1-Ptk1 and Php1-Ptk1 axes of
+      <italic>
+       P. gingivalis
+      </italic>
+      (      ;      ;      ;      ). Ltp1 can inhibit the development of
+      <italic>
+       P. gingivalis
+      </italic>
+      and
+      <italic>
+       S. gordonii
+      </italic>
+      communities at the phenotypic level (      ). The mechanism describing how Ltp1 regulates this process was further elucidated. The results showed that Ltp1 upregulated and participated in the interspecies signal transmission after contact with streptococcal SspA or SspB surface proteins. The elevated Ltp1 resulted in dephosphorylation and inactivation of Ptk1, thus increasing the expression of community development and hemin regulator (CdhR) and suppressing the transcription of
+      <italic>
+       mfa1
+      </italic>
+      , which limits the development of heterotypic communities (      ). In turn, pABA secreted by
+      <italic>
+       S. gordonii
+      </italic>
+      could suppress the activity of Ltp1 and reverse this signaling transduction through the Ltp1-Ptk1 axis.
+     </p>
+     <p>
+      Ptk1 activity also converges on expression of the other fimbriae encoding genes (
+      <italic>
+       fimA
+      </italic>
+      ). Therefore, we can speculate that Ltp1-Ptk1 affects the oral bacterial homeostasis and dysbiosis by regulating the expression of
+      <italic>
+       P. gingivalis
+      </italic>
+      fimbriae in a spatio-temporal dependent manner. The cognate kinase Php1-Ptk1 axis of
+      <italic>
+       P. gingivalis
+      </italic>
+      also participates in oral bacterial homeostasis and dysbiosis regulation
+      <italic>
+       via
+      </italic>
+      distinct mechanisms. Jung et al. demonstrated that
+      <italic>
+       PhpP
+      </italic>
+      mutants showed diminished heterotypic communities of
+      <italic>
+       P. gingivalis
+      </italic>
+      and
+      <italic>
+       S. gordonii
+      </italic>
+      , but had no significant effect on intraspecific communication of
+      <italic>
+       P. gingivalis
+      </italic>
+      (      ). Php1 can also dephosphorylate Ptk1, however, the activity of Php1 is resistant to the effect of pABA secreted by
+      <italic>
+       S. gordonii
+      </italic>
+      . Thus, the specific mechanism by which Php1-Ptk1 regulates the heterotypic community requires further investigation.
+     </p>
+     <p>
+      In addition,
+      <italic>
+       Streptococcus sanguinis
+      </italic>
+      , an early colonizing bacterium in dental biofilm, antagonizes other streptococcus colonization and growth by secreting the virulence factor H
+      <sub>
+       2
+      </sub>
+      O
+      <sub>
+       2
+      </sub>
+      .Studies have shown that serine/threonine kinase PknB secreted by
+      <italic>
+       S. mutans
+      </italic>
+      plays a role in its tolerance to H
+      <sub>
+       2
+      </sub>
+      O
+      <sub>
+       2
+      </sub>
+      , which helps
+      <italic>
+       S. mutans
+      </italic>
+      adapt to ecological pressure and interspecific competition with
+      <italic>
+       S. sanguinis
+      </italic>
+      (      ).
+     </p>
+    </sec>
+    <sec id="s3_3">
+     <title>
+      Effect of Tyrosine and Serine/Threonine Phosphatases on Oral Bacteria-Host Interaction
+     </title>
+     <p>
+      Many bacteria exert their virulence by invading host cells, and the internalization and intracellular survival of bacteria are essential to their pathogenicity (      ). Lamont et al. first reported that
+      <italic>
+       P. gingivalis
+      </italic>
+      can invade primary cultures of gingival epithelial cells (      ). Mounting evidence supports this finding, and a series of discoveries have since demonstrated the pivotal role of tyrosine and serine/threonine phosphatases in this process (      ;      ). The most common example of the participation of serine/threonine phosphatases in oral bacteria-host interaction is SerB in
+      <italic>
+       P. gingivalis
+      </italic>
+      (      ). SerB can be released into host cells and directly interact with host cytoplasmic phosphoproteins, facilitating bacterial internalization (      ). The existence of SerB can ensure the invasion of host cells to the greatest extent, as SerB dephosphorylates actin cofilin, an actin depolymerizing host protein, affecting the expression of genes involved in the regulation of actin cytoskeleton dynamics and cytokine secretion (      ;      ). Furthermore, SerB can also dephosphorylate the S536 site of NF-κB p65 subunit to prevent nuclear translocation of NF-κB. This process antagonizes the production of interleukin-8 (IL-8), leading to local chemokine paralysis (      ). Compared to parental strains, the SerB mutant resulted in high levels of neutrophil recruitment to gingival tissue and decreased alveolar bone destruction at both the horizontal and interproximal levels (      ). In summary, SerB can promote bacterial invasion of the host, allowing it to continue to exert its full pathogenic potential. Interestingly, it has very recently been reported that the tyrosine phosphatase (Ltp1) can also be secreted by
+      <italic>
+       P. gingivalis
+      </italic>
+      and appears in both the cytoplasm and nucleus of gingival epithelial cells (      ). The secreted Ltp1 can bind to phosphatase and tensin homolog (PTEN) and dephosphorylate its Y336 residue, resulting in the degradation of PTEN. PTEN is a classic negative regulator of phosphoinositide 3-kinases/protein kinase B (PI3K/Akt). Thus, the inhibition of PTEN by Ltp1 could further activate PI3K/Akt and its downstream regulator of the cell cycle (RGCC), promoting the migration, proliferation and epithelial mesenchymal transition of epithelial cells (      ) (      ).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s4">
+    <title>
+     Conclusion and Perspectives
+    </title>
+    <p>
+     The phosphorylation system has long been considered an important signal transduction system in eukaryotes, and in recent decades, the function of kinases and phosphatases in prokaryotes has been gradually revealed. Yet, based on the gene homologues of bacteria, there are still many putative kinases and phosphatases that have not been studied (     ). The rising prevalence of antibiotic-resistant bacteria is driving research toward novel targets. With the advent of phosphor-proteomics, more phosphorylation proteins and sites can be discovered to expand the phosphorylation regulatory network (     ;     ;     ;     ). In the future, more experiments are needed to verify the specific functions of kinases and phosphatases in oral bacteria physiology and pathogenicity, clarify mechanisms between bacteria and the host, and identify potential drug targets to treat infection, immune responses, and diseases.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s5" sec-type="author-contributions">
+    <title>
+     Author Contributions
+    </title>
+    <p>
+     LR, DS and CL drafted the manuscript. CL and YD edited and added valuable insights into the manuscript. All authors approved the final manuscript and agreed to be accountable for all aspects of the work.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s6" sec-type="funding-information">
+    <title>
+     Funding
+    </title>
+    <p>
+     This study was supported by the National Natural Science Foundation (grant number 82071121 to YD).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s7" sec-type="COI-statement">
+    <title>
+     Conflict of Interest
+    </title>
+    <p>
+     The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s8" sec-type="disclaimer">
+    <title>
+     Publisher’s Note
+    </title>
+    <p>
+     All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

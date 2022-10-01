@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  A Shaving Proteomic Approach to Unveil Surface Proteins Modulation of Multi-Drug Resistant
+ </title>
+ <abstract>
+  <p>
+   Cystic fibrosis (CF) is the most common rare disease caused by a mutation of the
+   <italic>
+    CF transmembrane conductance regulator
+   </italic>
+   gene encoding a channel protein of the apical membrane of epithelial cells leading to alteration of Na   and K   transport, hence inducing accumulation of dense and sticky mucus and promoting recurrent airway infections. The most detected bacterium in CF patients is
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   (PA) which causes chronic colonization, requiring stringent antibiotic therapies that, in turn induces multi-drug resistance. Despite eradication attempts at the first infection, the bacterium is able to utilize several adaptation mechanisms to survive in hostile environments such as the CF lung. Its adaptive machinery includes modulation of surface molecules such as efflux pumps, flagellum, pili and other virulence factors. In the present study we compared surface protein expression of PA multi- and pan-drug resistant strains to wild-type antibiotic-sensitive strains, isolated from the airways of CF patients with chronic colonization and recent infection, respectively. After shaving with trypsin, microbial peptides were analyzed by tandem-mass spectrometry on a high-resolution platform that allowed the identification of 174 differentially modulated proteins localized in the region from extracellular space to cytoplasmic membrane. Biofilm assay was performed to characterize all 26 PA strains in term of biofilm production. Among the differentially expressed proteins, 17 were associated to the virulome (e.g., Tse2, Tse5, Tsi1, PilF, FliY, B-type flagellin, FliM, PyoS5), six to the resistome (e.g., OprJ, LptD) and five to the biofilm reservoir (e.g., AlgF, PlsD). The biofilm assay characterized chronic antibiotic-resistant isolates as weaker biofilm producers than wild-type strains. Our results suggest the loss of PA early virulence factors (e.g., pili and flagella) and later expression of virulence traits (e.g., secretion systems proteins) as an indicator of PA adaptation and persistence in the CF lung environment. To our knowledge, this is the first study that, applying a shaving proteomic approach, describes adaptation processes of a large collection of PA clinical strains isolated from CF patients in early and chronic infection phases.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="s1" sec-type="intro">
+    <title>
+     Introduction
+    </title>
+    <p>
+     Cystic fibrosis (CF) is a rare disease caused by mutations of the
+     <italic>
+      CF transmembrane conductance regulator
+     </italic>
+     gene (CFTR) which encodes for a channel protein regulating Na     and K     transportation in and out of the epithelial cells (     ). Several genetic mutations of the CFTR gene are implicated in the pathogenesis of the disease giving rise, along with other factors, to a multitude of ailment phenotypes (     ). Regardless of the type of CFTR dysregulations, the effect results in systemic disease, with the major issues represented by the generation of dense and sticky mucus deeply affecting lung pathophysiology (     ) and colonization of both Gram-positive and Gram-negative bacteria, as well as fungal colonization (     ,     ). Therefore, CF is characterized by recurrent pulmonary exacerbations, a decrease of the lung function and increased morbidity and mortality, requiring more stringent antimicrobial therapies which, in turn, trigger bacteria antibiotic resistance (AR) (     –     ). The resulting antibiotic resistance (AR) is a crucial issue. In 2017 the World Health Organization (WHO) listed critical microorganisms for which it is imperative to develop new drugs, that included the multi-drug resistant (MDR) ESKAPE (i.e.,
+     <italic>
+      Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa
+     </italic>
+     , and
+     <italic>
+      Enterobacter
+     </italic>
+     species) (     ).
+    </p>
+    <p>
+     The Gram-negative
+     <italic>
+      P. aeruginosa
+     </italic>
+     (PA) is the most isolated bacterium in CF in children and teens and its prevalence increases in adulthood with up to 70% of overall grownup CF subjects (     ). Moreover, the 13.2% of all PA colonized patients have multi-drug resistant PA (Cystic Fibrosis Foundation Patient Registry, Annual Data Report 2020).
+    </p>
+    <p>
+     Antibiotic resistance is the result of PA ability to acquire resistance through genes, plasmids, membrane permeability, and/or chromosomal mutations (     ), and is part of the so-called “adaptive radiation”. This phenomenon includes loss of motility and virulence factors associated with early infection; modifications of adherence and biofilm; the appearance of late colonization virulence factors; and changes in growth rates and porins\\ expression (     ,     ,     ). This high plasticity makes the pathogen extremely flexible and capable of surviving in the hostile CF pulmonary environment, which is characterized by low oxygen, viscous mucus, high competition with other bacteria, fluctuating pH, the presence of host innate immunity and antibiotic molecules (     ).
+    </p>
+    <p>
+     Adaptation mechanisms reflect re-arrangements of the bacterial proteins on the surface of the microbe, suggesting that antibiotic resistant PA isolates from long-term colonization may express a different surface protein layout compared to antibiotic sensitive wild type PA isolates from recent infection. Mass spectrometry-driven proteomics is a powerful and valuable approach as it provides the chance to simultaneously identify and quantify several proteins (     ). Different proteomic procedures to characterize surface proteins (the so-called “surfaceome”) may be employed including extraction and enrichment methods based on subcellular fractionation (     ), cell surface coating or biotinylation (     ) and the “shaving” of live bacterial cells using proteases (     ,     ). The advantage of the “shaving” approach resides in directly targeting live bacterial cells with no need for extensive biochemical purifications in a fast and reliable way. The methodology was employed to ascertain potential vaccine candidates (     –     ) or study biofilm formation (     ) and was first described for Gram-positive bacteria (     ). Afterwards, a plethora of scientific works reported shaving proteomics applied to prokaryotes and eukaryotes, irrespective of protease variations, quantity, and incubation time. The procedure is still mainly utilized on Gram-positive bacteria (     ,     ,     –     ), but also suitable for Gram-negative bacteria (     ,     ,     –     ), despite intrinsic limitation of the method associated with the retention of cytoplasmic proteins (     –     ). However, cell lysis may not be the only explanation for the presence of cytoplasmic proteins in the shaved fraction. Indeed, there are proteins predicted as intracellular but exported by unknown secretion pathways or even delivered to extracellular space (i.e., the so-called “Moonlighting” proteins) (     ). The importance of these proteins, identified as both intra- and extra-cellular, may come from a potential crucial role as virulence factors (     ) or enzymes involved in immunological escape (     ).
+    </p>
+    <p>
+     So far, the only paper utilizing a shaving strategy in PA attempted to expand the knowledge of proteins interacting with the environment (     ).
+    </p>
+    <p>
+     In the present study the bacterial shaving proteomics was exploited to study surface proteins of PA in clinical strains isolated from CF patients characterized by multi- and pan-drug antibiotic resistance profiles compared to antibiotic sensitive strains. These findings may contribute to the comprehensive landscape description of PA surface proteins related to antibiotics resistance and its resulting virulence profile. The characterization of modulated proteins may be the key to decode the functional activity of PA infection and antibiotic resistance in CF, thus having a valuable impact in unveiling new virulence markers and therapeutic targets.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s2" sec-type="materials and methods">
+    <title>
+     Materials and Methods
+    </title>
+    <sec>
+     <title>
+      <italic>
+       Pseudomonas aeruginosa
+      </italic>
+      Strains and Culture Conditions
+     </title>
+     <p>
+      Nine multi-drug and seven pan-drug resistant (MDR and PDR, respectively) non-mucoid strains of
+      <italic>
+       P. aeruginosa
+      </italic>
+      isolated from the airways of CF patients with chronic colonization (4–15 years, except patient # 1), nine wild-type (WT) antibiotic-sensitive strains isolated from the airways of CF patients with recent infection (&lt;12 months), and a PAO1 reference strain were analyzed (WT_10) (      ;      ). According to The European Committee on Antimicrobial Susceptibility Testing (
+      <ext-link ext-link-type="uri" ns0:href="http://www.eucast.org">
+       http://www.eucast.org
+      </ext-link>
+      ), WT strains are defined as sensitive to all antimicrobials, while MDR strains are resistant to at least one agent in three or more antimicrobial categories and PDR strains are resistant to all antibiotics in all classes.
+     </p>
+     <p>
+      After isolation, all strains were kept at −80°C in Cryobank tubes (Mast Group Ltd., Bootle, Merseyside, United Kingdom) until they were ready for processing. Bacteria were plated on Columbia agar with 5% sheep blood (Becton Dickinson GmbH, Heidelberg, Germany), and then grown in Brain-Heart infusion broth (BHI, bioMérieux Italia S.p.A., Bagno a Ripoli, Firenze, Italy) at 37°C until reaching the mid-exponential phase (OD
+      <sub>
+       600
+      </sub>
+      = 0.4).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Bacterial Shaving
+     </title>
+     <p>
+      Ten mL of bacterial growth was centrifuged 15 min at 4,000
+      <italic>
+       g
+      </italic>
+      , 4°C; the pellet was suspended in 10 mL of ice-cold phosphate buffer (DPBS; KCl 200 mg/L, KH
+      <sub>
+       2
+      </sub>
+      PO
+      <sub>
+       4
+      </sub>
+      200 mg/L, NaCl 8,000 mg/L, Na
+      <sub>
+       2
+      </sub>
+      HPO
+      <sub>
+       4
+      </sub>
+      1150 mg/L) with 20% sucrose, washed two times and resuspended in 1 mL of the same buffer. Shaving was performed by adding 2.5 μg/mL of sequencing-grade trypsin (Promega, Milan, Italy), keeping the solution at 37°C, 5 min, in agitation (60 rpm) on a Forma Orbital Shaker (Thermo Fisher Scientific, Waltham, MA, USA). After centrifugation to remove cells, the supernatant was filtered through a 0.2 μm filter. Fifty percent (50%) of the resulting supernatant was treated with 1 mM Dithiothreitol and 1 mM Iodacetammide, then digested by adding 0.5 μg of fresh trypsin overnight at 37°C. The reaction was stopped by adding a final concentration of 0.1% Trifluoroacetic Acid (TFA) and the sample was desalted on Pierce C18 Spin Columns (Thermo Fisher Scientific). Peptides were speedvac-dried, and resuspended in a water solution with 2% Acetonitrile (ACN) and 0.1% Formic Acid (FA). The total peptide content was determined by a NanoDrop 2000 (Thermo Fisher Scientific), with a standard curve of MassPrep
+      <italic>
+       Escherichia coli
+      </italic>
+      digestion (Waters, Milford, MA, USA).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      NanoLiquid Chromatography-ElectroSpray Ionization-Tandem Mass Spectrometry (nLC-ESI-MS7MS) Analysis
+     </title>
+     <p>
+      Separation by reverse-phase chromatography, identification and quantification of shaved proteins were carried out on an UltiMate3000 RSLCnano System coupled with an Orbitrap Fusion Tribrid mass spectrometer (Thermo Fisher Scientific) equipped with a nanoESI source (EASY-Spray NG), as already described elsewhere (      ) with minor modifications.
+     </p>
+     <p>
+      Peptides (1.71 μg) were loaded onto a micro-column (C18 PepMap100, Thermo Fisher Scientific) for trapping and desalting. Separation was then performed by a 60 min linear gradient starting from 95% solution A (0.1% FA in water) to 25% solution B (99.9% ACN, 0.1%FA) on an EASY-Spray PepMap RSLC C18 column (2 μm particle size, 100 Å pore size, 75 μm i.d. × 50 cm length, Thermo Fisher Scientific), at a flow rate of 250 nL/min and a temperature of 35°C. Precursor MS survey scans were detected within the range of 375–1,500
+      <italic>
+       m/z
+      </italic>
+      by the Orbitrap operating in positive ionization mode, at resolving power of 120 K (at 200
+      <italic>
+       m/z
+      </italic>
+      ), setting the automatic gain control target at 4.0 × 10      ions and the maximum injection time at 50 ms. Data dependent MS/MS analysis was performed in top speed mode with a 3 s cycle-time, alternating MS and MS/MS experiments, during which the most abundant multiple-charged (2      – 7      ) precursor ions, with a signal intensity threshold of 5 × 10      , were subjected to high-energy collisional dissociation using 30% normalized collision energy. Ion fragments were acquired by the Ion Trap detector applying of 2.0 × 10      ions as the automatic gain control target and 300 ms as the maximum injection time.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Protein Identification
+     </title>
+     <p>
+      Mass spectrometry raw data processing was obtained by Proteome Discoverer software (PD, version 2.4, Thermo Fisher Scientific) interrogating the
+      <italic>
+       P. aeruginosa
+      </italic>
+      UniProtKB reference proteome database (UP000002438, release: 2020_04, 5,564 proteins) and 39 common contaminant sequence entries. The search engine (Sequest HT) parameters included trypsin as the proteolytic enzyme, with a maximum of 2 missed cleavages per peptide allowed, oxidation of methionine as variable modification, carbamidomethylation of cysteine as static modification, precursor mass tolerance threshold ≤ 10 ppm, and maximum fragment mass tolerance = 0.6 Da. For protein identifications, the false-discovery rate (FDR) cut-off was set at 0.01, based on Percolator algorithm and on a decoy database. Contaminant proteins were filtered out and only proteins with at least two identified peptides were considered.
+     </p>
+     <p>
+      MS dataset and search engine result files are available via MassIVE and ProteomeXchange public repositories with identifiers MSV000088468 and PXD030040 (
+      <ext-link ext-link-type="uri" ns0:href="http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD030040">
+       http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD030040
+      </ext-link>
+      ), respectively.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Data Analysis and Relative Quantification
+     </title>
+     <p>
+      Label-free quantitation (LFQ) (      ) was performed by PD applying the following parameters: precursor abundance quantification based on intensity, normalization mode on total peptide amount, and protein abundance calculation performed by summing sample abundances of the connected peptide groups.
+     </p>
+     <p>
+      Taking as input the complete protein normalized intensities matrix obtained from PD software, a filter was applied for each group removing all the proteins that were not present in at least 75% of the samples (MDR, PDR, and WT). All missing values were filled with zeros, and two unsupervised (Bray-Curtis beta diversity and Principal Component Analysis, PCA) analyses were explored. The aforementioned analyses were plotted by showing the first two components; samples were colored by group and the covariance confidence ellipses (σ = 1.4) were shown. Permutational multivariate analysis of variance (PERMANOVA, 9,999 permutations) was performed in order to test the association between covariates and beta diversity measures. To perform the pre-processing and the statistical analyses,
+      <italic>
+       ad-hoc
+      </italic>
+      Python 3.7 scripts were used (main packages: pandas, numpy, scipy, vegan, and scikit-learn).
+     </p>
+     <p>
+      Hierarchical clustering analysis was performed by the PD software on the complete data matrix of normalized protein abundances applying a
+      <italic>
+       z
+      </italic>
+      -score transformation and computing the distance function by Pearson product-moment correlation and the linkage function by the greatest distance.
+     </p>
+     <p>
+      The PD protein ratio calculation between paired sample groups was based on
+      <italic>
+       t
+      </italic>
+      -test ratio (median of all possible pairwise peptide ratios calculated between replicates of all connected peptides), presence of each feature in at least 75% of samples in one group, and adjusted
+      <italic>
+       p
+      </italic>
+      -value &lt; 0.05, using Benjamini-Hochberg correction for the FDR.
+     </p>
+     <p>
+      To move from relative quantification of identified proteins to functional analysis, Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway (
+      <ext-link ext-link-type="uri" ns0:href="https://www.genome.jp/kegg/">
+       https://www.genome.jp/kegg/
+      </ext-link>
+      ) and literature searches were utilized.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Prediction of Protein Subcellular Localization
+     </title>
+     <p>
+      Subcellular localization of the identified proteins was retrieved merging information from several web-based tools driven by diverse features-based algorithms, such as the presence of classical and non-classical signal peptides, the amino acid composition and putative transmembrane helices. The analyses were performed by PSORTb-3.0 (
+      <ext-link ext-link-type="uri" ns0:href="http://www.psort.org/psortb/">
+       http://www.psort.org/psortb/
+      </ext-link>
+      ), SignalP-5.0 (
+      <ext-link ext-link-type="uri" ns0:href="http://www.cbs.dtu.dk/services/SignalP/">
+       http://www.cbs.dtu.dk/services/SignalP/
+      </ext-link>
+      ), TargetP-2.0 (
+      <ext-link ext-link-type="uri" ns0:href="http://www.cbs.dtu.dk/services/TargetP/">
+       http://www.cbs.dtu.dk/services/TargetP/
+      </ext-link>
+      ), LipoP 1.0 (
+      <ext-link ext-link-type="uri" ns0:href="http://www.cbs.dtu.dk/services/LipoP/">
+       http://www.cbs.dtu.dk/services/LipoP/
+      </ext-link>
+      ), CELLO v.2.5 (
+      <ext-link ext-link-type="uri" ns0:href="http://cello.life.nctu.edu.tw/">
+       http://cello.life.nctu.edu.tw/
+      </ext-link>
+      ), SecretomeP-2.0 (
+      <ext-link ext-link-type="uri" ns0:href="http://www.cbs.dtu.dk/services/SecretomeP/">
+       http://www.cbs.dtu.dk/services/SecretomeP/
+      </ext-link>
+      ), TOPCONS (
+      <ext-link ext-link-type="uri" ns0:href="https://topcons.cbr.su.se/">
+       https://topcons.cbr.su.se/
+      </ext-link>
+      ), TMHMM - 2.0 (
+      <ext-link ext-link-type="uri" ns0:href="http://www.cbs.dtu.dk/services/TMHMM/">
+       http://www.cbs.dtu.dk/services/TMHMM/
+      </ext-link>
+      ), DeepTMHMM (
+      <ext-link ext-link-type="uri" ns0:href="https://dtu.biolib.com/DeepTMHMM">
+       https://dtu.biolib.com/DeepTMHMM
+      </ext-link>
+      ), UniProtKB database (
+      <ext-link ext-link-type="uri" ns0:href="https://www.uniprot.org/">
+       https://www.uniprot.org/
+      </ext-link>
+      ) and PD ProteinCenter annotation (
+      <ext-link ext-link-type="uri" ns0:href="http://webservice.proteincenter.thermofisher.com/ProXweb/">
+       http://webservice.proteincenter.thermofisher.com/ProXweb/
+      </ext-link>
+      ).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Biofilm Production Assay
+     </title>
+     <p>
+      The quantification of biofilm production was based on the microtiter plate (MTP) biofilm assay (      ). Briefly, the wells of a sterile 96-well flat-bottomed polystyrene plate were filled with 100 μL of BHI. One/100 dilution of overnight bacterial cultures was added into each well (OD
+      <sub>
+       600
+      </sub>
+      <sub>
+       nm
+      </sub>
+      ≈ 0.5). The plates were incubated aerobically for 18 h at 37°C and then planktonic cells were gently removed. Each well was washed three times with double-distilled water, patted dry with a piece of paper towel in an inverted position and stained with 100 μL of 0.1% crystal violet. After 15 min, the MTP was rinsed twice with double-distilled water, and thoroughly dried. The dye bound to adherent cells was solubilized with 20% (v/v) glacial acetic acid and 80% (v/v) ethanol. After 30 min of incubation at room temperature, OD
+      <sub>
+       590nm
+      </sub>
+      was measured to quantify the total biomass of biofilm formed in each well. Each data point is composed of four independent experiments, each performed in at least 6-replicates. Bacteria with any degree of biofilm production (“weak,” “moderate,” or “strong”) were considered as producers (      ).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s3" sec-type="results">
+    <title>
+     Results
+    </title>
+    <sec>
+     <title>
+      <italic>
+       Pseudomonas aeruginosa
+      </italic>
+      Surface Proteome
+     </title>
+     <p>
+      Twenty-six
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains were included in the study of which nine MDR and seven PDR clinical isolates from CF patients with chronic colonization, nine antibiotic sensitive WT clinical isolates from CF patients with recent first infection, and an antibiotic sensitive reference strain PAO1 (      ).
+     </p>
+     <p>
+      Through shaving proteomics, we purified a mean of 6.27 μg (±2.60 standard deviation, s.d.) of peptides in the MDR group, 5.72 μg (±1.60 s.d.) in PDR samples, and 5.21 μg (±1.40 s.d.) in the WT group (      ). By nLC–ESI–MS/MS, applying ID filters and removing contaminants, 2,206 (mean of 801 ± 379 s.d.), 2,238 (1,117 ± 221 s.d.), and 2,170 (950 ± 208 s.d.) total diverse proteins were identified in the MDR, PDR and WT groups, respectively (      ;      ). When performing proteomic mass spectrometry-based experiments, contamination events are not completely avoidable and in our experiments are quite low, amounting to a mean of 0.42 ± 0.28% of proteins respective to the total identified proteins for each strain. The contaminants derive from keratins from human skin/hair, clothes made of sheep wool, or lab dust; autolytic digestion of the used protease; and rubber from labware equipment (      ,      ). The quantity of purified peptides allowed an optimal nLC-MS/MS analysis and numbers of identified proteins were consistent with other published papers related to shaving proteomics of bacteria (      ).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Comparative Analysis of Surface Protein Extracts From Antibiotic-Resistant and Sensitive
+      <italic>
+       Pseudomonas aeruginosa
+      </italic>
+      Strains
+     </title>
+     <p>
+      LFQ analysis was performed by PD software quantifying 2,370 different proteins across all samples (      ), covering 43% of the theoretical proteome. This percentage was higher than expected, considering predicted localization results based on the PAO1 complete reference genome (Refseq Accession NC_002516.2), available at PSORTb website, and theoretically mapping 31% of proteins spanning the region from extracellular space to the cytoplasmic membrane. However, this occurrence may be explained by the presence in the shaved fraction of both cytoplasmic proteins derived from cell lysis and moonlighting proteins.
+     </p>
+     <p>
+      In order to have an overview of sample classification into subgroups, according to their proteins content, we measured the dissimilarity between samples using beta diversity analysis (      ). Sample distribution showed a dissimilarity corresponding to the three groups MDR, PDR, and WT (PC1 vs PC2; PC1: 31.47%; PC2: 20.75%). The groups showed statistically significant (
+      <italic>
+       p
+      </italic>
+      -value ≤ 0.001) differences assessed by the PERMANOVA test.
+     </p>
+     <p>
+      Also PCA analysis displayed a good separation amongst groups (PC1 vs. PC2; PC1: 19.93%; PC2: 15.98%) outlining a segregation between antibiotic-susceptible and -resistant strains along the PC2 axis; the largest intra-group variation was observed in the MDR group (      ).
+     </p>
+     <p>
+      Moreover, cluster analysis, visualized by a heat map, showed the bacterial strain clustering into three groups based on similarities (      ).
+     </p>
+     <p>
+      The subcellular localization of the 2,370 quantified proteins mapped 22% of them in the region from extracellular space to the cytoplasmic membrane (      ;      ). Seventy-five percent of proteins were localized into the cytoplasmic compartment in accordance with previous published papers regardless of different experimental conditions (      ).
+     </p>
+     <p>
+      In order to explore the expression of proteins likely involved in antibiotic susceptibility, we performed a differential analysis between MDR and WT, and PDR vs. WT groups based on
+      <italic>
+       t
+      </italic>
+      -test and a fold change of at least ± 2.
+     </p>
+     <p>
+      The LFQ analysis revealed that MDR strains showed significantly different levels of 513 proteins compared to WT; the second comparison (PDR vs. WT) led us to identify 468 differentially expressed proteins (      ). In detail, 115 and 108 proteins of the MDR and PDR groups, respectively, belonged to extracellular space, cell surface, outer membrane, periplasmic region, and the cytoplasmic membrane. Among these proteins, 49 were present in both comparisons (      ;      ).
+     </p>
+     <p>
+      In order to gain insights into the processes related to these differentially expressed proteins, both literature data mining and functional analysis were performed highlighting 27 proteins, which were reported and discussed in the subsequent sections as representative of virulome (e.g., Tse2, Tse5, Tsi1, PilF, FliY, B-type flagellin, FliM, PyoS5), resistome (e.g., OprJ, LptD) and biofilm (e.g., AlgF, PlsD) pathways.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Virulome Modulated Proteins
+     </title>
+     <p>
+      Three identified proteins were associated to the secretion system, namely Toxin Tse2, Toxin protein Tse5 and Immune protein Tsi1, (Q9I0E0, Q9I0F4, and Q9I2Q0), over-expressed in both comparisons MDR and PDR vs. WT and belonging to T6SS (      ,      ). Another two proteins were part of the T1SS: the homologous of the Hcp1 family type VI secretion system effector (Q9I1B2), under-expressed in both comparisons, and the Probable outer membrane protein (Q9HUJ1), under-expressed only in MDR vs. WT (      ).
+     </p>
+     <p>
+      Tse2, actively interacting with Hcp1 (      ), is a toxic molecule directed against other prokaryotes by inhibiting their growth (      ,      ). Tse5 interacts with the VgrG (Valine-glycine repeat G) (      ,      ) and shows a direct toxicity against bacteria (      ). Tsi1 binds Tse1 by active site occlusion and inhibits enzyme activity, overcoming the destructive action of the Tse1 (      ,      ,      ). In fact,
+      <italic>
+       P. aeruginosa
+      </italic>
+      generates periplasmic immune proteins called Tsi(n) which neutralizes Tse(n) toxicity exerted by sister bacteria. In particular, Tsi1, identified in our study, is a cysteine peptidase, structurally related to the N1pC/P60 hydrolase superfamily, which is involved in peptidoglycan degradation. The secreted Hcp1 could be used as a marker of a functional T6SS because of previous evidences (      ). Indeed, Hcp1 was found in CF sputum and also antibodies against Hcp1 were detected in the serum of the same patients (      ).
+     </p>
+     <p>
+      The enzyme Uricase PuuD (Q9I1B3), under-expressed in PDR vs. WT, converts the uric acid to allantoin, and allows PA survival in the CF lung which is rich in purines as nitrogen source (      ,      ). Moreover, the Uricase, dropping the uric acid, which is an alarmin triggering chemotaxis and NLRP3 inflammasome (      ,      ), may promote microbial escape from host response. Therefore, the Uricase might have a double function: metabolic, to ensure self-survival; and acting as a virulence factor explaining its over-expression in WT strains.
+     </p>
+     <p>
+      Relating to mobility and adhesion processes, the Type IV pilus (T4P) assembly protein PilF (Q9HXJ2) resulted in over-expression in WT. This outer membrane protein is essential for the biogenesis of the T4P promoting the insertion of PilQ in the outer membrane as a pivotal host colonization step (      ). Indeed, the T4P complex has a crucial function in WT strains for host invasion and settlement as observed for less infectious mutants with impaired T4P (      ). Therefore, the pilus appeared under-expressed in the MDR and PDR groups, as expected for long-term colonization PA strains (      ).
+     </p>
+     <p>
+      Regarding the flagellar assembly system, the L-cysteine transporter of ABC system FliY (Q9I6H7) was under-expressed in PDR vs. WT; the B-type flagellin (P72151) and Flagellar motor switch protein FliM (Q51465) were under-expressed in MDR vs. WT (      ). Flagella structure is made by a membrane complex, a flexible-hook, and a flagellin filament (      ). Flagellin, serotypes a and b, triggers inflammation through Toll-like receptor 5 and it has been studied as a vaccine target (      ). FliM interplays with the chemosensory framework for switching (      ). The switch complex of the flagellar C ring, containing FliM, comprises also the protein FliY, a member of the phosphatase family, essential to the flagellar switching (      –      ). Flagella are important virulence factors for PA and flagellum-negative strains are less virulent than flagellum-positive strains in a burned-mouse model (      ). However, they are not advantageous in strains triggering chronic infection.
+     </p>
+     <p>
+      Involved in the chemiotaxis process with FliM, we identified the Aerotaxis transducer Aer2 (Q9I6V6) as under-expressed in MDR and PDR vs. WT comparisons. Other components of the chemiotaxis process were differentially expressed: the Probable binding protein component of ABC transporter (Q9HVS5) was under-expressed in MDR vs. WT; the Aerotaxis receptor Aer (Q9I3F6) was over-expressed in MDR vs. WT; and the Binding protein component of ABC ribose transporter (Q9I2F8) was over-expressed in PDR vs. WT (      ). Aer in PA is a family of receptors able to sense cellular energy. Its transducer Aer2, a soluble receptor, is reported to be crucial for host infection although its role is still unclear (      ).
+     </p>
+     <p>
+      Among other virulence factors we identified Pyocin S5 (Q9I4Y4, PyoS5) over-expressed in MDR and PDR vs. WT, Fe(3+)-pyochelin receptor (P42512, FptA) and Protein TonB (Q51368, TonB) both over-expressed in PDR vs. WT. In the competition for the ecological niche, bacteria develop multiple mechanisms to ensure their survival and predominance. PA produces siderophores, such as pyoverdine, pyochelin and pyocianin (i.e., PyoS5), to bind iron and to transport it from the extracellular region into the bacterium through the outer membrane receptor FptA, a TonB-dependent transporter (      –      ).
+     </p>
+     <p>
+      These results highlight PA adaptation processes through different phases, from onset to chronic infection stages. In fact, during early infection the bacterium needs pili and flagella to move itself, settle and colonize the CF lung. However, these bacterial structures trigger the host immune response leading to the activation of the pro-inflammatory MyD88 pathway and neutrophil recruitment through the Toll-like receptor 5 (TLR5) binding. Moreover, translocation of the flagellin into host cells by the T3SS also activate the NLRC4-inflammasome (      ). Despite flagellar structures being essential during initial infection, their proteins becomes disadvantageous for the bacterium in the later stages of infection for both their uselessness in the infectious path and their ability to activate the host\\s immune response, to be avoided. Thus, PA becomes effective in the evasion process, favoring loss of flagellar protein recognition by the host, hence losing pili and flagella during chronic infection. At the same time the bacterium advances toward chronicity, launching alternative virulence strategies (i.e., toxins and pyocianin).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Resistome Modulated Proteins
+     </title>
+     <p>
+      The Probable outer membrane protein (Q9HUJ1), under-expressed in MDR vs. WT,
+      <ext-link ext-link-type="uri" ns0:href="https://ops.hindawi.com/author/1744408/">
+       https://ops.hindawi.com/author/1744408/
+      </ext-link>
+      is also involved in the β-Lactam resistance pathway and mapped within the resistance-nodulation division (RND) efflux pumps together with the Outer membrane protein OprM (Q51487), under-expressed in PDR vs. WT (      ). In the Transporter Classification Database (TCDB) the Q9HUJ1 protein is identified as the OpmH protein involved in triclosan resistance efflux pump TriABC-OpmH, a triclosan-specific pump requiring two membrane fusion proteins for function and whose expression is caused by a promoter-up mutation (      ). Triclosan, a chemical with antibacterial properties used in the past as an addition ingredient in soaps, toothpaste and cosmetics, has been recently banned from the market and AR of our MDR strains is not associated to the expression of the Q9HUJ1 protein.
+     </p>
+     <p>
+      Several mechanisms, instead, determine AR in PA, including those related to efflux pumps (      ). Their over-expression is associated with multi-drug resistance and modulation of bacterial function such as quorum sensing and motility (      –      ).
+     </p>
+     <p>
+      OprM pumps out several classes of antibiotics such as quinolones, tetracyclines, and chloramphenicol (      ,      ,      ). Despite the expectation of an increase in its expression in antibiotic resistant strains (      ), our data show the opposite trend. OprM is also the receptor for bacteriophages. To protect itself, PA is forced to down-regulate several phage receptors, OprM included (      ), as happen in the CF lung milieu in which a large population of bacteriophages is naturally occurring (      ,      ). Moreover, OprM may promote the selection of mutations in
+      <italic>
+       oprD
+      </italic>
+      , whose reduced expression is known to cause carbapenem resistance in PA (      ). Thus, the observation of the decreased expression of such protein in the PDR group may also be associated to carbapenem resistance.
+     </p>
+     <p>
+      OprJ (Q51397), constituting the MexCD-OprJ system, showed over-expressed in both MDR and PDR vs. WT comparisons. This efflux pump is involved in the outflow of antibiotics, such as fluoroquinolone, macrolides, cefepime, and tetracyclines (      ,      ). Indeed, its over-expression in our antibiotic resistant groups, both MDR and PDR, is consistent with the ciprofloxacin, levofloxacin and cefepime resistance we observed in our strains. Moreover, its over-expression correlates to a decrement of virulence factors involved in quorum sensing (      ,      ,      ,      ). Both, OprJ over-expression and virulence factors\\ reduction can be consistent with chronic colonization of MDR and PDR PA.
+     </p>
+     <p>
+      Gram-negative bacteria display integral outer membrane proteins (OMPs) that need the Omp85, family characterized by POTRA (polypeptide-transport-associated) tandem motifs, for proper folding and insertion (      ,      ). The OM is essential in Gram-negative bacteria as barrier protection and contributes to the establishment of AR vigorously blocking antibiotic passage (      ). The POTRA domain-containing proteins, such as Q9HVG7, over-expressed in MDR and PDR strains compared to WT, and Q9I119, over-expressed in MDR vs. WT strains, may reflect this condition (      ).
+     </p>
+     <p>
+      Another protein involved in OM robustness, the LPS-assembly protein LptD (Q9I5U2), a β-barrel protein, showed over-expressed in MDR vs. WT. This protein is involved in the transport of the LPS to the outer layer of the membrane, regulating its permeability and conferring antibiotic resistance (      ,      ). In fact, permeability of bacterial membranes is crucial for antibiotic susceptibility, whereas higher permeability is associated with antibiotic susceptibility and lower permeability with greater resistance. Thus, LptD protein over-expression in our MDR group may be one of the factors that could increase the antibiotic resistance in our strains.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Biofilm Modulated Proteins
+     </title>
+     <p>
+      PA strains were probed for their ability to produce biofilm, classifying them as “strong,” “moderate,” and “weak” biofilm producers. Seventy percent of WT, 66.7% of MDR and 42.9% of PDR groups were classified as “strong” biofilm producers (      ). Notably, 57.1% of the PDR clinical isolates were “weak” biofilm producers. Moreover, considering the two AR groups together, 56.3% were classified as “strong,” 18.8% as “moderate” and 25.0% as “weak” biofilm producers. The biofilm assay corroborated the under-expression of biofilm-associated proteins highlighted by the proteomics approach in MDR and PDR strains.
+     </p>
+     <p>
+      The Hcp1 homolog (Q9I1B2), besides the secretion system, was indeed mapped into the biofilm formation pattern with PslD (Q9I1N5), under-expressed in MDR vs. WT and PDR vs. WT, and with Uricase PuuD (Q9I1B3), under-expressed in PDR vs. WT (      ).
+     </p>
+     <p>
+      Also Alginate biosynthesis protein AlgF (Q06062) and the Alginate_lyase2 domain-containing protein (Q9I2V8) were under-expressed in MDR PDR strains. On the contrary, the periplasmic protein Alginate lyase (Q06749) was over-expressed in PDR vs. WT.
+     </p>
+     <p>
+      Results of the biofilm assay, demostrating WT strains as “stronger” biofilm producers, suggest there is some role for the biofilm in the context of early infection. As previously discussed, there are dynamic interactions between PA structures, such as flagella, and the host leading to an activation of the host immune response. Biofilms establish an organized community of bacteria encapsulated in extracellular polymeric substance (EPS) matrices protecting them from hostile and unstable environmental conditions, including host defense (      ). Hence, bacterial proteins involved in initiating the host immune response, such as those of the flagella, may be enclosed within the biofilm matrix and hidden to host recognition (      ). Moreover, biofilm is able to immobilize neutrophils providing PA with protection from phagocytosis (      ). Thus, biofilms may protect WT PA from host immune response and hypothetical antimicrobial molecules, and advantageously promote its survival, immunological escape and ultimately the propagation of the infection.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s4" sec-type="discussion">
+    <title>
+     Discussion
+    </title>
+    <p>
+     Analysis of the surface proteins may provide new findings for comprehension of bacterial fitness, bacteria-host and bacteria-environment interactions. For this reason we pursued a shaving proteomic approach that allowed the characterization of PA surface proteins and related functional profiles of CF clinical isolates with different antimicrobial susceptibility patterns and lung colonization phases.
+    </p>
+    <p>
+     During CF airways chronic infection, PA adapts its phenotype within the distinct anatomical niches of the lung. This “adaptive radiation” is a definite event (     ) under which the bacterium, endowed with high plasticity, puts in place several mechanisms to acquire the capability to survive in an ecological niche characterized by low oxygen, nutrients limitation, osmotic and oxidative stress, competition from other colonizers and other adversity. It is commonly accepted that the phenomenon includes early and late modifications (     ). In the course of early infection the presence of flagella and pili allows the bacterium to reach and settle in the pulmonary niche; later, PA reduces its early settlement factors in order to modulate bacterial fitness activating a more complex machinery able to guarantee its survival in the CF lung (     ). Virulence factors, such as toxins and pyocianins, modifications of the membrane assembly and robustness, changes in the biofilm lifestyle, and antibiotic susceptibility reduction, are chronic pathophenotype traits. Re-arrangements of the proteins on the surface of the bacterium reflect adaptation mechanisms, suggesting that chronic antibiotic resistance of PA isolates may express a different surface protein layout compared to early antibiotic sensitive PA strains.
+    </p>
+    <p>
+     Our results highlight that MDR and PDR chronic PA strains were deprived of several early virulence factors such as pili and flagella, while expressing later virulence factors such those belonging to bacterial secretion systems. On the contrary, we observed an unexpected low number of resistome-related proteins in the chronic antibiotic resistant strains with four out of six over-expressed proteins. However, we should recall AR is a notably complicated process in PA and the resistance to each class of antibiotics may be mediated by multiple mechanisms which include efflux pumps, genes mutations, plasmids, β-lactamases, OprD alterations and permeability modifications of the bacterial membranes; several types of resistance may be present in a strain at the same time mediating the same antibiotic class resistance (     ). In our MDR and PDR strains, the most significant over-expressed protein was OprJ (Q51397), a component of the efflux pump MexCD-OprJ system. The resistance of the investigated strains to fluoroquinolones and cefepime may be consistent with the over-expression of this pump. Indeed, an increase of drug output through modification of this efflux pump activity is the primary mechanism conferring ciprofloxacin and levofloxacin resistance in PA (     ). On the other hand, over-expression of the LPS transport protein LptD in MDR group and of the two Q9HVG7 and Q9I119 POTRA domain-containing proteins in MDR and PDR and in MDR vs. WT strains, respectively, is involved in the permeability modification of the bacterial membranes, thus conferring antibiotic resistance to several classes of antimicrobial, including β-lactams. Notably, we identified two antibiotic-resistance associated proteins (Outer membrane protein Q9HUJ1 and Q51487) under-expressed in our MDR and PDR isolates, respectively. Previously studies on PA longitudinal strains demonstrated that a fully adapted phenotype is observed after 20 years of colonization. Since the chronic strains included in our study actually belong to the first two decades after PA infection (&lt;15 years), we can infer that protein expression associated to antibiotic resistance is not yet stabilized (     ).
+    </p>
+    <p>
+     Results of the biofilm assay demonstrated that MDR and PDR strains are “weaker” biofilm producers supporting the proteomic data of under-expression of biofilm-associated proteins (Hcp1 family type VI secretion system effector protein, PslD, Uricase PuuD, Alginate biosynthesis protein AlgF and Alginate_lyase2 domain-containing protein).
+    </p>
+    <p>
+     The under-expression of the Hcp1 in MDR and PDR groups is consistent with literature since T6SS has been described as involved also in biofilm formation (     ) and the deletion of the
+     <italic>
+      hcp1
+     </italic>
+     gene was associated with defective strains in biofilm production (     ). Moreover, the under-expression of PslD might suggest that our MDR and PDR non-mucoid clinical strains may produce a biofilm composed by other exopolysaccharides than alginate. In fact,
+     <italic>
+      psl
+     </italic>
+     gene cluster is involved in biofilm formation during the early infection phase (     –     ). Only during later stages of infection, do the algACD operon take control of the biofilm formation starting the production of alginate (     ), a linear copolymer of mannuronic and guluronic acid, which is the key exopolysaccharide of PA biofilm produced by mucoid strains from long term colonization CF patients (     ).
+    </p>
+    <p>
+     Indeed, PA mucoid strains are the expression of the evolution of the bacterium to adaptating in the CF lung where the alginate is involved in bacterial defense against both the dangerous environment and antibiotic molecules, promoting bacterial long-term colonization. In our antibiotic-resistant non-mucoid strains, under-expression of such proteins remarks the fact that the adaptation process of the bacterium to the CF lung environment is always ongoing and that the mucoid phenotype is not yet achieved. However, we noticed that the periplasmic protein Alginate lyase (AlgL) was over-expressed in the PDR strains. We speculate that since PA is constantly evolving, the AlgL over-expression may be part of the initial process toward acquiring a later mucoid phenotype, a transition relying also on severity of lung disease and anti-pseudomonal antibiotics use (     ).
+    </p>
+    <p>
+     In conclusion, the surfaceome analyses of our isolates, rather than expressing a protein profile associated to antibiotic resistance, is a mirror of the processes of bacterium persistence into the peculiar environment of the CF lung. Indeed, PA is a complex and dynamic bacterium and it is extremely hard to find its characteristic traits, especially associated to antibiotic resistance.
+    </p>
+    <p>
+     To the best of our knowledge, this is the first study using shaving proteomics to characterize a large set of PA clinical isolates. Our evidences suggest that their adaptation processes may modulate the surface protein expression profile in Cystic Fibrosis in response to different lung stressors.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s5" sec-type="data-availability">
+    <title>
+     Data Availability Statement
+    </title>
+    <p>
+     The data presented in the study are deposited in the ProteomeXchange repository, accession number
+     <ext-link ext-link-type="DDBJ/EMBL/GenBank" ns0:href="PXD030040">
+      PXD030040
+     </ext-link>
+     .
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s6">
+    <title>
+     Ethics Statement
+    </title>
+    <p>
+     This study was approved by the Ethical Committee of Bambino Gesù Children\\s Hospital, Rome, Italy; protocol code 202105_INNOV_ONETTI.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s7">
+    <title>
+     Author Contributions
+    </title>
+    <p>
+     LP and EF: conceptualization and supervision. AO, LP, and EF: funding acquisition. AM, VM, NE, SL, MR, SG, LS, and GV: investigation. VM and SG: visualization. AM and VM: writing—original draft. AM, VM, AO, LP, and EF: writing—review and editing. All authors contributed to the article and approved the submitted version.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s8" sec-type="funding-information">
+    <title>
+     Funding
+    </title>
+    <p>
+     This research was funded by OFFICIUM onlus Lega Italiana Fibrosi Cistica Lazio to EF, Ricerca Corrente of Minister of Italian Health grant code RC2020_ICG_ONETTI and RC202105_INNOV_ONETTI to AO, and RC2021_MODALE_PUTIGNANI to LP.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="conf1" sec-type="COI-statement">
+    <title>
+     Conflict of Interest
+    </title>
+    <p>
+     SG was employed by GenomeUp. The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s9" sec-type="disclaimer">
+    <title>
+     Publisher\\s Note
+    </title>
+    <p>
+     All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

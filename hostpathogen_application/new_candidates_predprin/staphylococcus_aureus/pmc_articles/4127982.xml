@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  A Miniaturized Chemical Proteomic Approach for Target Profiling of Clinical Kinase Inhibitors in Tumor Biopsies
+ </title>
+ <abstract>
+  <p id="P3">
+   <graphic ns0:href="nihms606965f8.jpg" orientation="portrait" position="anchor"/>
+  </p>
+  <p id="P4">
+   While targeted therapy based on the idea of attenuating the activity of a preselected, therapeutically relevant protein has become one of the major trends in modern cancer therapy, no truly specific targeted drug has been developed and most clinical agents have displayed a degree of polypharmacology. Therefore, the specificity of anticancer therapeutics has emerged as a highly important but severely underestimated issue. Chemical proteomics is a powerful technique combining postgenomic drug-affinity chromatography with high-end mass spectrometry analysis and bioinformatic data processing to assemble a target profile of a desired therapeutic molecule. Due to high demands on the starting material, however, chemical proteomic studies have been mostly limited to cancer cell lines. Herein, we report a down-scaling of the technique to enable the analysis of very low abundance samples, as those obtained from needle biopsies. By a systematic investigation of several important parameters in pull-downs with the multikinase inhibitor bosutinib, the standard experimental protocol was optimized to 100 µg protein input. At this level, more than 30 well-known targets were detected per single pull-down replicate with high reproducibility. Moreover, as presented by the comprehensive target profile obtained from miniaturized pull-downs with another clinical drug, dasatinib, the optimized protocol seems to be extendable to other drugs of interest. Sixty distinct human and murine targets were finally identified for bosutinib and dasatinib in chemical proteomic experiments utilizing core needle biopsy samples from xenotransplants derived from patient tumor tissue. Altogether, the developed methodology proves robust and generic and holds many promises for the field of personalized health care.
+  </p>
+ </abstract>
+ <sentences/>
+</article>

@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1998/Math/MathML" xmlns:ns1="http://www.w3.org/1999/xlink">
+ <title>
+  Reconstruction of the temporal signaling network in
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    Salmonella enterica
+   </italic>
+   is a bacterial pathogen that usually infects its host through food sources. Translocation of the pathogen proteins into the host cells leads to changes in the signaling mechanism either by activating or inhibiting the host proteins. Given that the bacterial infection modifies the response network of the host, a more coherent view of the underlying biological processes and the signaling networks can be obtained by using a network modeling approach based on the reverse engineering principles. In this work, we have used a published temporal phosphoproteomic dataset of
+   <italic>
+    Salmonella
+   </italic>
+   -infected human cells and reconstructed the temporal signaling network of the human host by integrating the interactome and the phosphoproteomic dataset. We have combined two well-established network modeling frameworks, the Prize-collecting Steiner Forest (PCSF) approach and the Integer Linear Programming (ILP) based edge inference approach. The resulting network conserves the information on temporality, direction of interactions, while revealing hidden entities in the signaling, such as the SNARE binding, mTOR signaling, immune response, cytoskeleton organization, and apoptosis pathways. Targets of the
+   <italic>
+    Salmonella
+   </italic>
+   effectors in the host cells such as CDC42, RHOA, 14-3-3δ, Syntaxin family, Oxysterol-binding proteins were included in the reconstructed signaling network although they were not present in the initial phosphoproteomic data. We believe that integrated approaches, such as the one presented here, have a high potential for the identification of clinical targets in infectious diseases, especially in the
+   <italic>
+    Salmonella
+   </italic>
+   infections.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="s1" sec-type="intro">
+    <title>
+     Introduction
+    </title>
+    <p>
+     <italic>
+      Salmonella enterica
+     </italic>
+     is a gastrointestinal pathogen that infects the human cells by translocation of its effector proteins with a vacuole called the
+     <italic>
+      Salmonella
+     </italic>
+     containing vacuole (SCV). The SCV compartment allows the pathogen to replicate and proliferate within the host cells. The secretion system transfers the pathogen proteins, which are called the effectors, directly into the cytosol of the host cells (reviewed in Dandekar et al.,     ). Translocation is achieved by type III secretion systems (T3SSs) where T3SS-1 is responsible for the regulation and replication of the SCV. These effectors have interactions with the host proteins and can change cell functions such as apoptosis, post-translational modifications, and intracellular signaling.
+     <italic>
+      Salmonella
+     </italic>
+     can adapt to a broad range of environmental conditions and process many different metabolites (Dandekar et al.,     ). Although many efforts have been invested to understand the adaptation mechanism of
+     <italic>
+      Salmonella
+     </italic>
+     , functions of its effector proteins, the affected metabolic regulatory pathways, details of the host-pathogen communication and the changes in the host signaling pathways are still unknown. A systems level modeling approach has been performed on the effectors of
+     <italic>
+      Salmonella
+     </italic>
+     to understand the adaptation process and 14 regulators have been identified to play a critical role in the regulation of the genes responsible for
+     <italic>
+      Salmonella
+     </italic>
+     infection (Yoon et al.,     ). Also, the
+     <italic>
+      Salmonella
+     </italic>
+     \\\\\\\\s metabolic network during its replication has been modeled using flux balance analysis, which has led to the identification of a set of metabolic pathways crucial during the intracellular replication (Raghunathan et al.,     ). The invasion of the pathogen is mainly transduced by the protein kinase signaling cascades in the host cell.
+     <italic>
+      Salmonella
+     </italic>
+     infection promotes apoptosis and adapts to the host cell\\\\\\\\s ubiquitination process (Steele-Mortimer,     ). Regarding the regulome of
+     <italic>
+      Salmonella
+     </italic>
+     , the context likelihood of relatedness (CLR) approach has been used to infer the transcriptional regulatory connections by using mutual information in gene expression data and several regulatory networks have been identified (Taylor et al.,     ).
+    </p>
+    <p>
+     Understanding the communication and the signaling between
+     <italic>
+      Salmonella
+     </italic>
+     and its host in detail is crucial to improve the available treatment strategies for the
+     <italic>
+      Salmonella
+     </italic>
+     infection. The recently released interactome of the
+     <italic>
+      Salmonella
+     </italic>
+     effectors and human proteins, which has been curated from the literature, again revealed the enrichment of the MAPK signaling and the apoptotic pathways for the studied protein set (Schleker et al.,     ). The advances in high-throughput omic technologies also allow the systems-level identification of signaling components within the host cell. The analysis of mRNA expression of ~4300 genes after a
+     <italic>
+      Salmonella
+     </italic>
+     infection in the human epithelial cells showed that NF-κB is a key transcription factor in the regulation of a wide range of genes (Eckmann et al.,     ). Also several cytokines, transcription factors and kinases are shown to be over-expressed in the same study. In a temporal gene expression analysis, where the Bayesian network analysis is used, the immune response, Wnt, PI3K, mTOR, TGF-β, and many other signaling pathways were found to be altered during the
+     <italic>
+      Salmonella
+     </italic>
+     infection. The host signal response was shown to be activated during the earlier time points rather than later (Lawhon et al.,     ). In another study, different gene expression datasets were integrated with protein–protein interactions and compared to each other to find out the specific subnetworks altered by
+     <italic>
+      Salmonella
+     </italic>
+     infection in the host (Dhal et al.,     ). In a global temporal phosphoproteomic analysis of
+     <italic>
+      Salmonella
+     </italic>
+     -infected human cells, 9500 phosphorylation events were quantified during the first 20 min of the infection and regulated host pathways were identified. Clustering analysis showed that the effector SopB was mainly responsible for the alterations of the phosphorylation events in the host cell (Rogers et al.,     ). Although omic technologies provide large amount of high dimensional data, the complete map of the signaling pathways cannot be retrieved by the direct connections of omic hits, as there are many intermediates which are not represented in the experimental data. Signaling networks can also be modeled by optimization based approaches (Dittrich et al.,     ; Huang and Fraenkel,     ; Yeger-Lotem et al.,     ; Gosline et al.,     ; Huang et al.,     ; Tuncbag et al.,     ) where omic hits are defined as constraints. Previously, various network modeling approaches have been applied for the integration of the multiple omic sets of diseases and the disease networks of various cancer types have been successfully reconstructed (Kim et al.,     ; Huang et al.,     ). Regulatory networks can be reconstructed by various approaches, utilizing the gene expression data, including Boolean networks, Bayesian networks, and methods based on information theory and differential equations (reviewed in detail in De Jong,     ; Hecker et al.,     ; Linde et al.,     ). Analysis of the perturbation data have also been proposed for the reconstruction networks (Markowetz et al.,     ; Frohlich et al.,     ; Bender et al.,     ; Aijo et al.,     ; Kiani and Kaderali,     ). For example Nested Effects Models (NEMs) (Markowetz et al.,     ) use a set of knocked-down genes and their indirect effect on a larger set of genes to reconstruct the network. Methods that utilize observations of perturbed networks at a steady state or at several time points include (Dynamic) Deterministic Effects Propagation Networks [(D)DEPNs] (Frohlich et al.,     ; Bender et al.,     ), Sorad (Aijo et al.,     ), and Dynamic Probabilistic Boolean Threshold Networks (DPTBNs) (Kiani and Kaderali,     ). However, these network reconstruction methods are computationally expensive and do not scale well for the reconstruction of large networks. Recently, Linear Programming (LP) based approaches have also been used to solve the network reconstruction problem (Eren Ozsoy and Can,     ; Knapp and Kaderali,     ; Matos et al.,     ). LP-based methods model the reconstruction problem as an optimization problem and are able to construct networks from both perturbation and time-series assays. However, based on the optimization function and the linear constraints, LP-based methods may be computationally expensive, as well. For example, a very recent method, lpNet (Matos et al.,     ), requires 3 days to reconstruct a 20 node network in the
+     <italic>
+      in silico
+     </italic>
+     dataset of the HPN-DREAM breast cancer network inference challenge. The DREAM (Dialogue on Reverse-Engineering Assessment and Methods) challenge aims to setup a joint effort between computational and experimental biologists toward revealing the cellular networks from multiple high-throughput data (Stolovitzky et al.,     ). An LP variant, the Integer Linear Programming (ILP) approach, by Melas et al. uses several optimization steps to find and remove the inconsistencies between measurements and the input network topology (Melas et al.,     ). Additionally, ILP is a known NP-hard problem, and due to the large number of variables, this method may not find solutions in a reasonable time, as it requires 64.000 s for a 14 node network. We have previously proposed a divide and conquer based ILP solution for the perturbation data analysis, which scales well for larger networks by merging the solutions of the smaller sub-networks (Eren Ozsoy and Can,     ). The main difference of our proposed ILP approach was the definition of the optimization function as the minimization of the discrepancy between a reference network and the inferred network. Recently we have extended our ILP approach to work on time series data (Eren Ozsoy et al.,     ) and here we have directly apply that method for the construction of the temporal signaling network in
+     <italic>
+      Salmonella
+     </italic>
+     -infected human cells. Although network modeling approaches are easily adaptable to identify signaling components in various disease states, to our best knowledge, these approaches have not yet been applied for the reconstruction of signaling networks in the human host cell during the
+     <italic>
+      Salmonella
+     </italic>
+     infection.
+    </p>
+    <p>
+     In this work, the temporal phosphoproteomic data of the
+     <italic>
+      Salmonella
+     </italic>
+     -infected human cells (Rogers et al.,     ) have been used to model the altered signaling network in the host cells. We have used a powerful combination of two different network modeling approaches to construct the signaling network of
+     <italic>
+      Salmonella
+     </italic>
+     -infected human cells. First, the temporal phosphoprotemic data of
+     <italic>
+      Salmonella
+     </italic>
+     -infected human cells are integrated with protein interaction data to construct the signaling pathway at each time point. Then, all constructed networks were merged together, and used as the input for the second part of the network modeling step, in which directions are assigned to the interactions based on the temporal data. Our approach allowed us to identify host pathways altered during
+     <italic>
+      Salmonella
+     </italic>
+     infection. In addition, by using network analysis techniques, we have provided a ranking of the proteins according to their importance during the infection.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s2" sec-type="materials|methods">
+    <title>
+     Materials and methods
+    </title>
+    <sec>
+     <title>
+      Datasets
+     </title>
+     <p>
+      We have used the global temporal phoshoproteomic dataset published in (Rogers et al.,      ), where four time points, 2, 5, 10, and 20 min after
+      <italic>
+       Salmonella
+      </italic>
+      infection in human cell, were selected. Another dimension of this dataset is the cellular compartments where the phosphorylation site is identified as membrane, cytosol, or nucleus. At each time point, if the change in the phosphorylation status of a peptide is significantly altered compared to the uninfected cells (
+      <italic>
+       p
+      </italic>
+      &lt; 0.05) and the variance across biological replicates are small (variance &lt;15%) then that peptide is selected for the next step of the analysis, so added to the dataset. Then, each peptide selected, has been mapped to their HUGO Gene Nomenclature Committee (HGNC) identifiers using the Database for Annotation, Visualization and Integrated Discovery (DAVID) web server (Huang et al.,      ). If multiple peptides map to a single protein, then the peptide with the maximum value of fold change for phosphorylation level is included for further analysis.
+     </p>
+     <p>
+      Besides the global phoshoproteomic data, the human protein interactome is used for the data integration and modeling. The interaction data from iRefWeb has been downloaded which has 113,248 confident weighted interactions between 15,684 proteins (Turner et al.,      ). Also, a
+      <italic>
+       Salmonella
+      </italic>
+      effector to human host protein interactome, which consists of 40 effectors and 50 host proteins connected with 62 interactions, has been retrieved (Schleker et al.,      ).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Network modeling
+     </title>
+     <p>
+      The network modeling procedure is composed of two stages; (i) network construction using the Prize-collecting Steiner Forest (PCSF) approach, and (ii) network reconstruction using the ILP based edge inference approach. These two approaches complement each other as the PCSF approach reveals the hidden components in signaling by finding the high confidence regions in the interactome, and the ILP-based edge inference approach reconstructs interactions and their directionality by using temporal data as constraints. In Figure      , the flowchart of our integrated approach is given.
+     </p>
+     <sec>
+      <title>
+       Prize-collecting steiner forest approach
+      </title>
+      <p>
+       PCSF is based on finding the high-confidence regions within a protein interactome, which is used to recover the phosphoproteomic hits (i.e., the terminal nodes) and hidden proteins from the global temporal phoshoproteomic data (i.e., the Steiner nodes) in this study (Tuncbag et al.,       ). In the optimization stage, two objectives are important; avoiding the low-confidence protein-protein interactions in the final network and including as many phosphoproteomic hits as possible. Each protein identified with a significantly changed phosphorylation status at a time point is assigned a weight equal to the absolute value of the log fold change in phosphorylation, which is called the “prize.” The cost of an interaction is calculated from its confidence score where higher cost implies lower confidence. The algorithm has to assign a cost for each interaction included in the network, and pay a penalty for excluding a phosphoproteomic hit equal to its prize. For a given, directed or undirected network G(V, E,
+       <italic>
+        c
+       </italic>
+       (
+       <italic>
+        e
+       </italic>
+       ),
+       <italic>
+        p
+       </italic>
+       (
+       <italic>
+        v
+       </italic>
+       )) with a node set V and edge set E,
+       <italic>
+        p
+       </italic>
+       (
+       <italic>
+        v
+       </italic>
+       ) ≥ 0 assigns a prize to each node
+       <italic>
+        v
+       </italic>
+       ∈ V and
+       <italic>
+        c
+       </italic>
+       (
+       <italic>
+        e
+       </italic>
+       ) &gt;
+       <italic>
+        0
+       </italic>
+       assigns a cost to each edge
+       <italic>
+        e
+       </italic>
+       ∈ E. The aim is to find a forest F(V
+       <sub>
+        <italic>
+         F
+        </italic>
+       </sub>
+       , E
+       <sub>
+        <italic>
+         F
+        </italic>
+       </sub>
+       ) that minimizes the objective function:
+       <disp-formula id="E1">
+        <label>
+         (1)
+        </label>
+        <ns0:math id="M1">
+         <ns0:mrow>
+          <ns0:mi>
+           f
+          </ns0:mi>
+          <ns0:mrow>
+           <ns0:mo>
+            (
+           </ns0:mo>
+           <ns0:mi>
+            t
+           </ns0:mi>
+           <ns0:mo>
+            )
+           </ns0:mo>
+          </ns0:mrow>
+          <ns0:mo>
+           =
+          </ns0:mo>
+          <ns0:mstyle displaystyle="true">
+           <ns0:msub>
+            <ns0:mo>
+             ∑
+            </ns0:mo>
+            <ns0:mrow>
+             <ns0:mi>
+              v
+             </ns0:mi>
+             <ns0:mtext>
+             </ns0:mtext>
+             <ns0:mo>
+              ∉
+             </ns0:mo>
+             <ns0:mtext>
+             </ns0:mtext>
+             <ns0:mi>
+              F
+             </ns0:mi>
+            </ns0:mrow>
+           </ns0:msub>
+           <ns0:mrow>
+            <ns0:mrow>
+             <ns0:mo>
+              (
+             </ns0:mo>
+             <ns0:mrow>
+              <ns0:mi>
+               β
+              </ns0:mi>
+              <ns0:mo>
+               ·
+              </ns0:mo>
+              <ns0:mi>
+               p
+              </ns0:mi>
+              <ns0:mo stretchy="false">
+               (
+              </ns0:mo>
+              <ns0:mi>
+               v
+              </ns0:mi>
+              <ns0:mo stretchy="false">
+               )
+              </ns0:mo>
+             </ns0:mrow>
+             <ns0:mo>
+              )
+             </ns0:mo>
+            </ns0:mrow>
+           </ns0:mrow>
+          </ns0:mstyle>
+          <ns0:mo>
+           +
+          </ns0:mo>
+          <ns0:mstyle displaystyle="true">
+           <ns0:msub>
+            <ns0:mo>
+             ∑
+            </ns0:mo>
+            <ns0:mrow>
+             <ns0:mi>
+              e
+             </ns0:mi>
+             <ns0:mtext>
+             </ns0:mtext>
+             <ns0:mo>
+              ∈
+             </ns0:mo>
+             <ns0:mtext>
+             </ns0:mtext>
+             <ns0:mi>
+              F
+             </ns0:mi>
+            </ns0:mrow>
+           </ns0:msub>
+           <ns0:mrow>
+            <ns0:mrow>
+             <ns0:mo>
+              (
+             </ns0:mo>
+             <ns0:mrow>
+              <ns0:mi>
+               c
+              </ns0:mi>
+              <ns0:mo stretchy="false">
+               (
+              </ns0:mo>
+              <ns0:mi>
+               e
+              </ns0:mi>
+              <ns0:mo stretchy="false">
+               )
+              </ns0:mo>
+             </ns0:mrow>
+             <ns0:mo>
+              )
+             </ns0:mo>
+            </ns0:mrow>
+           </ns0:mrow>
+          </ns0:mstyle>
+          <ns0:mo>
+           +
+          </ns0:mo>
+          <ns0:mi>
+           ω
+          </ns0:mi>
+          <ns0:mo>
+           ·
+          </ns0:mo>
+          <ns0:mi>
+           κ
+          </ns0:mi>
+         </ns0:mrow>
+        </ns0:math>
+       </disp-formula>
+       where κ is the number of trees in the forest and β is the scaling factor. Another parameter that is used at the optimization stage is the depth value (D) which represents the maximum allowed number of edges from the root node to any terminal node. To convert the PCSF problem into a Prize-collecting Steiner Tree (PCST) problem we have introduced an extra root node
+       <italic>
+        v
+       </italic>
+       <sub>
+        0
+       </sub>
+       into the network connected to each terminal node
+       <italic>
+        t
+       </italic>
+       ∈ T by an edge (
+       <italic>
+        t
+       </italic>
+       ,
+       <italic>
+        v
+       </italic>
+       <sub>
+        0
+       </sub>
+       ) with cost ω where
+       <bold>
+        T
+       </bold>
+       ⊂
+       <bold>
+        V
+       </bold>
+       . This optimization problem has been solved with a message passing algorithm, the msgsteiner tool (Bailly-Bechet et al.,       ). The forest F is defined as a disjoint collection of trees with all edges pointing to the roots. In this work, depth is set to 10, ω is in the interval [1, 10] and β is in the interval [1, 10]. Optimum forests obtained by each parameter combination are merged together in order to consider the suboptimal solutions. Finally, a PCSF is constructed for each time point.
+      </p>
+     </sec>
+     <sec>
+      <title>
+       Integer linear programming (ILP) based edge inference approach
+      </title>
+      <p>
+       For constructing signaling and regulatory networks using time series expression data, we have used an extended version of our previous ILP model that can handle both the time series and steady state perturbation data (Eren Ozsoy and Can,       ). The extended ILP-based edge inference approach proposed in Eren Ozsoy et al. (       ) is highly scalable when time series data is available; therefore, in this paper, we directly apply that method for the construction of the whole
+       <italic>
+        Salmonella
+       </italic>
+       infection signaling network using a single integer linear program. The details of the ILP model are given below.
+      </p>
+      <sec>
+       <title>
+        The integer linear programming model
+       </title>
+       <p>
+        Assuming that a reference signaling network is given as a directed graph G(V, E), where V represents the node set (i.e., proteins) and E represents the edge set (i.e., pairwise interactions), with several source nodes
+        <italic>
+         s
+        </italic>
+        <sub>
+         <italic>
+          i
+         </italic>
+        </sub>
+        , and sink nodes
+        <italic>
+         t
+        </italic>
+        <sub>
+         <italic>
+          j
+         </italic>
+        </sub>
+        , a reference regulatory network can be curated from literature or obtained from a public database. The steady state knock-down version of this problem has been shown to be NP-complete (Hashemikhabir et al.,        ). When the same problem is formulated as a linear optimization problem, the solution of this optimization problem provides a network, satisfying the experimental observations with minimum number of changes (insertion or deletion) of the edges on the reference network. The raw time-series expression data is assumed to be processed, and the binary activity data is available for the proteins in the network. We have used the cutoffs (
+        <italic>
+         p
+        </italic>
+        &lt; 0.05 and variance &lt;15) as described in the Datasets. Steiner nodes are also assumed to be active based on their presence in the reconstructed PCSF networks.
+       </p>
+       <p>
+        As the objective function of the model is to minimize the edit operations, i.e., insertions/deletions of edges, on the reference network, the proposed model also works when there is no reference network available. For such cases, the smallest network satisfying the expression data is sought. Let
+        <italic>
+         x
+        </italic>
+        <sub>
+         <italic>
+          ij
+         </italic>
+        </sub>
+        be the binary variable representing the presence of the edge from node
+        <italic>
+         i
+        </italic>
+        to node
+        <italic>
+         j
+        </italic>
+        in the reference network. If the edge is present, then the value of
+        <italic>
+         x
+        </italic>
+        <sub>
+         <italic>
+          ij
+         </italic>
+        </sub>
+        is 1, otherwise it is 0. Correspondingly,
+        <italic>
+         w
+        </italic>
+        <sub>
+         <italic>
+          ij
+         </italic>
+        </sub>
+        represents the presence of the edge from node
+        <italic>
+         i
+        </italic>
+        to node
+        <italic>
+         j
+        </italic>
+        in the network to be reconstructed from observations. For a graph G(V, E) with
+        <italic>
+         n
+        </italic>
+        nodes, the objective function is given in Equation (2), which basically quantifies the difference between the reference network and the reconstructed network.
+       </p>
+       <p>
+        In the solution phase, the matrix of state variables is used for the construction of the linear constraints. A protein is assumed to be activated once the corresponding state variable becomes 1. For the model, it does not matter what value the state variable is assigned thereafter. For the construction of the constraints, the kinematics of the system is taken into consideration. A protein is assumed to be activated by any protein, which is already activated at any previous time point and also a protein is able to activate any protein at any of the following time points. The constraints are based on the following assumptions: (1) sources are the proteins which are activated at the first time point and sinks are the proteins which are activated at the last time point, (2) each source node and sink node has to be connected to the network, (3) at each time point, the proteins may only be activated by the upstream proteins, which are active in preceding time points, (4) no direct edges from sources to sinks are allowed, (5) no edges between sources or sinks are allowed, and (6) no self-edges are allowed. Note that these assumptions do not allow an upstream edge. However, there may be such edges in the reference network which are to be removed in the reconstructed network. Based on these assumptions, the following graphical constraints are derived.
+       </p>
+       <list list-type="order">
+        <list-item>
+         <p>
+          There should be at least one edge going out of each source protein to the proteins activated at the second time point.
+         </p>
+        </list-item>
+        <list-item>
+         <p>
+          There should be at least one edge going into each sink proteins from the proteins activated at the last time point.
+         </p>
+        </list-item>
+        <list-item>
+         <p>
+          There should be at least one edge going into an intermediate node from the upstream nodes activated at a previous time point.
+         </p>
+        </list-item>
+        <list-item>
+         <p>
+          There should be at least one edge going out of an intermediate node to one of the downstream nodes, including the sink nodes.
+         </p>
+        </list-item>
+       </list>
+       <p>
+        Note that these constraints are derived only from the time series expression data. It is also possible to add additional constraints, if any perturbation experiment is available for the network. Let the set V
+        <sub>
+         <italic>
+          i
+         </italic>
+        </sub>
+        be the set of proteins active at time point
+        <italic>
+         i
+        </italic>
+        . Let V
+        <sub>
+         <italic>
+          s
+         </italic>
+        </sub>
+        be the set of source nodes and V
+        <sub>
+         <italic>
+          t
+         </italic>
+        </sub>
+        be the set of target (i.e., sink) nodes. The node set of the reconstructed network V is the union of all source nodes, target nodes, and all the nodes active at some time point. Let V
+        <sub>
+         <italic>
+          p
+         </italic>
+        </sub>
+        be the set of nodes activated just before the sink nodes. Let V
+        <sub>
+         <italic>
+          d
+         </italic>
+        </sub>
+        be the set of downstream nodes that are activated after the activation of node
+        <italic>
+         i
+        </italic>
+        . The overall Integer Liner Program is then given as:
+        <disp-formula id="E2">
+         <label>
+          (2)
+         </label>
+         <ns0:math id="M2">
+          <ns0:mrow>
+           <ns0:mi>
+            M
+           </ns0:mi>
+           <ns0:mi>
+            i
+           </ns0:mi>
+           <ns0:mi>
+            n
+           </ns0:mi>
+           <ns0:mi>
+            i
+           </ns0:mi>
+           <ns0:mi>
+            m
+           </ns0:mi>
+           <ns0:mi>
+            i
+           </ns0:mi>
+           <ns0:mi>
+            z
+           </ns0:mi>
+           <ns0:mi>
+            e
+           </ns0:mi>
+           <ns0:mstyle displaystyle="true">
+            <ns0:munderover>
+             <ns0:mo>
+              ∑
+             </ns0:mo>
+             <ns0:mrow>
+              <ns0:mi>
+               i
+              </ns0:mi>
+              <ns0:mtext>
+              </ns0:mtext>
+              <ns0:mo>
+               =
+              </ns0:mo>
+              <ns0:mtext>
+              </ns0:mtext>
+              <ns0:mn>
+               1
+              </ns0:mn>
+             </ns0:mrow>
+             <ns0:mi>
+              n
+             </ns0:mi>
+            </ns0:munderover>
+            <ns0:mrow>
+             <ns0:mstyle displaystyle="true">
+              <ns0:munderover>
+               <ns0:mo>
+                ∑
+               </ns0:mo>
+               <ns0:mrow>
+                <ns0:mi>
+                 j
+                </ns0:mi>
+                <ns0:mtext>
+                </ns0:mtext>
+                <ns0:mo>
+                 =
+                </ns0:mo>
+                <ns0:mtext>
+                </ns0:mtext>
+                <ns0:mn>
+                 1
+                </ns0:mn>
+               </ns0:mrow>
+               <ns0:mi>
+                n
+               </ns0:mi>
+              </ns0:munderover>
+              <ns0:mrow>
+               <ns0:mrow>
+                <ns0:mo>
+                 |
+                </ns0:mo>
+                <ns0:mrow>
+                 <ns0:msub>
+                  <ns0:mi>
+                   x
+                  </ns0:mi>
+                  <ns0:mrow>
+                   <ns0:mi>
+                    i
+                   </ns0:mi>
+                   <ns0:mi>
+                    j
+                   </ns0:mi>
+                  </ns0:mrow>
+                 </ns0:msub>
+                 <ns0:mo>
+                  −
+                 </ns0:mo>
+                 <ns0:msub>
+                  <ns0:mi>
+                   w
+                  </ns0:mi>
+                  <ns0:mrow>
+                   <ns0:mi>
+                    i
+                   </ns0:mi>
+                   <ns0:mi>
+                    j
+                   </ns0:mi>
+                  </ns0:mrow>
+                 </ns0:msub>
+                </ns0:mrow>
+                <ns0:mo>
+                 |
+                </ns0:mo>
+               </ns0:mrow>
+              </ns0:mrow>
+             </ns0:mstyle>
+            </ns0:mrow>
+           </ns0:mstyle>
+          </ns0:mrow>
+         </ns0:math>
+        </disp-formula>
+       </p>
+       <p>
+        Subject to:
+        <disp-formula id="E3">
+         <label>
+          (3)
+         </label>
+         <ns0:math id="M3">
+          <ns0:mrow>
+           <ns0:mstyle displaystyle="true">
+            <ns0:msub>
+             <ns0:mo>
+              ∑
+             </ns0:mo>
+             <ns0:mrow>
+              <ns0:mi>
+               j
+              </ns0:mi>
+              <ns0:mtext>
+              </ns0:mtext>
+              <ns0:mo>
+               ∈
+              </ns0:mo>
+              <ns0:mtext>
+              </ns0:mtext>
+              <ns0:msub>
+               <ns0:mi>
+                V
+               </ns0:mi>
+               <ns0:mn>
+                1
+               </ns0:mn>
+              </ns0:msub>
+             </ns0:mrow>
+            </ns0:msub>
+            <ns0:mrow>
+             <ns0:msub>
+              <ns0:mi>
+               x
+              </ns0:mi>
+              <ns0:mrow>
+               <ns0:mi>
+                i
+               </ns0:mi>
+               <ns0:mi>
+                j
+               </ns0:mi>
+              </ns0:mrow>
+             </ns0:msub>
+            </ns0:mrow>
+           </ns0:mstyle>
+           <ns0:mo>
+            ≥
+           </ns0:mo>
+           <ns0:mn>
+            1
+           </ns0:mn>
+           <ns0:mtext>
+            for all
+           </ns0:mtext>
+           <ns0:mi>
+            i
+           </ns0:mi>
+           <ns0:mo>
+            ∈
+           </ns0:mo>
+           <ns0:msub>
+            <ns0:mi>
+             V
+            </ns0:mi>
+            <ns0:mi>
+             s
+            </ns0:mi>
+           </ns0:msub>
+          </ns0:mrow>
+         </ns0:math>
+        </disp-formula>
+        <disp-formula id="E4">
+         <label>
+          (4)
+         </label>
+         <ns0:math id="M4">
+          <ns0:mrow>
+           <ns0:mstyle displaystyle="true">
+            <ns0:msub>
+             <ns0:mo>
+              ∑
+             </ns0:mo>
+             <ns0:mrow>
+              <ns0:mi>
+               i
+              </ns0:mi>
+              <ns0:mtext>
+              </ns0:mtext>
+              <ns0:mo>
+               ∈
+              </ns0:mo>
+              <ns0:mtext>
+              </ns0:mtext>
+              <ns0:msub>
+               <ns0:mi>
+                V
+               </ns0:mi>
+               <ns0:mi>
+                p
+               </ns0:mi>
+              </ns0:msub>
+             </ns0:mrow>
+            </ns0:msub>
+            <ns0:mrow>
+             <ns0:msub>
+              <ns0:mi>
+               x
+              </ns0:mi>
+              <ns0:mrow>
+               <ns0:mi>
+                i
+               </ns0:mi>
+               <ns0:mi>
+                j
+               </ns0:mi>
+              </ns0:mrow>
+             </ns0:msub>
+             <ns0:mo>
+              ≥
+             </ns0:mo>
+             <ns0:mn>
+              1
+             </ns0:mn>
+             <ns0:mtext>
+              for all
+             </ns0:mtext>
+             <ns0:mi>
+              j
+             </ns0:mi>
+             <ns0:mo>
+              ∈
+             </ns0:mo>
+             <ns0:msub>
+              <ns0:mi>
+               V
+              </ns0:mi>
+              <ns0:mi>
+               t
+              </ns0:mi>
+             </ns0:msub>
+            </ns0:mrow>
+           </ns0:mstyle>
+          </ns0:mrow>
+         </ns0:math>
+        </disp-formula>
+        <disp-formula id="E5">
+         <label>
+          (5)
+         </label>
+         <ns0:math id="M5">
+          <ns0:mrow>
+           <ns0:mstyle displaystyle="true">
+            <ns0:msub>
+             <ns0:mo>
+              ∑
+             </ns0:mo>
+             <ns0:mrow>
+              <ns0:mi>
+               j
+              </ns0:mi>
+              <ns0:mtext>
+              </ns0:mtext>
+              <ns0:mo>
+               ∈
+              </ns0:mo>
+              <ns0:mtext>
+              </ns0:mtext>
+              <ns0:msub>
+               <ns0:mi>
+                V
+               </ns0:mi>
+               <ns0:mi>
+                d
+               </ns0:mi>
+              </ns0:msub>
+             </ns0:mrow>
+            </ns0:msub>
+            <ns0:mrow>
+             <ns0:msub>
+              <ns0:mi>
+               x
+              </ns0:mi>
+              <ns0:mrow>
+               <ns0:mi>
+                i
+               </ns0:mi>
+               <ns0:mi>
+                j
+               </ns0:mi>
+              </ns0:mrow>
+             </ns0:msub>
+             <ns0:mo>
+              ≥
+             </ns0:mo>
+             <ns0:mn>
+              1
+             </ns0:mn>
+             <ns0:mtext>
+              for all
+             </ns0:mtext>
+             <ns0:mi>
+              i
+             </ns0:mi>
+             <ns0:mo>
+              ∈
+             </ns0:mo>
+             <ns0:msub>
+              <ns0:mi>
+               V
+              </ns0:mi>
+              <ns0:mi>
+               x
+              </ns0:mi>
+             </ns0:msub>
+            </ns0:mrow>
+           </ns0:mstyle>
+          </ns0:mrow>
+         </ns0:math>
+        </disp-formula>
+        <disp-formula id="E6">
+         <label>
+          (6)
+         </label>
+         <ns0:math id="M6">
+          <ns0:mrow>
+           <ns0:mstyle displaystyle="true">
+            <ns0:msub>
+             <ns0:mo>
+              ∑
+             </ns0:mo>
+             <ns0:mrow>
+              <ns0:mi>
+               i
+              </ns0:mi>
+              <ns0:mtext>
+              </ns0:mtext>
+              <ns0:mo>
+               ∈
+              </ns0:mo>
+              <ns0:mtext>
+              </ns0:mtext>
+              <ns0:mo stretchy="false">
+               (
+              </ns0:mo>
+              <ns0:mi>
+               V
+              </ns0:mi>
+              <ns0:mo>
+               \\\\\\\\\\\\\\\\
+              </ns0:mo>
+              <ns0:msub>
+               <ns0:mi>
+                V
+               </ns0:mi>
+               <ns0:mi>
+                s
+               </ns0:mi>
+              </ns0:msub>
+              <ns0:mo stretchy="false">
+               )
+              </ns0:mo>
+             </ns0:mrow>
+            </ns0:msub>
+            <ns0:mrow>
+             <ns0:msub>
+              <ns0:mi>
+               x
+              </ns0:mi>
+              <ns0:mrow>
+               <ns0:mi>
+                i
+               </ns0:mi>
+               <ns0:mi>
+                j
+               </ns0:mi>
+              </ns0:mrow>
+             </ns0:msub>
+             <ns0:mo>
+              ≥
+             </ns0:mo>
+             <ns0:mn>
+              1
+             </ns0:mn>
+             <ns0:mtext>
+              for all
+             </ns0:mtext>
+             <ns0:mi>
+              j
+             </ns0:mi>
+             <ns0:mo>
+              ∈
+             </ns0:mo>
+             <ns0:msub>
+              <ns0:mi>
+               V
+              </ns0:mi>
+              <ns0:mrow>
+               <ns0:mi>
+                s
+               </ns0:mi>
+               <ns0:mtext>
+               </ns0:mtext>
+               <ns0:mo>
+                +
+               </ns0:mo>
+               <ns0:mtext>
+               </ns0:mtext>
+               <ns0:mn>
+                1
+               </ns0:mn>
+              </ns0:mrow>
+             </ns0:msub>
+            </ns0:mrow>
+           </ns0:mstyle>
+          </ns0:mrow>
+         </ns0:math>
+        </disp-formula>
+       </p>
+      </sec>
+     </sec>
+    </sec>
+    <sec>
+     <title>
+      Assessment of the improvement
+     </title>
+     <p>
+      In the first step, we only use the temporal phosphoproteomic data and reconstruct the signaling network without a reference network. Then, PCSFs for each time point are merged together and a binary matrix has been created from the PCSF network in order to validate the edges and to determine edge directions the ILP based edge inference approach is used. The human protein interactome described in Datasets is assigned as the reference network for the ILP analysis. So, the PCSF and ILP based edge inference analysis are combined to provide the intermediate nodes (from the human interactome) based on the proteins identified at different time points from the experimental data, in addition to the direction information for the edges. The resulting directed network is then used for visualization and further analyses.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Network analysis and clustering
+     </title>
+     <p>
+      Restricted Neighborhood Search Cluster Algorithm (RNSC) in the NeAT toolbox (Brohee et al.,      ) was used to cluster the network where the maximum number of clusters was selected to be 20 and other parameters were kept as the default values. Critical nodes in the network were ranked by calculating four attributes: the path frequency, in-degree, out-degree, the sum of in-degree and out-degree, and the betweenness centralities. A simple path is an ordered sequence of nodes in a graph such that each node occurs at most once in this sequence and each pair of consecutive nodes is connected by an edge. Given all the possible simple paths between the terminal nodes at 2 min and the terminal nodes at 20 min, the path frequency of a node
+      <italic>
+       p
+      </italic>
+      is defined as the ratio of the simple paths that include
+      <italic>
+       p
+      </italic>
+      over all paths. The network analysis has been performed by using the Python NetworkX package (Schult and Swart,      ).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Functional enrichment analysis
+     </title>
+     <p>
+      After clustering the network with RNSC algorithm, enrichment of each cluster has been assessed with DAVID web server in the following categories: biological process ontology, cellular component ontology, molecular function ontology, BBID pathways, BIOCARTA pathways, and KEGG pathways. Then, we have collected the enrichment results for each cluster and generated a matrix where rows are Gene Ontology (GO) terms and columns are corresponding
+      <italic>
+       p
+      </italic>
+      -values for each cluster, for all the data with
+      <italic>
+       p
+      </italic>
+      &lt; 0.05, and enriched proteins &gt;1%.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s3" sec-type="results">
+    <title>
+     Results
+    </title>
+    <sec>
+     <title>
+      Reconstruction of temporal signaling networks in
+      <italic>
+       Salmonella
+      </italic>
+      -infected human cells
+     </title>
+     <p>
+      Modeling signaling networks is a more challenging task when the time dimension is taken into account. In a given temporal omic data, one of the problems to be solved is how the omic hits are connected and what are the upstream and downstream regulators in the final signaling network. The ILP based edge inference approach uses the temporal information as constraints and reconstructs edges and their direction between the omic hits toward solving this problem. But ILP-based edge inference approach cannot identify the missing components in the omic hits for the representation of the whole signaling system. The PCSF approach solves this problem by searching for the most confident region of the interactome that will include most of the experimental hits and adds hidden components, called Steiner nodes. As a limitation, if the initial interactome is undirected, the PCSF approach cannot assign directions to the edges and cannot use the temporal constraints, which can be solved by the ILP-based edge inference approach. As the different aspects of the ILP-based edge inference and PCSF network modeling approaches are complementing each other, we have combined these two approaches to reconstruct the temporal signaling networks in
+      <italic>
+       Salmonella
+      </italic>
+      -infected human cells.
+     </p>
+     <p>
+      In this work, we have used the phosphoproteomic data published in (Rogers et al.,      ). This dataset has been first divided into three parts at each time point based on the cellular compartment (membrane, cytosol, and nucleus). Additionally, the overlaps of the significantly phosphorylated proteins across different time points and different cellular compartments are compared. We have noted that the overlap between compartments within the same time points were very small, so the phosphoproteins at the same time point but in different compartments are safely merged (see Table      ). Next, for each time point, we have prepared a set of significantly phosphorylated proteins along with their fold changes during phosphorylation. To show the importance of revealing hidden components that were not present in the phosphoproteomic hit set, we first ran only the ILP-based edge inference approach on the data. The result was a disconnected network with many small sub-networks composed of three or four nodes which were not a representation of any pathway (Figure S1). This visual representation clearly showed that experimental hits alone are not enough to represent the complete network as there are missing components between these nodes. At this point, we took advantage of the PCSF approach in revealing hidden nodes and prepared a reference network to be used in the ILP-based edge inference approach. For this purpose, multiple PCSFs have been constructed for each time point and merged together to form a single network. To pipe this output into the ILP-based edge inference approach, we have prepared a network matrix where rows are proteins, columns are time points. When a node is present at a time point either as a phosphoproteomic hit or as a hidden node revealed by the PCSF approach, it is labeled as 1, otherwise it is 0. The ILP-based edge inference approach reconstructed a network based on the provided matrix as a reference network. The final network was composed of 658 nodes and 869 edges. As shown in Figure      , the resulting network keeps the temporal information and also reveals hidden proteins and directions of the interactions. An interactive visualization and related source information is available at
+      <ext-link ext-link-type="uri" ns1:href="http://mistral.ii.metu.edu.tr/salmonella/salmonella_main.html">
+       http://mistral.ii.metu.edu.tr/salmonella/salmonella_main.html
+      </ext-link>
+      . 547 out of 869 interactions were present in the reference human interactome. Remaining 322 interactions were novel, predicted interactions.
+     </p>
+     <p>
+      To check if this reconstructed network is specific to
+      <italic>
+       Salmonella
+      </italic>
+      infection, we have searched for the known targets of
+      <italic>
+       Salmonella
+      </italic>
+      effectors in the network. In this step, we have used the interactome that has been curated and compiled from published studies where 40 effectors interact with 50 human proteins through 62 interactions (Schleker et al.,      ). We found that 13 proteins out of 50 were present in the reconstructed network, which are known to be the targets of
+      <italic>
+       Salmonella
+      </italic>
+      effectors. The enrichment of
+      <italic>
+       Salmonella
+      </italic>
+      effector targets in the reconstructed network is statistically significant when compared to the overall human interactome (
+      <italic>
+       p
+      </italic>
+      = 8.206×10      , by hypergeometric test) which implies the specificity of the reconstructed network to
+      <italic>
+       Salmonella
+      </italic>
+      infection. In Table      , targets of
+      <italic>
+       Salmonella
+      </italic>
+      effectors present in the reconstructed network are listed with their functions and whether they are phoshoproteomic hits or found by our approach as intermediates. Additionally, we have checked the Gene Ontology and KEGG pathway enrichments for the overall reconstructed network. Regulation of transcription (
+      <italic>
+       p
+      </italic>
+      = 2.0×10      ), apoptosis (
+      <italic>
+       p
+      </italic>
+      = 3.9×10      ), intracellular transport (
+      <italic>
+       p
+      </italic>
+      = 1.0×10      ), cell cycle (
+      <italic>
+       p
+      </italic>
+      = 2.1×10      ), cytoskeleton organization (
+      <italic>
+       p
+      </italic>
+      = 2.3×10      ) are some of the processes enriched in the reconstructed network. More specifically, SNARE interaction in vesicular transport (
+      <italic>
+       p
+      </italic>
+      = 1.0×10      ), mTOR signaling (
+      <italic>
+       p
+      </italic>
+      = 1.5×10      ), and MAPK signaling (
+      <italic>
+       p
+      </italic>
+      = 9.9×10      ) pathways are among the enriched pathways. In several studies,
+      <italic>
+       Salmonella
+      </italic>
+      infection was shown to down-regulate mTOR pathway to induce apoptosis (Lee et al.,      ). The
+      <italic>
+       Salmonella
+      </italic>
+      effector AvrA targets MAPK signaling, mTOR signaling, and NF-κB pathways to manipulate the processes in the host cell (Liu et al.,      ).
+     </p>
+     <p>
+      Next, the reconstructed network is divided into 20 clusters using the RNSC algorithm, which searches highly connected node sets within a given graph. Each cluster was found to be enriched in few specific biological processes or pathways. Top three most significant processes are listed in Table      . For example, the first cluster is enriched in the mTOR signaling pathway, cytoskeleton organization, and other processes. Also enrichments in the intracellular transport, apoptosis, RNA processing, and transcription is observed in different clusters. These clusters have also been analyzed based on the enrichment of cellular components, and number of clusters observed in three cellular compartments; nucleus, cytosol and cytoskeleton is reported in Figure S2.
+     </p>
+     <p>
+      With the help of network analysis techniques, we were able to rank the nodes present in the reconstructed network. The most central nodes (based on different measures) are listed in Table      where 10 proteins that have known functions in apoptosis are observed. 14-3-3ζ (YWHAZ) and p53 (TP53) are the most frequently observed proteins on the simple paths passing through the hits from 2 min to 20 min. MAPK1, CDC42, MAP3K3, and 14-3-3δ (YWHAG) behave like signal transducers where the number of incoming edges are very low compared to other nodes; while MAPK1 also behaves like a signal receiver when the number of edges of each node were compared. These proteins are critical for the structure of the network; in other words, these proteins have the potential to reveal clinically important targets.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      CDC42 is a clinically important target in
+      <italic>
+       salmonella
+      </italic>
+      infection
+     </title>
+     <p>
+      Two effectors of
+      <italic>
+       Salmonella
+      </italic>
+      , SopE, and SopB, stimulate CDC42 (cell division control protein 42) protein which induces rearrangements in the cytoskeleton. CDC42 were not present in the set of phosphoproteomic hits; however, it was located in a central part of the reconstructed network, which is revealed by the PCSF approach. Although CDC42 has a phosphorylation site at tyrosine 64 (Tu et al.,      ) which is not present in the initial phosphoproteomic data, our approach correctly locates CDC42 in the final reconstructed network. Based on the total degrees, CDC42 is among the top 10 ranking proteins. In the reconstructed network, CDC42 has only one incoming edge, but has 13 outgoing edges which is consistent with the infection mechanism of
+      <italic>
+       Salmonella
+      </italic>
+      where stimulation of CDC42 leads to activation of many downstream signaling components including p21-activated kinases (PAKs) and PBD domain containing proteins (Galan and Zhou,      ). PAK4 and PBD domain containing protein CDC42EP1 are among the downstream partners in the reconstructed network. Also, when we zoomed into the first degree neighbors of CDC42, their downstream components in our network can be observed (see Figure      ). Some of these partners are active at 5 min, or at 10 min, or at other time points. The CDC42 shows a hub-like character in the reconstructed network. Hub proteins cannot interact with all their partners at the same time. They either adapt multiple binding sites or use a single binding site repeatedly. This property of hubs has been well-established for TP53 protein where four binding sites are repeatedly used to interact with different partners (Tuncbag et al.,      ). We have checked this property in CDC42 to understand its interactions by searching for the available structural data in Protein Databank (PDB) (Berman et al.,      ) and Interactome3D (Mosca et al.,      ). We have found six interactions out of 13 in atomic detail (see Figure      ). Structural data provides information about at which region two proteins are interacting. Analysis of the binding site for each protein pair has shown that CDC42 is using the same binding region completely or partially to interact with its partners and this property is a characteristic of hub proteins. Also, the downstream partners of CDC42 are active at different time points as illustrated in Figure      , which also shows the mutually exclusive character of the interactions. For example, PAK4 is in the reconstructed network showing its effect after infection at time points 10 and 20 min. PARD6A and ARHGAP32 effect at 10 and 20 min, respectively. The partner proteins are effective at different time points and CDC42 can bind to these proteins in a mutually exclusive manner. IQGAP1 is another downstream component, which promotes
+      <italic>
+       Salmonella
+      </italic>
+      invasion by binding to CDC42 and knockdown of IQGAP1 was shown to be reducing the invasion (Brown et al.,      ).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      The reconstructed signaling network revealed many other potential clinical targets
+     </title>
+     <p>
+      Besides CDC42, some other targets of
+      <italic>
+       Salmonella
+      </italic>
+      effectors were located correctly in the reconstructed network although they were not present in the initial phosphoproteomic data; such as 14-3-3δ, RHOA, TP53, TLN1 (Schleker et al.,      ). Also pathogen targets such as β-catenin, MAPK1, IQGAP1 are observed in the reconstructed network as phosphoproteomic hits (Schleker et al.,      ).
+     </p>
+     <p>
+      In addition to these targets, mTOR pathway was found to be enriched in the reconstructed network. mTOR signaling was known to be altered after
+      <italic>
+       Salmonella
+      </italic>
+      infection and mTOR is a phosphoproteomic hit having significant effect at 10 min in our data. When we have investigated the neighbors of the mTOR protein (Figure      ) RHEB, a direct regulator of mTOR (Long et al.,      ), is observed as an interactor of mTOR in the reconstructed network. Also, RPTOR binding to mTOR and EIF4EBP1 was recovered in our network. The mTOR - RHEB complex induces phosphorylation of EIF4EBP1 (Long et al.,      ). Even though RHEB is an important player in the activation of EIF4EBP1, it was not observed within the initial phosphoproteomic hits. The proposed two-step modeling approach was able to locate RHEB in the final network, completing the missing interactions of the signaling pathway. According to our network, signaling in the RPTOR-mTOR-Rheb-EIF4EBP1 axis starts at 5 min and continues until 10 min.
+     </p>
+     <p>
+      RHOA, is a GTPase that functions in the actin cytoskeleton organization (Hall,      ). It was a Steiner node in final network as a target of
+      <italic>
+       Salmonella
+      </italic>
+      effectors. It has 5 binding partners in the reconstructed network of where four of them are upstream interactors and only one is a downstream interactor (Figure      ). Among the upstream interactors, RPS6KA4 is effective at 2 min and the remaining ones are active at 5 min. The downstream interactor INPPL1 is effective at 10 min. So, the final reconstructed network suggests that RHOA receives signals from proteins active at min 2 and min 5 and transmits these signals until min 10.
+     </p>
+     <p>
+      The 14-3-3δ protein (YWHAG) shows a pattern similar to CDC42 where the incoming interactions are not present, but there are many outgoing interactions from 14-3-3δ which implies that 14-3-3δ is a signal mediator for the downstream components of the network. In Figure      , first neighbors of 14-3-3δ are illustrated in the network. 14-3-3δ is a Steiner node, a known target of
+      <italic>
+       Salmonella
+      </italic>
+      effectors, and it is effective at min 2, 5, and 20. Its 13 outgoing edges suggest a function like a signal transducer, sending signals to many downstream proteins at different time points.
+     </p>
+     <p>
+      Also, seven proteins from the Syntaxin family were present in the reconstructed network and only three of them was a phosphoproteomic hit, others were Steiner nodes found by our approach. Syntaxins function in vesicle trafficking which is an important process in
+      <italic>
+       Salmonella
+      </italic>
+      replication and transport.
+      <italic>
+       Salmonella
+      </italic>
+      effectors hijack syntaxins by binding them (Ramos-Morales,      ).
+     </p>
+     <p>
+      Finally, oxysterol-binding proteins (OSBPs) are also present in the reconstructed network, which are known to be enhancing replication of
+      <italic>
+       Salmonella
+      </italic>
+      in the host cell by interacting with the
+      <italic>
+       Salmonella
+      </italic>
+      effector SseL (Auweter et al.,      ). This interaction can lead to the exploitation of OSBP dependent pathways altered during the
+      <italic>
+       Salmonella
+      </italic>
+      infection.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s4" sec-type="discussion">
+    <title>
+     Discussion
+    </title>
+    <p>
+     Improvements in the high-throughput technologies revolutionized the systems biology era. Instead of comparing lists of genes or proteins, finding the interactions, regulations, and mechanisms within a set of significantly altered proteins or genes have gained importance. In addition, integration of multiple “omic” hits in a biologically meaningful way is now crucial to better understand the functional pathways and cellular mechanisms that are active during a disease or perturbation. For this purpose, several network modeling approaches have been developed, which successfully reveals clinically valuable targets and important pathways, especially in several cancer types. Another dimension of omic data is its temporality, which makes the network modeling process more challenging, as instead of simply connecting omic hits, the time related constraints have to be considered during network reconstruction.
+    </p>
+    <p>
+     In this work, we have provided a proof-of-concept application of an integrative approach which benefits from two different network reconstruction methods, namely PCSF and ILP based edge inference methods. Although both methods infer networks from experimental omic hits, they perform better in different parts of the modeling. The former reveals the hidden components of the signaling, but cannot handle time as a dimension. The latter can integrate temporal information to reconstruct directed edges, but cannot add missing signaling components to complete the lacking parts of the signaling. These complementary aspects of the methods inspired us to combine both approaches to model the signaling network of human cells after
+     <italic>
+      Salmonella
+     </italic>
+     infection based on the temporal phosphoproteomic data. We have selected
+     <italic>
+      Salmonella
+     </italic>
+     infection, because the signaling changes in the host cells are still unknown despite the efforts to understand the communication details between the pathogen and the host. In addition, available approaches have not been yet applied to model signaling changes in the host organism during
+     <italic>
+      Salmonella
+     </italic>
+     infection. In the first stage, we have integrated the temporal phosphoprotemic data of
+     <italic>
+      Salmonella
+     </italic>
+     -infected human cells with confidence weighted protein–protein interactions to reconstruct the signaling pathway for each time point with the PCSF approach. Then, all the components were labeled with the corresponding time points based on their presence in the reconstructed networks, and used as the input for the ILP-based edge inference step, in which directions are assigned to the interactions based on the temporal data. The final network with 658 proteins and 869 interactions provided a rich source to analyze the signaling alterations and clinical target identification. Our approach allowed us to identify host pathways functioning during the
+     <italic>
+      Salmonella
+     </italic>
+     infection and to rank the proteins according to their importance for the infection based on their centrality in the network. The resulting network conserves the information about temporality, direction of interactions, while revealing the hidden entities in the signaling. Several pathways such as SNARE binding, mTOR signaling, immune response, cytoskeleton organization, and apoptosis, were found to be effected, many of which were previously found to be altered in the host cell after
+     <italic>
+      Salmonella
+     </italic>
+     infection. Additionally, we have shown that the reconstructed network is enriched in the protein targets of the
+     <italic>
+      Salmonella
+     </italic>
+     effectors. Clustering of the resulting network showed that the multiple biological processes are enriched in each cluster. The final network also involves enrichments in the cytoskeletal organization and the regulation of cellular component size. These findings are in parallel with the known infection mechanism of the
+     <italic>
+      Salmonella
+     </italic>
+     where the injected effector proteins trigger the epithelial cell membrane by rearranging the cytoskeleton of the host cell that results in invasion of the bacterium into the host cell.
+    </p>
+    <p>
+     Another benefit of the proposed two-step approach (Figure     ) was that hidden components of signaling can be revealed with network reconstruction. In this specific demonstration, several known targets of
+     <italic>
+      Salmonella
+     </italic>
+     effectors have been accurately included in the reconstructed network such as CDC42, RHOA, 14-3-3δ, Syntaxins although they were not present in the initial phosphoproteomic data. These hidden signaling components can be potential therapeutic targets. Among them CDC42 is a target of the effector protein SopB and their interaction helps in the adaptation of
+     <italic>
+      Salmonella
+     </italic>
+     to the intracellular condition of the host. CDC42 is responsible of downstream signaling and behaves as a signal transmitter. From a medical point of view, targeting CDC42 is a good approach both for blocking the adaptation of
+     <italic>
+      Salmonella
+     </italic>
+     in the host cell and abnormal downstream signaling during infection (Figure     ). RHOA functions in cytoskeleton organization and also it a target of
+     <italic>
+      Salmonella
+     </italic>
+     effectors. The effector SifA activates RHOA during infection. Activated RHOA promotes opening tubes in the membrane (Srikanth et al.,     ). Therefore, RHOA can be considered as a therapeutic target and controlling its activation can be a good approach in
+     <italic>
+      Salmonella
+     </italic>
+     treatment (Figure     ). Also, besides revealing the hidden components, the reconstructed edge directions nicely showed how the signals are transmitted temporally from one layer to another. For example, some host proteins behave like a signal receiver such as MAPK1 and some others behave like a signal transmitter such as, 14-3-3δ (Figure     ).
+    </p>
+    <p>
+     Understanding these communications and signaling details in the host is crucial to improve the available treatment strategies for
+     <italic>
+      Salmonella
+     </italic>
+     infection in the near future, especially as the new antibiotic-resistance species are on the rise. We believe that the integrated approaches, such as the one presented here, have a high potential for understanding the key molecular mechanisms in bacteria\\\\\\\\s susceptibility or resistance to the available antibiotics and for the identification of new clinical targets in infectious diseases, especially in the
+     <italic>
+      Salmonella
+     </italic>
+     infection.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Conflict of interest statement
+    </title>
+    <p>
+     The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

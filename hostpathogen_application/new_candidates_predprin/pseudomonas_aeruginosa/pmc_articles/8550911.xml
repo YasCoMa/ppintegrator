@@ -1,0 +1,2056 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Epigenetic interaction of microbes with their mammalian hosts
+ </title>
+ <abstract>
+  <p id="Par1">
+   The interaction of microbiota with its host has the ability to alter the cellular functions of both, through several mechanisms. Recent work, from many laboratories including our own, has shown that epigenetic mechanisms play an important role in the alteration of these cellular functions. Epigenetics broadly refers to change in the phenotype without a corresponding change in the DNA sequence. This change is usually brought by epigenetic modifications of the DNA itself, the histone proteins associated with the DNA in the chromatin, non-coding RNA or the modifications of the transcribed RNA. These modifications, also known as epigenetic code, do not change the DNA sequence but alter the expression level of specific genes. Microorganisms seem to have learned how to modify the host epigenetic code and modulate the host transcriptome in their favour. In this review, we explore the literature that describes the epigenetic interaction of bacteria, fungi and viruses, with their mammalian hosts.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="Sec1">
+    <title>
+     Introduction
+    </title>
+    <p id="Par2">
+     Coexistence in the same ecological niche promotes interactions between different organisms. Microbes form a dominant group of organisms who have formed a commensal or pathogenic relationship with the multicellular organisms with whom they coexist. Human microbiota, the microbes that coexist with humans, can be thought of as an additional multifunctional organ. In fact, the microbes that coexist with and within a human being outnumber the number of human cells by a factor of ten (Turnbaugh
+     <italic>
+      et al
+     </italic>
+     .     ). The microbial cell can complement the metabolic traits, such as synthesis of specific vitamins, conjugated bile acid transformation, ability to break down complex plant polysaccharides, and dietary oxalate degradation. Microbiota educates our immune system to tolerate microbial immune determinants, reducing allergic response to environmental antigens, food, etc. (Xu and Gordon     ).
+    </p>
+    <p id="Par3">
+     The interaction of microbiota with its host has the ability to alter the cellular functions of both, through several mechanisms. Recent work, from many laboratories including our own, has shown that epigenetic mechanisms play an important role in the alteration of these cellular functions (Paschos and Allday     ; Sharma
+     <italic>
+      et al
+     </italic>
+     .     ). Epigenetics broadly refers to change in the phenotype without a corresponding change in the DNA sequence. This change is usually brought by epigenetic modifications of the DNA itself, the histone proteins associated with the DNA in the chromatin, non-coding RNA or the modifications of the transcribed RNA. These modifications, also known as epigenetic code, do not change the DNA sequence but alter the expression level of specific genes (Rothbart and Strahl     ). Microorganisms seem to have learned how to modify the host epigenetic code and modulate the host transcriptome in their favour.
+    </p>
+    <p id="Par4">
+     In this review, we explore the literature that describes the epigenetic interaction of bacteria, fungi and viruses, with their mammalian hosts.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec2">
+    <title>
+     Epigenetic modifications
+    </title>
+    <sec id="Sec3">
+     <title>
+      Histone modifications
+     </title>
+     <p id="Par5">
+      Post-translational modifications (PTMs) of histone proteins are known to alter chromatin organisation. Modifications decrease or increase the nucleosome compaction to form euchromatin (open chromatin conformation) or heterochromatin (closed chromatin conformation). Euchromatin is usually associated with active gene expression, whereas heterochromatin is normally associated with gene silencing. Modification of histones in their globular domain has the ability to influence histone-histone and histone-DNA interactions (Bannister and Kouzarides      ). These modifications are established by the action of specific enzymes called epigenetic writers. Histone modifications are dynamic and protein factors called epigenetic erasers catalyse the removal of histone modifications. Thus an exceptional balance exists between these enzyme/enzyme complexes that determine the effective modifications present at a specific position on a particular histone (Jenuwein and Allis      ; Bannister and Kouzarides      ). Briefly described below (also see figure      ) are the different histone modifications known.
+     </p>
+     <sec id="Sec4">
+      <title>
+       Acetylation
+      </title>
+      <p id="Par6">
+       Histone acetyltransferases (HATs) acetylate the ε-amino group of lysine side chains on H3 and H4 using acetyl-CoA as a cofactor and histone deacetylases (HDACs) remove these acetyl groups (Roth
+       <italic>
+        et al
+       </italic>
+       .       ). The acetyl group, being negatively charged is associated with the disruption of the electrostatic interactions, repulsion of the negatively charged DNA, and weakening of the histone-DNA interactions (Bannister and Kouzarides       ). This allows open chromatin and active transcriptional state. Histone H3 acetyl lysine 9 (H3K9ac) and acetyl lysine 27 (H3K27ac) are associated with promoters and distal enhancers of transcriptionally active genes (Barnes
+       <italic>
+        et al
+       </italic>
+       .       ). In addition to histone tails, acetylation also occurs at the globular domain of histones. Histone H3 acetyl lysine 56 (H3K56ac) in the histone H3 core protrudes its side chain towards DNA major groove affecting histone-DNA interactions (Yuan
+       <italic>
+        et al
+       </italic>
+       .       ; Bannister and Kouzarides       ).
+      </p>
+     </sec>
+     <sec id="Sec5">
+      <title>
+       Phosphorylation
+      </title>
+      <p id="Par7">
+       Kinases, like KAT2A, phosphorylate the hydroxyl group of the amino acids Serine, Threonine, and Tyrosine using ATP as a phosphate group donor (Bannister and Kouzarides       ). The addition of a phosphate group increases the net negative charge affecting the chromatin organisation. Phosphorylation influences the interaction between other histone modifications and is involved in chromatin condensation during mitosis. For instance, histone H3 phosphoserine 10 (H3S10ph) compacts chromatin during mitosis in all eukaryotes (Bannister and Kouzarides       ; Rossetto
+       <italic>
+        et al
+       </italic>
+       .       ). Similarly, histone H2B phosphoserine 14 condenses chromatin during apoptosis (Füllgrabe
+       <italic>
+        et al
+       </italic>
+       .       ). Another example of regulation by histone phosphorylation is observed during double-stranded DNA breaks, where histone variant H2AX phosphoserine 139 (H2AXS139ph) recruits DNA damage repair proteins to the site (Lowndes and Toh       ).
+      </p>
+     </sec>
+     <sec id="Sec6">
+      <title>
+       Methylation
+      </title>
+      <p id="Par8">
+       Methyltransferases, like SETD7, catalyse the transfer of methyl group is transferred from S-adenosyl methionine (SAM), to ε-amino group on lysine and ω-guanidino on arginine of histones. SET domain-containing enzymes (Lysine Methyltransferases, KMT) catalyse the transfer to lysine on histone tails (HKMTs), while non-SET domain containing proteins transfer methyl group to the globular domain (Greer and Shi       ). Protein arginine methyltransferases (PRMT) family catalyses arginine methylation (Blanc and Richard       ). Histone methylation can be stably propagated through multiple cell divisions. Unlike phosphorylation or acetylation, addition of methyl group allows maintenance of histone-DNA interactions. However, it is thought to influence the chromatin organisation due to the hydrophobicity of the methyl group. The count (mono-, di-, or tri-) and symmetry of methylation (symmetric, or asymmetric) increases the methylation complexity (Bannister and Kouzarides       ). Methylation may participate in both, transcription activation or repression, depending on the site of methylation. Histone H3 methyl lysine 4 (H3K4me1/2/3) is enriched at gene promoters as well as transcription start sites of active and developmentally-regulated genes. Histone H3 trimethyl lysine 36 (H3K36me3) is enriched on the gene bodies of transcribed regions (Greer and Shi       ). On the other hand, histone H3 trimethyl lysine 9 (H3K9me3) is correlated with constitutive heterochromatin in gene-poor regions such as repetitive elements present at centromeres, transposons, inactivated X-chromosome, etc. Histone H3 trimethyl lysine 27 (H3K27me3) temporarily marks gene-rich regions that regulate development and embryonic stem cell function. ‘Bivalent domains’ containing both H3K4me3 (active) and H3K27me3 (repressive) marks have been identified in pluripotent embryonic cells. These domains support low level of transcription (Greer and Shi       ).
+      </p>
+      <p id="Par9">
+       Arginine methylation is also associated with both activation and repression of a gene. Histone H4 asymmetric dimethyl arginine 3 (H4R3me2a) is associated with active transcription which recruits H3K9ac for the binding of a transcription factor. Histone H3 asymmetric dimethyl arginine 17 (H3R17me2a) is also associated with active transcription. On the other hand, histone H4 symmetric dimethyl arginine 3 (H4R3me2s) and Histone H3 symmetric dimethyl arginine 8 (H3R8me2s) are associated with gene repression (Blanc and Richard       ).
+      </p>
+     </sec>
+     <sec id="Sec7">
+      <title>
+       Ubiquitinylation
+      </title>
+      <p id="Par10">
+       E1 (activation), E2 (conjugation), E3 (ligation) enzymes sequentially add covalent modifications on histones. Histone H2A monoubiquitinated lysine 119 (H2AK119ub1) and Histone H2B monoubiquitinated lysine 123 (H2BK123ub1) are associated with change in nucleosomal conformation and intranucleosomal interaction. It is also known to play a crucial role in the DNA damage response (Bannister and Kouzarides       ; Cao and Yan       ).
+      </p>
+     </sec>
+     <sec id="Sec8">
+      <title>
+       Tail clipping
+      </title>
+      <p id="Par11">
+       Histone N-terminal’s regulated proteolysis to remove multiple PTMs is known as tail clipping. It is reported in many organisms and is an irreversible process. It activate genes due to the increased DNA accessibility for transcription (Santos-Rosa
+       <italic>
+        et al
+       </italic>
+       .       ; Bannister and Kouzarides       ).
+      </p>
+      <p id="Par12">
+       The histone modifications mentioned above, along with the deimination of arginine, O-linked β-N-acetyl glucosamination, ADP ribosylation, sumoylation, and proline isomerization constitute the ‘Histone Code’ (Turner       ; Bannister and Kouzarides       ). Proteins with specialised domains including chromodomain, tudor, MBT, bromodomain and PHD domain interact with and read the histone code to mediate binding of effector proteins to specific modifications and recruit the epigenetic machinery to alter chromatin organisation (Bannister and Kouzarides       ; Rothbart and Strahl       ). Furthermore, ATP-dependent nucleosome remodelling complexes containing these domains are known to mediate specific association with modified histones and their tails. For instance, the bromodomain of the SWI/SNF complex tethers to acetylated promoters, rearrange chromatin by assembling or disassembling nucleosomes and exchange histones with their variants (Becker and Workman       ).
+      </p>
+     </sec>
+    </sec>
+    <sec id="Sec9">
+     <title>
+      DNA methylation
+     </title>
+     <p id="Par13">
+      DNA methylation is a reversible epigenetic modification of DNA and is associated with dynamic regulation of gene expression. Cytosine and Adenine bases in the DNA are known to be methylated in all organisms—from bacteria to mammals (figure      ) (Blow
+      <italic>
+       et al
+      </italic>
+      .      ; Greenberg and Bourc’his      ).
+     </p>
+     <sec id="Sec10">
+      <title>
+       5mC methylation
+      </title>
+      <p id="Par14">
+       Methylation of cytosine at the 5th position does not affect Watson-crick base pairing. However, despite being a small hydrophobic methyl group, it protrudes into the major groove of DNA affecting the biophysical properties (Pérez
+       <italic>
+        et al
+       </italic>
+       .       ). Addition of this modification is catalysed by DNA methyltransferases. The
+       <italic>
+        de novo
+       </italic>
+       DNA methyltransferases DNMT3A and DNMT3B catalyse this addition on unmethylated DNA substrate (Okano
+       <italic>
+        et al
+       </italic>
+       .       ). The maintenance methyltransferase, DNMT1, adds methyl group to hemimethylated DNA substrate and maintains DNA methylation through cell divisions (Li
+       <italic>
+        et al
+       </italic>
+       .       ). DNMT3L, which lacks catalytic activity, interacts with DNMT3A and DNMT3B and stimulates their activity besides recruiting them to the specific loci by binding to histone H3 that is methylated at lysine 4 (Bourc’his
+       <italic>
+        et al.
+       </italic>
+       ).
+       <italic>
+        De novo
+       </italic>
+       and maintenance methyltransferases collaborate to ensure DNA methylation is established and maintained in subsequent generations (Jaenisch and Bird       ). DNMT2 or TRMT1 has also been classified as a DNA methyltransferase but it has been shown to methylate both tRNA and mRNA (Dev
+       <italic>
+        et al
+       </italic>
+       .       ; Jeltsch
+       <italic>
+        et al
+       </italic>
+       .       ). Ten-eleven translocation (TET) family proteins catalyse DNA demethylation actively by converting 5-methylcytosine to 5-hydroxymethylcytosine (Tahiliani
+       <italic>
+        et al
+       </italic>
+       .       ). 5-hydroxy methylcytosine (5hmc) is an intermediate product – a new epigenetic mark that affects chromatin structure and gene expression (Shi
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+      <p id="Par15">
+       DNA methyltransferases predominantly methylate cytosines in CpG dinucleotide context in the mammalian genome (Reik
+       <italic>
+        et al
+       </italic>
+       .       ). CpG dinucleotides are present at frequency lower than expected in the genome and at most places as CpG islands (CGIs). These islands have been found near or within regulatory element and gene promoters (Deaton and Bird       ). Gene promoters should be accessible to transcription factors and DNA methylation at these sites leads to transcriptional repression. Promoters of housekeeping genes are usually unmethylated (Reik
+       <italic>
+        et al
+       </italic>
+       .       ). DNA methylation recruits methyl-CpG binding domain proteins including MeCP2, MBD1, MBD2, MBD3 and MBD4, which in turn engages histone deacetylases (HDACs) to repress transcription (Fournier
+       <italic>
+        et al
+       </italic>
+       .       ). This cross-talk emphasizes the relationship between DNA methylation and histone modifications.
+      </p>
+      <p id="Par16">
+       Non-CpG methylation is methylation of the cytosine in CpA, CpT, CpC dinucleotide context. First discovered in the plant genome (Lindroth
+       <italic>
+        et al
+       </italic>
+       .       ), non-CpG methylation is known to be catalysed by several DNA methyltransferases in mammals (Arand
+       <italic>
+        et al
+       </italic>
+       .       ). Non-CpG methylation is highly enriched in neurons, glial cells, oocytes, ES cells and induced pluripotent stem cells (IPSCs). In adult somatic cells, non-CpG methylation accounts only for 0.02% of the total methylated cytosines. However, the level of non-CpG methylation is substantially more in ES cells (Laurent
+       <italic>
+        et al
+       </italic>
+       .       ; Lister
+       <italic>
+        et al
+       </italic>
+       .       ,       ; Guo
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec11">
+      <title>
+       N       -methyladenosine (6mA)
+      </title>
+      <p id="Par17">
+       Recent studies in mammals have shed light on N6-methyl adenine (6mA) (Heyn and Esteller       ). Methylation of adenine at N-6 position was reported during the discovery of bacterial restriction-modification (R-M) system to protect against viral invasions (Arber and Linn       ; Heyn and Esteller       ). Extensive genomic analysis, reveals that eukaryotes (from fungus to mammals) during evolution have adopted adenine methyltransferases from prokaryotes. In different organisms, 6mA is enriched in different genomic regions, including promoters, transcription start sites, coding regions, and transposons. Unlike cytosine, methylation of adenine upregulates transcription in most cases. 6mA has been attributed with several functions that are species-specific (Fu
+       <italic>
+        et al
+       </italic>
+       .       ; Zhang
+       <italic>
+        et al
+       </italic>
+       .       ; Iyer
+       <italic>
+        et al
+       </italic>
+       .       ; Koziol
+       <italic>
+        et al
+       </italic>
+       .       ; Xiao
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+      <p id="Par18">
+       DAMT-1, with a MTA70 domain, is a DNA adenine methyltransferase in
+       <italic>
+        C. elegans
+       </italic>
+       (Greer
+       <italic>
+        et al
+       </italic>
+       .       ). RNA m6A methyltransferases, METTL3 and METTL14, are homologs in this family. METTL4, a DAMT-1 homolog in mammals, is a paralog of METTL3 and METTL14 (Balacco and Soller       ).
+      </p>
+     </sec>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec12">
+    <title>
+     RNA modifications
+    </title>
+    <p id="Par19">
+     Several modifications of eukaryotic mRNAs are known: capping at the 5\\ end; polyadenylation at the 3’ end, splicing to derive mature mRNA from pre-mRNA, etc. Recently, post-transcriptional modifications of cellular RNA (including non-coding RNA) similar to DNA and histone modifications have also been identified (Boccaletto
+     <italic>
+      et al
+     </italic>
+     .     ). These modifications directly influence gene expression, adding another level of epigenetic regulation termed as ‘epitranscriptomics’ (Saletore
+     <italic>
+      et al
+     </italic>
+     .     ). Chemical modifications in RNA alter charge on transcripts, base-pairing potential, secondary structure, and protein-RNA interactions; these shape the outcome of gene expression by modulating RNA processing, localization, translation, and decay. Few of the common RNA modifications are shown in Figure     .
+    </p>
+    <sec id="Sec13">
+     <title>
+      m6A methylation of RNA
+     </title>
+     <p id="Par20">
+      m6A is the predominant modification present on all cellular RNAs (Zaccara
+      <italic>
+       et al
+      </italic>
+      .      ). meRIP-sequencing on human and mouse models reveal that m6A methylation is mainly enriched in long internal exons, 3\\ untranslated regions (UTRs), and region upstream of stop codon (Dominissini
+      <italic>
+       et al
+      </italic>
+      .      ). A heterodimeric protein complex of METTL3 and METTL14 methylates RNA by depositing methyl group on exocyclic NH2 at the sixth position of the adenosine using SAM as a methyl donor (Figure      , Liu
+      <italic>
+       et al
+      </italic>
+      .      ). Proteins such as WTAP and KIAA1429 interact with the complex to load on to the target RNA (Ping
+      <italic>
+       et al
+      </italic>
+      .      ). FTO and ALKB homologue 5 (ALKBH5) actively demethylate RNA m6A (Zheng
+      <italic>
+       et al
+      </italic>
+      .      ; Mauer
+      <italic>
+       et al
+      </italic>
+      .      ). m6A destabilizes RNA duplex to accommodate A-U bonding by rotating the methyl group from low energy syn (when unpaired) to high energy anti conformation (when paired with uracil). The rotation disrupts the local structure of transcripts predisposing it to bind to other proteins (Roost
+      <italic>
+       et al
+      </italic>
+      .      ).
+     </p>
+     <p id="Par21">
+      Reader proteins bind to m6A and decide the fate of target mRNA. YTH domain-containing proteins are a classic example for m6A readers: YTHDC1 (nuclear) affects mRNA splicing and export; YTHDC2 (nuclear and cytoplasmic) affects translation initiation and mRNA degradation; YTHDF1 (cytoplasmic) promotes translation; YTHDF2 (cytoplasmic) targets RNA to the P-bodies; YTHDF3 (cytoplasmic) binds to circular RNA. HNRNPC, HNRNPG, and HNRNPA2B1 preferentially bind to m6A in non-coding RNA (Xiao
+      <italic>
+       et al
+      </italic>
+      .      ; Hsu
+      <italic>
+       et al
+      </italic>
+      .      ; Zaccara
+      <italic>
+       et al
+      </italic>
+      .      ).
+     </p>
+    </sec>
+    <sec id="Sec14">
+     <title>
+      N1-methyladenosine
+     </title>
+     <p id="Par22">
+      N1-methyladenosine (m1A) refers to methylation at the N1 position of adenosine. m1A blocks base-pairing at the Watson-Crick interface, unlike m6A and other adenosine methylations, affecting the RNA secondary structure and protein-RNA interactions (Dominissini
+      <italic>
+       et al
+      </italic>
+      .      ; Roundtree
+      <italic>
+       et al
+      </italic>
+      .      ). tRNA and rRNA abound with m1A. m1A correlates with the upregulation of translation due to its unique position near translation start sites and the first splice site of the coding transcripts. ALKBH3 demethylates m1A in response to cellular stresses (Dominissini
+      <italic>
+       et al
+      </italic>
+      .      ; Roundtree
+      <italic>
+       et al
+      </italic>
+      .      ).
+     </p>
+    </sec>
+    <sec id="Sec15">
+     <title>
+      5-methylcytosine
+     </title>
+     <p id="Par23">
+      RNA methyltransferases NSUN2 and DNMT2 methylate RNA at the fifth position of cytosine (5mC) (Goll
+      <italic>
+       et al
+      </italic>
+      .      ; Hussain
+      <italic>
+       et al
+      </italic>
+      .      ; Dev
+      <italic>
+       et al
+      </italic>
+      .      ). Several findings have revealed that 5mC distributes on precise mRNA regions and, 5′ and 3′ UTRs, a binding site for argonaute proteins (Squires
+      <italic>
+       et al
+      </italic>
+      .      ). 5mC stabilizes RNA structures by promoting base stacking leading to the increased thermal stability of hydrogen bonding with guanosine. 5mC stabilized tRNAs influence the anti-codon stem-loop conformation and translational fidelity of rRNA. ALYREF, an mRNA export adaptor protein, recognizes and exports m5C transcripts (Squires and Preiss      ; Roundtree
+      <italic>
+       et al
+      </italic>
+      .      ).
+     </p>
+    </sec>
+    <sec id="Sec16">
+     <title>
+      2\\-OH methylation
+     </title>
+     <p id="Par24">
+      2\\-OH methylation of ribose is frequent in RNAs. In piRNA, 2′-O-me is vital for its recognition by Piwi-Claude argonautes over Ago-Claude proteins. 2′-O-me affects secondary structures of RNA and their interactions with proteins. 2′-O-me exists in the second and third nucleotides, which may also have adenosines methylated at the sixth position, and together they form m6Am modification and rescue mRNA from degradation (Kurth and Mochizuki      ; Roundtree
+      <italic>
+       et al
+      </italic>
+      .      ).
+     </p>
+    </sec>
+    <sec id="Sec17">
+     <title>
+      Pseudo uridine
+     </title>
+     <p id="Par25">
+      Uridine can isomerize to give the fifth nucleotide—pseudo uridine (Ψ). Ψ provides an additional hydrogen bond donor, helps in the proper folding of rRNA, and stabilizes the C-C bond and tRNA structure (Roundtree
+      <italic>
+       et al
+      </italic>
+      .      ).
+     </p>
+    </sec>
+    <sec id="Sec18">
+     <title>
+      Adenosine-to-Inosine RNA editing
+     </title>
+     <p id="Par26">
+      Adenosine deaminases acting on RNA (ADARs) deaminates adenosine to inosine, which pairs with cytosine. A-to-I editing recodes the transcript by pairing inosine non-canonically with guanosine, altering protein sequences, and affecting splicing and miRNA biogenesis (Bass      ; Roundtree
+      <italic>
+       et al
+      </italic>
+      .      ).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec19">
+    <title>
+     Non-coding RNA
+    </title>
+    <p id="Par27">
+     Genome-wide deep sequencing studies reveal that mammalian transcriptomes are only partially translated into proteins; studies estimate that 80,000 out of 100,000 RNAs remain untranslated and are known as non-coding RNAs. They are divided mainly into two classes based on length as long non-coding RNA (&gt;200nt) and short non-coding RNA (&lt;200nt). Non-coding RNAs influence gene expression at both transcriptional and post-transcriptional levels. As genome complexity evolved across organisms, non-coding RNA count correspondingly increased with number of protein-coding genes remaining relatively static (Derrien
+     <italic>
+      et al
+     </italic>
+     .     ).
+    </p>
+    <sec id="Sec20">
+     <title>
+      Long non-coding (long ncRNA) RNA
+     </title>
+     <p id="Par28">
+      Long ncRNAs recruit chromatin-remodeling complexes. The components of PRC1 and PRC2 chromatin remodelling complexes, which establish repressive histone mark H3K27me3, interact with ncRNA. For example, Xist, a long ncRNA, expresses from X-chromosome and binds to PRC1 and PRC2 protein complexes, establishes H3K27me3 and also recruits histone deacetylases and DNMT3A to methylate CpG (Ponting
+      <italic>
+       et al
+      </italic>
+      .      ; Derrien
+      <italic>
+       et al
+      </italic>
+      .      ).
+     </p>
+    </sec>
+    <sec id="Sec21">
+     <title>
+      Small non-coding RNA
+     </title>
+     <p id="Par29">
+      Small non-coding RNAs are either structural (ribosomal, transfer, small nuclear, small nucleolar RNAs) or regulatory (miRNA, siRNA, piRNA) in nature. Small non-coding RNAs mediate post-transcriptional interference—a powerful mechanism for gene silencing. miRNAs are evolutionarily conserved 20 to 24 nucleotides single-stranded RNA molecules. Mature miRNAs are processed from imperfectly paired hairpin pre-precursor miRNA by the action of Drosha and Dicer. Mature miRNA interacts with Argonaute (Ago) proteins to form the RNA-induced silencing complex (RISC) and targets 3′UTRs to guide gene silencing. siRNAs are similar to miRNA in size and function. However, Dicer processes the mature siRNA from a long, linear dsRNA precursor. Processed siRNA is loaded onto RISC, which degrades the target mRNA. siRNAs are thought to be protecting the genome from invasion by viruses and transposons (Krol
+      <italic>
+       et al
+      </italic>
+      .      ). piRNAs vary from 24 to 31 nucleotides and contain uridine at the 5′ end, and 2′-O-methylation at the 3′ end. piRNAs get their name from Piwi proteins of the Argonaute family that process the single-stranded precursor to anti-sense RNAs. The primary role of piRNA is to cleave transposons and protect the germline, which generates sense piRNAs arising from the target transposons. The anti-sense and sense piRNAs enter into a \\Ping-Pong\\ cycle increasing the piRNA pool (Czech and Hannon      ).
+     </p>
+     <p id="Par30">
+      RNA-induced silencing complexes (RISCs) is a versatile gene-silencing machine that contains a complex of different proteins. RISC co-localizes with target RNAs and generates gene-silencing pathways. RISC can repress protein synthesis, degrade target RNA, and establish heterochromatin. The RISC core is composed of two modules: (i) a small regulatory RNA such as siRNA, miRNA, piRNA, rasiRNA, tasiRNA, tncRNA, hcRNA, scnRNA which function as a guide by establishing Watson-Crick base pairing with their targets and (ii) a highly conserved argonaute protein bound to the small RNA along with associated proteins. The exact composition of the RISC complex varies with different determinants like associated RNA type, the function, and the subcellular location (Paroo
+      <italic>
+       et al
+      </italic>
+      .      ).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec22">
+    <title>
+     Microbial interaction with the host epigenetic machinery
+    </title>
+    <p id="Par31">
+     Host mammalian cells interact with several types of microbes including bacteria, viruses, fungi, protozoa, etc. Microbial interaction could be intracellular or extracellular. It could be binary (one host, one microbe), or consortia (Eloe-Fadrosh and Rasko     ). The interaction could be commensal or pathogenic. Presented below is a brief review of literature which describes modulation of the host epigenetic circuitry by microbes.
+    </p>
+    <sec id="Sec23">
+     <title>
+      Bacteria and the host epigenetic circuitry
+     </title>
+     <p id="Par32">
+      Bacterial factors can modify DNA by incorporating foreign genetic material into the genome, alter the availability of chemical donors for modifying histone or DNA by producing metabolites, and directly interact with the host modifying enzymes such as HMTs, HDACs, and DNMTs. Pathogenic as well as commensals, can modulate the host epigenetic machinery for their survival. They have an array of epigenetic modifiers that follow different modes of action; interact with the target receptor leading to a signalling cascade, target an intracellular host protein to mediate a modified signalling cascade or self-modify the target host protein directly (Cortese
+      <italic>
+       et al
+      </italic>
+      .      ). In the following section, we discuss the available literature on the epigenetic interaction of the various bacterial species that are known to have a symbiotic or pathogenic relationship with humans. The summary of bacterial mode of interaction with host epigenetic machinery is summarized in table      .
+     </p>
+     <sec id="Sec24">
+      <title>
+       Bacteroides
+      </title>
+      <p id="Par33">
+       Bacteroides (gram-negative, bile resistant, anaerobic and non-spore forming) form one of the earliest arising lineages of bacteria in a human infant, bacteria which the mother passes to the child during birth. Bacteroides are commensal until they escape from the gut due to GI tract rupture or surgery. Outside the gut they may cause abscess formation in various parts of the body, including the brain, pelvis, lungs, abdomen, and liver (Wexler       ).
+       <italic>
+        B. vulgatus
+       </italic>
+       has been shown to induce inflammatory signalling cascade leading to phosphorylation and acetylation of histone H3. Studies have shown that it can maintain homeostasis via TGFβ1/ Smad signalling and by regulating NF-kB signalling in the intestinal epithelium through reduction in H3 acetylation levels and recruitment of HDAC at pro-inflammatory gene promoters.
+      </p>
+      <p id="Par34">
+       Metabolites sulforaphane cysteine and sulforaphane N-acetyl-cysteine from cruciferous vegetables and allyl mercaptan and diallyl disulfide from garlic by
+       <italic>
+        B. thetaiotaomicron
+       </italic>
+       are potent histone deacetyltransferase inhibitors (Haller
+       <italic>
+        et al
+       </italic>
+       .       ; Bhat and Kapila       ). Epigenetic modifications have also been identified in the genome of
+       <italic>
+        B. dorei
+       </italic>
+       during metagenomic analysis of stool samples. The study indicated the presence of m6A methylation at 20,551 GATC sites within the bacterial genome distributed over the gene body as well as intergenic regions. The study also highlighted methylation of the Ton and Tol transport system, an energy source for transporting across the outer membranes in gram-negative bacteria (Leonard
+       <italic>
+        et al
+       </italic>
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec25">
+      <title>
+       Bifidobacterium
+      </title>
+      <p id="Par35">
+       <italic>
+        Bifidobacterium
+       </italic>
+       is one of the earliest microbes that colonizes the gut of an infant. It is amongst the various bacteria that are part of probiotics, nutraceuticals, and dairy products.
+       <italic>
+        Bifidobacteria
+       </italic>
+       genomic DNA has high G+C content. Studies have shown that unmethylated CpG motifs from the bifidobacterial genome interact with TLR9 (Toll-like Receptor-9) present on immune cells promoting T
+       <sub>
+        h
+       </sub>
+       1 response, which fights against intracellular viral pathogens.
+      </p>
+      <p id="Par36">
+       Lack of folate or the methyl group (from SAM) in the diet is associated with DNA hypo-methylation in rats and humans. Folate abundance affects the efficiency of DNA methylation, repair, and replication.
+       <italic>
+        Bifidobacterium
+       </italic>
+       strains are known to produce folate. One of the
+       <italic>
+        Bifidobacterium
+       </italic>
+       strains BGN4 is also known to produce S-Adenosyl-
+       <sc>
+        l
+       </sc>
+       -methionine (SAM), a methyl donor and a substrate for methylation reaction (Pompei
+       <italic>
+        et al
+       </italic>
+       .       ; Ruiz
+       <italic>
+        et al
+       </italic>
+       .       ). In addition,
+       <italic>
+        B. breve
+       </italic>
+       has been shown to reduce global histone H4 and H3S10/K14 acetylation and increases DNA methylation in HT29 cells (Ghadimi
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec26">
+      <title>
+       Faecalibacterium
+      </title>
+      <p id="Par37">
+       Bacteria of
+       <italic>
+        Faecalibacterium
+       </italic>
+       species belongs to the phylum firmicutes.
+       <italic>
+        F. prausnitzii
+       </italic>
+       is an oxygen-sensitive, spore-forming gut commensal, and has been considered as a marker of health because of its low abundance in Inflammatory Bowel Disease (IBD). It secretes factors that cause immunomodulation, inhibition of NF-kB activation and IL-1β mediated IL-8 secretion in Caco-2 cells (Miquel
+       <italic>
+        et al
+       </italic>
+       .       ). Studies have uncovered that mothers having higher levels of firmicutes show hyper-methylation of promoters of 568 genes and hypo-methylation of promoters of 245 genes (Kumar
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+      <p id="Par38">
+       <italic>
+        Faecalibacterium
+       </italic>
+       produces butyrate in the gut, which constitutes a preferred energy source for colonic epithelial cells. Butyrate is a short-chain fatty acid (SCFA) rapidly absorbed by the lumen of the colon and is a recognized HDAC inhibitor. Butyrate induces colonic Treg cell differentiation by increasing the level of histone H3 acetylation at the promoter and conserved regions of Foxp3 and functions as a tumour suppressor against colonic cancer by decreasing proliferation and increasing apoptosis through inhibition of miR-92a transcripts. Butyrate also derepresses epigenetically silenced genes (such as p21 and BAK) in cancer cells (Paul
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec27">
+      <title>
+       Lactobacillus
+      </title>
+      <p id="Par39">
+       <italic>
+        Lactobacilli
+       </italic>
+       are members of lactic acid bacteria (LAB) family, characterized by their carbohydrate metabolism leading to lactic acid production. These bacteria are commonly used as probiotics since they can colonize the oral cavity, GI tract, and vagina in humans as well as other mammals (Walter       ). Exposure to
+       <italic>
+        Lactobacillus
+       </italic>
+       spp. (singly or in combination with
+       <italic>
+        E. coli
+       </italic>
+       ) reduces global histone H3 and H4 acetylation levels in colonic cancer cell line Caco2. Global DNA methylation levels remain unaffected when Caco2 cells are exposed to
+       <italic>
+        Lactobacillus
+       </italic>
+       spp. alone but in combination with
+       <italic>
+        E. coli
+       </italic>
+       the level show significant alteration (Bhat
+       <italic>
+        et al
+       </italic>
+       .       ). Co-incubation of
+       <italic>
+        L. rhamnosus
+       </italic>
+       GG increases global DNA methylation and reduces histone H4 and H3Ser10/Lys14 acetylation in HT29 cells (Ghadimi
+       <italic>
+        et al
+       </italic>
+       .       ). This co-incubation also leads to downregulation of p38 by upregulation of miR-155 (Giahi
+       <italic>
+        et al
+       </italic>
+       .       ). Co-incubation with
+       <italic>
+        L. acidophilus
+       </italic>
+       enhances the expression of genes that are silenced in colorectal cancer (CRC) by DNA methylation (
+       <italic>
+        Icam
+       </italic>
+       <bold>
+        5
+       </bold>
+       <italic>
+        , Clstn
+       </italic>
+       <bold>
+        2
+       </bold>
+       <italic>
+        , Ppm1e, Runx
+       </italic>
+       <bold>
+        3
+       </bold>
+       <italic>
+        , Timp
+       </italic>
+       <bold>
+        3
+       </bold>
+       <italic>
+        , Rgl
+       </italic>
+       <bold>
+        1
+       </bold>
+       <italic>
+        , and Rassf1a
+       </italic>
+       ) (Lightfoot
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+      <p id="Par40">
+       Among vaginal commensals,
+       <italic>
+        L. gasseri
+       </italic>
+       and
+       <italic>
+        L. reuteri
+       </italic>
+       have been shown to modulate the gene expression of the
+       <italic>
+        DEFB
+       </italic>
+       <bold>
+        1
+       </bold>
+       (Defensin Beta-1) gene, which encodes for antimicrobial peptide human β-defensin-1. In vaginal keratinocyte cells VK2/E6E7, this modulation is bacterial species dependent;
+       <italic>
+        L. gasseri
+       </italic>
+       causes enrichment of H3K4me3 and acetylation of H3 at the promoters with increased DEFB1 expression but
+       <italic>
+        L. reuteri
+       </italic>
+       shows an opposite effect (Lee
+       <italic>
+        et al
+       </italic>
+       .       ). Lactate produced by Lactic acid bacteria inhibits HDAC and enhances HDAC associated gene expression but is not as proficient as trichostatin and butyrate (Latham
+       <italic>
+        et al
+       </italic>
+       .       ). In mouse model,
+       <italic>
+        L. plantarum
+       </italic>
+       was shown to induce differential methylation of transcripts involved in cellular function and maintenance, cellular assembly, and vitamin metabolism (Jabs
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec28">
+      <title>
+       Fusobacterium
+      </title>
+      <p id="Par41">
+       <italic>
+        Fusobacterium
+       </italic>
+       is a typical oral microbiota and has symbiotic relationship with the human. However, it is also an opportunistic pathogen and may cause colorectal cancer (Brennan and Garrett       ).
+       <italic>
+        F. nucelatum
+       </italic>
+       has been shown to epigenetically lower the gene expression of DNMT1 and HDAC2 in gingival epithelial cells (GEC) as well as human immortalized keratinocyte cell lines (TERT).
+       <italic>
+        F. nucelatum
+       </italic>
+       can induce
+       <italic>
+        CCL
+       </italic>
+       <bold>
+        20
+       </bold>
+       and
+       <italic>
+        hBD
+       </italic>
+       <bold>
+        2
+       </bold>
+       expression in the oral cavity by acetylation and methylation. It has also been shown to cause hypomethylation of
+       <italic>
+        Elastase
+       </italic>
+       <bold>
+        2
+       </bold>
+       and
+       <italic>
+        GATA
+       </italic>
+       <bold>
+        3
+       </bold>
+       genes and hypermethylation of
+       <italic>
+        MALT
+       </italic>
+       <bold>
+        1
+       </bold>
+       gene. In addition, co-incubation with
+       <italic>
+        Fusobacterium
+       </italic>
+       affects the expression of genes involved in epigenetic modifications. It downregulates histone
+       <italic>
+        H2AFY
+       </italic>
+       ,
+       <italic>
+        HELLS
+       </italic>
+       (helicase implicated in chromatin remodelling),
+       <italic>
+        PRMT
+       </italic>
+       <bold>
+        7
+       </bold>
+       , and
+       <italic>
+        HDAC
+       </italic>
+       <bold>
+        3
+       </bold>
+       and upregulates
+       <italic>
+        CXXC
+       </italic>
+       <bold>
+        1
+       </bold>
+       <italic>
+        , PHF
+       </italic>
+       <bold>
+        8
+       </bold>
+       <italic>
+        , IGF
+       </italic>
+       <bold>
+        2
+       </bold>
+       <italic>
+        , SUV39H
+       </italic>
+       <bold>
+        1
+       </bold>
+       <italic>
+        ,
+       </italic>
+       and
+       <italic>
+        CARM
+       </italic>
+       <bold>
+        1
+       </bold>
+       (Yin and Chung       ).
+      </p>
+     </sec>
+     <sec id="Sec29">
+      <title>
+       Escherichia coli
+      </title>
+      <p id="Par42">
+       <italic>
+        E. coli
+       </italic>
+       is a prominent inhabitant of the gut microflora. It is a commensal and helps to maintain gut homeostasis, but transforms into pathogenic strain upon acquiring chromosomal or extrachromosomal virulence operons (Duriez
+       <italic>
+        et al
+       </italic>
+       .       ). Pathogenic
+       <italic>
+        E. coli
+       </italic>
+       causes urinary tract infections (UroPathogenic
+       <italic>
+        E. coli
+       </italic>
+       —UPEC), diarrhoea in young children (EnteroPathogenic
+       <italic>
+        E. coli
+       </italic>
+       —EPEC), and haemolytic uremic syndrome (EnteroHemorrhagic
+       <italic>
+        E. coli
+       </italic>
+       —EHEC). Uropathogenic
+       <italic>
+        E. coli
+       </italic>
+       has been shown to cause changes in histone acetylation and DNA methylation in the host during infections (Tolg
+       <italic>
+        et al
+       </italic>
+       .       ). Commensal
+       <italic>
+        E. coli
+       </italic>
+       interacts with host epigenetic machinery via the production of membrane vesicles (MVs). Upon exposure of HCT8 cell line to commensal
+       <italic>
+        E. coli
+       </italic>
+       MVs, upregulation of 738 out of 1434 differentially expressed genes was observed. H3K4me3 increased at the transcription start site (TSS) of the upregulated genes. Also, MVs remodelled chromosomes by opening chromatin or relaxing chromosome at TSS of upregulated genes leading to increased accessibility of nucleosome-free DNA to the transcription machinery (Vdovikova
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec30">
+      <title>
+       Anaplasma phagocytophilum
+      </title>
+      <p id="Par43">
+       <italic>
+        Anaplasma phagocytophilum
+       </italic>
+       is a tick-transmitted obligate intracellular rickettsial pathogen that causes human granulocytic anaplasmosis. Bacteria of this species abrogate essential antimicrobial functions of the host cell to survive inside the hostile environment of neutrophils by replicating within vacuoles and secreting effectors through a bacterial type IV secretion system (T4SS) (Borjesson
+       <italic>
+        et al
+       </italic>
+       .       )
+       <bold>
+        .
+       </bold>
+       One such effector is AnkA, which contains ankyrin (Ank) repeats usually found in eukaryotic nuclear transcription factors (Garcia-Garcia
+       <italic>
+        et al
+       </italic>
+       .       ). AnkA binds to the AT-rich promoter of
+       <italic>
+        CYBB
+       </italic>
+       gene in the granulocyte nucleus recruiting HDAC1 and leading to the deacetylation of H3 (Rennoll-Bankert
+       <italic>
+        et al
+       </italic>
+       .       ). The reprogramming represses CYBB encoded β—subunit of NOX2, which mediates superoxide anion production
+       <bold>
+        .
+       </bold>
+       The superoxide deprivation abolishes a critical mechanism of bacterial elimination from infected neutrophils and presents the pathogen a significant survival advantage. AnkA is also known to target other AT-rich sites, at various chromosomal locations and associated with nuclear protein matrix attachment regions (MARs), and changing the 3D structure of the chromatin by directing chromosomal remodeling dynamics (Dumler
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec31">
+      <title>
+       Bacillus anthracis
+      </title>
+      <p id="Par44">
+       <italic>
+        Bacillus anthracis
+       </italic>
+       is an anthrax causing endospore-forming bacterium that produces a lethal toxin (LT) which disrupts MAPK signalling by inactivating MAPKKs (Bardwell
+       <italic>
+        et al
+       </italic>
+       .       ). LT-mediated inhibition downregulates H3S10ph and H3K14ac at IL-8 promoter in lung epithelial cells and deacetylates HDAC8 mediated H3K27ac at IL1-β enhancer in macrophages (Ha
+       <italic>
+        et al
+       </italic>
+       .       ).
+       <italic>
+        B. anthracis
+       </italic>
+       also produces a Lysine methyltransferase (BaSET) that enters the nuclei and carries out H1 lysine trimethylation upon infection in macrophages (Mujtaba
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec32">
+      <title>
+       Burkholderia complex
+      </title>
+      <p id="Par45">
+       Members of Burkholderia complex including
+       <italic>
+        B. pseudomallei
+       </italic>
+       and
+       <italic>
+        B. thailandensis
+       </italic>
+       cause human melioidosis. Although non-pathogenic,
+       <italic>
+        B. thailandensis
+       </italic>
+       infections in human are reported. They also produce a Lysine methyltransferase, BtSET that targets H3K4. BtSET associates with ribosomal DNA promoters during
+       <italic>
+        in vitro
+       </italic>
+       ectopic expression in cell lines (Li
+       <italic>
+        et al
+       </italic>
+       .       )
+       <bold>
+        .
+       </bold>
+       In addition, aberrant DNA methylation has been observed at genomic loci associated with pathogen-induced signalling, intracellular signalling, inflammatory responses, and apoptosis during
+       <italic>
+        B. pseudomallei
+       </italic>
+       infection (Cizmeci
+       <italic>
+        et al
+       </italic>
+       .       ). Furthermore,
+       <italic>
+        B. thailandensis
+       </italic>
+       infection has been shown to cause significant downregulation of
+       <italic>
+        DNMT3B, HDAC
+       </italic>
+       <bold>
+        1
+       </bold>
+       <italic>
+        ,
+       </italic>
+       and
+       <italic>
+        HDAC
+       </italic>
+       <bold>
+        2
+       </bold>
+       (Krishnananthasivam
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec33">
+      <title>
+       Chlamydia
+      </title>
+      <p id="Par46">
+       <italic>
+        Chlamydia trachomatis
+       </italic>
+       causes a wide assortment of diseases such as trachoma (eye infection), inflammation of the urethra and pelvis, ectopic pregnancy, neonatal infections, and lymphogranuloma venereum, a sexually transmitted disease. It has been shown to secrete a nuclear effector (NUE), which is a SET domain harbouring histone methyltransferase that can methylate host histones H2B, H3, and H4 (Pennini
+       <italic>
+        et al
+       </italic>
+       .       ).
+       <italic>
+        Chlamydophila pneumoniae
+       </italic>
+       , which causes pharyngitis, bronchitis, and atypical pneumonia in humans, encodes a SET domain protein cpnSET that can methylate histone H3 (Murata
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+      <p id="Par47">
+       <italic>
+        Chlamydophila psittaci
+       </italic>
+       , which causes pneumonia (systemic infection) as well as psittacosis or ornithosis (latent and persistent infection), is associated with ocular adnexal marginal zone B-cell lymphoma (OAMZL) in humans. Aberrant CpG island methylation and E-cadherin (CDH1) gene hypermethylation are characteristic of OAMZL (Choung
+       <italic>
+        et al
+       </italic>
+       .       ).
+       <italic>
+        C. psittaci
+       </italic>
+       also secretes SinC, a chromatin-anchoring modulator that targets host nuclear inner membrane proteins such as MAN1 and LAMP1 and is correlated with the reorganization of the chromatin (Mojica
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec34">
+      <title>
+       Ehrlichia chaffeensis
+      </title>
+      <p id="Par48">
+       <italic>
+        Ehrlichia chaffeensis
+       </italic>
+       , a tick-transmitted rickettsial pathogen causes human monocytotropic ehrlichiosis. This pathogen reprograms the mononuclear phagocyte landscape by secreting bacterial type I secretion system (T1SS) effectors, namely Ank200 (p200), tandem repeat containing protein (TRP) 32, TRP47 and TRP120 (Wakeel
+       <italic>
+        et al
+       </italic>
+       .       ). p200 binds to chromatin at AT-rich regions termed as Alu-Sx elements and targets a wide array of genes involved in intracellular trafficking, cytoskeletal rearrangement genes, immune response, cell signalling and transcriptional/translational regulation, leading to substantial dysregulation of the host cellular environment (Zhu
+       <italic>
+        et al
+       </italic>
+       .       ). The serine-rich TRPs, TRP32 and TRP120 bind to G-rich and G+C-rich motifs in the host DNA, respectively. They also bind to epigenetic modulators such as chromatin-remodelling complexes, polycomb-group (PcG) proteins, and histone modifiers (Luo
+       <italic>
+        et al
+       </italic>
+       .       ). TRP120 interacts with the RING domain of PCGF5, a PRC1-like complex component through a C-terminal HECT E3 domain, to target PCGF for polyubiquitination (Dunphy
+       <italic>
+        et al
+       </italic>
+       .       ). The degradation of PCGF concurs with a reduction in histone H2A ubiquitinated at lysine 119, leading to transcriptional activation of the target genes. TRP47 harbours an MYND-binding domain and translocates to the nucleus and binds to G+C-rich motifs (Kibler
+       <italic>
+        et al
+       </italic>
+       .       ). TRPs redundantly target transcriptional regulation, signal transduction, apoptosis, immune cell differentiation, chromatin remodelling, and RNA transcription genes (Farris
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec034">
+      <title>
+       Helicobacter pylori
+      </title>
+      <p id="Par50">
+       <italic>
+        Helicobacter pylori
+       </italic>
+       can invade gastric epithelial cells and survive in mononuclear phagocytes and neutrophils by disrupting phagosome maturation.
+       <italic>
+        H. pylori
+       </italic>
+       secrete HP0175, a peptidyl-prolyl cis-, trans isomerase (PPIase), which activates IL-6 promoter leading to MAP kinases mediated MSK1 phosphorylation that in turn transiently dephosphorylates H3S10ph and H3T3ph, reduces H3K23ac and NF-κB subunit p65 phosphorylation. Increased expression of p21WAF, a cell cycle regulator, fostered by
+       <italic>
+        H. pylori
+       </italic>
+       infection, removes HDAC1 from the promoter and leads to hyperacetylation of H4. In addition,
+       <italic>
+        H. pylori
+       </italic>
+       encoded effectors alter host epigenetic circuitry indirectly by releasing inflammatory cytokines (Xia
+       <italic>
+        et al
+       </italic>
+       .       ; Fehri
+       <italic>
+        et al
+       </italic>
+       .       ).
+       <italic>
+        H. pylori
+       </italic>
+       infection also promotes aberrant 5mC patterns at CpG islands of miRNA genes, the E-cadherin gene CDH1, DNA repair genes such as MLH1 and tumour suppressor genes such as USF1/2 and WWOX (Chan
+       <italic>
+        et al
+       </italic>
+       .       ; Ando
+       <italic>
+        et al
+       </italic>
+       .       ; Bussière
+       <italic>
+        et al
+       </italic>
+       .       ; Yan
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec35">
+      <title>
+       Legionella pneumophila
+      </title>
+      <p id="Par51">
+       <italic>
+        Legionella pneumophila
+       </italic>
+       causes Legionnaire\\s disease by infecting alveolar macrophages. In lung epithelial cells, flagellin, a component of the flagellum, activates NF-κB/RelA and p38 MAPK signalling pathway causing acetylation of H3 and H4 and phosphorylation of H3 (Schmeck
+       <italic>
+        et al
+       </italic>
+       .       ).
+       <italic>
+        L. pneumophila
+       </italic>
+       secretes four T4SS effectors: a SET domain and Ank repeat harboring histone methyltransferase LpSET, AnkX, SnpL, and AnkH. LpSET, a secreted protein, has been shown to modulate rRNA expression in the nucleolus by binding at the promoter and intergenic-spacer regions of the silent rDNA genes through its interaction with chromatin modulator HP1 and dimethylation of histone H3 on lysine 4
+       <bold>
+        .
+       </bold>
+       LpS
+       <italic>
+        et al
+       </italic>
+       so known as RomA, can catalyses trimethylation of histone H3 on lysine 14 at the promoters of genes involved in innate immunity (Li
+       <italic>
+        et al
+       </italic>
+       .       ; Rolando
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+      <p id="Par52">
+       SnpL interferes with mRNA processing and transcription elongation and inhibits SUPT5H, a DRB sensitivity-inducing factor (DSIF) complex component. AnkH targets LARP7, a small nuclear ribonucleoprotein (snRNP) complex component. Both AnkH and SnpL interferes with RNA pol II transcription elongation activity, and together both lead to genome-wide transcriptional reprogramming (Schuelein
+       <italic>
+        et al
+       </italic>
+       .       ; Von Dwingelo
+       <italic>
+        et al.
+       </italic>
+       2019).
+      </p>
+     </sec>
+     <sec id="Sec50">
+      <title>
+       <italic>
+        Listeria
+       </italic>
+       monocytogenes
+      </title>
+      <p id="Par53">
+       Four
+       <italic>
+        Listeria
+       </italic>
+       virulence factors, Listeriolysin (LLO), Internalin B (InlB), Listeria nuclear-targeted protein A (LntA) and OrfX interfere in cellular epigenetic mechanisms. LLO is a pore-forming, cholesterol-dependent cytolysin, which can trigger K+ efflux and is involved in dephosphorylation of H3S10 and deacetylation of H4 at the promoters of proinflammatory chemokine CXCL2, phosphatase DUSP4 and the interferon regulatory factor IRF3 (Hamon
+       <italic>
+        et al
+       </italic>
+       .       ; Hamon and Cossart       )
+       <bold>
+        .
+       </bold>
+       LLO can also degrade Mre11, a double-strand DNA break sensor leading to increased phosphorylation of the histone variant H2AX (Hamon
+       <italic>
+        et al
+       </italic>
+       .       ; Hamon and Cossart       ).
+      </p>
+      <p id="Par54">
+       Internalin B mimics hepatocyte growth factor (HGF), the physiological ligand of c-Met tyrosine kinase receptor, and impacts the chromatin regulation post priming by LLO. Interaction of InlB with cMet activates PI3K—Akt pathway translocating cytoplasmic SIRT2 to the nucleus. The nuclear SIRT2 deacetylates H3K18ac at TSS, which in turn leads to the silencing of genes encoding transcription factors (SMAD1, FOXM, IRF2), chromatin remodelling members (SMARCA2, SAP130) and cell signalling components (MAPK14, PIK3R3, PTPNG, SOS1, VAV3, ABL1, CAMK26, MAP2K6, LEF1, RASGRP1) (Eskandarian
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+      <p id="Par55">
+       LntA accumulates in the host cell nucleus and targets BAHD1. BAHD1, a C-terminal BAH domain-containing protein, is involved in heterochromatinization through DNA methylation, histone modifications, and chromatin remodelling. BAHD1 responds to signalling cues in a cell-type-specific manner and causes gene repression. LntA is also known to subdue HDAC1/2 and BAHD1 recruitment to promoters of Interferon-Stimulated genes (ISG) that leads to deacetylation and upregulation of ISGs (Lebreton
+       <italic>
+        et al
+       </italic>
+       .       ). OrfX binds and reduces cellular RYBP, a transcriptional zinc finger protein, inhibiting E3 ubiquitin ligase MDM2-mediated degradation of p53. Thus, it indirectly provides survival advantage to the bacteria by regulating superoxide and nitric oxide production (Prokop
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec37">
+      <title>
+       Mycobacterium tuberculosis
+      </title>
+      <p id="Par56">
+       <italic>
+        Mycobacterium tuberculosis
+       </italic>
+       (
+       <italic>
+        Mtb
+       </italic>
+       ) is an intracellular bacterium and the causative bacteria of Tuberculosis. One of the most successful pathogenic bacteria known,
+       <italic>
+        Mtb
+       </italic>
+       creates for itself a niche inside the host macrophage by inhibiting the phagosome-lysosome fusion. The modulation of the host cellular machinery by
+       <italic>
+        Mtb
+       </italic>
+       is achieved either directly by secreting bacterial effector molecules that can modulate the host epigenome or indirectly by inducing host signalling pathways. Several studies, including ones from our own laboratory, have shown epigenetic modulation of the host epigenome by mycobacterial proteins. The modulation of the host epigenome takes place either through changes in the DNA methylation, post-translational modification of the histones or via regulatory non-coding RNAs. Differential methylation of the host genome upon
+       <italic>
+        Mtb
+       </italic>
+       infection has been reported. In addition to CpG dinucelotides, the differential methylation was noticed at non-CpG dinucleotide (Sharma
+       <italic>
+        et al
+       </italic>
+       .       ). Rv2966c, a
+       <italic>
+        Mtb
+       </italic>
+       -encoded methyltransferase, secreted into the host cells was found to be responsible for this non-canonical DNA methylation (Sharma
+       <italic>
+        et al
+       </italic>
+       .       ). Both hypermethylation and hypomethylation of DNA were observed at several essential host defence genes. Proteins from
+       <italic>
+        Mycobacterium tuberculosis
+       </italic>
+       are also known to modify the host histones. Rv1988, was found to methylate histone H3 at R42 and suppress genes involved in the first line of host defence (Yaseen
+       <italic>
+        et al
+       </italic>
+       .       ). Rv3423.1 was found to be a histone acetyltransferase that modulates the expression of anti-inflammatory host genes (Jose
+       <italic>
+        et al
+       </italic>
+       .       ). Another mycobacterial protein, Enhanced Intracellular Survival protein (EIS alias Rv2416c) was shown to acetylate H3 at the IL-10 promoter helping M.tb to escape autophagy (Pacis
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec38">
+      <title>
+       Mycobacterium leprae
+      </title>
+      <p id="Par57">
+       <italic>
+        Mycobacterium leprae
+       </italic>
+       (ML), the bacilli that causes human leprosy, establishes infection in adult Schwann cells, primary non-immune target cells causing neurological injury that leads to sensory motor loss. Schwann cells in adults infected with ML undergo a reprogramming that converts Schwann cells into progenitor/stem-like cells (pSLC) and promote bacterial dissemination. In pSLC, mesodermal/EMT genes,
+       <italic>
+        Twist
+       </italic>
+       <bold>
+        1
+       </bold>
+       <italic>
+        , Prrx
+       </italic>
+       <bold>
+        1
+       </bold>
+       <italic>
+        , Tbx
+       </italic>
+       <bold>
+        18
+       </bold>
+       <italic>
+        ,
+       </italic>
+       and
+       <italic>
+        Bmp
+       </italic>
+       <bold>
+        6
+       </bold>
+       , were found to be significantly hypomethylated, leading to a transcriptional activation of these genes. On the other hand,
+       <italic>
+        Sox
+       </italic>
+       <bold>
+        10
+       </bold>
+       was significantly hypermethylated leading to the loss of Sox10 expression. These findings suggest that this reprogramming caused significant epigenetic changes in essential regulatory genes (Masaki
+       <italic>
+        et al
+       </italic>
+       .       ). In addition,
+       <italic>
+        hsa-mir-
+       </italic>
+       <bold>
+        21
+       </bold>
+       RNA has been found to be upregulated upon ML infection leading to inhibited expression of the genes encoding the two vitamin D–dependent antimicrobial peptides, CAMP and DEFB4A (Liu
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec39">
+      <title>
+       Porphyromonas gingivalis
+      </title>
+      <p id="Par58">
+       <italic>
+        Porphyromonas gingivalis
+       </italic>
+       is responsible for periodontitis. This infection significantly decreases global H3K4me3 in gingival epithelial cells (GECs).
+       <italic>
+        P. gingivalis
+       </italic>
+       lipopolysaccharide (Pg LPS) has been shown to significantly reduce the level of DNA methyltransferase, DNMT1 and HDAC1 and upregulate nuclear histone acetyltransferase p300. This was found to be correlated with changed expression of Alzheimer\\s disease-linked genes
+       <italic>
+        APP, APPBP
+       </italic>
+       <bold>
+        2
+       </bold>
+       <italic>
+        , IFNGR
+       </italic>
+       <bold>
+        1
+       </bold>
+       <italic>
+        , MMP
+       </italic>
+       <bold>
+        1
+       </bold>
+       <italic>
+        , MMP
+       </italic>
+       <bold>
+        2
+       </bold>
+       and
+       <italic>
+        MMP
+       </italic>
+       <bold>
+        16
+       </bold>
+       . Loss of KDM3C in both human and mouse macrophages, in response to Pg LPS stimulation, induced pro-inflammatory cytokines, p65 phosphorylation, and accelerated its nuclear translocation. (Imai
+       <italic>
+        et al
+       </italic>
+       .       ; Yin and Chung       ).
+      </p>
+      <p id="Par59">
+       <italic>
+        In vitro
+       </italic>
+       infection with
+       <italic>
+        P. gingivalis
+       </italic>
+       led to an increase in expression of
+       <italic>
+        B
+       </italic>
+       <bold>
+        7
+       </bold>
+       <italic>
+        -H
+       </italic>
+       <bold>
+        4
+       </bold>
+       and lysine demethylase 5B (
+       <italic>
+        KDM5B
+       </italic>
+       ) (Diomede
+       <italic>
+        et al
+       </italic>
+       .       ). Co-expression of B7-H4 and KDM5B correlated significantly with a bacterial load and lead to acetylation of epithelial innate immune response genes
+       <italic>
+        hBD
+       </italic>
+       <bold>
+        2
+       </bold>
+       and
+       <italic>
+        CCL
+       </italic>
+       <bold>
+        20
+       </bold>
+       (Olsen
+       <italic>
+        et al
+       </italic>
+       .       ). In
+       <italic>
+        addition
+       </italic>
+       ,
+       <italic>
+        miRNA-
+       </italic>
+       <bold>
+        203
+       </bold>
+       was also found to be upregulated along with upregulation of
+       <italic>
+        SOCS
+       </italic>
+       <bold>
+        3
+       </bold>
+       (Suppression of cytokine signalling 3) and
+       <italic>
+        SOCS
+       </italic>
+       <bold>
+        6
+       </bold>
+       genes (Lee
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec40">
+      <title>
+       Salmonella
+      </title>
+      <p id="Par60">
+       <italic>
+        Salmonella enterica
+       </italic>
+       acetyltransferase, AAC (60)-ly, belongs to the acetyltransferase superfamily that includes HATs, suggesting that it might be the bacterial ancestor of the eukaryotic HATs.
+       <italic>
+        In vitro
+       </italic>
+       studies have shown that AAC (60)-ly can acetylate histone proteins (Hamon and Cossart       ).
+      </p>
+      <p id="Par61">
+       The nuclear RNA decay factors, MTR4 and RRP6, are involved in the degradation of unstable nuclear ncRNAs, and their loss causes accumulation of unstable nuclear ncRNAs. Salmonella infection triggers the loss of nuclear RNA decay factors, resulting in the accumulation of unstable nuclear ncRNAs, resulting in the upregulation of immune genes (Imamura
+       <italic>
+        et al
+       </italic>
+       .       ). On the other hand, Several members of the miR-15 family inhibit Salmonella infection (Maudet
+       <italic>
+        et al
+       </italic>
+       .       ). In addition, progressive loss of DNA methylation at multiple CpG sites has been observed in Salmonella-infected macrophages (Pacis
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec41">
+      <title>
+       Shigella flexneri
+      </title>
+      <p id="Par62">
+       <italic>
+        Shigella flexneri
+       </italic>
+       targets colonic epithelial cells causing bacillary dysentery.
+       <italic>
+        S. flexneri
+       </italic>
+       secretes four nucleomodulins, IpaB, IpaH9.8, OspB and OspF. OspF, a type III secreted effector protein, is a phosphothreonine lyase. It mediates conversion of a phosphothreonine residue into dehydrobutyrine, leading to irreversible inactivation of MAPK by preventing its phosphorylation (P38 and ERK). This abrogates subsequent histone H3S10 phosphorylation at a subset of NF-kB-regulated promoters and blocks inflammatory gene transcription. OspF also directly interacts with HP1 and dephosphorylates it at S83, by inactivating the kinase MSK1. The activity of OspF is unique, and no eukaryotic homolog has been identified (Arbibe
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+      <p id="Par63">
+       Shigella infection induces an MTOR-dependent upregulation of
+       <italic>
+        mir
+       </italic>
+       <bold>
+        155
+       </bold>
+       and
+       <italic>
+        mir
+       </italic>
+       <bold>
+        31
+       </bold>
+       levels, which in turn targets and regulates PP2A in the macrophages (Holla
+       <italic>
+        et al
+       </italic>
+       .       ). Host miRNA
+       <italic>
+        miR-29b-
+       </italic>
+       <bold>
+        2
+       </bold>
+       <italic>
+        -5p
+       </italic>
+       has been found to have a dual role during Shigella infection. Host cells internalize Shigella, where it replicates and decreases levels of
+       <italic>
+        miR-29b-
+       </italic>
+       <bold>
+        2
+       </bold>
+       <italic>
+        -5p
+       </italic>
+       , which contributes to a balanced intracellular replication, premature cell death evasion, and the efficient dissemination of Shigella to neighbouring cells (Grassl and Finlay       ).
+      </p>
+     </sec>
+     <sec id="Sec42">
+      <title>
+       Streptococcus pneumoniae
+      </title>
+      <p id="Par64">
+       <italic>
+        Streptococcus pneumoniae
+       </italic>
+       is responsible for bacterial pneumonia and meningitis in the upper respiratory tract. Its pore-forming toxin pneumolysin (PLY), along with the pyruvate oxidase SpxB is responsible for H
+       <sub>
+        2
+       </sub>
+       O
+       <sub>
+        2
+       </sub>
+       production. The combined effects of PLY and H
+       <sub>
+        2
+       </sub>
+       O
+       <sub>
+        2
+       </sub>
+       triggers host signalling that dephosphorylates H3S10, mediated by the host cell phosphatase PP1 (Dong
+       <italic>
+        et al
+       </italic>
+       .       ). In addition,
+       <italic>
+        Streptococcus pneumoniae
+       </italic>
+       infection upregulates hsa-miR-200b that might promote pneumonia via targeting of KALRN (Huang
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec43">
+      <title>
+       Pseudomonas aeruginosa
+      </title>
+      <p id="Par65">
+       <italic>
+        P. aeruginosa
+       </italic>
+       , an opportunistic pathogen that typically infects and colonizes inflamed airways (e.g., in cystic fibrosis) and burn wounds, causes pneumonia, urinary tract infections, wound infections, acute otitis, and septicemia. The quorum-sensing signal 2-aminoacetophenone, released by
+       <italic>
+        P. aeruginosa
+       </italic>
+       , induces expression of HDAC1 in human THP-1 monocytes leading to global hypoacetylation of histone H3K18. Changes in acetylation marks dampen the induction of inflammatory cytokines and chemokines, including TNF, IL-1ß, and MCP-1, impairing host cell responses to infection (Bandyopadhaya
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+      <p id="Par66">
+       The secretory Pseudomonas proteins, PopB and PopD enter the host membrane to form a pore to accompany T3SS effectors that leads to potassium (K+) efflux as well as histone H3 modification. PopB–PopD-dependent H3S10 dephosphorylation requires PP1 phosphatase, which affects infection (Dortet
+       <italic>
+        et al
+       </italic>
+       .       ). In addition, microRNA 93 (miR-93), which is highly expressed in basal conditions, decreases during
+       <italic>
+        Pseudomonas
+       </italic>
+       infection along with increased expression of the IL-8 that in turn causes accumulation of neutrophils in the airways, leading to lung injury (Dortet
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec44">
+      <title>
+       Neisseria gonorrhoeae
+      </title>
+      <p id="Par67">
+       <italic>
+        N. gonorrhoeae
+       </italic>
+       causes the sexually transmitted disease gonorrhoea. It can survive in the host both extracellularly and intracellularly. The pathogen harbours the Gc-HDAC gene, a histone deacetylase-like enzyme that shares 3D-homology to human HDAC1, HDAC2, and HDAC8.
+       <italic>
+        N. gonorrhoeae
+       </italic>
+       infection causes reduction in the expression of host defence peptides LL-37, HBD-1, and SLPI in macrophages. It can modify host chromatin with enrichment of the epigenetic mark H3K9ac at the promoters of proinflammatory genes. Initial exposure to
+       <italic>
+        Neisseria
+       </italic>
+       or purified lipooligosaccharides (LOS) from
+       <italic>
+        Neisseria
+       </italic>
+       upregulates
+       <italic>
+        microRNA-146a
+       </italic>
+       , which in turn suppresses immune responses, and facilitates bacterial survival and dissemination (Zughaier
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+      <p id="Par68">
+       In addition, epigenetic modulation of the host cell machinery has also been documented for other bacterial species including
+       <italic>
+        Actinobacteria, Aeromonas, Bordetella, Moraxella, Fusobacterium
+       </italic>
+       and
+       <italic>
+        Clostridium
+       </italic>
+       . Gram-positive
+       <italic>
+        Actinobacteria
+       </italic>
+       reside on human skin and mucosal surfaces and can be both commensal and opportunistic pathogens to humans. They produce metabolites that can interact with and modulate the host epigenetic machinery. Extracts of Actinobacteria
+       <italic>
+        Nocardiopsis
+       </italic>
+       spp cause 60% inhibition of HDAC (comparable to 68% inhibition by the known HDAC inhibitor, trichostatin A) (Varghese
+       <italic>
+        et al
+       </italic>
+       .       ).
+       <italic>
+        Aeromonas hydrophila,
+       </italic>
+       associated with gastroenteritis produces aerolysin, a pore-forming toxin. Aerolysin is known to induce K+ efflux and decreases cellular H3S10phosphorylation ( Hamon and Cossart       ).
+       <italic>
+        Bordetella bronchiseptica
+       </italic>
+       encodes a histone methyltransferase, BbSET, ectopic expression of which in HeLa cells causes dysregulation of ribosomal RNA transcription (Li
+       <italic>
+        et al
+       </italic>
+       .       ).
+       <italic>
+        Moraxella catarrhalis
+       </italic>
+       induces H3S10ph/H3K14ac through inflammatory signalling cascades and downregulates HDAC1/2 expression in bronchial epithelial cells (Slevogt
+       <italic>
+        et al
+       </italic>
+       .       ). Downregulation of DNMT1, HDAC1and HDAC2 has been observed in the periodontal disease caused by
+       <italic>
+        Fusobacterium nucleatum
+       </italic>
+       (Yin and Chung       ). A neurotoxin (BoNT) secreted by
+       <italic>
+        Clostridium botulinum
+       </italic>
+       has been shown to stimulate histone deacetylase HDAC4 and cause differential miRNA expression of miR-1/206 and miR-133 family of miRNAs. (Worton
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+    </sec>
+    <sec id="Sec45">
+     <title>
+      Viral interaction with host epigenetic machinery
+     </title>
+     <p id="Par69">
+      DNA and RNA viruses promote their infectivity and latency when their early proteins interact with cellular regulatory elements of the host, which then serves as the checkpoint for specific or global gene regulation. To modulate their environment for successful infection, different viruses employ strategies of targeting the cellular pool of host factors. Prime candidates for such epigenetic control includes host gene involved in: cell cycle progression, senescence, survival, inflammation, and immunity. Discussed below are some examples of host-viral interaction at the epigenetic front.
+     </p>
+     <sec id="Sec46">
+      <title>
+       Human adenovirus (HAdv)
+      </title>
+      <p id="Par70">
+       Adenoviruses are associated with diseases including gastroenteritis, conjunctivitis, hepatitis, myocarditis, and pneumonia. Human Adenovirus (HAdv) is responsible for 5-7% of global upper respiratory tract paediatric cases, including the common cold. Nuclear replicating viruses have evolved to manipulate the host machinery to promote infection and evade the cellular defence system. Adenoviral infection is correlated with increased acetylation of H3 at the active viral gene promoters. The acetylation leads to increased expression of the active viral genes. Daxx/ATRX histone chaperone complex is required to maintain the H3K9me3 silencing mark at specific heterochromatin loci (Zughaier
+       <italic>
+        et al
+       </italic>
+       .       ). Along with Sp100, the complex restricts viral chromatinization at the early stages of infection. Adenovirus induces E1B‐55K mediated proteasomal degradation of Daxx/ATRX, thereby removing the barricade of viral chromatinization and early-stage infection (Horwitz
+       <italic>
+        et al
+       </italic>
+       .       ; Schreiner
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec47">
+      <title>
+       Kaposi\\s sarcoma-associated virus (KSHV)
+      </title>
+      <p id="Par71">
+       Kaposi\\s sarcoma-associated virus is associated with sarcoma and lymphoproliferative diseases and is known to stay latent for lifetime in the host. The combination of histone modifications serves as a switch for the virus to transform from latent to lytic cycle. The latent viral genome associates with a combination of both active [acetylated H3 (H3ac) and H3K4me3] and repressive [H3K9me3 and H3K27me3] histone modification marks. Upon reactivation, the viral genome shows a gain of H3 acetylation, H3K4 methylation and loss of H3K27me3 at genomic region encoding for IE genes ORF50 and ORF48 (Toth
+       <italic>
+        et al
+       </italic>
+       .       ). Reactivation of the lytic cycle dissipates the H3K27me3 mark ubiquitously deposited on the entire KSHV genome by methyltransferase EZH2. The reactivation also results in decreased H3K27me3 and increased IE/E lytic gene expression (Toth
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+      <p id="Par72">
+       The KSHV genome does not show a gain of DNA methylation upon infection. However, the virus can manipulate host DNA by altering DNA methylation. KSHV encoded latency-associated nuclear antigen (LANA) interacts with DNMT3a, the de novo DNA methyltransferase, and has been shown to downregulate the expression of H-cadherin and TGF-β type II receptor (TβRII) genes through this interaction. By decreasing TβRII expression, KSHV targets both the host anti-proliferative effects as well as the immune response. Upon infection, KSHV encoded ORF50 mRNA acquires m6A methylation mediated stabilization. ORF50 (RTA) serves as a key KSHV lytic switch (Shamay
+       <italic>
+        et al
+       </italic>
+       .       ; Baquero-Perez
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec48">
+      <title>
+       Epstein-Barr virus (EBV)
+      </title>
+      <p id="Par73">
+       Epstein - Barr virus has a biphasic viral life cycle of latency and lytic reactivation. EBV attacks the memory B cells and epithelial cells for persistent latent infection. EBV employs epigenetic reprogramming of self as well as the host cellular machinery to maintain its latency or switch to reactivation/lytic phase. The Trans activator protein BZFL1 functions as a switch from latency to lytic cycle (Bhende
+       <italic>
+        et al
+       </italic>
+       .       ; Dickerson
+       <italic>
+        et al
+       </italic>
+       .       ). EBV DNA acquires CpG methylation after the proliferation of infected cells. BZFL1 binds to the methylated promoter of lytic genes but does not bind to unmethylated DNA efficiently to activate the latent/lytic transition post establishment of latent infection. The EBV chromatin acquires changes in histone modifications between the latent and lytic cycle. During latency, the associated genes such as Cp and the LMP1/LMP2 promoters are associated with active chromatin marks including H3K9ac, H3K27ac, and H3K4ac while transcriptionally silenced gene promoters such as BZLF1 and BRLF1 remain enriched for inactive chromatin marks including H3K9me3 and H3K27me3. Once activated, BZLF1 and BRLF1 interact with the methylated promoters of lytic genes leading to efficient viral replication and progeny production (Ichikawa
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+      <p id="Par74">
+       EBV also epigenetically manipulates the proliferative and anti-apoptotic properties of infected cells for persistent latency. EBV infection leads to depletion of the H3/H4 acetylation marks at the Bim promoter, followed by an increase in CpG methylation. Normally, the promoter of p16 (INK4A) maintains the combination of the repressive H3K27me3 and activating H3K4me3 modification. The EBV nuclear protein EBNA3A increases the H3K27me3 mark at p16 (INK4A) promoter leading to transcriptional silencing of the gene. The reprogramming of Bim and p16 (INK4A) by EBV inhibits cell death and senescence, paving the path for the persistence of latent infection and transformation of host cells. Furthermore, EBV infection down-regulates DNA repair pathway genes by modifying the histone bivalent marks H3K27me3 and H3K4me3 in nasopharyngeal epithelial cells (Leong
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec49">
+      <title>
+       Human immunodeficiency virus (HIV)
+      </title>
+      <p id="Par75">
+       HIV infection causes acquired immunodeficiency syndrome (AIDS). HIV remains transcriptionally silent inside the cells by employing epigenetic reprogramming of the viral and host genes. The interplay of HIV and host has been shown to have an impact on histone modifications, DNA methylation as well as RNA methylation. DNA methylation: The HIV infection is concomitant with changes in host genome CpG methylation and methyltransferase expression levels. FOXP3, interleukin 2 (IL-2), IGFBP6, and SATB2 and CCR5, genes associated with immune response and T cell expression/ activation, gain CpG methylation upon infection (Pion
+       <italic>
+        et al
+       </italic>
+       .       ; Nakayama-Hosoya
+       <italic>
+        et al
+       </italic>
+       .       ; Gornalusse
+       <italic>
+        et al
+       </italic>
+       .       ). The methyl-CpG binding domain protein 2 (MBD2) along with HDAC2 binds to the CpG flanking the TSS of HIV-1, contributing to HIV-1 latency in infected Jurkat cells and primary CD4+ cells (Kauder
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+      <p id="Par76">
+       RNA methylation and ncRNA: Methylation also significantly regulates HIV-1 RNA metabolism and replication. The m5C RNA methyltransferase (MTase) DNMT2 mediated methylation of the HIV genome promotes viral infection by providing post-transcriptional stability to HIV-RNA (Dev
+       <italic>
+        et al
+       </italic>
+       .       ). However, the m5C RNA methyltransferase NOP2/NSUN1 restricts HIV provirus transcription and promotes latency (Kong
+       <italic>
+        et al
+       </italic>
+       .       ). Moreover, HIV infection in CD4+ cells has been correlated with increase in m6A methylation in both HIV RNA and host mRNAs (Lichinchi
+       <italic>
+        et al
+       </italic>
+       .       ). HIV RNA genome also acquires host 2′-O-MTase FTSJ3 dependent internal 2′-O-methylation that aids the virus in escaping MDA5 mediated immune surveillance (Li       ). In addition, HIV encoded antisense ncRNA, ASP, recruits PRC2 complex at HIV promoters, and drives deposition of H3K27me3 resulting in nucleosome assembly and suppressing gene expression. On the other hand, the host ncRNAs MALAT1, uc002yug.2 and HEAL (HIV-1-enhanced lncRNA) regulates HIV transcription (Zapata
+       <italic>
+        et al
+       </italic>
+       .       ; Huan
+       <italic>
+        et al
+       </italic>
+       .       ; Qu
+       <italic>
+        et al
+       </italic>
+       .       )
+      </p>
+      <p id="Par77">
+       Histone modifications: HIV latency has been correlated with CBF-1, c-Myc and Sp1 dependent recruitment of HDAC1 complex to LTR of latent proviruses that inhibits recruitment of RNAPII (Jiang
+       <italic>
+        et al
+       </italic>
+       .       ). Proviral latency is also linked with HKMTs, EZH2 Suv39h1, and CTIP-2 dependent H3K9me3 and H3K27me3 modification of HIV-1 promoter (Friedman
+       <italic>
+        et al
+       </italic>
+       .       ). During early and chronic infection, the polycomb repressive complex 2 (PRC-2) mediates H3K27 trimethylation of HIV-1 LTR leading to transcription repression heterogeneity (Matsuda
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec55">
+      <title>
+       Coronaviruses (CoV)
+      </title>
+      <p id="Par78">
+       Coronaviruses have pathologies in humans as well as in animals with bats as their natural hosts. CoVs are associated with upper respiratory tract pandemics: severe acute respiratory syndrome (SARS), Middle East respiratory syndrome (MERS) and SARS-COV2. SARS-CoV infection causes increase in H3K4me3 and H3K27me3 mark at the promoter of the interferon-stimulated genes (ISGs), leading to active transcription of ISG. MERS-CoV infection leads to increased H3K27me3 and decreased H3K4me3 at ISG promotor (Schäfer and Baric       ) and gain of DNA methylation at the promoters of CIITA, HLA-E, and PSMB9 decreasing interferon-stimulated genes and antigen presentation (Menachery
+       <italic>
+        et al
+       </italic>
+       .       ). The SARS-CoV-2 evades zinc-finger antiviral protein (ZAP), a host antiviral defence, by evolving extreme CpG deficiency (Xia       ).
+      </p>
+      <p id="Par79">
+       Coronaviruses are known to acquire RNA cap methylation to surpass the host antiviral immune response by camouflaging its non-self mRNA as host self mRNA. MERS-CoV encoded SAM dependent 2\\-O-methyltransferase (2\\-O-MTase) and the non-structural protein 16 (nsp16)/nsp10 complex converts 7mGpppG (cap-0) into 7mGpppG2\\Om (cap-1) RNA to escape cellular immune response. SARS CoV-2 has at least 41 RNA modification sites on CoV-2 transcripts, with AAGAA being the most abundant motif. The role in pathogenicity and mechanism of CoV epitranscriptome remains to be elucidated (Kim
+       <italic>
+        et al
+       </italic>
+       .       ; Viswanathan
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+     <sec id="Sec51">
+      <title>
+       Influenza virus
+      </title>
+      <p id="Par80">
+       The influenza virus is categorized into type A, B, and C. Group A virus is associated with severe pandemics such as H1N1 swine-origin flu. The influenza virus translates into cytokine surge in infected host cells. It alters the promoter DNA methylation profile of pro-inflammatory cytokines CXCL14, CCL25, CXCL6, and interleukins IL13, IL17C, IL4R. Cells infected with the HPAI-H5N1 virus show hypomethylation of IL17C and IL13 genes, increasing expression of these interleukins (Mukherjee
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+      <p id="Par81">
+       Influenza virus-encoded nonstructural protein 1 (NS1) interacts with DNMT3B and relocates it to cytoplasm wherein K48-linked ubiquitination results in DNMT3B degradation. The NS1 mediated depletion of DNMT3B hypomethylates key suppressor genes of the JAK-STAT signalling pathway compromising cellular immunity (Liu
+       <italic>
+        et al
+       </italic>
+       .       ). The Influenza virus-encoded nucleoprotein (NP) functions as a histone homolog. Host acetyltransferases GCN5 and PCAF differentially acetylate NP and regulate viral polymerase activity. CAF and GCN5 target Lys-31 and Lys-90 of NP. Acetylation of Lys-90 of NP favours viral polymerase activity, however Lys-31 acetylation suppresses it, suggesting differential regulation of viral replication. H5N1 infections deplete the H3K4me3 activation mark on MHC locus and downregulate antigen presentation gene expression (Hatakeyama
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+      <p id="Par82">
+       Along with these group of viruses, changes in the epigenetic circuitry by viral encoded factors has also been reported for Zika, Ebola and SV40. Zika virus infection of human neural progenitor cells (hNPC) is associated with host methyltransferase METTL3, METTL14, and demethylases ALKBH5 and FTO dependent m6A methylation of viral RNA. (Lichinchi
+       <italic>
+        et al
+       </italic>
+       .       ). Ebola virus encodes a large protein (L protein), which functions as a substrate-specific methyltransferase. It also possesses an internal adenosine-specific 2\\O methyltransferase activity. The 2\\O methylation seems to protect the viral RNA from the host immune system. (Martin
+       <italic>
+        et al
+       </italic>
+       .       ). The simian virus 40, an oncogenic DNA virus, belonging to the Papovaviridae family, has been shown to acquire chromatin organisation with specific histone modifications during infection. SV40 infection is also correlated with increase in steady-state levels of histone acetyltransferase (HAT) p300/CBP (Sáenz Robles
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+    </sec>
+    <sec id="Sec52">
+     <title>
+      Fungal epigenetic modulation during host-pathogen interaction
+     </title>
+     <p id="Par83">
+      Fungal infections have a remarkable impact on human health and survival—with an estimate of 15 million deaths and over 1 billion people being infected—and is a life-threatening disease in immunocompromised patients. Four genera of fungal species contribute to fungal infections:
+      <italic>
+       Aspergillus, Candida, Cryptococcus,
+      </italic>
+      and
+      <italic>
+       Pneumocystis
+      </italic>
+      . Epigenetic modulation of gene silencing and switching is one of the evasion mechanisms of the host immune system, but we inadequately understand it in human fungal pathogens.
+     </p>
+     <sec id="Sec53">
+      <title>
+       Candida albicans
+      </title>
+      <p id="Par84">
+       <italic>
+        C. albicans
+       </italic>
+       localizes to various parts of the human body: skin, genitals, gastrointestinal tracts, and internal organs. Immunity of host, environmental factors, and interactions with other components of resident microbiota influence its pathogenicity.
+       <italic>
+        C. albicans
+       </italic>
+       survive in the human body by extensively adapting to nutrient availability, host immune system, and interacting with the human microbiome such as
+       <italic>
+        S. epidermidis
+       </italic>
+       and
+       <italic>
+        P. acnes.
+       </italic>
+      </p>
+      <p id="Par85">
+       DNA methylation in
+       <italic>
+        C. albicans
+       </italic>
+       is restricted to structural genes that modulate transcriptional activities, whereas repeat sequences and multigene families are comparatively free of DNA methylation; for instance, studies report methylation of INP51, MUC1, and LIP8 genes, which are related to pathogenicity and virulence (Mishra
+       <italic>
+        et al
+       </italic>
+       .       ). The cell wall protein β-glucans induce functional reprogramming of monocytes by elevating H3K4me3 levels at the promoters of TNF-α, IL -6, and IL- 18 through dectin - 1/ Raf - 1 pathway.
+       <italic>
+        C. albicans
+       </italic>
+       protein Rtt109 acetylates H3K56 and exhibits a significant role in virulence in the mouse model (Da Rosa
+       <italic>
+        et al.
+       </italic>
+       ). SUMOylation modulates virulence by targeting CaSlp3 (Stomatin like protein 3) that relocates to the plasma membrane and vacuole (Sahu
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+      <p id="Par86">
+       Apart from the
+       <italic>
+        Candida
+       </italic>
+       species, in
+       <italic>
+        Aspergillus fumigatus
+       </italic>
+       , an opportunistic Saccharomycota fungus, the role of H3K9 methyltransferase ClrD/su(var)3-9 and histone deacetylase Hda1 has been shown (Palmer
+       <italic>
+        et al
+       </italic>
+       .       ). Another opportunistic pathogen,
+       <italic>
+        Cryptococcus neoformans,
+       </italic>
+       has SAGA (Spt3-Ada2-Gcn5) complex that is involved in the remodeling of chromatin through acetylation of histones, and its components Gcn5 and Ada2 are essential for virulence. (O’Meara
+       <italic>
+        et al
+       </italic>
+       .       ).
+      </p>
+     </sec>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec54">
+    <title>
+     Conclusion
+    </title>
+    <p id="Par87">
+     Functional integrity of cells in a multicellular organism is maintained by their epigenetic circuitry. Epigenetic modifications not only modulate gene expression in a cell during development and differentiation but also in response to environmental challenges. The microbes that surround us or reside within our body can have a symbiotic relationship or can cause disease. As discussed in this review, data now exist for several microbial species, including bacteria, viruses and fungi, which demonstrates the interaction of microbial factors with the host chromatin and the epigenetic circuitry. The extracellular microbial interaction with the host epigenetic circuitry can be achieved by (i) binding to the host receptor which can activate downstream signalling cascade leading to modulation of chromatin organisation; or (ii) microbial factors secreted in extracellular milieu which enter host cells and interact with the chromatin directly or indirectly by binding to host factors, which in turn can translocate to the nucleus. Intracellular microbe after entering the host cells can release factors that can (i) interact with host factors having capability of modulating chromatin conformation or (ii) directly interact with chromatin. This interaction of the host and the microbe can have a profound effect on epigenetic modifications and chromatin conformation of multiple genes in the host cell, leading to abnormal cellular functions (figure     ). Multiple microbiome studies (Eloe-Fadrosh and Rasko     ; Cortese
+     <italic>
+      et al
+     </italic>
+     .     ) have brought out the correlation between changes in microbial consortia and human diseases. We, based on the literature discussed above, strongly believe dysregulation of epigenetic circuitry by microorganisms to be the basis of several of these human diseases.
+    </p>
+    <p id="Par88">
+     An organism during its interaction with the environment acquires characters, some of which are transmitted to subsequent generations. Over the past few years, several studies have indicated this transmission to be non-genetic, by the inheritance of epigenetic marks across multiple generations (Thamban v.     ). Therefore, it is possible that the epigenetic changes (sometimes also referred to as epimutations (Zoghbi
+     <italic>
+      et al
+     </italic>
+     .     )), brought out in a cell due to its interaction with a microorganism, are inherited. Whether an epimutation, which is acquired by somatic cells due to its interaction with a microorganism, could passed on to the next generation remains an enigma. However, if this hypothesis is proven to be true, epigenetic interface in the interaction between microbes and human cells could provide a mechanism by which rapid and dynamic co-evolution of the interacting species could be achieved.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

@@ -1,0 +1,2 @@
+id_pmc	sentence location	highlighted phrase	interacting verbs	number of interacting verbs	experimental methods found	number of experimental methods	protein entities found	number of protein entities
+7154749	body	nlea ( also named espi ) , interacts with the pyrin and leucine‐rich repeat domains of ubiquitylated nlrp3 , impairing its deubiquitylation and effectively inhibiting recruitment of caspase‐1 to the inflammasome ( yen , sugimoto , & amp ; tobe , ) .	interact|impair|recruit	3		0	espi|nlrp3|nlea|caspase‐1	4

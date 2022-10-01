@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  None
+ </title>
+ <abstract>
+  <p id="Par1">
+   Recent data show that parasites manipulate the physiology of mosquitoes and human hosts to increase the probability of transmission. Here, we investigate phagostimulant activity of
+   <italic>
+    Plasmodium-
+   </italic>
+   metabolite, (
+   <italic>
+    E
+   </italic>
+   )-4-hydroxy-3-methyl-but-2-enyl pyrophosphate (HMBPP), in the primary vectors of multiple human diseases,
+   <italic>
+    Anopheles coluzzii
+   </italic>
+   ,
+   <italic>
+    An. arabiensis
+   </italic>
+   ,
+   <italic>
+    An. gambiae
+   </italic>
+   s.s.,
+   <italic>
+    Aedes aegypti
+   </italic>
+   , and
+   <italic>
+    Culex pipiens/Culex torrentium
+   </italic>
+   complex species. The addition of 10 µM HMBPP to blood meals significantly increased feeding in all the species investigated. Moreover, HMBPP also exhibited a phagostimulant property in plant-based-artificial-feeding-solution made of beetroot juice adjusted to neutral pH similar to that of blood. The addition of AlbuMAX
+   as a lipid/protein source significantly improved the feeding rate of
+   <italic>
+    An. gambiae
+   </italic>
+   s.l. females providing optimised plant-based-artificial-feeding-solution for delivery toxins to control vector populations. Among natural and synthetic toxins tested, only fipronil sulfone did not reduce feeding. Overall, the toxic-plant-based-artificial-feeding-solution showed potential as an effector in environmentally friendly vector-control strategies.
+  </p>
+  <p id="Par2">
+   Viktoria Stromsky and Melika Hajkazemian et al. examine the potential effect of HMPBB, a
+   <italic>
+    Plasmodium
+   </italic>
+   metabolite, on blood-feeding rates of major vector mosquitoes, like
+   <italic>
+    Anopheles gambiae
+   </italic>
+   . They report that HMBPP significantly increased blood feeding on all tested mosquito species, and suggest that it might be used to stimulate mosquitoes to gorge themselves on toxic baits, and ultimately die.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="Sec1" sec-type="introduction">
+    <title>
+     Introduction
+    </title>
+    <p id="Par3">
+     Half of the world’s population is at risk from mosquito-borne diseases
+     . Quality-assured vector control is identified by the World Health Organization (WHO) as one of the three main strategies to control malaria
+     . Malaria imposes a huge health burden on the world’s most vulnerable population, with children under the age of five the most vulnerable. At present, the best defence is pesticides, nets or repellents. While these measures are only partially effective and have additional drawbacks, the vectors are becoming resistant and altering their behaviour. These trends combined with the global epidemiological burden of vector-borne diseases necessitate a search for new vector-control approaches that reduce vector-to-host transmission capabilities
+     .
+    </p>
+    <p id="Par4">
+     Long-lasting insecticide-treated nets (LLITNs) and indoor residual spraying (IRS) contribute significantly to preventing human contact with malaria vectors and to decreasing malaria cases
+     . However, mosquitoes show high physiological and ecological plasticity and quickly adapt to environmental changes
+     , which leads to increasing insecticide resistance and decreasing effectiveness of LLITNs and IRS
+     . Moreover, diurnal fluctuation in females host-seeking behaviour has been reported in several main malaria vectors. Some anopheline mosquitoes now target human hosts during waking hours, when bed nets are ineffective
+     . It has also been reported that some species changed their host-seeking behaviour from indoors to outdoors
+     . Our current vector-control tools mainly target
+     <italic>
+      Anopheles
+     </italic>
+     vectors that feed and rest indoors at night
+     .
+    </p>
+    <p id="Par5">
+     Development of innovative control methods such as the sterile insect technique (SIT), biotechnological control agents (e.g. endosymbionts), insects carrying a dominant lethal gene (RIDL/gene drive) as well as acoustic larvicides, RNAi-based bioinsecticides, and semiochemicals, i.e. compounds mediating info-chemical interactions between organisms, exhibit increasing success in vector-control strategies combined with low risk of emerging resistance
+     . Vector control is a complex battlefield, and it cannot be achieved by a single method; hence, integrated vector management programmes are essential for targeting vectors at different life stages or/and at various adult mosquito behaviour
+     .
+    </p>
+    <p id="Par6">
+     The attractive toxic sugar bait (ATSB) technique exploits the sugar feeding behaviour of insects, particularly mosquitoes. Male mosquitoes feed exclusively on sugars while females take a carbohydrate meal before or after blood feeding
+     . Mosquitoes locate sugar sources through visual and olfactory cues. The sugar engorgement is stimulated by tarsal contact with sugars. In the ATSB, the sugar source is blended with a toxin and plant volatiles which are usually used to lure mosquitoes towards baits
+     . However, field studies evaluating the effects of ATSB on non-target arthropods revealed that insects from six major orders consumed and were affected by the toxic sugar mix, including eco-economically important insects
+     . One solution for the ATSB’s drawback is to replace the sugar, which enhances the feeding of non-target arthropods, with more species-specific phagostimulants, which would decrease the harmful effect of attract and kill methods.
+    </p>
+    <p id="Par7">
+     Most blood-sucking insects have one phagostimulant in common, adenosine triphosphate (ATP)
+     . ATP in physiological saline has been reported to stimulate gorging
+     in mosquitoes
+     , tsetse flies
+     , tabanids
+     , simulids
+     , fleas
+     and
+     <italic>
+      Rhodnius
+     </italic>
+     . However, ATP degrades at room temperature and is relatively unstable in aqueous solutions
+     . Finding a replacement for ATP is of great importance. The accumulating data show that parasites manipulate host and vector physiology to increase the probability of transmission
+     , which could be exploiteded for innovative vector-control methods. The specific requirement is to develop a vector-control method that targets all hematophagous disease vectors and is independent of species identity, urban or rural environment, and the host preference indoor/outdoor biting. To develop a universal method for the delivery of control agents to vectors, one must first identify a behaviour, characterise the underlying mechanism, bring the vector in close contact with the agent, and then exploit it.
+    </p>
+    <p id="Par8">
+     Recently, a compelling piece of evidence found that malaria parasite,
+     <italic>
+      Plasmodium falciparum
+     </italic>
+     Welch (Haemospororida: Plasmodiidae), releases a semiochemical, (
+     <italic>
+      E
+     </italic>
+     )-4-hydroxy-3-methyl-but-2-enyl pyrophosphate (HMBPP) into blood. Addition of HMBPP in blood and serum meals or even in physiological saline, is sufficient to stimulate 80–100% of the
+     <italic>
+      An. gambiae
+     </italic>
+     sensu lato (s.l.) to gorge
+     , double the number that would gorge on a blood or saline meal alone. HMBPP is an intermediate metabolite from 2-C-methyl-D-erythritol 4-phosphate (MEP) biosynthetic pathway providing building blocks for isoprenoids in some bacteria, plants and eukaryotic apicomplexa, including
+     <italic>
+      Plasmodium
+     </italic>
+     parasites
+     . Given the crucial importance of parasite manipulation for enhancing its transmission, here, we hypothesise that the
+     <italic>
+      Plasmodium
+     </italic>
+     metabolite, HMBPP, increases the mosquito feeding proportion. Accordingly, the direct phagostimulatory effect of HMBPP when included in a toxic-plant-based artificial-feeding solution could be used to fight against multiple mosquito vectors. To test this hypothesis, we first determined the phagostimulatory activity of HMBPP in blood meals among main mosquito vectors,
+     <italic>
+      An. coluzzii
+     </italic>
+     ,
+     <italic>
+      An. arabiensis
+     </italic>
+     ,
+     <italic>
+      An. gambiae
+     </italic>
+     s.s.,
+     <italic>
+      Ae. aegypti
+     </italic>
+     and
+     <italic>
+      Cx. pipiens/Cx. torrentium
+     </italic>
+     . Then, we have optimised a plant-based artificial feeding solution for delivery of natural and synthetic toxins as effectors to kill mosquito vectors. The data showing universal phagostimulatory activity of HMBPP to main malaria vectors provides valuable information for the use of this phagostimulant in vector-control strategies.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec2" sec-type="results">
+    <title>
+     Results
+    </title>
+    <sec id="Sec3">
+     <title>
+      HMBPP stimulates the mosquito feeding behaviour in main mosquito vectors
+     </title>
+     <p id="Par9">
+      An increased propensity of female mosquitoes of all the tested species to land and feed on membrane feeders containing 10 µM HMBPP-supplemented red blood cells (HMBPP-RBCs), compared to control red blood cells (RBCs), was observed. This experiment revealed that HMBPP acted as a phagostimulant for all tested mosquitoes (beta estimation ± SE (b-glmer ± SE):
+      <italic>
+       Ae. aegypti
+      </italic>
+      :
+      <italic>
+       χ
+      </italic>
+      <sub>
+       1
+      </sub>
+      = 99.60,
+      <italic>
+       p
+      </italic>
+      &lt; 0.001;
+      <italic>
+       Cx. pipiens/Cx. torrentium
+      </italic>
+      :
+      <italic>
+       χ
+      </italic>
+      <sub>
+       1
+      </sub>
+      = 124.02,
+      <italic>
+       p
+      </italic>
+      &lt; 0.001;
+      <italic>
+       An. gambiae
+      </italic>
+      s.s.:
+      <italic>
+       χ
+      </italic>
+      <sub>
+       1
+      </sub>
+      = 99.16,
+      <italic>
+       p
+      </italic>
+      &lt; 0.001;
+      <italic>
+       An. arabiensis
+      </italic>
+      :
+      <italic>
+       χ
+      </italic>
+      <sub>
+       1
+      </sub>
+      = 92.36,
+      <italic>
+       p
+      </italic>
+      &lt; 0.001;
+      <italic>
+       An. coluzzii:
+      </italic>
+      <italic>
+       χ
+      </italic>
+      <sub>
+       1
+      </sub>
+      = 96.68,
+      <italic>
+       p
+      </italic>
+      &lt; 0.001) as the proportion of fed mosquitoes doubled when offered HMBPP-RBCs rather than RBCs. To further decipher the phagostimulatory action of HMBPP, we provided the blood meals to mosquitoes and examined the percentage of females that landed and initiated probing and feeding within 10 min (Fig.
+      ). Over 90% of the mosquitoes fed on HMBPP-supplemented blood compared to 20–60% from human blood alone (Fig.
+      ). Hence, HMBPP acted as a phagostimulant to all five vector species with a small variation between species in the time for initiating feeding. The pyrophosphate group is necessary for the phagostimulatory effect, as (2
+      <italic>
+       E
+      </italic>
+      )-2-methylbut-2-ene-1,4-diol, part of the HMBPP molecule without pyrophosphate moiety, displayed no phagostimulatory effect (
+      <italic>
+       χ
+      </italic>
+      <sub>
+       1
+      </sub>
+      = 0.25,
+      <italic>
+       p
+      </italic>
+      = 0.62; Supplementary Fig.
+      ). In addition, we found a significant difference in feeding proportion between species when they offered blood without HMBPP (
+      <italic>
+       χ
+      </italic>
+      <sub>
+       4
+      </sub>
+      = 12.45,
+      <italic>
+       p
+      </italic>
+      &lt; 0.001), which disappeared when the blood is supplemented with HMBPP (
+      <italic>
+       χ
+      </italic>
+      <sub>
+       1
+      </sub>
+      = 0.25,
+      <italic>
+       p
+      </italic>
+      = 0.62). This experiment also demonstrated that there was significant difference among species for initiating time of the feed in control groups (without HMBPP).
+      <italic>
+       An. gambiae
+      </italic>
+      s.s. initiated the blood feeding with fastest record of &lt;1 min, followed by the
+      <italic>
+       Ae. aegypti
+      </italic>
+      ,
+      <italic>
+       An. coluzzii
+      </italic>
+      ,
+      <italic>
+       An. arabiensis
+      </italic>
+      and
+      <italic>
+       Culex
+      </italic>
+      (Supplementary Fig.
+      ;
+      <italic>
+       An. gambiae s.s
+      </italic>
+      . vs
+      <italic>
+       Ae. aegypti
+      </italic>
+      :
+      <italic>
+       z
+      </italic>
+      = 3.67,
+      <italic>
+       p
+      </italic>
+      = 0.002;
+      <italic>
+       Ae. aegypti
+      </italic>
+      vs
+      <italic>
+       An. arabiensis:
+      </italic>
+      <italic>
+       z
+      </italic>
+      = 3.60,
+      <italic>
+       p
+      </italic>
+      = 0.001;
+      <italic>
+       An. arabiensis
+      </italic>
+      vs
+      <italic>
+       An. coluzzii:
+      </italic>
+      <italic>
+       z
+      </italic>
+      = 0.16,
+      <italic>
+       p
+      </italic>
+      = 0.60;
+      <italic>
+       An. coluzzii
+      </italic>
+      vs
+      <italic>
+       Cx. pipiens/Cx. torrentium:
+      </italic>
+      <italic>
+       z
+      </italic>
+      = −4.89,
+      <italic>
+       p
+      </italic>
+      &lt; 0.001). However, variation in the time of detection and initiation of the feeder among species vanished when the blood is supplemented with HMBPP (
+      <italic>
+       χ
+      </italic>
+      <sub>
+       4
+      </sub>
+      = 7.20,
+      <italic>
+       p
+      </italic>
+      = 0.12).
+     </p>
+    </sec>
+    <sec id="Sec4">
+     <title>
+      HMBPP stimulates the mosquito feeding behaviour on plant-based solution with optimal pH
+     </title>
+     <p id="Par10">
+      We investigated the ability of
+      <italic>
+       An. gambiae
+      </italic>
+      s.l. females to feed on plant-based solutions of a beetroot juice with and without HMBPP as well as the effect of physiological pH on feeding activity. Low percentage of feeding was observed on the beetroot juice adjusted to neutral pH, while addition of 10 µM HMBPP to the feeding solution increased activity significantly (
+      <italic>
+       χ
+      </italic>
+      <sub>
+       1
+      </sub>
+      = 12.05,
+      <italic>
+       p
+      </italic>
+      &lt; 0.001) (Fig.
+      ). The juice supplemented with HMBPP at pH = 7 produced the highest proportion of fed mosquitoes, whereas reducing the acidity to pH = 9 significantly decreased the feeding (
+      <italic>
+       z
+      </italic>
+      = 2.90
+      <italic>
+       p
+      </italic>
+      = 0.01) (Fig.
+      ). Acidification of the juice to pH = 4 obliterated the activity (Fig.
+      ).
+     </p>
+    </sec>
+    <sec id="Sec5">
+     <title>
+      Lipid/protein content maximizes mosquito feeding proportion with a plant-based solution
+     </title>
+     <p id="Par11">
+      We next optimised mosquito feeding proportion on a beetroot juice adjusted to pH = 7 and containing phagostimulant, HMBPP, by adding a lipid/protein source. Thereby, mosquitoes were exposed to feeding solutions with and without the lipid/protein source, (0.05%) AlbuMAX
+      , for 10 min. Approximately 80% of
+      <italic>
+       An. gambiae
+      </italic>
+      s.l. females fed when provided AlbuMAX
+      -supplemented artificial plant-based solution compared to 42% of those fed with meal without lipid/protein source (
+      <italic>
+       χ
+      </italic>
+      <sub>
+       1
+      </sub>
+      = 6.28,
+      <italic>
+       p
+      </italic>
+      = 0.01) (Fig.
+      ). When the solution containing AlbuMAX
+      without HMBPP was compared to the solution without AlbuMAX
+      and HMBPP, mosquito feeding proportion did not show any significant difference between these feeders (
+      <italic>
+       χ
+      </italic>
+      <sub>
+       1
+      </sub>
+      = 6.86,
+      <italic>
+       p
+      </italic>
+      = 0.17). Notably, our data showed that activity of HMBPP as a phagostimulant is dependent on factors such as physiological pH of feeding solution and the serum lipid concentration.
+     </p>
+    </sec>
+    <sec id="Sec6">
+     <title>
+      Supplementation of HMBPP to an optimised non-blood solution with synthetic toxin kills vectors
+     </title>
+     <p id="Par12">
+      Toxin feeding was carried out in order to find a potential compound that killed mosquitoes after ingestion. Therefore, the mosquitoes were offered one of four toxic formulations, which contain two natural and two synthetic toxins: namely capsaicin, savory oil, boric acid, and fipronil sulfone, in the optimised non-blood-feeding solution followed by an assessment of the landing, feeding and death rates of each treatment. A significantly lower proportion of mosquitoes landed on the feeders bearing capsaicin, savory oi, and boric acid compare to the proportion of mosquitoes landing on control while fipronil sulfone did not affect landings (capsaicin:
+      <italic>
+       χ
+      </italic>
+      <sub>
+       1
+      </sub>
+      = 84.75,
+      <italic>
+       p
+      </italic>
+      &lt; 0.001; savory oil:
+      <italic>
+       χ
+      </italic>
+      <sub>
+       1
+      </sub>
+      = 64.70,
+      <italic>
+       p
+      </italic>
+      &lt; 0.001; boric acid:
+      <italic>
+       χ
+      </italic>
+      <sub>
+       1
+      </sub>
+      = 90.35,
+      <italic>
+       p
+      </italic>
+      &lt; 0.001; fipronil sulfone:
+      <italic>
+       χ
+      </italic>
+      <sub>
+       1
+      </sub>
+      = 0.95,
+      <italic>
+       p
+      </italic>
+      = 0.29). Even though mosquitoes landed on the membrane feeding containing capsaicin, few of them tasted it, most of them did not probe, and ingest this compound compare to control [capsaicin:
+      <italic>
+       z
+      </italic>
+      = 11.16,
+      <italic>
+       p
+      </italic>
+      &lt; 0.001] (Fig.
+      ). Lower proportions of mosquitoes feeding on solutions containing savory oil and boric acid were registered, compared to the proportion of mosquitoes feeding on the control solution [savory oil:
+      <italic>
+       z
+      </italic>
+      = −11.02,
+      <italic>
+       p
+      </italic>
+      &lt; 0.001; boric acid
+      <italic>
+       z
+      </italic>
+      = 5.64,
+      <italic>
+       p
+      </italic>
+      &lt; 0.001], while the difference in proportion of mosquitoes feeding on the solution containing fipronil sulfone was non-significant in comparison to those feeding on control [
+      <italic>
+       z
+      </italic>
+      = 0.75,
+      <italic>
+       p
+      </italic>
+      = 0.94] (Fig.
+      ). No dead mosquitoes were observed in the 24 h following the feeding of mixtures supplemented with capsaicin, savory oil and boric acid, hence, the survival experiment was only conducted with optimised feeding mixture with or without fipronil sulfone. Based on the WHO insecticide susceptibility bioassay and previous studies
+      , mosquitoes are exposed to known concentrations of an insecticide for a fixed period of time, and the number of fatalities is recorded at least 24-h after exposure. Maximum 24-h monitoring of mosquito survival after exposing to various toxins is efficient for checking the range of the toxin knock-down and killing effects. In most mosquito pesticide evaluations, after 24 h 98–100% of mosquitoes exposed to effective toxins are dead
+      . The mosquito population was surveyed during the first 100 min subsequent to the feeding of fipronil sulfone (Fig.
+      ). Compared to the control, the mosquito population was significantly reduced (
+      <italic>
+       χ
+      </italic>
+      <sub>
+       1
+      </sub>
+      = 64.75,
+      <italic>
+       p
+      </italic>
+      &lt; 0.001). The addition of HMBPP was key to the mosquito ingestion of the toxic solution (Supplementary Fig.
+      ), as in its absence, proportion of feeding drops significantly (
+      <italic>
+       χ
+      </italic>
+      <sub>
+       1
+      </sub>
+      = 74.75,
+      <italic>
+       p
+      </italic>
+      &lt; 0.001) from approximately 80 to 10% (Fig.
+      ).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec7" sec-type="discussion">
+    <title>
+     Discussion
+    </title>
+    <p id="Par13">
+     Vector-borne diseases are still a big burden for human and animal. Reducing transmission contributes to eliminating vector-borne diseases. There are two approaches to achieve this goal: one is to reduce the amount of pathogens and the other is to reduce the population of mosquito vectors. The combination of both approaches is clearly advantageous. The present study provides evidence that the chemical compound HMBPP (Supplementary Fig.
+     ) influences the feeding of several key vector mosquito species based on blood and non-blood-feeding mixtures. The selected mosquito vector species we used are associated with almost every major type of
+     <italic>
+      Plasmodium
+     </italic>
+     host-interaction systems from human to bird hosts. The variation among feeding proportion of mosquito species on blood without HMBPP (uninfected blood) can be defined by their habits, seasonality, abundance, and vectorial capacity. However, MEP pathway and its building blocks, including HMBPP is a conserved necessary pathway in all
+     <italic>
+      Plasmodium
+     </italic>
+     strains;
+     <italic>
+      Plasmodium
+     </italic>
+     survival depends on the operation of this pathway
+     . Supplementation of the blood with HMBPP reduced the vector feeding proportion variations between species, this phenomenon might help to determine how malaria is transmitted to and expressed in individual hosts and populations.
+    </p>
+    <p id="Par14">
+     Supplementation of HMBPP in a plant-based artificial solution combined with a synthetic toxin entices and kills
+     <italic>
+      Anopheles
+     </italic>
+     vectors within ~100 min (Supplementary Fig.
+     and Fig.
+     ). A recent study demonstrated an attraction as well as an increased phagostimulatory behaviour in
+     <italic>
+      Anopheles gambiae
+     </italic>
+     s.l. mosquitoes as a result of supplementation of HMBPP in human blood in the laboratory
+     . HMBPP has a great potential for increasing specificity of feeding based mosquito control techniques such as ATSB technique. ATSB, consisting of attractant, toxin, and sugar as a phagostimulant. Although ATSB is already implemented in some areas to suppress mosquito population
+     , ATSBs have a pronounced negative effect on non-target organisms including pollinators and other beneficial arthropods
+     . Therefore, the phagostimulant HMBPP might help to develop a selective toxic bait with an effective feeding/killing system for mosquitoes and greater selectivity.
+    </p>
+    <p id="Par15">
+     To create a scalable mosquito toxic bait, blood needs to be replaced with a cheap and readily available liquid base, and beetroot juice serves as a good alternative for replacing human blood due to its dark pink colour. Fed mosquitoes have a pink abdomen which makes the assessment of feeding practicable in both the lab and field. In addition, it has been reported recently that beetroot peel can be deployed as an attractant for
+     <italic>
+      Aedes aegypti
+     </italic>
+     mosquitoes due to the beetroot-derived volatile compound, geosmin
+     . The proportion of feeding significantly improved when the pH of the feeding mixture was adjusted to neutral (pH = 7), whereas, notably fewer mosquitoes fed on the acidic and basic pHs feeding mixtures (Fig.
+     ). The natural pH was preferred by the mosquitoes.
+     <italic>
+      An. gambiae
+     </italic>
+     s.l. natural food source is preferentially human blood which usually has a physiological pH level around 7.4, depending on the human’s diet
+     . The insect favours a diet close to natural physiological pH conditions. Furthermore, female mosquitoes ingest blood to support egg production and development
+     , hence we have investigated the effect of AlbuMAX
+     as a source of lipids, and proteins on feeding proportion of the beetroot juice-based mixture. That a higher proportion of mosquitoes fed on the mixture containing the lipid source AlbuMAX
+     , compared to a non-supplemented meal revealed the need for factors such as protein and fatty acids for the phagostimulatory behaviour of the mosquitoes. Since albumin is an abundant protein present in serum
+     , AlbuMAX
+     is a good supplement due to its high content of bovine serum albumin (BSA) combined with lipids. It is also used as a replacement for serum in culturing of the malaria parasite
+     <italic>
+      P. falciparum
+     </italic>
+     in most laboratory settings. The feeding proportion is higher since the female mosquitoes need a protein/lipid source to nourish the eggs subsequent to mating
+     . Until to date, there is no deterrent effect for anthropophilic mosquitoes due to the presence of BSA
+     .
+    </p>
+    <p id="Par16">
+     The experimental approach of feeding female
+     <italic>
+      An. gambiae
+     </italic>
+     s.l. mosquitoes with different compounds with potential toxicity in a feeding solution has challenges. Repellence and deterrence of a toxin are the major factors interfering with feeding process. Based on that, a less repellent and deterrent compound needs to be used in an attractive toxic bait (ATB) for achieving high attraction and feeding persistency of mosquitoes. Subsequent to landing on the host, the mosquito starts probing by penetrating the skin
+     and therefore, the insect might be able to assess the presence of deterrent compounds, preventing or inhibiting the ingestion. A significantly lower proportion of mosquitoes landed on the feeders and probed non-blood solution supplemented with either capsaicin, savory oil or boric acid. This phenomenon could be due to repellent or antagonistic as well as ‘burning taste’ effects of toxins. Moreover, toxins could cause reactions with components in the feeding mixture forming repellents or deterrents. Several studies have reported that capsaicin acted as a repellent against insects
+     . However, this type of behaviour remains to be confirmed by applying different experimental designs that can prevent insects’ contact with capsaicin and rule out ‘burning taste’ effect which might cause the insect to move out of a treated area. In many animals including insects, capsaicin causes irritation, demonstrated as burning pain through chemoreceptors and nociceptors
+     which affects foraging and food-averse migratory behaviour
+     . Nociceptors responding to heat and hazardous compounds have been identified in
+     <italic>
+      Anopheles
+     </italic>
+     ,
+     <italic>
+      Aedes
+     </italic>
+     and
+     <italic>
+      Culex
+     </italic>
+     mosquito species
+     . Therefore, these evidences make it plausible that in our experiments the capsaicin acted as a deterrent against
+     <italic>
+      An. gambiae
+     </italic>
+     s.l. females when mosquitoes came in contact with the compound. At the beginning of the experiment, few females initiated probing making small holes in a feeder membrane but did not feed which we assume allowed subsequent females to detect capsaicin shortly after landing without probing and to fly away from the feeder. In contrast, no irritant but repellent and toxic effects have been reported towards
+     <italic>
+      An. gambiae
+     </italic>
+     mosquitoes exposed to savory oil at the highest 1% concentration tested
+     . In the present study, the 1:8 dilution of pure essential oil showed a significant reduction in landings compared to the control, suggesting a repelling or antagonistic effect. However, our experiment design was not able to distinguish between repellent effect
+     of a toxin causing mosquitoes to move away from the source or the attraction-antagonistic effect
+     . Attraction antagonist targets odorant receptors, disrupting the odour-sensing function and decreasing mosquitoes’ ability to find a feeder but not repelling them. Notably, the antifeeding activity of the savory oil determined when the proportion of fed mosquitoes was three times lower compared to the proportion of landed females on the feeders bearing the non-blood artificial solution with savory oil. Currently, no antifeedant activity of savory oil produced from
+     <italic>
+      Satureja montana
+     </italic>
+     plants which is used in this study against insects has been reported, whereas essential oils isolated from related savory species
+     <italic>
+      Satureja hortensis
+     </italic>
+     L. and
+     <italic>
+      Satureja pilosa
+     </italic>
+     s.l. Velen
+     showed a deterrent effect.
+    </p>
+    <p id="Par17">
+     A significantly lower proportion of females landed and fed on the feeder providing the mixture supplemented with 1% of boric acid (dissolved in milli-q water) compared to the control. Boric acid as an inorganic poison is the most often used in toxic sugar baits against vector mosquitoes
+     , and no repellent, attraction-antagonistic and feeding-deterrent effects have been reported. Nonetheless, 1% of boric acid reported to reduce mosquito survival 55% within the subsequent 24 h monitoring period. The boric acid mechanism of action in attractive toxic sugar bait (ATSB) is assumed to be the disruption of the gut epithelium subsequent to ingestion by
+     <italic>
+      Aedes aegypti
+     </italic>
+     mosquitoes
+     . In some ATSB, 2% of boric acid was added producing a feeding mixture composed of chlorfenapyr 0.5% v/v, boric acid 2% w/v and tolfenpyrad 1% v/v, mixed in a guava juice-based bait
+     . In the laboratory, this mixture killed more than 90% of pyrethroid-susceptible
+     <italic>
+      An. gambiae
+     </italic>
+     s.s. and pyrethroid-resistant
+     <italic>
+      An. arabiensis
+     </italic>
+     and
+     <italic>
+      Cx. quinquefasciatus
+     </italic>
+     . However, in the field trial, mortality rates of the three ATSB treatments ranged from 41 to 48% against
+     <italic>
+      An. arabiensis
+     </italic>
+     and 36 to 43% against
+     <italic>
+      Cx. quinquefasciatus
+     </italic>
+     . Another possible factor inducing tissue rupture in the gut subsequent to ingestion of a boric acid solution might be a highly increased osmotic pressure due to a higher concentration of sugar in the feeding solution as a trigger factor. For instance
+     <italic>
+      Aedes aegypti
+     </italic>
+     mosquitoes have aquaporins for balancing a certain range of osmotic pressure
+     . However, the concentration of the ingested free sodium ions might be too high in order to be balanced in a short time, causing a potentially not compensatable osmotic pressure and thereby leading to a possible tissue rupture. Based on that, the death of fed mosquitoes subsequent to the feed of boric acid in the beetroot mixture might not be induced due to the absence of an increased sugar amount, which may be the cause of an increased osmotic pressure and thus, tissue damage. Addition of fipronil sulfone to the feeding solution had no significant effect on landings and feeding of
+     <italic>
+      An. gambiae
+     </italic>
+     s.l. females compare to these types of behaviour registered to control. To date, there are no reports no effects on the feeding of mosquito
+     , and some other insects
+     on fipronil-based baiting systems, although toxicity of the compounds was pronounced for
+     <italic>
+      Aedes
+     </italic>
+     ,
+     <italic>
+      Anopheles
+     </italic>
+     and
+     <italic>
+      Culex
+     </italic>
+     mosquitoes
+     . Fipronil sulfone is already applied in ATBs targeting leaf-cutting ant colonies, fipronil causing a fast death in ants followed by the intake of the compound as well
+     . An evolutionary-conserved phagostimulant that enhances gorging can be combined with various mosquito control agents from different classes, biological (Bti), genetic (dsRNA) and chemo-toxic (boric acid), to enhance their efficacy for use in the control systems. Successful pairings will then be evaluated under field conditions, and prepared for integration into vector-control programmes, where appropriate.
+    </p>
+    <p id="Par18">
+     Epidemiological aspects of malaria show the need for new vector-control approaches and efficient drugs to assure a reduction of the transmission, since parasite and vector resistance has already developed
+     . Parasite resistance against the artemisinin-based combination therapy has also been spreading vigorously in Southeast Asia
+     . To address the emerging resistance, the research for new drugs and vector-control strategies needs to be continued. HMBPP can underpin an advanced active toxin-feeding formulation for mosquitoes by enabling the use of a different feeding system. Moreover, HMBPP included in the beetroot juice feeding mixture could be combined with a toxin in an attractive toxin bait, supporting the development of new vector-control strategies. The toxin-feeding methods using beetroot mixture needs further testing and optimising. The beetroot mixture comprising fipronil sulfone taken up by
+     <italic>
+      An. gambiae
+     </italic>
+     mosquitoes and includes less sugar compared to other toxic baits approaches, thereby has the potential to serve as a more environmentally friendly toxic bait in future vector-control strategies. For field studies and strategies, a human odour blend can be used, increasing mosquito attraction towards the toxin-feeding station even further. More detailed work on new vector-control strategies is required in order to reduce vector-borne disease transmission, particularly for malaria on a large scale, and in natural settings.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec8">
+    <title>
+     Methods
+    </title>
+    <sec id="Sec9">
+     <title>
+      Ethics
+     </title>
+     <p id="Par19">
+      Human blood (type O) was provided in citrate-phosphate-dextrose-adenine anti-coagulant/preservative, and serum (type AB) was obtained from the Blood Transfusion Service at Karolinska Hospital, Solna, Sweden in accordance with the Declaration of Helsinki and approved by the Ethical Review Board in Stockholm (2011/850-32). The informed consent was obtained prior to blood draws at the hospital due to the blood transfusion regulation protocols.
+     </p>
+    </sec>
+    <sec id="Sec10">
+     <title>
+      Materials
+     </title>
+     <p id="Par20">
+      (
+      <italic>
+       E
+      </italic>
+      )-4-hydroxy-3-methyl-but-2-enyl pyrophosphate (HMBPP), capsaicin, savory oil, boric acid, fipronil sulfone and hydrochloric acid were purchased from Sigma-Aldrich (St. Louis, Missouri, USA); isopentenyl pyrophosphate (IPP), from Sigma-Aldrich (Tampa, USA, LC). The anti-coagulant/preservative, citrate-phosphate-dextrose-adenine was purchased from Vacuette (Greiner Bio-One Kremsmünster, Austria). 4-Aminobenzoic acid was purchased from Sigma-Aldrich Sweden (Stockholm, Sweden).
+     </p>
+    </sec>
+    <sec id="Sec11">
+     <title>
+      Mosquito rearing conditions
+     </title>
+     <p id="Par21">
+      Mosquitoes of the
+      <italic>
+       Anopheles coluzzii
+      </italic>
+      ,
+      <italic>
+       Anopheles arabiensis
+      </italic>
+      ,
+      <italic>
+       Anopheles gambiae
+      </italic>
+      s.s.,
+      <italic>
+       Aedes aegypti
+      </italic>
+      , laboratory colonies were reared under insectary conditions and maintained in 27 ± 1 °C, 80 ± 1% humidity and a photoperiod of 12-h light:12-h dark cycle. Larvae were fed fish flakes (Goldfish Colour Sticks; Tetra, Germany). Emerged adults were fed ad libitum on 5% glucose solution, supplemented with 0.05% (w/v) 4-aminobenzoic acid, through soaked filters on top of the 2 ml tubes with soaked filter pads inside cages. Females of two morphologically similar, sympatric, sibling species
+      <italic>
+       Culex pipiens
+      </italic>
+      Linnaeus and
+      <italic>
+       Culex torrentium
+      </italic>
+      Martini were captured near Stockholm University campus and kept under laboratory conditions for 2–3 days with access to the glucose meal.
+     </p>
+    </sec>
+    <sec id="Sec12">
+     <title>
+      Experimental set-up and feeding conditions
+     </title>
+     <p id="Par22">
+      Ten minutes before experiments, the females were transferred into a cylinder-shape cardboard box (13-cm diameter, 10-cm height) top of which was covered with a net. Each beaker contained 20 mated, blood-starved but sugar-fed female mosquitoes around 5 to 7 days post emergence. Mosquito only had access to water in the 12 h before the initiation of the experiment. The feeding solution was filled into a feeder which was covered with a membrane (parafilm; Sigma-Aldrich, Germany) and heated to 36 ±
+     </p>
+    </sec>
+    <sec id="Sec13">
+     <title>
+      Blood-feeding experiments
+     </title>
+     <p id="Par23">
+      Ten to twenty mosquitoes of the same species (
+      <italic>
+       An. coluzzii: n
+      </italic>
+      = 20,
+      <italic>
+       An. arabiensis: n
+      </italic>
+      = 20,
+      <italic>
+       An. gambiae
+      </italic>
+      s.s.:
+      <italic>
+       n
+      </italic>
+      = 20,
+      <italic>
+       Ae. aegypti: n
+      </italic>
+      = 20 and
+      <italic>
+       Cx. pipiens/Cx. torrentium
+      </italic>
+      :
+      <italic>
+       n
+      </italic>
+      = 10) were placed in each cage covered with netting, and fed either on 1 ml of control RBCs or HMBPP-RBCs. Each group was allowed to feed on its own separated membrane feeder for 10 min, the average time for each
+      <italic>
+       Anopheles
+      </italic>
+      mosquito engorgement is 10 min
+      . For each group, the number of fully fed mosquitoes was recorded every minute. RBCs were washed with Roswell Park Memorial Institute (RPMI) medium and stored in RPMI at 50% haematocrit at 4 °C. In each feeding trial, RBCs stored in RPMI were centrifuged at 2500 ×
+      <italic>
+       g
+      </italic>
+      for 5 min followed by replacement of the medium with AB serum for a final haematocrit of 40%. HMBPP (stock concentration at 4 mM in Nanopure water, stored at −80 °C) was diluted to 10 μM in 1 ml RBC suspension, and the corresponding volume of Nanopure water was added to the control RBCs. All experiments were, unless otherwise stated, conducted on 5–7 days post-emergence female mosquitoes maintained in separated cages and fed RBCs either with or without HMBPP for 10 min. All experiments were performed in triplicate.
+     </p>
+    </sec>
+    <sec id="Sec14">
+     <title>
+      Feeding on plant-based solution
+     </title>
+     <p id="Par24">
+      The feeding mixture comprised filtrated (0.22 µm) beetroot juice diluted (1:2) with an AlbuMAX
+      II solution (5 mg/ml, dissolved in milli-q water). The pH of the solution was adjusted to 7 by adding required amount of hydrochloric acid followed by a supplementation of the phagostimulant HMBPP (10 µM). In feeding experiments, artificial solution (beetroot, pH = 4, 7 and 9), either with or without HMBPP, were offered to mosquitoes during a 10 min feeding window, and the number of fed mosquitoes recorded. For the proportion of mosquito feeding (%), the number of fed mosquitoes (engorged red abdomen) were set in relation to the total number of mosquitoes in the box.
+     </p>
+    </sec>
+    <sec id="Sec15">
+     <title>
+      Feeding mixture and toxin contents
+     </title>
+     <p id="Par25">
+      The optimised feeding mixture contained filtrated beetroot juice diluted 1:2 in an AlbuMAX
+      II solution (5 mg/ml) and complemented with the phagostimulant HMBPP (10 µM). The pH was adjusted to 7. Subsequently, toxin was added to the mixture, respectively. Based on the previous literatures, following concentrations of the toxins were used: 0.5% of capsaicin (dissolved in RPMI and 70% ethanol), 100 µl of 1:8 diluted savory oil solution, from
+      <italic>
+       Satureja montana
+      </italic>
+      (dissolved in RPMI and 70% ethanol), 1% of boric acid (dissolved in milli-q water) and 100 µM of fipronil sulfone (dissolved in propylene glycol).
+     </p>
+    </sec>
+    <sec id="Sec16">
+     <title>
+      Toxin-feeding procedure and determination of survival proportion
+     </title>
+     <p id="Par26">
+      During the toxin-feeding experiment, the blood-starved, only sugar-fed mosquitoes were fed 1.5 ml of the feeding mixture comprising the respective toxin (mixture heated to 36 ± 1 °C) for 10 min. Subsequent to the feeding, a 5% glucose solution was provided, and the insects were monitored every 30 min for the first 6 h, followed by a 24 h check. Landing, feeding and survival proportion of mosquitoes were determined. The landing proportion was assessed by the fraction of mosquitoes that landed and remained on a feeder within the first 10 min in the cup. The number of fed mosquitoes (red abdomen) in relation to the total number of mosquitoes was used to determine the feeding proportion. The number of dead mosquitoes per total number of mosquitoes was used for assessing the survival proportion. The concentration HMBPP in all experiments were 10 μM.
+     </p>
+    </sec>
+    <sec id="Sec17">
+     <title>
+      Statistics and reproducibility
+     </title>
+     <p id="Par27">
+      General Linear Mixed Model (GLMM) statistical modelling was used to corroborate the validity of results based on the whole data set by including the effect of replications (experimental blocks), including weighting for multiple replications. In all analyses, the effect of the main experimental effects (e.g. treatment [HMBPP-RBCs vs RBCs]
+      ) was investigated while controlling for variation in experimental replication (random variable). For all results, the significance of all explanatory effects was evaluated by using likelihood ratio test (LRT). Analyses were performed using R statistical software (R Core team
+      : R v.3.2.3 and RStudio 1.1.463
+      ). Generalised Linear Mixed Models (GLMM, R statistical software v. 3.2.3) assuming a binomial distribution were used to test the effect of treatment and expermetal replication (random variable) on the response variable (accumulative feeding proportion), between different species variation (5 main vectors) assays (Cox proportional hazards model [Cox-PHZ]; survminer package, R, v. 3.2.3). Time-series analyses were used for estimating the accumulative proportion of mosquito feeding. In these experiments, we had one fixed explanatory variable under name of treatment (HMBPP-RBCs vs RBCs) as well as the effect of time. For calculating the cumulative probability of feeding (accumulative feeding proportion [%]), [Cox-PHZ] was used, which generally presented by Kaplan–Meier curves as it was showed in Fig.
+      . In other words, this model allowed us to examine how specified factors (fixed factor treatment [HMBPP vs Control RBCs] and random variable [experimental treatment]) influence the accumulated probability of a particular event happening (e.g., feeding) at a particular point in time (each minute until 10 min in total).
+     </p>
+     <p id="Par28">
+      In this study, we included at least two variables: 1-Treatment, i.e. the HMBPP (main effect) and 2-Experimental blocks, i.e. the experimental replicates (random effect). In all analyses, Treatment (HMBPP or (2
+      <italic>
+       E
+      </italic>
+      )-2-methylbut-2-ene-1,4-diol) was investigated as the main effect of interest. All data conformed to the assumptions of the test (normality and error homogeneity). The landing, proportion of feeding on (2
+      <italic>
+       E
+      </italic>
+      )-2-methylbut-2-ene-1,4-diol, as well as optimising plant-based feeding solution, and survival proportion of mosquitoes exposed to control and toxin treated feeding mixtures were also analysed by linear mixed-effected model (lmer) via maximum likelihood teas using the statistical programme R (version 3.6.1) in the RStudio platform. Therefore, the rates were calculated as described prior to analysing the results with GLMM and the lmer function as described for Figs.
+      –
+      . The
+      <italic>
+       β
+      </italic>
+      -estimated values were estimated in all final significant models and presented in the graphs (GLMM: lmer function). The duration of survival over time after feeding on toxic solution [time-to-death] was analysed using the Cox-PHZ; with time of follow-up feeding as the main covariate for evaluating the proportion of survival as the outcome, with experimental replication incorporated as a random effect [frailty function]. In all mixed models, a maximal model was built that included fixed effects plus the random effects of the experimental replicates. All graphical representation and statistical analyses were performed using Graphpad Prizm version 6.0c software or R (v.3.2.3 and Rstudio Version 1.1.463 – © 2009–2018).
+      <italic>
+       P
+      </italic>
+      -values of *
+      <italic>
+       p
+      </italic>
+      &lt; 0.05, **
+      <italic>
+       p
+      </italic>
+      &lt; 0.01, ***
+      <italic>
+       p
+      </italic>
+      &lt; 0.001 and ****
+      <italic>
+       p
+      </italic>
+      &lt; 0.0001 were deemed to be statistically significant.
+     </p>
+    </sec>
+    <sec id="Sec18">
+     <title>
+      Reporting summary
+     </title>
+     <p id="Par29">
+      Further information on research design is available in the
+      linked to this article.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="supplementary-material">
+    <title>
+     Supplementary information
+    </title>
+    <sec id="Sec19">
+     <p/>
+    </sec>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

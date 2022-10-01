@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title/>
+ <abstract>
+  <p>
+   Tumor-associated macrophages (TAMs), which display a tumor-supportive M2 phenotype, are closely related to tumor growth and metastasis. The reprogramming of TAMs toward a tumoricidal M1 profile has emerged as an attractive strategy for cancer immunotherapy. In this study, we found that the intratumoral injection of PcrV protein, a component of the
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   type 3 secretion system, suppressed tumor growth and increased apoptosis, inducible nitric oxide synthase (iNOS) expression, and the percentage of M1-polarized TAMs in tumor tissues. Furthermore, the intratumoral injection of PcrV-primed macrophages exerted a similar tumoricidal effect.
+   <italic>
+    In vitro
+   </italic>
+   analyses revealed that PcrV reeducated TAMs toward an antitumoral M1 phenotype and augmented their nitric oxide (NO)-mediated cytotoxicity against cancer cells. Mechanistically, we found that these effects were dependent on the activation of Toll-like receptor 4 (TLR4)/myeloid differentiation factor 88 (MyD88)-mediated regulation of a PI3K/AKT/mTOR-glycolysis-NO feedback loop
+   <italic>
+    via
+   </italic>
+   direct interaction with TLR4. Collectively, these results revealed a potential role for PcrV in cancer immunotherapy through the targeting of TAM plasticity.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="s1" sec-type="intro">
+    <title>
+     Introduction
+    </title>
+    <p>
+     Tumor-associated macrophages (TAMs) form the major component of the immune cell infiltrate in the tumor microenvironment (TME) and are correlated with tumor development and progression. Macrophages infiltrated in the immunosuppressive TME are generally induced into the tumor-supportive M2 phenotype. These M2-like TAMs play roles in supporting tumor growth and metastasis and maintaining an immunosuppressive TME by generating a series of anti-inflammatory and protumoral cytokines and mediators (
+     ). As macrophages are highly heterogeneous and plastic, TAMs exposed to M1-associated stimuli can undergo a reversal from the protumoral M2 to the tumoricidal M1 phenotype. M1-like TAMs exert tumoricidal activity through the production of proinflammatory cytokines (e.g., TNFA and IL12), cytotoxic nitric oxide (NO), and reactive oxygen species (ROS) and the activation of Th1 immune responses
+     <italic>
+      via
+     </italic>
+     increasing the expression of associated major histocompatibility complex class I and class II (MHCI/II) and costimulatory molecules (CD86 and CD80) (
+     ). Accordingly, the reeducation of TAMs from an M2 to an M1 phenotype has emerged as an attractive strategy for cancer immunotherapy.
+    </p>
+    <p>
+     Recent studies have shown that drugs such as paclitaxel (
+     ) and astragaloside IV (
+     ) can suppress tumor growth by reprogramming TAMs into an M1 phenotype. In addition, several reports have highlighted the potential efficacy of bacteria or their products in antitumoral therapy. For instance,
+     <italic>
+      Mycobacterium bovis
+     </italic>
+     -derived bacillus Calmette–Guérin (BCG) has already been utilized as a preferred first-line treatment for non-muscle invasive bladder carcinoma (
+     ,
+     ). Additionally, modified lipopolysaccharide (LPS), a Toll-like receptor 4 (TLR4) agonist, has been tested for its antitumoral efficacy in a clinical trial (
+     ). Given that a large number of bacterial components, such as
+     <italic>
+      Brucella abortus
+     </italic>
+     cell-surface protein 31 (BCSP31) protein (
+     ) and
+     <italic>
+      Vibrio cholerae
+     </italic>
+     porin OmpU (
+     ), can induce functional macrophage M1 polarization by activating the TLR-mediated signaling axis (
+     ,
+     ), these results imply that bacterial products have great potential for exploitation as therapeutic reagents for cancer treatment.
+    </p>
+    <p>
+     PcrV, a secretory needle tip protein component of the
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     type 3 secretion system (T3SS), helps the translocator proteins PopB and PopD form a functional pore on the target cell membrane (
+     ). PcrV, a V-antigen, elicits protective immune responses against
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection (
+     ,
+     ). However, the mechanism underlying the PcrV-mediated regulation of the host immune response remains unknown. We have previously reported that PcrV reverses host immune suppression elicited following bacterial biofilm infection
+     <italic>
+      via
+     </italic>
+     the activation of macrophage-mediated immune responses (
+     ). Considering that TAMs exhibit diverse phenotypes and given their function as tumor-resident macrophages, using PcrV to reeducate TAMs and thereby enhance M1 TAM-mediated antitumoral properties is an attractive possibility that requires further investigation.
+    </p>
+    <p>
+     In the current study, we found that PcrV inhibited tumor growth by reprogramming TAMs to a tumoricidal M1 phenotype. We further found that PcrV-mediated TAM reprogramming potentiated their NO-mediated cytotoxicity against cancer cells, effects that were exerted through the activation of a PI3K/AKT
+     <bold>
+      /
+     </bold>
+     mTOR-glycolysis-NO feedback loop
+     <italic>
+      via
+     </italic>
+     direct interaction with TLR4. Our findings demonstrated that PcrV exerts an immunomodulatory effect on TAMs, providing the basis for further investigation into the potential of PcrV as a therapeutic agent for cancer immunotherapy.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s2" sec-type="materials|methods">
+    <title>
+     Materials and Methods
+    </title>
+    <sec id="s2_1">
+     <title>
+      Cell Culture
+     </title>
+     <p>
+      Macrophages, mouse Lewis lung cancer (LLC) cells, and HEK293T cells were cultured in Dulbecco’s modified Eagle’s medium (DMEM) (Thermo Fisher, USA) supplemented with 10% fetal bovine serum (FBS) (HyClone, USA) at 37°C with 5% CO
+      <sub>
+       2
+      </sub>
+      .
+     </p>
+    </sec>
+    <sec id="s2_2">
+     <title>
+      Animals and Ethics Statement
+     </title>
+     <p>
+      Male C57BL/6 mice were purchased from Biocytogen Co., Ltd (Beijing, China). The TLR4
+      and myeloid differentiation factor 88 (MyD88)
+      C57BL/6 mice were provided by Professor Qingwu Yang. Animal experiments were conducted according to the experimental animal guidelines of the Army Medical University of China.
+     </p>
+    </sec>
+    <sec id="s2_3">
+     <title>
+      Expression and Purification of PcrV Protein
+     </title>
+     <p>
+      Recombinant PcrV protein was expressed from the expression strain
+      <italic>
+       Escherichia coli
+      </italic>
+      JM109/pQE31-PcrV as described previously (
+      ). Protein purification was performed using His-Trap HP affinity columns (GE Healthcare, Sweden), and endotoxin was removed using Detoxi-Gel endotoxin removing gel (Thermo Fisher, USA), according to the manufacturer’s instructions.
+     </p>
+    </sec>
+    <sec id="s2_4">
+     <title>
+      Induction of Bone Marrow-Derived Macrophages and Tumor-Associated Macrophages
+      <italic>
+       In Vitro
+      </italic>
+     </title>
+     <p>
+      Mouse bone marrow cells were isolated from the tibia and femur of C57BL/6 mice. Bone marrow-derived macrophages (BMDMs) were induced by the administration of mouse macrophage colony-stimulating factor (M-CSF; 30 ng/ml) in DMEM supplemented with 10% FBS and 100 U/ml of penicillin for 7 days at 37°C with 5% CO
+      <sub>
+       2
+      </sub>
+      . For
+      <italic>
+       in vitro
+      </italic>
+      TAM induction, BMDMs were cultured in DMEM/FBS (10%) containing 20% (
+      <italic>
+       v
+      </italic>
+      /
+      <italic>
+       v
+      </italic>
+      ) LLC cell culture supernatant for 24 h (
+      ).
+     </p>
+    </sec>
+    <sec id="s2_5">
+     <title>
+      Mouse Tumor Models and Treatment
+     </title>
+     <p>
+      For PcrV administration, C57BL/6 mice were subcutaneously inoculated with 1 × 10
+      LLC cells. On day 9, the animals were randomly divided into two groups and were intratumorally injected with either phosphate-buffered saline (PBS; control group) or PcrV (0.5 mg/kg, every 4 days). For the BMDM inoculation experiment, mice were subcutaneously inoculated with 1 × 10
+      LLC cells (day 0). On days 0 and 7, the animals were peritoneally injected with 200 μl of clodronate liposomes (Liposoma BV, Netherlands) to deplete endogenous macrophages. PBS or PcrV (0.5 mg/kg) was intratumorally injected at days 12, 14, 16, and 18, while the wild type (WT), TLR4
+      , or MyD88
+      BMDMs (2 × 10
+      cells) primed or not with PcrV were intratumorally inoculated at days 16 and 18. At the end of the experiment, the mice were euthanized with pentobarbital, and tumor tissues were harvested for subsequent analyses.
+     </p>
+    </sec>
+    <sec id="s2_6">
+     <title>
+      Fluorescence-Activated Cell Sorting
+     </title>
+     <p>
+      Tumor tissues were minced and incubated with collagenase type II (1 mg/ml, Thermo Fisher) at 37°C for 40 min to obtain a single-cell suspension. For the staining of extracellular target proteins, 1 × 10
+      cells were first incubated in a mixture of PBS, 1% FBS, and anti-CD16/32 antibody (BioLegend, #101301) to block non-specific binding and then labeled with the indicated antibodies at room temperature for 30 min. Fluorescence-activated cell sorting (FACS) was performed using a Beckman Coulter Gallios flow cytometer (USA), and the results were analyzed using FlowJo software version 10.0.7 (TreeStar). The following fluorochrome-coupled antibodies were used in the experiment: anti-CD45 (#103115), anti-CD206 (#141711), anti-CD3 (#100235), anti-CD4 (#100203), anti-CD8 (#100733), anti-NK1.1 (#108709), and anti-Gr1 (#108425) (all from BioLegend); and anti-CD11b (#12-0112), anti-F4/80 (#11-4801), anti-CD11c (25–0114), anti-MHCII (#17-5321), and anti-CD86 (#17-0862) (all from eBioscience) antibodies; the fixable viability dye eFluor 506 was from eBioscience (#65-0866).
+     </p>
+    </sec>
+    <sec id="s2_7">
+     <title>
+      TUNEL Assay
+     </title>
+     <p>
+      Tissue apoptosis was detected using the TdT-mediated dUTP nick end labeling (TUNEL) assay by staining the tissue sections using an
+      <italic>
+       In Situ
+      </italic>
+      Cell Death Detection Kit, POD (Roche, USA), at 37°C for 30 min. Nuclei were counterstained with Hoechst 33342, and images were obtained by laser scanning confocal microscopy (Leica TCS SP5, Germany).
+     </p>
+    </sec>
+    <sec id="s2_8">
+     <title>
+      Immunofluorescence Staining
+     </title>
+     <p>
+      Murine macrophages (Raw264.7 cells) cultured on coverslips were treated with PcrV (10 μg/ml) for 24 h, fixed in 4% paraformaldehyde at room temperature for 15 min, and stained with antibodies targeting TLR4 (ProteinTech, #19811-1-AP) and PcrV (generated in our laboratory). For tissue staining, paraffin-embedded tumor tissues were sectioned and stained first with antibodies against inducible NO synthase (iNOS) (ProteinTech, # 18985-1-AP), ARG1 (ProteinTech, # 16001-1-AP), and/or F4/80 (Abcam, #ab6640) and then with the corresponding secondary antibodies (labeled with fluorescein isothiocyanate (FITC) or Alexa Fluor 647). Nuclei were counterstained with 4′,6-diamidino-2-phenylindole (DAPI) (Beyotime, China). Images were acquired by laser scanning confocal microscopy (Leica).
+     </p>
+    </sec>
+    <sec id="s2_9">
+     <title>
+      Co-culture and Detection of Apoptosis
+     </title>
+     <p>
+      BMDMs were seeded at 5 × 10
+      cells/well in a six-well plate and treated or not with PcrV (10 μg/ml) for 24 h. After the supernatants were discarded, the macrophages (lower chamber of a Transwell plate [0.4-μm pore; Corning, USA]) were co-cultured with LLC cells (upper chamber) in DMEM/FBS (10%) at a ratio of 1:1 for another 24 h. LLC cells were harvested and stained using an Annexin V/7-AAD apoptosis detection kit (BD Biosciences, USA) according to the manufacturer’s instructions. Apoptosis was determined by FACS.
+     </p>
+    </sec>
+    <sec id="s2_10">
+     <title>
+      Western Blotting
+     </title>
+     <p>
+      Protein extraction and concentration determination were performed following the manufacturer’s instructions (Beyotime). Primary antibodies targeting iNOS (BioLegend, #696802), p-AKT (Ser473) (CST, #4060), AKT (Epitomics, #1081), p-mTOR (Ser2448) (CST, #5536), mTOR (CST, #2983), COX2 (ProteinTech, #12375-1-AP), vimentin (CST, #5741), HA tag (CST, #3724), His tag (ProteinTech, #10001-0-AP), and GAPDH (ProteinTech, #60004-1-Ig) were used in this study. The relative optical densities of the protein bands were quantified using ImageJ software.
+     </p>
+    </sec>
+    <sec id="s2_11">
+     <title>
+      RNA Extraction and Real-Time Quantitative PCR
+     </title>
+     <p>
+      Total RNA extraction, reverse transcription, and RT-qPCR were performed according to the manufacturer’s protocols. Primers were provided in the Supplementary Material (Table S1).
+     </p>
+    </sec>
+    <sec id="s2_12">
+     <title>
+      Cytokine Level
+     </title>
+     <p>
+      The levels of TNFA and IL12 p40/70 in the cell culture supernatants were quantified by ELISA kits (BD Biosciences, USA) according to the manufacturer’s instructions.
+     </p>
+    </sec>
+    <sec id="s2_13">
+     <title>
+      Detection of Nitric Oxide Level
+     </title>
+     <p>
+      NO level in the culture supernatants was measured by Griess reagent (Beyotime, China) according to the manufacturer’s instruction.
+     </p>
+    </sec>
+    <sec id="s2_14">
+     <title>
+      Measurement of Intracellular Reactive Oxygen Species
+     </title>
+     <p>
+      Cells were incubated with 2′7′-dichlorodihydrofluorescein diacetate (H2DCFDA) (Santa Cruz, USA) dye in DMEM at a final concentration of 5 μM at room temperature for 30 min. Intracellular ROS was measured by FACS.
+     </p>
+    </sec>
+    <sec id="s2_15">
+     <title>
+      Analysis of Lactic Acid Level
+     </title>
+     <p>
+      Lactic acid level in cell supernatant was measured according to the manufacturer’s instruction (Dojindo Laboratories, Japan).
+     </p>
+    </sec>
+    <sec id="s2_16">
+     <title>
+      Extracellular Acidification Rate Determination
+     </title>
+     <p>
+      Cells were cultured in a Seahorse XFp cell culture microplate (Agilent, USA) at 5 × 10
+      cells/well. After pretreatment with the corresponding inhibitors or PcrV, the cells were washed with Seahorse XF Base Medium (103193-100, Agilent) supplemented with 2 mM of glutamine (103579, Agilent). The extracellular acidification rate (ECAR) was measured using a Seahorse XFp Glycolysis Stress Test Kit (103020-100, Agilent) with a Seahorse XFp Analyzer (Agilent) according to the manufacturer’s instructions.
+     </p>
+    </sec>
+    <sec id="s2_17">
+     <title>
+      Migration Assay
+     </title>
+     <p>
+      LLC cells (3 × 10
+      cells in serum-free DMEM) that had been serum-starved overnight were seeded in the upper chamber of a Transwell insert (8-μm pore, 24-well, Corning). DMEM supplemented with 20% FBS and with or without PcrV (20 μg/ml) was added to the lower chamber as a chemoattractant. After incubation for 24 or 48 h, the non-migrated LLC cells in the upper chambers were removed. Migrated cells in the bottom chamber were fixed and then stained with 0.5% crystal violet solution for 5 min. The number of migrated cells was counted under an optical microscope (Olympus, Tokyo, Japan).
+     </p>
+    </sec>
+    <sec id="s2_18">
+     <title>
+      Cytotoxicity Assay
+     </title>
+     <p>
+      Tumor cells and TAMs were treated with various concentrations of PcrV for 48 h. Cytotoxicity was assessed using a Cell Counting Kit-8 (CCK-8; Dojindo Laboratories, Japan) according to the manufacturer’s protocol.
+     </p>
+    </sec>
+    <sec id="s2_19">
+     <title>
+      ATP Assay
+     </title>
+     <p>
+      Cells were lysed in lysis buffer, and the ATP concentration was tested using an enhanced ATP assay kit (Beyotime) according to the manufacturer’s protocol. The luminescence data as determined using a microplate reader (Varioskan Flash, Thermo Fisher) were normalized against protein concentration.
+     </p>
+    </sec>
+    <sec id="s2_20">
+     <title>
+      Co-Immunoprecipitation
+     </title>
+     <p>
+      HEK293T cells were transfected with the pCDNA3.1-TLR4 vector using Lipofectamine 2000 (Invitrogen, USA) and cultured in an incubator at 37°C with 5% CO
+      <sub>
+       2
+      </sub>
+      for 48 h. The obtained cell lysates were incubated with purified PcrV (5 μg) at 4°C for 4 h before the addition of 20 μl of His Mag Sepharose™ Ni (GE Healthcare) and incubation at 4°C for 1 h. PcrV and TLR4 were detected by Western blotting using anti-His and anti-HA-tag antibodies, respectively.
+     </p>
+    </sec>
+    <sec id="s2_21">
+     <title>
+      Surface Plasmon Resonance
+     </title>
+     <p>
+      For surface plasmon resonance (SPR) analysis, 30 μg/ml of human recombinant TLR4 protein containing a 6×His tag (Abcam, #ab233665) was fixed on the NH2 sensor chip (Nicoya, Canada) using Amine Coupling Kit (Nicoya). Then, PcrV at the indicated concentrations was sequentially injected into the chamber in PBS running buffer. TLR4-PcrV interaction was detected using OpenSPR (Nicoya). The parameters of the binding reactions were calculated and analyzed using Trace Drawer software (Nicoya).
+     </p>
+    </sec>
+    <sec id="s2_22">
+     <title>
+      Statistical Analysis
+     </title>
+     <p>
+      Data were analyzed using unpaired Student’s
+      <italic>
+       t
+      </italic>
+      -tests or one-/two-way ANOVA in GraphPad Prism version 7.0. Tumor volume data were reported as means ± SEM. Other data were expressed as means ± SD.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s3" sec-type="results">
+    <title>
+     Results
+    </title>
+    <sec id="s3_1">
+     <title>
+      PcrV Inhibits Tumor Growth by Reprogramming Tumor-Associated Macrophages to a Tumoricidal M1 Phenotype
+     </title>
+     <p>
+      As PcrV has been reported to activate the host immune response (
+      ,
+      ), we investigated whether PcrV exerts similar effects in the immunosuppressive TME. First, we assessed the efficacy of PcrV
+      <italic>
+       in vivo
+      </italic>
+      by subcutaneously inoculating LLC cells into the right flanks of C57BL/6 mice followed by intratumoral injection of PcrV (
+      ). Compared with the control group, PcrV treatment decreased tumor growth (
+      ) and weight (
+      ). We previously demonstrated that PcrV significantly increased NO production in normal BMDMs (
+      ). Considering that NO-mediated cytotoxicity is associated with tissue apoptosis and the inhibition of tumor growth, we then evaluated the levels of tumor cell apoptosis and the expression of the NO-generating enzyme—iNOS—in PcrV-treated tumor tissues. The results showed that PcrV treatment increased the levels of apoptosis (
+      ) and iNOS expression (
+      ) in the tumor tissues, indicating that PcrV-induced NO generation is associated with the suppression of tumor growth. In addition, we also treated LLC cells and TAMs with PcrV to assess whether PcrV administration might directly cause cytotoxicity or affect tumor cell growth and metastasis. We found that at the concentrations tested, PcrV did not cause significant cytotoxicity against either tumor cells or TAMs (
+      ). Moreover, PcrV treatment did not affect the expression levels of genes (e.g.,
+      <italic>
+       Cox2
+      </italic>
+      ,
+      <italic>
+       Mmp9
+      </italic>
+      ,
+      <italic>
+       Vegfa
+      </italic>
+      , and
+      <italic>
+       Hif1a
+      </italic>
+      ;
+      ) or proteins (e.g., COX2 and vimentin;
+      ) related to tumor growth and metastasis, or the metastatic ability of LLC cells (
+      ).
+     </p>
+     <p>
+      Given that immune cells infiltrated in the TME, such as TAMs, CD4
+      and CD8
+      T cells, NK cells, and myeloid-derived suppressor cells (MDSCs), play a critical role in modulating antitumoral immune responses (
+      ), we further analyzed the ratios of these cells in the TME following PcrV treatment. The results showed that exposure to PcrV did not significantly affect the percentages of CD4
+      and CD8
+      T cells, NK cells, or MDSCs in tumor tissues (
+      –
+      ). However, even though PcrV treatment did not alter the percentage of TAMs infiltrated in the TME (
+      ), the ratios of M1-polarized TAMs (F4/80
+      CD11c
+      CD206
+      , F4/80
+      MHCII
+      , and F4/80
+      CD86
+      macrophages) were increased in PcrV-treated tumor tissues (
+      –
+      ), whereas those of M2-polarized TAMs (F4/80
+      CD11c
+      CD206
+      macrophages) were decreased (
+      ). Subsequent analysis of iNOS
+      TAMs by immunofluorescence (IF) staining indicated that PcrV treatment increased the percentage of F4/80
+      iNOS
+      M1 TAMs (
+      ), whereas that of F4/80
+      ARG1
+      M2 TAMs was decreased (
+      ). Collectively, these results suggested that PcrV reeducates TAMs to a tumoricidal M1 phenotype
+      <italic>
+       in vivo
+      </italic>
+      .
+     </p>
+     <p>
+      To determine whether PcrV directly affects TAM polarization
+      <italic>
+       in vitro
+      </italic>
+      , we generated
+      <italic>
+       in vitro
+      </italic>
+      -trained TAMs by incubating BMDMs with LLC cell culture supernatant. These cells showed increased expression of genes related to tumor growth (
+      <italic>
+       Cox2
+      </italic>
+      and
+      <italic>
+       Vegfa
+      </italic>
+      ), metastasis (
+      <italic>
+       Cox2
+      </italic>
+      ,
+      <italic>
+       Mmp2
+      </italic>
+      , and
+      <italic>
+       Mmp9
+      </italic>
+      ), and immune suppression (
+      <italic>
+       Ido2
+      </italic>
+      ) (
+      ), indicating that TAM generation
+      <italic>
+       in vitro
+      </italic>
+      had been successful. The levels of tumoricidal M1 polarization markers, including
+      <italic>
+       iNos
+      </italic>
+      ,
+      <italic>
+       Cd11c
+      </italic>
+      ,
+      <italic>
+       MhcI
+      </italic>
+      ,
+      <italic>
+       MhcII
+      </italic>
+      ,
+      <italic>
+       Cd86
+      </italic>
+      (
+      ), iNOS (
+      ), NO (
+      ), IL12 p40/70, TNFA (
+      ), MHCII, and CD86 (
+      ), were found to be higher in PcrV-primed than mock-treated TAMs, whereas the levels of the protumoral M2 polarization markers
+      <italic>
+       c-Myc
+      </italic>
+      ,
+      <italic>
+       Egr2
+      </italic>
+      ,
+      <italic>
+       Fn1
+      </italic>
+      ,
+      <italic>
+       Arg1
+      </italic>
+      (
+      ), and
+      <italic>
+       Cd206
+      </italic>
+      were lower (
+      ), demonstrating that PcrV directly reprograms TAMs to an antitumoral M1 profile
+      <italic>
+       in vitro
+      </italic>
+      .
+     </p>
+     <p>
+      To further determine whether the PcrV-mediated M1 polarization of TAMs is responsible for tumor growth inhibition, LLC tumor-bearing mice were peritoneally injected with clodronate liposomes to deplete endogenous macrophages, after which the mice were intratumorally injected with PBS, PcrV, or BMDMs primed or not with PcrV (
+      ). The results showed that clodronate liposome treatment reduced macrophage infiltration in tumor tissues (
+      ). The treatment with PcrV-primed BMDMs decreased tumor growth (
+      ) and weight (
+      ) and increased the levels of apoptosis (
+      ) and iNOS expression (
+      ), and the percentage of iNOS
+      F4/80
+      TAMs (
+      ) in tumor tissues; however, PcrV treatment did not affect either tumor growth (
+      ) or weight (
+      ) in mice depleted of endogenous macrophages due to clodronate liposome administration. Collectively, these results demonstrated that the PcrV-mediated tumoricidal effect is associated with the reprogramming of TAMs to an M1 phenotype.
+     </p>
+    </sec>
+    <sec id="s3_2">
+     <title>
+      PcrV-Primed Tumor-Associated Macrophages Induce the Apoptosis of Cancer Cells by Enhancing Nitric Oxide-Associated Cytotoxicity
+      <italic>
+       In Vitro
+      </italic>
+     </title>
+     <p>
+      Based on the above
+      <italic>
+       in vivo
+      </italic>
+      and
+      <italic>
+       in vitro
+      </italic>
+      results, we next investigated the direct cytotoxic effect of PcrV-primed BMDMs on tumor cells by co-culturing these cells with LLC cells. The co-culture of BMDMs with tumor cells polarized normal BMDMs into TAMs. Hence, BMDMs are referred to as TAMs after their co-culture with tumor cells. We found that co-culture increased the rate of apoptosis among the tumor cells (
+      ). Considering that ROS and NO are critical mediators of cancer cell cytotoxicity, we also examined the levels of these factors in the co-culture system. Unexpectedly, PcrV treatment did not affect the levels of ROS either in TAMs or LLC cells (
+      ). In contrast, NO production was found to be higher in the PcrV/TAM-LLC cell co-culture medium than in that of the TAM-LLC cell group (
+      ). The levels of
+      <italic>
+       iNos
+      </italic>
+      (
+      ) and iNOS (
+      ) were also higher in both TAMs and LLC cells. The inhibition of NO production in PcrV/TAMs through
+      <italic>
+       S
+      </italic>
+      -methyl thiourea (SMT) treatment decreased apoptosis (
+      ) in LLC cells. The addition of the NO donor DETA-NONOate (DETA-NO) into a co-culture system in which TAMs had been pretreated with SMT led to an increase in NO levels in the culture medium (
+      ) while also promoting the apoptosis of LLC cells (
+      ) in the PcrV/TAM-LLC cell co-culture group, thus providing further evidence that PcrV-primed TAMs display enhanced NO-associated cytotoxicity against tumor cells.
+     </p>
+     <p>
+      Even though the levels of NO were similar among the three groups [LLC cells (
+      ), TAM-LLC cell co-culture group (
+      ), and PcrV/TAM-LLC cell co-culture group (
+      )] following the addition of DETA-NO to the culture medium, the increased concentrations of NO did not enhance the apoptosis rate of LLC cells cultured individually (
+      ) or with BMDMs (
+      ) compared with that of the PcrV/TAM-LLC cell co-culture system, suggesting that the PcrV-mediated augmentation of TAM-associated cytotoxicity against cancer cells relies on a synergistic effect of NO and other factors generated by PcrV-primed TAMs.
+     </p>
+     <p>
+      In addition, to observe whether PcrV-primed TAMs can affect tumor growth and metastasis, BMDMs treated or not with PcrV were co-cultured with LLC cells, and the levels of related genes were analyzed. No differences in the expression levels of genes related to tumor growth and metastasis, such as
+      <italic>
+       Cox2
+      </italic>
+      ,
+      <italic>
+       Mmp9
+      </italic>
+      ,
+      <italic>
+       Vegfa
+      </italic>
+      , and
+      <italic>
+       Hif1a
+      </italic>
+      , were found in LLC cells that were co-cultured with PcrV-primed TAMs (
+      ).
+     </p>
+    </sec>
+    <sec id="s3_3">
+     <title>
+      The Rewiring of Glycolysis in Tumor-Associated Macrophages by PcrV Enhances Their Nitric Oxide-Mediated Tumoricidal Activity
+     </title>
+     <p>
+      M1 macrophages are reported to rely on aerobic glycolysis for their energy supply (
+      ), suggesting that the PcrV-mediated increase in TAM cytotoxic activity against cancer cells might involve the regulation of glycolysis. Similar to that seen with LPS/IFNG-primed M1-like TAMs, PcrV treatment increased the glycolysis-related ECAR (
+      ), lactic acid production (
+      ), and ATP generation (
+      ) in TAMs. The inhibition of glycolysis in TAMs by the application of 2-deoxy-
+      <sc>
+       d
+      </sc>
+      -glucose (2-DG) suppressed the PcrV-induced production of lactic acid (
+      ) and ATP (
+      ), as well as the levels of NO (
+      ), IL12 p40/70, and TNFA (
+      ), indicating that PcrV reprograms TAMs toward an M1 profile through increasing glycolysis. In addition, to examine the role of glycolysis in PcrV-induced, TAM-mediated cytotoxicity against cancer cells, BMDMs pretreated with 2-DG and PcrV were co-cultured with LLC cells. We found that 2-DG treatment decreased the PcrV-induced production of NO (
+      ) and the rate of apoptosis in LLC cells (
+      ), demonstrating that the enhancement of glycolysis by PcrV promotes the NO-associated tumoricidal activity of TAMs.
+     </p>
+    </sec>
+    <sec id="s3_4">
+     <title>
+      PcrV-Mediated Activation of a PI3K/AKT/mTOR-Glycolysis-Nitric Oxide Feedback Loop Promotes Tumor-Associated Macrophage Repolarization and Cytotoxicity Against Cancer Cells
+     </title>
+     <p>
+      Studies have shown that the PI3K/AKT
+      <bold>
+       /
+      </bold>
+      mTOR pathway is closely related to macrophage activation (
+      ) as well as glycolysis in pulmonary fibrosis (
+      ). To observe whether the PcrV-mediated regulation of TAM repolarization might involve this signaling pathway, we examined AKT and mTOR phosphorylation levels in TAMs treated or not with PcrV. The results revealed that PcrV treatment increased the phosphorylation levels of both proteins (
+      ) in TAMs. The treatment of PI3K, AKT, or mTOR with the corresponding inhibitor suppressed the levels of M1 markers in PcrV-treated TAMs, including that of
+      <italic>
+       iNos
+      </italic>
+      (
+      ), iNOS (
+      ), NO (
+      ), IL12 p40/70, and TNFA (
+      ) while increasing the levels of the M2 markers
+      <italic>
+       Fn1
+      </italic>
+      ,
+      <italic>
+       c-Myc
+      </italic>
+      , and
+      <italic>
+       Egr2
+      </italic>
+      (
+      ), suggesting that PcrV repolarizes TAMs into an M1 phenotype through the activation of the PI3K/AKT
+      <bold>
+       /
+      </bold>
+      mTOR signaling pathway. To further investigate whether the PI3K/AKT/mTOR signaling pathway is involved in the enhancement of the tumoricidal effect of TAMs elicited by PcrV, TAMs pretreated with the AKT or mTOR inhibitor plus PcrV were co-cultured with LLC cells. The suppression of AKT or mTOR activation reduced NO production in the co-culture medium (
+      ) and also decreased the levels of PcrV/TAM-induced apoptosis in LLC cells (
+      ).
+     </p>
+     <p>
+      We also investigated the cross-talk among PI3K/AKT
+      <bold>
+       /
+      </bold>
+      mTOR, glycolysis, and NO. The inhibition of PI3K, AKT, or mTOR led to impaired glycolysis-related ECAR and lactic acid production in PcrV-primed TAMs (
+      ). Inversely, the suppression of glycolysis by 2-DG led to impaired AKT and mTOR phosphorylation and iNOS expression (
+      ), suggesting that glycolysis positively regulates AKT/mTOR activation and NO generation in PcrV-primed TAMs. Given that NO promotes glycolysis in neurons (
+      ) and also activates the PI3K/AKT axis in cancer cells (
+      ,
+      ), we next examined the role of NO in triggering AKT/mTOR activation and glycolysis in PcrV-primed TAMs. Inhibiting NO generation in PcrV-primed TAMs with SMT treatment reduced AKT and mTOR phosphorylation (
+      ) as well as the ECAR (
+      ) and lactic acid levels (
+      ). Intriguingly, the exogenous administration of DETA-NO in combination with PcrV, but not DETA-NO alone, promoted AKT/mTOR activation in TAMs (
+      ) and upregulated lactic acid production (
+      ), indicating that NO-associated regulation of glycolysis and the AKT
+      <bold>
+       /
+      </bold>
+      mTOR signaling pathway in TAMs requires the involvement of other factors activated by PcrV. Collectively, these results indicated that the PcrV-mediated increase in the antitumoral effects of TAMs is associated with the activation of a PI3K/AKT
+      <bold>
+       /
+      </bold>
+      mTOR-glycolysis-NO feedback loop.
+     </p>
+    </sec>
+    <sec id="s3_5">
+     <title>
+      TLR4/MyD88-Mediated Activation of the PI3K/AKT/mTOR-Glycolysis-Nitric Oxide Circuit Is Involved in Enhancing the Tumoricidal Activity of PcrV-Primed Tumor-Associated Macrophages
+     </title>
+     <p>
+      TLR4, a key pattern recognition receptor (PPR), is abundantly expressed on immune cells, where it functions in the recognition of pathogen-associated molecular patterns (PAMPs). Following pathogen recognition, TLR4 activates host immune response through both MyD88-dependent and MyD88-independent mechanisms (
+      ). Given that PcrV is a needle tip protein component of the T3SS of
+      <italic>
+       P. aeruginosa
+      </italic>
+      , it seems likely that it can interact with host PPRs and thus activate immune responses. To address this possibility, we investigated the role of the TLR4/MyD88 signaling pathway in PcrV-mediated regulation of TAM polarization. Compared with WT PcrV-primed TAMs, TLR4
+      or MyD88
+      PcrV-primed TAMs showed reduced levels of NO (
+      ),
+      <italic>
+       iNos
+      </italic>
+      (
+      ), iNOS (
+      ), IL12 p40/70, and TNFA (
+      ) but higher levels of
+      <italic>
+       c-Myc
+      </italic>
+      ,
+      <italic>
+       Egr2
+      </italic>
+      , and
+      <italic>
+       Fn1
+      </italic>
+      (
+      ), suggesting that PcrV skews the TAM phenotype toward an M1 profile through the TLR4-MyD88 signaling pathway.
+     </p>
+     <p>
+      As it has been reported that the PI3K/AKT/mTOR pathway is under the control of the TLR4/MyD88 signaling axis (
+      ), we next examined PI3K/AKT/mTOR pathway activation in TLR4
+      or MyD88
+      PcrV-primed TAMs. The results showed that the PcrV-induced activation of AKT and mTOR was impaired in TLR4
+      or MyD88
+      TAMs, respectively (
+      ). Analyses of glycolysis-related factors demonstrated that the PcrV-induced increase in the ECAR (
+      ) and lactic acid production (
+      ) was reduced in TLR4
+      and MyD88
+      TAMs.
+     </p>
+     <p>
+      We further analyzed the role of the TLR4/MyD88 axis in the PcrV-mediated regulation of the tumoricidal effect of TAMs. The co-culture of LLC cells with PcrV-primed TLR4
+      or MyD88
+      TAMs, but not WT TAMs, reduced NO production in the culture medium (
+      ) as well as the levels of apoptosis in LLC cells (
+      ). In addition, the LLC tumor-bearing mice in which endogenous macrophages were depleted by clodronate liposomes were intratumorally injected with WT, TLR4
+      , or MyD88
+      BMDMs primed or not with PcrV (
+      ). The result showed that treatment with PcrV-primed WT BMDMs, but not TLR4
+      or MyD88
+      BMDMs, decreased tumor growth (
+      ) and weight (
+      ). Collectively, these results indicated that the TLR4/MyD88 signaling axis participates in the PcrV-mediated modulation of the PI3K/AKT/mTOR-glycolysis-NO circuit and the tumoricidal effect of TAMs.
+     </p>
+    </sec>
+    <sec id="s3_6">
+     <title>
+      Direct Interaction Between PcrV and TLR4 Is Required for the PcrV-Mediated Reeducation of Tumor-Associated Macrophages
+     </title>
+     <p>
+      To further explore whether PcrV alters TAM polarization through interaction with TLR4, we performed immunoprecipitation by incubating purified PcrV protein with the lysate of HEK293T cells overexpressing recombinant human TLR4 protein. The result showed a successful pull-down of TLR4 protein by PcrV (
+      ). SPR analysis using purified protein further revealed a direct interaction between TLR4 and PcrV (
+      ). Moreover, IF staining result showed that PcrV colocalized with TLR4 in Raw264.7 macrophages (
+      ). In addition, to examine the effect of PcrV–TLR4 interaction on PcrV-mediated regulation of TAMs, we blocked TLR4 using an antibody, and we found that the PcrV-induced production of IL12 p40/70, TNFA (
+      ), and NO (
+      ) in TAMs was reduced, indicating that PcrV-mediated regulation of TAM repolarization involves direct interaction between PcrV and TLR4.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s4" sec-type="discussion">
+    <title>
+     Discussion
+    </title>
+    <p>
+     TAMs can constitute up to 50% of a tumor mass, forming the major component of the tumor immune cell infiltrate. In the TME, M2-like TAMs promote tumor cell growth, invasion, and metastasis, angiogenesis, and infiltration of immune-suppressive cells, while suppressing antitumoral immune surveillance (
+     ). In addition, TAMs are known to increase resistance to standard-of-care therapeutics, including chemotherapy, irradiation, and angiogenic inhibitors (
+     ). In contrast, tumoricidal M1-like macrophages, which express high levels of TNF, iNOS, and MHC molecules and low levels of ARG1, IL-10, CD163, and CD206 (
+     ), play roles in reversing immune suppression in the TME and enhancing macrophage- or T cell-mediated killing of cancer cells. In tumor-initiating conditions, macrophages exhibit antitumoral activity; however, once tumors are established, macrophages are reeducated into a protumoral phenotype (
+     ), likely because macrophages are highly plastic in terms of functional reprogramming in response to stimuli in the TME, such as hypoxia, cytokines, and chemokines, as well as in response to varied interactions with components of the extracellular matrix (
+     ,
+     ). Hence, approaches that can potentiate TAM reprogramming into a tumoricidal M1 phenotype show great promise in cancer immunotherapy. In this study, we found that intratumoral injection of PcrV reduces tumor growth and increases the rate of apoptosis in tumor tissues by reeducating TAMs into an M1 profile characterized by the elevated expression of M1 markers (e.g., iNOS, MHCII, and CD86) and reduced levels of M2 markers (e.g., ARG1 and CD206). Additionally, we found that PcrV-induced NO production increased M1 TAM-mediated cytotoxicity against cancer cells
+     <italic>
+      in vitro
+     </italic>
+     . These results highlight the feasibility of utilizing
+     <italic>
+      P. aeruginosa
+     </italic>
+     -derived PcrV in immunomodulation and cancer therapy. Similarly, other well-known bacterial molecules, such as MPT63 (
+     <italic>
+      M. bovis
+     </italic>
+     ), arginine deiminase (
+     <italic>
+      Mycoplasma arginine
+     </italic>
+     ), lapidated-azurin (
+     <italic>
+      Neisseria meningitidis
+     </italic>
+     ), and azurin (
+     <italic>
+      P. aeruginosa
+     </italic>
+     ), have been reported as potential anticancer drugs (
+     ). However, factors such as bacterial endotoxin, manufacturing technique, protein stability, administration mode, and biosafety still need to be addressed when utilizing bacteria-derived proteins as antitumoral drugs (
+     ,
+     ).
+    </p>
+    <p>
+     TLR4, which is expressed on immune cells such as macrophages, dendritic cells (DCs), T cells, neutrophils, and epithelial cells, is one of the major sensors of PAMPs/damage-associated molecular patterns (DAMPs) that activate adaptive immune responses. The activation of TLR4 on multiple immune cells, such as T cells and DCs, represents a powerful means of suppressing tumor growth (
+     –
+     ). In addition, several studies have reported that TLR4-dependent TAM reprogramming into an M1 profile reduces tumor growth (
+     ,
+     ). In this study, we found that PcrV directly interacts with TLR4 expressed on macrophages, which induces TAM M1 polarization and enhances TAM-mediated killing of tumor cells
+     <italic>
+      via
+     </italic>
+     the TLR4/MyD88 signaling pathway. Surprisingly, the activation of TLR4 expressed on tumor cells has been proposed to also promote tumor development by increasing the production of oncogenic mediators (e.g., COX2, IL6, VEGF, and TGFβ)
+     <italic>
+      via
+     </italic>
+     the activation of proinflammatory and protumoral signaling pathways, such as the NF-κB, MAPK, and COX2/PGE2 pathways (
+     ,
+     ). However, in this study, LLC cells treated with PcrV or PcrV-primed macrophages did not show significantly increased production of oncogenic mediators or metastatic ability, indicating that PcrV exerts its antitumoral effects mainly through the targeting of TAMs. The differences observed between macrophages and cancer cells might be partially attributable to differences in the expression levels of TLR4 or other accessory molecules expressed on these cells.
+    </p>
+    <p>
+     The PI3K/AKT/mTOR axis, which is regulated by TLR4, functions as a critical signaling pathway in modulating macrophage polarization. The inhibition of the PI3K/AKT/mTOR or the PI3K/AKT signaling pathway in macrophages suppresses M1 macrophage polarization (
+     ) and polarizes M1 macrophages into an M2-like phenotype (
+     ). In addition, both the PI3K/AKT/mTOR and AKT/mTOR axes are reported to be involved in enhancing glycolysis in tumor cells (
+     ) and TAMs (
+     ), which, in turn, promotes tumor cell survival and proliferation. In line with these findings, our results showed that PcrV-induced activation of the PI3K/AKT/mTOR pathway promotes both M1 polarization and glycolysis in TAMs. However, in contrast to previously reported results, we found that PcrV-primed TAMs exert cytotoxic effects against cancer cells rather than protumoral activity. These discrepant results might be partially explained by the contrasting (cytoprotective/cytotoxic) effects elicited by NO.
+    </p>
+    <p>
+     NO, a gas with diverse biological activities produced from arginine by NO synthases, has long been known as a cytotoxic agent that can directly induce the apoptosis of cancer cells (
+     ), as well as enhance radiation-/chemotherapeutic agent-induced apoptosis of cancer cells (
+     ,
+     ). In our study, we found that the co-culture of LLC cells with PcrV-primed TAMs leads to a marked increase in NO levels in the co-culture medium as well as iNOS expression in LLC cells, which, in turn, induces LLC cell apoptosis in a NO-dependent manner. Intriguingly, the supplementation of exogenous NO to LLC cells or TAM-LLC cell co-culture medium did not enhance LLC cell apoptosis, whereas increased levels of LLC cell apoptosis were seen when exogenous NO was applied to co-cultures of LLC cells and PcrV-primed TAMs. These results indicate that NO-associated cytotoxicity relies on the involvement of other mediators supplied by macrophages following PcrV priming. In contrast to the NO-associated cytotoxic effects, NO has been suggested to enhance tumor cell growth and metastasis (
+     ) and help tumor cells resist chemotherapeutic agent-induced apoptosis (
+     ). These contradictory effects might be due to the concentration and duration of exposure to NO encountered by cancer cells (
+     ). NO is cytoprotective at low/physiological levels or with short exposure time but is cytotoxic when produced at high concentrations or under long periods of exposure (
+     ). We and others have reported that PI3K/AKT/mTOR activation and glycolysis rewire TAMs into an M1-polarized phenotype that, in turn, promotes NO production (
+     ,
+     ). Here, we further found that NO, in combination with PcrV, activates the PI3K/AKT/mTOR-glycolysis signaling pathway in TAMs, resulting in the formation of a PI3K/AKT/mTOR-glycolysis-NO feedback loop that increases NO generation and, consequently, NO-associated cytotoxicity against cancer cells (
+     ).
+    </p>
+    <p>
+     Combined, our findings revealed a tumoricidal role for PcrV mediated by the reeducation of TAMs into a tumoricidal M1 phenotype through the modulation of a PI3K/AKT/mTOR-glycolysis-NO feedback loop
+     <italic>
+      via
+     </italic>
+     a direct interaction with TLR4. Our findings provide an alternative therapeutic approach for inhibiting tumor development.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s5" sec-type="data-availability">
+    <title>
+     Data Availability Statement
+    </title>
+    <p>
+     The raw data supporting the conclusions of this article will be made available by the authors, without undue reservation.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s6" sec-type="ethics-statement">
+    <title>
+     Ethics Statement
+    </title>
+    <p>
+     The animal study was reviewed and approved by Army Medical University of China.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s7" sec-type="author-contributions">
+    <title>
+     Author Contributions
+    </title>
+    <p>
+     KZ, XHe, and HY designed the experiment. KZ, HY, YB, and XHu analyzed the data and wrote the manuscript. YB, HY, JQ, JX, QD, XW, YL, HS, RX, LJ, QL, DL, HZ, LZ, QC, and JP performed the experiments. All authors contributed to the article and approved the submitted version.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s8" sec-type="funding-information">
+    <title>
+     Funding
+    </title>
+    <p>
+     This project was supported by grants from the National Natural Science Foundation of China (No. 31872634 and No. 31700129), Basic Foundation of Army Medical University (2021-2018-067) and Special Financial Aid to Postdoctoral Research Fellow in Chongqing.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s9" sec-type="COI-statement">
+    <title>
+     Conflict of Interest
+    </title>
+    <p>
+     The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s10" sec-type="disclaimer">
+    <title>
+     Publisher’s Note
+    </title>
+    <p>
+     All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

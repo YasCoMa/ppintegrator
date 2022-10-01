@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  PrkC-mediated Phosphorylation of Overexpressed YvcK Protein Regulates PBP1 Protein Localization in
+ </title>
+ <abstract>
+  <p>
+   <bold>
+    Background:
+   </bold>
+   The YvcK protein is essential for
+   <italic>
+    Bacillus subtilis
+   </italic>
+   growth on gluconeogenic conditions; its overproduction rescues an
+   <italic>
+    mreB
+   </italic>
+   mutant.
+  </p>
+  <p>
+   <bold>
+    Results:
+   </bold>
+   PrkC phosphorylates YvcK; this phosphorylation is not required for growth on gluconeogenic conditions but is necessary for
+   <italic>
+    mreB
+   </italic>
+   rescue.
+  </p>
+  <p>
+   <bold>
+    Conclusion:
+   </bold>
+   YvcK phosphorylation is specifically involved in
+   <italic>
+    B. subtilis
+   </italic>
+   morphogenesis.
+  </p>
+  <p>
+   <bold>
+    Significance:
+   </bold>
+   This phosphorylation-based regulatory mechanism could be widespread in bacteria.
+  </p>
+  <p>
+   The YvcK protein has been shown to be necessary for growth under gluconeogenic conditions in
+   <italic>
+    Bacillus subtilis.
+   </italic>
+   Amazingly, its overproduction rescues growth and morphology defects of the actin-like protein MreB deletion mutant by restoration of PBP1 localization. In this work, we observed that YvcK was phosphorylated at Thr-304 by the protein kinase PrkC and that phosphorylated YvcK was dephosphorylated by the cognate phosphatase PrpC. We show that neither substitution of this threonine with a constitutively phosphorylated mimicking glutamic acid residue or a phosphorylation-dead mimicking alanine residue nor deletion of
+   <italic>
+    prkC
+   </italic>
+   or
+   <italic>
+    prpC
+   </italic>
+   altered the ability of
+   <italic>
+    B. subtilis
+   </italic>
+   to grow under gluconeogenic conditions. However, we observed that a
+   <italic>
+    prpC
+   </italic>
+   mutant and a
+   <italic>
+    yvcK
+   </italic>
+   mutant were more sensitive to bacitracin compared with the WT strain. In addition, the bacitracin sensitivity of strains in which YvcK Thr-304 was replaced with either an alanine or a glutamic acid residue was also affected. We also analyzed rescue of the
+   <italic>
+    mreB
+   </italic>
+   mutant strain by overproduction of YvcK in which the phosphorylation site was substituted. We show that YvcK T304A overproduction did not rescue the
+   <italic>
+    mreB
+   </italic>
+   mutant aberrant morphology due to PBP1 mislocalization. The same observation was made in an
+   <italic>
+    mreB prkC
+   </italic>
+   double mutant overproducing YvcK. Altogether, these data show that YvcK may have two distinct functions: 1) in carbon source utilization independent of its phosphorylation level and 2) in cell wall biosynthesis and morphogenesis through its phosphorylation state.
+  </p>
+ </abstract>
+ <sentences/>
+</article>

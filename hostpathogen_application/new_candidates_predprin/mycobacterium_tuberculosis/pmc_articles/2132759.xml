@@ -1,0 +1,2726 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Rvs161p Interacts with Fus2p to Promote Cell Fusion in
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    FUS7
+   </italic>
+   was previously identified by a mutation that causes a defect in cell fusion in a screen for bilateral mating defects. Here we show that
+   <italic>
+    FUS7
+   </italic>
+   is allelic to
+   <italic>
+    RVS161/END6,
+   </italic>
+   a gene implicated in a variety of processes including viability after starvation, endocytosis, and actin cytoskeletal organization. Two lines of evidence indicate that
+   <italic>
+    RVS161/END6
+   </italic>
+   \\\\\\\\s endocytic function is not required for cell fusion. First, several other endocytic mutants showed no cell fusion defects. Second, we isolated five function-specific alleles of
+   <italic>
+    RVS161/FUS7
+   </italic>
+   that were defective for endocytosis, but not mating, and three alleles that were defective for cell fusion but not endocytosis. The organization of the actin cytoskeleton was normal in the cell fusion mutants, indicating that Rvs161p\\\\\\\\s function in cell fusion is independent of actin organization. The three to fourfold induction of
+   <italic>
+    RVS161
+   </italic>
+   by mating pheromone and the localization of Rvs161p-GFP to the cell fusion zone suggested that Rvs161p plays a direct role in cell fusion. The phenotypes of double mutants, the coprecipitation of Rvs161p and Fus2p, and the fact that the stability of Fus2p was strongly dependent on Rvs161p\\\\\\\\s mating function lead to the conclusion that Rvs161p is required to interact with Fus2p for efficient cell fusion.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="MaterialsMethods" sec-type="materials|methods">
+    <title>
+     Materials and Methods
+    </title>
+    <sec>
+     <title>
+      Microbial Techniques, General Methods, and Strains
+     </title>
+     <p>
+      Yeast media and genetic techniques were as described previously (      ). Yeast and
+      <italic>
+       Escherichia coli
+      </italic>
+      plasmid DNA minipreps were performed as described elsewhere (      ). Yeast transformations were done by the lithium acetate method (Ito et al., 1993).
+     </p>
+     <p>
+      Limited plate matings were performed as described previously (      ). In brief, patches of cells were replica-printed onto prewarmed yeast extract/peptone/dextrose (YEPD) plates containing lawns of the opposite mating type. The mating plates were incubated at 30°C for 2.5–3 h, followed by replica printing to appropriate media to select for diploids. Filter matings for the microscopic analysis of zygotes were performed essentially as described previously (      ). 1 ml of each of the
+      <italic>
+       MAT
+      </italic>
+      <bold>
+       a
+      </bold>
+      and
+      <italic>
+       MAT
+      </italic>
+      α strain in the early exponential phase of growth was filtered together onto 0.45-μm nitrocellulose filter discs (
+      <named-content content-type="company" ns0:href="millipore">
+       Millipore Corp.
+      </named-content>
+      , Bedford, MA). The filters were placed cell-side up onto a YEPD plate and incubated at 30°C for 2.5–3 h. The mating mixtures were fixed in methanol/acetic acid (3:1) for 60 min on ice, and then washed several times in PBS. The cells were stained with DAPI (4′, 6′-diamidino-2-phenylindole; 1 mg/ml in PBS) for 5 min and washed once with PBS. The mating mixtures were then examined by differential interference contrast (DIC) and fluorescence microscopy using an Axiophot microscope (
+      <named-content content-type="company" ns0:href="zeiss">
+       Carl Zeiss Inc.
+      </named-content>
+      , Thornwood, NY).
+     </p>
+     <p>
+      Isolation of yeast RNA for Northern analysis was done as described previously (      ). Northern blots were performed as described elsewhere (      ). We used a 878-bp SalI/SacII restriction fragment from pMR3151 to detect
+      <italic>
+       RVS161
+      </italic>
+      mRNA and a 280-bp HindIII/EcoRI fragment to detect
+      <italic>
+       ACT1
+      </italic>
+      mRNA.
+     </p>
+     <p>
+      The strains used in this study are listed in Table      . Unless stated otherwise, all strains are isogenic to S288C.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Strain Construction and Plasmids
+     </title>
+     <p>
+      To generate an
+      <italic>
+       rvs161
+      </italic>
+      Δ allele (
+      <italic>
+       rvs161
+      </italic>
+      -Δ
+      <italic>
+       1
+      </italic>
+      ::
+      <italic>
+       LEU2
+      </italic>
+      ), plasmid pMR3245 (Fig.      ) was constructed by cloning a 270-bp HpaI/PstI and a 397-bp HindIII/HpaI restriction fragment from pMR3234 and pMR3151, respectively, into the pRS405 YIp-
+      <italic>
+       LEU2
+      </italic>
+      vector (      ) cut with PstI/HindIII. Plasmid pMR3245 was then linearized with HpaI before transformation of MY2792. This construct results in an 800-bp deletion that removes the
+      <italic>
+       RVS161
+      </italic>
+      promoter region and 207 amino acids of the
+      <italic>
+       RVS161
+      </italic>
+      coding region, leaving 58 COOH-terminal amino acids. Confirmation of the
+      <italic>
+       rvs161
+      </italic>
+      Δ (MY3905) was done by PCR analysis using the following primers: RVS161U: ATA TGT ACT GGC TCG TCC; RVS161D: GGC TGA TTA CGG ATC ACG; and T3 and T7 from the pBluescript polylinker region. The
+      <italic>
+       MAT
+      </italic>
+      <bold>
+       a
+      </bold>
+      <italic>
+       rvs161
+      </italic>
+      -Δ
+      <italic>
+       1
+      </italic>
+      ::
+      <italic>
+       LEU2
+      </italic>
+      (MY3909) was generated by crossing strains MY3905 and MY2788. An analogous construct, pMR3234, designed to generate a
+      <italic>
+       rvs161
+      </italic>
+      Δ marked with
+      <italic>
+       URA3
+      </italic>
+      ,
+      <italic>
+       rvs161
+      </italic>
+      -Δ
+      <italic>
+       2
+      </italic>
+      ::
+      <italic>
+       URA3
+      </italic>
+      , was made by subcloning the 270-bp HpaI/PstI and the 397-bp HindIII/HpaI into pRS406 YIp-
+      <italic>
+       URA3
+      </italic>
+      vector (      ). Plasmid pMR3234 was linearized with HpaI before transformation of JY428 and JY424. Confirmation of the
+      <italic>
+       rvs161
+      </italic>
+      Δ was done by PCR as described above.
+     </p>
+     <p>
+      The
+      <italic>
+       rvs167
+      </italic>
+      -Δ
+      <italic>
+       1
+      </italic>
+      ::
+      <italic>
+       HIS3
+      </italic>
+      strains (MY4533 and MY4535) were generated by PCR. Primers RVS167HISU: CTG ACT AAA TTA TCA ATC CGA CCG ATG TTC GGA TGT TGC GCG TTT TAA GAG CTT GGT GAG; and RVS167HISD: ATA GAA GGT AAT GAA TAC AGA GGG ATG CAG GGG CCT CCT CAT CCG TCG AGT TCA AGA GAA; having 40 bases of homology to 5′ and 3′ regions of
+      <italic>
+       RVS167,
+      </italic>
+      and 20 bp homologous to
+      <italic>
+       HIS3
+      </italic>
+      , were used to amplify the
+      <italic>
+       HIS3
+      </italic>
+      gene from pRS403 (      ). This PCR fragment was then used to transform MY4500 and MY4529 to create the
+      <italic>
+       rvs167
+      </italic>
+      -Δ
+      <italic>
+       1
+      </italic>
+      ::
+      <italic>
+       HIS3
+      </italic>
+      allele by gene replacement. Confirmation of the
+      <italic>
+       rvs167
+      </italic>
+      Δ::
+      <italic>
+       HIS3
+      </italic>
+      allele was done by PCR using the following primers: RVS167U: TCC GAC GCT TGT ACT GG; RVS167D: ACG GAA GGA CTG AGG AG; and HIS3D: GGC AGT GAC TCC TAG CG.
+     </p>
+     <p>
+      Generation of
+      <italic>
+       fus1-
+      </italic>
+      Δ
+      <italic>
+       1
+      </italic>
+      in the
+      <italic>
+       rvs161
+      </italic>
+      Δ strains MY4905 and MY4907 was done by two-step gene replacement (      ). Plasmid pSB281 (gift from G. Fink, Massachusetts Institute of Technology, Cambridge, MA) was linearized with KpnI and used to transform MY3909 and MY4495. Confirmation of the
+      <italic>
+       fus1
+      </italic>
+      Δ was done by PCR as described (      ).
+     </p>
+     <p>
+      The mutation
+      <italic>
+       end6-1
+      </italic>
+      was recovered by gap repair (      ). Plasmid pMR3149 (Fig.      ) digested with SacII/Bsu36I was used to transform RH2079, and transformants were selected on synthetic complete media lacking uracil. Plasmids were recovered from several transformants and introduced in
+      <italic>
+       Escherichia coli
+      </italic>
+      . Plasmid pMR3550 containing the
+      <italic>
+       end6-1
+      </italic>
+      mutation was then transformed into a
+      <italic>
+       rvs161
+      </italic>
+      Δ strain (MY3909). The phenotype of
+      <italic>
+       end6-1
+      </italic>
+      was checked by inability to grow on yeast extract/peptone/glycerol (YPG) and YEPD + NaCl (yeast extract/peptone/ dextrose containing 1 M NaCl).
+     </p>
+     <p>
+      Generation of pMR3510 (containing the
+      <italic>
+       RVS161-GFP
+      </italic>
+      fusion) was done by cloning a 750-bp PCR fragment encoding
+      <italic>
+       GFP
+      </italic>
+      into the 3′ region of
+      <italic>
+       RVS161
+      </italic>
+      . Primer GFP
+      <italic>
+       Ava
+      </italic>
+      IU: GCG CTC GGG ATA AAA AAG ATG AGT AAA GGA GAA G; and primer GFP
+      <italic>
+       Ava
+      </italic>
+      ID: CGC CCC GAG TTA TTT GTA TAG TTC ATC CAT G; were used to amplify
+      <italic>
+       GFP.
+      </italic>
+      The PCR product was cloned into the TA vector (Invitrogen Corp., San Diego, CA) cut with AvaI and subcloned into pMR3246 (pMR3234 with KpnI/EcoRI deletion in the polylinker) linearized with AvaI to generate an in-frame fusion of
+      <italic>
+       RVS161-GFP
+      </italic>
+      . The ability of pMR3510 to complement the
+      <italic>
+       rvs161
+      </italic>
+      Δ fusion defects was tested by microscopic analysis of zygotes from a filter mating of MY3909 and MY4495 transformed with pMR3510, pRS416, or pMR3246. Mating MY3909 × MY4495, (where both mating partners contain pMR3510) yielded 41% wild-type, 38% partial Fus      , and 21% full Fus      zygotes. Mating where both strains contained the negative control (pRS416) yielded 9% wild-type, 16% partial Fus      , and 75% full Fus      zygotes. The mating with both mating partners containing wild-type
+      <italic>
+       RVS161
+      </italic>
+      (pMR3246) showed 60% wild-type, 26% partial Fus      , and 14% full Fus      zygotes.
+     </p>
+     <p>
+      Generation of pMR3462, a plasmid encoding a
+      <italic>
+       P
+       <sub>
+        GAL
+       </sub>
+      </italic>
+      -
+      <italic>
+       GFP-RVS161
+      </italic>
+      fusion, was done by cloning an 800-bp PCR fragment that contained the entire
+      <italic>
+       RVS161
+      </italic>
+      sequence at the 3′ of the
+      <italic>
+       GFP
+      </italic>
+      coding region. Primer RVS161XhoU: GTC TCG AGA ATG AGT TGG GAA GGT TTT AAG; and primer RVS161XhoD: CAC TCG AGT TAT TTT ATC CCG AGC GCA C; were used to amplify
+      <italic>
+       RVS161
+      </italic>
+      . The PCR product was digested with XhoI and cloned into a SalI-linearized
+      <italic>
+       LEU-CEN-P
+       <sub>
+        GAL
+       </sub>
+       -GFP
+      </italic>
+      plasmid pCD-GAL-GFP (gift from C. Davis and J. Broach, Princeton University, Princeton, NJ) to generate an in-frame fusion between
+      <italic>
+       GFP
+      </italic>
+      and
+      <italic>
+       RVS161.
+      </italic>
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Cloning of FUS7 by Complementation
+     </title>
+     <p>
+      Complementation of the mating defect of
+      <italic>
+       fus7-1811
+      </italic>
+      was used to clone
+      <italic>
+       FUS7
+      </italic>
+      . A yeast centromere–based (YCp50) genomic library (      ) was transformed into a
+      <italic>
+       mat
+      </italic>
+      Δ
+      <italic>
+       fus7-1811
+      </italic>
+      strain (MS2746). 5,500 Ura      transformants were screened for restoration of mating ability when mated with a
+      <italic>
+       MAT
+      </italic>
+      α
+      <italic>
+       fus7-1811
+      </italic>
+      strain (MS2745). Three candidate plasmids were identified that suppressed the mating defect. After reisolation in
+      <italic>
+       E. coli
+      </italic>
+      , the plasmids were all found to share DNA fragments in common (judged by restriction enzyme analysis). Retransformation of MS2746 confirmed that all of the plasmids complemented the mating defect. The sequence of the ends of the insert in plasmid pMR3124 was determined using Sequenase (United States Biochemical Corp., Cleveland, OH) and YCp50 primers (gift from J. Broach, Princeton University, Princeton, NJ) following the manufacturer\\\\\\\\s instructions. Examining the DNA sequence and consulting GeneBank showed that the complementing DNA contained a 17-kb region to the right of
+      <italic>
+       CENIII.
+      </italic>
+      Deletion analysis and subcloning were used to identify the complementing gene (Fig.      ). Plasmids pMR3147, pMR3148, pMR3149, pMR3150, and pMR3151 were created by cutting the original genomic plasmid pMR3234 with EagI, NruI, SphI, BamHI, and BssHI, respectively (Fig.      ). Plasmid pMR3234 was constructed by subcloning an EcoRI/SacII 1.7-kb fragment into the pRS416 YCp-
+      <italic>
+       URA3
+      </italic>
+      vector (      ). By these means, the complementing gene was identified as
+      <italic>
+       RVS161
+      </italic>
+      .
+     </p>
+     <p>
+      To confirm the identity of
+      <italic>
+       FUS7
+      </italic>
+      , linkage analysis among
+      <italic>
+       fus7-1181
+      </italic>
+      ,
+      <italic>
+       CENIII,
+      </italic>
+      and the
+      <italic>
+       MAT
+      </italic>
+      locus was performed by crossing MY3371 × MS2745. After tetrad dissection, the plasmid pB1311 containing the
+      <italic>
+       MAT
+      </italic>
+      α gene was segregated away by growing the spore colonies on 5-fluoro-orotic acid medium (5-FOA) media, which resulted in all four spore colonies being phenotypically
+      <italic>
+       MAT
+      </italic>
+      <bold>
+       a
+      </bold>
+      . The mating phenotypes of the spore colonies were then tested by mating to MS2745. 22 tetrads were analyzed, indicating a
+      <italic>
+       FUS7
+      </italic>
+      -to-
+      <italic>
+       CEN
+      </italic>
+      distance of ∼7 centiMorgans (cM), and a
+      <italic>
+       FUS7-
+      </italic>
+      to
+      <italic>
+       -MAT
+      </italic>
+      distance of 22 cM, consistent with the identification of
+      <italic>
+       FUS7
+      </italic>
+      as
+      <italic>
+       RVS161
+      </italic>
+      . Finally, the identity of
+      <italic>
+       FUS7
+      </italic>
+      as being
+      <italic>
+       RVS161
+      </italic>
+      was confirmed by demonstrating that an
+      <italic>
+       rvs161
+      </italic>
+      Δ allele failed to complement the mutant defect of
+      <italic>
+       fus7-1811
+      </italic>
+      . Strain MY3909 was mated with MS2745, and plasmid pB1311 containing the
+      <italic>
+       MAT
+      </italic>
+      α gene was subsequently segregated away by growing the diploid on 5-FOA media. The
+      <italic>
+       fus7-1181/rvs161
+      </italic>
+      Δ mating diploid was then tested for complementation by mating to MS2745 in limited plate mating assays.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      In Vitro Mutagenesis of RVS161
+     </title>
+     <p>
+      Plasmid pMR3234 (
+      <italic>
+       RVS161-URA3-CEN
+      </italic>
+      ) was mutagenized in vitro using hydroxylamine basically as described in      . The mutagenized DNA was then used to transform a
+      <italic>
+       MAT
+      </italic>
+      <bold>
+       a
+      </bold>
+      <italic>
+       rvs161
+      </italic>
+      Δ strain (MY3909). 15,000 Ura      transformants were replica-plated onto media containing glycerol as a carbon source (YPG) onto rich media containing 1 M NaCl (YEPD + NaCl) and onto a lawn of
+      <italic>
+       MAT
+      </italic>
+      α
+      <italic>
+       fus1
+      </italic>
+      Δ
+      <italic>
+       fus2
+      </italic>
+      Δ (JY429) for 4 h at 30°C to test for mating. We screened for colonies that were unable to grow on YPG or YEPD + NaCl, but that mated like wild-type. We also screened for mutants that showed reduced mating efficiency, but grew on YPG or YEPD + NaCl. Mutants defective for all three properties were discarded. Petite colonies (that would score as possible mutant candidates on YPG) were identified by their small colony size on YEPD after 2 d at 30°C. Plasmid linkage was tested by isolation of the plasmids and retransformation into MY3909. The mutant plasmids were sequenced using an automated sequencer at the Princeton University Sequencing Facility (Princeton, NJ) with the following primers: RVS161UB: CTG GAC GAT CCA AAT GCG, RVS161XhoU (see below), and T3 from pBluescript polylinker region. Subsequently, the EcoRI/SacII restriction fragments isolated from the plasmids were subcloned into the pRS406 YIp-
+      <italic>
+       URA3
+      </italic>
+      vector. Integration of the different alleles was achieved by transforming MY3377 with the respective plasmids linearized with AflII or EspI. Transformants in which the plasmid had been lost by recombination were selected by growth on 5-FOA media. Several colonies were tested for growth on YPG and YEPD + NaCl, and mating. Lucifer yellow assays were done as described in      . Cell fusion was scored by microscopic analysis of the zygotes from filter matings as described above.
+     </p>
+     <p>
+      For the
+      <italic>
+       act1-1
+      </italic>
+      unlinked noncomplementation analysis, wild-type (MY3377),
+      <italic>
+       rvs161-
+      </italic>
+      Δ
+      <italic>
+       1
+      </italic>
+      ::
+      <italic>
+       LEU2
+      </italic>
+      (MY3909),
+      <italic>
+       rvs161-R35C
+      </italic>
+      (MY5301),
+      <italic>
+       rvs161-R59K
+      </italic>
+      (MY4682),
+      <italic>
+       rvs161-R113K
+      </italic>
+      (MY5303),
+      <italic>
+       rvs161-P158S
+      </italic>
+      (MY5322),
+      <italic>
+       rvs161-A175P
+      </italic>
+      (MY5227), and
+      <italic>
+       rvs161-P203Q
+      </italic>
+      (MY5224) were mated to
+      <italic>
+       act1-1
+      </italic>
+      (RH2151) and to wild-type (RH2635). The diploid strains together with an
+      <italic>
+       act1-1/act1-1
+      </italic>
+      strain (MY4663 × MY4664) were streaked onto YEPD and YEPD + NaCl and incubated at 30°C. The
+      <italic>
+       act1-1/act1-1
+      </italic>
+      diploid strain grew very poorly on YEPD + NaCl at 30°C. Likewise, all the diploids containing the End      Fus      alleles grew poorly on YEPD + NaCl (
+      <italic>
+       rvs161-R35C
+      </italic>
+      /
+      <italic>
+       RVS161 ACT1/act1-1
+      </italic>
+      ,
+      <italic>
+       rvs161-R59K/RVS161 ACT1/act1-1
+      </italic>
+      ,
+      <italic>
+       rvs161-R113K/RVS161 ACT1/act1-1
+      </italic>
+      and
+      <italic>
+       rvs161-P158S/RVS161 ACT1/ act1-1
+      </italic>
+      ). In contrast, the diploids containing the End      Fus
+      <italic/>
+      alleles grew like wild-type on YEPD + NaCl (
+      <italic>
+       rvs161-A175P
+      </italic>
+      /
+      <italic>
+       RVS161 ACT1/act1-1
+      </italic>
+      and
+      <italic>
+       rvs161-P203Q/RVS161 ACT1/act1-1
+      </italic>
+      ). All the control strains were able to grow well on YEPD + NaCl (
+      <italic>
+       RVS161
+      </italic>
+      /
+      <italic>
+       RVS161 ACT1/act1-1
+      </italic>
+      ,
+      <italic>
+       rvs161-
+      </italic>
+      Δ
+      <italic>
+       1
+      </italic>
+      ::
+      <italic>
+       LEU2
+      </italic>
+      /
+      <italic>
+       RVS161 ACT1/act1-1, rvs161-R35C
+      </italic>
+      /
+      <italic>
+       RVS161 ACT1/ACT1
+      </italic>
+      ,
+      <italic>
+       rvs161-R59K/RVS161 ACT1/ACT1
+      </italic>
+      ,
+      <italic>
+       rvs161-R113K/RVS161 ACT1/ACT1, rvs161-P158S/RVS161 ACT1/ACT1, rvs161-A175P
+      </italic>
+      /
+      <italic>
+       RVS161 ACT1/ACT1,
+      </italic>
+      and
+      <italic>
+       rvs161-P203Q/RVS161 ACT1/ACT1
+      </italic>
+      ).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Anti-Rvs161p Antibody Production and Purification
+     </title>
+     <p>
+      Plasmid pMR3548 coding for a His6x-Rvs161p fusion was created by cloning an 800-bp PCR fragment containing the entire
+      <italic>
+       RVS161
+      </italic>
+      coding sequence into an XhoI-linearized pET-30c (+) bacterial expression vector (Novagen, Madison, WI). Primers RVS161XhoU and RVS161XhoD (described above) were used to amplify
+      <italic>
+       RVS161
+      </italic>
+      from pMR3234. The His6x– Rvs161p fusion protein was purified from 1 l culture of the BL21(DE) bacterial strain containing pMR3548. Preparation and purification of His6x-Rvs161p was carried out as suggested in the pET System Manual (Novagen) with some modifications. Protein induction was done with 1 mM IPTG for 3 h at 37°C. 100 μg/ml lysozyme and 0.1% Triton X-100 were added to the cells resupended in 80 ml of binding buffer (5 mM imidazole, 500 mM NaCl, 20 mM Tris-HCl, pH 7.9), and the cells were incubated at 30°C for 15 min before sonication. The inclusion bodies were solubilized in 10 ml of binding buffer containing 8 M urea. Activated Ni-NTA resin (QIAGEN Inc., Chastworth, CA) was used to affinity-purify His6x– Rvs161p by chromatography. Elution was carried out using a linear 0–500-mM immidazole elution gradient. Finally, the eluted protein was dialyzed into PBS. Antisera were generated in two females New Zealand white rabbits at the Princeton University Animal Facility (Princeton, NJ).
+     </p>
+     <p>
+      Affinity purification of anti-Rvs161p was carried out using nitrocellulose blots as described previously (      ) with some modifications. 100 μg of purified His6x–Rvs161p were electrophoretically separated by SDS-PAGE and transferred to nitrocellulose. The membrane was blocked twice with 5% nonfat dry milk and 0.05% Tween-20 in PBS for 15 min, and was then washed twice with binding solution (3% BSA, 0.05% Tween-20 in PBS and 0.02%NaN
+      <sub>
+       3
+      </sub>
+      ). 1 ml of crude rabbit anti-Rvs161p serum was diluted 1:2 with binding solution and incubated for 2 h at room temperature. The membrane was then washed four times with PBS, 0.1% Tween-20, and one time with 50 mM Tris-Cl pH 7.5 for 5 min. 0.5 ml of 200 mM glycine-Cl pH 2.2 was used to elute the antibodies. Two 250-μl rinses of the membrane with 100 mM Tris-Cl pH 8 were pooled with the elution. Finally, the eluted antibody solution was neutralized with 25 μl of a 2 M Tris base solution.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Immunological Techniques
+     </title>
+     <p>
+      Actin staining was performed by indirect immunofluorescence using polyclonal affinity-purified antiactin antibodies kindly provided by Tongtong Wang and Anthony Bretscher (Cornell University, Ithaca, NY). Cells grown in YEPD at 30°C were treated with or without α-factor at 6 μM for 90 min, were fixed by adding formaldehyde to 4%, and were incubated for 1 h at 30°C. The cells were then permeabilized by incubation with 25 μg/ml Zymolyase 100,000 (ICN Immunobiologicals, Lisle, IL) in 1.2 M sorbitol, 0.1 M potassium phosphate, pH 7.5, and 25 mM β-mercaptoethanol for 30 min at 30°C. Staining of the cells was done as described previously (      ). Antiactin antibodies were used at a 1:50 dilution, and fluorescein-conjugated goat anti–rabbit antiserum (
+      <named-content content-type="company" ns0:href="boehringer">
+       Boehringer Mannheim
+      </named-content>
+      , Indianapolis, IN) at a 1:25 dilution was used as secondary antibody.
+     </p>
+     <p>
+      Total protein extracts were prepared as described previously (      ). Typically 10 ml of early exponential cultures (5 × 10      –1.5 × 10      cells/ml) in YEPD low pH (pH 3.5) media were treated or not with α-factor. For Western blotting, the proteins were electrophoretically separated in 10% or 7.5% SDS-PAGE gels and transferred to a nitrocellulose membrane. A 6.5−7.5% SDS-PAGE gel was more suitable to distinguish the multiple forms of Fus2p. All the steps for Western blotting were carried out at room temperature. Blocking of the membranes was done for 1 h with 5% nonfat dry milk in buffer A (10 mM Tris-HCl pH 7.4, 150 mM NaCl, and 0.02% Tween-20). Incubations with primary and secondary antibody were done for 1 h in buffer A. Membranes were washed three times after primary and secondary antibody incubations with Buffer A for 15 min. Affinity-purified anti-Rvs161p was used at 1:500. Crude rabbit anti-Fus2p antibody, a gift from E. Elion (Harvard University, Cambridge, MA), was affinity-purified using the nitrocellulose method described above. Plasmid pMR3680 encoding His6x fused to 387 amino acids of Fus2p was created by subcloning a 1162-bp HindIII/HindIII restriction fragment into pET-30b (+). To isolate His6x–Fus2 antigen, part of the insoluble fraction of a 100-ml IPTG-induced culture of bacterial strain MR3683 (pMR3680 in BL21 DE with argU      -Cam      -Tet      ) was electrophoretically separated by SDS-PAGE and transferred to a nitrocellulose membrane. Affinity-purified anti-Fus2p was used at 1:2,000. In addition, preabsortion of the affinity-purified anti-Fus2p onto a nitrocellulose membrane containing
+      <italic>
+       fus2
+      </italic>
+      Δ protein extracts for 1 h was needed to reduce background binding to nitrocellulose. Crude rabbit anti-Fus1p antibody was used at 1:1,000 (Gift from J. Trueheart, Cadus Pharmaceuticals, Tarrytown, NY). Rabbit anti–glutathione-
+      <italic>
+       S
+      </italic>
+      -transferase (GST) antibody (
+      <named-content content-type="company" ns0:href="sigma">
+       Sigma Chemical Co.
+      </named-content>
+      , St. Louis, MO) was used at 1:1,000. HRP-conjugated goat anti–rabbit secondary antibody was used at a 1:2,500 dilution (
+      <named-content content-type="company" ns0:href="amersham">
+       Amersham Corp.
+      </named-content>
+      , Arlington Heights, IL). Proteins were visualized by ECL chemiluminescent system (
+      <named-content content-type="company" ns0:href="amersham">
+       Amersham Corp.
+      </named-content>
+      ).
+     </p>
+     <p>
+      Cell extracts for immunoprecipitation experiments were prepared from 100 ml of early exponential cultures (5 × 10      –1.5 × 10      cells/ml). MY3371, MY4858, MY3909 transformed with pMR3397 (2 μ
+      <italic>
+       RVS161 URA3
+      </italic>
+      ), and MY3909 transformed with pRS426 (      ) were induced with α-factor for 120 min at 30°C. Cells were collected, washed once with 20 ml of cold breaking buffer (50 mM Tris pH 7.4, 50 mM NaCl, 0.5% Triton X-100) and resuspended in 1 ml of breaking buffer containing protease inhibitors (5 μg/ml chymostatin, 5 μg/ml leupeptin, 5 μg/ml aprotinin, 5 μg/ml pepstatin, and 1 mM PMSF). The cells were transferred to microfuge tubes containing 0.8 g of acid-washed glass beads and agitated by 2 pulses of 3 min in a minibead beater (Biospec Products, Inc., Bartlesville, OK). The extracts were then centrifuged twice for 5 min at 14 K rpm at 4°C. The supernatant was transferred to a new tube between centrifugations. 10 μl of affinity-purified anti-Fus2p or 15 μl of affinity-purified anti-Rvs161p was added to half of the extract. The volume was brought to 1 ml with breaking buffer, and NaCl was added to 100 mM. The extracts were incubated for 1 h at 4°C with constant agitation. The extracts were centrifuged for 10 min at 14 K rpm, and the supernatant was transferred to a new tube containing 100 μl of 50% Protein A-sepharose beads in PBS (
+      <named-content content-type="company" ns0:href="pharmacia">
+       Pharmacia LKB Biotechnology, Inc.
+      </named-content>
+      , Piscataway, NJ). The extracts were then incubated at 4°C for 1 h with constant agitation, and were then centrifuged for 20 s at 14 K rpm. The beads were washed 5× with 1 ml of breaking buffer containing protease inhibitors and resuspended in 30 μl of sample buffer (80 mM, Tris pH 6.8, 10% SDS, 12.5% glycerol, 4% β-mercaptoethanol, 0.1% bromphenol blue). Samples were electrophoretically separated in SDS-PAGE, transferred to nitrocellulose membranes, and incubated with either anti-Rvs161p or anti-Fus2p antibodies as described above. To estimate the amount of Fus2p and Rvs161p precipitated, 30-μl aliquots (∼3%) of total extract were analyzed together with the precipitate samples. To quantify the percentage of precipitated protein, the intensity of the corresponding bands (measured by densitometry) for precipitates and total extracts were compared. These values were normalized to the total volumes of the samples, and the ratio between the precipitate and the total extract was calculated.
+     </p>
+     <p>
+      Pulse-chase experiments were performed as described previously (      ) with some modifications. In brief, MY3371, MY4858, and MY3909 cells were grown to OD
+      <sub>
+       600
+      </sub>
+      0.2–0.3 (1–1.5 × 10      cells/ml) in synthetic complete media and induced with α-factor for 35 min at 30°C. Cultures were washed, resuspended at 2 OD/ml in synthetic media lacking cysteine, and methionine in the presence of α-factor. Cells were incubated for 30 min at 30°C. 200 μCi/OD of      S-Translabel™ (ICN Biomedicals Inc., Irvine, CA) were added, and the cells were incubated for 7.5 min at 30°C. The chase was performed by adding 10× chase solution to achieve a final concentration of 0.1% cysteine, 0.1% methionine, and 0.1 M (NH
+      <sub>
+       4
+      </sub>
+      )
+      <sub>
+       2
+      </sub>
+      S0
+      <sub>
+       4
+      </sub>
+      . At 0, 5, 10, 20, 60, and 120 min, 1-ml aliquots were transferred to microfuge tubes containing 500 μl of 40 μM cold NaN
+      <sub>
+       3
+      </sub>
+      and placed on ice for 15 min to stop the reaction. Cell lysis, immunoprecipitations, and autoradiography were done as described previously (      ). 5 and 4 μl of the affinity-purified anti-Rvs161p and anti-Fus2p were used for each sample, respectively.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      GST-Fus2p Coprecipitation Experiments
+     </title>
+     <p>
+      To create a
+      <italic>
+       GST-FUS2
+      </italic>
+      in-frame fusion, a 2.2-kb
+      <italic>
+       FUS2
+      </italic>
+      fragment was first amplified by PCR using primer FUS2GSTU: GGA CTA GTG ATG TTT AAG ACT TCA; and primer FUS2GSTD: CCC TCG AGA TAG CGT CAA CCA TC; and subsequently cloned into a TA vector (Invitrogen Corp.). A SpeI/AvaI fragment was then subcloned into pEG-KT (2 μ
+      <italic>
+       URA
+      </italic>
+      leu2d
+      <italic>
+       P
+       <sub>
+        GAL
+       </sub>
+      </italic>
+      -GST), linearized with XbaI/SalI at the multiple cloning site 3′ of GST (      ). The function of the fusion protein was tested by transforming this plasmid into JY424 and examining the complementation of the
+      <italic>
+       fus2
+      </italic>
+      Δ when mated to JY429 in a limited plate mating analysis.
+     </p>
+     <p>
+      To prepare cell extracts for GST–glutathione bead precipitation, 100 ml of early exponential phase cultures (5 × 10      –1.5 × 10      cells/ml) of MY5299 and MY5297 in synthetic complete media lacking uracil with 2% raffinose were induced by adding 3% galactose for 1 h at 30°C. α-factor was then added to 6 μM, and the cultures were incubated for another 2 h at 30°C. Cell extracts were prepared as described for immunoprecipitation experiments described above. Before adding glutathione-sepharose beads, NaCl was added to 200 mM, and the extracts were mixed for 1 h at 4°C with constant agitation. The extracts were then centrifuged for 10 min at 14 K rpm, and the supernatants were transferred to a new tube containing 100 μl of 50% gluthathione-sepharose beads (
+      <named-content content-type="company" ns0:href="pharmacia">
+       Pharmacia LKB Biotechnology, Inc.
+      </named-content>
+      ) in PBS. The extracts were incubated for 1 h at 4°C. The beads were washed five times with breaking buffer containing protease inhibitors, and were finally resuspended in sample buffer. Samples were electrophoretically separated in SDS-PAGE and transferred to nitrocellulose membranes. The membranes were incubated with anti-GSTp, anti-Fus2p, or anti-Rvs161p antibodies as described above. The primary antibodies were visualized using ECL chemiluminescent system (
+      <named-content content-type="company" ns0:href="amersham">
+       Amersham Corp.
+      </named-content>
+      , Arlington Heights, IL) after incubations with HRP-conjugated goat anti–rabbit secondary antibody (
+      <named-content content-type="company" ns0:href="amersham">
+       Amersham Corp.
+      </named-content>
+      ). Quantification of the amount of precipitated protein was done as described in the Fus2p and Rvs161p immunoprecipitation experiments.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Results">
+    <title>
+     Results
+    </title>
+    <sec>
+     <title>
+      FUS7 is Allelic to RVS161
+     </title>
+     <p>
+      The
+      <italic>
+       fus7-1811
+      </italic>
+      mutation was identified in a screen for bilateral karyogamy and cell fusion mating mutants (      ). Diploid formation in matings between
+      <italic>
+       MAT
+      </italic>
+      <bold>
+       a
+      </bold>
+      and
+      <italic>
+       MAT
+      </italic>
+      α
+      <italic>
+       fus7
+      </italic>
+      mutant parents is reduced 50-fold compared with wild-type matings (      ). In contrast to wild-type zygotes (Fig.      ,
+      <italic>
+       A
+      </italic>
+      and
+      <italic>
+       B
+      </italic>
+      ),
+      <italic>
+       fus7
+      </italic>
+      zygotes showed a pronounced septum between the two partner cells (Fig.      ,
+      <italic>
+       C–F
+      </italic>
+      ), suggestive of the presence of residual cell walls. Two types of Fus      zygotes were observed. One type called full Fus      showed a complete septum and two unfused nuclei (Fig.      ,
+      <italic>
+       E
+      </italic>
+      and
+      <italic>
+       F
+      </italic>
+      ). The second type, called partial Fus      , showed a partial septum that would allow for cytoplasmic mixing and nuclear fusion (Fig.      ,
+      <italic>
+       C
+      </italic>
+      and
+      <italic>
+       D
+      </italic>
+      ). The morphology of
+      <italic>
+       fus7
+      </italic>
+      zygotes was very similar to that described for other previously identified cell fusion mutants. Table      presents a quantitative analysis of the cell fusion phenotype analyzed by microscopic examination of the zygotes. As expected, a wild-type mating (i.e., wild-type × wild-type) resulted in the great majority of zygotes with wild-type morphology (94%; Table      ). In contrast, the
+      <italic>
+       fus7-1181
+      </italic>
+      × wild-type mating showed a significant number of zygotes with partial Fus      (36%) and full Fus      (22%) morphology (Table      ). The cell fusion defect of
+      <italic>
+       fus7-1181
+      </italic>
+      was more severe when both mating partners were mutant (Table      ). In the
+      <italic>
+       fus7-1181
+      </italic>
+      ×
+      <italic>
+       fus7-1181
+      </italic>
+      mating, most of the zygotes showed the full Fus      morphology (72%). Many fewer showed partial Fus      (23%) and wild-type morphology (5%). Therefore,
+      <italic>
+       fus7-1181
+      </italic>
+      caused a significant cell fusion defect when only one of the mating partners has the mutation. However,
+      <italic>
+       fus7-1181
+      </italic>
+      was strongly bilateral because the phenotype was much more severe when both mating partners were mutant. In addition,
+      <italic>
+       fus7-1181
+      </italic>
+      showed no cell type specificity.
+     </p>
+     <p>
+      The
+      <italic>
+       FUS7
+      </italic>
+      gene was cloned by complementation of the mating defect (see Materials and Methods). Three candidate plasmids were isolated, of which the smallest contained a 17-kb region immediately adjacent to
+      <italic>
+       CENIII
+      </italic>
+      (Fig.      ). Deletion and subcloning analysis showed that a plasmid (pMR3234) containing the previously identified gene
+      <italic>
+       RVS161
+      </italic>
+      was able to complement the mating defect (see Fig.      ). Linkage analysis showed that the
+      <italic>
+       FUS7
+      </italic>
+      gene mapped ∼7 and 22 cM from the
+      <italic>
+       CEN
+      </italic>
+      and
+      <italic>
+       MAT
+      </italic>
+      loci, respectively (see Materials and Methods), consistent with the possibility that
+      <italic>
+       FUS7
+      </italic>
+      could be allelic to
+      <italic>
+       RVS161
+      </italic>
+      . We generated
+      <italic>
+       MAT
+      </italic>
+      <bold>
+       a
+      </bold>
+      and
+      <italic>
+       MAT
+      </italic>
+      α
+      <italic>
+       rvs161
+      </italic>
+      Δ strains, and found that they exhibited a cell fusion defect identical to that of
+      <italic>
+       fus7-1811
+      </italic>
+      (Table      ). Furthermore, the
+      <italic>
+       rvs161
+      </italic>
+      Δ allele failed to complement
+      <italic>
+       fus7-1811
+      </italic>
+      \\\\\\\\s mating defect (see Materials and Methods). Therefore, we concluded, that
+      <italic>
+       FUS7
+      </italic>
+      is identical to
+      <italic>
+       RVS161.
+      </italic>
+     </p>
+     <p>
+      <italic>
+       RVS161
+      </italic>
+      was originally identified by a mutation that causes reduced viability upon starvation (      ). Although mutations in
+      <italic>
+       RVS161
+      </italic>
+      are highly pleiotropic,
+      <italic>
+       RVS161
+      </italic>
+      is not essential for viability (      ;      ). Mutations in
+      <italic>
+       RVS161
+      </italic>
+      result in a delocalization of the actin cytoskeleton (      ), high salt sensitivity (      ), random budding pattern in diploid cells (      ), and defects in endocytosis (      ). The
+      <italic>
+       end6-1
+      </italic>
+      allele of
+      <italic>
+       RVS161
+      </italic>
+      was isolated in a screen for mutants defective in endocytosis, and was shown to affect the internalization step of endocytosis (      ). Rvs161p belongs to a family of proteins that includes another yeast protein, Rvs167p, and a group of proteins called amphiphysins (      ;      ;      ). They all share homology in one domain, called Rvs
+      <italic>
+       ,
+      </italic>
+      defined by the entire Rvs161p (      ;      ). In addition, Rvs167p and the amphiphysins also share a glycine-proline-alanine (GPA)–rich domain and an SH
+      <sub>
+       3
+      </sub>
+      domain (      ;      ).
+      <italic>
+       RVS167
+      </italic>
+      has been reported to have the same functions as
+      <italic>
+       RVS161
+      </italic>
+      since mutations in either gene result in the same phenotypes (      ;      ). Human amphiphysin has been implicated in endocytosis due to its interaction with dynamin and its homology to
+      <italic>
+       RVS161
+      </italic>
+      and
+      <italic>
+       RVS167
+      </italic>
+      . It is thought to be important in recycling the plasma membrane at the synaptic terminals (      ;      ;      ;      ).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Defects in Endocytosis Do Not Generally Lead to Defects in Cell Fusion
+     </title>
+     <p>
+      Given the previously characterized role of
+      <italic>
+       RVS161/END6
+      </italic>
+      in endocytosis, we wanted to address whether endocytosis played a role in cell fusion. Fig.
+      <italic>
+       A
+      </italic>
+      shows the analysis of mating mixtures using wild-type,
+      <italic>
+       rvs161
+      </italic>
+      Δ, and various mutants defective for endocytosis (      ;      )
+      <italic>
+       .
+      </italic>
+      Matings where both the
+      <italic>
+       MAT
+      </italic>
+      <bold>
+       a
+      </bold>
+      and
+      <italic>
+       MAT
+      </italic>
+      α parents were mutant were performed, and the zygotes were analyzed by microscopy. Less than 25% of the
+      <italic>
+       rvs161
+      </italic>
+      Δ zygotes were either wild-type or partial Fus      (Fig.
+      <italic>
+       A
+      </italic>
+      ). In contrast, the wild-type mating produced &gt;91% wild-type and very few Fus      zygotes (Fig.
+      <italic>
+       A
+      </italic>
+      ). Most of the
+      <italic>
+       end
+      </italic>
+      mutants including
+      <italic>
+       end3-1, end4-1, end6-1,
+      </italic>
+      and
+      <italic>
+       end7-1
+      </italic>
+      behaved like the wild-type (Fig.
+      <italic>
+       A
+      </italic>
+      ).
+      <italic>
+       end5-1,
+      </italic>
+      however, did show considerably fewer wild-type and more Fus      zygotes than did the wild-type mating (Fig.
+      <italic>
+       A
+      </italic>
+      ). Because the overall mating efficiency of
+      <italic>
+       end5-1
+      </italic>
+      was greatly reduced (i.e.,
+      <italic>
+       end5-1
+      </italic>
+      formed very few mating pairs), we believed that the apparent cell fusion defect observed is a consequence of an underlying growth defect. From these results we concluded that defects in endocytosis do not generally lead to defects in cell fusion.
+     </p>
+     <p>
+      Interestingly, deletion of
+      <italic>
+       RVS167
+      </italic>
+      also did not show a cell fusion defect (Fig.
+      <italic>
+       A
+      </italic>
+      ). Furthermore, the
+      <italic>
+       rvs161
+      </italic>
+      Δ
+      <italic>
+       rvs167
+      </italic>
+      Δ double mutant was identical to
+      <italic>
+       rvs161
+      </italic>
+      Δ (Fig.
+      <italic>
+       A
+      </italic>
+      ). Therefore, we concluded that
+      <italic>
+       RVS161
+      </italic>
+      is required for cell fusion whereas
+      <italic>
+       RVS167
+      </italic>
+      is not.
+     </p>
+     <p>
+      Surprisingly, we also found that the
+      <italic>
+       end6-1
+      </italic>
+      allele of
+      <italic>
+       RVS161
+      </italic>
+      behaved like wild-type for cell fusion (Fig.
+      <italic>
+       A
+      </italic>
+      ). To rule out differences in strain background, the
+      <italic>
+       end6-1
+      </italic>
+      allele was recovered by gap repair on a
+      <italic>
+       CEN
+      </italic>
+      plasmid, introduced into the
+      <italic>
+       rvs161
+      </italic>
+      Δ, and checked for its ability to rescue the
+      <italic>
+       rvs161
+      </italic>
+      Δ cell fusion defect. Fig.
+      <italic>
+       B
+      </italic>
+      shows that
+      <italic>
+       rvs161
+      </italic>
+      Δ containing p
+      <italic>
+       CENend6-1
+      </italic>
+      is indistinguishable from wild-type when mated with a
+      <italic>
+       rvs161
+      </italic>
+      Δ strain. Because
+      <italic>
+       end6-1
+      </italic>
+      was able to restore
+      <italic>
+       rvs161
+      </italic>
+      Δ\\\\\\\\s cell fusion ability, we concluded that
+      <italic>
+       end6-1
+      </italic>
+      does not result in a cell fusion defect.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      The Role of RVS161 in Cell Fusion is Separable From Its Role in Endocytosis
+     </title>
+     <p>
+      To see if we could further separate the role of
+      <italic>
+       RVS161
+      </italic>
+      in endocytosis from its role in mating, we performed in vitro mutagenesis of
+      <italic>
+       RVS161
+      </italic>
+      and screened for alleles that only affected one or the other of the two functions. Both
+      <italic>
+       rvs161
+      </italic>
+      Δ and
+      <italic>
+       end6-1
+      </italic>
+      are unable to grow on nonfermentable carbon sources such as glycerol (YPG;      ;      ). Other
+      <italic>
+       end
+      </italic>
+      mutants (including
+      <italic>
+       end3
+      </italic>
+      ,
+      <italic>
+       end4
+      </italic>
+      ,
+      <italic>
+       end5
+      </italic>
+      ,
+      <italic>
+       act1
+      </italic>
+      , and
+      <italic>
+       rvs167
+      </italic>
+      Δ) do not grow well under these conditions (      ; and our unpublished observations), suggesting a strong correlation between defects in endocytosis and the inability to grow on YPG. In addition,
+      <italic>
+       rvs161
+      </italic>
+      Δ and
+      <italic>
+       end6-1
+      </italic>
+      as well as other mutants defective for endocytosis (
+      <italic>
+       act1
+      </italic>
+      ,
+      <italic>
+       sac6, sla2/end4
+      </italic>
+      , and
+      <italic>
+       end3
+      </italic>
+      ) are unable to grow under hypertonic conditions such as 1 M NaCl (      ;      ; J. O\\\\\\\\Dell and A. Adams, personal communication). Therefore, there is also a strong correlation between defects in endocytosis and the inability to grow under hypertonic conditions. We used the failure to grow on YPG or on media containing 1 M NaCl (YEPD + NaCl) to screen for mutant alleles of
+      <italic>
+       RVS161
+      </italic>
+      that affect endocytosis. A
+      <italic>
+       CEN-URA3-RVS161
+      </italic>
+      plasmid was mutagenized with hydroxylamine and introduced into a
+      <italic>
+       rvs161
+      </italic>
+      Δ strain. We screened for colonies that were unable to grow on YPG or on YEPD + NaCl, but mated like wild-type. We also screened for mutants that showed reduced mating efficiency but did grow on YPG or YEPD + NaCl. Mutants defective for all three properties were discarded, as there were likely to be null alleles. We found a good correlation between reduced growth on YPG and inability to grow on YEPD+NaCl. In general, we found that the mutants grew worse on YEPD + NaCl than on YPG. We isolated five mutants that were defective for growth on YPG and YEPD + NaCl, but not for mating (YPG/YEPD+NaCl      Mating      ). We also isolated three mutants that were defective for mating, but did not show any growth defects on YPG and YEPD + NaCl (YPG/YEPD+NaCl      Mating      ). All but two of the various alleles were integrated into the genome.
+     </p>
+     <p>
+      Fig.      ,
+      <italic>
+       A–C
+      </italic>
+      shows a summary of the endocytic and cell fusion phenotypes of the different
+      <italic>
+       rvs161
+      </italic>
+      alleles isolated. Fluid phase endocytosis was measured using Lucifer yellow (LY) uptake. Internalized LY is transported to the vacuole where it accumulates. Cells defective in endocytosis do not internalize LY, and therefore show no vacuolar fluorescence (      ;      ). The cell fusion phenotype was measured by microscopic analysis of matings to a
+      <italic>
+       rvs161
+      </italic>
+      Δ strain. Wild-type cells showed the typical vacuolar staining in the endocytosis assay, and gave mostly wild-type (40%) or partial Fus      zygotes (47%; Fig.      ,
+      <italic>
+       A–C
+      </italic>
+      ). In contrast, the null strain showed no vacuolar staining, and the majority of the zygotes were full Fus      (73%). The mutants selected on the basis of their YPG/YEPD + NaCl      phenotypes did not accumulate LY in the vacuole (
+      <italic>
+       rvs161-R35C
+      </italic>
+      ,
+      <italic>
+       rvs161-R59K
+      </italic>
+      ,
+      <italic>
+       rvs161-R113K,
+      </italic>
+      and
+      <italic>
+       rvs161-P158S
+      </italic>
+      ), consistent with a defect in endocytosis (Fig.
+      <italic>
+       A
+      </italic>
+      ). However, these mutants behaved like the wild-type control for cell fusion because they showed mostly wild-type (42–51%) or partial Fus      (36–46%) zygotes (Fig.
+      <italic>
+       C
+      </italic>
+      ). In contrast, two mutants selected to be YPG/YEPD + NaCl      Mating      (
+      <italic>
+       rvs161-A175P
+      </italic>
+      and
+      <italic>
+       rvs161-P203Q
+      </italic>
+      ) showed a cell fusion defect comparable to that of the null mutant (59–65% full Fus      zygotes), but did not display an endocytosis defect (Fig.
+      <italic>
+       C
+      </italic>
+      ). We concluded from these results that
+      <italic>
+       RVS161
+      </italic>
+      \\\\\\\\s role in endocytosis is separate from its role in cell fusion during mating.
+     </p>
+     <p>
+      Fig.
+      <italic>
+       D
+      </italic>
+      shows the location and the specific changes of the different mutations in
+      <italic>
+       RVS161
+      </italic>
+      . The 5 YPG/YEPD + NaCl      mating      alleles, now called End      Fus      , mapped within the NH
+      <sub>
+       2
+      </sub>
+      -terminal 65% of
+      <italic>
+       RVS161
+      </italic>
+      . The three YPG/ YEPD+NaCl      mating      alleles, designated End      Fus      , mapped within the COOH-terminal 35% of
+      <italic>
+       RVS161
+      </italic>
+      (Fig.
+      <italic>
+       D
+      </italic>
+      ). Two of the cell fusion mutants affected the same residue; in one case proline 203 was changed to tyrosine, and in the other case to glutamine (Fig.
+      <italic>
+       D
+      </italic>
+      ). Sequencing the
+      <italic>
+       end6-1
+      </italic>
+      allele recovered by gap repair showed that it corresponded to one of the End      Fus
+      <italic>
+       rvs161
+      </italic>
+      alleles that we had isolated,
+      <italic>
+       rvs161-R59K
+      </italic>
+      . Based on the location of the End      Fus      and End      Fus
+      <italic>
+       rvs161
+      </italic>
+      alleles, we propose that
+      <italic>
+       RVS161
+      </italic>
+      has two domains: an NH
+      <sub>
+       2
+      </sub>
+      -terminal involved in endocytosis, and a COOH-terminal involved in cell fusion.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      The rvs161 End      Mutants Exhibited Defects in Actin Organization While the Fus      Mutants Were Normal
+     </title>
+     <p>
+      Mutations in
+      <italic>
+       RVS161
+      </italic>
+      (
+      <italic>
+       rvs161
+      </italic>
+      Δ and
+      <italic>
+       end6-1
+      </italic>
+      ) have been shown to cause defects in the organization of the actin cytoskeleton (      ;      ). We wanted to test if defects in the actin cytoskeleton were correlated with the
+      <italic>
+       rvs161
+      </italic>
+      alleles defective for endocytosis, cell fusion, or both. Therefore, we examined the effects of the various
+      <italic>
+       rvs161
+      </italic>
+      alleles in vegetative and in pheromone-induced cells on actin localization. In yeast, the actin cytoskeleton is organized in cortical patches and a network of cytoplasmic cables (      ). The distribution of the actin cytoskeleton changes throughout the cell cycle (      ). During bud emergence and growth, cortical actin patches concentrate in the bud, with cables in the mother oriented along the mother– daughter cell axis (      ;      ). During development of the shmoo projection, cortical actin patches concentrate at the shmoo tip with cables running towards the tip (      ;      ;      ). At cytokinesis, cortical actin patches are distributed over the surface of mother and daughter cells, and cables are no longer visible, but a ring of filamentous actin forms between the two cells where the septum forms (      ).
+     </p>
+     <p>
+      Fig.      ,
+      <italic>
+       A–H
+      </italic>
+      shows examples of actin localization in wild-type and in
+      <italic>
+       rvs161
+      </italic>
+      cells. A quantitative analysis of the localization of cortical actin patches in small-budded cells and in shmoos is presented in Table      . As expected, most of the wild-type cells (94%) showed actin patches concentrated at the growing bud (Fig.
+      <italic>
+       A
+      </italic>
+      and Table      ) or at the tip of the shmoo in pheromone-induced cells (97%; Fig.
+      <italic>
+       E
+      </italic>
+      and Table      ). In contrast, only a minor fraction of the
+      <italic>
+       rvs161
+      </italic>
+      Δ cells showed a wild-type concentration of cortical patches in the bud or shmoo tip. The majority of the cells showed actin patches that were more randomly distributed over the mother cell and the bud (41%) or heavily concentrated at the mother-bud neck (41%; Fig.
+      <italic>
+       B
+      </italic>
+      and Table      ). In addition, 72% of the
+      <italic>
+       rvs161
+      </italic>
+      Δ shmoos showed many actin patches that were not concentrated at the tip of the shmoo (Fig.
+      <italic>
+       F
+      </italic>
+      and Table      ). All of the End      Fus      mutants showed some defects in actin localization (i.e., small-budded cells and shmoos that failed to concentrate actin patches at the zone of polarized growth) although none of the alleles was as strong as
+      <italic>
+       rvs161
+      </italic>
+      Δ (Fig.      ,
+      <italic>
+       C
+      </italic>
+      and
+      <italic>
+       G,
+      </italic>
+      and Table      ). Furthermore, there was a correlation between the strength of the growth defect on YPG or YEPD + NaCl and the severity of the actin delocalization phenotype. The
+      <italic>
+       rvs161-R35C
+      </italic>
+      and
+      <italic>
+       rvs161-R59K
+      </italic>
+      mutants, which were the most impaired for growth on YPG/YEPD + NaCl, also showed the strongest defect in actin organization. The
+      <italic>
+       rvs161-R113K
+      </italic>
+      and
+      <italic>
+       rvs161-P158S
+      </italic>
+      mutants, which were the weakest, were most like wild-type, but still showed some actin defects. In contrast, the End      Fus      mutants showed no observable defects in the organization of actin patches (Fig.      ,
+      <italic>
+       D
+      </italic>
+      and
+      <italic>
+       H,
+      </italic>
+      and Table      ).
+     </p>
+     <p>
+      Table      presents a quantitative analysis of the percentage of cells with and without actin cables. While the majority of wild-type cells showed actin cables running along the mother–daughter or mating projection axes, most of the
+      <italic>
+       rvs161
+      </italic>
+      Δ cells did not show actin cables. The End      Fus      mutants showed a significant reduction in the number of cells with actin cables, particularly the
+      <italic>
+       rvs161-R35C
+      </italic>
+      and
+      <italic>
+       rvs161-R59K
+      </italic>
+      alleles. In contrast, the End      Fus      mutants behaved like wild-type. Based on these results, we concluded that the degree of defects in endocytosis of the End      Fus      mutants (as measured by poor growth on YPG and YEPD + NaCl) was correlated with the severity of defects in the actin cytoskeleton. We also concluded that Rvs161p\\\\\\\\s function in cell fusion is likely to be independent of its role in the organization of the actin cytoskeleton.
+     </p>
+     <p>
+      To further investigate the relationship between the two roles of Rvs161p and actin organization, we performed genetic analyses of the interaction between the function-specific alleles of
+      <italic>
+       RVS161
+      </italic>
+      and
+      <italic>
+       act1-1.
+      </italic>
+      reported that
+      <italic>
+       end6-1,
+      </italic>
+      but not
+      <italic>
+       rvs161
+      </italic>
+      Δ, showed unlinked noncomplementation with
+      <italic>
+       act1-1
+      </italic>
+      for growth at 37°C. That is, diploids of the form
+      <italic>
+       end6-1/RVS161 ACT1/act1-1
+      </italic>
+      were temperature-sensitive, even though both mutations were recessive. We tested if any other
+      <italic>
+       rvs161
+      </italic>
+      allele besides
+      <italic>
+       end6-1
+      </italic>
+      also showed unlinked noncomplementation with
+      <italic>
+       act1-1
+      </italic>
+      . Like the End      Fus      mutants, the
+      <italic>
+       act1-1
+      </italic>
+      and
+      <italic>
+       act1-1/ act1-1
+      </italic>
+      strains were unable to grow on YEPD + NaCl at 30°C (data not shown). Fig.      ,
+      <italic>
+       I
+      </italic>
+      and
+      <italic>
+       J
+      </italic>
+      shows that the heterozygous diploids containing the End      Fus      alleles and
+      <italic>
+       act1-1
+      </italic>
+      (i.e.,
+      <italic>
+       rvs161-R35C, rvs161-R59K, rvs161-R113K,
+      </italic>
+      and
+      <italic>
+       rvs161-P158S
+      </italic>
+      ) grew well on YEPD, but very poorly on YEPD + NaCl. Therefore, we concluded that, like
+      <italic>
+       end6-1
+      </italic>
+      , the End      Fus      alleles showed unlinked noncomplementation with
+      <italic>
+       act1-1
+      </italic>
+      . Furthermore, the severity of growth defects of each of the double heterozygotes was correlated with the severity of the respective haploid growth defects. Importantly, the heterozygous diploids containing the End      Fus      alleles and
+      <italic>
+       act1-1
+      </italic>
+      (
+      <italic>
+       rvs161-A175P
+      </italic>
+      and
+      <italic>
+       rvs161-P203Q)
+      </italic>
+      grew like the wild-type control (Fig.
+      <italic>
+       J
+      </italic>
+      ). Likewise, the heterozygous diploid containing
+      <italic>
+       rvs161
+      </italic>
+      Δ and
+      <italic>
+       act1-1
+      </italic>
+      grew like the wild- type (Fig.
+      <italic>
+       J
+      </italic>
+      ). In all cases, the diploids obtained by mating the
+      <italic>
+       rvs161
+      </italic>
+      mutants strains and
+      <italic>
+       act1-1
+      </italic>
+      with wild-type did not show any growth defects (see Materials and Methods).
+     </p>
+     <p>
+      In summary, the localization data and the genetic analysis showed a strong correlation between Rvs161p\\\\\\\\s role in endocytosis and actin organization. In contrast, Rvs161p\\\\\\\\s role in cell fusion is separated and independent of its role in both endocytosis and actin organization.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      RVS161 Expression is Pheromone-induced
+     </title>
+     <p>
+      One of the hallmarks of a gene that is specifically required during mating is its transcriptional induction by the mating pheromones. We therefore wanted to investigate if
+      <italic>
+       RVS161
+      </italic>
+      was induced by pheromone. Northern blot analysis showed that
+      <italic>
+       RVS161
+      </italic>
+      produced two mRNA transcripts (Fig.
+      <italic>
+       A
+      </italic>
+      ). These two transcripts were not present in
+      <italic>
+       rvs161
+      </italic>
+      Δ, proving that they both corresponded to
+      <italic>
+       RVS161
+      </italic>
+      (data not shown).
+      <italic>
+       RVS161
+      </italic>
+      was induced between three to fourfold higher levels by α-factor within 90 min of treatment (Fig.
+      <italic>
+       A
+      </italic>
+      ). Transcription of
+      <italic>
+       RVS161
+      </italic>
+      was not induced in
+      <italic>
+       cdc28-4
+      </italic>
+      G1 arrested cells at 37°C in the absence of pheromone (Fig.
+      <italic>
+       A
+      </italic>
+      ). Therefore,
+      <italic>
+       RVS161
+      </italic>
+      transcriptional induction is specific to pheromone, and it is not a consequence of the G1 cell cycle arrest that occurs when the cells respond to pheromone. Actin mRNA levels used as a control were not significantly changed regardless of the experimental conditions (Fig.
+      <italic>
+       A
+      </italic>
+      ).
+     </p>
+     <p>
+      Western analysis of total yeast proteins using anti-Rvs161p polyclonal antibodies is shown in Fig.
+      <italic>
+       B
+      </italic>
+      . The antibodies recognized a single 31-kD band that was absent in the
+      <italic>
+       rvs161
+      </italic>
+      Δ control strain. The levels of Rvs161p were increased in pheromone treated cells (Fig.
+      <italic>
+       B
+      </italic>
+      ), consistent with the increased transcription in the presence of α-factor observed by Northern blots.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Rvs161p Localizes to the Region of Cell Fusion in Prezygotes
+     </title>
+     <p>
+      To determine the localization of Rvs161p in vegetative, pheromone-induced, and mating cells, we used a Rvs161-GFP fusion protein. In this construct GFP is fused to the 3′ region of
+      <italic>
+       RVS161,
+      </italic>
+      and the gene is expressed under
+      <italic>
+       RVS161
+      </italic>
+      promoter regulation. The fusion protein was able to complement the mating defects of
+      <italic>
+       rvs161
+      </italic>
+      mutants as analyzed by microscopic examination of zygotes (see Materials and Methods). We found that Rvs161-GFP concentrates at distinct and precise locations in vegetative, pheromone-induced, and mating cells. During vegetative growth, unbudded cells showed cytoplasmic fluorescence with some dots distributed randomly within the cell (14% of the cells). In small budded cells, Rvs161-GFP concentrated mainly at the mother-bud neck (58% of the cells) with some punctate fluorescence also present in the bud (27% of the cells; Fig.      ,
+      <italic>
+       A–D
+      </italic>
+      ). In contrast, large budded cells showed mostly diffuse fluorescence (68% of the cells) with some punctate fluorescence at the neck (32% of the cells; Fig.      ,
+      <italic>
+       E
+      </italic>
+      and
+      <italic>
+       F
+      </italic>
+      ). In pheromone-induced cells, Rvs161-GFP concentrated at the tip of the shmoo (84% of the shmoos; Fig.      ,
+      <italic>
+       G
+      </italic>
+      and
+      <italic>
+       H
+      </italic>
+      ). More importantly, in mating cells we found that Rvs161-GFP localized mainly to the cell fusion zone in early zygotes (92% of early zygotes; Fig.      ,
+      <italic>
+       I
+      </italic>
+      and
+      <italic>
+       J
+      </italic>
+      ). Interestingly, Rvs161-GFP was no longer concentrated at the former cell fusion zone in mature zygotes (98% of mature zygotes). These results suggest that once cell fusion occurs, Rvs161p no longer localizes to the intersection between mating cells (Fig.      ,
+      <italic>
+       M
+      </italic>
+      and
+      <italic>
+       N
+      </italic>
+      ). We found the same pattern of localization using an NH
+      <sub>
+       2
+      </sub>
+      -terminal GFP fusion under the regulation of the
+      <italic>
+       GAL10
+      </italic>
+      promoter, suggesting that this localization truly reflects the localization of Rvs161p, and does not depend on the location of GFP in the protein (Fig.      ,
+      <italic>
+       K
+      </italic>
+      and
+      <italic>
+       L
+      </italic>
+      ). Taking these results together, we concluded that the spatial and temporal localization of Rvs161p is consistent with a direct role of Rvs161p in cell fusion.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      rvs161Δ is Synthetically Sterile with fus1Δ, but Not With fus2Δ
+     </title>
+     <p>
+      To investigate further the role of
+      <italic>
+       RVS161
+      </italic>
+      in cell fusion, we analyzed genetic interactions with two other genes involved in cell fusion. Like
+      <italic>
+       rvs161
+      </italic>
+      Δ, mutations in
+      <italic>
+       FUS1
+      </italic>
+      or in
+      <italic>
+       FUS2
+      </italic>
+      show no cell-type specificity, and the mutant phenotype is stronger when both partner cells are mutant (      ). The
+      <italic>
+       fus1
+      </italic>
+      Δ
+      <italic>
+       fus2
+      </italic>
+      Δ double mutant shows a more drastic cell fusion phenotype than either single mutant (      ). From this result, it was proposed that
+      <italic>
+       FUS1
+      </italic>
+      and
+      <italic>
+       FUS2
+      </italic>
+      might act in partially redundant parallel pathways. Therefore, we analyzed genetic interactions among
+      <italic>
+       rvs161
+      </italic>
+      Δ,
+      <italic>
+       fus1
+      </italic>
+      Δ, and
+      <italic>
+       fus2
+      </italic>
+      Δ to determine if
+      <italic>
+       RVS161
+      </italic>
+      may act in either pathway. Fig.      shows pictures of plate-mating assays of
+      <italic>
+       rvs161
+      </italic>
+      Δ in combination with
+      <italic>
+       fus1
+      </italic>
+      Δ (Fig.
+      <italic>
+       B
+      </italic>
+      ) and
+      <italic>
+       fus2
+      </italic>
+      Δ (Fig.
+      <italic>
+       C
+      </italic>
+      ). As a control, we also included the analysis of the
+      <italic>
+       fus1
+      </italic>
+      Δ
+      <italic>
+       fus2
+      </italic>
+      Δ double mutant (Fig.
+      <italic>
+       A
+      </italic>
+      ). We found that, like
+      <italic>
+       fus1
+      </italic>
+      Δ
+      <italic>
+       fus2
+      </italic>
+      Δ
+      <italic>
+       ,
+      </italic>
+      the
+      <italic>
+       fus1
+      </italic>
+      Δ
+      <italic>
+       rvs161
+      </italic>
+      Δ double mutant has a more severe defect than either single mutant alone (Fig.
+      <italic>
+       B
+      </italic>
+      ). First, unlike the single mutants, the
+      <italic>
+       fus1
+      </italic>
+      Δ
+      <italic>
+       rvs161
+      </italic>
+      Δ double mutant has a visible mating defect when mated with the wild-type (Fig.
+      <italic>
+       B
+      </italic>
+      ). Second, the
+      <italic>
+       fus1
+      </italic>
+      Δ
+      <italic>
+       rvs161
+      </italic>
+      Δ double mutant defect is much worse than either single mutant defect (Fig.
+      <italic>
+       B
+      </italic>
+      ). Finally, the
+      <italic>
+       fus1
+      </italic>
+      Δ
+      <italic>
+       rvs161
+      </italic>
+      Δ double mutants mated together gave the most severe mating defect. Even after 19 h of mating there was no diploid formation (data not shown). Therefore, in an analogous manner to
+      <italic>
+       FUS1
+      </italic>
+      and
+      <italic>
+       FUS2
+      </italic>
+      , we propose that
+      <italic>
+       FUS1
+      </italic>
+      and
+      <italic>
+       RVS161
+      </italic>
+      might also act in parallel pathways. In contrast, we found that the
+      <italic>
+       fus2
+      </italic>
+      Δ
+      <italic>
+       rvs161
+      </italic>
+      Δ double mutant mated no worse than either single mutant alone (Fig.
+      <italic>
+       C
+      </italic>
+      ). In fact, the
+      <italic>
+       fus2
+      </italic>
+      Δ
+      <italic>
+       rvs161
+      </italic>
+      Δ strain behaved in all the crosses exactly like
+      <italic>
+       fus2
+      </italic>
+      Δ or
+      <italic>
+       rvs161
+      </italic>
+      Δ single mutants. We reasoned that once either protein is defective, the pathway is inactive and further mutation does not lead to a greater defect. Therefore, in this context we concluded that
+      <italic>
+       FUS2
+      </italic>
+      and
+      <italic>
+       RVS161
+      </italic>
+      most likely act in the same pathway.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Rvs161p Coprecipitates with Fus2p
+     </title>
+     <p>
+      The genetic evidence that Fus2p and Rvs161p act in the same pathway suggested that these two proteins might physically interact. To determine if Rvs161p and Fus2p show any direct or indirect physical interaction, we tested Rvs161p\\\\\\\\s ability to coprecipitate with Fus2p and vice-versa (Fig.      ). First, we tested if Rvs161p coprecipitates with Fus2p using a GST-Fus2p fusion. We created a functional GST-Fus2p fusion under the regulation of the
+      <italic>
+       GAL10
+      </italic>
+      promoter that fully complemented the mating defect of a
+      <italic>
+       fus2
+      </italic>
+      Δ strain (data not shown). As a control, a strain that expressed GST alone was used. Proteins were probed with specific antibodies to identify GST, GST-Fus2p, and Rvs161p (Fig.
+      <italic>
+       A
+      </italic>
+      ). The first two lanes in Fig.
+      <italic>
+       A
+      </italic>
+      show the proteins that bound to glutathione–sepharose beads. The third and fourth lanes are samples of total protein extracts from strains expressing GST or GST-Fus2p. Both GST and GST-Fus2p were able to bind to glutathione-sepharose beads (Fig.
+      <italic>
+       A
+      </italic>
+      ). Approximately 10% of total GST-Fus2p precipitated under the conditions used. We found that a fraction of Rvs161p (∼3% of total Rvs161p) was able to coprecipitate specifically with GST-Fus2p, but not with the GST control alone (Fig.
+      <italic>
+       A
+      </italic>
+      ). Therefore, as much as 30% of Rvs161p was bound to GST-Fus2p. The fourth panel in Fig.
+      <italic>
+       A
+      </italic>
+      shows that Rvs161p was nevertheless present in both GST and GST-Fus2p extracts.
+     </p>
+     <p>
+      Second, we tested whether Rvs161p coprecipitated with Fus2p in immunoprecipitation experiments using polyclonal anti-Fus2p antibodies. The immunoprecipitates were then probed with anti-Fus2p antibodies and anti-Rvs161p antibodies to detect coprecipitation. The first two lanes in Fig.
+      <italic>
+       B
+      </italic>
+      show immunoprecipitates from a wild-type or a
+      <italic>
+       fus2
+      </italic>
+      Δ control strain, using anti-Fus2p antibodies. The third and fourth lanes are samples of total protein extracts (Fig.
+      <italic>
+       B
+      </italic>
+      ). As shown in Fig.
+      <italic>
+       B
+      </italic>
+      , a fraction of Rvs161p did coprecipitate with Fus2p by this method. No Rvs161p was detected in the immunoprecipitate from the control
+      <italic>
+       fus2
+      </italic>
+      Δ strain, even though Rvs161p was present at comparable levels in both wild-type and
+      <italic>
+       fus2
+      </italic>
+      Δ strains (Fig.
+      <italic>
+       B
+      </italic>
+      , lanes
+      <italic>
+       3
+      </italic>
+      and
+      <italic>
+       4
+      </italic>
+      ). Finally, we tested whether Fus2p would coprecipitate with Rvs161p using polyclonal anti-Rvs161p as the first antibody. Fig.
+      <italic>
+       B
+      </italic>
+      shows that a fraction of Fus2p did coprecipitate with Rvs161p in immunoprecipitation using anti-Rvs161p antibodies. In this experiment, ∼9% of total Rvs161p precipitated. We found that ∼1.5% of the total Fus2p coprecipitated with Rvs161p, suggesting that ∼17% of the Fus2p was bound to Rvs161p. Similar amounts were precipitated using an
+      <italic>
+       rvs161
+      </italic>
+      Δ strain transformed with either a 2 μ
+      <italic>
+       RVS161
+      </italic>
+      plasmid or a
+      <italic>
+       CEN–RVS161
+      </italic>
+      plasmid, but not when using a
+      <italic>
+       rvs161
+      </italic>
+      Δ strain transformed with the vector (Fig.
+      <italic>
+       B
+      </italic>
+      and data not shown). Taking these results together, we concluded that Rvs161p and Fus2p interact as part of a protein complex. Combining the genetic and the biochemical data, we concluded that Rvs161p and Fus2p might act in the same pathway to promote cell fusion, as part of the same protein complex.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Fus2p\\\\\\\\s Stability Depends on RVS161p\\\\\\\\s Mating Function
+     </title>
+     <p>
+      To investigate if the cell fusion defect of
+      <italic>
+       rvs161
+      </italic>
+      Δ was due to reduced levels of Fus2p or vice versa, we examined the levels of the two proteins in the mutant strains. We performed Western blot analysis of wild-type,
+      <italic>
+       fus2
+      </italic>
+      Δ, and
+      <italic>
+       rvs161
+      </italic>
+      Δ protein extracts, using anti-Fus2p and anti-Rvs161p (Fig.
+      <italic>
+       A
+      </italic>
+      ). We found that the levels of Fus2p in
+      <italic>
+       rvs161
+      </italic>
+      Δ were greatly reduced compared with wild-type (Fig.
+      <italic>
+       A
+      </italic>
+      ). The reduction of Fus2p levels in
+      <italic>
+       rvs161
+      </italic>
+      Δ was specific for Fus2p since Fus1p levels were normal compared with wild type (Fig.
+      <italic>
+       A
+      </italic>
+      ). In addition, Rvs161p and Fus1p levels in
+      <italic>
+       fus2
+      </italic>
+      Δ were the same as wild type (Fig.
+      <italic>
+       A
+      </italic>
+      ).
+     </p>
+     <p>
+      To analyze if the reduction in Fus2p levels in
+      <italic>
+       rvs161
+      </italic>
+      Δ was due to instability of Fus2p rather than a reduction in the levels of
+      <italic>
+       FUS2
+      </italic>
+      induction, we performed a pulse-chase analysis of Fus2p (Fig.      ,
+      <italic>
+       B
+      </italic>
+      and
+      <italic>
+       C
+      </italic>
+      ). In a wild-type strain, Fus2p was a fairly stable protein having a half-life of ∼120 min (Fig.      ,
+      <italic>
+       B
+      </italic>
+      and
+      <italic>
+       C
+      </italic>
+      ). In contrast, the stability of Fus2p in
+      <italic>
+       rvs161
+      </italic>
+      Δ was greatly reduced to a half-life of 15 min (Fig.      ,
+      <italic>
+       B
+      </italic>
+      and
+      <italic>
+       C
+      </italic>
+      ). From these results we concluded that the stability of Fus2p is dependent on Rvs161p.
+     </p>
+     <p>
+      To test if Fus2p\\\\\\\\s stability depends on Rvs161p\\\\\\\\s mating function, we analyzed the levels of Fus2p in several of the
+      <italic>
+       rvs161
+      </italic>
+      function-specific alleles. We found that Fus2p levels were reduced specifically in the
+      <italic>
+       rvs161
+      </italic>
+      End      Fus      mutants, but not in the End      Fus      mutants (Fig.
+      <italic>
+       D
+      </italic>
+      ). These results demonstrate that Fus2p\\\\\\\\s stability depends on Rvs161p\\\\\\\\s mating function, and suggests that the cell fusion defect in these mutants could be due to reduced Fus2p levels.
+     </p>
+     <p>
+      To investigate whether the defect in Fus2p stability might be due to reduced interaction with the mutant forms of Rvs161p, we immunoprecipitated Fus2p and analyzed Rvs161p\\\\\\\\s ability to coprecipitate (Fig.
+      <italic>
+       E
+      </italic>
+      ). Extracts were prepared from wild-type, two End      Fus      , and two End      Fus      mutants. To compensate for the reduced levels of Fus2p in the End      Fus      mutants, we loaded six times as much of the immunoprecipitate (Fig.
+      <italic>
+       E
+      </italic>
+      ) such that levels of Fus2p comparable to those of the wild-type were observed. Similar amounts of Rvs161p coprecipitated from the wild-type, and the two End      Fus      mutants (data for
+      <italic>
+       rvs161-R35C
+      </italic>
+      not shown). In contrast, we found that only a barely detectable amount of Rvs161p coprecipitated from the End      Fus      mutants. Therefore, we conclude that these mutations severely impair the interaction between Rvs161p and Fus2p.
+     </p>
+     <p>
+      Interestingly, in the Western and pulse-chase analyses of Fus2p, we noticed the presence of two or more bands corresponding to Fus2p, which were particularly evident in a low percentage of polyacrylamide gels (Fig.      ,
+      <italic>
+       A
+      </italic>
+      and
+      <italic>
+       B
+      </italic>
+      ). In
+      <italic>
+       rvs161
+      </italic>
+      Δ the higher molecular weight bands of Fus2p were absent (Fig.      ,
+      <italic>
+       A
+      </italic>
+      and
+      <italic>
+       B
+      </italic>
+      ), suggesting that these forms of Fus2p also depend on the mating function of Rvs161p. In the pulse-chase analysis the higher molecular weight forms of Fus2p appeared 10 min after the chase, and after ∼1 h of pheromone induction (Fig.
+      <italic>
+       B
+      </italic>
+      ). This result shows that Fus2p is modified posttranslationally, and suggests that the modification is a rather late event in the pheromone induction of the cells.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Discussion">
+    <title>
+     Discussion
+    </title>
+    <p>
+     Conjugation in
+     <italic>
+      Saccharomyces cerevisiae
+     </italic>
+     involves fusing two cells of opposite mating type. Conjugation is thought to require a complex interplay of pheromone response, spatial organization, and alteration of the cell wall and plasma membrane. In this paper we describe the characterization of a cell fusion mutant,
+     <italic>
+      fus7-1811,
+     </italic>
+     that blocks cell fusion. We identified
+     <italic>
+      FUS7
+     </italic>
+     as being allelic to
+     <italic>
+      RVS161
+     </italic>
+     , a gene previously implicated in viability upon starvation, actin organization, and endocytosis (     ;     ;     ;     ). We tested whether endocytosis per se plays a role in cell fusion, and found that most of the endocytic mutants examined, including
+     <italic>
+      end3-1, end4-1, end6-1
+     </italic>
+     (an allele of
+     <italic>
+      RVS161
+     </italic>
+     ),
+     <italic>
+      end7-1,
+     </italic>
+     and
+     <italic>
+      rvs167
+     </italic>
+     Δ, showed no defect in cell fusion. Using in vitro mutagenesis, we isolated mutant alleles of
+     <italic>
+      RVS161/FUS7
+     </italic>
+     that separate the endocytic function from the mating function. Mapping of the function-specific alleles defined an NH
+     <sub>
+      2
+     </sub>
+     -terminal region required for endocytosis and a COOH-terminal region required for cell fusion. Therefore, we propose that
+     <italic>
+      RVS161
+     </italic>
+     is a bifunctional gene with a role in endocytosis that is different from its role in cell fusion during mating. Interestingly, we found that in contrast to the alleles that affect endocytosis, the cell fusion–defective alleles showed no defects in the actin cytoskeletal organization. We conclude that Rvs161p\\\\\\\\s role in cell fusion is likely to be independent of its role in actin organization.
+    </p>
+    <p>
+     Like other genes required for cell fusion (e.g.,
+     <italic>
+      FUS1
+     </italic>
+     and
+     <italic>
+      FUS2
+     </italic>
+     ), we found that
+     <italic>
+      RVS161
+     </italic>
+     was induced by mating pheromone. Using a functional Rvs161-GFP hybrid protein, we found that Rvs161p concentrated at the region of cell fusion, consistent with a role in cell fusion. Analysis of double mutants indicated that
+     <italic>
+      rvs161
+     </italic>
+     Δ behaved like
+     <italic>
+      fus2
+     </italic>
+     Δ genetically (i.e.,
+     <italic>
+      rvs161
+     </italic>
+     Δ
+     <italic>
+      fus1
+     </italic>
+     Δ is more severe than either
+     <italic>
+      fus1
+     </italic>
+     Δ or
+     <italic>
+      rvs161
+     </italic>
+     Δ single mutant alone). Furthermore, the
+     <italic>
+      rvs161
+     </italic>
+     Δ
+     <italic>
+      fus2
+     </italic>
+     Δ double mutant showed the same phenotype as either single mutant. Therefore, we propose that Rvs161p and Fus2p might act in the same pathway for cell fusion. In agreement with this hypothesis, we showed that Rvs161p coprecipitates with Fus2p, and that the stability of Fus2p depends on Rvs161p\\\\\\\\s mating function in the cell. Therefore, we concluded that Rvs161p interacts with Fus2p to promote cell fusion.
+    </p>
+    <sec>
+     <title>
+      Endocytosis Does Not Play a Direct Role in Cell Fusion
+     </title>
+     <p>
+      After initial cell–cell contact, partner cells remodel their cell wall to achieve cell fusion. Because mating can occur in hypo-osmotic media, it seems likely that the cells make a seal to ensure their integrity as the cells fuse. During fusion, the cells must remove the intervening cell wall at the point of cell contact. After cell wall removal the cells must then fuse their plasma membranes. The mechanisms responsible for removing the intervening cell wall and for fusing the plasma membranes are not known. During vegetative growth, yeast cells constantly remodel their cell wall to accommodate bud growth. This process requires delivery of glucanases and glucan-synthases through the secretory pathway to the growing site in the bud. The net result of the action of these enzymes in this case is the new addition of cell wall material. It seems likely that the removal of the intervening cell wall is accomplished through the localized delivery of glucanases to the cell fusion zone. EM analysis of mating cells showed clusters of vesicles at either side of the cell fusion zone in cells that are about to fuse (      ). The origin of the vesicles is not known, but it is tempting to speculate that these are secretory vesicles that carry hydrolytic enzymes required to remove the intervening cell wall. Alternatively, cell wall removal could be achieved by an endocytic mechanism or by a combination of both secretion and endocytosis.
+     </p>
+     <p>
+      Several mutants that affect endocytosis have been identified in yeast (      ). Several of the mutants (including
+      <italic>
+       end3-1, end4-1, end5-1, end6-1, end7-1,
+      </italic>
+      and
+      <italic>
+       rvs167
+      </italic>
+      Δ) that affect endocytosis at the internalization step also exhibit defects in actin organization (      ; Benedetti et al., 12994;      ). Cloning and identification of these genes showed that they all affect some aspect of actin cytoskeleton organization.
+      <italic>
+       END3
+      </italic>
+      is a 40-kD protein with putative Ca      and PIP
+      <sub>
+       2
+      </sub>
+      binding sites and a region of homology to the mammalian epidermal growth factor receptor tyrosine kinase substrate Eps15 (EH domain;      ; Fang et al., 1997).
+      <italic>
+       END4
+      </italic>
+      is allelic to
+      <italic>
+       SLA2
+      </italic>
+      , a 109-kD protein with homology to talin, a mammalian focal adhesion protein (      ).
+      <italic>
+       END5
+      </italic>
+      is allelic to
+      <italic>
+       VPR1,
+      </italic>
+      which encodes verprolin, a gene required for proper organization of the actin cytoskeleton, and for the proper mitochondrial/cytoplasmic protein distribution (      ;      ;      ). Finally,
+      <italic>
+       end7-1
+      </italic>
+      was found to be an allele of
+      <italic>
+       ACT1
+      </italic>
+      (      ). Given that this group of
+      <italic>
+       end
+      </italic>
+      mutants did not exhibit defects in cell fusion, we conclude that endocytosis, in general, is not required for cell fusion.
+     </p>
+     <p>
+      We were surprised to find that
+      <italic>
+       rvs167
+      </italic>
+      Δ did not result in any cell fusion defects. The Rvs domain of Rvs161p is also present in Rvs167p. Several lines of evidence have suggested that Rvs161p and Rvs167p are involved in the same cellular process. First, before this work, mutations in either gene had been shown to result in the same phenotypes (      ;      ). Second, alleles from each gene have common suppressors (      ;      ;      ). Third, Rvs167p and Rvs161p were shown to interact physically (      ). However, in spite of this evidence and the sequence homology between Rvs161p and Rvs167p, it seems that each of these proteins has a distinct role in a common cellular process. The Rvs domain of both Rvs161p and Rvs167p cannot be functionally exchanged with each other (      ), and
+      <italic>
+       RVS161
+      </italic>
+      and
+      <italic>
+       RVS167
+      </italic>
+      in high copy number plasmids were not able to suppress each other\\\\\\\\s mutations (      ). Not only do Rvs161p and Rvs167p have distinct roles in endocytosis, but we have found that Rvs167p is not required for cell fusion. This is the first time that a cellular function is attributed to just one of the two Rvs proteins. Thus, it is possible that Rvs161p interacts with Rvs167p to fulfill vegetative functions (i.e., endocytosis/actin organization) and with other proteins during mating.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Endocytosis/Actin Organization and Cell Fusion: Two Genetically Separable Functions of Rvs161p
+     </title>
+     <p>
+      Based on our findings that the
+      <italic>
+       end6-1
+      </italic>
+      allele of
+      <italic>
+       RVS161
+      </italic>
+      did not exhibit a cell fusion defect, we hypothesized that the role of
+      <italic>
+       RVS161
+      </italic>
+      in cell fusion must be separate from its role in endocytosis. In support of this hypothesis, we isolated alleles of
+      <italic>
+       RVS161
+      </italic>
+      that affected cell fusion without showing endocytic defects. We also isolated several more alleles that were like
+      <italic>
+       end6-1
+      </italic>
+      in that they affected endocytosis without affecting cell fusion. Therefore,
+      <italic>
+       RVS161
+      </italic>
+      has two genetically separate cellular functions; endocytosis and cell fusion, which map to two separate domains: an NH
+      <sub>
+       2
+      </sub>
+      -terminal domain required for endocytosis and a COOH-terminal domain required for cell fusion. One plausible model to explain the bifunctional characteristic of Rvs161p is that it interacts with proteins involved in endocytosis through the NH
+      <sub>
+       2
+      </sub>
+      -terminal domain and with cell fusion proteins through the COOH-terminal domain.
+     </p>
+     <p>
+      Given the previously reported observation that mutations in
+      <italic>
+       RVS161
+      </italic>
+      result in a disorganized actin cytoskeleton (      ;      ), we analyzed the actin organization in various
+      <italic>
+       rvs161
+      </italic>
+      alleles isolated in this study. Interestingly, we found that only the alleles that affect endocytosis had defects in the organization of the actin cytoskeleton. Our findings support the suggestion of a tight link between actin and endocytosis (      ;      ).
+     </p>
+     <p>
+      A connection between Rvs161p and actin has also been shown genetically.      discovered that the
+      <italic>
+       end6-1
+      </italic>
+      mutation of
+      <italic>
+       RVS161
+      </italic>
+      , but not
+      <italic>
+       rvs161
+      </italic>
+      Δ, exhibits unlinked noncomplementation with
+      <italic>
+       act1-1
+      </italic>
+      . This result indicates that the protein encoded by the
+      <italic>
+       end6-1
+      </italic>
+      allele of
+      <italic>
+       RVS161
+      </italic>
+      has a detrimental effect in the double heterozygous diploid, and suggests that Rvs161p and actin interact in vivo (      ). We found that all the
+      <italic>
+       rvs161
+      </italic>
+      End      -specific alleles showed some degree of unlinked noncomplementation with
+      <italic>
+       act1-1
+      </italic>
+      . In contrast, the double-heterozygous diploids containing
+      <italic>
+       rvs161
+      </italic>
+      Δ or any of the Fus      specific alleles did not show any growth defects. From this result and the observation that the
+      <italic>
+       rvs161
+      </italic>
+      cell fusion alleles showed a normal morphology of the actin cytoskeleton, we concluded that Rvs161p\\\\\\\\s role in cell fusion does not affect the organization of the actin cytoskeleton.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Rvs161p Might be Directly Involved in Cell Fusion
+     </title>
+     <p>
+      Two other genes required for cell fusion,
+      <italic>
+       FUS1
+      </italic>
+      and
+      <italic>
+       FUS2
+      </italic>
+      , are highly pheromone-induced and encode proteins that localize to the region of cell fusion (      ;      ). We found that
+      <italic>
+       RVS161
+      </italic>
+      was also induced by mating pheromone to three to fourfold higher levels. In addition,
+      <italic>
+       RVS161
+      </italic>
+      was recently identified in a screen for pheromone-induced genes (      ). Consistent with being a gene induced by mating pheromone, the DNA sequence upstream of
+      <italic>
+       RVS161
+      </italic>
+      contains two putative pheromone-response elements that differ from the consensus sequence by 1 bp. The relatively high levels of
+      <italic>
+       RVS161
+      </italic>
+      basal expression probably reflect the fact that this gene has a vegetative function.
+     </p>
+     <p>
+      During vegetative growth, Rvs161p localized mostly to the bud neck and bud in small-budded cells, consistent with the actin interaction. In pheromone-induced cells, we found that Rvs161-GFP localized at the tip of the shmoo. In spite of the fact that Rvs161p and Fus2p interact (see below), these proteins have apparently different localization patterns in shmoos.      reported that Fus2p primarily localizes to punctate structures under the surface of the shmoo projection. One possible explanation for the apparent discrepancy is that different methods for localization were used.      used immunofluorescence techniques with strains containing either a Fus2-lacZ fusion (which stabilizes Fus2p) or a high-copy
+      <italic>
+       FUS2
+      </italic>
+      plasmid. Alternatively, a failure to colocalize completely might not be surprising considering that only a fraction of these two proteins interact by coprecipitation experiments (see below).
+     </p>
+     <p>
+      In zygotes, Rvs161p concentrated at the zone of cell fusion in cells that are about to or in the process of fusing (early zygotes). Early zygotes can be distinguished from mature zygotes because they have a small zone of cell fusion (      ). As mating proceeds and the zygote reenters the mitotic cycle, the waist of the zygote widens. We found that in later zygotes (i.e., zygotes with a wide zone of cell fusion or budding zygotes) Rvs161-GFP was no longer concentrated in the former region of cell fusion. Similarly, in mating cells that are about to fuse, Fus2p was present mainly at the cell fusion zone and in early zygotes, and was no longer detected in cells that had undergone nuclear fusion (      ). In contrast to the apparent discrepancy between the Rvs161p and Fus2p localization in shmoos, these two proteins showed the same localization pattern in zygotes.
+     </p>
+     <p>
+      Taken together, Rvs161p\\\\\\\\s regulation and localization are consistent with it playing a direct role in cell fusion. It is likely that when cells are stimulated to undergo mating, regulatory signals dictate Rvs161p\\\\\\\\s relocalization to the cell fusion zone. This relocalization could be achieved by interactions with mating specific proteins that localize at the cell fusion zone.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Rvs161p Interacts with Fus2p to Promote Cell Fusion
+     </title>
+     <p>
+      <italic>
+       FUS2
+      </italic>
+      encodes a novel 677–amino acid protein with some homology to myosin-related proteins including the yeast Mlp1 (      ). Although not predicted to be a membrane protein, Fus2p was shown to be tightly associated with an insoluble fraction in cell fractionation experiments. Based on this result and the punctate localization of Fus2p, it was proposed that Fus2p is associated with a novel vesicle or cytoskeletal structure that plays a specific role in cell fusion (      ). However, Fus2p\\\\\\\\s role in cell fusion and the proteins that interact with Fus2p were not identified. Several lines of evidence suggest that Rvs161p interacts with Fus2p to promote cell fusion. First,
+      <italic>
+       rvs161
+      </italic>
+      Δ
+      <italic>
+       fus2
+      </italic>
+      Δ double mutant was not more defective than either single mutant, indicating that Rvs161p and Fus2p act in the same cell fusion pathway. Second, Rvs161p coprecipitated with Fus2p, suggesting that they are components of a common complex. Third, we found that the stability of Fus2p was dependent upon the presence of Rvs161p. Furthermore, Fus2p levels were specifically reduced in the cell fusion–defective alleles of
+      <italic>
+       RVS161
+      </italic>
+      . The allele specificity of the stability of Fus2p suggests that the
+      <italic>
+       rvs161
+      </italic>
+      Δ cell fusion defect is due, at least in part, to reduction in the level of Fus2p.
+     </p>
+     <p>
+      How does Rvs161p stabilize Fus2p and what is the relevance of the Rvs161–Fus2p interaction? One possibility is that Rvs161p directly interacts with Fus2p to prevent its degradation. In fact, we found that the cell fusion–defective
+      <italic>
+       rvs161
+      </italic>
+      mutants showed not only a reduction in Fus2p levels but also a reduction in the ability of the mutant proteins to interact with Fus2p. However, even in wild-type, only a small fraction of Fus2p coprecipitates with Rvs161p. Therefore, the Rvs161p–Fus2p interaction might not be stable under these conditions, or the interaction might be transient. One possibility is that Rvs161p is necessary to deliver Fus2p to other components of the cell fusion machinery. In this model, in the absence of Rvs161p, Fus2p would fail to localize to the correct place and therefore be more susceptible to degradation.
+     </p>
+     <p>
+      Alternatively, Rvs161p could bind Fus2p to allow for a modification that would stabilize and/or activate Fus2p. Indeed, both by Western blot and in pulse-chase experiments, we observed two or sometimes three bands corresponding to Fus2p, indicating that Fus2p is modified posttranslationally. In the pulse-chase analysis, the higher molecular band only appeared upon longer incubations with α-factor. Significantly, the higher molecular band was absent in
+      <italic>
+       rvs161
+      </italic>
+      Δ, suggesting that the Fus2p modification is dependent on Rvs161p. However, it is also possible that the modification does not occur because of the shorter half-life of Fus2p in this strain.
+     </p>
+     <p>
+      Is Rvs161p\\\\\\\\s sole function in cell fusion to stabilize Fus2p? In other experiments we have shown that
+      <italic>
+       FUS2
+      </italic>
+      can suppress the cell fusion defect of
+      <italic>
+       rvs161
+      </italic>
+      Δ strain when present in a high copy plasmid (      ). However, the suppression was only partial, even though the levels of Fus2p in the
+      <italic>
+       rvs161
+      </italic>
+      Δ strain containing
+      <italic>
+       FUS2
+      </italic>
+      on a high copy plasmid were higher than in wild-type (V. Brizzio and M. Rose, unpublished data). These results suggest that the Rvs161p-dependent modification of Fus2p might be crucial for its role in cell fusion. Alternatively, Rvs161p might have other functions independent of Fus2p. One intriguing possibility is that several proteins required for cell fusion interact with Rvs161p and Fus2p, and that all of them are destabilized in
+      <italic>
+       rvs161
+      </italic>
+      Δ. Consistent with both of these possibilities, we found that high copy
+      <italic>
+       RVS161
+      </italic>
+      did not suppress the
+      <italic>
+       fus2
+      </italic>
+      Δ cell fusion defect (      ). Further analysis of the Fus2p/ Rvs161p complex should elucidate the nature of the
+      <italic>
+       rvs161
+      </italic>
+      Δ defect.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <p>
+    C
+    <sc>
+     ell
+    </sc>
+    fusion is the process by which the plasma membranes of two cells fuse to establish cytoplasmic continuity. The fusion of egg and sperm to form a zygote and the fusion of muscle cell precursors to generate multinucleate syncytia of muscle fibers are two examples wherein cell fusion is a key process. The mating pathway in the yeast
+    <italic>
+     Saccharomyces cerevisiae
+    </italic>
+    is an excellent system in which to study cell fusion (for reviews see    ;    ;    ;    ). Each haploid cell produces a mating type–specific pheromone (
+    <bold>
+     a
+    </bold>
+    -factor or α-factor) and expresses a surface receptor that is able to bind the pheromone secreted by the opposite cell type. Binding of the pheromone to the receptor activates a mitogen-activated protein (MAP)    kinase signal transduction pathway leading to G1 cell cycle arrest and to the transcriptional induction of several genes required for efficient mating (e.g.,
+    <italic>
+     STE2
+    </italic>
+    ,
+    <italic>
+     STE3
+    </italic>
+    ,
+    <italic>
+     MFA1
+    </italic>
+    ,
+    <italic>
+     MFA2
+    </italic>
+    ,
+    <italic>
+     STE6
+    </italic>
+    ,
+    <italic>
+     FUS1
+    </italic>
+    ,
+    <italic>
+     FUS2, KAR3, KAR4
+    </italic>
+    and
+    <italic>
+     CIK1
+    </italic>
+    ). Cells initiate directional cell growth toward the mating partner, resulting in development of a mating projection sometimes called a shmoo. After contact between the partner cells is achieved, cell fusion occurs between them, establishing cytoplasmic continuity. Finally, the nuclei are brought together via microtubule-dependent movement, and the nuclear membranes fuse at the spindle pole body to form a single diploid nucleus (    ;    ;    ).
+   </p>
+  </textgroup>
+  <textgroup>
+   <p>
+    In contrast to our general understanding of the early steps leading to cell–cell contact and the late steps of nuclear fusion, little is known about the mechanism and regulation of cell fusion. To fuse, the partner cells must establish cell–cell contact, seal the junction area, remove the intervening cell wall, and finally fuse the two plasma membranes. Initial cell contact between mating partners is mediated by the cell surface agglutinins (    ), followed by irreversible attachment of cell walls and formation of a seal resistant to osmotic pressure at the periphery of cell contact. Electron microscopy showed that soon after cell contact is established, removal of the intervening cell wall starts with a thinning of the cell walls in the middle point of the contact region and proceeds gradually toward the edges (    ;    ). In addition, we also observed the presence of vesicles tightly aligned with respect to each other on either side of the cell fusion zone (    ). However, the molecular mechanism by which the intervening cell wall is removed as well as the fusion machinery that mediates the plasma membrane fusion process still remains largely unknown. It seems likely that localized release of cell wall–degrading enzymes at the site of cell contact contributes to removal of the intervening cell wall. In addition, portions of the cell wall material could be removed by endocytosis. Given the likely changes that occur to the cell wall during fusion, it is reasonable to think that inappropriate activation of the cell fusion machinery could be hazardous for the cells. Therefore, it is likely that a mechanism must exist to regulate the onset of cell fusion during mating. However, the nature of this regulation is not fully understood.
+   </p>
+  </textgroup>
+  <textgroup>
+   <p>
+    Several cell fusion mutants have been identified in which zygote formation is blocked after cell–cell contact, but before removal of the intervening cell wall. The characterization of one group of mutants (including,
+    <italic>
+     fus3
+    </italic>
+    ,
+    <italic>
+     fus5/ AXL1
+    </italic>
+    ,
+    <italic>
+     fus8/RAM1
+    </italic>
+    ,
+    <italic>
+     cef1/STE6,
+    </italic>
+    and
+    <italic>
+     fps1
+    </italic>
+    ) has given some clues regarding the signal and/or regulation for cell fusion (    ;    ;    ;    ). Based on the study of
+    <italic>
+     FUS5/AXL1
+    </italic>
+    and
+    <italic>
+     FUS8/RAM1
+    </italic>
+    , two genes involved in processing
+    <bold>
+     a
+    </bold>
+    -factor, we proposed that high levels of pheromone are required to promote cell fusion (    ). Interestingly, mutations in
+    <italic>
+     FUS3
+    </italic>
+    , a MAP kinase with several functions in the pheromone response pathway, also result in cell fusion defects. These results suggest direct involvement of the MAP kinase pathway in regulating cell fusion (    ;    ). However, even in the presence of excess amounts of mating pheromone, cells do not become osmotically sensitive. Therefore, some aspect of cell fusion seems to be triggered by the presence of the partner cell once contact between the two mating cells is achieved.    proposed the existence of a checkpoint for cell fusion mediated by the protein kinase C (PKC) pathway based on the study of cells defective in the glycerol transporter
+    <italic>
+     FPS1
+    </italic>
+    (    )
+    <italic>
+     .
+    </italic>
+    In this model, activation of the
+    <italic>
+     PKC
+    </italic>
+    pathway inhibits cell wall degradation of pheromone-stimulated cells until cell–cell contact is achieved (    ).
+   </p>
+  </textgroup>
+  <textgroup>
+   <p>
+    Mutations in several genes involved in cell polarity and/ or actin cytoskeleton reorganization also lead to cell fusion defects (
+    <italic>
+     TMP1, BNI1, PEA2,
+    </italic>
+    and
+    <italic>
+     SPA2
+    </italic>
+    ). These results suggest that cell fusion depends on the cells\\\\\\\\ ability to polarize efficiently (    ;    ;    ). In addition, mutations in
+    <italic>
+     CHS5
+    </italic>
+    required to target the catalytic subunit of chitin synthase III to sites of polarized growth were also shown to result in cell fusion defects (    ;    ). Finally, mutations in
+    <italic>
+     FUS1
+    </italic>
+    and
+    <italic>
+     FUS2
+    </italic>
+    result in zygotes with a strong defect in cell fusion (    ; Truehart et al., 1987;    ). In contrast to the rest of the genes mentioned here,
+    <italic>
+     FUS1
+    </italic>
+    and
+    <italic>
+     FUS2
+    </italic>
+    seem to be specifically required for cell fusion. Both genes are strongly induced by pheromone, and mutations in these genes do not cause mutant phenotypes other than prezygote accumulation. Fus1p is an O-glycosylated type I membrane protein that localizes to the shmoo projection (Truehart and Fink, 1989). Fus2p is also tightly associated with membranes or insoluble particles, and localizes to punctate structures under the surface of the shmoo projection (    ). Both proteins localize to the cell fusion zone, suggesting a direct role in cell fusion (Truehart and Fink, 1989;    ). Fus1p and Fus2p may function in parallel pathways since
+    <italic>
+     fus1
+    </italic>
+    Δ
+    <italic>
+     fus2
+    </italic>
+    Δ double mutant strains are more defective for cell fusion than either single mutant alone (Truehart et al., 1987). However, overexpression of either gene can partially compensate for the absence of the other (Truehart et al., 1987). Interactions between Fus1p and Fus2p and other cell fusion genes have not been described, and the exact role of these proteins in cell fusion is not known.
+   </p>
+  </textgroup>
+  <textgroup>
+   <p>
+    In this paper, we show that
+    <italic>
+     FUS7
+    </italic>
+    is identical to
+    <italic>
+     RVS161
+    </italic>
+    , a gene previously implicated in endocytosis, organization of the actin cytoskeleton, and a variety of other cellular functions. However, we found that
+    <italic>
+     RVS161
+    </italic>
+    is likely to play a direct role in cell fusion that it is different from both its role in endocytosis and in actin organization. We also found that Rvs161p is induced by mating pheromone and localized to the cell fusion zone. Genetically, Rvs161p and Fus2p appear to act in the same pathway. Rvs161p and Fus2p are components of the same complex, and Rvs161p is required for Fus2p\\\\\\\\s stability. This is the first example of a physical interaction between two components of the cell fusion pathway.
+   </p>
+  </textgroup>
+ </sentences>
+</article>

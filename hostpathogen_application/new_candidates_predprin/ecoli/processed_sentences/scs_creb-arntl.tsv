@@ -1,0 +1,2 @@
+id_pmc	sentence location	highlighted phrase	interacting verbs	number of interacting verbs	experimental methods found	number of experimental methods	protein entities found	number of protein entities
+5890189	body	glucogon shows circadian changes in the rat plasma ( ruiter et al. , 2003 ) and during fasting turns on the creb / crtc2 transcriptional complex , which binds to the arntl promoter and promotes its expression ( sun et al. , 2015 ) .	complex|bind	2		0	creb|arntl|/|crtc2|transcriptional|complex	6

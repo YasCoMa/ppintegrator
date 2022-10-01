@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  None
+ </title>
+ <abstract>
+  <p>
+   Chlamydiae are obligate intracellular pathogens that likely require type III secretion (T3S) to invade cells and replicate intracellularly within a cytoplasmic vacuole called an inclusion body.
+   <italic toggle="yes">
+    Chlamydia pneumoniae
+   </italic>
+   possess a YscL ortholog, CdsL, that has been shown to interact with the T3S ATPase (CdsN). In this report we demonstrate that CdsL down-regulates CdsN enzymatic activity in a dose-dependent manner. Using Pepscan epitope mapping we identified two separate binding domains to which CdsL binds viz. CdsN
+   <sub>
+    221–229
+   </sub>
+   and CdsN
+   <sub>
+    265–270
+   </sub>
+   . We confirmed the binding domains using a pull-down assay and showed that GST–CdsN
+   <sub>
+    221–270
+   </sub>
+   , which encompasses these peptides, co-purified with His–CdsL. Next, we used orthology modeling based on the crystal structure of a T3S ATPase ortholog from
+   <italic toggle="yes">
+    Escherichia coli
+   </italic>
+   , EscN, to map the binding domains on the predicted 3D structure of CdsN. The CdsL binding domains mapped to the catalytic domain of the ATPase, one in the central channel of the ATPase hexamer and one on the outer face. Since peptide mimetics have been used to disrupt essential protein interactions of the chlamydial T3S system and inhibit T3S-mediated invasion of HeLa cells, we hypothesized that if CdsL–CdsN binding is essential for regulating T3S then a CdsN peptide mimetic could be used to potentially block T3S and chlamydial invasion. Treatment of elementary body with a CdsN peptide mimetic inhibited
+   <italic toggle="yes">
+    C. pneumoniae
+   </italic>
+   invasion into HeLa cells in a dose-dependent fashion. This report represents the first use of Pepscan technology to identify binding domains for specific T3S proteins viz. CdsL on the ATPase, CdsN, and demonstrates that peptide mimetics can be used as anti-virulence factors to block bacterial invasion.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec sec-type="introduction">
+    <title>
+     Introduction
+    </title>
+    <p>
+     <italic toggle="yes">
+      Chlamydia pneumoniae
+     </italic>
+     is an obligate, intracellular Gram-negative bacteria that has been associated with community acquired pneumonia (Clifton et al.,
+     ), atherosclerosis (Grayston,
+     ), arthritis (Ardeniz et al.,
+     ), and Alzheimer\s disease (Balin et al.,
+     ). The members of the genus
+     <italic toggle="yes">
+      Chlamydia
+     </italic>
+     all share a unique, biphasic life-cycle that is initiated by attachment of the metabolically quiescent elementary body (EB) to the host cell. The association between the EB and the host cell membrane is poorly understood, but glycosaminoglycans may be involved (Chen and Stephens,
+     ). Once attached to the host cell, type III secretion (T3S) is utilized to inject the translocated actin recruitment protein (TARP) to facilitate bacterial internalization into a plasma-membrane derived vacuole, termed an inclusion (Clifton et al.,
+     ; Lane et al.,
+     ). The MEK–ERK and PI 3-kinase pathways of the host cell are also involved in bacterial uptake, and are possibly targets of other T3S effectors translocated across the cytoplasmic membrane upon EB contact and binding to host cells (Coombes and Mahony,
+     ; Carabeo et al.,
+     ; Subtil et al.,
+     ). Once inside the host cell the remainder of the life-cycle occurs inside the inclusion body where EBs differentiate into the metabolically active, non-infectious reticulate bodies (RB). The RB remains in close association with the inclusion membrane, suggesting a need for active T3S in RBs. This interaction with the inclusion membrane allows the RB to communicate with the host cell via T3S, allowing the
+     <italic toggle="yes">
+      Chlamydia
+     </italic>
+     to commandeer host cell pathways to obtain lipids, cholesterol, and other nutrients crucial for its growth and replication, and also to prevent phagosome endosome fusion (Wylie et al.,
+     ; Hoare et al.,
+     ; Scidmore and Hackstadt,
+     ). Following inclusion body growth to accommodate replicating RBs, an unknown signal (possibly quorum sensing) triggers the detachment of RBs from the membrane and subsequent re-assortment into infectious EBs. The EBs then exit the host cell either by cell lysis or through extrusion, a packaged release mechanism which leaves the host cell intact (Hybiske and Stephens,
+     ).
+    </p>
+    <p>
+     Type III secretion is a virulence mechanism commonly used by Gram-negative bacteria to directly translocate effector proteins from the bacterial cytoplasm to the host cell cytoplasm in a single step, through the use of a syringe-like apparatus termed an injectisome (Galan and Collmer,
+     ; Ghosh,
+     ; Galan and Wolf-Watz,
+     ). The injectisome is constructed of 20–25 proteins spanning the inner membrane, periplasm, and outer membrane, extending into the extracellular milieu to allow for host cell sensing and contact. Upon host cell contact, the T3S injectisome apparatus injects two translocator proteins into the host cell membrane to form the translocon, a molecular pore through which secreted proteins can enter the host cell (Goure et al.,
+     ). Despite the fact that
+     <italic toggle="yes">
+      Chlamydia
+     </italic>
+     possesses a full repertoire of T3S genes scattered throughout the genome on at least 10 distinct operons, a systematic study of the injectisome has yet to be undertaken as chlamydial species are genetically intractable (Hefty and Stephens,
+     ). Recent reports have identified a few T3S structural and effector proteins, providing some understanding of the
+     <italic toggle="yes">
+      Chlamydia
+     </italic>
+     T3SS. Our laboratory has shown that CdsD, a unique protein orthologs to YscD that contains two fork-head associated domains, interacts with the predicted
+     <italic toggle="yes">
+      C. pneumoniae
+     </italic>
+     ATPase tethering protein, CdsL, as well as CdsQ, a putative multi-cargo transport protein (Johnson et al.,
+     ; Spaeth et al.,
+     ). We extended these findings to show that CdsN also binds to this complex, and interacts independently with CdsD, CdsL, and CdsQ (Stone et al.,
+     ). Betts et al. (
+     ) have also recently identified the
+     <italic toggle="yes">
+      C. trachomatis
+     </italic>
+     <italic toggle="yes">
+      CT666
+     </italic>
+     gene encoding CdsF, the needle filament protein of the injectisome. The role of a few effector proteins of
+     <italic toggle="yes">
+      C. pneumoniae
+     </italic>
+     have been recently discovered. Cpn0585 is found in the inclusion membrane and interacts with Rab 1, 10, and 11, possibly recruiting these ATPases to the inclusion membrane (Cortes et al.,
+     ). Cpn0827 is a second effector protein that is detectable in the inclusion membrane at 20 hpi (Hermann et al.,
+     ). The
+     <italic toggle="yes">
+      Chlamydia
+     </italic>
+     protein associating with death domains (CADD) is a conserved effector known to interact with TNF family receptors (Stenner-Liewen et al.,
+     ). Recent biophysical evidence has also been presented by Markham et al. (
+     ) suggesting that the
+     <italic toggle="yes">
+      C. trachomatis
+     </italic>
+     protein CT584 could function as the needle tip protein, which is imperative for host cell sensing and translocator insertion into the host cell membrane.
+    </p>
+    <p>
+     Type III secretion ATPases are believed to be assembled as a hexameric ring at the basal body of the injectisome and play a role in delivery of effector proteins through the injectisome (Zarivach et al.,
+     ). Several T3S ATPases have been partially characterized, including EscN from
+     <italic toggle="yes">
+      Escherichia coli
+     </italic>
+     (Andrade et al.,
+     ), YscN from
+     <italic toggle="yes">
+      Yersinia
+     </italic>
+     (Blaylock et al.,
+     ), and InvC from
+     <italic toggle="yes">
+      Salmonella
+     </italic>
+     (Akeda and Galan,
+     ), although the ability of the T3S ATPase to coordinate numerous protein interactions has not been explored. These ATPases have been shown to have significant sequence orthology to the β subunit of the F
+     <sub>
+      0
+     </sub>
+     F
+     <sub>
+      1
+     </sub>
+     ATPase, and to hydrolyze ATP. Not only are these ATPases important for providing energy for protein transport, but they are believed to play a role in unfolding the effector proteins before translocation, which may be accomplished by releasing the chaperone from its cognate effector protein (Akeda and Galan,
+     ). In
+     <italic toggle="yes">
+      Yersinia
+     </italic>
+     , the ATPase tethering protein YscL localizes the ATPase to the inner membrane, potentially by performing a function similar to that of the gamma-stalk of the F
+     <sub>
+      0
+     </sub>
+     F
+     <sub>
+      1
+     </sub>
+     ATPase (Pallen et al.,
+     ). YscL has also been shown to play a role in regulation of the ATPase activity by down-regulating enzymatic activity (Blaylock et al.,
+     ). The quaternary structure of ATPase, viz. the hexamer, has been associated with enhanced enzymatic activity and most likely reflects the native conformation of this protein.
+    </p>
+    <p>
+     In this report we show that CdsL down-regulates the enzymatic activity of CdsN. We utilized Pepscan epitope mapping to determine where CdsL binds to CdsN, and used an orthology modeling approach to map this domain onto the predicted 3D structure of CdsN (Bernard et al.,
+     ; Teeling et al.,
+     ; Timmerman et al.,
+     ). We found that CdsN possesses two distinct binding domains for CdsL, one to potentially mediate the tethering function and the other to mediate the down-regulation function. We also show that a CdsN peptide acts as a peptide mimetic preventing bacterial invasion. This is the first report to identify binding domains for a T3S ATPase regulating protein and the use of a peptide mimetic as a novel antimicrobial agent to potentially target T3S.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="materials|methods">
+    <title>
+     Materials and Methods
+    </title>
+    <sec>
+     <title>
+      Expression plasmids
+     </title>
+     <p>
+      <italic toggle="yes">
+       Chlamydia pneumoniae
+      </italic>
+      CWL029 (VR1310:ATCC; GenBank accession No. AE001363) was the strain used to isolate genomic DNA for cloning and protein expression. Full length
+      <italic toggle="yes">
+       cdsL
+      </italic>
+      and
+      <italic toggle="yes">
+       cdsN
+      </italic>
+      were amplified from CWL029 using AttB-containing primers (Gateway; Invitrogen). The amplified products were cloned into pDONR
+      <sub>
+       201
+      </sub>
+      (Gateway; Invitrogen) to generate pENT vectors. The pENT vectors were then used in LR reactions (Gateway; Invitrogen) to produce pEX vectors containing the genes of interest. We used either pEX
+      <sub>
+       17
+      </sub>
+      (N-terminal His-tag) or pEX
+      <sub>
+       15
+      </sub>
+      (N-terminal GST-tag) vectors for our protein expression. All constructs were confirmed by sequencing at the Molecular Biology Facility at McMaster University.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Protein expression
+     </title>
+     <p>
+      All constructs were expressed in
+      <italic toggle="yes">
+       E. coli
+      </italic>
+      Rosetta pLysS. Expression plasmids were used to transform
+      <italic toggle="yes">
+       E. coli
+      </italic>
+      Rosetta pLysS and plated on LB plates containing 100 μg/mL ampicillin. LB broth (750 mL), containing antibiotics, was then inoculated with 12 mL of an overnight culture and grown at 37°C until they reached an optical density (OD)
+      <sub>
+       600
+      </sub>
+      of approximately 0.8. Cultures were then cooled on ice to 20°C and induced with 0.2 mM of isopropyl β-
+      <sc>
+       d
+      </sc>
+      -thiogalactopyranoside (IPTG). Cultures were then incubated at 23°C for 2 h and bacteria were harvested by centrifugation at 6500×
+      <italic toggle="yes">
+       g
+      </italic>
+      for 10 min in a Sorvall RC-5B centrifuge and washed with ice-cold phosphate-buffered saline (PBS). Bacteria containing His-tagged protein were resuspended in either Binding Buffer (50 mM potassium phosphate pH 7.2, 150 mM KCl, 1 mM MgCl
+      <sub>
+       2
+      </sub>
+      ) when used in GST pull-downs, or Nickel A buffer (20 mM Tris pH 7.0, 0.02% β-mercaptoethanol, 400 mM KCl, 1% Triton X-100) when used in ATPase activity assays, while the bacteria containing GST-tagged protein were resuspended in PBS and stored at −20°C until further use.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Purification of recombinant proteins
+     </title>
+     <p>
+      <italic toggle="yes">
+       Escherichia coli
+      </italic>
+      pellets containing over-expressed His- or GST-tagged proteins were thawed on ice and sonicated using a Fischer Scientific Sonic Dismembrator Model 100, followed by centrifugation at 20,000×
+      <italic toggle="yes">
+       g
+      </italic>
+      for 40 min to remove insoluble material. Supernatants containing His-tagged protein for use in GST pull-down assays were stored at 4°C. GST-tagged protein for use in GST pull-down assays were bound to 300 μL of glutathione beads overnight at 4°C, then blocked overnight in Tris Buffered Saline with 0.1% Tween-20 and 4% BSA and stored at 4°C until use. His- and GST-tagged protein supernatants for use in ATPase activity assays were filtered through 0.45 μm acrodisc filters (Pall Corporation) and purified on either a 1-mL GSTrap FF column (GE Healthcare) or a 1-mL HisTrap HP column (GE Healthcare). For GST-tagged protein, columns were washed with PBS + 0.1% Tween until the flow-through had an OD
+      <sub>
+       280
+      </sub>
+      of less than 0.005. GST-tagged protein was then eluted off the beads using 1.5 μg/μL reduced glutathione (Sigma) and dialyzed against activity buffer (50 mM Tris–HCl pH 7.0, 5 mM MgCl
+      <sub>
+       2
+      </sub>
+      , 10 mM KCl). Purity was confirmed using SDS–PAGE and Coomassie blue staining. For His-tagged proteins, columns were washed with increasing imidazole concentrations and eluted with 300 mM imidazole then dialyzed into activity buffer. Purity was confirmed using SDS–PAGE and Coomassie blue staining.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      CdsN enzymatic activity down-regulation experiments
+     </title>
+     <p>
+      ATP hydrolysis by GST–CdsN purified from GSTrap columns was measured using a malachite green assay (R&amp;D Systems) which measures released inorganic phosphate from ATP. For all experiments, the specific activity was determined using the equation of a standard line generated using phosphate standard (R&amp;D Systems). Reaction mixtures contained 150 ng of GST–CdsN, 40 μM ATP, 50 mM Tris–HCl pH 7.0, 5 mM MgCl
+      <sub>
+       2
+      </sub>
+      , and 10 mM KCl. The reaction mixture (1 mL) was incubated at 37°C for 1 h and 50 μL of the mixture was taken for inorganic phosphate determination at various time points. The reaction was stopped by the addition of 10 μL of Malachite Green Reagent A followed by 10 μL of Malachite Green Reagent B and incubated at room temperature for 1 min before an OD
+      <sub>
+       610
+      </sub>
+      reading was taken, according to the manufacturer\s instructions. For the negative control, purified CdsN was digested for 10 min at 37°C using Proteinase K (Invitrogen). Also, as a negative control, another GST-tagged protein (CopN) that lacks ATPase activity was purified in the same manner and tested for activity. ATPase activity was expressed as nmol phosphate released min
+      , and all experiments were performed in triplicate. His–CdsL was purified from Ni-NTA agarose beads and tested for any contaminating ATPase activity using the Malachite Green Assay. It was then added in varying amounts into the reaction mixture with CdsN prior to addition of ATP and incubated for 20 min on ice. The activity assay was then performed as described above.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      GST pull-down assays
+     </title>
+     <p>
+      To examine the interaction of CdsN
+      <sub>
+       221–270
+      </sub>
+      with CdsL, GST pull-down assays were performed as described previously by Johnson et al. (
+      ), with the following modifications. Briefly, glutathione–agarose beads (30 μL) bound to 50 ng of GST-tagged CdsN
+      <sub>
+       221–270
+      </sub>
+      protein was used in the assay. The beads were incubated overnight at 4°C with the
+      <italic toggle="yes">
+       E. coli
+      </italic>
+      lysate expressing the His-tagged proteins. The beads were collected by centrifugation and washed with 0.1% Triton X-100 and increasing concentrations of NaCl to eliminate spurious protein interactions. The presence of the GST- and His-tagged proteins were confirmed by both Coomassie blue and Western blot. All proteins were eluted from the glutathione beads and electrophoresed on an 11% SDS–PAGE gel before being probed for His-tagged protein. GST alone bound to glutathione beads was used as a negative control for the pull-down.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Peptide library synthesis, screening assays, and 3D modeling
+     </title>
+     <p>
+      The linear and/or CLIPS peptides are synthesized based on the amino acid sequence of the target protein using standard Fmoc-chemistry and de-protected using trifluoric acid with scavengers. The constrained peptides are synthesized on chemical scaffolds in order to reconstruct conformational epitopes, using Chemically Linked Peptides on Scaffolds (CLIPS) technology (Timmerman et al.,
+      ). For example, the single looped peptides are synthesized containing a dicysteine, which was cyclized by treating with alpha, α′-dibromoxylene, and the size of the loop is varied by introducing cysteine residues at variable spacing. If other cysteines besides the newly introduced cysteines are present, they are replaced by alanine. The side-chains of the multiple cysteines in the peptides are coupled to CLIPS templates by reacting onto credit-card format polypropylene Pepscan cards (455 peptide formats/card) with a 0.5-mM solution of CLIPS template such as 1,3-bis (bromomethyl) benzene in ammonium bicarbonate (20 mM, pH 7.9)/acetonitrile [1:1(v/v)]. The cards are gently shaken in the solution for 30–60 min while completely covered in solution. Finally, the cards are washed extensively with excess of H
+      <sub>
+       2
+      </sub>
+      O and sonicated in disrupt-buffer containing 1% SDS/0.1% β-mercaptoethanol in PBS (pH 7.2) at 70°C for 30 min, followed by sonication in H
+      <sub>
+       2
+      </sub>
+      O for another 45 min. The binding of antibody or labeled protein/peptide to each peptide is tested in a Pepscan-based ELISA. The 455-well credit-card format polypropylene cards containing the covalently linked peptides are incubated with peptide solution for example consisting of 1 μg/mL diluted in blocking solution, for example 4% horse serum, 5% ovalbumin (w/v) in PBS/1% Tween. After washing, the peptides are incubated with a monoclonal mouse anti-His-tag antibody (1/1000, Novagen, 70796-3) and subsequently after washing with a rabbit-anti-mouse antibody peroxidase conjugate (1/1000, Southern Biotech, 6175-05) for 1 h at 25°C. After washing, the peroxidase substrate 2,2′-azino-di-3-ethylbenzthiazoline sulfonate (ABTS) and 2 μL of 3% H
+      <sub>
+       2
+      </sub>
+      O
+      <sub>
+       2
+      </sub>
+      are added. After 1 h, the color development is measured. The color development is quantified with a charge coupled device (CCD)-camera and an image processing system. The raw-data are optical values obtained by a CCD-camera. The values mostly range from 0 to 3000, a log scale similar to 1–3 of a standard 96-well plate ELISA-reader. First the CCD-camera makes a picture of the card before peroxidase coloring and then again a picture after the peroxidase coloring. These two pictures are subtracted from each other which results in the data which is called raw-data. This is copied into the Peplab™ database. Then the values are copied to excel and this file is labeled as raw-data file. One follow-up manipulation is allowed. Sometimes a well contains an air-bubble resulting in a false-positive value, the cards are manually inspected, and any values caused by an air-bubble are scored as 0. 3D structure prediction was performed using 3D-JIGSAW (
+      <uri ns0:href="http://www.bmm.icnet.uk/~3djigsaw/">
+       http://www.bmm.icnet.uk/~3djigsaw/
+      </uri>
+      ). Modeling was then performed using PYMOL software.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Peptide design and entry into EBs
+     </title>
+     <p>
+      Based on the Pepscan epitope mapping of CdsN, two domains were found that mediate the interaction between CdsN and CdsL. The smaller of the two domains (residues 265–279), corresponding to TRFARA, was chosen to create a peptide mimetic compound. We synthesized the TRFARA peptide with a N-terminal membrane transport sequence (MTS), YGRKKRRQRRR (Efthymiadis et al.,
+      ). We also extended the CdsN sequence flanking the TRFARA peptide to ensure the entire binding domain was included, and flanked the peptide with cysteine residues to assist with any disulfide bonding that may be required for binding. The final peptide utilized was the 28-amino acid sequence YGRKKRRQRRRCVVLMMDSVTRFARALC and was used in its linear form for inhibition experiments. Peptides were synthesized by Peptide 2.0.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      GST–MTS uptake by EBs
+     </title>
+     <p>
+      Chlamydial EBs were purified using a discontinuous gastrografin gradient, and resuspended in PBS. Either GST or GST–MTS was incubated at varying concentrations (0, 100, 500 μm) or for varying times (5, 30, or 60 min) with the purified EBs at 4°C. The EBs were then pelleted and washed three times with PBS, followed by trypsinization for 30 min to ensure that no protein was bound to the outside of the EB. EBs were then boiled in loading dye and probed for the presence of GST using Western blot.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Peptide cytotoxicity
+     </title>
+     <p>
+      The cytotoxicity was performed as described by Johnson et al. (
+      ). The effect of the CdsN TRFARA peptide on HeLa cell viability was determined. Briefly, 50 or 100 μM of the CdsN peptide, control peptides, or the positive control (1% SDS plus 0.1% Triton X-100) were added to sub-confluent HeLa cells in six-well plates. At 1 h supernatants were harvested and tested for the presence of adenylate kinase using a cytotoxicity assay (Lonza ToxiLight
+      BioAssay, Rockland). The cytotoxicity assay was performed as per the manufacturer\s protocol. Briefly, supernatants from HeLa cell cultures incubated with the CdsN TRFARA peptide (in MEM containing cycloheximide) were tested for evidence of eukaryotic cell cytotoxicity. Aliquots (5 μL) of each supernatant were mixed with 25 μL of Adenylate Kinase Detection Reagent and samples were incubated at room temperature for 5 min. Relative light units (RLUs) were measured using a 20/20-n Single Tube Luminometer from Turner BioSystems (Sunnyvale). Assays were conducted in triplicate for each condition. Cell monolayers were washed with warm PBS. 0.75 mL of trypsin was added to each well, and 0.75 mL of MEM was added after complete trypsinization (trypsinization was monitored by light microscopy). Each sample was thoroughly resuspended and aliquoted into a plastic cuvette and the cell number immediately quantitated by determining the optical density at 800 nM using a spectrophotometer.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Electron microscopy and immunofluorescence
+     </title>
+     <p>
+      HeLa cells grown to 90% confluency in 6-well plates were infected with
+      <italic toggle="yes">
+       C. pneumoniae
+      </italic>
+      , pre-incubated with linear CdsN peptide for 30 min or with linear random peptide (MTS–MFAVNAQ) for 30 min at various concentrations, centrifuged for 45 min at room temperature, followed by incubation at 37°C for 1 h. The inoculum and peptide were removed and the medium replaced with MEM containing 1 μg/mL cycloheximide to inhibit host cell protein synthesis. Cells were incubated at 37°C for 72 h, collected by trypsinization and centrifugation at 1000 rpm for 10 min then fixed overnight at 4°C with 2% glutaraldehyde (v/v) in cacodylate buffer, 7.2. The cell pellets were post-fixed in 2% osmium tetroxide (v/v), embedded in Spurs medium, and thin sections were cut on a Reichert Ultracut E microtome. Sections were examined in a Jeol 1200 electron microscope at 80 kV and pictures were captured with an AMT digital camera. For immunofluorescent staining of inclusions, HeLa cells were infected as above using cell monolayers on glass cover slips in shell vials, fixed in methanol, and stained using the Pathfinder kit, which uses a FITC-conjugated major outer membrane protein (MOMP)-monoclonal antibody specific to
+      <italic toggle="yes">
+       Chlamydia
+      </italic>
+      , as per the manufacturer\s instructions.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="results">
+    <title>
+     Results
+    </title>
+    <sec>
+     <title>
+      Regulation of CdsN by CdsL
+     </title>
+     <p>
+      Type III secretion ATPases are known to be enzymatically down-regulated by YscL orthologs (Blaylock et al.,
+      ).
+      <italic toggle="yes">
+       C. pneumoniae
+      </italic>
+      encodes a YscL ortholog, CdsL (
+      <italic toggle="yes">
+       Cpn0826
+      </italic>
+      ), which led us to explore whether CdsL down-regulates CdsN in
+      <italic toggle="yes">
+       C. pneumoniae
+      </italic>
+      . We have previously confirmed that CdsN interacted with CdsL using a GST pull-down assay, showing that CdsL co-purified with CdsN in 500 mM NaCl (Stone et al.,
+      ). We also showed previously that a CdsN-GST fusion protein possessed enzymatic activity consistent with other T3S ATPases (Stone et al.,
+      ). We found that CdsN hydrolyzed ATP at a rate of 0.0734 ± 0.0053 nmol/min at the concentration used in this assay (150 ng total). Prior to testing the ability of CdsL to regulate CdsN activity, we confirmed that CdsL lacked any ATPase activity by assaying it alone in the malachite green assay to control for possible contamination and found that CdsL possessed no ATPase activity. To test for regulation of CdsN by CdsL we added increasing amounts of CdsL to the CdsN reaction mixture. We found that addition of CdsL reduced CdsN enzymatic activity at a 0.3 CdsL:1 CdsN molar ratio, but the effect was most dominant at a 2.1 CdsL:1 CdsN molar ratio of CdsL: CdsN, where enzymatic activity was reduced by 82% (Figure
+      ). Further increasing the CdsL concentration only marginally reduced activity. The addition of a control His-tagged protein (His-CopN, a T3S structural component) had no effect on CdsN activity. Also as a control, His–CdsL had no effect on the enzymatic activity of a second
+      <italic toggle="yes">
+       C. pneumoniae
+      </italic>
+      ATPase, GspE (data not shown). GspE is a type II secretion ATPase which possesses enzymatic activity.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Pepscan analysis of CdsN–CdsL interaction
+     </title>
+     <p>
+      We have shown that CdsN is enzymatically down-regulated by CdsL, but the mechanism by which this occurs is unknown. In an attempt to expand our understanding of how CdsL may function to down-regulate CdsN, we have utilized Pepscan epitope mapping to identify the domains within CdsN responsible for the CdsL interaction. Purified His–CdsL was added to an over-lapping peptide library consisting of 4000 over-lapping linear and conformational peptides of the CdsN protein in search for the peptide domain mediating protein binding (Timmerman et al.,
+      ). CdsN contained two binding regions that mediated the interaction with CdsL. The two CdsL binding sequences spanned residues 221–229, and residues 265–270 corresponding to the amino acids “RSVIVVSTS” and “TRFARA,” respectively, both of which are present within the catalytic domain (Figure
+      ). To corroborate the Pepscan data, we cloned and expressed a fragment of CdsN spanning residues 221–270 containing both of the CdsL predicted binding domains to test whether this CdsN fragment bound to His–CdsL. We found that the CdsN
+      <sub>
+       221–270
+      </sub>
+      co-purified with His–CdsL in the presence of 500 mM NaCl while GST alone did not co-purify with CdsL under any salt conditions (Figure
+      ).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      3D modeling of CdsN–CdsL binding domain
+     </title>
+     <p>
+      The crystal structure of the
+      <italic toggle="yes">
+       E. coli
+      </italic>
+      T3S ATPase, EscN, has recently been elucidated, allowing us to use an orthology modeling approach to obtain a predicted 3D structure of CdsN and to visualize the CdsL binding domains (Zarivach et al.,
+      ). CdsN and EscN possess a large amount of sequence orthology within the catalytic domain, where the CdsL binding domains are located (Stone et al.,
+      ). Using 3D-JIGSAW, a 3D structure of CdsN was generated and used to model the binding domains for CdsL. Modeling of the binding regions of CdsL on the predicted CdsN monomer revealed that both of the binding domains for CdsL are present in the central region of CdsN (Figure
+      A). A more revealing mapping of the binding domains is shown when hexameric CdsN is modeled from the EscN crystal structure (Zarivach et al.,
+      ). For clarity, we have shown only one half of the predicted hexameric structure of CdsN (a CdsN trimeric complex). Residues 221–229 are exposed toward the outer face of the hexamer (Figure
+      B, blue), while residues 265–270 are exposed in the central channel of the hexameric ring (Figure
+      C, red). The location of the binding domains is consistent with a proposed mechanism of CdsL down-regulation of CdsN sterically hindering access of ATP to the P-loop (Figures
+      B,C, magenta).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Inhibition of
+      <italic toggle="yes">
+       C. pneumoniae
+      </italic>
+      growth and replication by CdsN cognate peptide
+     </title>
+     <p>
+      The Pepscan binding data revealed two distinct domains of CdsN that mediate the interaction between CdsN and CdsL. Using this information we sought to design and utilize a peptide mimetic targeting the interaction between CdsN and CdsL and examine its effect on chlamydial replication. As discussed above, CdsN possessed two different binding domains for CdsL; we selected the six amino acid sequence TRFARA to create a potential peptide mimetic. We synthesized the TRFARA peptide with a N-terminal MTS, YGRKKRRQRRR (Efthymiadis et al.,
+      ). We also extended the CdsN sequence flanking the TRFARA peptide to ensure the entire binding domain was included, and flanked the peptide with cysteine residues to assist with any disulfide bonding that may be required for binding. The final peptide utilized was the 28-amino acid sequence YGRKKRRQRRRCVVLMMDSVTRFARALC. To examine whether the peptide-MTS was entering EBs, we first incubated either GST alone or GST–MTS at 50, 100, and 500 μM with gastrografin purified EBs. We saw that the amount of GST–MTS entering EBs increased in a dose-dependent manner (Figure
+      A). The GST control (500 μm) was taken up poorly by
+      <italic toggle="yes">
+       Chlamydia
+      </italic>
+      . We then added either GST or GST–MTS for increasing time periods (5, 30, or 60 min) which showed increasing uptake with time, starting as early as 5 min (Figure
+      B). Again, the GST control showed very poor uptake into
+      <italic toggle="yes">
+       Chlamydia
+      </italic>
+      , suggesting that the MTS facilitates peptide entry in a time- and dose-dependent manner. HeLa cells were then infected with
+      <italic toggle="yes">
+       C. pneumoniae
+      </italic>
+      at an MOI of 2 and stained for inclusions at 72 h using a FITC-conjugated anti-MOMP monoclonal antibody. The CdsN peptide was added to EBs at a 0, 20, 50, and 100-μM concentrations for 30 min prior to infection and we saw that infectivity was reduced in a dose–response fashion (Figure
+      A). In the absence of the peptide, inclusions are clearly visible at 72 h (Figure
+      ). Pre-treatment of the cells with 50 μM peptide resulted in a drastic reduction in the number of inclusions (&gt;95%), while at 100 μM there was toxicity for HeLa cells. To rule out the possibility that the inhibitory activity at 50 μM might be due to toxicity we tested the effect of the peptide at 50 μM on HeLa cells using an adenylate kinase release assay and found little or no toxicity (Figure
+      B). We next examined infected cells with the CdsN or the random peptide by transmission electron microscopy. In infected cells exposed to the random peptide large inclusion bodies containing a mixture of RBs and EBs were readily visible while infected cells incubated with 50 μM CdsN peptide lacked any detectable inclusions when over 200 cells were examined and showed no evidence of cytotoxicity (Figure
+      ).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="discussion">
+    <title>
+     Discussion
+    </title>
+    <p>
+     Although
+     <italic toggle="yes">
+      C. pneumoniae
+     </italic>
+     contains all the genes coding for a T3SS, only a small number of these have been characterized. We have previously shown that CdsN possesses enzymatic activity and interacts with the putative type III secretion protein, CdsL (Stone et al.,
+     ). We have now extended these observations to show that CdsL functions to down-regulate CdsN enzymatic activity. We have also used a novel approach to map the exact region within CdsN that mediates the CdsN–CdsL interaction, and used this information to design a peptide mimetic that disrupts the chlamydial replication cycle. Combined, this data provides new insights into the regulation of the T3S system and its importance in the chlamydial life-cycle.
+    </p>
+    <p>
+     YscL orthologs have been shown to down-regulate T3S ATPase enzymatic activity in
+     <italic toggle="yes">
+      Yersinia
+     </italic>
+     , and
+     <italic toggle="yes">
+      C. pneumoniae
+     </italic>
+     encodes a YscL ortholog (CdsL; Blaylock et al.,
+     ; Stone et al.,
+     ). We found that CdsN treated with increasing concentrations of CdsL reduced enzymatic activity up to 82%. To show that the regulation by CdsL was specific we tested the ability of CdsL to down-regulate the type II secretion ATPase of
+     <italic toggle="yes">
+      Chlamydia
+     </italic>
+     , GspE, and found that it had no effect on its enzymatic activity. This suggests that CdsL is specific in its down-regulation of CdsN. CdsL has previously been shown to be expressed at all time points throughout the replication cycle with an apparent accumulation during the final 48 h (Slepenkin et al.,
+     ). This is consistent with a role for CdsL regulating T3S during invasion and intracellular replication phases of the life-cycle in EBs and RBs, respectively.
+    </p>
+    <p>
+     Type III secretion ATPases are known to mediate numerous protein interactions between both structural components and chaperone/effector complexes, and play a critical role in construction of the injectisome and secretion of effectors (Gauthier and Finlay,
+     ; Akeda and Galan,
+     ). We used Pepscan Analysis to determine the CdsN domain that mediates the interaction with CdsL. We found that there were two distinct domains within CdsN that interacted with CdsL; one exposed in the central channel of the hexameric structure of CdsN and the other exposed on the outer face. Using GST pull-downs, we corroborated the Pepscan data by demonstrating that a 49-amino acid fragment of CdsN containing both of the predicted CdsL binding domains was able to co-purify with full length CdsL. We have shown previously that CdsL forms dimers, and it is likely that the two CdsL molecules interact with different regions of CdsN (Pallen et al.,
+     ; Stone et al.,
+     ). This would be consistent with the two binding domains on CdsN. Along with regulating ATPase activity, CdsL is believed to tether the ATPase to the inner membrane, functioning in a similar manner as the gamma-stalk of the F
+     <sub>
+      0
+     </sub>
+     F
+     <sub>
+      1
+     </sub>
+     ATPase which runs through the central channel of the F
+     <sub>
+      0
+     </sub>
+     F
+     <sub>
+      1
+     </sub>
+     hexamer and may interact with the membrane (Pallen et al.,
+     ). The location of the CdsL binding domain within the central channel of CdsN supports the concept that CdsL functions in a similar manner as the gamma-stalk domain for CdsN. Both binding domains are found in close proximity to the P-loop within the catalytic domain which coordinates ATP binding and cleavage (Stone et al.,
+     ). It is possible that when CdsL is bound to either of these domains it could sterically hinder access of ATP to the P-loop, reducing enzymatic function of CdsN. The tethering function of CdsL would be crucial for T3S function, and if this tethering is mediated by the binding domain within the central channel of the CdsN hexamer then likely this interaction is maintained throughout the entire developmental cycle. The exposed binding domain on the outer surface of the CdsN hexamer, however, could be responsible for the down-regulation of CdsN by CdsL. CdsL could bind and dissociate from the outer CdsN–CdsL binding domain upon a conformational change in CdsN, thereby activating ATPase activity upon CdsL release by allowing ATP to access the P-loop. It is tempting to speculate that delivery of effector/chaperone complexes to CdsN, possibly by a multi-cargo transport protein such as CdsQ, could be the trigger for CdsL release and ATPase activation, allowing for the dissociation of the effector/chaperone complex and subsequent secretion of the effector (Spaeth et al.,
+     ).
+    </p>
+    <p>
+     Using Pepscan epitope mapping we have shown where CdsL binds to CdsN. Using this binding data we designed a cognate CdsN peptide containing a membrane transport signal to allow the peptide to enter
+     <italic toggle="yes">
+      Chlamydia
+     </italic>
+     and showed that this peptide blocked chlamydial invasion of HeLa cells. Membrane transport signals are known to interact hydrophobically with eukaryotic membranes, triggering entry by endocytosis across the membrane (Efthymiadis et al.,
+     ). Our working hypothesis is that this transport signal would facilitate entry of the CdsN peptide into EBs, and that this could potentially disrupt the CdsN–CdsL interaction and inhibit T3S, and thus invasion, although we have not shown inhibition of T3S
+     <italic toggle="yes">
+      per se
+     </italic>
+     . This could be achieved by either disrupting the regulation of the ATPase or interfering with the tethering function of the ATPase, displacing its peripheral association with the inner membrane. Either of these two scenarios could disrupt the T3SS, preventing chlamydial infection and cellular invasion. We first confirmed that the MTS facilitated uptake of the peptide into EBs in a time- and dose-dependent manner. Afterward, we treated the chlamydial EBs for 30 min with the CdsN peptide which reduced chlamydial infection in a dose–response fashion, and at a concentration of 50 μM reduced
+     <italic toggle="yes">
+      Chlamydia
+     </italic>
+     infectivity by &gt;95%, as determined by IF staining and counting of inclusions at 72 h. An alternative explanation of this data could be that the peptide was bactericidal toward
+     <italic toggle="yes">
+      Chlamydia
+     </italic>
+     , but we feel that this is unlikely since a random peptide failed to inhibit chlamydial replication. We have also shown that two additional peptide mimetics targeting other essential protein interactions can also inhibit chlamydial replication (Mahony et al.,
+     ). We are currently investigating whether the CdsN peptide mimetic can inhibit chlamydial replication if administered during the infection cycle, once infection has occurred, which if successful would indicate that the peptide can disrupt CdsN–CdsL complexes within RBs and block T3S across the inclusion membrane. This would suggest that ATPase activity is carefully regulated by CdsL in both EBs and RBs, and the CdsN–CdsL interaction is critical for chlamydial replication.
+    </p>
+    <p>
+     The discovery of unique CdsN binding domains for CdsL coupled with structural modeling of the binding domains has allowed us to postulate how CdsL functions to down-regulate CdsN. This has allowed us to create a cognate CdsN peptide that functions as a novel antimicrobial agent, preventing
+     <italic toggle="yes">
+      C. pneumoniae
+     </italic>
+     from invading host cells. One of the major difficulties in working with
+     <italic toggle="yes">
+      Chlamydia
+     </italic>
+     is that they are genetically intractable. Peptide mimetics such as this CdsN peptide could effectively create chemical knockouts by disrupting protein complexes, allowing us to mimic genetic knockouts and explore specific functions of various proteins in the T3SS.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Conflict of Interest Statement:
+    </title>
+    <p>
+     The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

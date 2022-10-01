@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Impact of Host Membrane Pore Formation by the
+ </title>
+ <abstract>
+  <p>
+   Type III secretion systems (T3SSs) are used by Gram-negative pathogens to form pores in host membranes and deliver virulence-associated effector proteins inside host cells. In pathogenic
+   <named-content content-type="genus-species">
+    Yersinia
+   </named-content>
+   , the T3SS pore-forming proteins are YopB and YopD. Mammalian cells recognize the
+   <named-content content-type="genus-species">
+    Yersinia
+   </named-content>
+   T3SS, leading to a host response that includes secretion of the inflammatory cytokine interleukin-1β (IL-1β), Toll-like receptor (TLR)-independent expression of the stress-associated transcription factor Egr1 and the inflammatory cytokine tumor necrosis factor alpha (TNF-α), and host cell death. The known
+   <named-content content-type="genus-species">
+    Yersinia
+   </named-content>
+   T3SS effector proteins are dispensable for eliciting these responses, but YopB is essential. Three models describe how the
+   <named-content content-type="genus-species">
+    Yersinia
+   </named-content>
+   T3SS might trigger inflammation: (i) mammalian cells sense YopBD-mediated pore formation, (ii) innate immune stimuli gain access to the host cytoplasm through the YopBD pore, and/or (iii) the YopB-YopD translocon itself or its membrane insertion is proinflammatory. To test these models, we constructed a
+   <named-content content-type="genus-species">
+    Yersinia pseudotuberculosis
+   </named-content>
+   mutant expressing YopD devoid of its predicted transmembrane domain (YopD
+   <sub>
+    ΔTM
+   </sub>
+   ) and lacking the T3SS cargo proteins YopHEMOJTN. This mutant formed pores in macrophages, but it could not mediate translocation of effector proteins inside host cells. Importantly, this mutant did not elicit rapid host cell death, IL-1β secretion, or TLR-independent Egr1 and TNF-α expression. These data suggest that YopBD-mediated translocation of unknown T3SS cargo leads to activation of host pathways influencing inflammation, cell death, and response to stress. As the YopD
+   <sub>
+    ΔTM
+   </sub>
+   <named-content content-type="genus-species">
+    Y. pseudotuberculosis
+   </named-content>
+   mutant formed somewhat smaller pores with delayed kinetics, an alternative model is that the wild-type YopB-YopD translocon is specifically sensed by host cells.
+  </p>
+ </abstract>
+ <sentences/>
+</article>

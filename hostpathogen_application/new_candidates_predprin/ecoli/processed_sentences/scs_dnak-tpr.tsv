@@ -1,0 +1,2 @@
+id_pmc	sentence location	highlighted phrase	interacting verbs	number of interacting verbs	experimental methods found	number of experimental methods	protein entities found	number of protein entities
+21281637	abstract	we conducted yeast two - hybrid screening to identify proteins interacting with dnak - tpr protein , and demonstrated that dnak - tpr protein interacts with p23 co - chaperone protein ( tgp23 ) .	interact|interact	2		0	dnak|tpr|protein|p23|chaperone|tgp23	6

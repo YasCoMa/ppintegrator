@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Regulation of
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   is the most prevalent opportunistic pathogen in the airways of cystic fibrosis (CF) patients. The pulmonary disorder is characterized by recurrent microbial infections and an exaggerated host inflammatory immune response led primarily by influx of neutrophils. Under these conditions, chronic colonization with
+   <italic>
+    P. aeruginosa
+   </italic>
+   is associated with diminished pulmonary function and increased morbidity and mortality.
+   <italic>
+    P. aeruginosa
+   </italic>
+   has a wide array of genetic mechanisms that facilitate its persistent colonization of the airway despite extensive innate host immune responses. Loss of function mutations in the quorum sensing regulatory gene
+   <italic>
+    lasR
+   </italic>
+   have been shown to confer survival advantage and a more pathogenic character to
+   <italic>
+    P. aeruginosa
+   </italic>
+   in CF patients. However, the strategies used by LasR-deficient
+   <italic>
+    P. aeruginosa
+   </italic>
+   to modulate neutrophil-mediated bactericidal functions are unknown. We sought to understand the role of LasR in
+   <italic>
+    P. aeruginosa
+   </italic>
+   -mediated neutrophil extracellular trap (NET) formation, an important anti-microbial mechanism deployed by neutrophils, the first-line responder in the infected airway. We observe mechanistic and phenotypic differences between NETs triggered by LasR-sufficient and LasR-deficient
+   <italic>
+    P. aeruginosa
+   </italic>
+   strains. We uncover that LasR-deficient
+   <italic>
+    P. aeruginosa
+   </italic>
+   strains fail to induce robust NET formation in both human and murine neutrophils, independently of bacterial motility or LPS expression. LasR does not mediate NET release via downstream quorum sensing signaling pathways but rather via transcriptional regulation of virulence factors, including, but not restricted to, LasB elastase and LasA protease. Finally, our studies uncover the differential requirements for NADPH oxidase in NET formation triggered by different
+   <italic>
+    P. aeruginosa
+   </italic>
+   strains.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="s1" sec-type="intro">
+    <title>
+     Introduction
+    </title>
+    <p>
+     Chronic infections by
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     are highly prevalent in lung disease of cystic fibrosis (CF) patients (     ). Inflammation as a result of
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection is mediated by neutrophil infiltration into the lungs driven by other already recruited leukocytes, bacterial peptides, as well as chemoattractant molecules released from epithelial cells (     ,     ). Neutropenic mice are more susceptible to
+     <italic>
+      P. aeruginosa
+     </italic>
+     -related mortality in a lung infection model (     ), while humans deficient in neutrophil-mediated antimicrobial mechanisms are more susceptible to
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection (     ,     ). The presence of neutrophils in CF airways helps mediate bacterial killing through phagocytosis (     ), neutrophil extracellular trap (NET) formation (     ), as well as release of neutrophil microvesicles (     ). While neutrophils act to kill
+     <italic>
+      P. aeruginosa
+     </italic>
+     , they also contribute to host lung damage due to the production of reactive oxygen species (ROS) and exposure to bactericidal proteins released from neutrophil azurophilic granules (     ).
+    </p>
+    <p>
+     <italic>
+      P. aeruginosa
+     </italic>
+     infects up to 80% of CF patients by 20 years of age (     ).
+     <italic>
+      P. aeruginosa
+     </italic>
+     undergoes phenotypic and genotypic changes that allow it to withstand selective pressures of the CF airway, including nutrient availability, osmotic stress, polymicrobial environment, and anti-microbial host inflammatory and immune responses (     ). By acquiring characteristic mutations,
+     <italic>
+      P. aeruginosa
+     </italic>
+     is able to modify its motility, alginate production, or susceptibility to host anti-microbial defenses in order to establish niches of chronic infection (     ,     ). Analyses of bacterial isolates from chronically infected CF patients have demonstrated a high prevalence of
+     <italic>
+      P. aeruginosa
+     </italic>
+     with a null mutation in the transcription factor
+     <italic>
+      lasR
+     </italic>
+     , a major regulator of quorum sensing and a direct transcriptional activator of numerous virulence factors (     –     ).
+    </p>
+    <p>
+     Despite diminished virulence, LasR-deficient
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains appear to have survival advantage and a more pathogenic phenotype. The presence of LasR-deficient
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains in clinical isolates from chronic infections is associated with deteriorating lung function (     ). Absence of LasR confers growth advantage to
+     <italic>
+      P. aeruginosa
+     </italic>
+     under specific nutritional conditions due to increased expression of the catabolic pathway (     ), as well as enhances bacterial resistance to cell lysis, oxidative stress, and antibiotic therapy (     –     ). In addition, the high selective pressure for
+     <italic>
+      lasR
+     </italic>
+     loss of function mutants in the CF lung has been attributed to an increase in signaling of Anr-regulated pathways, which enable bacterial growth under low-oxygen conditions, as expected in biofilms (     ). A recent study has shown that absence of LasR triggers a hyperinflammatory response characterized by enhanced neutrophil recruitment into the infected airway and decreased cytokine degradation, which together result in worsened lung injury (     ). However, the pathoadaptability of LasR-deficient
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains to the anti-bacterial host immune responses in the CF lung remains incompletely understood.
+    </p>
+    <p>
+     NET formation has been identified as a potent bacteriostatic and bactericidal mechanism by which extruded DNA strands from neutrophils trap bacteria and subsequently subject them to anti-microbial proteins released from neutrophil azurophilic granules (     ,     ,     ). Some bacteria have evolved mechanisms to evade NETs as part of adaptive mutagenesis that aids them to establish chronic colonization (     ,     ). These mechanisms include NET degradation by nucleases as well as suppression of NET formation via toxin-mediated inhibition of oxidative burst (     ,     ). These reports altogether prompt us to investigate the role of LasR in mediating NET formation in the interaction between
+     <italic>
+      P. aeruginosa
+     </italic>
+     and neutrophils, the first line of defense in the infected airway.
+    </p>
+    <p>
+     Here, we demonstrate that LasR-deficient
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains harbor a limited capability to trigger neutrophil DNA release. The reduced amount of NET release caused by LasR-deficient strains is independent of the downstream quorum sensing pathways, LPS production, and bacterial motility, but is dependent on the neutrophil NADPH oxidase pathway. Our findings suggest that diminished NET release is a result of decreased expression of virulence factors,
+     <italic>
+      P. aeruginosa
+     </italic>
+     elastase LasB and protease LasA, in the absence of LasR. Our results also indicate that
+     <italic>
+      P. aeruginosa
+     </italic>
+     type III secretion system (T3SS) exotoxins stimulate the formation of NETs, suggesting that more than one single factor influences the release of
+     <italic>
+      P. aeruginosa
+     </italic>
+     triggered NETs.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s2" sec-type="materials and methods">
+    <title>
+     Materials and Methods
+    </title>
+    <sec>
+     <title>
+      Growth Conditions and Bacterial Strains
+     </title>
+     <p>
+      All bacterial strains used in this study are listed in      and were provided by Dr. Deborah Hogan, Geisel School of Medicine (PA14 wild type, PA14 Δ
+      <italic>
+       lasR
+      </italic>
+      , PAO1 wild type, PAO1 Δ
+      <italic>
+       lasR
+      </italic>
+      , PA14 Δ
+      <italic>
+       pqsR
+      </italic>
+      , PA14 Δ
+      <italic>
+       rhlR
+      </italic>
+      , PA14 Δ
+      <italic>
+       lasR
+      </italic>
+      Δ
+      <italic>
+       rhlR
+      </italic>
+      , PA14 Δ
+      <italic>
+       lasR
+      </italic>
+      Δ
+      <italic>
+       pqsR
+      </italic>
+      ), Dr. Brent Berwin, Geisel School of Medicine at Dartmouth (PA14 Δ
+      <italic>
+       popB
+      </italic>
+      , PA99 wild type, PA99 Δ
+      <italic>
+       exoU
+      </italic>
+      , PA99 Δ
+      <italic>
+       pscJ
+      </italic>
+      ), Dr. Dao Nguyen, McGill University (PAO1 wild type, PAO1 Δ
+      <italic>
+       lasB
+      </italic>
+      ), and Dr. Bryan Hurley, Massachusetts General Hospital (PA14 Δ
+      <italic>
+       exoU
+      </italic>
+      ). Bacteria were cultured overnight in lysogeny broth (LB) at 37°C and sub-cultured for 3 h in LB (1:30) at 37°C. The medium was supplemented with tetracycline (10 μg/ml) as needed.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Neutrophil Immunofluorescence
+     </title>
+     <p>
+      To detect neutrophil granular proteins, human or mouse neutrophils (250,000 cells in 0.5 ml) were left to adhere onto 13 mm coverslips for 1 h and subsequently treated with
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains for 2 h at 37°C at multiplicity of infection (MOI) 10. Samples were fixed with 4% paraformaldehyde, washed, and blocked using 5% donkey serum (Sigma Aldrich). BPI was detected using mouse anti-BPI antibody (1:200, Santa Cruz Biotechnology, Inc.) for human neutrophils or rabbit anti-mouse BPI antibody (1:200, ABclonal), followed by donkey anti-mouse Alexa Fluor 488 secondary antibody or donkey anti-rabbit Alexa Fluor 647 (1:500, Jackson ImmunoResearch). Neutrophil elastase (NE) was detected using rabbit anti-NE IgG (Abcam), followed by donkey anti-rabbit Alexa Fluor 647 secondary antibody (1:500, Jackson ImmunoResearch). Myeloperoxidase (MPO) was detected using rabbit anti-MPO IgG (Cell Signaling), followed by donkey anti-rabbit Alexa Fluor 647 secondary antibody (1:500, Jackson ImmunoResearch). Samples were mounted using ProLong Gold Antifade Mount with DAPI (ThermoFisher Scientific) and visualized with the laser point scanning confocal microscope (LSM 510 META, Zeiss), 63X.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Quantification of Extracellular DNA Release
+     </title>
+     <p>
+      Healthy human neutrophils were obtained with the consent approved by the Committee for the Protection of Human Subjects of the Geisel School of Medicine at Dartmouth. Whole blood was diluted 1:1 in RPMI and centrifuged over Ficoll gradient (GE Healthcare). The erythrocyte pellet was diluted 1:1 in RPMI and the neutrophils were separated by 5% dextran sedimentation at 4°C for 1 h. Following red blood cell lysis using 1X BD Pharm Lyse (BD Bioscience), neutrophils were resuspended in Dulbecco\\s Modified Eagle Medium (DMEM) and plated on a 96-well black plate (Nunc) (200,000 cells/100 μl). Cells were treated with PMA (100 nM) or different MOIs of
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains in DMEM without serum (unopsonized) for 3 h at 37°C. Amount of extracellular DNA was quantified by addition of Sytox Green (5 μM, Invitrogen) and fluorescence measurement (485/530 nm, BioTek, Synergy HT, BioTek Instruments, Inc.). Data are represented as % maximum DNA release, i.e., % fluorescence emitted following treatment of neutrophils with 0.5% Triton X-100 for 1 min.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      NADPH Oxidase and PAD4 Inhibition
+     </title>
+     <p>
+      Neutrophils were pre-treated with 10 μM diphenyleneiodonium chloride (DPI, Sigma Aldrich), pyrocatechol (100 μM, Sigma Aldrich), PAD inhibitors Cl-amidine (200 μM, Cayman Chemicals), GSK199 (10 μM, Cayman Chemicals), and GSK484 (10 μM, Cayman Chemicals) or DMSO control (0.01%) for 30 min at 37°C prior to treatment with PMA (100 nM) or different
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains (MOI 10). Extracellular DNA was measured using Sytox Green as described above.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Mouse Neutrophil
+      <italic>
+       in vitro
+      </italic>
+      Studies
+     </title>
+     <p>
+      To measure concentration of LPS produced by
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains, PA14 wild type and PA14 Δ
+      <italic>
+       lasR
+      </italic>
+      were cultured overnight and centrifuged at 12,000 rpm for 5 min. Following centrifugation, the supernatants from the overnight bacterial cultures were diluted 1:10,000 in PBS and LPS content was measured by Limulus Amebocyte Lysate (LAL) Chromogenic Endotoxin Quantitation Kit (ThermoFisher Scientific, MA, USA) according to manufacturer\\s instructions. To investigate the role of TLR-4 in NET release, neutrophils were obtained from wild type and TLR4 knock-out B6 mice (Jackson Laboratory) as previously described (      ). Briefly, naïve mice were injected intraperitoneally with 1 ml 4% thioglycollate solution and peritoneal cells were harvested 12–18 h later by peritoneal lavage. Neutrophils were resuspended in DMEM and treated with LPS (10 μg/ml,
+      <italic>
+       E. coli
+      </italic>
+      ), PMA (100 nM), or
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains at MOI 10 for 3 h at 37°C.
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains tested were PAO1 wild type, PAO1 Δ
+      <italic>
+       lasR
+      </italic>
+      . PA14 wild type, and PA14 Δ
+      <italic>
+       lasR
+      </italic>
+      . Extracellular DNA release was quantified by Sytox Green as above.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Neutrophil Treatment:
+      <italic>
+       P. aeruginosa
+      </italic>
+      Proteases and Exotoxins
+     </title>
+     <p>
+      <italic>
+       P. aeruginosa
+      </italic>
+      PA14 Δ
+      <italic>
+       lasR
+      </italic>
+      strain (MOI 10) was supplemented with exogenous recombinant LasB (4 Units, EPC Elastin Products Company, INC or 0.3–6.6 nM, MybioSource INC) or exogenous recombinant LasA (1,000 nM, made in yeast and endotoxin free, MybioSource INC) (30 min at 37°C). Neutrophils were added (200,000 cells/100 μl) and treated for 3 h at 37°C. Release of NETs was measured using Sytox green as described above. The role of exotoxins in NETs induction was tested by treatment of neutrophils with
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains (MOI 10) deficient in
+      <italic>
+       exoU
+      </italic>
+      (lacking exoU cytotoxin),
+      <italic>
+       popB
+      </italic>
+      , or
+      <italic>
+       pscJ
+      </italic>
+      (non-functional Type III secretion system, T3SS).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Evaluation of Bacterial Swimming Motility
+     </title>
+     <p>
+      Swimming motility was evaluated as described previously (      ). Briefly, a single bacterial colony was picked from an LB agar plate (1.5% agar) and inoculated into the center of a 0.3% agar LB plate (Gentrox). Plates were incubated for 24 h at 37°C and then for 24 h at room temperature. Swim zone was visualized by ChemiImager 5000 software and the diameter was measured as a representation of bacterial swimming capacity from the inoculation site.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Bacterial Protease Activity Assay
+     </title>
+     <p>
+      The protease profile of selected
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains was assessed using milk plates (Brain Heart Infusion with 1.5% agar and supplemented with 1% (w/v) skim milk) as previously described (      ). Briefly, PA14 and PAO1 bacterial strains were cultured overnight in LB at 37°C and sub-cultured for 3 h in LB (1:30) at 37°C.
+      <italic>
+       P. aeruginosa
+      </italic>
+      cultures were washed with PBS then resuspended in DMEM. Each
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain (2 ×10      cfu) was added to 100 μl DMEM in at least 4 replicates. Following a 6 h culture at 37°C, 5 μl of this exponential culture was plated on milk plates in 3 replicates. Milk plates were incubated at 37°C overnight followed by image analysis. Casein degradation, observed as a zone of clearance, indicate protease activity. All strains were assayed on 3 separate days.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Bacterial Quorum Sensing Assay
+     </title>
+     <p>
+      Selected bacterial strains were assessed for their ability to perform quorum sensing. Briefly, the same processed samples used to assess protease production were also used to visualize the production of acyl-homoserine lactones (AHLs) by
+      <italic>
+       P. aeruginosa
+      </italic>
+      . Assays were carried out on LB plates supplemented with 150 μg/ml X-gal dissolved in DMSO. An overnight culture of a PAO1 reporter strain that is responsive to both 3OC
+      <sub>
+       12
+      </sub>
+      -HSL and C
+      <sub>
+       4
+      </sub>
+      -HSL (AHLs) (      ) was diluted to an OD
+      <sub>
+       600nm
+      </sub>
+      = 0.01 and 100 μl was bead spread on the LB/X-gal plates to form a lawn of the reporter strain. As before, 5 μl of samples used in the protease assay were spotted on the reporter lawn in 3 replicates and the plates were incubated overnight at 37°C followed by image analysis. Quorum sensing is indicated by the blue color of the reporter lawn. All strains were assayed on 3 separate days.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Statistical Analyses
+     </title>
+     <p>
+      Data were analyzed using GraphPad Prism 6 software (GraphPad Software, Inc., California, USA). Student\\s
+      <italic>
+       t
+      </italic>
+      -test, with Welch\\s correction, was applied to determine the significant difference between two data sets. One-way ANOVA, followed by Bonferroni
+      <italic>
+       post-hoc
+      </italic>
+      , was used to compare means between more than two data sets. Two-way ANOVA, followed by Bonferroni
+      <italic>
+       post-hoc
+      </italic>
+      was used to compare means between multiple groups studied under different conditions.
+      <italic>
+       P
+      </italic>
+      &lt; 0.05 was considered significant.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s3" sec-type="results">
+    <title>
+     Results
+    </title>
+    <sec>
+     <title>
+      LasR Is Required for a Robust Induction of Neutrophil Extracellular DNA Release by
+      <italic>
+       P. aeruginosa
+      </italic>
+     </title>
+     <p>
+      In order to evaluate the role of LasR in NET formation, healthy human neutrophils were treated with wild-type (wt) or LasR-deficient (Δ
+      <italic>
+       lasR
+      </italic>
+      ) PAO1 and PA14
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains. Bacteria were used in their early exponential phase (~3 h of subculture) as their ability to induce NET release is the greatest at this stage of growth (      ). DNA release by neutrophils was significantly higher following treatment with the wild type strains of PAO1 and PA14 relative to their Δ
+      <italic>
+       lasR
+      </italic>
+      counterparts, at different multiplicities of infection (MOI 1, 10, 100) (      ).
+     </p>
+     <p>
+      By using confocal microscopy, we confirmed that the DNA release measured by the sytox assay reflects the ability of the different
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains to trigger NETs: the DNA strands (DAPI) released from neutrophils were decorated with one or more neutrophil proteins released from azurophilic granules: neutrophil elastase (NE), BPI, and/or myeloperoxidase (MPO) (      ). Interestingly, confocal microscopy revealed differential spatial distribution of neutrophil proteins on the NETs induced by wild type vs. LasR-deficient PAO1 and PA14 strains. Following treatment with LasR-deficient
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains PAO1 and PA14, the neutrophils not only released less DNA, but the BPI also localized on the DNA strands while NE demonstrated perinuclear staining (      ). In contrast, wild type strains PAO1 and PA14 triggered more DNA release with both BPI and NE localizing on the NETs (      ). Despite their localizing to the DNA strands, we did not observe co-localization of BPI and NE. We also observed that for NETs induced by wild-type and LasR-deficient PAO1 strains, BPI localized on the NETs while MPO staining was perinuclear (      ). These observations suggest that exposure to different
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains (wild type vs. LasR-deficient) can influence both the quantity of DNA released and the localization of proteins released by neutrophil azurophilic granules. Interestingly, BPI localized to the DNA strands of NETs regardless of the stimulating bacterial strain.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      LasR Regulates
+      <italic>
+       P. aeruginosa
+      </italic>
+      -Mediated NET Formation Independently of Downstream Quorum Sensing (QS) Regulators: RhlR and PqsR
+     </title>
+     <p>
+      LasR occupies a high regulatory position in the hierarchy of the quorum sensing network in
+      <italic>
+       P. aeruginosa
+      </italic>
+      and regulates the downstream QS systems: Rhl and Pqs. Using a reporter system, we confirmed the absence of quorum sensing in our LasR-deficient PA14 and PAO1 strain, which lacked the ability to produce AHL (      ). Mutations in the quorum sensing genes of
+      <italic>
+       P. aeruginosa
+      </italic>
+      have been implicated in its pathoadaptability (      ,      ,      ). Therefore, we investigated the role of the two regulatory proteins, RhlR and PqsR, in the presence or absence of LasR, in inducing NET release. Absence of RhlR or PqsR alone from PA14 bacterial strain did not abrogate the ability of
+      <italic>
+       P. aeruginosa
+      </italic>
+      to mediate robust DNA release (      ). However, the absence of both LasR and the downstream QS pathways, i.e., Δ
+      <italic>
+       rhlR
+      </italic>
+      Δ
+      <italic>
+       lasR
+      </italic>
+      and Δ
+      <italic>
+       pqsR
+      </italic>
+      Δ
+      <italic>
+       lasR
+      </italic>
+      , significantly decreased the capacity of
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PA14 to trigger DNA release (      ). These findings demonstrate that the requirement for LasR in mediating NET formation is not through transcriptional activation of the downstream quorum sensing systems Rhl and Pqs.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      <italic>
+       P. aeruginosa
+      </italic>
+      LasR Regulates NET Release Across Host Species, Independently of Bacterial Motility and LPS
+     </title>
+     <p>
+      A recent study has identified that bacterial motility is essential for the ability of
+      <italic>
+       P. aeruginosa
+      </italic>
+      to trigger NETs (      ). This prompted the possibility that LasR regulates NET formation by regulating bacterial motility. To address this, a standard motility assay was performed, which demonstrated that wild-type and all mutant
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains used in this study are motile, thus eliminating the possibility that loss of
+      <italic>
+       lasR
+      </italic>
+      gene inhibits NET release due to changes in bacterial swimming motility (      ).
+     </p>
+     <p>
+      Since LPS has been described as a potent NET stimulant and is potentially regulated by quorum sensing (      ,      ), we investigated whether the differential effect of
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains on NET induction was LPS dependent. First, we demonstrated that PA14 wild type and PA14 Δ
+      <italic>
+       lasR
+      </italic>
+      strains expressed comparable levels of LPS by Limulus Amebocyte Lysate assay (      ). Second, DNA release from wild-type (TLR-4 sufficient) and TLR-4 knockout (TLR-4 deficient) murine neutrophils was analyzed. Wild type PAO1 induced comparable levels of DNA release from both TLR-4 sufficient and -deficient mouse neutrophils, while Δ
+      <italic>
+       lasR
+      </italic>
+      PAO1 triggered less DNA extrusion, independently of TLR-4 expression (      ). A similar relationship was observed with PA14 strains (      ). As expected, LPS triggered DNA release from wild-type mouse neutrophils but not from TLR-4 deficient ones (      ). Immunofluorescence staining confirmed NETosis in mouse neutrophils, characterized by release of DNA strands decorated with BPI, protein stored in azurophilic granules (      ). These data demonstrate that diminished NET induction seen with LasR-deficient
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains is LPS independent and conserved across murine and human species.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      <italic>
+       P. aeruginosa
+      </italic>
+      LasB Elastase and LasA Protease Contribute to
+      <italic>
+       P. aeruginosa
+      </italic>
+      -Induced NETs
+     </title>
+     <p>
+      In addition to regulating the downstream quorum sensing elements, LasR directly controls transcriptional activation of a wide array of
+      <italic>
+       P. aeruginosa
+      </italic>
+      virulence factors (      ). Indeed, we confirmed that our LasR-deficient PA14 and PAO1 strains lacked the ability to make proteases, demonstrating no casein degradation in the protease activity assay (      ). Since we have demonstrated that LasR does not influence neutrophil DNA release through the quorum sensing network, Rhl and Pqs, we investigated the role of LasR-controlled proteases, LasB elastase and LasA protease, on NET induction. LasB has previously been implicated in modulating the pro-inflammatory environment of the CF lung and in mediating cleavage of neutrophil-derived proteins (      ). Treatment of neutrophils with PAO1 strain deficient in LasB (Δ
+      <italic>
+       lasB
+      </italic>
+      ), at different MOIs, led to a reduced DNA release as compared to that triggered by wild type PAO1 (      ). The contribution of LasB to PA14-mediated DNA release was further evaluated by addition of exogenous LasB to PA14 Δ
+      <italic>
+       lasR
+      </italic>
+      . The presence of exogenous LasB allowed for a modest but significant increase in PA14 Δ
+      <italic>
+       lasR
+      </italic>
+      -mediated DNA release (~20%) (      ). A slightly greater eDNA release was observed using a different recombinant LasB, which demonstrated peak 40% eDNA increase, an effect that plateaued at ~3 nM (not shown). Therefore, these data suggest that LasB contributes to NET induction but, when added exogenously, is not sufficient to restore DNA release by LasR-deficient
+      <italic>
+       P. aeruginosa
+      </italic>
+      to the level of its wild-type counterpart. We further explored the ability of LasA protease, another virulence factor under LasR control (      ), to restore the ability of LasR-deficient
+      <italic>
+       P. aeruginosa
+      </italic>
+      to trigger NETs. As seen with LasB, addition of recombinant endotoxin-free LasA restored the ability of PA14 Δ
+      <italic>
+       lasR
+      </italic>
+      bacteria
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain to trigger DNA release, however not to the full extent of the wild-type
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain (      ). Recombinant LasA triggered DNA release from neutrophils in a concentration dependent manner (      ).
+     </p>
+     <p>
+      These and other findings suggest that multiple
+      <italic>
+       P. aeruginosa
+      </italic>
+      components have the ability to trigger NET release and that these components might be under LasR transcriptional control. As we observed in      , and      , PAO1 induced less neutrophil DNA release than PA14, both in the wild-type and the Δ
+      <italic>
+       lasR
+      </italic>
+      strains, confirming previously reported findings that cytotoxic PA14 strain is a much more potent stimulant of NETs than the invasive PAO1 strain (      ). Because PAO1 is deficient in
+      <italic>
+       exoU
+      </italic>
+      , a type III secretion system (T3SS) effector protein (      ), the diminished ability of PAO1 to stimulate NET release, relative to the highly virulent PA14 strain, prompted the possibility that T3SS exotoxins may contribute to
+      <italic>
+       P. aeruginosa-
+      </italic>
+      mediated NET formation (discussed below).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      LasR, but Not Exotoxins, Regulates the Requirement for NADPH Oxidase in
+      <italic>
+       P. aeruginosa—
+      </italic>
+      Induced NETs
+     </title>
+     <p>
+      While it is known that PMA induces DNA release in an NADPH-oxidase dependent manner, recent studies have suggested that the requirement for NADPH oxidase in NET formation is dependent on the stimulus (      ). Therefore, we evaluated the ability of PAO1 and PA14 wild-type and Δ
+      <italic>
+       lasR
+      </italic>
+      mutant
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains to trigger DNA release from neutrophils pre-treated with a NADPH oxidase specific inhibitor, diphenyleneiodonium chloride (DPI). DPI decreased DNA release triggered by PAO1 wild type and the corresponding Δ
+      <italic>
+       lasR
+      </italic>
+      mutant (      ). Interestingly, the effect of DPI on neutrophil DNA release triggered by PA14 was present only in the PA14 Δ
+      <italic>
+       lasR
+      </italic>
+      mutant strain, but not PA14 wild-type strain (      ). These data highlight the differences in mechanisms employed by PAO1 vs. PA14 in mediating NET formation but also suggest that PA14 Δ
+      <italic>
+       lasR
+      </italic>
+      strain acquires a PAO1-like phenotype that requires NADPH oxidase in order to trigger NETs. The ability of the Δ
+      <italic>
+       lasR
+      </italic>
+      mutation to confer DPI sensitivity (NADPH oxidase dependence) to DNA release from PA14 treated neutrophils was further evaluated in the context of downstream quorum sensing regulators using single RhlR (PA14 Δ
+      <italic>
+       rhlR
+      </italic>
+      ) or PqsR (PA14 Δ
+      <italic>
+       pqsR
+      </italic>
+      ) as well as double mutants (PA14 Δ
+      <italic>
+       rhlR
+      </italic>
+      Δ
+      <italic>
+       lasR
+      </italic>
+      and Δ
+      <italic>
+       pqsrR
+      </italic>
+      Δ
+      <italic>
+       lasR)
+      </italic>
+      . As seen with the wild-type PA14, the ability of DPI to inhibit DNA release segregated with the Δ
+      <italic>
+       lasR
+      </italic>
+      mutation in all the strains (      ). Furthermore, we confirmed that wild-type PA14 triggers NETs via a ROS-independent mechanism since both DPI and the ROS scavenger pyrocatechol lacked the effect on DNA release that was seen with PAO1 (      ,      ) (      ). Since citrullinated histones have been found in
+      <italic>
+       P. aeruginosa
+      </italic>
+      induced NETs (      ,      ), we examined whether PAD activity is necessary for this process. None of the
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains required PAD activity to trigger NETs (      ,      ), as indicated by the lack of effect of three different PAD inhibitors (      ).
+     </p>
+     <p>
+      Since the presence of intact LasR associated with ROS-independent NET formation in the PA14 but not the less virulent PAO1 strain, we examined the contribution of PA14 exotoxins. First, we demonstrated the importance of PA14 T3SS in triggering DNA release from neutrophils: PA14 deficient in the T3SS translocator protein PopB were unable to trigger robust neutrophil DNA release (      ). Moreover, the DNA release triggered by PA14 Δ
+      <italic>
+       popB
+      </italic>
+      was sensitive to both DPI and pyrocatechol (      ). In contrast, while the exonuclease U–deficient strain (PA14 Δ
+      <italic>
+       exoU
+      </italic>
+      ) also induced lower levels of neutrophil DNA release relative to PA14 wild type, it was insensitive to DPI and pyrocatechol (      ). DPI was unable to prevent NET release from neutrophils treated with two other
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains with altered T3SS: (i) PA99 ExoU-deficient strain and (ii) PA99 strain lacking PscJ, a lipoprotein component of the basal substructure of the needle complex of T3SS (      ) (      ). Together, these findings provide two mechanistic insights: (i) intact T3SS is necessary for robust NET release and (ii) the requirement for ROS in
+      <italic>
+       P. aeruginosa
+      </italic>
+      -mediated NET release is strain-specific.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s4" sec-type="discussion">
+    <title>
+     Discussion
+    </title>
+    <p>
+     In this study, we uncover the importance of LasR in
+     <italic>
+      P. aeruginosa
+     </italic>
+     -stimulated NET release. We show that NET formation stimulated by LasR-deficient
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains appears quantitatively and qualitatively different from that seen with the wild-type strains: (i) LasR-deficient
+     <italic>
+      P. aeruginosa
+     </italic>
+     trigger lower levels of neutrophil DNA release and (ii) LasR-deficient but not wild-type PA14 requires NADPH oxidase for NET release. We determine that LasR regulates NET formation via mechanisms other than the downstream quorum sensing signaling systems: Rhl and Pqs. Rather, LasR appears to regulate NET release, at least in part, via virulence factors directly controlled by LasR:
+     <italic>
+      P. aeruginosa
+     </italic>
+     elastase LasB and
+     <italic>
+      P. aeruginosa
+     </italic>
+     protease LasA. Diminished NET induction by LasR-deficient
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains is not due to loss in bacterial motility or LPS production, and is conserved across human and murine species. Thus, our findings uncover a novel role for
+     <italic>
+      P. aeruginosa
+     </italic>
+     LasR in regulating neutrophil function (     ) and could have important implications in how this pathogen adapts to and evades innate immune defenses.
+    </p>
+    <p>
+     <italic>
+      P. aeruginosa
+     </italic>
+     isolates containing inactivating mutations in
+     <italic>
+      lasR
+     </italic>
+     have been reported in up to 63% of chronically infected CF patients (     ). Despite the loss of virulence factors resulting from dysfunctional LasR,
+     <italic>
+      lasR
+     </italic>
+     mutant clinical isolates in the CF airway are associated with worse lung function in both adult and pediatric CF patients (     ). This paradoxical relationship suggests that the selective pressures in the CF lung favor loss of virulence factors, for which
+     <italic>
+      P. aeruginosa
+     </italic>
+     compensates by other pathogenic mechanisms. The pathogenicity of LasR-deficient
+     <italic>
+      P. aeruginosa
+     </italic>
+     has been reported in other inflammatory settings, such as severe corneal ulcer disease (     ). The emergence of LasR-deficient, i.e., quorum sensing deficient,
+     <italic>
+      P. aeruginosa
+     </italic>
+     clinical isolates has been described as a means of “social cheating,” which
+     <italic>
+      P. aeruginosa
+     </italic>
+     employ to decrease their metabolic burden and gain growth advantage (     ). Additionally, our findings propose a model by which loss of a functional LasR enables
+     <italic>
+      P. aeruginosa
+     </italic>
+     to avoid neutrophil-mediated bactericidal functions, e.g., NET release. Loss of flagellar motility has previously been shown to abrogate the ability of
+     <italic>
+      P. aeruginosa
+     </italic>
+     to trigger NETs (     ). Since we demonstrated that LasR-deficient
+     <italic>
+      P. aeruginosa
+     </italic>
+     have intact swimming motility, loss of LasR provides yet another independent mechanism by which
+     <italic>
+      P. aeruginosa
+     </italic>
+     block NET formation. Future studies should aim to understand the survival advantages that this novel mechanism confers as well as take into account different clinical strains harboring
+     <italic>
+      lasR
+     </italic>
+     mutations as these vary in LasR function and bacterial compensatory mechanisms associated with different types of
+     <italic>
+      lasR
+     </italic>
+     mutations (     ). From the perspective of host-pathogen interactions, our findings in
+     <italic>
+      P. aeruginosa
+     </italic>
+     reinforce the notion that mechanisms to resist NET formation are important for pathogenicity, as has been recognized in other microorganisms (     –     ).
+    </p>
+    <p>
+     LasR is the global regulator of virulence factors that have been implicated in immune system evasion, such as elastase (LasB), protease (LasA), exotoxin A, alkaline protease (apr), and pyocyanin (     ). Here, we demonstrate that LasR regulation of NET release is not through the downstream QS systems, Rhl, and Pqs, but via transcriptionally regulated virulence factors, including LasB and LasA. However, addition of exogenous LasB or LasA to LasR-deficient
+     <italic>
+      P. aeruginosa
+     </italic>
+     was not sufficient to fully restore the robust NET release seen with wild type
+     <italic>
+      P. aeruginosa
+     </italic>
+     . The presence of both LasB and LasA is most likely needed for
+     <italic>
+      P. aeruginosa
+     </italic>
+     stimulated NET release as studies have shown that activation of LasB is required for LasA processing and function (     ). Overall, these findings suggest that multiple virulence factors, transcriptionally regulated by LasR, can play a role in NET formation. Besides LasR-controlled virulence factors, we demonstrate that the exotoxins transferred via T3SS are capable of triggering NETs. This was particularly evident in the more virulent PA14 strain, where absence of a functional T3SS led to diminished neutrophil DNA release. Much like
+     <italic>
+      P. aeruginosa
+     </italic>
+     mediated NET release appears to be a joint effort of multiple LasR-controlled virulence factors, multiple exotoxins are likely involved in triggering NETs as absence of ExoU alone was not sufficient to fully abrogate DNA release. While these data clearly demonstrate the ability of T3SS to trigger NETs, little is known about LasR control of these exotoxins. In fact, a recent study by Gifford et al. shows that the loss of LasR does not attenuate T3SS expression (     ). Therefore, our findings point to two independent mechanisms of NET stimulation: one under the control of LasR and the other driven by T3SS exotoxins. Why the LasR-deficient strains almost entirely lose the ability to trigger NET release, despite T3SS presence, points to another complex relationship that warrants further investigation.
+    </p>
+    <p>
+     In addition to showing that the different genetic variants of
+     <italic>
+      P. aeruginosa
+     </italic>
+     influence its ability to trigger NETs, we find that they also shape the mechanisms involved in NET formation, i.e., the requirement for NADPH oxidase generated ROS. While NET formation has canonically been characterized by the release of ROS via NADPH oxidase-dependent mechanisms, new studies have shown that requirement for NADPH oxidase and ROS in NET release is dependent on the stimulus (     ). Our findings extend this notion to the different strains of the same bacterial species as we demonstrate that NADPH oxidase is required for NET stimulation by PAO1 wild-type strain, a laboratory
+     <italic>
+      P. aeruginosa
+     </italic>
+     strain originally isolated from an infected burn wound. However, contrary to previous reports (     ), PA14 wild-type strain, a more virulent
+     <italic>
+      P. aeruginosa
+     </italic>
+     isolate, triggered NETs via a ROS-independent mechanism in our studies. The same group also reported the inability of the PA14 strain to induce NETs in NAPDH-oxidase deficient neutrophils from chronic granulomatous disease (CGD) patients (     ). Our findings raise the question of whether CGD neutrophils carry other abnormalities related to mechanisms of NETosis. In contrast to PAO1, the PA14 strain contains pathogenicity islands of genetic information that are horizontally transferred into the genome and influence pathogenicity via a broad array of highly cytotoxic exotoxins (     ). Neither NADPH oxidase inhibition nor ROS scavenging inhibited DNA release stimulated by PA14 or PA99 bacteria deficient in exotoxins. In contrast, loss of LasR, but not its downstream QS pathways Rhl and Pqs, not only attenuated PA14-induced NETs but did so in an NADPH oxidase dependent manner. We conclude that one or more LasR-regulated genes, outside of the QS network, determine the extent and mechanism of
+     <italic>
+      P. aeruginosa
+     </italic>
+     -triggered NETs. These findings provide additional evidence that not only specific stimuli influence the mechanism of NET formation [     , (     ,     )] but that different genetic variants of the same bacterial species differentially influence neutrophil functional mechanisms. This strain-dependent influence did not extend to citrullination, as treatment with none of the three PAD inhibitors inhibited eDNA release from wild-type or LasR-deficient
+     <italic>
+      P. aeruginosa
+     </italic>
+     . While citrullinated histones have been detected in
+     <italic>
+      P. aeruginosa
+     </italic>
+     triggered NETs (     ,     ), lack of PAD inhibition in our studies suggests that citrullination is not required for
+     <italic>
+      P. aeruginosa
+     </italic>
+     -mediated NETosis. Our findings with
+     <italic>
+      P. aeruginosa
+     </italic>
+     parallel that published by Kenny et al. (     ), who showed that citrullination does occur during NETosis triggered by numerous different stimuli but is not essential for eDNA release.
+    </p>
+    <p>
+     Despite mechanistic differences, we found that
+     <italic>
+      P. aeruginosa–
+     </italic>
+     stimulated NETs preferentially released neutrophil protein BPI onto the DNA strands, independent of the
+     <italic>
+      P. aeruginosa
+     </italic>
+     strain. This finding is interesting for two reasons: (i) BPI is a bactericidal protein that specifically targets gram-negative bacteria such as
+     <italic>
+      P. aeruginosa
+     </italic>
+     and (ii) presence of anti-BPI autoantibodies strongly correlates with
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection in CF patients (     ,     ). On the contrary, we observed that neutrophil elastase and myeloperoxidase are not always present on the DNA strands of
+     <italic>
+      P. aeruginosa
+     </italic>
+     –triggered NETs. Interestingly, autoantibodies to these bactericidal proteins are not found in CF patients (     ,     ). The highly immunogenic nature of NETs (     ,     ) together with the presence of a major bactericidal protein along the NET strands, provide a model by which NETs serve as an autoimmune platform in the
+     <italic>
+      P. aeruginosa
+     </italic>
+     infected CF airway, leading to the breaking of tolerance to BPI.
+    </p>
+    <p>
+     In conclusion, our study brings into the forefront a novel role for LasR in the host-pathogen interactions between
+     <italic>
+      P. aeruginosa
+     </italic>
+     and neutrophils. This relationship has only been examined by LaFayette et al. (     ) whose study showed that LasR-deficient
+     <italic>
+      P. aeruginosa
+     </italic>
+     causes a hyperinflammatory neutrophil response characterized by increased cytokine production. Their findings add to the model that pathoadaptability of
+     <italic>
+      P. aeruginosa
+     </italic>
+     during the course of a chronic infection results in immune mediated host damage and concurrent evasion of immune defenses. While resistance to NETs or NET-mediated killing has been reported in
+     <italic>
+      P. aeruginosa
+     </italic>
+     clinical isolates, no specific mutation has been attributed to this mechanism of adaptability (     ). We demonstrate that LasR-deficiency directly modulates NET formation, via regulation of one or more virulence factors. Finally, this work provides evidence that mechanisms engaged in NET formation vary depending on the stimulus, and can even differ between different
+     <italic>
+      P. aeruginosa
+     </italic>
+     variants with the same genetic background.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s5" sec-type="data-availability">
+    <title>
+     Data Availability
+    </title>
+    <p>
+     The raw data supporting the conclusions of this manuscript will be made available by the authors, without undue reservation, to any qualified researcher.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s6">
+    <title>
+     Ethics Statement
+    </title>
+    <p>
+     This study was carried out in accordance with the recommendations of Committee for the Protection of Human Subjects of the Geisel School of Medicine at Dartmouth; with written informed consent from all subjects. All subjects gave written informed consent in accordance with the Declaration of Helsinki. The protocol was approved by the Committee for the Protection of Human Subjects of the Geisel School of Medicine at Dartmouth.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s7">
+    <title>
+     Author Contributions
+    </title>
+    <p>
+     SS-G, JT, and WR designed the research studies, conceptualized, and wrote the manuscript. JH, DN, DH, and BB generated the bacterial strains used in the study. SS-G, JT, KC, KL, and BB conducted the experiments. HH and AN provided processed blood samples for the study. SS-G, JT, KC, and KL acquired and analyzed the data. All authors critically reviewed the manuscript.
+    </p>
+    <sec>
+     <title>
+      Conflict of Interest Statement
+     </title>
+     <p>
+      The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

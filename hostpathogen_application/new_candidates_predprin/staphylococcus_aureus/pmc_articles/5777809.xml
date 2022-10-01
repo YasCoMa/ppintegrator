@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Rethinking the bile acid/gut microbiome axis in cancer
+ </title>
+ <abstract>
+  <p>
+   Dietary factors, probiotic agents, aging and antibiotics/medicines impact on gut microbiome composition leading to disturbances in localised microbial populations. The impact can be profound and underlies a plethora of human disorders, including the focus of this review; cancer. Compromised microbiome populations can alter bile acid signalling and produce distinct pathophysiological bile acid profiles. These in turn have been associated with cancer development and progression. Exposure to high levels of bile acids, combined with localised molecular/genome instability leads to the acquisition of bile mediated neoplastic alterations, generating apoptotic resistant proliferation phenotypes. However, in recent years, several studies have emerged advocating the therapeutic benefits of bile acid signalling in suppressing molecular and phenotypic hallmarks of cancer progression. These studies suggest that in some instances, bile acids may reduce cancer phenotypic effects, thereby limiting metastatic potential. In this review, we contextualise the current state of the art to propose that the bile acid/gut microbiome axis can influence cancer progression to the extent that classical
+   <italic>
+    in vitro
+   </italic>
+   cancer hallmarks of malignancy (cell invasion, cell migration, clonogenicity, and cell adhesion) are significantly reduced. We readily acknowledge the existence of a bile acid/gut microbiome axis in cancer initiation, however, in light of recent advances, we focus exclusively on the role of bile acids as potentially beneficial molecules in suppressing cancer progression. Finally, we theorise that suppressing aggressive malignant phenotypes through bile acid/gut microbiome axis modulation could uncover new and innovative disease management strategies for managing cancers in vulnerable cohorts.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="s1">
+    <title>
+     INTRODUCTION
+    </title>
+    <p>
+     In the 1940s, bile acids were shown to be inducers of cancer in rodents subcutaneously injected with the secondary bile acid, deoxycholate (DCA) [     ]. This generated malignant spindle-celled tumours, indicative of epitheliomas (benign growths or malignant carcinomas that are classified according to the epithelial cell of origin). These early observations were correlatively affirmed in epidemiological studies that showed associations between bile acids and cancer, notably colorectal cancer (summarised in [     ]). Since then, extensive research has revealed that bile acids act as tumour promoters in a variety of organs such as the oesophagus, the liver and the stomach lining [     ,     ].
+    </p>
+    <p>
+     However, in recent years, several reports have emerged demonstrating the effectiveness of bile acids in reducing cell proliferation and migration of some cancer cell types. These observations have expanded our knowledge base in the understanding of bile acid signalling in the aetiology and evolution of cancer. However, we must also consider new and significant developments that have shaped our understanding of bile acid metabolism, namely the microbiome. Through the exploration of contemporary developments in this area, we can begin to redefine the bile acid/microbiome axis and its putative role in tumour suppression.
+    </p>
+    <sec id="s1_1">
+     <title>
+      Bile acids as emerging molecules in tumour suppression
+     </title>
+     <p>
+      Bile acids are key signalling molecules that play important roles as emulsifiers in digestion and the absorption of dietary lipids [      ,      –      ]. The evidence implicating bile acids in cancer (oesophageal, stomach, gut) has been extensively documented throughout the literature [      ,      ,      ]. A combination of mechanisms appears to be responsible for bile induced cancer in organs where elevated bile acid levels persist, e.g. oxidative damage (ROS), epithelium proliferation, cell death, signalling activation and localised DNA instability [      ]. Specifically, at the colon, bile acid induced mitochondrial dysfunction leads to oxidative damage, ROS accumulation and localised cell membrane damage [      ,      ]. Similarly, DCA has been shown to induce epithelium hyper-proliferation via the activation of epidermal growth factor receptor (EGFR), extracellular signal-regulated kinase (ERK) and protein kinase C (PKC) signalling pathways [      ]. Prolonged exposure to bile acids at the colon can also increase apoptosis and apoptosis resistance, via mitochondrial stress and ROS release, activation of cytochrome C and members of the Bcl-2 family [      ,      ]. These mechanisms, and others (e.g. mitosis disruption, G1/G2 cell cycle arrest, endoplasmic stress) lead to chromosomal instability and DNA damage, underpinning the initial stages of colorectal tumorigenesis, thereby aggravating an already unstable environment [      ,      ,      ,      ,      ,      ,      ].
+     </p>
+     <p>
+      The macro-level damage described above is also associated with significant changes in several key signalling pathways (Table      ). Constitutive activation and translocation of the transcription factor NF-κB, a protein involved in DNA transcription, inflammatory cytokine production and enhanced cell survival, occurs in response to DCA exposure at the oesophagus and colon [      ,      ,      –      ]. Similarly, expression of cyclooxygenase, COX2 and prostaglandin E2 (PGE2) (a member of the prostaglandin family involved in inflammation, cell growth and hormone regulation) is significantly elevated in pancreatic cancer cell lines (BxPC-3 and SU 86.86) in response to DCA and CDCA [      ]. COX2, cited as a stress marker induced in Barret’s mucosa (a predictor of oesophageal adenocarcinoma), is increased upon exposure to DCA and chenodeoxycholate (CDCA) in squamous cancer oesophageal cells. Interestingly, in the same study, a key regulator of squamous regulation p63, was rapidly decreased upon exposure to DCA, suggesting p63 could be lost in the transition between squamous and metaplasia phenotypes when exposed to bile acids [      ].
+     </p>
+     <p>
+      Notwithstanding these observations, it has been shown that key
+      <italic>
+       in vitro
+      </italic>
+      cell morphological characteristics of cancer cells (e.g. cell invasion, cell migration, cell adhesion and cell survival) can be targeted by bile acids to suppress metastatic phenotypes in several cancer models (Table      ). In the leukaemia cell line HL60, DCA, CDCA and lithocholic acid (LCA) inhibit cell proliferation and induce cell differentiation with a mechanism implicating protein kinase C (PKC) [      ]. Similarly, in HL60 cells and the leukaemia cell line THP-1, bile acids induce a positive cooperativity with retinoic acid and vitamin D in promoting differentiation, and down-regulating the serine protease myeloblastin. The expression of myeloblastin is associated with the promotion of cellular differentiation in myeloid leukaemia [      –      ]. The proliferative capacity of the pancreatic cell lines, PANC-1, MIA PaCa-2 and PGHAM-1 have been tested in response to DCA. Cell proliferation was reduced and structural alterations to microvilli were observed in some cell lines, suggesting DCA could limit
+      <italic>
+       in vitro
+      </italic>
+      pancreatic cancer cell progression and invasion [      ]. DCA and CDCA destabilised the transcription factor, Hypoxia Inducible Factor-1α (HIF-1α) in the immortalised bronchial epithelial cell line IB3-1 derived from a cystic fibrosis (CF) patient [      ]. Similarly, DCA was shown to inhibit cell invasion, cell migration and cell proliferation in the gastric carcinoma cell lines SNU-216 and MKN45 [      ]. This was accompanied by simultaneous reductions in Snail and MMP9 expression, proteins which are associated with aggressive menenchymal cell phenotypes. Similarly, increases in MUC2 and E-cadherin expression were also recorded and are associated with less aggressive cancers. Critically, these observations were used in a retrospective study to clinically evaluate tumour samples from a cohort with good cancer prognoses. MUC2 positive tumours showed reduced Snail expression, suggesting bile acids could regulate tumour behaviour in oesophageal and colon cancers [      ]. The most recent study by our group, investigated the effects of DCA and CDCA in hypoxia induced prostate and breast cancer models, where HIF-1α was constitutively activated. We observed significant reductions in cell invasion, cell migration, cell adhesion and cell survival (clonogenicity) in the presence of physiological levels of bile acids, without inducing cytotoxicity or apoptosis [      ]. Concomitantly, we observed that HIF-1α was significantly destabilised (when compared to controls) and the expression of its downstream signalling effector hexokinase II (HKII) was also reduced.
+     </p>
+     <p>
+      These studies exemplify an increasing awareness of the suppressive effects (molecular and phenotypic) of bile acids in the evolution of some cancers. However, defining the roles of these molecules in cancer is not helped by complicated bile acid receptor expression profiles and signalling mechanisms at the nucleus and plasma membrane. In their comprehensive review, Baptissart
+      <italic>
+       et al.,
+      </italic>
+      proposed that bile acids may have paradoxical functions depending on tissue distribution and the relevant bile acid receptor [      ]. For example, farnesoid X receptor (FXR) expression at the oesophagus may promote inflammation and apoptosis resistance, while opposite effects may be exerted in the liver and intestine. Equally, it has been shown that different bile acids (conjugated and unconjugated) can exert differential FXR expression in a cholangiocarcinoma cell model [      ]. Notwithstanding this complex receptor biology, it has been proposed that high levels of FXR expression could be strong positive prognostic indicators in invasive breast cancer [      ]. Similarly, high TGR5 expression may be associated with oesophageal adenocarcinoma but may have more complex functions in the liver and intestine [      ]. Strategies to target specific receptors in specific organ types must be informed by the knowledge that these receptors are required for normal physiology e.g. FXR and its role in bile acid/cholesterol homeostasis in the liver [      ]. However, potential therapeutic advances have been made in this area, e.g. the identification of a detoxifying role for FXR in colorectal cancer (CRC), the third most common malignancy worldwide [      ].
+     </p>
+    </sec>
+    <sec id="s1_2">
+     <title>
+      Factors shaping bile acid profiles
+     </title>
+     <sec id="s1_2_1">
+      <title>
+       The bile acid/microbiome axis
+      </title>
+      <p>
+       While the molecular and cell behavioural events induced by bile acids in cancer development are important, it is vital to assess factors that shape and sculpt bile acid profiles. The role of intestinal microbiota-derived bile acid metabolites in the aetiology of colorectal cancer was hypothesised several decade ago [       ,       ]. Understanding and dissecting the microbiome/bile acid axis will help identify how potentially pathophysiological bile acid profiles are generated in the body and more importantly, how they impact on cancer development.
+      </p>
+      <p>
+       The gut microbiome is a community of commensal, symbiotic and pathogenic microorganisms that inhabit the gastrointestinal tract contributing both to human health and disease. Dietary and environmental factors, lifestyle choices or other conditions that impact on the composition and metabolic activity of intestinal microbiota, can lead to dramatic alterations in bile acid pools which in turn affects host metabolism and homeostasis [       –       ]. The gut microbiota regulate bile acid metabolism, including the synthesis, conjugation, uptake and recirculation to the liver via the portal vein through FXR modulation, as well as by the transformation of bile salts into secondary bile acids [       ]. Activation of bile-responsive receptors are not only key for bile acid metabolism, but they also influence a host of metabolic processes including, glucose homeostasis, lipid and lipoprotein metabolism, energy expenditure, intestinal bacterial growth, inflammation, liver functions, and hepato-carcinogenesis [       ]. On the other hand, bile acids can also configure the structure of intestinal bacterial communities by selecting bile tolerant microbes or by fitness gain conferred by specific bile acid profiles [       ]. The picture becomes even more complicated when we consider additional components of the gut ecosystem such as the enteric bacteriophage community, which has been poorly characterised and may participate in gut response to bile acids. The enteric virome regulates gut microbial population dynamics contributing to the normal functioning and resilience of the gut community [       ]. Differential bile acid tolerances have been reported for some bacteriophages [       ,       ], suggesting that bile acid-mediated modulation of enteric bacteria could be secondary to changes in bacteriophage diversity. Accordingly, recent studies have shown that the distinctive compositional signatures of gut bacteria linked to different human conditions are associated with specific enteric viromes [       ]. Thus, different host-derived bile acid profiles may also alter bacterial composition and the production of secondary bile acids, by selecting for singular phage populations.
+      </p>
+      <p>
+       The gut microbiota also regulates inflammatory responses in the host by controlling the production of specific secondary bile acids such as LCA (lithocholic acid) or DCA, which activate the bile-responsive receptors FXR and TGR5. Activation of FXR or TGR5 results in an anti-inflammatory response by supressing the NF-kB-mediated production of pro-inflammatory cytokines in immune cells and the Caco-2 intestinal epithelial cell line [       ,       ]. Accordingly, the dysregulation of bile acids has been implicated in several human diseases associated with inflammation, e.g. liver cirrhosis [       ,       ], inflammatory bowel disease [       ,       ,       ] type −2 diabetes (T2DM) [       ] and cardiovascular disease (CVD) [       ,       ]. These conditions have been associated with specific gut microbiota compositional and/or functional profiles [       ,       ,       ]. This suggests that events at the microbiome have far reaching consequences and are not just limited to host metabolic disorders [       ,       ]. For an in-depth and comprehensive review on the role of bile acids in metabolic disorders, refer to Jones
+       <italic>
+        et al.
+       </italic>
+       [       ].
+      </p>
+      <p>
+       What precisely causes these pathological manifestations remains to be fully delineated. For cancer, bile acid mediated initiation appears to be promoted through several factors (individual or combined) (Figure       ); i) supra-physiological levels of bile acids (DCA) linked to poor nutrition, ii) lipid membrane composition at susceptible organs [       ,       ], iii) ROS-mediated damage at epithelium barriers between host and microbiome, generating inflammation and hyper-proliferative epithelium phenotypes [       ], iv) excessive pH fluctuations (e.g. due to over reliance on medicines) causing resurgences of pathogenic microbial populations [       ] and v) activation of transcriptional programmes regulated by different nuclear receptors and altered production of cytokines that induce pro-inflammatory responses [       ,       ,       ]. Unlocking the molecular interplay between these factors and their association with elevated bile acids (excessive DCA production) and cancer progression could shed light on the altered expression of key biochemical messengers, e.g. NF-kB and FXR (Figure       ), that when combined not only promote localised epithelium damage but also early stages of colorectal cancer [       ].
+      </p>
+      <p>
+       Diet appears to be a pivotal factor in controlling bile acids. DCA levels are controlled by the bile salt hydrolysing
+       <italic>
+        Roseburia
+       </italic>
+       and
+       <italic>
+        Faecalibacterium
+       </italic>
+       to maintain BA pool sizes and composition. Fibre rich diets stimulate the growth of both
+       <italic>
+        Roseburia
+       </italic>
+       and
+       <italic>
+        Faecalibacterium
+       </italic>
+       species as well as promoting bile acid metabolism [       ,       ]. Deficiencies in these genera can therefore upset DCA production and increase inflammation, leading to ulcerative colitis, a precursor to colon cancer [       ,       ]. DCA production can become elevated thanks to high fat diets, inhibiting the growth of particular taxa of the phyla
+       <italic>
+        Bacteroidetes
+       </italic>
+       and
+       <italic>
+        Firmicutes
+       </italic>
+       , causing dysbiosis, e.g. inflammatory bowel disease, a potential precursor to colorectal cancer [       ,       ].
+      </p>
+      <p>
+       It is a sobering thought that only a small fraction of all microbes are easily cultured and characterised in the laboratory [       ]. Concerted efforts should be made to study and characterise microbiome strains that have been implicated in cancer. Strains such as
+       <italic>
+        Enterobacteriaceae
+       </italic>
+       that are associated with bile acid fluctuations in liver cirrhosis, and bile modulating strains such as
+       <italic>
+        Clostridia
+       </italic>
+       and its reported association with liver cancer development, require complete genotyping and characterising to delineate their precise roles in vulnerable cancer-susceptible individuals and cohorts [       ,       ]. Significant efforts have yet to be made in this area, however Ahern
+       <italic>
+        et al
+       </italic>
+       provide a valuable procedural template in their quest to mine microbiota strains implicated in the immune system [       ]. They suggest approaches including, culturing using complex media, dysbiotic gut transplantation into germ free mice, generation of strain libraries and intensive low error amplicon 16sRNA sequencing (LEA-Seq).
+      </p>
+     </sec>
+    </sec>
+    <sec id="s1_3">
+     <title>
+      The diet
+     </title>
+     <p>
+      The adoption of busier lifestyles means that “healthy” diets are often side-lined, leading to compromised eating habits with detrimental effects on health [      ]. Eschewing healthier options sustains diets high in processed sugars, complex carbohydrates and saturated fats which complicate disorders such as diabetes, obesity and CVD. When seditious lifestyles are included, health and socio-economic issues become critical, leading to an overweight, chronically unfit population prone to deleterious ill health and potentially long term debilitating disease [      –      ].
+     </p>
+     <p>
+      Several reviews suggest the consumption of red meat and dietary fats may be direct contributory factors to the development of cancers at e.g. the colon and liver [      ,      ,      ]. Similarly, dairy products containing bile acid hydrolysing (BSH) genera (
+      <italic>
+       Lactobacillus
+      </italic>
+      and
+      <italic>
+       Bifidobacterium)
+      </italic>
+      should be carefully evaluated in terms of their potential impact on vulnerable cancer patients or sur viv ors [      ]. BSHs have traditionally been identified as effective probiotics in the modulation of metabolic disease [      ,      ], however BSH metabolism could lead to the generation of unwanted unconjugated secondary bile acids, exacerbating DNA instability at the colon [      ]. Restoring normal bile acid profiles could be mediated by supplementing diets with probiotics (strains from the
+      <italic>
+       Lactobacillus
+      </italic>
+      and
+      <italic>
+       Bifidobacterium
+      </italic>
+      genera), prebiotics or non-digestible foodstuffs (inulin and
+      <italic>
+       trans
+      </italic>
+      -galacto-oligosaccharides) that would improve bile metabolic regulation and help readdress beneficial gut fauna [      ,      ]. Much speculation exists in the literature regarding the use of probiotics and prebiotics against e.g. pancreatic, colon and colorectal cancer [      –      ]. There is some evidence to suggest that secreted metabolites derived from
+      <italic>
+       Lactobacillus
+      </italic>
+      strains reduce the viability of colon cancer cells (Caco-2 and HT-29). These metabolites have been shown to downregulate the key receptor tyrosine kinases, Erb-2 and Erb-3, however the physiological implications of these findings have yet to be determined [      ]. It is evident from the dearth of information in the literature that more research is required to fully realise the potential of microbial based therapies in restoring bile acid homeostasis in cancer cohorts where recurrence of disease is common.
+     </p>
+     <p>
+      While the generation of novel probiotics and microbiota-based strategies could potentiate bile signalling in cancer progression, there remains the possibility that control of bile acids from a dietary perspective could decrease susceptibility to cancer. Non-empirical evidence suggests that Mediterranean diets (fruits and vegetables, whole grains, legumes and nuts, olive oil, herbs and spices, limited red meat, fish and poultry and red wine (in moderation) could provide “probable” long term protective roles against cancer initiation [      ]. However, while empirical data from a human perspective is not available [      ,      ], it would be informative to conduct well designed and controlled, randomised, longitudinal bile acid (supplemented via probiotics or diet) studies in cohorts that are susceptible to colon, oesophageal or gastric cancers.
+     </p>
+    </sec>
+    <sec id="s1_4">
+     <title>
+      Bile/Microbiome mediated anti-cancer therapies
+     </title>
+     <p>
+      Targeting and reducing excess bile acids without affecting normal signalling should be the main goal of research in this area. The advent of high throughput next generation sequencing methods targeted at bile acid producing bacteria could dramatically improve clinical diagnostics in cohorts where microbiome-related issues prevail [      ]. For example, limited spectrum and non-absorbable antibiotics (e.g. ampicillin, vancomycin, neomycin and metronidazole) could target DCA mediated genotoxicity, generated by DCA producing bacteria (e.g.
+      <italic>
+       Costridia
+      </italic>
+      ) in high risk colon cancer patients [      ,      ]. Similarly, DCA levels are reduced in mice by decreasing 7α-dihydroxylation activity using fructose anhydride III or increasing bile acid secretion through ursodeoxycholic acid (UCDA) administration [      ]. UDCA has long been speculated to act as a potential therapeutic agent in the treatment of colorectal and liver cancer. Chronic UDCA enrichment of rodent diets decreased DCA pools and decreased the incidence of benign and malignant tumours in these animals [      ]. Similarly, UCDA and di-fructose anhydride III was shown to block DCA production in obese mice, preventing hepatocellular carcinoma in these animals [      ]. UCDA appears to have potentially chemotherapeutic effects in humans. In a human phase III trial, UDCA administration was associated with significant reductions in the recurrence of colorectal adenomas with high-grade dysplasia in 1285 patients, a key finding for those prone to invasive colorectal carcinoma [      ]. The generation of a synthetic derivative of CDCA (HS-1200) has been shown to be effective in inhibiting proliferation of prostate cancer cells, bone sarcoma cells and hepato-carcinogenesis in rats [      ,      ]. Lastly, the use of the synthetic acid derivative obeticholic acid, a strong FXR agonist has been demonstrated to be a highly effective treatment for patients with primary biliary cirrhosis [      ]. The efficacy of obeticholic acid in patients with primary biliary cirrhosis with inadequate responses to ursodeoxycholic acid could be a promising therapeutic option for treating liver disease.
+     </p>
+     <p>
+      Equally, microbiome transplantation, traditionally used for alleviating
+      <italic>
+       Clostridium difficile
+      </italic>
+      infections, has proven successful for some patients with colitis (precursor to cancer). The approach, however should be viewed with caution as pathogen and virus transmission to new hosts could induce host-specific microbiome immune effects [      ,      ]. Notwithstanding these difficulties, microbiota transplantations appear to have universal appeal as therapies in the treatment of disorders such as microbiota-brain-gut axis dysregulation, metabolic and mood disorders. Therefore, their use as potential cancer therapies is a distinct possibility [      ]. Similarly, future studies on non-bile modulating organisms could be used to regulate gut dynamics to protect against bile acid producing pathogens implicated in colon cancer. In support of this, preliminary research in predisposed mice, has shown that a
+      <italic>
+       Lactobacillus acidophilus
+      </italic>
+      strain deficient for lipoteichoic acid (LTA) regresses colonic polyps, a precursor to colon cancer [      ]. Could genetically modified
+      <italic>
+       L. acidophilus
+      </italic>
+      strains provide protective effects against pathophysiological bile acid levels in susceptible colon cancer cohorts? For liver cancer susceptibility in obese cohorts, continuous monitoring of serum and faecal DCA levels could prove effective in predicting obesity associated liver cancer [      ]. Supplementation of antioxidant agents to limit DCA-dependent ROS cell membrane damage has also been proposed as a potential therapy for Barret’s oesophagus patients [      ,      ]. Similarly, aspirin could exert chemo-preventative effects on key apoptotic signalling molecules at different organ sites; e.g. in human gastric carcinoma cells, aspirin prevented DCA induced caspase-3, -6 and -9 activation, DNA degradation, poly (ADP-ribose) polymerase and lamin A processing [      ]. In an oesophageal adenocarcinoma cell line, aspirin decreased MUC2 transcription and NF-κB activity [      ]. Whether these pre-clinical observations can be translated to human studies remains to be seen.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s2">
+    <title>
+     CONCLUSIONS AND PERSPECTIVES
+    </title>
+    <p>
+     The key genomic fault-lines that underpin cancer progression; intrinsic DNA/genomic instability, high cell turnover and regulation of cell survival/apoptosis/necrosis are chronically exacerbated by persistent supra-concentrations of bile acids at e.g. the colon, oesophagus and stomach. However, reports have shown that bile acids can have therapeutic effects on some cancer cell types, eliciting dramatic changes in cancer cell characteristics (cell adhesion, cell migration and cell invasion). How these effects are elicited remains to be elucidated, but it is tempting to speculate that bile signalling may have implications for hypoxic metastatic tumour development where HIF-1α is destabilised and expression of its effector, hexokinase II (HKII) is decreased [     ,     ].
+    </p>
+    <p>
+     It has been observed that dysbiosis occurs in many inflammatory diseases, suggesting that defects in inflammatory signalling could contribute to these disease states [     ]. Bile acids not only target and destabilise HIF-1α, but they induce the differential expression of the interleukins, IL-6 and IL-8 in airway epithelial cells [     ]. These findings are important for two reasons. Firstly IL-8 mRNA expression is increased in colorectal cancer and secondly IL-8 mRNA expression is decreased in an airway epithelial cell model [     ,     ]. It is thus tempting to postulate that excessive circulating bile acids induce differential inflammatory responses contributing to downstream epithelium hyper-proliferation in the colon and oesophagus.
+    </p>
+    <p>
+     The role of bile acid signalling in cancer progression is not a singular event; diet, probiotics, medicine, aging and the environment shape the bile acid/microbiome axis, therein determining bile acid levels and profiles. An unbalanced approach to diet and medicine intake may elevate bile acid levels and alter bile acid profiles to pathophysiological levels. This contributes to cell membrane damage and DNA instability through excessive ROS production. Downstream activation of important regulatory and inflammatory pathways (PKC, NF-κB, EGFR etc.) may lead to or exacerbate neoplastic cell proliferation in vulnerable organs e.g. oesophagus, stomach and colon (Figure     ). Conversely, a healthy balanced approach to diet, medicine intake and other factors may contribute to physiological levels of circulating bile acids, thus reducing pathophysiological bile levels. If a pre-cancerous lesion (with metastatic potential) is present in a susceptible organ, physiological bile acid levels could, based on the data presented here, limit progression of malignant cells (Figure     ).
+    </p>
+    <p>
+     In conclusion, the bulk of the literature promotes an associative relationship between bile acids and some cancers reinforcing a “foe” element of bile acids and its role in cancer. However, there remains the distinct possibility that some bile acids can elicit anti-cancer phenotypes (the “friend” element) in cells that have already undergone an initial malignant transformation (e.g. through HIF-1α activation). The maintenance of a balanced bile acid/microbiome axis could limit the metastatic potential of some cell types. Characterisation of this axis requires high-throughput metagenomics-sequencing approaches, intensive identification methods using the latest 16sRNA technologies, molecular based studies and practical, well-conceived human randomised trials. These approaches may provide some answers to the following questions; i) how do bile receptors in different tissues respond to bile acids, ii) what are the downstream targets of this regulation and can these bile receptors be targeted in those susceptible cancer cohorts with a dysfunctional bile acid/microbiome axis profile, iii) can harmful bile modulating gut pathogens be replaced by beneficial ones? While these questions remain to be answered, the solution for most lies in the diet. Promoting healthier eating habits could, in the long term, reduce predisposition to certain cancers where bile acids are perceived as contributory agents to disease.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

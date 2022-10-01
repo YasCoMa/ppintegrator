@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Structure and Function of the Type III Secretion System of
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   is a dangerous pathogen particularly because it harbors multiple virulence factors. It causes several types of infection, including dermatitis, endocarditis, and infections of the urinary tract, eye, ear, bone, joints and, of particular interest, the respiratory tract. Patients with cystic fibrosis, who are extremely susceptible to Pseudomonas infections, have a bad prognosis and high mortality. An important virulence factor of
+   <italic>
+    P. aeruginosa
+   </italic>
+   , shared with many other gram-negative bacteria, is the type III secretion system, a hollow molecular needle that transfers effector toxins directly from the bacterium into the host cell cytosol. This complex macromolecular machine works in a highly regulated manner and can manipulate the host cell in many different ways. Here we review the current knowledge of the structure of the
+   <italic>
+    P. aeruginosa
+   </italic>
+   T3SS, as well as its function and recognition by the immune system. Furthermore, we describe recent progress in the development and use of therapeutic agents targeting the T3SS.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec>
+    <title>
+     INTRODUCTION
+    </title>
+    <p>
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     is a gram-negative bacterium that causes a wide variety of acute and chronic infections. Patients with cystic fibrosis are extremely susceptible to
+     <italic>
+      P. aeruginosa
+     </italic>
+     infections [     ]. It is also a frequent cause of acute pneumonia, especially in patients who are mechanically ventilated, immunocompromized, or have underlying diseases such as HIV or cancer [     ]. The type III secretion system (T3SS), a major virulence determinant that manipulates eukaryotic host cell responses, is present in a broad range of pathogens. It is a specialized needle-like structure that delivers effector toxins directly from the bacteria into the host cytosol in a highly regulated manner. This system is activated on contact with eukaryotic cell membranes, interferes with signal transduction, and causes cell death or alterations in host immune responses.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     STRUCTURE OF THE
+     <italic>
+      PSEUDOMONAS AERUGINOSA
+     </italic>
+     T3SS
+    </title>
+    <p>
+     The T3SS is evolutionarily connected with the flagellar system, but which one developed first is not clear [     ]. The T3SS is a complex macromolecular machine that is structurally and functionally conserved. Five major families of the T3SS can be distinguished [     ,     ]: the Ysc-family, the Inv-Mxi-Spa family, and the Ssa-Esc family of animal pathogens, and two different Hrp T3SS of plant pathogens. The Yop system of
+     <italic>
+      Yersinia
+     </italic>
+     spp, the Asc system of
+     <italic>
+      Aeromonas salmonicida
+     </italic>
+     , and the Psc system of
+     <italic>
+      P. aeruginosa
+     </italic>
+     are examples of Ysc types. The Inv-Mxi-Spa family includes the
+     <italic>
+      Salmonella enterica
+     </italic>
+     (SPI-1) and
+     <italic>
+      Shigella
+     </italic>
+     systems, and the Ssa-Esc family includes the systems of
+     <italic>
+      S. enterica
+     </italic>
+     (SPI-2) and of enteropathogenic
+     <italic>
+      E. coli
+     </italic>
+     (EPEC) and enterohaemorrhagic
+     <italic>
+      E
+     </italic>
+     .
+     <italic>
+      coli
+     </italic>
+     (EHEC). The similarities found between these families are not based on their sequences but on their functions, which reflects the ability of pathogenic bacteria to adapt specifically to their environment. The first discovery of the existence of a T3SS in
+     <italic>
+      P. aeruginosa
+     </italic>
+     was in 1996 [     ] but it took till 2005 before the T3SS was structurally visualised [     ].
+    </p>
+    <p>
+     The T3SS of
+     <italic>
+      P. aeruginosa
+     </italic>
+     consists of several proteins that form a macromolecular complex spanning the inner bacterial membrane, the periplasmic space, the peptidoglycan layer, the outer bacterial membrane, the extracellular space, and the host cell membrane (Fig.
+     <bold/>
+     ). At the functional level one can define the secretion apparatus or needle complex, the translocation or targeting apparatus, and the secreted toxins (effector proteins) and cognate chaperones [     ].
+    </p>
+    <sec>
+     <title>
+      The Secretion Apparatus or Needle Complex
+     </title>
+     <p>
+      The secretion apparatus of
+      <italic>
+       P. aeruginosa
+      </italic>
+      consists of a basal body and a needle-like structure or injectisome. The basal body of the T3SS, in which the needle-like structure is anchored, is the only intracellular part of the T3SS and spans the inner bacterial membrane, the peptidoglycan layer, and the outer bacterial membrane [      ]. The basal body brings effector toxins from the bacterial cytosol to the needle-like structure. It consists of an inner membrane component and an outer membrane component. While the inner membrane component of the T3SS is predicted to contain PscJ, the outer membrane component consists of the PscC protein of the secretin family of outer membrane proteins, which function as the outer membrane component of a variety of multicomponent export systems, such as Type II secretion systems and Type IV pilus biogenesis. Secretins form large pores by the assembly of 12-14 units into a homomultimeric ring structure that spans the outer membrane and protrudes into the periplasm [      ]. Likewise, PscC oligomerizes and together with the lipoprotein PscW forms a channel in the outer membrane [      ]. Other proteins, such as lipoprotein PscJ [      ] and ATPase PscN [      ], probably form part of the basal body of the T3SS of
+      <italic>
+       P. aeruginosa
+      </italic>
+      , but this has not been confirmed yet.
+     </p>
+     <p>
+      The needle-like structure or injectisome is assembled by helical polymerization of PscF proteins [      ,      ]. It resembles a hollow molecular needle that brings effector toxins from the basal body to the translocator apparatus. It is also thought to be involved in sensing host cells, which is needed to activate the T3SS.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      The Translocation or Targeting Apparatus
+     </title>
+     <p>
+      The translocation apparatus is responsible for transporting the effector toxins from the needle-like structure across the host cell plasma membrane and delivering it into the host cell cytosol. In non-secreting conditions the T3SS is build up until the needle-like structure with a low basal secretion of effector proteins into the surrounding, however insufficient for intoxication of cells. Upon contact with a host cell, an active injectisome is formed, ending with a functional translocation apparatus that is inserted in the host cell plasma membrane, forming a functional translocation pore. The T3SS translocation apparatus of
+      <italic>
+       P. aeruginosa
+      </italic>
+      needs three proteins: PopB, PopD and PcrV [      ], which are collectively known as translocators. These proteins are secreted by the T3SS itself, they interact with each other, and they are needed to form a translocation pore [      ]. PopB and PopD, which consist of hydrophobic domains, oligomerize to form the translocation pore. PcrV is not a part of the pore itself and is hydrophilic, though its presence is required to form a functional translocation pore [      -      ].
+     </p>
+    </sec>
+    <sec>
+     <title>
+      The Secreted Effector Toxins
+     </title>
+     <p>
+      So far four effector toxins of
+      <italic>
+       P. aeruginosa
+      </italic>
+      have been identified: ExoS, ExoT, ExoU and ExoY. The four effector toxins are rarely all present in one strain and different strains have either the ExoS or the ExoU gene [      ]. Expression of T3SS effector toxins is correlated with clinical disease outcome [      ] and the effector toxins present determine the phenotype of a strain. Whereas ExoS causes apoptotic cell death [      ], ExoU causes cell lysis [      ]. ExoT and ExoS share 76% amino acid identity [      ] and have many similarities, but they are also very different [      ]. ExoT and ExoS are both bifunctional proteins with an N-terminal GTPase-activating (GAP) domain and a C-terminal adenosine diphosphate ribosyltransferase domain (ADPRT-domain) (Fig.
+      <bold/>
+      ). ExoS is an enzyme of 453 amino acids. Its first 15 N-terminal residues constitute the secretion domain, residues 15-51 the chaperone binding domain, and residues 51-72 the membrane localization domain. The secretion signal directs effector toxins to the T3SS apparatus. The chaperone binding domain binds SpcS, which is important for the secretion of ExoS, probably by maintaining ExoS in a secretion-competent conformation [      ]. The membrane localization domain targets the effector toxins to the plasma membrane of the host cell, which is needed for efficient modification of host proteins. The GAP domain with Rho GAP activity is between residues 96 and 233, just before the ADPRT domain with ADP ribosylating activity, which is at residues 233-453. Within the ADPRT domain, residues 418-429 make up the binding site for cofactor FAS, which is a 14-3-3 protein needed for ADPRT activity. Glu379 and Glu381 are also crucial for ADPRT activity [      ]. Arg146, within the GAP domain, is required for GAP activity.
+     </p>
+     <p>
+      ExoT is an enzyme of 457 amino acids, resembling ExoS in structure. Within the first 50 residues it has an N-terminal secretion domain, a chaperone binding domain, and a membrane localization domain. Residues 78-235 contain the GAP domain, and the ADPRT domain is located at residue 235-457. The cofactor binding site lies between residues 422-433. As in ExoS, Arg149 is required for the GAP activity of ExoT [      ] and residues Glu383 and Glu385 are required for ADP ribosylation activity [      ].
+     </p>
+     <p>
+      ExoU is a 687-amino acid phospholipase with phospholipase A2 activity, which requires residues Ser142 and Asp344 [      ]. The N-terminal secretion domain is assumed to be within the first 15 residues of the protein, and the chaperone binding domain lies between residues 3 and 123 [      ]. This is followed by a patatin-like domain, between residues 107 and 357, which contains the phospholipase A2 activity [      ]. Between residues 357 and 550 there is no recognizable motif, but between residues 550–687 there is a membrane localization domain [      ].
+     </p>
+     <p>
+      ExoY is a secreted adenylyl cyclase [      ] of 378 amino acids. It has two domains that act together to bind ATP. Its activity relies on residues Lys81, Lys88, Asp212 and Asp214 which are also thought to represent the ATP binding site.
+     </p>
+     <p>
+      Secretion and translocation signals have not been identified in the T3SS effectors, which makes the identification of novel virulence factors very difficult. Bioinformatics analysis of a large number of genome sequences of plant and animal pathogens are being used to identify candidate T3SS effector proteins [      ].
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Chaperones of the T3SS Apparatus
+     </title>
+     <p>
+      The chaperones of the T3SS apparatus are small bacterial cytosolic proteins that assist the assembly and operation of the T3SS. Although they also assist the secreted effector toxins, they are never exported through the T3SS needle. These chaperones can be divided into different classes depending on which type of protein they assist: class I chaperones assist the pore forming proteins, class II chaperones the subunits of the needle-like structure, and class III chaperones the effector toxins. Different functions and action mechanisms of chaperones of the T3SS have been suggested [      ]. The helical components of the injectisome, for instance, are chaperoned by class I chaperones that maintain the components in a monomeric state by binding the subunits and masking the domains involved in polymerization to prevent the subunits from associating with each other. They might also assist in the delivery of proteins to the export channel. The needle component PscF is kept in a 1:1:1 conformation in the cytosol by the chaperones PscE and PscG [      ]. The toxicity of the hydrophobic translocators is neutralized by class II chaperones [      ]. The presence of free translocator-chaperones might signal the bacterium that the pore is made and the injectisome is functional [      ].
+     </p>
+     <p>
+      The translocator proteins PopB and PopD are chaperoned by PcrH [      ]. The effector proteins have dedicated chaperones belonging to class I and interacting with their cognate partner through the chaperone binding domain. ExoS and ExoT are chaperoned by SpcS, which is required for maximum secretion of these proteins, and SpcU is a chaperone for ExoU, but no chaperone for ExoY has been identified. All these chaperones can help to sequester their partners in the bacterial cytosol to inhibit inappropriate secretion, but they also facilitate the appropriate delivery of their cognate partner for secretion [      ]. There is also some evidence that they are important for targeting their partners to ATPase and thereby facilitate their unfolding [      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     REGULATION OF THE T3SS PROTEINS
+    </title>
+    <sec>
+     <title>
+      Regulation of Transcription and Secretion of the T3SS Effector Toxins
+     </title>
+     <p>
+      The biogenesis of the T3SS injectisome and the translocation of effector toxins is tightly controlled and is dependent on about 36 genes encoded in five clustered operons in the
+      <italic>
+       P. aeruginosa
+      </italic>
+      chromosome [      ]. In addition, at least six other genes located around this chromosome are important in the biogenesis of the T3SS.
+     </p>
+     <p>
+      The signal that triggers the expression of T3SS genes is commonly known as direct host cell contact sensed by the T3SS needle, but the exact signaling mechanism is not known. Metabolic stress reduces the ability of
+      <italic>
+       P. aeruginosa
+      </italic>
+      to secrete proteins by decreasing the percentage of bacterial cells that can assemble functional secretion systems [      ,      ]. The secretion itself is regulated at two levels: transcription of T3SS genes and secretion of the proteins. Transcription itself is regulated by different regulatory proteins that are substrates of the T3SS for secretion. By removing activators or suppressors that regulate the transcription of the T3SS genes through secretion, the regulation of transcription of T3SS genes is coupled to the initiation of the actual secretion itself [      ,      ], as transcription is induced upon activation of secretion [      ,      ].
+     </p>
+     <p>
+      The transcription of
+      <italic>
+       P. aeruginosa
+      </italic>
+      T3SS genes is regulated by the transcriptional activator ExsA, which binds to an ExsA consensus element in the promoter of T3SS genes and to its own promoter [      ]. The secretion activity is coupled to ExsA dependent transcription by three proteins: ExsC, ExsD and ExsE (Fig.
+      <bold/>
+      ). In non-secreting conditions, ExsA dependent transcription is inhibited by binding to the anti-activator ExsD [      ]. The anti-activator ExsC can bind and negatively regulate ExsD [      ], but in non-secreting conditions it is bound to its higher binding affinity partner, ExsE [      ,      ]. During secreting conditions, when the T3SS injectisome is activated upon host cell contact, the coupling of transcription and secretion is achieved by the export of ExsE into the host cell cytosol [      ]. The reduced levels of ExsE liberate the ExsC chaperone that binds ExsD. ExsD subsequently frees ExsA and activates transcription. A more detailed overview of regulation of the T3SS can be found in [      ,      ].
+     </p>
+     <p>
+      The T3SS effector protein ExoS prevents triggering of type III secretion by bacteria when they are attached to cells, which points to feedback regulation. There is evidence that translocation of ExoS is self-regulated and that this inhibition of translocation can be achieved by either its GAP or ADPRT enzymatic activities [      ]. It has also been proposed that a complex of PcrV and PcrG in the bacterial cytosol [      ] and the bacterial protein PopN [      ] play roles in protein secretion. However, this stands in contrast to the findings of Schoehn
+      <italic>
+       et al.
+      </italic>
+      [      ], who could not show a role of these proteins in protein secretion. It has also been suggested that once the effector toxins are released, regulatory mechanisms ‘reset’ the T3SS and ‘re-load’ the T3SS machine with new effector toxins [      ].
+     </p>
+     <p>
+      In almost all existing T3SS the total levels of each of the effector toxins, needed to intoxicate the cell, is related to the increased levels of protein expression for the structural components of the injectisome. However, in the regulation of the T3SS of
+      <italic>
+       P. aeruginosa
+      </italic>
+      , this is not always the case. It has been proposed that the system might have initially evolved to protect the organism from predators that naturally inhabit the soil and water [      ], such as either free living [      ] or biofilm associated amoeba [      ]. This notion is supported by the presence of a functional T3SS in most isolates of environmental
+      <italic>
+       P. aeruginosa
+      </italic>
+      [      ]. The broad conservation of different targets in eukaryotic organisms can explain why the T3SS resulted in a system that is also active against humans. In addition, this broad conservation of targets could also explain why
+      <italic>
+       P. aeruginosa
+      </italic>
+      has only four effector toxins, which is fewer than that those of other organisms expressing T3SS.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Assembly of the T3SS Machine and Pore Formation
+     </title>
+     <p>
+      It is not only the T3SS protein secretion and transcription that is regulated, but also the assembly of the T3SS machine and needle length. Moreover, PscN, an ATPase that provides energy for the T3SS, is controlled by PscL [      ]. Before the injectisome secretes effector toxins, it exports its own distal components. Based on the similarity between the T3SS system and the flagellar system, it has been suggested that the T3SS machine is assembled sequentially. The distal structures of the injectisome grow by polymerization of the subunits at the tip of the nascent structure and there is no checkpoint between the assembly of the rod and the needle. The needle length is strictly regulated and there are different models explaining the control of the needle length. Based on the studies of its homolog YscP in
+      <italic>
+       Yersinia
+      </italic>
+      , PscP has been suggested to act as a molecular ruler in
+      <italic>
+       P. aeruginosa
+      </italic>
+      [reviewed by [      ]].
+     </p>
+     <p>
+      Once the needle is assembled, the T3SS switches substrate specificity, and the formation of the translocation pore and export of effector toxins is triggered by contact with the host cell. Both PopB and PopD are chaperoned by PcrH in the bacterial cytosol.
+      <italic>
+       In vitro
+      </italic>
+      , recombinant PopB and PopD dissociate from their cognate chaperone in acidic conditions and oligomerize to form soluble complexes, either as stable heterodimers or as metastable heterooligomers. In the presence of liposomes, the monomers form metastable oligomers that subsequently can bind and disrupt cholesterol-rich membranes generating the ring for the translocation pore. In the case of the PopB/PcrH complex, this occurs within a pH range of 5±7, while PopD is only oligomeric at acidic pH and in the absence of PcrH [      ]. Briefly, in the model proposed to explain how PopB and PopD form the translocon (Fig.
+      <bold/>
+      ), these two proteins are bound to their chaperone PcrH in the bacterial cytosol, which prevents aggregation or activation of the subunits. Upon activation by an
+      <italic>
+       in vivo
+      </italic>
+      switch, PopB and PopD are released from their chaperone and form metastable oligomers. Then PopB and PopD can form homomeric or heteromeric structures that recognize microdomain lipid rafts on the plasma membrane of target cells. This is followed by the formation of ring-like structures with an outer and inner diameter of 80 Å and 40 Å, respectively. This so-called PopB/PopD translocon forms a channel in the target membrane that allows transport of other components of the
+      <italic>
+       P. aeruginosa
+      </italic>
+      T3SS from the bacterial into the host cell cytosol.
+     </p>
+     <p>
+      As mentioned above, all three translocator proteins have to be present to form a functional translocation pore. PcrV is secreted and serves as a molecular platform at the tip of the needle, where PopB and PopD oligomerize. Insertion of PopD, but not PopB, requires the needle tip protein PcrV [      ,      ]. Surprisingly, PcrV cannot bind artificial liposomes [      ] and so far no interaction has been shown between PopB/D and PcrV [      ]. It is possible that there is a weak affinity between them, needing multiple simultaneous interactions or a bridging protein to connect both translocators. It is also not known if oligomerization of PopB and PopD and formation of the pore is facilitated by the PcrV platform, or whether the PcrV platform is linked with PopB and PopD after pore formation [      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     FUNCTION OF THE T3SS
+    </title>
+    <sec>
+     <title>
+      Function of Effector Toxins
+     </title>
+     <p>
+      The
+      <italic>
+       P. aeruginosa
+      </italic>
+      T3SS has been shown to be a major reason for the cytotoxicity of this bacterium for a wide range of host cells [      ,      -      ]. Comparison of the relative contributions of ExoU, ExoS and ExoT effector toxins to mortality, bacterial persistence in the lung, and dissemination in a mouse model of acute pneumonia indicated that secretion of ExoU had the greatest impact, ExoS had an intermediate effect, and ExoT had a minor effect [      ].
+     </p>
+     <p>
+      As described above, ExoS and ExoT have both a GAP and an ADPRT domain. The GAP activities of ExoS and ExoT are biochemically and biologically identical: they inactivate several Rho GTPases by bringing them from an active GTP bound state in an inactive GDP-bound state. Both ExoS [      ,      ] and ExoT [      ,      ] target the small GTPases Rho, Rac and Cdc42, which maintain organization of the host cell actin skeleton. Inactivating these GTPases leads to disruption of the actin skeleton [      ], which manifests itself in cell rounding and detachment, and inhibition of cell migration and phagocytosis, as shown by the decrease in internalization of
+      <italic>
+       P. aeruginosa
+      </italic>
+      by certain cell types [      ,      ,      ]. In addition, the GAP activity of ExoT also inhibits cytokinesis [      ].
+     </p>
+     <p>
+      Although the GAP activities of ExoT and ExoS share the same targets, their ADPRT activities are different. ExoS ADPRT activity mediates cytotoxicity while ExoT interferes with host cell phagocytic activity. ExoT ADP-ribosylates phosphoglycerate kinase and CrkI/II proteins, which signal upstream of RhoGTPases [      ]. The ADPRT domain of ExoT cooperates with the GAP domain to disrupt the actin cytoskeleton. It is also involved in delayed wound healing [      ], which allows the opportunistic pathogen to invade through breaches in the mucosal barriers. Moreover, the ExoT ADPRT domain causes apoptotic cell death, probably by inhibiting Crk [      ]; this apoptosis occurs later than in ExoS induced apoptosis [      ]. ExoS ADP ribosylates a diverse group of proteins, such as cyclophilin A, IgG3, apolipoprotein A1, vimentin [      ] and members of the Ras-like GTPase superfamily [      ,      ]. ExoS also ADP ribosylates members of the ezrin/radixin/moesin family [      ,      ], which are important in the reorganization of the actin cytoskeleton. The ADP ribosylation of all these proteins results in actin cytoskeleton disruption, apoptotic-like cell death, and inhibition of DNA synthesis, endocytosis and vesicular trafficking. Increased levels of ExoS correlate with increased
+      <italic>
+       in vitro
+      </italic>
+      cytotoxicity [      ] and pulmonary damage in animal models and cystic fibrosis patients [      ,      ,      ]. Apart from the ADPRT domain, also the membrane localization domain and the cofactor binding site of ExoS and ExoT are important for their ADP ribosylating function. The presence of a host cell cofactor, first identified as factor associating ExoS (FAS) but now known as a 14-3-3 protein, is absolutely required for ADPRT activity of ExoS and ExoT, which implies that their ADPRT activity is inhibited until they are injected in the host cell cytosol to prevent them from harming the bacteria. The membrane localization domain was shown to localize ExoS to the host cell membrane, where it ADP ribosylates RAS, and also to localize ExoS to the early endosomes, the late endosomes, and finally the Golgi apparatus [      ].
+     </p>
+     <p>
+      ExoS not only has a T3SS contact-dependent intracellular function in cytotoxicity but can also interact as a soluble extracellular protein with T cells and monocytes [      ,      ]. This results in T cell apoptosis and proinflammatory cytokine and chemokine production by activated monocytes [      ,      ]. ExoS has been reported to activate monocytic cells via a MyD88-dependent pathway, using both TLR2 and TLR4. Interestingly, the TLR2 activity was localized to the C-terminal domain of ExoS while the TLR4 activity was localized to the N-terminal domain [      ]. In contrast, we previously showed that T3SS-mediated injection of ExoS in macrophages negatively regulates
+      <italic>
+       P. aeruginosa
+      </italic>
+      induced proteolytic maturation and secretion of the proinflammatory cytokine IL-1β [      ], indicating that ExoS has different immune regulatory functions dependent on its location. Moreover ExoS deficiency also switched the mode of macrophage death from apoptosis to pro-inflammatory pyroptosis [      ].
+     </p>
+     <p>
+      ExoU is a potent cytotoxin whose host cellular targets and mechanism of action are not completely known. It is a member of the phospholipase A family, possessing phospholipase A2 activity with broad substrate specificity [      ]. ExoU activity is correlated with acute cytotoxicity in epithelial cells and macrophages, contributes to injury in mouse models of pneumonia [      ], and is associated with severe human
+      <italic>
+       P. aeruginosa
+      </italic>
+      infectious diseases where ExoU specifically kills neutrophils. Depletion of neutrophils leads to an immunosuppressive effect that makes the host more susceptible to secondary infections [      ,      ]. This modulation of the host immune response and its ability to induce extensive tissue destruction explains why ExoU, together with ExoS, has a prominent role in
+      <italic>
+       P. aeruginosa
+      </italic>
+      pathogenicity. Besides its predominantly cytotoxic activities, ExoU also activates c-jun N-terminal kinase and AP-1 mediated pro-inflammatory gene expression in epithelial cells [      ], but inhibits caspase-1-mediated pro-inflammatory cytokine production in macrophages [      ].
+     </p>
+     <p>
+      Like ExoS and ExoT, ExoU needs a cofactor for its activity. In contrast to ExoS and ExoT, which need 14-3-3 as cofactor, ExoU uses superoxide dismutase, though its enzymatic activity is not required [      ,      ]. Like ExoS and ExoT, ExoU also has a membrane localization domain that is needed for efficient activity. After secretion into the host cell cytosol, ExoU associates with the membrane, which brings the effector close to its possible target, a host cell factor that activates the phospholipases activity of the patatin-like domain [      ]. Another interesting aspect of ExoU is its ubiquitination within the host cell. However, this modification does not lead to ExoU degradation and its biological role remains unclear [      ].
+     </p>
+     <p>
+      ExoY, the most recently discovered effector protein, has not been implicated directly in cellular toxic effects and its role remains unclear. However, ExoY was shown to be toxic in yeast cells [      ] and to induce cell rounding in eukaryotic immune cells [      ]. It is an adenylate cyclase that elevates the intracellular cAMP levels in cultured mammalian cells and causes actin cytoskeleton reorganization. Like the other effector toxins, ExoY needs a cofactor for its activity, but its identity is unknown [      ].
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Function of the Needle and Translocation Apparatus
+     </title>
+     <p>
+      The most prominent function of the T3SS machine is the transport of effector toxins from the bacterium into the host cell cytosol. This transport is very efficient because less than 0.1% of the effector toxins escape into the extracellular space [      ]. Pore formation by the injectisome was first shown for
+      <italic>
+       Yersinia
+      </italic>
+      spp. in erythrocytes, which are not a natural target for T3SS but are suitable for studying pore formation [      ]. The translocator apparatus is situated at the interface between pathogen and host cell and plays a crucial role in transport of effector toxins across the plasma membrane of the host cell. Interestingly, the
+      <italic>
+       P. aeruginosa
+      </italic>
+      PopB and PopD translocator proteins can functionally complement yopB and yopD translocator mutants of
+      <italic>
+       Yersinia pseudotuberculosis
+      </italic>
+      , which demonstrates functional similarity in the infection processes of this organism and
+      <italic>
+       P. aeruginosa
+      </italic>
+      . However, efficient complementation also requires PcrV, which is also part of the translocator apparatus [      ,      ].
+     </p>
+     <p>
+      The role of the T3SS is more than just transport of effector toxins. Though much of the T3SS mediated damage is probably caused by the translocated effectors, there is increasing evidence that insertion of the needle complex itself can contribute to host cell injury. This was elegantly demonstrated by whole-genome microarray comparison of the transcriptional responses of epithelial cells to
+      <italic>
+       P. aeruginosa
+      </italic>
+      wild type and isogenic mutants [      ,      ]. Similarly, we previously showed that the
+      <italic>
+       P. aeruginosa
+      </italic>
+      translocation pore can trigger caspase-1 activation in macrophages independently of any of the known T3SS effector proteins [      ]. Caspase-1 mediates the proteolytic maturation of IL-1β and also results in pyroptotic cell death [      ,      ]. This is consistent with previous reports that suggested pyroptotic host cell death depends on the T3SS needle but not on effector toxins [      -      ]. A similar caspase-1 activating function has been reported for the T3SS of
+      <italic>
+       Yersinia
+      </italic>
+      [      ]. The activation of caspase-1 by
+      <italic>
+       P. aeruginosa
+      </italic>
+      requires the intracellular Nod-like receptor Ipaf (also known as NLRC4) [      ,      ,      ], which recognizes the T3SS in two ways: indirectly by detecting flagellin, and directly by detecting the basal body rod component PscI of the T3SS apparatus [      ]. Similarly, Ipaf also detects the rod proteins of
+      <italic>
+       Salmonella typhimurium
+      </italic>
+      ,
+      <italic>
+       Burkholderia pseudomallei
+      </italic>
+      ,
+      <italic>
+       Escherichia coli
+      </italic>
+      , and
+      <italic>
+       Shigella flexneri
+      </italic>
+      . All these proteins share a sequence motif with the
+      <italic>
+       Pseudomonas
+      </italic>
+      rod protein PscI and flagellin which are both essential for detection by Ipaf. Flagellin and rod proteins are believed to be unintentionally delivered to the mammalian cytosol through the T3SS.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     THE T3SS AND DISEASE
+    </title>
+    <p>
+     <italic>
+      P. aeruginosa
+     </italic>
+     causes serious, often antibiotic resistant infections in immunocompromised individuals, burn victims and patients requiring mechanical ventilation [     ,     ]. For example, once
+     <italic>
+      P. aeruginosa
+     </italic>
+     is established in the airways of cystic fibrosis patients, it is almost impossible to eradicate and it frequently leads to death [     ]. Although T3SS is not necessary for infection, its importance in virulence has been well established in animal models of chronic infections [     ] and acute lung infections, which showed that the T3SS is associated with higher mortality rates [     ], [     ] and that the presence of a functional T3SS in
+     <italic>
+      P. aeruginosa
+     </italic>
+     infecting humans is associated with severe disease and bad prognosis [     ,     ]. In clinical studies of lower respiratory tract infections, the relative risk of mortality was six-fold higher in acute infections associated with expression of the T3SS proteins ExoS, ExoT, ExoU, or PcrV [     ]. Furthermore, T3SS-expressing isolates are predominantly found in acute infections rather than in patients with cystic fibrosis, which indicates that T3SS is a detrimental virulence factor particularly in acute infections.
+    </p>
+    <p>
+     Epithelial cells, endothelial cells, lymphocytes, neutrophils and macrophages, as well as their targeting by the T3SS, all play important roles during
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection (Fig.
+     <bold/>
+     ). The normal healthy airway epithelium is extremely resistant to
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection, which also explains its opportunistic character. This resistance is due to the mucosal barrier, mucociliary clearance, tight junctions [     ], and numerous signal cascades that lead to expression of mucines [     ], antimicrobial peptides [     ] and chemokines [     ]. This in turn leads to the recruitment of phagocytes and inflammatory mediators. Upon infection, airway cells induce signaling components to their apical surface to initiate inflammatory responses [     ]. Disrupted epithelium is much more susceptible to
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection, and damaged airway epithelium has increased amounts of the receptor asialoGM1 on the basolateral side of the epithelial cell to which the pathogen can bind [     ]. Cytotoxic bacteria expressing T3SS attach to the epithelium and inject their cytoskeleton disrupting toxins, which causes the loss of tight junctions and increases the number of cells that expose their basolateral surface [     ]. ExoS, ExoT, ExoU and ExoY are not only involved in the loss of integrity of the epithelial barrier but also endothelial barriers [     ]. The disruption of these epithelia allows the pathogen to disseminate into the bloodstream and pro-inflammatory mediators to leak into the systemic circulation, which eventually leads to septic shock [     ]. Moreover, the inhibition of wound healing by ExoT facilitates invasion and possibly dissemination of the pathogen. Airway epithelial cells, macrophages, neutrophils, and lymphocytes release mediators that enable the host to mount an immune response against the invading bacteria. T3SS enhances the pro-inflammatory response, for example by triggering IL-1β maturation, and this leads to acute lung injury. In the early phase of the inflammatory response, the death or impairment of alveolar neutrophils and macrophages mediated by ExoS, ExoT, ExoU and ExoY leads to impairment of bacterial clearance from the lungs [     ]. When
+     <italic>
+      P. aeruginosa
+     </italic>
+     are not eradicated from the airway, there is a greater opportunity for T3SS to produce and/or inject more effector toxins and proteins into the host cells, which results in injury of the pulmonary tissue and the characteristic symptoms of pneumonia induced by
+     <italic>
+      P. aeruginosa
+     </italic>
+     . Thus, T3SS is involved in a self propagating pathogenic circle in which induction of pro-inflammatory mediators, depletion of phagocytes, and impairment of bacterial clearance are connected with
+     <italic>
+      P. aeruginosa
+     </italic>
+     induced lung injury [     ]. This also explains why T3SS-expressing bacterial strains are associated with high mortality and bad prognosis.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     THERAPEUTIC INTERFERENCE WITH THE T3SS
+    </title>
+    <p>
+     The challenge for the future remains to use the acquired knowledge of the cell biology and the role of the T3SS in host-pathogen interactions to develop better therapeutics for infectious disease. Resistance to antibiotics is a major problem in the treatment of
+     <italic>
+      P. aeruginosa
+     </italic>
+     infections in critically ill patients. As T3SS is unique to the pathogen, it is a convenient target for therapeutic and prophylactic interventions. Unlike conventional antibiotics, targeting a virulence mechanism that is associated almost exclusively with pathogenic bacteria will not perturb the normal body flora. Although T3SS is downregulated in cystic fibrosis patients, in whom
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection contributes to disease severity and mortality, these patients make antibodies against it [     ]. This suggests that preventing
+     <italic>
+      P. aeruginosa
+     </italic>
+     possessing an active T3SS from colonizing tissue might be used as early intervention for patients with cystic fibrosis.
+    </p>
+    <p>
+     Administration of monoclonal antibodies against T3SS structural proteins has been used to counteract the action of various pathogens. In this context, antibodies against the T3SS needle-tip protein PcrV, which controls T3SS effector secretion, have been shown to be effective against laboratory strains of
+     <italic>
+      P. aeruginosa
+     </italic>
+     in animal models of septic shock [     ] and acute and chronic airway infection [     ,     ], and have recently entered Phase I/II clinical trials [     ]. Use of small molecule inhibitors to directly interfere with T3SS has also become feasible recently. For example, small molecule inhibitors of the phospholipase activity of ExoU and the ADPRT activity of ExoS have been identified, and each one was shown to protect against death in models of
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection [     ,     ]. It might also be better to interfere with the formation or activity of the T3SS translocation pore than to target the effectors because T3SS effector independent functions of the T3SS seem to play a key role in bacterial pathogenesis. Recently, five compounds that inhibit the activity of the
+     <italic>
+      P. aeruginosa
+     </italic>
+     T3SS apparatus and the secretion of all its effector proteins were identified in a large scale compound library screen [     ]. The molecular targets of these inhibitors are not known, but their activity against the T3SS in three different bacterial species points to a conserved structural protein target. The potential development of these and other T3SS inhibitor compounds will be an area of exciting development in coming years. Finally, since the presence of the T3SS correlates with the progression and outcome of infection, diagnostic identification of T3SS components in clinical isolates might be useful for deciding on how to manage patients.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     CONCLUSIONS AND FUTURE PERSPECTIVES
+    </title>
+    <p>
+     The last few years have seen remarkable progress in the understanding of the structure and function of the T3SS of
+     <italic>
+      P. aeruginosa
+     </italic>
+     and other pathogenic bacteria. However, much remains to be discovered. For example, we still need a better understanding of the relative contributions of the different bacterial T3SS effectors and the T3SS delivery machine itself, and how they cooperate with one another or with other virulence mechanisms in bacterial pathogenesis. This will require the definition of the physiologically relevant host cell targets, as well as the identification of the physiological role of pore formation. Considering the likely possibility that novel T3SS effector proteins will be identified in the near future by using large scale bioinformatics approaches, the time ahead will be as exciting as the last few years. The ultimate goal is to reveal new general principles of host-pathogen interactions and to provide new targets and strategies for antimicrobial therapies.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

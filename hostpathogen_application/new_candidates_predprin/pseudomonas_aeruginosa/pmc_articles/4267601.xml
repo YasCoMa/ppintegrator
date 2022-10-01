@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  The molecular mechanism of acute lung injury caused by
+ </title>
+ <abstract>
+  <p>
+   The online version of this article (doi:10.1186/2052-0492-2-10) contains supplementary material, which is available to authorized users.
+  </p>
+  <p>
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   is the most common gram-negative pathogen causing pneumonia in immunocompromised patients. Acute lung injury induced by bacterial exoproducts is associated with a poor outcome in
+   <italic>
+    P. aeruginosa
+   </italic>
+   pneumonia. The major pathogenic toxins among the exoproducts of
+   <italic>
+    P. aeruginosa
+   </italic>
+   and the mechanism by which they cause acute lung injury have been investigated: exoenzyme S and co-regulated toxins were found to contribute to acute lung injury.
+   <italic>
+    P. aeruginosa
+   </italic>
+   secretes these toxins through the recently defined type III secretion system (TTSS), by which gram-negative bacteria directly translocate toxins into the cytosol of target eukaryotic cells. TTSS comprises the secretion apparatus (termed the injectisome), translocators, secreted toxins, and regulatory components. In the
+   <italic>
+    P. aeruginosa
+   </italic>
+   genome, a pathogenic gene cluster, the exoenzyme S regulon, encodes genes underlying the regulation, secretion, and translocation of TTSS. Four type III secretory toxins, namely ExoS, ExoT, ExoU, and ExoY, have been identified in
+   <italic>
+    P. aeruginosa.
+   </italic>
+   ExoS is a 49-kDa form of exoenzyme S, a bifunctional toxin that exerts ADP-ribosyltransferase and GTPase-activating protein (GAP) activity to disrupt endocytosis, the actin cytoskeleton, and cell proliferation. ExoT, a 53-kDa form of exoenzyme S with 75% sequence homology to ExoS, also exerts GAP activity to interfere with cell morphology and motility. ExoY is a nucleotidal cyclase that increases the intracellular levels of cyclic adenosine and guanosine monophosphates, resulting in edema formation. ExoU, which exhibits phospholipase A2 activity activated by host cell ubiquitination after translocation, is a major pathogenic cytotoxin that causes alveolar epithelial injury and macrophage necrosis. Approximately 20% of clinical isolates also secrete ExoU, a gene encoded within an insertional pathogenic gene cluster named
+   <italic>
+    P. aeruginosa
+   </italic>
+   pathogenicity island-2. The ExoU secretory phenotype is associated with a poor clinical outcome in
+   <italic>
+    P. aeruginosa
+   </italic>
+   pneumonia. Blockade of translocation by TTSS or inhibition of the enzymatic activity of translocated toxins has the potential to decrease acute lung injury and improve clinical outcome.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="Sec1">
+    <title>
+     Introduction
+    </title>
+    <p>
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     is one of the most common gram-negative pathogens causing pneumonia in immunocompromised patients [     –     ]. Ventilated patients are at particularly high risk of developing
+     <italic>
+      P. aeruginosa
+     </italic>
+     pneumonia [     ,     ], and the mortality rate of ventilator-associated pneumonia (VAP) due to
+     <italic>
+      P. aeruginosa
+     </italic>
+     is significantly higher than that due to other pathogens [     –     ]. Some
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains possess the ability to destroy the integrity of the alveolar epithelial barrier, causing rapid necrosis of the lung epithelium and bacterial dissemination into the circulation [     ,     ]. Understanding the mechanism by which virulent strains of
+     <italic>
+      P. aeruginosa
+     </italic>
+     cause acute lung injury is critical for preventing subsequent sepsis and death. The present review summarizes the progress and explains the mechanisms causing acute lung injury and sepsis, focusing on the type III secretion system (TTSS) of
+     <italic>
+      P. aeruginosa
+     </italic>
+     .
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec2">
+    <title>
+     Review
+    </title>
+    <sec id="Sec3">
+     <title>
+      Acute lung epithelial injury caused by
+      <italic>
+       P. aeruginosa
+      </italic>
+     </title>
+     <sec id="Sec4">
+      <title>
+       Acute lung injury in animal models
+      </title>
+      <p>
+       <italic>
+        P. aeruginosa
+       </italic>
+       secretes various toxic exoproducts (Table       ). Investigation of the toxic exoproducts of
+       <italic>
+        P. aeruginosa
+       </italic>
+       with major roles in acute lung injury began in the late 1980s. In animal models, acute lung epithelial injury was quantified through the measurement of bidirectional protein movement across the lung epithelial barrier [       –       ]. In this model, the airspace instillation of live
+       <italic>
+        P. aeruginosa
+       </italic>
+       resulted in increased movement of the alveolar tracer into the vascular compartment, a twofold increase in the vascular tracer in the airspace, and a significant reduction in liquid clearance by the lung, while instillation of
+       <italic>
+        Escherichia coli
+       </italic>
+       endotoxin did not cause lung epithelial injury. These early animal experiments initiated the search for a major virulence factor responsible for acute lung epithelial injury among the exoproducts of
+       <italic>
+        P. aeruginosa
+       </italic>
+       [       ,       ].
+      </p>
+     </sec>
+     <sec id="Sec5">
+      <title>
+       Discovery of a major cytotoxin: ExoU
+      </title>
+      <p>
+       The
+       <italic>
+        P. aeruginosa
+       </italic>
+       toxin exoenzyme S was identified in the late 1970s as an ADP-ribosyltransferase distinct from exotoxin A [       ,       ]. Early studies revealed that the exoenzyme S-positive phenotype correlated with increased virulence in lung infections and burn wounds [       –       ]. The protein transcriptional regulator ExsA was found to regulate the production of exoenzyme S and co-regulated proteins [       –       ]. PAO-S21, an insertional mutant of transposon Tn501 in the
+       <italic>
+        exsA
+       </italic>
+       gene of
+       <italic>
+        P. aeruginosa
+       </italic>
+       , is exoenzyme S-deficient [       ,       ]. PAO-S21 infection did not result in altered protein flux across the alveolar epithelial barrier [       ]. Based on these findings, exoenzyme S, or an unknown exoenzyme S-related toxin regulated by ExsA, was determined to play a major role in acute lung injury. Exoenzyme S activity was later determined to be the result of two highly homologous toxins, ExoS (a 49-kDa form of exoenzyme S) and ExoT (a 53-kDa form of exoenzyme S), encoded by two separate regions of the
+       <italic>
+        P. aeruginosa
+       </italic>
+       genome [       –       ].
+      </p>
+      <p>
+       The virulent
+       <italic>
+        P. aeruginosa
+       </italic>
+       strain PA103, lacking the 49-kDa form of the exoenzyme S gene (
+       <italic>
+        exoS
+       </italic>
+       ) but possessing the 53-kDa form (
+       <italic>
+        exoT
+       </italic>
+       ), causes a high degree of acute injury [       ]. Because the isogenic mutant lacking the 49-kDa form of exoenzyme S remained capable of causing acute lung injury in a rabbit model, it was initially considered possible that ExoT is the major factor underlying acute lung injury [       ]. However, an isogenic mutant lacking ExoT remained capable of causing alveolar epithelial injury in a mouse model [       ]. Thus, neither ExoT nor ExoS was the major virulence factor. PA103 was found to secrete a unique unknown 74-kDa protein, the production of which decreased with a transposon mutation in
+       <italic>
+        exsA
+       </italic>
+       . The gene encoding this 74-kDa protein was cloned, and a mutant missing this protein was created in PA103. PA103 lacking this 74-kDa protein failed to cause acute lung injury in our mouse model [       ,       ]. This protein, regulated by ExsA, was named ExoU. Clinical isolates with a cytotoxic phenotype
+       <italic>
+        in vitro
+       </italic>
+       were found to express ExoU and cause acute epithelial injury in a mouse model [       ]. Cytotoxic
+       <italic>
+        P. aeruginosa
+       </italic>
+       isolates were identified to possess
+       <italic>
+        exoU
+       </italic>
+       , while noncytotoxic isolates lacked the gene [       ]. High cytotoxicity, severity of lung epithelial injury, and bacterial dissemination into the circulation appeared to show a high correlation with the
+       <italic>
+        exoU
+       </italic>
+       genotype [       ,       ]. Therefore, it was concluded that the ability of
+       <italic>
+        P. aeruginosa
+       </italic>
+       to cause acute lung epithelial injury and sepsis is highly linked to the expression of ExoU, regulated by the transcriptional activator ExsA [       ,       ].
+      </p>
+     </sec>
+    </sec>
+    <sec id="Sec6">
+     <title>
+      Type III secretion system
+     </title>
+     <sec id="Sec7">
+      <title>
+       The secretion systems of gram-negative bacteria
+      </title>
+      <p>
+       Gram-negative bacteria, which have inner and outer bacterial membranes, use dedicated secretion systems to transport proteins synthesized to the outside environment. The secretion systems of gram-negative bacteria can be classified into six subtypes [       ]. The type I secretion system is relatively simple, consisting of only a few proteins. Unlike proteins secreted by the type II secretion system, proteins secreted by the type I secretion system contain no signal sequence at their amino termini; instead, they contain domains at their carboxyl termini necessary for recognition by the type I secretion complex. The type II system conducts so-called
+       <italic>
+        sec
+       </italic>
+       -dependent secretion [       ]. Proteins secreted by the type II system possess amino-terminal signal sequences of 16–26 residues [       ].
+      </p>
+      <p>
+       The type III and IV secretion systems have been more recently defined (Figure       ). Recently, a high degree of association has been reported to exist between the type III and IV secretion systems and the pathogenesis of gram-negative bacteria [       ,       ]. In both the secretion systems, bacteria directly deliver proteins into the cytosol of target eukaryotic cells [       ]. Evolutionarily, TTSS is derived from flagella, while the type IV system is derived from a conjugational system [       ,       ]. TTSS is utilized by most pathogenic gram-negative bacteria, including
+       <italic>
+        Yersinia
+       </italic>
+       ,
+       <italic>
+        Salmonella
+       </italic>
+       ,
+       <italic>
+        Shigella
+       </italic>
+       ,
+       <italic>
+        E. coli
+       </italic>
+       , and
+       <italic>
+        P. aeruginosa
+       </italic>
+       (Table       ) [       ]. TTSS functions as a molecular syringe, directly delivering toxins into the cytosol of cells [       ]. The translocated toxins modulate eukaryotic cell signaling. All TTSSs studied till date share an important feature: the genes encoding this system are upregulated by direct contact between bacteria and host cells, with consequent direct delivery of bacterial virulence products (type III secretory toxins or effector molecules) into the host cell via the secretion and translocation apparatus [       ]. In
+       <italic>
+        P. aeruginosa
+       </italic>
+       , exoenzyme S was initially thought to be secreted via the type II secretion pathway. However, based on the genomic homology to other gram-negative bacteria, this toxin and co-regulated toxins (ExoT, ExoU, and ExoY) were ultimately determined to be translocated as effector proteins into host cells via TTSS [       ].
+      </p>
+     </sec>
+     <sec id="Sec8">
+      <title>
+       Genomic organization of
+       <italic>
+        P. aeruginosa
+       </italic>
+       TTSS
+      </title>
+      <p>
+       TTSS of
+       <italic>
+        P. aeruginosa
+       </italic>
+       is highly homologous to the prototypical
+       <italic>
+        Yersinia
+       </italic>
+       TTSS [       ,       ]. The whole genome of
+       <italic>
+        P. aeruginosa
+       </italic>
+       strain PAO1 was sequenced by the
+       <italic>
+        Pseudomonas
+       </italic>
+       Genome Project and published in 2000 (Figure       ) [       ]. It was found that the 25.6-kb genomic region, named the exoenzyme S regulon, encodes genes underlying the regulation, secretion, and translocation of TTSS [       ]. Expression of these genes is under the regulation of the transcriptional activator protein ExsA, and ExsA itself is encoded by the
+       <italic>
+        exsCBA
+       </italic>
+       operon in the exoenzyme S regulon [       ,       ].
+      </p>
+      <p>
+       In the genome of
+       <italic>
+        P. aeruginosa
+       </italic>
+       PAO1, three type III secretory toxins (excluding ExoU), co-regulated with the exoenzyme S regulon by ExsA, have been identified (Figure       ). These are ExoS (a 49-kDa form of exoenzyme S), ExoT (a 53-kDa form of exoenzyme S, also known as exoenzyme T), and ExoY [       ,       ]. The genes encoding these type III secretory toxins (
+       <italic>
+        exoS
+       </italic>
+       ,
+       <italic>
+        exoT
+       </italic>
+       , and
+       <italic>
+        exoY
+       </italic>
+       ) are distributed in regions of the genome separate from the exoenzyme S regulon [       ,       ]. Later, two distinct
+       <italic>
+        P. aeruginosa
+       </italic>
+       pathogenicity islands, PAPI-1 (108 kb) and PAPI-2 (11 kb), which are absent from the less virulent strain PAO1, were found in the highly virulent clinical strain PA14, and
+       <italic>
+        exoU
+       </italic>
+       was discovered in the PAPI-2 region of this strain [       ,       ]. Approximately 20% of clinical isolates are more virulent; they possess
+       <italic>
+        exoU
+       </italic>
+       , but not
+       <italic>
+        exoS
+       </italic>
+       [       ].
+      </p>
+     </sec>
+    </sec>
+    <sec id="Sec9">
+     <title>
+      The exoenzyme S regulon
+     </title>
+     <sec id="Sec10">
+      <title>
+       Transcriptional activator ExsA
+      </title>
+      <p>
+       ExsA, encoded by the
+       <italic>
+        exsCBA
+       </italic>
+       operon (the trans-regulatory locus for exoenzyme S secretion) in the exoenzyme S regulon, is a transcriptional activator of the
+       <italic>
+        P. aeruginosa
+       </italic>
+       TTSS [       ]. In the exoenzyme S regulon, ExsA regulates the transcription of five operons (
+       <italic>
+        exsD
+       </italic>
+       -
+       <italic>
+        pscL
+       </italic>
+       ,
+       <italic>
+        exsCBA
+       </italic>
+       ,
+       <italic>
+        pscG
+       </italic>
+       -
+       <italic>
+        popD
+       </italic>
+       ,
+       <italic>
+        popN
+       </italic>
+       -
+       <italic>
+        pcrR
+       </italic>
+       , and
+       <italic>
+        pscN
+       </italic>
+       -
+       <italic>
+        pscU
+       </italic>
+       ) encoding TTSS and the translocation machinery (Figure       ) [       ]. Another four or five ExsA-binding sites have been found in the genome for the regulation of effector molecules (type III secretory toxins) and their chaperones [       ].
+      </p>
+     </sec>
+     <sec id="Sec11">
+      <title>
+       Secretion apparatus
+      </title>
+      <p>
+       In TTSS,
+       <italic>
+        secretion
+       </italic>
+       describes the process by which toxins are transferred from the bacterial cytosol to the surrounding medium across the inner and outer bacterial membranes [       ]. This process seems to require
+       <italic>
+        secretion apparatus
+       </italic>
+       involving many protein components (Figure       ). All known TTSSs in animals and pathogenic bacteria share a number of highly conserved core structural components. The TTSS-specific export apparatus is termed the needle complex in
+       <italic>
+        Salmonella
+       </italic>
+       [       ,       ],
+       <italic>
+        Shigella
+       </italic>
+       [       ], and
+       <italic>
+        E. coli
+       </italic>
+       [       ]. This structure spans both the inner and outer membranes of the bacterial envelope and closely resembles the flagella basal body, further supporting the evolutionary relationship between the flagella and TTSS [       ,       ].
+      </p>
+      <p>
+       In
+       <italic>
+        Yersinia
+       </italic>
+       ,
+       <italic>
+        ysc
+       </italic>
+       genes in the Yop virulon largely encode components of TTSS, and
+       <italic>
+        P. aeruginosa
+       </italic>
+       possesses homologous
+       <italic>
+        psc
+       </italic>
+       genes in its exoenzyme regulon [       ,       ]. Ysc proteins from
+       <italic>
+        Yersinia ysc
+       </italic>
+       genes and Psc proteins from
+       <italic>
+        P. aeruginosa psc
+       </italic>
+       genes are considered as components of their respective needle complexes because of their sequence homology to
+       <italic>
+        Salmonella
+       </italic>
+       Spa, Prg, and Inv;
+       <italic>
+        Shigella
+       </italic>
+       Spa and Mxi; and
+       <italic>
+        E. coli
+       </italic>
+       Esc proteins.
+      </p>
+     </sec>
+     <sec id="Sec12">
+      <title>
+       Translocators and V-antigen
+      </title>
+      <p>
+       In TTSS,
+       <italic>
+        translocation
+       </italic>
+       , which describes the process of direct toxin transfer into the eukaryotic cytosol across the eukaryotic plasma membrane, has been thoroughly investigated in
+       <italic>
+        Yersinia
+       </italic>
+       [       ,       –       ]. In
+       <italic>
+        P. aeruginosa
+       </italic>
+       , the
+       <italic>
+        pcrGVHpopBD
+       </italic>
+       operon, under regulation by ExsA, encodes five proteins, namely PcrG, PcrV, PcrH, PopB, and PopD, homologous to
+       <italic>
+        Yersinia
+       </italic>
+       LcrG, LcrV, LcrH, YopB, and YopD, respectively (Table       ) [       ,       ]. Translocation in the
+       <italic>
+        P. aeruginosa
+       </italic>
+       TTSS is mediated by PcrV, PopB, and PopD. In fact, in
+       <italic>
+        P. aeruginosa
+       </italic>
+       , isogenic mutants lacking
+       <italic>
+        pcrV
+       </italic>
+       or
+       <italic>
+        popD
+       </italic>
+       were unable to intoxicate eukaryotic cells [       ,       ]. Historically,
+       <italic>
+        Yersinia
+       </italic>
+       LcrV was designated
+       <italic>
+        Yersinia
+       </italic>
+       V-antigen and thought to protect mice from lethal infections with
+       <italic>
+        yersiniae
+       </italic>
+       strains [       ,       ]. PcrV (
+       <italic>
+        P. aeruginosa
+       </italic>
+       V-antigen) corresponds to the
+       <italic>
+        Yersinia
+       </italic>
+       V-antigen LcrV. Antibodies against LcrV and PcrV are likely to block type III protein translocation by interfering with pore formation by LcrV/YopB/YopD and PcrV/PopB/PopD, respectively [       ,       ].
+      </p>
+     </sec>
+    </sec>
+    <sec id="Sec13">
+     <title>
+      Four type III secretory toxins of
+      <italic>
+       P. aeruginosa
+      </italic>
+     </title>
+     <p>
+      Till date,
+      <italic>
+       P. aeruginosa
+      </italic>
+      is known to secrete at least four effector molecules (type III secretory toxins) via TTSS: ExoS, ExoT, ExoU, and ExoY (Table      , Figure      ). The virulence of each strain differs depending on the genotypes and phenotypes of the type III secretory toxins [      ,      ,      ].
+     </p>
+     <sec id="Sec14">
+      <title>
+       ExoS
+      </title>
+      <p>
+       <italic>
+        P. aeruginosa
+       </italic>
+       exoenzyme S was originally characterized as a toxin distinct from exotoxin A exhibiting ADP-ribosyltransferase activity [       ]. Exoenzyme S ADP-ribosylates vimentins and several Ras-related GTP-binding proteins, including Rab3, Rab4, Ral, Rap1A, and Rap2 [       ,       ]. The enzymatic reaction requires a soluble eukaryotic protein, termed factor-activating exoenzyme S (FAS), to ADP-ribosylate all substrates [       ,       ]. Analysis of several deletion peptides showed that 222 amino acids at the carboxyl terminal of exoenzyme S possessed FAS-dependent ADP-ribosyltransferase activity [       ,       ]. Expression of the ADP-ribosyltransferase domain of exoenzyme S is cytotoxic to eukaryotic cells [       ].
+      </p>
+      <p>
+       The amino-terminal domain of exoenzyme S has been characterized as a GTPase-activating protein (GAP) for Rho GTPases [       ], suggesting that exoenzyme S is a bifunctional type III secreted cytotoxin [       ]. I
+       <italic>
+        n vivo
+       </italic>
+       data indicate that the Rho GAP activity of ExoS stimulates the reorganization of the actin cytoskeleton by inhibiting Rac and Cdc42 and stimulates actin stress fiber formation by inhibiting Rho [       ].
+      </p>
+     </sec>
+     <sec id="Sec15">
+      <title>
+       ExoT
+      </title>
+      <p>
+       Two immunologically undistinguishable proteins, with apparent molecular sizes of 53- and 49-kDa, co-fractionated with exoenzyme S activity [       ]. Later, these two exoenzymes were found to be the products of two different genes [       ]. ExoT was found to encode a protein of 457 amino acids, with 75% amino acid homology to ExoS. However, ExoT possessed approximately 0.2% of its ADP-ribosyltransferase activity [       ]. ExoT diminishes macrophage motility and phagocytosis, at least in part through disruption of the actin cytoskeleton of eukaryotic cells, and blocks wound healing [       ,       ]. Biochemical studies have shown that ExoT is a GAP for RhoA, Rac1, and Cdc42 [       ,       ]. These data show that ExoT interferes with the Rho signal transduction pathways, which regulate actin organization, exocytosis, cell cycle progression, and phagocytosis [       ,       ].
+      </p>
+     </sec>
+     <sec id="Sec16">
+      <title>
+       ExoU
+      </title>
+      <p>
+       In 1997, a novel cytotoxin, ExoU (termed PepA by Hauser et al. [       ]), was found to be a major contributory factor to lung injury, and the gene
+       <italic>
+        exoU
+       </italic>
+       was cloned from the cytotoxic PA103 strain. A region downstream of
+       <italic>
+        exoU
+       </italic>
+       was found to encode a specific
+       <italic>
+        Pseudomonas
+       </italic>
+       chaperone for ExoU (SpcU) [       ]. In
+       <italic>
+        P. aeruginosa
+       </italic>
+       , ExoU and SpcU are coordinately expressed as an operon controlled at the transcriptional level by ExsA [       ]. Acquisition of the expression of
+       <italic>
+        P. aeruginosa
+       </italic>
+       ExoU caused increased bacterial virulence and systemic spread in a mouse model of acute pneumonia [       ]. Hauser et al. determined the type III secretion genotypes and phenotypes of isolates cultured from patients with VAP:
+       <italic>
+        in vitro
+       </italic>
+       assays indicated that ExoU most closely linked to mortality in animal models was secreted in detectable amounts
+       <italic>
+        in vitro
+       </italic>
+       by 10 (29%) of the 35 isolates examined [       ].
+      </p>
+      <p>
+       ExoU has a potato patatin-like phospholipase (PLA) domain (pfam01734 in the Conserved Domain Database of BLAST (National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, MA, USA); Figure       ). Patatin is a member of a multigene family of vacuolar storage glycoproteins with lipid acyl hydrolase and acyltransferase activities; it represents 40% of the total soluble protein in potato tubers [       ]. Sequence alignment of ExoU, potato patatin, and human PLA2 revealed three highly conserved regions in the amino acid sequence of ExoU [       ]. In the alignment, Ser-142 and Asp-344 of ExoU corresponded to the catalytic serine and aspartate of PLA2, respectively [       ]. Subsequently, using
+       <italic>
+        in vitro
+       </italic>
+       models, it was shown that ExoU exhibits Ser-142- and Asp-344-dependent catalytic PLA2 activity, which requires eukaryotic cell factors for its activation [       ,       ]. Then, it was finally concluded that virulent
+       <italic>
+        P. aeruginosa
+       </italic>
+       causes acute lung injury, thereby causing sepsis and mortality, through cytotoxic activity derived from the patatin-like phospholipase domain of ExoU [       ]. The cells targeted by ExoU injection through TTSS comprise not only epithelial cells but also macrophages [       ]. Through TTSS, ExoU is activated after its translocation into the eukaryotic cell cytosol. It has been recently reported that ubiquitin and ubiquitin-modified proteins are associated with ExoU activation [       ,       ].
+      </p>
+     </sec>
+     <sec id="Sec17">
+      <title>
+       ExoY
+      </title>
+      <p>
+       ExoY is the fourth type III secretion effector protein controlled by ExoS regulon. ExoY is homologous to the extracellular adenylate cyclases of
+       <italic>
+        Bortedella pertussis
+       </italic>
+       (CyaA),
+       <italic>
+        Bacillus anthracis
+       </italic>
+       (EF), and
+       <italic>
+        Yersinia pestis
+       </italic>
+       (insecticidal toxin) [       ]. In assays for adenylate cyclase activity, recombinant ExoY (rExoY) catalyzed the formation of cyclic adenosine monophosphate (cAMP). In contrast to CyaA and EF, rExoY activity was not stimulated or activated by calmodulin. Infection of eukaryotic cells with
+       <italic>
+        P. aeruginosa
+       </italic>
+       producing catalytically active ExoY resulted in the elevation of intracellular cAMP levels and changes in cell morphology [       ,       ]. It is more recently reported that ExoY is likely to be a promiscuous nucleotidal cyclase that increases the intracellular levels of cyclic adenosine and guanosine monophosphates, resulting in edema formation [       ].
+      </p>
+     </sec>
+    </sec>
+    <sec id="Sec18">
+     <title>
+      Epidemiology of the
+      <italic>
+       P. aeruginosa
+      </italic>
+      TTSS
+     </title>
+     <p>
+      Analysis of type III secretory protein phenotypes was performed in 108 isolates derived from patients with
+      <italic>
+       P. aeruginosa
+      </italic>
+      infections [      ]. The mortality rate in patients with
+      <italic>
+       P. aeruginosa
+      </italic>
+      isolates expressing at least one of the type III secretory proteins was 21% compared with the rate of 3% in patients with isolates expressing no type III secretory protein. In another study, infection with isolates secreting TTSS proteins, particularly isolates with an ExoU-positive phenotype, correlated with severe disease [      ]. Recently, additional reports have demonstrated an association between the ExoU genotype or phenotype and a poor clinical outcome of
+      <italic>
+       P. aeruginosa
+      </italic>
+      pneumonia.
+      <italic>
+       exoU
+      </italic>
+      -positive isolates were more likely to be fluoroquinolone resistant and exhibit both a
+      <italic>
+       gyrA
+      </italic>
+      mutation and efflux pump overexpression [      ]. Clinical isolates containing the
+      <italic>
+       exoU
+      </italic>
+      gene were more likely to be resistant to cefepime, ceftazidime, piperacillin tazobactam, carbapenems, and gentamicin [      ]. A fluoroquinolone-resistant phenotype in an ExoU-positive strain contributes to the pathogenesis of
+      <italic>
+       P. aeruginosa
+      </italic>
+      in pneumonia [      ]. However, the expression of TTSS exoenzymes in
+      <italic>
+       P. aeruginosa
+      </italic>
+      isolates from bacteremic patients confers a poor clinical outcome, independent of antibiotic susceptibility [      ]. Severity of the illness and expression of type III secretory proteins were the strongest predictors of 30-day mortality from
+      <italic>
+       P. aeruginosa
+      </italic>
+      bacteremia [      ].
+     </p>
+    </sec>
+    <sec id="Sec19">
+     <title>
+      Update the clinical approach against
+      <italic>
+       P. aeruginosa
+      </italic>
+      pneumonia
+     </title>
+     <p>
+      <italic>
+       P. aeruginosa
+      </italic>
+      expresses a variety of factors that confer resistance to a broad array of antibacterial agents. Multidrug-resistant
+      <italic>
+       P. aeruginosa
+      </italic>
+      (MDRP) is defined as the resistance to carbapenems, aminoglycosides, and fluoroquinolones. The current increase in the incidence of lethal outbreaks of MDRP is especially a serious concern. Multiple genetic rearrangements, such as chromosomal mutations or horizontal gene transfers (plasmids, integrons, phages), are associated with the acquisition of multidrug resistance in these bacteria. The various mechanisms, such as β-lactamases, carbapenemases or aminoglycoside-modifying enzymes, and mutations in antibiotic targets, efflux pumps, impermeability, are associated in these multidrug resistances. In the management of
+      <italic>
+       P. aeruginosa
+      </italic>
+      pneumonia, the increasing resistance level of these bacteria to most classes of antibacterial agents frequently leads to failure of effective treatment, which is associated with high mortality of the infected patients. Therefore, choosing adequate antibiotics is crucial to increase the survival rate, especially in patients infected with MDRP. Therefore, surveillance in antibiotic resistance must be important to reduce the risk of inadequate antibacterial therapy. In addition, surveillance in TTSSgenotype- and phenotype-associated acute lung injury and sepsis may help to predict the higher risk of lethal outbreaks.
+     </p>
+     <p>
+      Polymyxin E (colistin) remains the most consistently effective agent against MDPR, while colistin-resistant
+      <italic>
+       P. aeruginosa
+      </italic>
+      has been already reported as a caution of the emergence of pan-resistant strains in the near future [      ]. Different strategies against the different targets must be required before the spread of super-resistant strains. Among various experimental therapeutic approaches, the anti-TTSS therapy is reasonable because acute lung injury due to
+      <italic>
+       P. aeruginosa
+      </italic>
+      is highly depending on its TTSS-associated virulence as described above. PcrV has a critical role in the TTS-associated virulence of
+      <italic>
+       P. aeruginosa
+      </italic>
+      as follows [      ]. In a series of these studies, active and passive immunization against PcrV in animal models of
+      <italic>
+       P. aeruginosa
+      </italic>
+      -induced lung injury greatly increased survival [      ]. Virulent
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains expressing PcrV disabled macrophage phagocytosis. However, antibodies against PcrV blocked this critical antiphagocytic effect [      ]. Passive protection with anti-PcrV reduced the inflammatory response, minimized bacteremia, and prevented septic shock in mice and rabbits [      ]. The protective capacity of the antibody was Fc-independent as F(ab′)
+      <sub>
+       2
+      </sub>
+      fragments of polyclonal anti-PcrV were also effective [      ]. A murine monoclonal anti-PcrV antibody mAb166 was developed, and its protective effects on acute lung injury were demonstrated when co-instilled with the bacterial challenge or passively transferred to infected animals [      ]. The administration of either mAb166 or Fab of mAb166 showed comparable therapeutic effects to rabbit polyclonal anti-PcrV IgG [      ]. Based on mAb166, humanized anti-PcrV antibody that was developed by molecular engineering has recently entered phase I/II clinical trials in the USA and Europe for prophylactic and therapeutic uses against
+      <italic>
+       P. aeruginosa
+      </italic>
+      pneumonia in artificially ventilated patients and cystic fibrosis patients [      –      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec20">
+    <title>
+     Conclusions
+    </title>
+    <sec id="Sec21">
+     <title>
+      Summary and future implications
+     </title>
+     <p>
+      <italic>
+       P. aeruginosa
+      </italic>
+      possesses a sophisticated toxin secretion system to directly inject toxins into the cytosol of target eukaryotic cells. This system, called TTSS, is regulated by the exoenzyme S regulon of
+      <italic>
+       P. aeruginosa
+      </italic>
+      . Through TTSS,
+      <italic>
+       P. aeruginosa
+      </italic>
+      translocates the type III secretory toxins ExoS, ExoT, ExoU, and ExoY. By injecting these toxins into the cytosol of eukaryotic cells,
+      <italic>
+       P. aeruginosa
+      </italic>
+      exploits mammalian enzyme functions to modulate eukaryotic cell signaling.
+     </p>
+     <p>
+      Of these four toxins, ExoU is the major virulence factor responsible for alveolar epithelial injury in
+      <italic>
+       P. aeruginosa
+      </italic>
+      pneumonia. Virulent strains of
+      <italic>
+       P. aeruginosa
+      </italic>
+      possess the
+      <italic>
+       exoU
+      </italic>
+      gene, whereas nonvirulent strains lack the same. The major pathogenesis of
+      <italic>
+       P. aeruginosa
+      </italic>
+      -induced acute epithelial lung injury and subsequent bacteremia and sepsis is highly dependent on the ExoU phenotype of the strain, while the type III secretory toxins ExoS, ExoT, and ExoY modulate host immunity and cause lung edema (Figure      ). Progress in the field of translational research is now anticipated to prevent the acute lung injury and improve the poor clinical outcome of
+      <italic>
+       P. aeruginosa
+      </italic>
+      pneumonia. What we have learned from our attempts to elucidate the molecular mechanisms underlying acute lung injury over the last 30 years is how well pathogenic bacteria utilize our cell signaling to cause diseases: bacteria know our cell signaling better than we do.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec22">
+    <title>
+     Authors’ information
+    </title>
+    <p>
+     TS is a professor in Anesthesiology at Kyoto Prefectural University of Medicine, Japan.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

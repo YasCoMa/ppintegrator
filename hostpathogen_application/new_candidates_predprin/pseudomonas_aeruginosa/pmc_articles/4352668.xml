@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  SepD/SepL-Dependent Secretion Signals of the Type III Secretion System Translocator Proteins in Enteropathogenic
+ </title>
+ <abstract>
+  <p>
+   The type III protein secretion system (T3SS) encoded by the locus of enterocyte effacement (LEE) is essential for the pathogenesis of attaching/effacing bacterial pathogens, including enteropathogenic
+   <named-content content-type="genus-species">
+    Escherichia coli
+   </named-content>
+   (EPEC), enterohemorrhagic
+   <named-content content-type="genus-species">
+    E. coli
+   </named-content>
+   (EHEC), and
+   <named-content content-type="genus-species">
+    Citrobacter rodentium
+   </named-content>
+   . These pathogens use the T3SS to sequentially secrete three categories of proteins: the T3SS needle and inner rod protein components; the EspA, EspB, and EspD translocators; and many LEE- and non-LEE-encoded effectors. SepD and SepL are essential for translocator secretion, and mutations in either lead to hypersecretion of effectors. However, how SepD and SepL control translocator secretion and secretion hierarchy between translocators and effectors is poorly understood. In this report, we show that the secreted T3SS components, the translocators, and both LEE- and non-LEE-encoded effectors all carry N-terminal type III secretion and translocation signals. These signals all behave like those of the effectors and are sufficient for mediating type III secretion and translocation by wild-type EPEC and hypersecretion by the
+   <italic>
+    sepD
+   </italic>
+   and
+   <italic>
+    sepL
+   </italic>
+   mutants. Our results extended previous observations and suggest that the secretion hierarchy of the different substrates is determined by a signal other than the N-terminal secretion signal. We identified a domain located immediately downstream of the N-terminal secretion signal in the translocator EspB that is required for SepD/SepL-dependent secretion. We further demonstrated that this EspB domain confers SepD/SepL- and CesAB-dependent secretion on the secretion signal of effector EspZ. Our results thus suggest that SepD and SepL control and regulate secretion hierarchy between translocators and effectors by recognizing translocator-specific export signals.
+  </p>
+  <p>
+   <bold>
+    IMPORTANCE
+   </bold>
+   Many bacterial pathogens use a syringe-like protein secretion apparatus, termed the type III protein secretion system (T3SS), to secrete and inject numerous proteins directly into the host cells to cause disease. The secreted proteins perform different functions at various stages during infection and are classified into three substrate categories (T3SS components, translocators, and effectors). They all contain secretion signals at their N termini, but how their secretion hierarchy is determined is poorly understood. Here, we show that the N-terminal secretion signals from different substrate categories all behave the same and do not confer substrate specificity. We further characterize the secretion signals of the translocators and identify a translocator-specific signal, demonstrating that substrate-specific secretion signals are required in regulating T3SS substrate hierarchy.
+  </p>
+ </abstract>
+ <sentences/>
+</article>

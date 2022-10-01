@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Exolysin Shapes the Virulence of
+ </title>
+ <abstract>
+  <p>
+   Bacterial toxins are important weapons of toxicogenic pathogens. Depending on their origin, structure and targets, they show diverse mechanisms of action and effects on eukaryotic cells. Exolysin is a secreted 170 kDa pore-forming toxin employed by clonal outliers of
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   providing to some strains a hyper-virulent behaviour. This group of strains lacks the major virulence factor used by classical strains, the Type III secretion system. Here, we review the structural features of the toxin, the mechanism of its secretion and the effects of the pore formation on eukaryotic cells.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="sec1-toxins-09-00364">
+    <title>
+     1. Introduction
+    </title>
+    <p>
+     Protein toxins are main weapons of bacterial pathogens. Most Gram-negative pathogens, including the major human opportunist
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     , secrete toxins in their surrounding milieu or inject toxic effectors directly into host-cell cytoplasm.
+    </p>
+    <p>
+     <italic>
+      P. aeruginosa
+     </italic>
+     is a ubiquitous bacillus that thrives in most moisture environments and colonizes different hosts from plants to insects, and to mammals [
+     ,
+     ,
+     ].
+     <italic>
+      P. aeruginosa
+     </italic>
+     is particularly well adapted to human hosts and is capable of provoking infections of different tissues and organs, such as urinary tract, lungs, eyes and damaged skin. It is often associated with nosocomial infections in Intensive Care Units and affects elderly patients with underlying chronic diseases, as well as patients with cystic fibrosis where it is the primary cause of morbidity and mortality [
+     ]. Whole-genome analysis approaches have clustered environmental and clinical isolates of
+     <italic>
+      P. aeruginosa
+     </italic>
+     into three major groups [
+     ,
+     ], represented by reference strains PAO1, PA14 and PA7 [
+     ,
+     ,
+     ,
+     ]. While the majority of world-wide collected samples populates the two first groups (“PAO1” and “PA14”), the third group (“PA7”) harbours strains qualified as clonal outliers based on their sequence and genome divergence [
+     ,
+     ,
+     ,
+     ,
+     ].
+    </p>
+    <p>
+     The main difference between clonal outliers and the rest of the population is the way those bacteria exert their cytotoxicity and virulence toward mammalian hosts. The “classical” strains belonging to “PAO1” and “PA14” groups possess the well-studied virulence determinant Type III Secretion System (T3SS). T3SS is a molecular syringe that allows the export of bacterial proteins and their injection directly into the host cell across three membranes [
+     ,
+     ]. The T3SS machinery is encoded by a four-operon chromosomal locus of ~25 kb containing genes for structural and regulatory proteins (reviewed in [
+     ]). Four toxin-effectors are transported by the T3SS machinery, two of them, ExoS and ExoU, being mutually exclusive in a majority of clinical strains [
+     ,
+     ]. In contrast, clonal outliers of the “PA7” group are devoid of a T3SS machinery and all T3SS toxins [
+     ,
+     ]. Instead, they employ a secreted toxin of 170 kDa, named Exolysin (ExlA), to establish infection [
+     ]. Exolysin has been first detected by non-targeted proteomics in the secreted medium of a highly cytotoxic strain CLJ1, isolated from a patient with chronic obstructive pulmonary disease (COPD) accompanied by signs of haemorrhage in lungs [
+     ]. The recombinant expression of
+     <italic>
+      exlBA
+     </italic>
+     was found to be sufficient to cause fatal outcome in a mouse model of acute pneumonia and both genes are necessary for cytotoxicity toward eukaryotic cells. The
+     <italic>
+      exlBA
+     </italic>
+     locus encoding the toxin is absent in classical strains of
+     <italic>
+      P. aeruginosa
+     </italic>
+     , and is located between genes corresponding to PA0874 and PA0873 in the reference strain PAO1. This genetic organization is conserved in all clonal outliers sequenced to date. Bioinformatics analysis performed on all genomes available in the
+     <italic>
+      Pseudomonas
+     </italic>
+     database [
+     ] revealed the presence of
+     <italic>
+      exlBA
+     </italic>
+     genes in several
+     <italic>
+      Pseudomonas
+     </italic>
+     species, including
+     <italic>
+      P. putida
+     </italic>
+     ,
+     <italic>
+      P. entomophila
+     </italic>
+     ,
+     <italic>
+      P. protegens
+     </italic>
+     and
+     <italic>
+      P. fluorescens
+     </italic>
+     [
+     ]. Here we bring insights regarding the structural and functional features of this novel toxin acquired by some multi-resistant
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec2-toxins-09-00364">
+    <title>
+     2. Exolysin Belongs to a Family of Two-Partner-Secretion Pore-Forming Toxins
+    </title>
+    <p>
+     The
+     <italic>
+      exlA
+     </italic>
+     gene encodes a 1651 residue-long polypeptide that bears successive sequence signatures typical of (i) a signal peptide recognized by the general Sec machinery, (ii) a so-called Two-Partner Secretion (TPS) domain and (iii) several filamentous hemagglutinin (FH) repeats (
+     A). The absence of any known sequence signature beyond residue 1364 defines a ~280 residue-long C-terminal domain that was proved necessary for ExlA activity toward eukaryotic cells (see below) [
+     ,
+     ]. Upstream from
+     <italic>
+      exlA
+     </italic>
+     is
+     <italic>
+      exlB
+     </italic>
+     that encodes a 60 kDa outer membrane (OM) protein channel of the Omp85 superfamily [
+     ]. Proteins of this superfamily possess a C-terminal 16-stranded membrane-embedded β-barrel downstream a variable number of POlypeptide TRansport Associated (POTRA) domains, of which ExlB has two. Together,
+     <italic>
+      P. aeruginosa
+     </italic>
+     ExlB and ExlA make a secretion system that belongs to a system that was named TPS systems, such as to account for the minimal set of proteins specifically involved in secretion, i.e., the effector and its cognate transporter [
+     ]. This dominant picture shall not occlude instances where additional dedicated partners may modify, neutralize or proteolyse the substrate [
+     ], although none of this seems to apply to ExlA which was detected as a single ~170 kDa band after SDS-PAGE analysis of bacterial culture supernatants. Some founding members of that group are well characterized homologs of ExlBA, like
+     <italic>
+      S. marcescens
+     </italic>
+     ShlBA and
+     <italic>
+      B. pertussis
+     </italic>
+     FhaCB. With analogy to these well-studied TPS systems [
+     ], ExlA secretion is predicted to occur in two steps: (i) the 34 residue-long, cleavable signal peptide at the N-terminus of ExlA targets the precursor to the general secretion pathway, which delivers ExlA to the periplasm after signal peptide processing and (ii) mature ExlA gets translocated across the outer membrane through ExlB (
+     B). Targeting of ExlA to ExlB across the periplasm probably requires the TPS domain of ExlA to interact with ExlB POTRA domains 1 and 2, making them indispensable for ExlA secretion [
+     ].
+    </p>
+    <p>
+     While ExlA was originally detected in the bacterial culture supernatant, it is not clear whether the secreted form is the active one, i.e., its poor solubility could severely restrain diffusion of the toxin in the milieu, perhaps tethering it to the envelope. Indeed, the fact that ExlA-mediated virulence requires close contact between bacteria and target cell also suggests that the diffusion of secreted ExlA is confined around
+     <italic>
+      P. aeruginosa
+     </italic>
+     . This is in agreement with the limited diffusion reported for
+     <italic>
+      S. marcescens
+     </italic>
+     ShlA [
+     ], with whom ExlA shares 34% overall identity.
+    </p>
+    <p>
+     ExlA belongs to a family of cytolysins/hemolysins, whose activity has been best characterized for ShlA. ShlA is responsible for the cell-bound hemolytic phenotype of
+     <italic>
+      S. marcescens
+     </italic>
+     [
+     ]. ShlB and ShlA have been a major model in the early characterization of TPS. With bacterial cells and urea-extracts to palliate the minute-long half-life of the native toxin (hence “cell-bound”), in vitro hemolysis experiments allowed to establish that ShlA was secreted in two steps, the periplasmic form ShlA* being inactive, and hemolytic activity being acquired by ShlA concomitantly with outer-membrane translocation [
+     ]. Strikingly, periplasmic ShlA obtained from
+     <italic>
+      shlB
+     </italic>
+     mutants of
+     <italic>
+      S. marcescens
+     </italic>
+     could be activated by either ShlB or secreted ShlA truncation constructs comprising the TPS domain [
+     ]. A similar mechanism of activation has been documented for HpmA [
+     ] and likely operates for ExlA. Active ShlA inserts in erythrocyte membranes where it adopts a new conformation [
+     ] and makes 1-to-3 nm wide pores [
+     ,
+     ], similarly to what was found for ExlA (
+     A).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec3-toxins-09-00364">
+    <title>
+     3. Affinity of Exolysin to Membranes
+    </title>
+    <p>
+     Pore forming toxins (PFT) classically dock to a receptor as they reach a target membrane, be it a protein, a sugar moiety or a lipid head group. After binding, the PFTs oligomerize then form a pore into the plasma membrane [
+     ]. The measure of haemoglobin release from red blood cells in presence of osmoprotectants of different sizes allowed to suggest that once inserted, ExlA assembles into ~1.6 nm-wide pores [
+     ]. The requirement for lipids in ExlA-mediated pore formation was investigated in vitro using liposomes. It was found that ExlA requires phosphatidylserine (PS) to provoke liposome leakage, probably involving electrostatic and hydrophobic interactions with this anionic phospholipid [
+     ]. Likewise, a dependence on lipid head group ionic charge was shown for the membrane insertion of T3SS translocon proteins PopB and PopD [
+     ]. In the case of ShlA, liposome leakage was observed in presence of PS and enhanced in presence of phosphatidylethanolamine (PE) [
+     ].
+    </p>
+    <p>
+     Neither ExlA harvested from
+     <italic>
+      P. aeruginosa
+     </italic>
+     supernatant nor purified non-native ExlA showed lytic activity on eukaryotic cells. Moreover, only bacteria in contact with eukaryotic cells were able to exert ExlA-dependent cytolysis. Using a cellular based screen for bacterial factors that may promote ExlA pore-forming activity, type IV pili were identified to facilitate ExlA-mediated cytotoxicity. Therefore, pili may support ExlBA function by bringing the bacteria close to the host cell membrane. This proximity would enhance a local concentration of ExlA near the membrane and trigger pore formation [
+     ] (
+     A) highlighting the originality of this TPS pore-forming toxin. The question whether or not ExlA/ShlA family of pore forming toxins use a specific cellular receptor for docking to the host membranes, and if yes, the identity of this receptor, remains open.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec4-toxins-09-00364">
+    <title>
+     4. Virulence of
+     <italic>
+      P. aeruginosa
+     </italic>
+     Strains Secreting Exolysin
+    </title>
+    <p>
+     The current cohort of ExlA-positive strains (ExlA+) includes isolates from various pathological conditions (ear and urinary tract infections, burns, abscesses, bacteremia, cystic fibrosis, pneumonia, COPD) or from the environment (plant and pond water) [
+     ]. Laboratory assays for some general virulence features showed that only a small number of these strains exert LasB-type proteolytic activity or production of HCN, two virulence factors produced by most classical strains (“PAO1” and “PA14”). Similar to other
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains, ExlA+ strains display a great diversity in their capacity to swim, swarm or twitch. All eukaryotic cell types tested (epithelial, endothelial, fibroblastic, myeloid) were found permissive to ExlA-cytotoxicity, suggesting that ExlA+ bacteria may affect various organs and tissues in vivo. The role of ExlA in the virulence of PA7-like strains was provided by two experiments: (i) strain toxicity levels on cells were correlated with the amount of secreted ExlA, and (ii)
+     <italic>
+      exlA
+     </italic>
+     mutation abrogated cytoxicity. Moreover, survival curves in mice showed gradient in in vivo toxicity, which was not directly predictable from in vitro cytotoxicity assays on cell lines, suggesting that the interaction with the immune components is variable between strains and plays a pivotal role in global pathogenesis [
+     ]. In a pulmonary infection model in mice, the most virulent strain, CLJ1, induces a mortality significantly higher than that of the PAO1 strain expressing the T3SS and ExoS, ExoT and ExoY effectors [
+     ]. The histological examination of CLJ1-infected lungs indicated the presence of erythrocytes in the alveoli space, in addition to infiltration of neutrophils, thus reproducing the hemorrhagic symptoms of the patient. Transmission electron microscopy showed that CLJ1 provoked striking lesions in the alveolar wall. In particular, the tissues were disorganized and some pneumocytes and endothelial cells were necrotic with their cytoplasmic contents spilled in alveoli and capillaries [
+     ]. These types of lesions were not observed in lungs infected with the T3SS-positive strain PAO1. ExlA clearly endows the bacteria with the ability to proliferate in lungs and to disseminate from lungs to other organs: liver, spleen, kidney and brain. Therefore, the rupture of the alveolo-capillary barrier induced by ExlA opens the passage to the blood compartment allowing bacterial dissemination. However, when the blood was directly infected in a mouse bacteremia model, all
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains were promptly eliminated, independently of the secretion of ExlA or T3SS-toxins, and even more rapidly for the ExlA+ strain CLJ1. These results show that the bacterial survival in blood and their ability to resist to the immune system depends mostly on bacterial genetic background rather than on the particular secreted toxin(s) [
+     ].
+    </p>
+    <p>
+     The ShlA toxin from
+     <italic>
+      S. marcescens
+     </italic>
+     induces similar damage on lungs, i.e., hemorrhagic pneumonia, recruitment of neutrophils and rapid lung dysfunction followed by mouse death [
+     ]. Some other PFTs induce dramatic damage on lungs, either by direct tissue damage or by inflammatory side effects; the two mechanisms being often dependent on each other. For example,
+     <italic>
+      Streptococcus pneumoniae
+     </italic>
+     , PLY toxin causes the destruction of lung tissue, mediated by the induction of apoptosis and the massive recruitment of neutrophils at the site of infection. The purified protein induces the permeability of pulmonary alveoli in mice, as well as severe pulmonary hypertension and dysfunction of the pulmonary barrier [
+     ]. The leucocidin PVL of
+     <italic>
+      S. aureus
+     </italic>
+     indirectly induces deleterious effects on the lungs by increasing secretion of pro-inflammatory chemokines IL-8 and MCP-1 (monocyte chemotactic protein 1) by immune cells, which induces massive infiltration of monocytes at the site of infection. This infiltration is responsible for necrosis of lung tissue, alveolar hemorrhage, leading to rupture of the pulmonary barrier [
+     ]. Thus, similar to ExlA, these PFTs, once delivered in the lung produce comparable deleterious effects, although using different mechanisms.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec5-toxins-09-00364">
+    <title>
+     5. Caspase-1 Dependent Death of Macrophages
+    </title>
+    <p>
+     Pore formation by some PFTs induces additional effects on eukaryotic cells such as the activation of the inflammasome, ultimately leading to cell death [
+     ]. ExlA-secreting bacteria induce inflammasome activation of primary macrophages by a two-step mechanism. The first, so called “priming” signal is mediated by the recognition of the LPS and the flagellum by TLR4 and TLR5, respectively, leading to transcription of genes encoding pro-inflammatory cytokines such as pro-Interleukin-1β (IL-1β). The second signal is initiated by the ExlA pore itself which leads to massive efflux of ions, among them potassium (K
+     ). The decrease in K
+     concentration triggers NLRP3-inflamasomme activation, which in turn activates caspase-1. Active caspase-1 induces the maturation of the pro-IL-1β into IL-1β. Caspase-1 also provokes the rupture of macrophage plasma membrane by a process called pyroptosis, releasing massive quantities of pro-inflammatory IL-1β in the surrounding environment [
+     ] (
+     B). Therefore, similarly to T3SS-positive strains, ExlA-secreting bacteria are capable of triggering inflammasome activation and pro-inflammatory cell death of macrophages in vitro. How those effects contribute to overall pathogenicity of ExlA strains in vivo stays to be examined.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec6-toxins-09-00364">
+    <title>
+     6. Exolysin Targets Host Cell Junctions
+    </title>
+    <p>
+     ExlA induces the degradation of E- and VE-cadherins, two adhesive proteins required for tissue integrity [
+     ]. The cleavage is triggered by the ExlA pores formed in the plasma membrane and occurs earlier than plasma membrane breach. Following pore formation, a massive, rapid entry of calcium ions into the cytosol results in the maturation and activation of ADAM10, a eukaryotic protease inducing cadherin shedding (
+     C). In normal conditions, the ADAM10 precursor is maintained inactive within a complex with calmodulin, a protein having a high affinity for calcium. When intracellular calcium increases, calmodulin binds to calcium and dissociates from ADAM10, which in turn is proteolytically activated by furin, a proprotein convertase [
+     ,
+     ,
+     ,
+     ]. ADAM10 is then exported to the membrane, where it can exert its proteolytic activity against E- and VE-cadherins. Hence, bacterial strains secreting ExlA divert an endogenous cellular mechanism to compromise tissue integrity [
+     ]. The disruption of adherens junctions by pore-forming toxins via ADAM10 activation was previously described for Hla from
+     <italic>
+      S. aureus
+     </italic>
+     , PLY from
+     <italic>
+      Streptococcus pneumoniae
+     </italic>
+     [
+     ] and ShlA from
+     <italic>
+      S. marcescens
+     </italic>
+     [
+     ]. While ADAM10 is the cellular receptor of Hla, two other toxins (PLY and ShlA) activate ADAM10 through pore-formation and calcium influx without using ADAM10 as the receptor [
+     ,
+     ], similar to ExlA. The dissociation of the junctions and the rupture of the plasma membrane induced by ExlA give an explanation for the striking effects observed in mouse alveoli during infection. This explains the facility of the bacteria to transmigrate across the lung mucosa and to colonize other organs.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec7-toxins-09-00364">
+    <title>
+     7. Structural Features of Exolysin
+    </title>
+    <p>
+     Nothing is known about the molecular basis of the pore-forming activity of ShlA/ExlA toxins. In the case of ShlA, it has been reported that the hemolytic activity was virtually lost upon C-terminal truncation [
+     ]. The C-terminal location of the activity is common in TPS substrates [
+     ] and consistently, ExlA-mediated-hemolysis and cytotoxicity have been impaired when the last 295 residues of the protein were deleted [
+     ]. PFTs belong to six classes clustered in two groups, α-helical and β-stranded, based on the secondary structure of the peptide lining the pore [
+     ], with each family displaying characteristic stoichiometry and pore size. Due to the lack of homology to any other toxin and considering the lack of experimental data on pore formation or pore-forming (C-terminal) domain structure in the ShlA/ExlA family, how ExlA pores assemble in the host membranes is still unknown.
+    </p>
+    <p>
+     The C-terminal domain set aside, the structure of ShlA/ExlA proteins can be pictured by homology. TPS domains are very well conserved in sequence and in structure; sequence alignments allow to discriminate between at least two groups of TPS domains, depending on whether their closest homolog is
+     <italic>
+      B. pertussis
+     </italic>
+     FhaB, which is the case of ExlA, or
+     <italic>
+      H. influenzae
+     </italic>
+     HMW1A [
+     ]. Several TPS domains have been crystallised to high resolution, including that of
+     <italic>
+      P. mirabilis
+     </italic>
+     HpmA which shares 44% identity with ExlA’s [
+     ]. All TPS domains are built on a right-handed β-helix, i.e., a helical arrangement of β-strands where each rung of the helix is made of three β-strands and each strand contributes to one of the three parallel β-sheets that together make the helix (
+     A). Based on the structure of a complete TPS substrate [
+     ], it is possible to envision how the helix primed in the TPS domain extends into the filamentous repeats-rich domain of ExlA to yield a fiber-like structure of 1000–1200 residues called the shaft domain (
+     B). A remarkable feature of ExlA is to display five or six Arg-Gly-Asp (RGD) motifs depending on the strain; these motifs are usually involved in cell-to-cell interactions through integrin binding [
+     ]. All but one of the RGD motifs belong to the shaft domain (
+     A) and none displays a clear conservation pattern beyond
+     <italic>
+      P. aeruginosa
+     </italic>
+     . When all five RGD motifs were mutated to RGA in ExlA, the cytotoxicity of ExlA was preserved, implying that ExlA uses other ways to interact with eukaryotic cells [
+     ]. Similarly, the filamentous hemagglutinin FhaB harbours an RGD motif whose mutation had no phenotype in vivo [
+     ,
+     ]. Thus, until now no clear function is specifically associated to the shaft domain. When pore formation was tested in vitro, full-length ExlA induced liposome leakage and C-terminal truncation was found to inactivate ExlA thus suggesting that the shaft domain is inactive [
+     ]. Accordingly, the isolated C-terminal domain was also active but to a lower extent than the full-length ExlA. Therefore, the shaft may contribute indirectly to the function of the C-terminal domain, e.g., by supporting target cell binding, ExlA oligomerization and/or conformational changes of the C-terminus [
+     ]. Altogether, the secretion of mature ExlA by
+     <italic>
+      P. aeruginosa
+     </italic>
+     would release the ~30 kDa cytotoxicity domain at the tip of a-more-than-230 Å-long fiber (
+     B).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec8-toxins-09-00364">
+    <title>
+     8. Conclusions and Future Directions
+    </title>
+    <p>
+     ExlA is a toxin secreted by a growing family of
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains, provoking devastating injuries in infected lungs. As such, ExlA-related histological lesions are highly different from those produced by classical
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains, and patients infected with
+     <italic>
+      exlA
+     </italic>
+     + strains should probably be treated differently than those infected with classical
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains. Hospitals are not prepared to identify these types of strains. Relevant tests should be developed to specifically identify strains secreting Exolysin in patients, which would also help to estimate the incidence of these strains in hospital-acquired infections.
+    </p>
+    <p>
+     ExlA is a member of a distinct family of PFTs for which little structural information is available. One of the main hindrance to study its 3-dimensional structure and the formation of the pore within membranes is the instability of the toxin in solution, complicating its manipulation. The related toxin ShlA was previously purified [
+     ], which brings hope for a possible purification of active ExlA in the future.
+    </p>
+    <p>
+     The expression of ExlA is variable in different strains, with some strains harboring the genes without any detectable protein secretion. These observations suggest that
+     <italic>
+      exlBA
+     </italic>
+     expression and/or ExlBA secretion are regulated by yet unknown mechanisms. As most virulence factors of
+     <italic>
+      P. aeruginosa
+     </italic>
+     ,
+     <italic>
+      exlBA
+     </italic>
+     expression may be susceptible to complex regulatory circuits.
+    </p>
+    <p>
+     Two main cellular effects have been reported for ExlA: cadherin degradation via ADAM10 activation and induction of cell death in various cell types. The mechanisms of ExlA-dependent cell death in macrophages were clarified, yet they are unknown and likely different in other cell types, including epithelial and endothelial cells. It will also be of particular importance to understand why membrane repair mechanisms, induced by several other PFTs [
+     ,
+     ,
+     ,
+     ], are ineffective for ExlA.
+    </p>
+    <p>
+     Finally, the identity and the nature of the cellular receptor for ExlA are unknown. The receptor is probably quite ubiquitous as many cell types are susceptible to ExlA toxicity. Large screening approaches or biochemical copurification studies should be undertaken to identify the host receptor(s) of ExlA.
+    </p>
+    <p>
+     The history of the ExlA toxin started in 2014 [
+     ] and is still at its very beginning. The next few years should bring more information about the properties of the protein and more details on its mode of action, information that is needed to eventually prevent its action.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

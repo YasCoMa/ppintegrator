@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Experimentally Achievable Accuracy Using a Digital Image Correlation Technique in measuring Small-Magnitude (0.1%) Homogeneous Strain Fields
+ </title>
+ <abstract>
+  <p>
+   Measuring small-magnitude strain fields using a digital image correlation (DIC) technique is challenging, due to the noise-signal ratio in strain maps. Here, we determined the level of accuracy achievable in measuring small-magnitude (0.1%) homogeneous strain fields. We investigated different sets of parameters for image processing and imaging pre-selection, based on single-image noise level. The trueness of DIC was assessed by comparison of Young’s modulus (E) and Poisson’s ratio (ν) with values obtained from strain gauge measurements. Repeatability was improved, on average, by 20–25% with experimentally-determined optimal parameters and image pre-selection. Despite this, the intra- and inter-specimen repeatability of strain gauge measurements was 5 and 2.5 times better than DIC, respectively. Moreover, although trueness was also improved, on average, by 30–45%, DIC consistently overestimated the two material parameters by 1.8% and 3.2% for E and ν, respectively. DIC is a suitable option to measure small-magnitude homogeneous strain fields, bearing in mind the limitations in achievable accuracy.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="sec1-materials-11-00751">
+    <title>
+     1. Introduction
+    </title>
+    <p>
+     Calcium phosphate cements (CPCs) are bone substitute materials used for tissue defects filling [
+     ]. Although they should mimic the mechanical behavior of bone tissue, their mechanical properties are still far from optimal. In fact, CPCs are brittle [
+     ,
+     ,
+     ], and the limited data available in the literature suggests that this material can only withstand small strain levels (range 0.1–0.2%) before failure [
+     ,
+     ]. Therefore, new CPC formulations are still under development [
+     ].
+    </p>
+    <p>
+     CPC testing is performed on small specimens (typically up to 20 mm in their largest dimension) [
+     ,
+     ,
+     ]. Accurately measuring strain values the material undergoes to during testing is useful to compare different formulations of CPCs regarding elastic response and toughness enhancement. However, due to CPC characteristics, this is a challenge. In fact, contact-type extensometers cannot be used, because the knife edges would damage the specimen surface. Conversely, strain gauge installation may affect CPC response because of the unavoidable penetration of cyanoacrylate adhesive into the pores, which are always present in the cement matrix [
+     ,
+     ,
+     ]. Therefore, the alternatives are non-contact techniques, i.e., optical methods based on interferometric techniques, or digital image correlation (DIC).
+    </p>
+    <p>
+     Interferometric techniques may be highly accurate, but are not practical for large sample size studies. They also may be too sensitive to environmental conditions, or could be limited to measurements on quasi-static loading scenarios [
+     ,
+     ,
+     ,
+     ,
+     ,
+     ]. Conversely, the DIC technique can be easily implemented, as demonstrated by its wide range of applications [
+     ,
+     ,
+     ,
+     ,
+     ]. Video extensometry, initially based on feature-based image registration techniques that is evolving into a real-time DIC [
+     ], can measure high strain level with small errors. However, strain errors increases if the specimen’s dimensions decrease [
+     ]. Moving on to DIC, experimental studies have defined effective procedures to calibrate DIC systems and/or to process the acquired images [
+     ,
+     ,
+     ,
+     ], thereby improving measurement accuracy. Unfortunately, although DIC has been demonstrated to be accurate in measuring medium-large strain levels [
+     ,
+     ,
+     ,
+     ,
+     ,
+     ,
+     ], non negligible errors have been found when measuring small (0.1% or 1000 microstrain) strain values [
+     ,
+     ,
+     ,
+     ], i.e., of the same order of magnitude of strain that CPCs can withstand before fracture. To the authors’ knowledge, there is only one report showing that the DIC technique has the potential to provide an accuracy level comparable to the strain gauge in measuring small strain values [
+     ]. However, that study was carried out analyzing artificial images, i.e., in absence of experimental errors. Conversely, studies based on experimentally-acquired images suggest that the measurement of small strain values may be affected by errors with an order of magnitude of up to 10% [
+     ,
+     ,
+     ,
+     ,
+     ,
+     ].
+    </p>
+    <p>
+     The present study investigated the suitability of DIC for measuring small-magnitude, homogeneous strain field, by experimentally determining the accuracy achievable using DIC to measure Young’s modulus (E) and the Poisson’s ratio (ν) of a specimen subjected to strain levels smaller than 0.1%.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec2-materials-11-00751">
+    <title>
+     2. Materials and Methods
+    </title>
+    <p>
+     The strain gauge (SG) technique was chosen as a reference technique to determine the error in measuring E and ν using the DIC technique. Aluminum was used instead of CPCs, to avoid any problems related to the SG application (described in the introduction section), i.e., an undesired reinforcing effect on the porous brittle material. Five parallelepiped specimens (10 mm square cross section, 20 mm height) were machined from an AA1050 (maximum grain size 80 µm) square bar, in order to ensure material uniformity. Each specimen underwent two series of uniaxial compression tests.
+    </p>
+    <p>
+     In the first series, a DIC system (Aramis 5M, GOM mbH, Braunschweig, Germany) was used to measure surface strain fields. Two digital cameras (2050 × 2448 pixels, TXG50i, Baumer Optronic GmbH, Radeberg, Germany), equipped with 2.8 FL/50 mm Titanar lenses and polarization filters (Schneider-Kreuznach, Bad Kreuznach, Germany) simultaneously monitored two opposite sides of the specimen at 15 Hz (
+     a).
+    </p>
+    <p>
+     Both cameras were mounted onto a rigid support integrated into the testing machine frame and oriented in order to have the specimen surface centered in the view, while assuring a perpendicularity error smaller than 0.5 degrees. The camera-specimen distance was adjusted to the minimum focusing distance—about 150 mm from the polarizing filter placed in front of the camera lens to the specimen surface—obtaining a 12.6 × 15.0 mm measuring window. The resulting pixel size was 0.006 mm. A smaller pixel size, experimentally achievable with higher focal length lens, would have required a smaller dot size—determining the need to replace the airbrushing procedure (see below)—and would have reduced the subset dimension into millimeters (see below), thus introducing potential noise, due to the local strain gradient that occurs across grain boundaries. Speckle patterns (black dots on a white background) were previously created on two opposite surfaces of the specimen using an airbrush (Iwata HP-CH, 0.3 mm nozzle, Anest Iwata Europe S.r.l., Torino, Italy). Airbrush settings (air pressure = 3 bar; paint reduction by volume = 40%; airflow at the nozzle = 2 screw turns; needle travel length = 3 screw turns; spraying distance about 15 cm) were chosen using an internal airbrush-specific algorithm [
+     ], in order to achieve an optimal speckle size of 3–5 pixels [
+     ,
+     ]. A trained operator (A.A.) created all patterns trying to achieve a coverage factor falling within the range of 42–50%, in order to minimise strain noise [
+     ]. Average speckle size and coverage factor, calculated using the technique proposed by Lecompte et al. [
+     ] and Shih [
+     ], were 4.3 pixels (mean value range: 4.1–4.5 pixels) and 49% (range 47–50%) respectively. Images were acquired under the best achievable experimental conditions, i.e., at the smallest lens aperture (1/16, to get a sufficient depth of field), using the maximum exposure time (56 ms, due to the frame rate set to 15 Hz), while maximizing uniform lighting conditions over the entire area of interest (a white-light led was placed at about 80 mm from the specimen surface, the minimum allowable distance without interference of the 9W-led body with the field of view while maintaining the lamp heat-sink above and behind the camera lens). 2D calibration of each camera was carried out before each test-session by using a cubic-shaped 15 × 12 mm panel, following the manufacturer’s recommendations [
+     ].
+    </p>
+    <p>
+     An 8 by 4 mm rectangular area in the center of the specimen surface (
+     a) was selected as the area of interest, to exclude a local effect due to end effects. Preliminarily, the interaction between the subset size, step size, and strain window was investigated to select optimal parameters for image processing. The theoretically-set optimal subset size was calculated as three times the sum of the mean of the speckle size and distance (calculated values fell in the range 25 × 25–28 × 28 pixels), rounded to the nearest multiple of ten. Therefore, a subset size of 30 × 30 pixels was chosen. The step size was set at 1, 3, 8 and 15 pixels.
+    </p>
+    <p>
+     Image processing was carried out using a dedicated software (Aramis V 6.3.0, GOM mbH, Braunschwieg, Germany). Surface strain in a measurement point, i.e., the center of a subset, was calculated using a square grid containing the center points of N × N neighboring subsets [
+     ,
+     ], hereinafter referred to as the strain window. The 2D deformation gradient tensor was calculated solving the system of equation, based on a first-order shape function, by the least square method [
+     ,
+     ]. The strain window was increased, starting from 3 × 3 subset, i.e., a field of center points of 3 × 3 subset, and increasing in steps of 2 subsets, up the maximum dimension of 9 × 9. Since increasing the step size decreased the noise in zero-strain maps (
+     ), and the processing time without losing independent data, a step size of 15 pixels was chosen, i.e., an overlap ratio between neighboring subsets of 50% [
+     ,
+     ]. Similarly, a 9 × 9 strain window dimension was selected, because the noise decreased in zero-strain maps by increasing the strain window (
+     ) [
+     ]. Therefore the first image processing was carried out using a subset size of 30 × 30 pixels, a 50% overlap ratio and a 9 × 9 strain window.
+    </p>
+    <p>
+     A second image processing was carried out using the same parameters, except for the subset size, which was set at 60 × 60 pixels. This size was experimentally determined starting from the previous (30 × 30 pixels), and increasing it in steps of 10 pixels. The selection of the experimentally-determined optimal subset size to be used for image processing was based on the values of the coefficient of variation (CV, i.e., the ratio of the standard deviation to the mean, expressed in percent) of the principal strain values calculated for pooled data obtained from each couple of images. Indeed, CV values, which should theoretically be zero, are affected by both experimental and processing errors; the latter decreases by increasing the subset size. Since no further significant reduction was found when passing from pixel sizes 60 × 60 to 70 × 70, the 60 × 60 dimension was selected as the experimentally determined optimal subset size, as mentioned above (
+     , see also
+     ).
+    </p>
+    <p>
+     A third image processing step was carried out using the previous parameters and an image pre-selection. Since noise on the strain map determines angle fluctuation of principal compressive (or longitudinal strain ε
+     <sub>
+      l
+     </sub>
+     ) and tensile strain (or transverse strain ε
+     <sub>
+      t
+     </sub>
+     ) direction, image pre-selection was based on the distribution of angle fluctuation: an image, and the image simultaneously acquired on the opposite surface of the specimen, was automatically discarded when three times the standard deviation of θ values (3SD
+     <sub>
+      θ
+     </sub>
+     ) was greater than 0.1 rad, where θ was the angle between local ε
+     <sub>
+      t
+     </sub>
+     and the horizontal direction (
+     ).
+    </p>
+    <p>
+     For all the three image processing, the average values (indicated as
+     <underline>
+      ε
+     </underline>
+     ) of ε
+     <sub>
+      l
+     </sub>
+     and ε
+     <sub>
+      t
+     </sub>
+     were calculated over the two areas of interest which were simultaneously acquired by the two cameras.
+    </p>
+    <p>
+     In the second series, triaxial rosettes with pre-attached lead wire (UFRA-3-350, Tokyo Sokki Kenkyuio Co, Tokyo, Japan) were used to measure strain reference values; this was necessary to determine the accuracy of the DIC technique (
+     b). After having carefully prepared the surface (Vishay Precision Group, 2014), a rosette was attached in the center of all four sides of the specimen surface (
+     b). Strain data were acquired at 100 Hz, using a multichannel data logger (System 6000, Vishay Precision Group, Raileigh, NC, USA), and processed to determine the principal directions and principal strains using a dedicated software (StrainSmart V4.31, Vishay Precision Group, Raileigh, NC, USA). The average values (
+     <underline>
+      ε
+     </underline>
+     ) of ε
+     <sub>
+      l
+     </sub>
+     and ε
+     <sub>
+      t
+     </sub>
+     simultaneously acquired by the four rosettes were calculated.
+    </p>
+    <p>
+     Both test series were performed at a constant displacement rate of 0.1 mm/min. Specimens were mounted onto a fixed platen placed onto a 10 kN load cell and loaded through an unlocked spherical seat platen fixed to the actuator of the testing machine (Mod.8502, Instron, Norwood, MA, USA), allowing alignment to the specimen end surface. A customized jig was used in order to align the specimen to the spherical seat, while maintaining the two patterned surfaces orthogonal to the DIC cameras. An initial preload (about 20 N) was applied to maintain the position of the specimen before removing the customized jig. All tests were limited to −5.6 kN, in order to reach a maximum compressive strain value just above a target value of 800 microstrain (i.e., 0.08%). The minimum compressive strain value was chosen considering the image processing errors. Indeed, referring to the experimentally-determined optimal subset size 60 × 60, CV values started to increase exponentially for
+     <underline>
+      ε
+     </underline>
+     <sub>
+      t
+     </sub>
+     values falling below 140 microstrain (
+     ). Therefore this value, which corresponds to 400 microstrain in term of
+     <underline>
+      ε
+     </underline>
+     <sub>
+      l
+     </sub>
+     , was set as minimum strain value in calculating E and ν.
+    </p>
+    <p>
+     Each test-session of five specimens was repeated five times after dismounting and remounting the whole setup. For each test repetition, E and ν were calculated using
+     <underline>
+      ε
+     </underline>
+     <sub>
+      l
+     </sub>
+     and
+     <underline>
+      ε
+     </underline>
+     <sub>
+      t
+     </sub>
+     , measured as described above using both techniques.
+     <underline>
+      ε
+     </underline>
+     <sub>
+      l
+     </sub>
+     values were limited to a range of 400–800 microstrain for the aforementioned reasons. The E value was determined as the slope of the stress-
+     <underline>
+      ε
+     </underline>
+     <sub>
+      l
+     </sub>
+     curve. The ν value was calculated as the mean value of all the absolute ratios of
+     <underline>
+      ε
+     </underline>
+     <sub>
+      t
+     </sub>
+     to
+     <underline>
+      ε
+     </underline>
+     <sub>
+      l
+     </sub>
+     . Inter- and intra-specimen repeatability was expressed as CV, calculated for five repetitions carried out on the same specimen and for each set of five specimens respectively. DIC trueness was assessed by analyzing differences between E and ν mean values, which were determined using DIC and SG techniques on each specimen, by means of a paired t-test.
+    </p>
+    <p>
+     Finally, on the basis of the achieved results (see below), the third image processing was used to determine the elastic properties of a CPC prototype formulation. The formulation was optimized for 3D plotting, i.e., the paste allowed extrusion from a thin needle and assured printed shape stability. Ten parallelepiped specimens (10 mm square cross section, 20 mm height) were printed in air and immersed in deionized water for two weeks to achieve full setting. CPC specimens underwent monotonic compressive tests performed at a constant displacement rate of 0.1 mm/min. E and ν were calculated limiting
+     <underline>
+      ε
+     </underline>
+     <sub>
+      l
+     </sub>
+     to the range of 400–800 microstrain for the aforementioned reasons.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec3-materials-11-00751">
+    <title>
+     3. Results
+    </title>
+    <p>
+     Noise in zero strain readings was negligible for SG; in all cases, measured values were smaller than 4 microstrain. Conversely, although
+     <underline>
+      ε
+     </underline>
+     <sub>
+      t
+     </sub>
+     and
+     <underline>
+      ε
+     </underline>
+     <sub>
+      l
+     </sub>
+     values calculated using DIC technique were smaller than 10 microstrain, ε standard deviation was 10–20 microstrain, with peak values up to 70 microstrain.
+    </p>
+    <p>
+     Approximately, 360 images were captured by each camera during a test against about 2400 triplets of data acquired from each rosette. Image pre-selection was used in the third processing procedure for DIC data. This process discarded, on average, 12% of images (range 0–35%). Discarded images were generally acquired in the first part of the test, i.e., where
+     <underline>
+      ε
+     </underline>
+     <sub>
+      t
+     </sub>
+     values calculated using DIC fell into the lower part of
+     <underline>
+      ε
+     </underline>
+     <sub>
+      t
+     </sub>
+     range. An example of the effect of image pre-selection on collected data is show in
+     and
+     .
+    </p>
+    <p>
+     Intra- and inter-specimen repeatability values, calculated for the two techniques, are summarized in
+     and
+     for E and ν values respectively. The three CV values reported for DIC technique refer to the three different image processing procedures. Intra- and inter-specimen repeatability of DIC were comparable. Conversely, inter-specimen repeatability of SG was double that of intra-specimen. In general, both techniques were more precise for determining E values. However, regardless of the measured parameter, the intra- and inter-specimen repeatability of SG measurements was better than DIC by about 5 and 2.5 times respectively. An improvement in DIC repeatability was found by increasing the subset size, and by adding image pre-selection. This improvement was more noticeable when looking at the worst CV values calculated for ν values.
+    </p>
+    <p>
+     The trueness of DIC is shown in
+     , where values experimentally determined using SGs were used as reference. Although the bias decreased by increasing the subset size and adding image pre-selection, the difference was statistically significant in all three comparisons.
+    </p>
+    <p>
+     The pilot study on a CPC prototype formulation was successfully carried-out using the described experimental procedure. Indeed, elastic mechanical properties were determined for all ten tested specimens. E and ν were 9.0 ± 1.2 GPa and 0.22 ± 0.04 respectively.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec4-materials-11-00751">
+    <title>
+     4. Discussion
+    </title>
+    <p>
+     This study shows that DIC can measure small-magnitude (0.1%) homogeneous strain fields with satisfactory accuracy, as demonstrated by the good agreement between E and ν values determined using SG (reference values) and DIC technique.
+    </p>
+    <p>
+     Although the DIC technique is extensively used to investigate material response to loads, these results were not foreseeable because, in general, published studies measured surface strain values with magnitudes of 1% or greater, both at macro and microscopic scales, [
+     ,
+     ,
+     ,
+     ,
+     ,
+     ,
+     ,
+     ] and reported error values of the same order of magnitude of the strain range as those investigated in the present study [
+     ,
+     ,
+     ,
+     ,
+     ,
+     ]. Indeed, the above-mentioned accuracy was achieved by minimizing the noise level, by (i) measuring each strain value (ε) on a 60 × 60 pixels subset, using a 50% overlap ratio (step size 30 pixel) and a 9 × 9 strain window, meaning that each strain value was calculated on a squared area of 300 × 300 pixels, i.e., 1.8 × 1.8 mm, and (ii) averaging all the strain values measured over an area of 64 mm
+     to calculate the
+     <underline>
+      ε
+     </underline>
+     <sub>
+      l
+     </sub>
+     and
+     <underline>
+      ε
+     </underline>
+     <sub>
+      t
+     </sub>
+     value for each couple of images simultaneously acquired, i.e., averaging about 900 ε values. Despite all this, some level of noise in
+     <underline>
+      ε
+     </underline>
+     <sub>
+      l
+     </sub>
+     and
+     <underline>
+      ε
+     </underline>
+     <sub>
+      t
+     </sub>
+     values, of up to 40 microstrain (in agreement with previous findings [
+     ]), still remains, as shown by the dispersion of ν values in
+     . It has been widely demonstrated that the overlap ratio (or step size), subset size, and strain window dimension (or computation size) in image processing impact the DIC accuracy. These parameters were optimized in the present study for the described setup. Indeed, the chosen overlap ratio fell into the optimal range recommended in the literature, i.e., 50–75% [
+     ,
+     ,
+     ]. A greater overlap ratio, i.e., smaller step size, would produce oversampled data, and increase noise on the strain field [
+     ,
+     ]. Similarly, a subset size greater than 60 × 60 pixels would not further reduce the residual error. It is acknowledged that increasing the subset size will increase the accuracy with which displacements are determined [
+     ,
+     ,
+     ]. Indeed, CVs of ε values decrease as the subset size increases from 30 × 30 to 60 × 60, as shown in
+     . However, beyond a 60 × 60 pixel size, no further improvement was found; this is in agreement with previous studies showing that there is a plateau in noise reduction [
+     ,
+     ,
+     ,
+     ]. It must be acknowledged that subset sizes used in the literature are generally smaller than 60 × 60 pixels [
+     ,
+     ,
+     ,
+     ]. However, those studies investigated strain levels greater than 1%. Indeed, trends observed in
+     suggest that subset size smaller than 60 × 60 become appropriate for measuring strain levels greater than 0.08%, thus increasing the ability of DIC to capture strain gradients. However when strain levels smaller that 0.1% are investigated, the optimal subset size increases [
+     ,
+     ]. It is noteworthy that CV values do not converge to zero. It seems unlikely that this noise is due to strain localization across grain boundaries, since the subset dimension, in millimeters, was at least one order of magnitude greater than the grain dimension. In other words, we assumed that the aluminum surface deformation appeared homogeneous at subset scale level. Noise in DIC measurements contributes to a residual trend. However, the actual strain distribution was non-uniform over the cross section, due to undesired off-axis loading on the specimen. In fact, although specimen alignment was performed carefully, a misalignment error of up to 0.1 mm may have occurred, which contributes up to 6.5% to residual CV value. The DIC setup (i.e., two cameras monitoring simultaneously two opposite side of the specimen), as well as the four-rosette configuration, was chosen in order to compensate for the misalignment error, and to determine accurate E value. Referring to the strain window dimension, a large value (9 × 9) was used, i.e., each ε value was calculated over a quite large area, as explained above. This choice decreases the ability of DIC to capture strain gradients, and therefore to accurately monitor what happens in proximity of any nucleating crack, which is irrelevant in the homogeneous strain field. Greater strain window dimensions might further lightly smooth ε values, but would not change the
+     <underline>
+      ε
+     </underline>
+     value calculated over the entire area of interest, and ultimately, would not change the results.
+    </p>
+    <p>
+     Other known sources of error are due to inaccuracies in preparing the specimen surface (speckle pattern), or in setting up the experimental model (loading condition, lens alignment, lighting, etc.). Special attention was paid in the specimen preparation. The speckle pattern was created by spraying black dots on the specimen surface following a previously developed procedure [
+     ]. This involved the use of an airbrush-specific algorithm, which allows a trained operator to achieve the desired dot size of 3–5 pixels, and a coverage factor closer to 50%. On the basis of the data available in the literature [
+     ,
+     ,
+     ,
+     ,
+     ], the achieved pattern should minimize the correlation error. In addition, the experimental model was set up attempting to achieve the best operating conditions. Additionally, the experimental setup minimized the error of perpendicularity between camera and specimen surface, decreasing the out-of-plane motion. Indeed, residual errors in calculating Poisson’s ratio determined using the DIC technique, are comparable to those reported in the literature using the DIC 3D setup [
+     ], which is unaffected by out-of-plane motion, without the need to manipulate DIC data. Finally, another source of error was deleted by simultaneously monitoring two opposite sides, in order to compensate for the problem of a non-axial-load applied on the specimen due to small misalignment between specimen axis and spherical seat. However, other errors are operator dependent (e.g., focusing camera lenses, lighting homogeneously both specimen surfaces). Despite the fact that the same trained operator carried out all test-sessions, the repeatability in achieving the experimental optimal conditions for the investigated strain range appeared to be a problem. However, it must be acknowledged that other sources of errors, such as thermal noise or CCD sensor noise [
+     ] may have affected strain measurements. Whatever the cause, when experimental “sub-optimal” conditions occurred, image pre-selection played a role in reducing error and slightly improving DIC accuracy. In fact, image pre-selection discarded several images in all but one test session. The image pre-selection criterion is based on a priori knowledge of strain directions. It deletes all and only images that are noisy, which is more effective than data filtering, slightly improving both DIC trueness and precision in determining E and ν values (although a residual bias and a quite large dispersion still exists). Dispersion values can be ascribed to specimen inhomogeneity only for a small part. Indeed, apart from the fact that specimens were machined from the same bar, in order to minimize material inhomogeneity due to processing route, the inter-specimen repeatability achieved using SG was excellent. It could be argued that the E and ν values determined using SG are not true values, and therefore, that it is not possible to conclude that DIC overestimates the two mechanical parameters. However, although SG data are affected by some degree of uncertainty, the E and ν values determined using SG are in agreement with those reported in the literature for AA1050. This observation indirectly supports the aforementioned conclusion.
+    </p>
+    <p>
+     Other known sources of error are the quality of DIC hardware [
+     ,
+     ,
+     ], and the correlation algorithm [
+     ,
+     ,
+     ,
+     ,
+     ,
+     ]. However, it was out of the scope of this study to compare different hardware or algorithms. Therefore, one commercial system was used to carry out the experimental series; this is a major limitation of this work. In fact, it cannot be excluded that different hardware components or different sub-pixel registration algorithms might have further improved the accuracy and precision achieved in the present study. However, the described procedure appeared suitable to determine CPC elastic mechanical properties, whose accuracy is a key for the reliability of numerical models of CPC 3D structures.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec5-materials-11-00751">
+    <title>
+     5. Conclusions
+    </title>
+    <p>
+     DIC can be practical and effective in measuring small-magnitude (0.1%) homogeneous strain fields. The experimentally-determined optimal parameters for image processing, including the identification of the optimal subset size for the actual speckle pattern, and image pre-selection based on strain direction, can minimize the noise level. Under these conditions, a trueness better than 2% and 4% in measuring E and ν can be achieved, keeping in mind that both parameters are overestimated. However, DIC repeatability must be taken into account when calculating the sample size.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

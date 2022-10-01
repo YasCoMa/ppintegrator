@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Acylation of the Type 3 Secretion System Translocon Using a Dedicated Acyl Carrier Protein
+ </title>
+ <abstract>
+  <p>
+   Bacterial pathogens often deliver effectors into host cells using type 3 secretion systems (T3SS), the extremity of which forms a translocon that perforates the host plasma membrane. The T3SS encoded by
+   <italic>
+    Salmonella
+   </italic>
+   pathogenicity island 1 (SPI-1) is genetically associated with an acyl carrier protein, IacP, whose role has remained enigmatic. In this study, using tandem affinity purification, we identify a direct protein-protein interaction between IacP and the translocon protein SipB. We show, by mass spectrometry and radiolabelling, that SipB is acylated, which provides evidence for a modification of the translocon that has not been described before. A unique and conserved cysteine residue of SipB is identified as crucial for this modification. Although acylation of SipB was not essential to virulence, we show that this posttranslational modification promoted SipB insertion into host-cell membranes and pore-forming activity linked to the SPI-1 T3SS. Cooccurrence of acyl carrier and translocon proteins in several γ- and β-proteobacteria suggests that acylation of the translocon is conserved in these other pathogenic bacteria. These results also indicate that acyl carrier proteins, known for their involvement in metabolic pathways, have also evolved as cofactors of new bacterial protein lipidation pathways.
+  </p>
+  <p>
+   Acyl carrier proteins are small ubiquitous proteins involved in the synthesis of hydrocarbon based molecules. Notably, they are essential for the synthesis of fatty acids, which are the precursors of membrane phospholipids. They can also be involved in secondary metabolism, for example for the synthesis of molecules with antibacterial properties. Although acyl carrier proteins are widespread, the specific role of each individual protein seems comparatively poorly explored. In this study, we investigate the role of an acyl carrier protein genetically associated with a type 3 secretion system (T3SS). Many Gram-negative bacterial pathogens use T3SS to deliver effectors directly into the cytoplasm of eukaryotic host cells and to subvert host cellular pathways. For this purpose, the translocon, which is the terminal part of T3SS, forms a pore inserted into the host-cell membrane. Here we show that the acyl carrier protein associated with the T3SS has specialized to allow acylation of the translocon. The novel posttranslational modification of the translocon that we describe optimizes insertion into the host-cell membrane and pore-forming activity. This mechanism is likely to be conserved in other pathogenic bacteria given the conserved genetic association between T3SS and acyl carrier protein in several bacteria.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="sec001" sec-type="intro">
+    <title>
+     Introduction
+    </title>
+    <p>
+     <italic>
+      Salmonella enterica
+     </italic>
+     serovar Typhimurium (
+     <italic>
+      S
+     </italic>
+     . Typhimurium) is a Gram-negative γ-proteobacterium and a facultative intracellular pathogen.
+     <italic>
+      Salmonella
+     </italic>
+     pathogenicity island 1 (SPI-1) encodes the type 3 secretion system (T3SS) necessary to promote bacterial entry into host cells; this apparatus forms a molecular syringe used to inject bacterial effectors into the host cytoplasm and to manipulate host actin polymerization pathways [
+     ]. SPI-1 includes 35 genes that encode the T3SS as well as several effector proteins, specific chaperones and transcriptional regulators [
+     ]. Surprisingly, SPI-1 also includes a gene named
+     <italic>
+      iacP
+     </italic>
+     , for
+     <underline>
+      i
+     </underline>
+     nvasion
+     <underline>
+      a
+     </underline>
+     cyl
+     <underline>
+      c
+     </underline>
+     arrier
+     <underline>
+      p
+     </underline>
+     rotein, which is located downstream the
+     <italic>
+      sicA-sipBCDA
+     </italic>
+     genes. SipBCD proteins form the T3SS translocon that is inserted into the host plasma membrane and through which effectors, including SipA, are delivered [
+     ,
+     ,
+     ]. SipD is a hydrophilic translocator, while SipC and SipB are hydrophobic translocators. In current models, a pentameric SipD complex forms at the needle tip and regulates secretion of translocators and effectors [
+     –
+     ]. Translocators SipB and SipC dock to the SipD tip complex. SipB is the largest of the hydrophobic translocators. Structural information is only available for an N-terminal fragment, which is made of three extended α-helices packed in a coiled-coil motif [
+     ]. However, a topological model has been proposed for SipB, in which an N-terminal coiled-coil domain drives oligomerization of SipB [
+     ], two transmembrane domains span the host membrane bilayer, and a C-terminal amphipatic helix contacts the periphery of the host membrane [
+     ]. The minor translocator SipC carries only one predicted transmembrane domain. Premature molecular association of SipB and SipC in the bacterial cytoplasm is prevented by the chaperone SicA [
+     ]. The genetic association between
+     <italic>
+      sicA
+     </italic>
+     ,
+     <italic>
+      sipB
+     </italic>
+     ,
+     <italic>
+      sipC
+     </italic>
+     ,
+     <italic>
+      sipD
+     </italic>
+     and
+     <italic>
+      sipA
+     </italic>
+     thus reflects the functional association of the corresponding proteins. In contrast, it is not known if the association of
+     <italic>
+      iacP
+     </italic>
+     to this locus has a functional purpose. However, deletion of
+     <italic>
+      iacP
+     </italic>
+     has been reported to affect invasion and virulence of
+     <italic>
+      Salmonella
+     </italic>
+     in animal models [
+     ,
+     ].
+    </p>
+    <p>
+     IacP is a small protein of 82 residues and a homolog of
+     <underline>
+      a
+     </underline>
+     cyl
+     <underline>
+      c
+     </underline>
+     arrier
+     <underline>
+      p
+     </underline>
+     rotein (ACP), the essential cofactor of fatty acid biosynthesis [
+     ]. ACP carries fatty acid chains during their synthesis and presents them to all the fatty acid biosynthesis enzymes. To be functional, ACP and homologs require the modification of a conserved serine residue by addition of a 4’-phosphopantetheine prosthetic group (4’-PP). The terminal sulfhydryl of the 4’-PP allows tethering of acyl intermediates
+     <italic>
+      via
+     </italic>
+     a thioester linkage. When acyl chains have reached their final length, mainly 14 to 18 carbons in
+     <italic>
+      Salmonella
+     </italic>
+     , they are transferred to the phospholipid biosynthesis pathway. ACP is also an acyl-donor for the synthesis of the lipopolysaccharide lipid A, for the biosynthesis of N-acyl-homoserine lactones, and for the posttranslational acylation of hemolysins of the RTX family [
+     ,
+     ]. Although ACPs involved in fatty acid biosynthesis have been extensively studied, much less is known about the role of ACP-like proteins. The most famous examples are probably those that are involved in the synthesis of polyketide antibiotics in
+     <italic>
+      Streptomyces
+     </italic>
+     species and in the synthesis of nodulation factor in rhizobia [
+     ,
+     ].
+    </p>
+    <p>
+     We previously showed that IacP is modified by a 4’-PP group on the conserved serine 38 residue, as expected for an acyl carrier protein [
+     ]. In this study, we investigated the role of
+     <italic>
+      iacP
+     </italic>
+     to understand its association to SPI-1. Our results indicate that IacP interacts with the SPI-1 T3SS major hydrophobic translocator and we show that this leads to acylation of the translocon. We further show that this posttranslational modification optimizes insertion of the major hydrophobic translocator into host-cell membranes and improves pore-forming activity linked to the SPI-1 T3SS translocon.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec002" sec-type="results">
+    <title>
+     Results
+    </title>
+    <sec id="sec003">
+     <title>
+      Identification of protein partners of IacP
+     </title>
+     <p>
+      We searched for protein partners of IacP using tandem affinity purification (TAP) [
+      ]. The
+      <italic>
+       S
+      </italic>
+      . Typhimurium IacP_TAP strain was used, in which the TAP tag sequence had been introduced in frame with the 3’ end of
+      <italic>
+       iacP
+      </italic>
+      at the chromosomal locus (
+      ) [
+      ]. The TAP tag includes two IgG binding domains of
+      <italic>
+       Staphylococcus aureus
+      </italic>
+      protein A (ProtA) and a calmodulin binding peptide (CBP) separated by a TEV protease cleavage. Upon physiological expression of IacP_TAP, two specific and sequential affinity purification/elution steps allowed recovery of IacP_CBP along with its associated partners, which were then identified by mass spectrometry (
+      and
+      ). IacP was found to interact with three proteins: i/ FabB, which is the ß
+      <italic>
+       -
+      </italic>
+      ketoacyl-ACP synthase I involved in saturated and unsaturated fatty acid biosynthesis, ii/ IscS, which is a cysteine desulfurase crucial for iron-sulfur cluster biogenesis and repair, and iii/ SipB, the major translocator of SPI-1 T3SS. The 4’-PP modification of IacP was required for the interaction of IacP with these three proteins since none of them were retrieved when the TAP experiment was performed using a strain producing the IacP
+      <sub>
+       S38T
+      </sub>
+      _TAP protein that had lost capacity to be modified by a 4’-PP group [
+      ] (
+      and
+      ).
+     </p>
+     <p>
+      Proteins FabB and IscS are known partners of the canonical ACP protein involved in fatty acid biosynthesis in
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      K12 [
+      ,
+      ]. However, SipB being specific to
+      <italic>
+       Salmonella
+      </italic>
+      , this is the first time that this association with an acyl carrier protein has been found. We tested if the interaction between IacP and SipB was specific to IacP or could also occur between SipB and the canonical ACP. A TAP experiment with a
+      <italic>
+       S
+      </italic>
+      . Typhimurium ACP_TAP strain showed that most ACP partners identified in
+      <italic>
+       S
+      </italic>
+      . Typhimurium were identical to those identified in
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      , and were involved in the synthesis of cell envelope components such as fatty acids, phospholipids and lipid A (
+      and
+      ) [
+      ,
+      ]. However, SipB was never found associated to ACP in
+      <italic>
+       S
+      </italic>
+      . Typhimurium.
+     </p>
+     <p>
+      To validate the interaction between IacP and SipB with an alternative approach, we used the bacterial two-hybrid system in
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      [
+      ]. Although we at first failed to observe an interaction between IacP and SipB (
+      ), the interaction was finally reconstituted in
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      by co-production of the chaperone SicA along with T18_IacP and T25_SipB (
+      ). Indeed, SicA was required to stabilize the T25_SipB hybrid protein (
+      ), and possibly to maintain SipB in a conformation competent for interaction with IacP. The reason that SicA did not appear in the results of the TAP experiment might be that as SicA is not a direct partner of IacP, it could have been lost during the TAP procedure, due to the use of detergent that alters the interaction between the major hydrophobic translocator and its chaperone (
+      ) [
+      ]. We then recapitulated the results obtained by TAP: while the interaction between IacP and SipB was detected, no interaction could be detected either between SipB and IacP
+      <sub>
+       S38T
+      </sub>
+      , or between SipB and the canonical ACP involved in fatty acid biosynthesis (
+      ).
+     </p>
+     <p>
+      In conclusion, bacterial two-hybrid and TAP experiments showed the specific interaction of IacP with SipB. This result provides the first direct biochemical evidence of a link between IacP and the SPI-1 T3SS. The lack of interaction between SipB and the canonical ACP involved in fatty acid biosynthesis showed that IacP was an acyl carrier protein specific to SipB.
+     </p>
+    </sec>
+    <sec id="sec004">
+     <title>
+      Acylation of SipB as shown by mass spectrometry
+     </title>
+     <p>
+      We hypothesized that an acyl chain carried by IacP could be transferred to SipB. To determine if SipB was indeed posttranslationally modified, we performed mass spectrometry analysis. Several plasmids harboring artificial operons were created to concomitantly express
+      <sub>
+       6His-
+      </sub>
+      <italic>
+       sipB
+      </italic>
+      and
+      <italic>
+       sicA
+      </italic>
+      , or
+      <sub>
+       6His-
+      </sub>
+      <italic>
+       sipB
+      </italic>
+      ,
+      <italic>
+       sicA
+      </italic>
+      and
+      <italic>
+       iacP
+      </italic>
+      , or
+      <sub>
+       6His-
+      </sub>
+      <italic>
+       sipB
+      </italic>
+      ,
+      <italic>
+       sicA
+      </italic>
+      and
+      <italic>
+       iacP
+      </italic>
+      <sub>
+       <italic>
+        S38T
+       </italic>
+      </sub>
+      (
+      ). After production in
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      ,
+      <sub>
+       6His-
+      </sub>
+      SipB was purified and the intact protein was analyzed by MALDI-TOF mass spectrometry (
+      ). In the mass range of
+      <sub>
+       6His-
+      </sub>
+      SipB molecular weight (65 kDa), resolution is not high enough to obtain an accurate mass of purified
+      <sub>
+       6His-
+      </sub>
+      SipB. However, it was possible to compare the mass spectra of different samples obtained with the same calibration. The mass spectrum of
+      <sub>
+       6His-
+      </sub>
+      SipB produced in presence of IacP did not overlap with the mass spectra of
+      <sub>
+       6His-
+      </sub>
+      SipB produced without IacP or with IacP
+      <sub>
+       S38T
+      </sub>
+      (
+      ). Indeed, the experimental mass corresponding to
+      <sub>
+       6His-
+      </sub>
+      SipB produced in the presence of IacP was approximately 200 Da heavier, which is a mass increment compatible with a modification by a fatty acid. Similar results were obtained when
+      <sub>
+       6His-
+      </sub>
+      SipB was produced in
+      <italic>
+       S
+      </italic>
+      . Typhimurium Δ
+      <italic>
+       iacP
+      </italic>
+      using the same plasmids (
+      ). Furthermore, SipB produced from the genome of
+      <italic>
+       S
+      </italic>
+      . Typhimurium, was of lower mass when
+      <italic>
+       iacP
+      </italic>
+      was deleted than in the wild-type (
+      ). These results indicated that SipB was posttranslationally modified and this modification only occurred in the presence of a wild-type IacP.
+     </p>
+     <p>
+      To investigate which region of SipB was modified, a cleavable version of SipB was made by introducing a TEV protease cleavage site after position 237 of SipB, creating SipB
+      <sub>
+       237TEV
+      </sub>
+      (
+      ). This position was chosen because it has been shown to be accessible to proteases [
+      ]. This modification did not affect the interaction with IacP (
+      ). Mass analysis of purified
+      <sub>
+       6His-
+      </sub>
+      SipB
+      <sub>
+       237TEV
+      </sub>
+      , not yet cleaved by the TEV protease, still showed the mass increment of about 200 Da when
+      <sub>
+       6His-
+      </sub>
+      SipB
+      <sub>
+       237TEV
+      </sub>
+      had been produced in presence of IacP compared to when produced without IacP (
+      ).
+      <sub>
+       6His-
+      </sub>
+      SipB
+      <sub>
+       237TEV
+      </sub>
+      was then cleaved by the TEV protease and the
+      <sub>
+       6His-
+      </sub>
+      N-terminal and C-terminal fragments were separated and individually analyzed by mass spectrometry (
+      ). Experimental masses of the
+      <sub>
+       6His-
+      </sub>
+      N-terminal and C-terminal fragments (28.5 kDa and 37.4 kDa, respectively) were in accordance with the theoretical masses (28.6 kDa and 37.5 kDa, respectively). Spectra of the
+      <sub>
+       6His-
+      </sub>
+      N-ter fragments, issued from the cleavage of
+      <sub>
+       6His-
+      </sub>
+      SipB
+      <sub>
+       237TEV
+      </sub>
+      produced with or without IacP, overlapped to each other (
+      ). However, spectra of the C-terminal fragments were different: a major peak was observed close to 37.4 kDa when
+      <sub>
+       6His-
+      </sub>
+      SipB
+      <sub>
+       237TEV
+      </sub>
+      had been produced without IacP, while the most intense peak corresponded to a mass approximately 200 Da heavier when
+      <sub>
+       6His-
+      </sub>
+      SipB
+      <sub>
+       237TEV
+      </sub>
+      had been co-produced with IacP (see arrow
+      ). These results indicated that the posttranslational modification of SipB occurred on the C-terminal fragment, downstream residue 237.
+     </p>
+    </sec>
+    <sec id="sec005">
+     <title>
+      Acylation of SipB involves its cysteine 316 residue
+     </title>
+     <p>
+      Protein acylation that occurs in bacteria and eukaryotes generally results in the formation of amide, thioester or thioether bonds between the protein and acyl chain [
+      ,
+      ]. We therefore paid special attention to amino acid residues of SipB whose lateral chains contained amine and thiol groups. We observed that SipB from
+      <italic>
+       S
+      </italic>
+      . Typhimurium has a unique cysteine residue at position 316 (
+      ). The C316A substitution did not alter the interaction between IacP and SipB, and even gave a stronger signal in the bacterial two-hybrid assay when compared with wild-type SipB (
+      ). The C316A substitution was then introduced in plasmid constructions previously used to co-express
+      <italic>
+       sipB
+      </italic>
+      and its partners. Purified
+      <sub>
+       6His-
+      </sub>
+      SipB
+      <sub>
+       C316A
+      </sub>
+      produced without IacP or in presence of IacP or IacP
+      <sub>
+       S38T
+      </sub>
+      , was analyzed by MALDI-TOF mass spectrometry and, in contrast to the previous results observed using wild-type SipB, the three spectra overlapped (
+      compared to
+      ). In agreement, mass spectra of the C-terminal fragment of
+      <sub>
+       6His-
+      </sub>
+      SipB
+      <sub>
+       237TEV C316A
+      </sub>
+      that had been produced with or without IacP, and obtained after cleavage by TEV protease, also overlapped (
+      ). Thus, the fact that the SipB
+      <sub>
+       C316A
+      </sub>
+      protein did not show the increase in mass when produced in the presence of IacP, indicated that the cysteine 316 of SipB was crucial for posttranslational modification of SipB; this was independent of the interaction step because SipB
+      <sub>
+       C316A
+      </sub>
+      still interacted with IacP (
+      ). Unfortunately, further characterization of the posttranslational modification by mass spectrometry was not possible, due to the difficulty of detecting peptides containing the cysteine 316 after
+      <sub>
+       6His-
+      </sub>
+      SipB has been digested with trypsin or other proteolytic enzymes.
+     </p>
+    </sec>
+    <sec id="sec006">
+     <title>
+      Acylation of SipB as shown by radiolabelling
+     </title>
+     <p>
+      To show acylation of SipB by an alternative approach,
+      <sub>
+       6His-
+      </sub>
+      SipB and the
+      <sub>
+       6His-
+      </sub>
+      SipB
+      <sub>
+       C316A
+      </sub>
+      variant were produced in presence of a radiolabelled fatty acid precursor,
+      C-acetate. Then, proteins were purified, separated and visualized by either autoradiography or Coomassie blue staining (
+      ). While an equivalent amount of purified proteins was loaded in each lane (
+      , bottom panel), a strong radioactive signal was only displayed by
+      <sub>
+       6His-
+      </sub>
+      SipB produced in the presence of the wild-type IacP (
+      , top panel lane 4). A weak radioactive signal was still detected when
+      <sub>
+       6His-
+      </sub>
+      SipB had been produced in the absence of IacP, or in the presence of IacP
+      <sub>
+       S38T
+      </sub>
+      , which does not interact with SipB (
+      , top panel lanes 2 and 3, respectively). This residual signal might derive from the fact that, in conditions where SipB is overproduced, the canonical ACP involved in fatty acid biosynthesis can partially compensate the absence of functional IacP. ACP is a relatively abundant protein that represents ≈ 0.25% of soluble proteins in
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      [
+      ]. However, when the acylation was prevented by mutation of cysteine 316 of SipB, the radioactive signal totally disappeared, demonstrating again the importance of this residue in the posttranslational event (
+      , top panel lanes 5, 6 and 7).
+     </p>
+     <p>
+      To further show that cysteine 316 was necessary for the fatty acid-protein linkage, and postulating that the linkage could be by a thioester bond, we performed SDS-PAGE of radiolabeled
+      <sub>
+       6His-
+      </sub>
+      SipB before treatment, or not, with hydroxylamine near neutral pH (specific thioester bond cleavage) [
+      ]. The radioactive signal corresponding to SipB acylation that we had previously observed, vanished when the SDS-PAGE was treated with hydroxylamine pH 7 (
+      ).
+     </p>
+     <p>
+      In conclusion, these results strongly suggest that an acyl chain is linked to SipB by a thioester bond with the side chain of C316, which is a modification called S-acylation.
+     </p>
+    </sec>
+    <sec id="sec007">
+     <title>
+      Acylation of SipB promotes membrane insertion and pore-forming activity of SPI-1 T3SS
+     </title>
+     <p>
+      <italic>
+       S
+      </italic>
+      . Typhimurium SL1344 displays hemolytic activity against erythrocytes in a SipB, SipC and SipD-dependent manner [
+      ,
+      ]. To examine if acylation of SipB impacts pore-forming activity of the SPI-1 T3SS translocon, hemolysis assays were performed on sheep red blood cells (sRBC) (
+      ). Although similar amount of SipB was detected in the different genetic backgrounds, the deletion of
+      <italic>
+       iacP
+      </italic>
+      led to a ≈ 50% reduction of the hemolytic activity of
+      <italic>
+       S
+      </italic>
+      . Typhimurium, when compared with the wild-type strain (
+      ). The hemolysis defect was complemented by the expression of
+      <italic>
+       iacP in trans
+      </italic>
+      , but not by the expression of
+      <italic>
+       iacP
+      </italic>
+      <sub>
+       S38T
+      </sub>
+      (
+      ). We then tested the hemolytic activity of the SipB
+      <sub>
+       C316A
+      </sub>
+      strain, in which the C316A substitution had been introduced at the
+      <italic>
+       sipB
+      </italic>
+      chromosomal locus. Hemolytic activity of the SipB
+      <sub>
+       C316A
+      </sub>
+      strain was ≈ 15% that of the wild-type strain (
+      ). Surprisingly, this hemolytic defect was more pronounced than for the Δ
+      <italic>
+       iacP
+      </italic>
+      strain (
+      ). We hypothesized that the C316A mutation had created an inactive SipB substrate and attempts to modify this inactive substrate would prolong the interaction between IacP and SipB
+      <sub>
+       C316A
+      </sub>
+      , resulting in a temporary titration of SipB
+      <sub>
+       C316A
+      </sub>
+      . This was supported by the previous observation that the bacterial two-hybrid signal was higher for the interaction between IacP and SipB
+      <sub>
+       C316A
+      </sub>
+      than for the interaction between IacP and wild-type SipB (
+      ), while the level of the interaction signal was identical for the different versions of SipB and the SicA chaperone (
+      ). Therefore, we reasoned that deletion of
+      <italic>
+       iacP
+      </italic>
+      in a SipB
+      <sub>
+       C316A
+      </sub>
+      genetic background should release SipB
+      <sub>
+       C316A
+      </sub>
+      and should allow the Δ
+      <italic>
+       iacP
+      </italic>
+      SipB
+      <sub>
+       C316A
+      </sub>
+      strain to display a better hemolytic activity than the SipB
+      <sub>
+       C316A
+      </sub>
+      strain. Indeed, hemolytic activity of Δ
+      <italic>
+       iacP
+      </italic>
+      SipB
+      <sub>
+       C316A
+      </sub>
+      moved back up to ≈ 35% that of the wild-type (
+      ). To explain the hemolytic defect of the Δ
+      <italic>
+       iacP
+      </italic>
+      and SipB
+      <sub>
+       C316A
+      </sub>
+      strains, we examined the level of SipB inserted into host-cell membrane; sRBC membrane were isolated by sucrose density gradient and the amount of SipB was estimated by immunodetection. Although the amount of SipB was similar in bacterial crude extracts, the amount of SipB in sRBC membrane was not equivalent: a hemolytic defect was associated with a reduced amount of SipB in sRBC membrane (
+      ).
+     </p>
+     <p>
+      In conclusion, the hemolytic defect of the Δ
+      <italic>
+       iacP
+      </italic>
+      and SipB
+      <sub>
+       C316A
+      </sub>
+      mutants correlates with a decreased amount of SipB inserted into sRBC membrane. This result indicates that posttranslational S-acylation of SipB favors its insertion into host-cell membrane. However, although this modification optimized T3SS-pore formation, in our hands it was not essential to the invasion process as measured in usual cellular and animal models. Invasion assays performed on cultured HeLa cells showed that while the invasion capacity of each bacterial strain followed the trend of its hemolytic activity, the phenotypes were less pronounced and even sometimes not significantly different from the wild-type strain (
+      ). Similarly, a competitive index measured in mice perorally infected did not reveal a strong defect for the strain deleted of
+      <italic>
+       iacP
+      </italic>
+      (
+      ).
+     </p>
+    </sec>
+    <sec id="sec008">
+     <title>
+      Cooccurence of SipB-like and acyl carrier proteins
+     </title>
+     <p>
+      We wondered if the genetic association between an acyl carrier protein and a T3SS translocator was found in bacterial species other than
+      <italic>
+       S
+      </italic>
+      . Typhimurium. We therefore retrieved SipB homologs from protein databases (
+      and
+      ), we found all these homologs belong to SPI-1-like T3SS. These sequences were used to build a phylogenetic tree (
+      ). For each of the corresponding genes, we examined its genetic environment, looking for the presence of an acyl carrier protein in the close vicinity (less than 5 genes away) (
+      and
+      ). The genetic association of
+      <italic>
+       sipB
+      </italic>
+      -like and acyl carrier protein genes was conserved in several γ- and β-proteobacteria such as
+      <italic>
+       Shigella
+      </italic>
+      species, and certain species of
+      <italic>
+       Yersinia
+      </italic>
+      ,
+      <italic>
+       Pseudomonas
+      </italic>
+      ,
+      <italic>
+       Erwinia
+      </italic>
+      and
+      <italic>
+       Burkholderia
+      </italic>
+      that encode a SPI-1-like T3SS. This cooccurrence was not specific to a bacterial clade and was spread throughout the phylogenetic tree, suggesting that it reflects a conserved functional association (
+      ). Remarkably, the C316 residue that had been identified as crucial for acylation of SipB in
+      <italic>
+       S
+      </italic>
+      . Typhimurium (
+      ), was conserved in SipB homologs genetically associated with an acyl carrier protein, while this cysteine residue was often missing in SipB homologs that were not genetically associated with an acyl carrier protein (
+      ,
+      ).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec009" sec-type="conclusions">
+    <title>
+     Discussion
+    </title>
+    <p>
+     This study shows for the first time the posttranslational modification of the major hydrophobic translocator SipB, probably by S-acylation. S-acylation is the attachment of a fatty acid onto a cysteine residue via a thioester linkage and was first discovered on viral proteins [
+     ]. Since then, it has been discovered in mammals, plants and protozoans, but apart from one exception, it was thought to be missing to the bacterial kingdom [
+     –
+     ]. In viral transmembrane proteins, the acylated cysteine(s) are usually located within 20 residues of the transmembrane region [
+     ]. Interestingly, the cysteine 316 residue of SipB, crucial for its posttranslational modification, is located 4 residues upstream the first hydrophobic transmembrane segment.
+    </p>
+    <p>
+     Lipid modifications can i) increase the affinity of proteins for membranes, ii) address them to particular membrane subdomains or iii) modify protein-protein interactions. Each of these possibilities is relevant to SipB, which contributes to the intimate attachment of
+     <italic>
+      Salmonella
+     </italic>
+     to the host cell surface [
+     ] and forms hexameric structures inserted in cholesterol-enriched membranes [
+     ,
+     ,
+     ]. It is noteworthy that membrane fusion activity of purified SipB has also been previously described [
+     ]. Considering the defect of insertion of SipB into sRBC membrane in the absence of acylation (
+     ), we suggest that lipid modification of SipB might promote initial or stable membrane attachment. Hypothetically, acylation of SipB could: i) mediate a first level of contact with the membrane before transmembrane insertion of the translocon; ii) promote protein-protein interaction and oligomerisation before transmembrane insertion of the pore; iii) address the oligomer toward cholesterol rich subdomains that would be the preferential site for transmembrane pore insertion. Posttranslational modification of SipB is however not essential for the invasion process as indicated by our assays. This is consistent with the fact that SipB has already two transmembrane domains and so does not rely on lipid addition for insertion into membranes. Even if we could not show, in model systems, an effect on pathogenicity, acylation of the translocon might be beneficial to
+     <italic>
+      S
+     </italic>
+     . Typhimurium in specific conditions that remain to be determined.
+    </p>
+    <p>
+     Our discovery that the translocator SipB is acylated using a dedicated acyl carrier protein is reminiscent of the archetypical posttranslational acylation of the hemolysin HlyA in pathogenic
+     <italic>
+      E
+     </italic>
+     .
+     <italic>
+      coli
+     </italic>
+     . The acylation mechanism of HlyA involves the canonical acyl carrier protein ACP and a specific acyltransferase. This process is described as unique to toxins of the RTX family. Once acylated in the bacterial cytoplasm, HlyA is secreted across both membranes by the type 1 secretion system HlyB HlyD TolC and exerts hemolytic activity towards eukaryotic cells. While acylation is dispensable for secretion, it is crucial for HlyA pore-forming activity [
+     ]. Although the two systems show similarity, the lipidation mechanism of SipB is different. First,
+     <italic>
+      S
+     </italic>
+     . Typhimurium is devoid of HlyC, the acyltransferase involved in HlyA modification. Second, a cysteine residue on SipB, rather than lysine residues on HlyA, is acylated. Third, while the lipidation of HlyA uses the canonical ACP to provide acyl chains, that of SipB uses a dedicated acyl carrier protein, IacP. To our knowledge, this is the first example of a dedicated acyl carrier protein for protein acylation. Indeed, acyl carrier proteins and homologs are known essentially for their involvement in biosynthetic pathways of hydrocarbon-based molecules. Here, we show a connection between the invasion pathway and fatty acid biosynthesis thanks to the interaction between IacP and FabB (
+     ). This might indicate that FabB is used for SipB acylation. FabB is an essential 3-oxoacyl-ACP-synthase of the fatty acid biosynthesis pathway that elongates the fatty acyl chain by two carbons. Indeed, FabB catalyzes the transfer of the fatty acyl chain being synthesized from ACP to the α-carbon of a new malonyl-ACP unit. Thus, the interaction between IacP and FabB might provide the opportunity to load an acyl chain from the fatty acid biosynthesis pathway onto IacP. We favor this hypothesis over the idea that IacP plays a role in fatty acid biosynthesis since we have shown that IacP cannot replace the canonical ACP [
+     ].
+    </p>
+    <p>
+     T3SS are classified into seven subgroups [
+     ,
+     ]. SipB homologs that we retrieved all belonged to T3SS of the SPI-1 subgroup and most of them were genetically associated with an acyl carrier protein (
+     and
+     ). A genetic association between the major hydrophobic translocator and an acyl carrier protein was not found in representative T3SS loci of the other six subgroups. This suggests that acylation of the major translocator might be a specific feature of T3SS from the SPI-1 subgroup. Acylation of the translocon might be guided by host cell features; however the SPI-1 subgroup contains bacterial species with different ecological niches (animals and plants) and different known lifestyles (intra- and extracellular). Alternatively, acylation of SipB and homologs might facilitate the function of this specific type of major translocators of the SPI-1 subgroup.
+    </p>
+    <p>
+     Our finding that an acyl carrier protein is dedicated to acylation of the translocon in
+     <italic>
+      S
+     </italic>
+     . Typhimurium, and possibly in various other pathogenic bacteria, leads us to suggest that acyl carrier proteins have also evolved to be cofactors of protein lipidation pathways. Thus, protein modification involving cytoplasmic acyl carrier proteins could provide a general mechanism for the lipidation of secreted proteins that do not transit by the periplasm.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec010" sec-type="materials|methods">
+    <title>
+     Materials and Methods
+    </title>
+    <sec id="sec011">
+     <title>
+      Bacterial strains and growth conditions
+     </title>
+     <p>
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      and
+      <italic>
+       S
+      </italic>
+      . Typhimurium strains used in this study are listed in
+      .
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      MG1655 Δ
+      <italic>
+       gltA
+      </italic>
+      was obtained by P1 transduction of the allele Δ
+      <italic>
+       gltA
+      </italic>
+      ::kan
+      from JW0710 [
+      ]. Bacteria were grown in 2YT, Luria-Bertani (LB) (Sigma-Aldrich), M9 media (M9 salt 1X, 1mM MgSO
+      <sub>
+       4
+      </sub>
+      , 0.1 mM CaCl
+      <sub>
+       2
+      </sub>
+      , 0.5 μg/ml vitamin B1, 0.2% casa amino acids, 0.4% glycerol) or Brain Heart Infusion (BHI) (Difco). Antibiotic-based selection was made with ampicillin (100 μg/ml), kanamycin (25 or 50 μg/ml) or chloramphenicol (20 or 50 μg/ml) for
+      <italic>
+       S
+      </italic>
+      . Typhimurium and
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      , as appropriate.
+     </p>
+    </sec>
+    <sec id="sec012">
+     <title>
+      DNA manipulations and plasmids
+     </title>
+     <p>
+      Plasmids that were used or created for this study are described in
+      . For bacterial two-hybrid, pairs of proteins to be tested were fused to the C-terminal side of the two catalytic domains, T18 and T25, of adenylate cyclase [
+      ]. Site-directed mutagenesis was performed on plasmids following instructions of the QuickChange site-directed mutagenesis kit (Stratagene). The IacP
+      <sub>
+       S38T
+      </sub>
+      and SipB
+      <sub>
+       C316A
+      </sub>
+      substitutions were introduced using primers ebm 798/799 and ebm1274/1275, respectively (
+      ). The SipB
+      <sub>
+       237TEV
+      </sub>
+      encoding allele was created by the PCR technique of overlap extension [
+      ] using primers ebm820/1361 and ebm1362/821.
+     </p>
+     <p>
+      Gene modifications on the chromosome were carried out by homologous recombination using suicide vector pKO3 [
+      ] or the lambda red system [
+      ]. Two versions of
+      <italic>
+       iacP
+      </italic>
+      mutant were created: Δ
+      <italic>
+       iacP
+      </italic>
+      , which is deleted from nucleotides 23 to the stop codon and Δ
+      <italic>
+       iacP
+      </italic>
+      <sub>
+       intra
+      </sub>
+      , which is deleted from nucleotides 23 to 150. To create Δ
+      <italic>
+       iacP
+      </italic>
+      , Δ
+      <italic>
+       iacP
+      </italic>
+      <sub>
+       intra
+      </sub>
+      and Δ
+      <italic>
+       sipB
+      </italic>
+      , PCR products were amplified with pairs of primers ebm733/734, ebm733/1437 and ebm899/1012, respectively, using pKD4 as template [
+      ]. PCR products were transformed into
+      <italic>
+       S
+      </italic>
+      . Typhimurium 12023 pKD46, from which lambda red recombinase was expressed. Mutations were transferred to wild-type
+      <italic>
+       S
+      </italic>
+      . Typhimurium 12023 or SL1344 strains using P22 transduction. When desired, the resistance cassette was removed by Flp-catalyzed excision [
+      ]. To introduce a tandem affinity purification (TAP) tag by homologous recombination at the 3’-end chromosomal loci of
+      <italic>
+       acpP
+      </italic>
+      , a PCR product was made using pJL72 as the template and primers ebm805/806 [
+      ].
+     </p>
+    </sec>
+    <sec id="sec013">
+     <title>
+      Tandem affinity purification
+     </title>
+     <p>
+      IacP_TAP, IacP
+      <sub>
+       S38T
+      </sub>
+      _TAP and ACP_TAP were purified using the original TAP procedure [
+      ] adapted to bacteria [
+      ]. Cultures of the corresponding
+      <italic>
+       S
+      </italic>
+      . Typhimurium strains (JV48, JV56 and JV57) were grown in 2YT overnight at 37°C with shaking and used to inoculate 500 ml of LB at dilution 1/100. Cultures were grown 5 h 30 at 37°C with shaking and then cells were pelleted and washed in cold PBS. Tandem affinity purification was then performed as described before [
+      ]. For each strain, independent tandem affinity experiments followed by mass spectrometry analysis were performed at least twice.
+     </p>
+    </sec>
+    <sec id="sec014">
+     <title>
+      Bacterial two-hybrid
+     </title>
+     <p>
+      We used the adenylate cyclase-based two-hybrid technique [
+      ] as described previously [
+      ,
+      ]. The values presented are the mean of 3 independent assays. Error bars indicate the standard deviation.
+     </p>
+    </sec>
+    <sec id="sec015">
+     <title>
+      Stability test
+     </title>
+     <p>
+      SipB harboring a 3Flag tag inserted after amino acid residue 20 [
+      ] was fused to the T25 domain of the adenylate cyclase in pKT25link creating pJV31. Then, the
+      <italic>
+       sicA
+      </italic>
+      gene was cloned in operon with
+      <italic>
+       sipB
+      </italic>
+      in pJV31 to create pJV69. Each of these constructions was transformed in
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      DH5α and the resulting strains were grown in LB 1 mM IPTG until the OD
+      <sub>
+       600
+      </sub>
+      reached 0.6. Then, chloramphenicol was added at 200 μg/ml to stop protein synthesis. One milliliter of culture was removed at the indicated times after addition of chloramphenicol and proteins were precipitated with TCA. The same amount of proteins were loaded on a 10% SDS-PAGE and transferred to nitrocellulose membranes for western blot using a monoclonal anti-flag antibody (anti-flag M2, Sigma-Aldrich).
+     </p>
+    </sec>
+    <sec id="sec016">
+     <title>
+      Protein purification on cobalt beads
+     </title>
+     <p>
+      The series of plasmids allowing production of the 6-histidine tagged versions of SipB (pJV85, pJV86, pJV87, pJV129, pJV131, pJV134, pJV135, pJV136, pJV162, 163) was used to transform
+      <italic>
+       S
+      </italic>
+      . Typhimurium or
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      DH5α. Transformants were grown overnight in LB at 37°C with shaking and used to inoculate 500 ml of LB. Cultures were grown at 35°C with shaking until the OD
+      <sub>
+       600
+      </sub>
+      reached 0.8. Then, anhydrotetracycline 200 ng/ml was added to induce expression of the P
+      <sub>
+       TET
+      </sub>
+      promoter and allow production of the proteins for 6h at 25°C. Cells were pelleted, washed once in PBS and sonicated in buffer 1 (20 mM Tris-HCl pH8, 10 mM imidazole, 200 mM NaCl, 0.2% NP-40 and 0.5 mM PMSF). After centrifugation 30 min at 15 000 g, the cytoplasmic extract was incubated with 500 μl of cobalt beads (Talon) for 1 hour at 4°C. After washes with buffer 1 and buffer 2 (20 mM Tris-HCl pH8, 10 mM imidazole, 1 mM NaCl, 0.2% NP-40), proteins were eluted with buffer 3 (20 mM Tris-HCl pH8, 200 mM imidazole, 200 mM NaCl, 0.2% NP-40).
+     </p>
+     <p>
+      For mass spectrometry analysis, proteins were dialyzed overnight against 20 mM ammonium bicarbonate pH 8.3.
+     </p>
+    </sec>
+    <sec id="sec017">
+     <title>
+      TEV protease cleavage of
+      <sub>
+       6His-
+      </sub>
+      SipB
+      <sub>
+       237TEV
+      </sub>
+     </title>
+     <p>
+      Proteins were dialyzed against rTEV buffer and then cleaved overnight at 16°C with 100 U of rTEV (Gibco). The cleavage products were dialyzed against buffer 1 (20 mM Tris-HCl pH8, 10 mM imidazole, 200 mM NaCl, 0.2% NP-40 and 0.5 mM PMSF) and the 6-histidine tagged N-terminal fragment was separated from the C-terminal fragment on cobalt beads.
+     </p>
+    </sec>
+    <sec id="sec018">
+     <title>
+      Purification of native SipB
+     </title>
+     <p>
+      Purified
+      <sub>
+       6His
+      </sub>
+      SipB was coupled to HiTrap NHS-activated HP column (GE Healthcare) as recommended by the manufacturer. This column was then used for an affinity chromatography to purify antibodies from a laboratory production of serum obtained after immunization of a rabbit with a fragment of SipB corresponding to residues 26 to 336. Then, purified antibodies were coupled to the same sort of column to prepare an immunosorbent of SipB. Native SipB was finally purified from a cytosolic extract made from the pellet of a 500 ml culture of
+      <italic>
+       S
+      </italic>
+      . Typhimurium. Then, SipB was eluted with acidic (100 mM Glycine-HCl pH 2.5) and basic (100 mM triethylamine pH 11.5) elution buffers.
+     </p>
+    </sec>
+    <sec id="sec019">
+     <title>
+      Protein identification by in-gel digestion and mass spectrometry
+     </title>
+     <sec id="sec020">
+      <title>
+       Tryptic digestion
+      </title>
+      <p>
+       1D-bands were cut from gels, put into a 96-well microplate and treated by a liquid handling robotic workstation (freedom EVO 100, TECAN, Switzerland) as previously described [
+       ].
+      </p>
+     </sec>
+     <sec id="sec021">
+      <title>
+       Identification of proteins by Peptide Mass Fingerprint using MALDI-ToF mass spectrometry
+      </title>
+      <p>
+       Matrix-assisted laser desorption ionization time-of-flight (MALDI-ToF) analyses were performed on an UltraFlex II mass spectrometer (Bruker Daltonics, Germany) as previously described [
+       ]. Proteins were identified by using in house Mascot licence with a non-redundant NCBI database restricted to
+       <italic>
+        Salmonella
+       </italic>
+       (114 930 entries). The search parameters were set as followed: Trypsin enzyme, fixed modification of cysteine (carbamidomethylcysteine), optional oxidation of methionine, one missed cleavage and a mass tolerance 50–100 ppm. Proteins were considered as identified if the Mascot score was greater than 60 (
+       <italic>
+        p
+       </italic>
+       &lt;0.05).
+      </p>
+     </sec>
+     <sec id="sec022">
+      <title>
+       Identification of proteins by LC-MSMS using ESI-Ion trap mass spectrometry
+      </title>
+      <p>
+       Digested samples were analyzed by a nano liquid chromatography (Ultimate 3000, Dionex) coupled to an ion trap LCQ-DECA XP mass spectrometer (Thermo Finnigan) mounted with a nano spray ionization source (Thermo Finnigan). To create peak lists, we used Bioworks Browser 3.3. SR1 software (Thermo Electron Corporation) [
+       ].
+      </p>
+      <p>
+       Protein identification was performed by the algorithm SEQUEST (version 28, rev. 12) using the non-redundant NCBI database restricted to
+       <italic>
+        Salmonella enterica
+       </italic>
+       (561 370 entries) or directly the non-redundant NCBI database (13 984 884 entries).
+      </p>
+      <p>
+       Search parameters criteria were set as: two missed cleavage sites allowed, variable methionine oxidation, cysteine carbamidomethylation and no fixed modification, 1.5 amu and 1.0 amu as maximum precursor and fragment ion tolerance. Criteria for positive identification of peptides were assessed by a cross-correlation number (Xcorr) versus charge state, as followed: Xcorr &gt; 1.5 for singly-charged ions, Xcorr &gt; 2.0 for doubly-charged ions and Xcorr &gt; 2.5 for triply-charged ions (DelCn &gt; 0.1 for all charge states). Protein identification was considered when at least 2 unique peptides of rank 1 (corresponding to a protein score value ≥20).
+      </p>
+     </sec>
+    </sec>
+    <sec id="sec023">
+     <title>
+      Mass spectrometry analysis of intact proteins
+     </title>
+     <p>
+      Matrix-assisted laser desorption ionization–time-of-flight (MALDI-TOF) analysis were performed on a Microflex II mass spectrometer (Bruker Daltonics, Germany). Depending on the concentration, samples were used directly or concentrated following the ZipTip C4 Millipore protocol. A saturated solution of sinapinic acid made in acetonitrile-water-trifluoroacetic acid (50:50:0.1) was used as the matrix. Samples were treated according to the dry droplet method; mixtures were allowed to dry at room temperature. Deposits were re-crystallized by the addition of matrix. Data were acquired in a positive linear mode; depending on the mass analyzed, the range was set from 20 to 50 kDa or from 50 to 85 kDa, and pulsed ion extraction was fixed respectively to 350 ns or 500 ns. External mass calibration was done just before the acquisition of the sample using protein calibration standard II (Bruker Daltonics, Germany). Mass spectra were examined in Flex Analysis software, no smoothing or baseline subtraction was applied. For each version of SipB protein (wild-type or variant) and for each condition of production (with or without IacP) independent preparations of purified protein and mass spectrometry analysis were made at least twice.
+     </p>
+    </sec>
+    <sec id="sec024">
+     <title>
+      Radiolabelling of posttranslational acylation
+     </title>
+     <p>
+      C-acetate is a radiolabelled precursor of fatty acids and was used to radiolabel acyl chains. To avoid incorporation of radiolabelled acetate in tricarboxylic acid cycle and to favor its utilization for fatty acid biosynthesis, experiments were performed in a Δ
+      <italic>
+       gltA
+      </italic>
+      genetic background.
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      Δ
+      <italic>
+       gltA
+      </italic>
+      (strain EB1008) was transformed with one of these plasmids: pEB1242, pJV85, pJV86, pJV87, pJV134, pJV135, pJV136. Transformants were grown in M9 media overnight at 37°C with shaking, bacterial culture was diluted to OD
+      <sub>
+       600
+      </sub>
+      0.1 in fresh media and grown to OD
+      <sub>
+       600
+      </sub>
+      0.7. Then,
+      C-acetic acid sodium salt 20 μM (equivalent to 10 μCi) (Perkin Elmer) was added, as well as 200 ng/ml anhydrotetracycline to trigger expression of
+      <italic>
+       sipB
+      </italic>
+      and its partners. After 3 h of induction, cells were washed 3 times with PBS, suspended in 500 μl buffer 1 (see Protein purification on cobalt beads) and broken with 5 freeze-thaw cycles. Cytoplasmic extracts were incubated with 40 μL cobalt beads and
+      <sub>
+       6His-
+      </sub>
+      SipB was purified as previously described (see Protein purification on cobalt beads), except that
+      <sub>
+       6His-
+      </sub>
+      SipB was directly eluted in protein loading buffer.
+     </p>
+     <p>
+      Samples were run on a SDS-PAGE, which was then stained with Coomassie Blue and dried to perform autoradiography. To test the sensitivity of the linkage that tethers the posttranslational modification to SipB, the SDS-PAGE was first fixed and then treated with 1 M Hydroxylamine pH 7 (for specific hydrolysis of thioester bonds) or 1 M Tris-HCl pH 7 (control treatment) for 20 h at room temperature. Gels were then washed, stained with Coomassie blue and dried before performing autoradiography.
+     </p>
+    </sec>
+    <sec id="sec025">
+     <title>
+      Hemolysis assay
+     </title>
+     <p>
+      In previous reports, hemolytic activity on sheep red blood cells (sRBC) was described with the strain
+      <italic>
+       S
+      </italic>
+      . Typhimurium SL1344 [
+      ,
+      ]. Therefore, deletion of
+      <italic>
+       iacP
+      </italic>
+      and
+      <italic>
+       sipB
+      </italic>
+      were transduced from
+      <italic>
+       S
+      </italic>
+      . Typhimurium 12023 to
+      <italic>
+       S
+      </italic>
+      . Typhimurium SL1344 and the SipB
+      <sub>
+       C316A
+      </sub>
+      substitution was created in the
+      <italic>
+       S
+      </italic>
+      . Typhimurium SL1344 genetic background. Hemolysis assays were performed on sRBC (Intershim), as previously described [
+      ,
+      ]. Briefly,
+      <italic>
+       S
+      </italic>
+      . Typhimurium (strains JV112, JV113, JV114, JV123 and JV124) was grown overnight in BHI at 37°C in anaerobic condition (static growth), then the bacterial culture was diluted to 1/50 and cultivated in the same conditions for 2 hours. sRBC were washed in PBS and prepared at 50% in BHI. An equal volume (75 μl) of the 50% sRBC-BHI solution and of the bacterial-BHI solution (1 to 2 x 10
+      cfu/ml) was mixed in 96-well microtiter plates and the plates were centrifuged at 2 000 g for 10 min. Plates were incubated for 4 h at 37°C after what cells were resuspended with 100 μl PBS. Plates were centrifuged 2 000 g for 10 min, supernatants were transferred to new microtiter plates and the release of hemoglobin in the supernatant was measured at OD
+      <sub>
+       542
+      </sub>
+      . Similarly treated but uninfected sRBC were used as a spectrophotometric zero control. For each strain, biological triplicate were made in each assay and independent hemolysis assays were performed at least three times.
+     </p>
+     <p>
+      When indicated, strains were first transformed with the empty pP
+      <sub>
+       TET
+      </sub>
+      plasmid or the corresponding plasmids containing
+      <italic>
+       iacP
+      </italic>
+      or
+      <italic>
+       iacP
+      </italic>
+      <sub>
+       <italic>
+        S38T
+       </italic>
+      </sub>
+      (i.e. pEB1242, pJV102 and pJV152, respectively). Expression from P
+      <sub>
+       TET
+      </sub>
+      was triggered by the addition of 5 ng/ml anhydrotetracycline into media during bacterial growth and during infection.
+     </p>
+    </sec>
+    <sec id="sec026">
+     <title>
+      Red blood cell membrane isolation
+     </title>
+     <p>
+      Bacteria and sRBC were prepared as described above and hemolysis performed using a similar protocol except on a larger scale (80 times). sRBC membranes were isolated by sucrose density gradient as described by Blocker et al. [
+      ]. Briefly, after hemolysis, sRBC were lysed with H
+      <sub>
+       2
+      </sub>
+      O and vortexed (from this moment protease inhibitors were added in all solutions). Bacteria were eliminated by centrifugation (5 min, 4 000 g, 4°C). The supernatant was collected and mixed with 1 ml TBS and 18.8 ml 70% sucrose in TBS. The mixtures were deposited in centrifuge tubes and overlayed with 5.4 ml 44% sucrose in TBS and 25% sucrose in TBS to a final volume of 36 ml. Gradients were centrifuged at 15 000 g for 16 h at 4°C. sRBC membranes were collected at the 44/25% sucrose interface, diluted to 30 ml with TBS and concentrated by centrifugation (1 h 30, 100 000 g, 4°C). Then, the pellet was resuspended in a minimal volume of TBS, concentration of the protein samples were measured and an equivalent amount was loaded on SDS-PAGE. SipB was detected by western blotting.
+     </p>
+    </sec>
+    <sec id="sec027">
+     <title>
+      Detection of SipB by western blot
+     </title>
+     <p>
+      Detection of SipB in
+      <italic>
+       S
+      </italic>
+      . Typhimurium bacterial crude extracts or in isolated sRBC membranes was performed by western blot using an antibody directed against the 26–336 fragment of SipB (laboratory production).
+     </p>
+    </sec>
+    <sec id="sec028">
+     <title>
+      Invasion assay
+     </title>
+     <p>
+      HeLa cells were cultivated in DMEM
+      <underline>
+       s
+      </underline>
+      upplemented with fetal bovine serum and glutamine (DMEM
+      <underline>
+       s
+      </underline>
+      ). HeLa cells (0.5 x 10
+      cells/ ml) were seeded on 6-well plates. Bacteria (strains JV112, JV113, JV114, JV123 and JV124) were grown overnight in LB and sub-cultured 1/25 in LB supplemented with 0.3 M NaCl at 37°C with shaking until OD
+      <sub>
+       600
+      </sub>
+      ≈ 1. A bacterial solution (T0 solution) was made in DMEM in order to infect cells at a multiplicity of infection of 25 and kept in ice before infection, then 2 ml of the T0 solution was distributed per well. Plates were centrifuged 5 min at 1 000 rpm at 4°C and subsequently incubated 2 min at 37°C. Then, cells were washed three times with DPBS and incubated one hour at 37°C in DMEMs containing 100 μg/ ml gentamicin to kill extracellular bacteria. Cells were washed with DPBS and lysed 10 min with PBS 0.1% Triton to release intracellular bacteria (T1 solution). Serial dilutions of bacterial solutions T0 and T1 were plated on LB plates in order to calculate the ratio T1/T0, which gave the absolute invasion capacity value. This value was then expressed in percentage of the wild-type invasion capacity. The assay was performed in triplicate for each strain and repeated the indicated amount of times.
+     </p>
+    </sec>
+    <sec id="sec029">
+     <title>
+      Competitive index in mice
+     </title>
+     <p>
+      Bacteria were grown in LB until OD
+      <sub>
+       600
+      </sub>
+      ≈ 0.5. Seven week-old female C57/B6 mice were inoculated intragastrically with equal amounts of wild-type and mutant strains for a total of 10
+      bacteria. The spleens were harvested 5 days after inoculation and homogenized. Bacteria were recovered after plating a dilution series onto LB agar. One hundred clones, from the input (initial inoculum) and the output (bacteria recovered from the mouse after infection), were patched on LB agar with the appropriate antibiotic to estimate the number of wild-type antibiotic sensitive and mutant antibiotic resistant bacteria. Competitive indexes (CI) were determined for each mouse, and five mice per mix were inoculated. The CI is defined as the ratio between the mutant and wild-type strains at output divided by their ratios at input.
+     </p>
+    </sec>
+    <sec id="sec030">
+     <title>
+      Ethics statement
+     </title>
+     <p>
+      Animal experimentation was conducted in strict accordance with good animal practice as defined by the French animal welfare bodies (Law 87–848 dated 19 October 1987 modified by Decree 2001–464 and Decree 2001–131 relative to European Convention, EEC Directive 86/609). All animal work was approved by the Direction Départementale des Services Vétérinaires des Bouches du Rhône (authorization number 13.118 to S.M., Application number AR 1A09382857717).
+     </p>
+    </sec>
+    <sec id="sec031">
+     <title>
+      Selection of SipB-homologs for multiple sequence alignment and phylogenomic analyses
+     </title>
+     <p>
+      For the dataset construction, SipB homologs were retrieved from the complete genomes available at the NCBI on August, 2015 (
+      <ext-link ext-link-type="uri" ns0:href="http://www.ncbi.nlm.nih.gov/genome/">
+       http://www.ncbi.nlm.nih.gov/genome/
+      </ext-link>
+      ) using Blastp with default parameters [
+      ]. A set of non-redundant SipB-homologs was selected and aligned using MAFFT v7.045b [
+      ]. The alignment was then visually inspected and, if necessary, manually refined using ED program from the MUST package [
+      ].
+     </p>
+     <p>
+      For each homolog the genomic contexts were studied using the interactive web-based visualization tool Microbial Genomic Context Viewer (MGcV) [
+      ].
+     </p>
+     <p>
+      Bayesian analyses were performed using MrBayes version 3.2.2 with a mixed model of amino acid substitution including a gamma distribution (4 discrete categories) and an estimated proportion of invariant sites. MrBayes was run with four chains for 1 million generations and trees were sampled every 100 generations. To construct the consensus tree, the first 2000 trees were discarded as “burn in” [
+      ].
+     </p>
+     <p>
+      Maximum likelihood analyses were run using PHYML version 3.1 with the Le and Gascuel (LG) model (amino acid frequencies estimated from the dataset) and a gamma distribution (4 discrete categories of sites and an estimated alpha parameter) to take into account evolutionary rate variations across sites. The robustness of each branch was estimated by the non-parametric bootstrap procedure implemented in PhyML (100 replicates of the original dataset with the same parameters).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec032" sec-type="supplementary-material">
+    <title>
+     Supporting Information
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

@@ -1,0 +1,18 @@
+Requirements:
+- Data preparation:
+    - String:
+        string_mapping.tsv
+        predicted_as_positive.tsv
+        string_unique_interactions.tsv
+    - HINT:
+        hint_unique_interactions.txt
+    - PredPrin:
+        predicted_as_positive.tsv
+        final_score.npy
+        dataset_ppi.txt (number of columns must be the same number of evidence listed in the evidence json file)
+        
+- Triplification with protein annotation:
+    - new_info_proteins_false.txt
+    - new_info_proteins_positive.txt
+    - Both files containing the following columns (separated by tabulation): protein id in uniprot, GO cellular component ids (separated by space), GO molecular function ids (separated by space), GO biological process ids (separated by space), KEGG orthology id, pfam family ids (separated by space).
+        - Example: P46779	GO:0005829 GO:0044297 GO:0030425 GO:0036464 GO:0070062 GO:0016020 GO:0022625	GO:0003723 GO:0003735	GO:0019083 GO:0006614 GO:0000184 GO:0006413 GO:0006412	K02903	PF01778

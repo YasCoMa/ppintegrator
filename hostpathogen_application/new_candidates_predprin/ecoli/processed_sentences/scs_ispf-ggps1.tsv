@@ -1,0 +1,2 @@
+id_pmc	sentence location	highlighted phrase	interacting verbs	number of interacting verbs	experimental methods found	number of experimental methods	protein entities found	number of protein entities
+5601412	body	leaf development upregulated some genes of the non - mva pathway ( cla1 , ispf , csb3 ) , it repressed other genes such as a zinc ion binding , a ggps1 , some 2 - dehydro - 3 - deoxyphosphoheptonate aldolases and a shikimate synthase ( table ) .	bind	1		0	ispf|ggps1|-|mva|cla1|csb3|3|deoxyphosphoheptonate|aldolases|shikimate|synthase	11

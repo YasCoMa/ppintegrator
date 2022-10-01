@@ -1,0 +1,1728 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  None
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    Aeromonas salmonicida
+   </italic>
+   subsp.
+   <italic>
+    salmonicida
+   </italic>
+   is an important pathogen in salmonid aquaculture and is responsible for the typical furunculosis. The type-three secretion system (T3SS) is a major virulence system. In this work, we review structure and function of this highly sophisticated nanosyringe in
+   <italic>
+    A. salmonicida
+   </italic>
+   . Based on the literature as well as personal experimental observations, we document the genetic (re)organization, expression regulation, anatomy, putative functional origin and roles in the infectious process of this T3SS. We propose a model of pathogenesis where
+   <italic>
+    A. salmonicida
+   </italic>
+   induces a temporary immunosuppression state in fish in order to acquire free access to host tissues. Finally, we highlight putative important therapeutic and vaccine strategies to prevent furunculosis of salmonid fish.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec sec-type="intro">
+    <title>
+     Introduction
+    </title>
+    <p>
+     The disease furunculosis caused by
+     <italic>
+      Aeromonas salmonicida
+     </italic>
+     subsp.
+     <italic>
+      salmonicida
+     </italic>
+     (hereafter referred to as
+     <italic>
+      A. salmonicida
+     </italic>
+     ) continues to be a major health problem for the growing salmonid aquaculture worldwide. The disease, known for over a century, results in significant economic losses and promotes the intensive use of antibiotics. In spite of effective commercialized oil-adjuvanted vaccines containing
+     <italic>
+      A. salmonicida
+     </italic>
+     bacterins, frequent outbreaks persist at fish farms. Different virulence factors of
+     <italic>
+      A. salmonicida
+     </italic>
+     have been described but they failed to explain the virulence phenotype of the pathogen (Ellis
+     <italic>
+      et al
+     </italic>
+     .,     ; Vipond
+     <italic>
+      et al
+     </italic>
+     .,     ). Ten years ago, our laboratory published the first descriptions of the type-three secretion system (T3SS) in the genus
+     <italic>
+      Aeromonas
+     </italic>
+     and demonstrated its role as a main virulence secretion system of
+     <italic>
+      A. salmonicida
+     </italic>
+     (Burr
+     <italic>
+      et al
+     </italic>
+     .,     ;     ; Stuber
+     <italic>
+      et al
+     </italic>
+     .,     ). Here, we provide the first review on this highly sophisticated nanosyringe and its putative role in a model of pathogenesis for typical furunculosis.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Genetic organization of the
+     <italic>
+      A. salmonicida
+     </italic>
+     T3SS
+    </title>
+    <p>
+     The structural components of
+     <italic>
+      A. salmonicida
+     </italic>
+     T3SS are encoded on a large conjugative plasmid of 140–155 kb (Stuber
+     <italic>
+      et al
+     </italic>
+     .,     ; Reith
+     <italic>
+      et al
+     </italic>
+     .,     ) by numerous genes arranged in five predicted polycistronic operons (
+     <italic>
+      exsADascBCDEFGHIJKL
+     </italic>
+     ,
+     <italic>
+      exsCEB
+     </italic>
+     ,
+     <italic>
+      aopNacr12ascXYVacrRGVHaopBD
+     </italic>
+     ,
+     <italic>
+      ascNOPQRSTU
+     </italic>
+     and
+     <italic>
+      aopXsycX
+     </italic>
+     ) (Fig.     ). The plasmid pASA5 of 155 kb has been entirely sequenced in the reference strain
+     <italic>
+      A. salmonicida
+     </italic>
+     A449. The structural genes are flanked on both sides by genes encoding for T3SS effectors and their chaperones (
+     <italic>
+      ati1ati2
+     </italic>
+     ,
+     <italic>
+      aopHsycH
+     </italic>
+     ,
+     <italic>
+      aopOsycO
+     </italic>
+     and putatively
+     <italic>
+      asa_P5G088
+     </italic>
+     ) interspaced by various kinds of insertion elements (IS
+     <italic>
+      256
+     </italic>
+     , IS
+     <italic>
+      630
+     </italic>
+     , IS
+     <italic>
+      116
+     </italic>
+     ) (Fig.     ) (Reith
+     <italic>
+      et al
+     </italic>
+     .,     ). The role of these insertion elements (ISs) in the genetic rearrangements of the T3SS loci is crucial. For example, T3SS cluster and other part of the pASA5 plasmid are lost when
+     <italic>
+      A. salmonicida
+     </italic>
+     is cultivated in stressful conditions, and it has been demonstrated that this deletion process is due to the homologous recombination between IS
+     <italic>
+      256
+     </italic>
+     copies which are present at the extremities of the T3SS cluster (Daher
+     <italic>
+      et al
+     </italic>
+     .,     ; Tanaka
+     <italic>
+      et al
+     </italic>
+     .,     ;     ) (Fig.     ). More complex rearrangements involving other ISs are also suspected. IS
+     <italic>
+      630
+     </italic>
+     copies might also play a role in the genetic organization of the injectisome because they are frequently associated with T3SS loci in
+     <italic>
+      A. salmonicida
+     </italic>
+     (Studer
+     <italic>
+      et al
+     </italic>
+     .,     ) (Fig.     ) but also in other pathogenic bacteria using such secretion systems (Haneda
+     <italic>
+      et al
+     </italic>
+     .,     ; Correa
+     <italic>
+      et al
+     </italic>
+     .,     ; Stavrinides
+     <italic>
+      et al
+     </italic>
+     .,     ). The cluster of T3SS genes can also be integrated in the chromosome of some strains of certain species of
+     <italic>
+      Aeromonas
+     </italic>
+     . Such an insertion is observed in
+     <italic>
+      A. hydrophila
+     </italic>
+     strain SSU,
+     <italic>
+      A. veronii
+     </italic>
+     strain AER39 and
+     <italic>
+      A. diversa
+     </italic>
+     2478–85 (Fig.     , Table     ). The
+     <italic>
+      A. diversa
+     </italic>
+     2478–85 strain is currently the only
+     <italic>
+      Aeromonas
+     </italic>
+     strain showing a second T3SS-2 similar to the one of
+     <italic>
+      Edwardsiella tarda
+     </italic>
+     (Wang
+     <italic>
+      et al
+     </italic>
+     .,     ), directly adjacent to the T3SS shared by several
+     <italic>
+      Aeromonas
+     </italic>
+     species (Fig.     , Table     ) and associated to other T3SS virulence effectors such as ExoU described in
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     (Shaver and Hauser,     ) (Fig.     , Table     ). This observation demonstrates that T3SS gene clusters from other bacterial genera can be integrated in the
+     <italic>
+      Aeromonas
+     </italic>
+     genome.
+    </p>
+    <p>
+     The
+     <italic>
+      aopH
+     </italic>
+     gene has also been shown to be encoded together with its chaperone on pASA6, a smaller plasmid of 18.5 kb, which has a high identity with parts of pASA5 suggesting that pASA6 is a derivative of this latter plasmid. The effector gene
+     <italic>
+      aopP
+     </italic>
+     has been detected on pAsal1, a small plasmid of 6.4 kb (Fig.     ) which shows some identity with pASA3 (
+     <italic>
+      aopP
+     </italic>
+     negative), another small plasmids. The pAsal1 plasmid seems also to be sensitive to stressful growth conditions (Tanaka
+     <italic>
+      et al
+     </italic>
+     .,     ). Another large conjugative plasmid of 167 kb is pASA4 which is homologous to plasmid pRA1 and pRA3 of
+     <italic>
+      A. hydrophila
+     </italic>
+     and contains genes associated with resistance to antibiotics and numerous undetermined coding sequences but no known coding sequence for T3SS elements. The genes of the adenosin diphosphate (ADP) ribosylating toxin AexT and AopS (ASA_0010, homologous to VopS of
+     <italic>
+      Vibrio parahaemolyticus
+     </italic>
+     ), both T3SS effectors, and their chaperones are to date the only ones detected on the chromosome of
+     <italic>
+      A. salmonicida
+     </italic>
+     A449 (Fig.     ). It has, however, to be noted that
+     <italic>
+      aopS
+     </italic>
+     is predicted to be a pseudogene because of an in-frame stop codon (Reith
+     <italic>
+      et al
+     </italic>
+     .,     ). An intact copy of
+     <italic>
+      aopS
+     </italic>
+     and the gene for its chaperone are present at the same position in the chromosome of
+     <italic>
+      A. salmonicida
+     </italic>
+     subsp.
+     <italic>
+      achromogenes
+     </italic>
+     strain AS03 (Table     ). The prevalence of intact
+     <italic>
+      aopS
+     </italic>
+     in other
+     <italic>
+      A. salmonicida
+     </italic>
+     strains is not known. Interestingly, among the different published genomes of
+     <italic>
+      Aeromonas
+     </italic>
+     sp. published,
+     <italic>
+      aexT
+     </italic>
+     and its chaperone (
+     <italic>
+      sycE
+     </italic>
+     ) are always localized on the same genomic island present between
+     <italic>
+      glyS
+     </italic>
+     (
+     <italic>
+      asa_4261
+     </italic>
+     ) and the transcriptional regulator
+     <italic>
+      asa_4278
+     </italic>
+     (Table     ) which shows variability between strains from different
+     <italic>
+      Aeromonas
+     </italic>
+     species.
+     <italic>
+      Aeromonas salmonicida
+     </italic>
+     A449 and 01-B526,
+     <italic>
+      A. hydrophila
+     </italic>
+     SSU and
+     <italic>
+      A. veronii
+     </italic>
+     AER39 detain the
+     <italic>
+      aexTsycE
+     </italic>
+     cluster at this position whereas
+     <italic>
+      A. hydrophila
+     </italic>
+     ATCC7966;
+     <italic>
+      A. caviae
+     </italic>
+     Ae398;
+     <italic>
+      A. veronii
+     </italic>
+     B565, AMC34, AMC35 and AER397; and
+     <italic>
+      A. aquariorum
+     </italic>
+     AAK1 do not contain these loci (Table     ). The presence of
+     <italic>
+      aexTsycE
+     </italic>
+     at the same position in the genome of different
+     <italic>
+      Aeromonas
+     </italic>
+     species likely suggests that they would be inherited from an ancestor and lost in some strains or that they are integrated by a process specifically targeting this site.
+    </p>
+    <p>
+     Therefore, while the entire genetic pattern of
+     <italic>
+      A. salmonicida
+     </italic>
+     subsp.
+     <italic>
+      salmonicida
+     </italic>
+     strains is well conserved worldwide and over time (Studer
+     <italic>
+      et al
+     </italic>
+     .,     ), the cloud of virulence genes associated with the T3SS is constantly submitted to local genetic deletions in specific constraints and genetic additions through the exchanges by horizontal transfer of genes with other environmental bacteria (Burr and Frey,     ). These processes of gene deletions might be one of the reasons for the progressive loss of virulence observed with
+     <italic>
+      A. salmonicida
+     </italic>
+     laboratory strains that are intensively cultivated under conditions that, without the selection pressure they are subjected to in the host, are unsuitable to preserve virulence. A typical example is the type strain of
+     <italic>
+      A. salmonicida
+     </italic>
+     ATCC 33658T that has lost all T3SS structural genes and is non-virulent (Burr and Frey,     ). These genetic rearrangements highlight why it is a real challenge to work with
+     <italic>
+      A. salmonicida
+     </italic>
+     to obtain relevant data on the pathogenesis. Unless strict conditions of culture are respected, it is possible for genetic modifications to occur in the time-lapse between the isolation of the bacterium and its use for genetic characterization (molecular epidemiology) and molecular manipulations (site-directed mutagenesis). Furthermore, molecular epidemiologic studies are of concern as they take into account the presence or absence of only few T3SS genes to draw conclusions on the virulence of
+     <italic>
+      A. salmonicida
+     </italic>
+     strains. Because of the numerous mutations and genetic rearrangements affecting the
+     <italic>
+      A. salmonicida
+     </italic>
+     T3SS, epidemiological studies should include the analysis of the integrity of several genes for T3SS structural components (at least
+     <italic>
+      ascV
+     </italic>
+     and
+     <italic>
+      ascC
+     </italic>
+     ) and the genes of the main effectors (
+     <italic>
+      aopH
+     </italic>
+     ,
+     <italic>
+      aexT
+     </italic>
+     ,
+     <italic>
+      ati2
+     </italic>
+     ,
+     <italic>
+      aopO
+     </italic>
+     ,
+     <italic>
+      aopP
+     </italic>
+     and
+     <italic>
+      aopS
+     </italic>
+     ) (Burr and Frey,     ; Daher
+     <italic>
+      et al
+     </italic>
+     .,     ) in order to draw conclusions regarding the presence of an intact T3SS with functional effectors.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Regulation of the
+     <italic>
+      A. salmonicida
+     </italic>
+     T3SS expression
+    </title>
+    <p>
+     The transcription of the T3SS genes are induced under Ca     -limiting conditions (Burr
+     <italic>
+      et al
+     </italic>
+     .,     ) and during the contact of
+     <italic>
+      A. salmonicida
+     </italic>
+     with the host cell (Braun
+     <italic>
+      et al
+     </italic>
+     .,     ). The transcription of the
+     <italic>
+      A. salmonicida
+     </italic>
+     T3SS genes is predicted to be controlled by a regulatory pathway similar to that observed for the T3SS of
+     <italic>
+      P. aeruginosa
+     </italic>
+     (Brutinel and Yahr,     ; Brutinel
+     <italic>
+      et al
+     </italic>
+     .,     ). The mechanism involves four interacting regulatory proteins (ExsA, ExsD, ExsC and ExsE) (Fig.     ). ExsA is a positive activator of T3SS transcription, whereas ExsD is an anti-activator that forms a 1:1 complex with ExsA. Under non-permissive conditions for T3SS gene expression, ExsA-dependent transcription is expected to be inhibited by the formation of inhibitory ExsD-ExsA (1:1) and ExsC-ExsE (2:1) complexes. Permissive conditions would activate the T3SS secretory activity and induce the secretion and translocation of ExsE. The decrease of intracellular concentration of ExsE seems to promote the formation of ExsD-ExsC (2:2) complexes inducing the release of ExsA and the activation of T3SS gene expression. In
+     <italic>
+      V. parahaemolyticus
+     </italic>
+     , a histone-like protein (H-NS) represses T3SS gene expression by suppressing
+     <italic>
+      exsA
+     </italic>
+     gene expression (Kodama
+     <italic>
+      et al
+     </italic>
+     .,     ). This second level of transcriptional control is assumed in
+     <italic>
+      A. salmonicida
+     </italic>
+     given that several H-NS homologues are present in the chromosome and the pASA5 plasmid (ASA_P5G002 and ASA_P5G018). Another level of
+     <italic>
+      A. salmonicida
+     </italic>
+     T3SS expression control is performed by the quorum sensing (QS) pathways encoded at least by the genes
+     <italic>
+      asaIR
+     </italic>
+     and
+     <italic>
+      luxS
+     </italic>
+     ,
+     <italic>
+      luxU
+     </italic>
+     ,
+     <italic>
+      luxO
+     </italic>
+     (Reith
+     <italic>
+      et al
+     </italic>
+     .,     ) which produce high homoserinelactone (HSL) concentration in the extracellular medium at high cell density (Swift
+     <italic>
+      et al
+     </italic>
+     .,     ). Like for
+     <italic>
+      Vibrio
+     </italic>
+     , in growing bacterial cultures, AsaR is activated by the binding of HSL and could directly repress the expression of
+     <italic>
+      exsA
+     </italic>
+     and subsequently the expression of the T3SS (Waters
+     <italic>
+      et al
+     </italic>
+     .,     ). However, expression of
+     <italic>
+      A. salmonicida
+     </italic>
+     proteases and lipases is QS-induced at high cell density and is important to induce the virulence (Rasch
+     <italic>
+      et al
+     </italic>
+     .,     ; Schwenteit
+     <italic>
+      et al
+     </italic>
+     .,     ). These assumptions are supported by our proteomic analysis of the wild-type (wt) JF5054 strain of
+     <italic>
+      A. salmonicida
+     </italic>
+     (virulent reference strain) showing that the amount of T3SS decreases significantly from the exponential to the stationary phase of growth whereas the expression of some enzymes (proteases, lipases, chitinases, etc) increases. These observations also highlight that the T3SS activation state in the bacterial culture is a critical point to take into account for the preparation of the inoculum for experimental challenges with
+     <italic>
+      A. salmonicida
+     </italic>
+     besides the genetic variations and losses of virulence attributes. Bacterial preparations from late phases of growth with a downregulated T3SS appear to be associated with low mortality despite the genotypic presence of all the T3SS genes.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Morphology of the
+     <italic>
+      A. salmonicida
+     </italic>
+     T3SS
+    </title>
+    <p>
+     Currently, no structural studies have specifically been carried out on the T3SS of
+     <italic>
+      A. salmonicida
+     </italic>
+     but this secretion apparatus shows conservation with the well-described T3SS of
+     <italic>
+      Yersinia
+     </italic>
+     and
+     <italic>
+      Salmonella
+     </italic>
+     (Table     ). Hence, the following information about the morphology and the functioning of the
+     <italic>
+      A. salmonicida
+     </italic>
+     T3SS is inferred from structural homologues reviewed in reference articles (Hodgkinson
+     <italic>
+      et al
+     </italic>
+     .,     ; Diepold
+     <italic>
+      et al
+     </italic>
+     .,     ;     ; Abrusci
+     <italic>
+      et al
+     </italic>
+     .,     ; Dewoody
+     <italic>
+      et al
+     </italic>
+     .,     ). Proteins orthologue to all of the
+     <italic>
+      A. salmonicida
+     </italic>
+     T3SS components are detailed in Table     . The T3SS structural proteins of
+     <italic>
+      Photorhabdus luminescens
+     </italic>
+     ,
+     <italic>
+      Yersinia pestis
+     </italic>
+     ,
+     <italic>
+      V. parahaemolyticus
+     </italic>
+     ,
+     <italic>
+      P. aeruginosa
+     </italic>
+     and
+     <italic>
+      Photobacterium damselae
+     </italic>
+     present the highest conservation with the
+     <italic>
+      Aeromonas
+     </italic>
+     T3SS and constitute the ‘Ysc’ family of T3SS (Barret
+     <italic>
+      et al
+     </italic>
+     .,     ) (Fig.     ). The T3SS is a highly sophisticated nanosyringe that is mainly composed of Asc (
+     <italic>
+      Aeromonas
+     </italic>
+     secretion) proteins, the building blocks of the injectisome, and Aops (
+     <italic>
+      Aeromonas
+     </italic>
+     outer proteins) which are released outside of the bacterium (Fig.     ). Interestingly, the degree of conservation of T3SS subunits between these bacteria is the highest for the membrane components and the lowest for the translocation complex suggesting that a more important evolution of the external parts of the T3SS may be related to host adaptation (Fig.     ). Some of the T3SS effectors are present in multiple genera with a low similarity while others (for example Ati2) are shared by some genera with a high similarity suggesting a recent horizontal gene transfer (Fig.     and Fig.     ).
+    </p>
+    <p>
+     The base of the T3SS (Fig.     ) consists of a series of rings which spans the bacterial membranes and the periplasmic space (AscD and AscJ form inner membrane rings and AscC constitutes the outer membrane ring). At the centre of the inner membrane rings, a socket/cup domain (AscR, AscS, AscT, AscU and AscV) is present and is the technical platform for the secretion of T3SS components. Numerous cytoplasmic components (AscK, AscL and AscQ) are recruited to this site to orchestrate an active and orderly secretion of various T3SS substrates by an ATPase (AscN). Inside the outer membrane ring, an inner rod (AscI) connects the socket/cup to the distal part of the needle. The needle (AscF) and its tip (AcrV) make the bridge between the bacterium and the host cell, and connect the translocon (AopB/AopD) which is inserted into the host cell membrane and activates the translocation of T3SS effectors into the eukaryotic cytosol according to the ‘one-step’ model of secretion (Perrett and Zhou,     ) (Fig.     ).
+    </p>
+    <p>
+     Using hybrid T3SS in
+     <italic>
+      Y. enterocolitica
+     </italic>
+     by exchanging the gene
+     <italic>
+      lcrV
+     </italic>
+     encoding the
+     <italic>
+      Yersinia
+     </italic>
+     T3SS tip structure with
+     <italic>
+      acrV
+     </italic>
+     , the analogous gene of
+     <italic>
+      A. salmonicida
+     </italic>
+     , Broz and colleagues (     ) proved the functionality of AcrV as T3SS tip structure representing the base protein of the tip. In that experiment, tip complexes formed by AcrV were larger and were diverse in shape. Using hybrid LcrV/AcrV tip structures, the authors concluded that the N-terminal domain of LcrV and AcrV form the base of the tip complex while the central globular domains of the proteins form the head of the tips.
+    </p>
+    <p>
+     Beside these structural elements and the effectors, the T3SS possesses numerous regulatory proteins which play different roles (Fig.     ). Chaperones stabilize T3SS proteins in the bacterial cytosol and deliver them to the ATPase AscN for the active secretion (AcrH for AopB/AopD, AcrG for AcrV, AscG/AscE/AcrR for AscF, AscW for AscC and SycE/SycH/Ati1/SycO/SycS for associated effectors). Other regulatory proteins control the polymerization (AscH) and the length (AscP) of the needle, the opening of the conduit upon host cell contact (the calcium-block complex AopN/Acr1/AscB/Acr2) and the specificity of the secretion (AscX and AscY).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     The T3SS is the main virulence system of
+     <italic>
+      A. salmonicida
+     </italic>
+    </title>
+    <p>
+     To date, several virulence factors have been characterized for
+     <italic>
+      A
+     </italic>
+     .
+     <italic>
+      salmonicida
+     </italic>
+     but the T3SS is currently the only one recognized as having a major effect on virulence. This was shown by independent studies with isogenic mutant strains for T3SS structural proteins which proved to be non-virulent both
+     <italic>
+      in vitro
+     </italic>
+     and
+     <italic>
+      in vivo
+     </italic>
+     (Burr
+     <italic>
+      et al
+     </italic>
+     .,     ;     ;     ; Dacanay
+     <italic>
+      et al
+     </italic>
+     .,     ; Froquet
+     <italic>
+      et al
+     </italic>
+     .,     ; Daher
+     <italic>
+      et al
+     </italic>
+     .,     ). These results are exemplified by current results showing that the intraperitoneal (i.p.) injection of 500 cfu per fish of the fully virulent wt JF5054 strain (the JF2267 strain which was freshly reisolated from an experimentally infected dead fish) induces 70–80% of mortality whereas the isogenic T3SS-deficient mutant derivative (JF2747) deleted for
+     <italic>
+      ascV
+     </italic>
+     (protein of the socket/cup in the inner membrane) is considered to have extremely low virulence because i.p. injection of 10     cfu/fish induced no mortality (Burr
+     <italic>
+      et al
+     </italic>
+     .,     ). Furthermore, 10     cfu/fish (200 000 times more than the inoculation with the wt strain), a drastic dose that does not reflect a natural infection, merely induced a weak mortality of only 20% (this work).
+    </p>
+    <p>
+     This phenotypic difference between the wt and the
+     <italic>
+      ΔascV
+     </italic>
+     mutant strains led us to compare the exoproteome of these bacteria by high-throughput proteomics (P. Vanden Bergh, unpublished) and established the full repertoire of
+     <italic>
+      in vitro
+     </italic>
+     T3SS effectors that are excreted in the supernatant (SN) by the wt strain of
+     <italic>
+      A. salmonicida
+     </italic>
+     . The other virulence factors described that are not part of the T3SS secretome (VapA, AerA, AerB, GCAT, Pla1, PlaC, TagA, Ahe2, GbpA and enolase) are expressed to a higher extent in the avirulent
+     <italic>
+      ΔascV
+     </italic>
+     mutant than in the wt strain and hence seem to play a secondary role in the pathogenesis.
+    </p>
+    <p>
+     The T3SS arsenal of
+     <italic>
+      A. salmonicida
+     </italic>
+     is mainly composed by AexT, AopH, Ati2, AopP, AopO, AopN and ExsE. AopS and AopX were not identified in our analysis but are potential T3SS effectors that could be expressed by
+     <italic>
+      A. salmonicida
+     </italic>
+     strains possessing functional copy of their genes. The occurrence of deletions in the gene of
+     <italic>
+      aopS
+     </italic>
+     and
+     <italic>
+      aopX
+     </italic>
+     effector genes suggests that
+     <italic>
+      A. salmonicida
+     </italic>
+     undergoes a pressure of selection to lose their function. Only the effect of AexT, AopP and Ati2 has been characterized in the cytotoxicity induced by
+     <italic>
+      A. salmonicida
+     </italic>
+     (Fig.     ). However, the other effectors show similarity with T3SS effectors studied in other pathogenic bacteria (Dean,     ) and their function can thus be predicted (Fig.     ).
+    </p>
+    <p>
+     The bifunctional toxin
+     <bold>
+      AexT
+     </bold>
+     possesses a GTPase-activating domain acting on small monomeric GTPases of the Rho family (Rho, Rac and Cdc42) and an ADP-ribosylating domain, which ADP-ribosylates both muscular and non-muscular actin (Braun
+     <italic>
+      et al
+     </italic>
+     .,     ; Burr
+     <italic>
+      et al
+     </italic>
+     .,     ; Fehr
+     <italic>
+      et al
+     </italic>
+     .,     ). Both enzymatic domains play an independent role in the actin depolymerization and cell rounding (Fehr
+     <italic>
+      et al
+     </italic>
+     .,     ).
+    </p>
+    <p>
+     <bold>
+      AopH
+     </bold>
+     is similar to
+     <italic>
+      Yersinia
+     </italic>
+     phosphotyrosine phosphatase YopH which dephosphorylates tyrosine residues of protein in focal adhesion complexes at the cellular membrane resulting in loss of focal adhesion complex, alteration of the actin cytoskeleton and blocking of phagocytosis (Cornelis,     ; Broberg and Orth,     ). In
+     <italic>
+      Yersinia
+     </italic>
+     , this effector inhibits also the lymphocyte proliferation and the synthesis of monocyte chemotactic protein 1 (Cornelis,     ).
+    </p>
+    <p>
+     <bold>
+      Ati2
+     </bold>
+     is a phosphatidylinositol (PtIns) phosphatase that hydrolyses the D5 phosphate from PtIns(4,5)P
+     <sub>
+      2
+     </sub>
+     and PtIns(3,4,5)P
+     <sub>
+      3
+     </sub>
+     (Dallaire-Dufresne
+     <italic>
+      et al
+     </italic>
+     .,     ). This effector is homologous to VPA0450 of
+     <italic>
+      Vibrio parahaemolyticus
+     </italic>
+     which induces the local detachment of the actin-binding proteins from the plasma membrane, causes membrane blebbing and accelerates cytolysis by removing PtIns(4,5)P
+     <sub>
+      2
+     </sub>
+     (Broberg
+     <italic>
+      et al
+     </italic>
+     .,     ).
+    </p>
+    <p>
+     <bold>
+      AopP
+     </bold>
+     inhibits the NF-
+     <italic>
+      κ
+     </italic>
+     B signalling pathway by preventing the translocation of the p50/p65 protein complex (NFKB1/RelA) into the nucleus of target cells (Fehr
+     <italic>
+      et al
+     </italic>
+     .,     ). AopP inhibits I
+     <italic>
+      κ
+     </italic>
+     B kinase
+     <italic>
+      β
+     </italic>
+     (IKK
+     <italic>
+      β
+     </italic>
+     ) phosphorylation and attenuates I
+     <italic>
+      κ
+     </italic>
+     B
+     <italic>
+      α
+     </italic>
+     phosphorylation showing that AopP-mediated inhibition of NF-
+     <italic>
+      κ
+     </italic>
+     B occurs upstream of I-
+     <italic>
+      κ
+     </italic>
+     B phosphorylation. This NF-
+     <italic>
+      κ
+     </italic>
+     B pathway inhibition is highly proapoptotic upon concurrent tumor necrosis factor-α cellular stimulation (Jones
+     <italic>
+      et al
+     </italic>
+     .,     ). Apoptosis would be induced in part by the subsequent inhibition of the expression of anti-apoptotic factors (IAP) (Jones
+     <italic>
+      et al
+     </italic>
+     .,     ). AopP activity is unable to inhibit mitogen-activated protein kinase pathways (such as ERK, p38 and JNK) contrary to its orthologues YopJ, VopA and AvrA (Jones
+     <italic>
+      et al
+     </italic>
+     .,     ).
+    </p>
+    <p>
+     <bold>
+      AopO
+     </bold>
+     is related to the
+     <italic>
+      Yersinia
+     </italic>
+     YopO/YpkA, a serine/threonine kinase that disrupts the normal distribution of actin in the host cell (Nejedlik
+     <italic>
+      et al
+     </italic>
+     .,     ). The kinase domain localizes the effector to the plasma membrane and is activated by actin binding. It phosphorylates and inactivates Gα
+     <sub>
+      q
+     </sub>
+     signalling pathways affecting multiple downstream targets (Broberg and Orth,     ). Moreover, this effector inhibits phagocytosis through its guanine-nucleotide dissociation inhibitor-like domain by specifically blocking Rac-dependent Fc
+     <italic>
+      γ
+     </italic>
+     receptor internalization pathway (Groves
+     <italic>
+      et al
+     </italic>
+     .,     ).
+    </p>
+    <p>
+     <bold>
+      AopN
+     </bold>
+     homologues in other bacteria (HrpJ and BopN) are T3SS effectors which play a role in virulence and can have a dual role: controlling the secretion of translocator proteins inside bacteria and suppressing immunity when AopN is translocated inside host cells (Nagamatsu
+     <italic>
+      et al
+     </italic>
+     .,     ; Crabill
+     <italic>
+      et al
+     </italic>
+     .,     ). In
+     <italic>
+      Chlamydia
+     </italic>
+     , translocated CopN, the analogue to AopN, is able to bind and sequester αβ-tubulin and inhibits microtubule polymerization leading to the loss of microtubule spindles and metaphase plate formation inducing mitotic arrest (Archuleta
+     <italic>
+      et al
+     </italic>
+     .,     ).
+    </p>
+    <p>
+     <bold>
+      AopS
+     </bold>
+     is homologous to
+     <italic>
+      V. parahaemolyticus
+     </italic>
+     VopS which induces the AMPylation of Rho GTPases through its Fic domain (Yarbrough
+     <italic>
+      et al
+     </italic>
+     .,     ). This inhibition prevents the interaction of Rho GTPases with downstream effectors, thereby inhibiting actin assembly (Yarbrough
+     <italic>
+      et al
+     </italic>
+     .,     ) and preventing NLRC4 inflammasome activation (Higa
+     <italic>
+      et al
+     </italic>
+     .,     ).
+    </p>
+    <p>
+     <bold>
+      AopX
+     </bold>
+     is related to the T3SS effector Plu4750 of
+     <italic>
+      P. luminescens
+     </italic>
+     which targets lipid raft in the cytoplasmic membrane (French
+     <italic>
+      et al
+     </italic>
+     .,     ) but its function is unknown.
+    </p>
+    <p>
+     We have also observed that
+     <bold>
+      ExsE
+     </bold>
+     and
+     <bold>
+      Ati1
+     </bold>
+     were secreted by the T3SS in wt SNs (P. Vanden Bergh, unpublished). In
+     <italic>
+      P. aeruginosa
+     </italic>
+     , it was shown that the T3SS secretion in extracellular medium and the T3SS translocation into host cell of ExsE was required for transcriptional induction of the T3SS (Urbanowski
+     <italic>
+      et al
+     </italic>
+     .,     ) (Fig.     ). It is not known whether ExsE plays a role within the host cell.
+     <bold>
+      Ati1
+     </bold>
+     is the only chaperone that is secreted by the T3SS (P. Vanden Bergh, unpublished) but it is not known whether it is also translocated into the fish cell.
+    </p>
+    <p>
+     Interestingly, at least five effectors (AexT, Ati2, AopH, AopP and AopS) out of the eight that have been identified so far, exert different negative effects on cytoskeletal dynamics that could explain the rapid cell-rounding within less than 1 h observed when
+     <italic>
+      A. salmonicida
+     </italic>
+     is incubated with epithelial fish cells (Movies     and     ). The AopS function is redundant with the actin depolymerization effect of AexT and might be the reason why mutation seen in
+     <italic>
+      aopS
+     </italic>
+     has globally no consequence on the virulence of
+     <italic>
+      A. salmonicida
+     </italic>
+     . As an essential part of the cytoskeleton, actin is involved in a multitude of cellular processes that are keys to establish structure, morphology and motility of cells and cell components (Aktories
+     <italic>
+      et al
+     </italic>
+     .,     ): epithelium barrier function (establishment and maintenance of cell junctions and cell shape), motility and cytokinesis, muscle contraction, cell division, phagocytosis, signalling of immune cells, intracellular trafficking of vesicles and organelles. This prominent role in the eukaryotic homeostasis explains why actin proteins are prime targets for bacterial virulence factors (Aktories
+     <italic>
+      et al
+     </italic>
+     .,     ). In accordance with these observations, it is likely plausible that the actin depolymerization by the T3SS of
+     <italic>
+      A. salmonicida
+     </italic>
+     contributes to the colonization of the host and to the survival in phagocytic cells (Burr
+     <italic>
+      et al
+     </italic>
+     .,     ). Their ability to destabilize the actin cytoskeleton at different critical sites in the host cell could explain why the deletion of
+     <italic>
+      aexT
+     </italic>
+     alone (Fehr
+     <italic>
+      et al
+     </italic>
+     .,     ) or a triple knock-out mutant
+     <italic>
+      ΔaexTΔaopOΔaopH
+     </italic>
+     (Fast
+     <italic>
+      et al
+     </italic>
+     .,     ) are not sufficient to prevent the cell rounding and the virulent phenotype. Hence, a quadruple
+     <italic>
+      ΔaexTΔaopOΔaopHΔati2
+     </italic>
+     mutant would be expected to abolish the disruption of the actin cytoskeleton on the condition that the AopS gene is well inactivated. Besides the cell-rounding, another characteristic of cell death initiated by
+     <italic>
+      A. salmonicida
+     </italic>
+     is the rapid induction of nuclear morphological changes characteristic of apoptosis (nuclear shrinkage and chromatin condensation), which would be activated at least by the intracellular effect of AopP (Jones
+     <italic>
+      et al
+     </italic>
+     .,     ) (Fig.     ). At the end stage of the intoxication, the plasma membrane of completely disorganized host cells is alterated by the T3SS leading to the release of lactate dehydrogenase in the extracellular medium (P. Vanden Bergh, unpublished) (Fig.     ) as observed in
+     <italic>
+      V. alginolyticus
+     </italic>
+     (Zhao
+     <italic>
+      et al
+     </italic>
+     .,     ). This process could imply putative phospholipases (such as ASA_P5G088) thereby allowing the bacteria to damage the cell membrane and gain access to the nutrients that are released from the cytosol.
+    </p>
+    <p>
+     Besides these classical T3SS effectors, additional proteins with predicted T3SS secretion signal were excreted to a greater extent in wt SNs (EF-G, EF-Tu, DnaK, HtpG, PNPase, MdeA, PepN and OpdA) but to a clearly lesser extent than previously described T3SS effectors (P. Vanden Bergh, unpublished). These putative effectors show a high similarity with homologues present in eukaryotic cells, where they play fundamental roles and sometimes have alternative (moonlighting) functions: EF-1
+     <italic>
+      α
+     </italic>
+     for EF-Tu (Ejiri,     ), HSP70 and HSP90 for DnaK and HtpG (Tsan and Gao,     ; Singhto
+     <italic>
+      et al
+     </italic>
+     .,     ), eukaryotic aminopeptidases and thimet oligopeptidase for PepN and OpdA (Kessler
+     <italic>
+      et al
+     </italic>
+     .,     ). Some of them play a role in the virulence of other pathogens and are considered to be new targets for therapy (Neckers and Tatu,     ; Barbier
+     <italic>
+      et al
+     </italic>
+     .,     ). It is tempting to assume that they too might be injected by
+     <italic>
+      A. salmonicida
+     </italic>
+     into host cells in order to interfere with these functions.
+    </p>
+    <p>
+     The proteomics study that we have conducted showed that weak amounts of T3SS effectors/translocators were found in
+     <italic>
+      ΔascV
+     </italic>
+     mutant SNs (AopH, AexT, AopD, Ati2, AopP, AopN, AopB and ExsE by order of decreasing importance), and the presence of these T3SS elements in mutant SNs was not due to bacterial lysis or cross-contaminations (P. Vanden Bergh, unpublished). The mutant strain thus continues to release weak amounts of Aops in SNs, either from the resting structural T3SS components or by an alternative secretion pathway. It is accepted that the T3SS arose from an exaptation of the flagellum (Abby and Rocha,     ), and thus, it could be possible that FlhA (ASA_1351, polar flagella) and/or LfhA (ASA_0352, lateral flagella), showing 56% and 55% of similarity with AscV, respectively, might partially supply the function of this T3SS component. Another possibility is that a second mechanism of effectors/translocators secretion, clearly less efficient than the active T3SS, operates at the same time. Further investigations are therefore necessary to clarify the mechanism leading to the presence of effectors/translocators observed in the SN of the
+     <italic>
+      ΔascV
+     </italic>
+     mutant.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     The origin of the T3SS-induced virulence of
+     <italic>
+      A. salmonicida
+     </italic>
+     – A story of survival and adaptation
+    </title>
+    <p>
+     The adaptation of
+     <italic>
+      A. salmonicida
+     </italic>
+     T3SS effectors, shared by different environmental bacteria, to disrupt the host cytoskeleton is most intriguing, and it is tempting to hypothesize that these attack strategies are the result of a selective pressure to survive in the aquatic environment to the engulfment and killing by feral phagocytes, such as amoebas. The actin depolymerization could serve to paralyse the bacteriophagous protozoan, escape phagocytosis, survive inside the cell, spread in the environment and lyse these hosts to get an alternative source of aquatic nutriments. Hence, the well-known predator of bacteria would become a prey to be parasitized. Therefore,
+     <italic>
+      A. salmonicida
+     </italic>
+     strains virulent for fish have also been demonstrated to be virulent for amoeba (Paniagua
+     <italic>
+      et al
+     </italic>
+     .,     ; Daher
+     <italic>
+      et al
+     </italic>
+     .,     ), and it has been confirmed with our wt (JF2267) and
+     <italic>
+      ΔascV
+     </italic>
+     (JF2747) mutant strains that this cytotoxic effect was associated with the T3SS (Froquet
+     <italic>
+      et al
+     </italic>
+     .,     ). For example, in
+     <italic>
+      V. parahaemolyticus
+     </italic>
+     , it has been demonstrated that the T3SS-2 promotes survival of the bacterium in the interaction with diverse protist taxa and that the enhanced persistence is due to T3SS-2 effectors mediated cytotoxicity [some of which being homologous to
+     <italic>
+      A. salmonicida
+     </italic>
+     effectors (Table     )] and facultative parasitism of
+     <italic>
+      V. parahaemolyticus
+     </italic>
+     on coexisting protists (Matz
+     <italic>
+      et al
+     </italic>
+     .,     ).
+    </p>
+    <p>
+     Because these wild phagocytes might serve as a reservoir and an amplifier for virulent
+     <italic>
+      A. salmonicida
+     </italic>
+     , it might explain why sediment is an important environmental reservoir of the bacterium as the pathogen can survive for a longer period of time and retain its pathogenicity in faecal and food waste sediment (Michel and Dubois-Darnaudpeys,     ) at the bottom of sea cages, freshwater tanks or in pond mud (O’Brien
+     <italic>
+      et al
+     </italic>
+     .,     ). The high prevalence of protistan hosts in water with faecal contamination or plankton might serve the multiplication of virulent strains of
+     <italic>
+      A. salmonicida
+     </italic>
+     and could subsequently constitute sources of furunculosis outbreaks (King and Shotts,     ; Nese and Enger,     ).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     The entry of
+     <italic>
+      A. salmonicida
+     </italic>
+     into the fish host
+    </title>
+    <p>
+     Several entry sites (skin, gills and the intestine) into fish have been described for
+     <italic>
+      A. salmonicida
+     </italic>
+     (Farto
+     <italic>
+      et al
+     </italic>
+     .,     ) but the route of infection would more likely be associated with any epithelial barrier injury (erosions/ulcerations) where the bacteria attach and penetrate into host tissues (Fig.     ). In order to initiate the disease, it could be a necessity for the bacterium to have direct access to epithelial cells and a hand-to-hand combat. Therefore, it could explain why challenges by immersion in laboratory facilities with healthy fish (intact epithelial barriers) and circulating fresh water are difficult even with high bacterial loads. This observation might support the idea that any stress perturbing mucus layer and/or epithelial integrity could be necessary to induce the furunculosis. Hence, it is frequent to read in the literature that in order to get mortality, the skin of fish is rubbed, scratched or wounded prior to an immersion challenge with
+     <italic>
+      A. salmonicida
+     </italic>
+     .
+    </p>
+    <p>
+     At the cell contact, the actin depolymerization induced by translocated T3SS effectors of
+     <italic>
+      A. salmonicida
+     </italic>
+     might already disturb the epithelium integrity (Movies     and     ) (Fig.     ). Aerolysins (AerA and AerB) might also participate in the epithelial barrier injury as described in
+     <italic>
+      A. hydrophila
+     </italic>
+     (Bucker
+     <italic>
+      et al
+     </italic>
+     .,     ). In experimental challenges of naïve trout with the wt virulent strain (JF5054), it was possible to get mortality by i.p. inoculations from 50 to 500 cfu per trout showing that the infectious dose can be very low if bacteria are in a state of high virulence. This fact raises the question of definition of a threshold to distinguish virulent and non-virulent
+     <italic>
+      A. salmonicida
+     </italic>
+     inocula. If the injection of hundreds of thousands of bacteria is necessary to induce a low level of mortality, does this mean that the
+     <italic>
+      A. salmonicida
+     </italic>
+     strain is really virulent and does it represent a natural infection?
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     The T3SS and the escape from the immune response – The art of war
+    </title>
+    <p>
+     Once fish are challenged with
+     <italic>
+      A. salmonicida
+     </italic>
+     , a typical incubation period of 3–4 days occurs where bacteria rapidly disseminate (already 12 h post-challenge) in kidneys (Farto
+     <italic>
+      et al
+     </italic>
+     .,     ) (Fig.     ). Then,
+     <italic>
+      A. salmonicida
+     </italic>
+     colonizes spleen, liver (Burr
+     <italic>
+      et al
+     </italic>
+     .,     ), and in the latest stage of the infection, the skeletal and cardiac muscles (Farto
+     <italic>
+      et al
+     </italic>
+     .,     ). In these sites,
+     <italic>
+      A. salmonicida
+     </italic>
+     gets access to its nutriments through cytolysis. The appearance of colonies in host tissues coincides with the mortality peak (Fig.     ) (Burr
+     <italic>
+      et al
+     </italic>
+     .,     ; Farto
+     <italic>
+      et al
+     </italic>
+     .,     ). The incubation period is crucial for pathogenesis, and we hypothesize that virulent
+     <italic>
+      A. salmonicida
+     </italic>
+     strains use the T3SS and its effectors to neutralize the fish immune system along this period of the infection. In
+     <italic>
+      Yersinia
+     </italic>
+     , the inhibition of dendritic cell (DC) activation and T-cell proliferation by T3SS effectors are the mechanisms by which the bacterium evades innate and adaptative immune responses to generate the disease (Autenrieth
+     <italic>
+      et al
+     </italic>
+     .,     ). The scenario of a direct immunosuppressive effect induced by
+     <italic>
+      A. salmonicida
+     </italic>
+     was suspected by the Furunculosis Committee as early as in 1935 (Mackie
+     <italic>
+      et al
+     </italic>
+     .,     ), and thereafter, several observations have supported the hypothesis of an immunosuppressive mechanism similar to that of
+     <italic>
+      Yersinia
+     </italic>
+     :
+     <list list-type="order">
+      <list-item>
+       <p>
+        the virulent T3SS        JF2267 strain is able to survive phagocytosis by fish peripheral blood leukocytes
+        <italic>
+         in vitro
+        </italic>
+        (Burr
+        <italic>
+         et al
+        </italic>
+        .,        ),
+       </p>
+      </list-item>
+      <list-item>
+       <p>
+        the virulent T3SS        01-B526 strain depresses drastically B and T lymphoproliferation from head kidneys (HK) during the 3 days following the challenge and then return to the baseline at the mortality onset (Dautremepuits
+        <italic>
+         et al
+        </italic>
+        .,        ) (Fig.        ),
+       </p>
+      </list-item>
+      <list-item>
+       <p>
+        there is no apparent leukocytic infiltration associated with colonies of T3SS
+        <italic>
+         A. salmonicida
+        </italic>
+        in fish tissues (absence of antigen-presenting cell activation and leukocyte migration) (Burr
+        <italic>
+         et al
+        </italic>
+        .,        ),
+       </p>
+      </list-item>
+      <list-item>
+       <p>
+        a drastic decrease in plasma antibody titres is immediately observed in the days following a challenge with virulent strains of
+        <italic>
+         A. salmonicida
+        </italic>
+        (Fig.        ) (Bricknell
+        <italic>
+         et al
+        </italic>
+        .,        ; Romer
+        <italic>
+         et al
+        </italic>
+        .,        ). The ability of
+        <italic>
+         A. salmonicida
+        </italic>
+        to escape phagocytosis and inhibit lymphoproliferation might explain the hypoimmunoglobulinemia that could result from the combination of the inhibition of B lymphocyte differentiation/proliferation (blocking of antibody production) and the opsonization and formation of antigen/antibody complexes in the bloodstream (antibody depletion).
+       </p>
+      </list-item>
+     </list>
+    </p>
+    <p>
+     The mechanisms used by
+     <italic>
+      A. salmonicida
+     </italic>
+     to defeat the lymphocyte multiplication are currently not known but several observations tend to demonstrate that the bacterium may also induce tolerogenic DCs and activate suppressor regulatory T lymphocytes (Treg) in a T3SS-dependent manner (Fig.     ). In mammals, Treg cells in all lymphoid and intestinal organs are derived from thymus (Cebula
+     <italic>
+      et al
+     </italic>
+     .,     ). In many fish species, threads of cells directly connect the thymus with the HK, and this may be the route for lymphocyte migration from the thymus to the HK (Bowden
+     <italic>
+      et al
+     </italic>
+     .,     ). Interestingly, thymectomized fish injected with
+     <italic>
+      A. salmonicida
+     </italic>
+     show higher antibody titres than intact controls while the reconstitution of thymectomized fish with preserved thymocytes depresses the immunoglobulinemia at levels similar to those of the control group, and this suggests that
+     <italic>
+      A. salmonicida
+     </italic>
+     promotes an immunosuppressive cell population existing in this organ and acting on the B-cells (Findlay and Tatner,     ). Moreover, IL-10 is a cytokine produced by various cell populations which downregulates the cellular immune response and contributes to Treg-mediated suppression in association with other cytokines (Yamaguchi
+     <italic>
+      et al
+     </italic>
+     .,     ).
+     <italic>
+      In vitro
+     </italic>
+     , virulent
+     <italic>
+      A. salmonicida
+     </italic>
+     elicits a significant increase in IL-10 expression by fish leukocytes from the HK whereas deletion of T3SS genes significantly decreases the expression of this cytokine (Fast
+     <italic>
+      et al
+     </italic>
+     .,     ). In mice infected with an AcrV-mutant of
+     <italic>
+      A. hydrophila
+     </italic>
+     , IL-10 levels were also significantly downregulated (Fadl
+     <italic>
+      et al
+     </italic>
+     .,     ). Furthermore, in the 3 days following a challenge with
+     <italic>
+      A. salmonicida
+     </italic>
+     , the expression of genes associated with the immunosuppressive Treg response such as Foxp3 (Zhang
+     <italic>
+      et al
+     </italic>
+     .,     ), fibroleukin Fgl2 (Millan
+     <italic>
+      et al
+     </italic>
+     .,     ; Liu
+     <italic>
+      et al
+     </italic>
+     .,     ), Es1 (HES1/KNPI) (Ostroukhova
+     <italic>
+      et al
+     </italic>
+     .,     ; Millan
+     <italic>
+      et al
+     </italic>
+     .,     ) and serum amyloid A (SAA) (Jensen
+     <italic>
+      et al
+     </italic>
+     .,     ; Nguyen
+     <italic>
+      et al
+     </italic>
+     .,     ) was enhanced in the HK of fish.
+    </p>
+    <p>
+     In non-infectious conditions, mammalian DCs that are present in gut, skin and lungs play a key regulatory mechanism of ‘tolerance’ to prevent excessive inflammation induced by the commensal flora. These tolerogenic DCs produce the immunomodulatory IL-10 cytokines and fail to deliver proper costimulatory signal to naïve CD4+ T-cell (Th0) for effector T (Teff) cells activation and proliferation. This results in T cell death, T cell anergy or induction and expansion of subsets of Treg cells (Kornete and Piccirillo,     ). Specifically, Treg cells maintain order in the immune system by enforcing a dominant negative regulation on other immune cells. However, when a conventional bacterial pathogen (or T3SS negative
+     <italic>
+      A. salmonicida
+     </italic>
+     ) penetrates host tissues (Fig.     ), immature DCs receive maturation signals through the pathogen-associated molecular patterns and damage associated molecular patterns receptors, and mature DCs initiate a three-step T cell activation process (Kornete and Piccirillo,     ). In these conditions, naïve CD4+ T-cells (Th0) are then polarized towards Th1 and/or Th2 cells (depending on the stimulation and the cytokinic environment) to eliminate the pathogen.
+    </p>
+    <p>
+     In this view, it might be possible that
+     <italic>
+      A. salmonicida
+     </italic>
+     uses its T3SS to promote the tolerance pathways and hijack the immune response in the first days of the disease (Fig.     ). For example, LcrV (homologous to AcrV) in
+     <italic>
+      Yersinia
+     </italic>
+     induces immunosuppression by promoting the differentiation of tolerogenic DCs via the interaction with TLR2/TLR6 and CD14 receptors (DePaolo
+     <italic>
+      et al
+     </italic>
+     .,     ) and the amplified release of IL-10 from host cells (Reithmeier-Rost
+     <italic>
+      et al
+     </italic>
+     .,     ). The exacerbated release of IL-10 by
+     <italic>
+      Yersinia
+     </italic>
+     plays a crucial role in the pathogenesis since IL-10-deficient mice are resistant to the infection (Sing
+     <italic>
+      et al
+     </italic>
+     .,     ). At least two regions of LcrV were associated with the induction of the IL-10 immunomodulatory responses (Sing
+     <italic>
+      et al
+     </italic>
+     .,     ; Overheim
+     <italic>
+      et al
+     </italic>
+     .,     ). In
+     <italic>
+      A. salmonicida
+     </italic>
+     , AcrV shows a high conservation (66% and 93% of similarity) with these fragments. Hence, these conserved regions could play the same IL-10 dependent immunomodulatory function in AcrV.
+    </p>
+    <p>
+     Moreover, although virulent
+     <italic>
+      A. salmonicida
+     </italic>
+     are detected in the HK as early as 12 h post-challenge by immersion (Farto
+     <italic>
+      et al
+     </italic>
+     .,     ), the recovery of the lymphoproliferation (Dautremepuits
+     <italic>
+      et al
+     </italic>
+     .,     ) and the expression of genes associated with a Th1 response and the activation of cytotoxic T lymphocytes (CTL) (such as IFN-γ and granzyme) occur only 3–4 days after the inoculation (Millan
+     <italic>
+      et al
+     </italic>
+     .,     ; Kumari
+     <italic>
+      et al
+     </italic>
+     .,     ) (Fig.     ) and do not appear to be sufficient to save fish from death. During this incubation period,
+     <italic>
+      A. salmonicida
+     </italic>
+     might thus trigger the migration of activated Treg cells from the thymus directly into the infected HK inhibiting the lymphocyte proliferation in this organ (Bowden
+     <italic>
+      et al
+     </italic>
+     .,     ).
+    </p>
+    <p>
+     The induction of the CTL response in HKs could be associated with the multiplication of
+     <italic>
+      A. salmonicida
+     </italic>
+     in this organ, the repression of the T3SS and the induction of proteases, lipases expression by the QS. It can also be associated with the observation that
+     <italic>
+      A. salmonicida
+     </italic>
+     is able to invade and survive within HK leukocytes (Fast
+     <italic>
+      et al
+     </italic>
+     .,     ), and would therefore induce an immune response specific to intracellular pathogens. The HK hosts diverse antigen-presenting cell (APC) types (melanomacrophages, B cells, reticular cells) and is thus suspected to serve as a major secondary lymphoid organ to which APCs loaded with antigens in the peripheral organs migrate (homing) (Iliev
+     <italic>
+      et al
+     </italic>
+     .,     ). This might suggest that
+     <italic>
+      A. salmonicida
+     </italic>
+     uses APCs and the homing to rapidly disseminate in the lymphoid system which explains that these organs are the first to be infected (Farto
+     <italic>
+      et al
+     </italic>
+     .,     ) (Fig.     ). In this view,
+     <italic>
+      A. salmonicida
+     </italic>
+     has been demonstrated to be able to survive and even replicate inside fish non-phagocytic cells and macrophages, thereby supporting the notion that the bacterium can be a facultative intracellular pathogen (Garduno
+     <italic>
+      et al
+     </italic>
+     .,     ;     ). This process would be primordial for
+     <italic>
+      A. salmonicida
+     </italic>
+     to survive
+     <italic>
+      in vivo
+     </italic>
+     soluble lytic activity present in extracellular fluids (Garduno
+     <italic>
+      et al
+     </italic>
+     .,     ).
+    </p>
+    <p>
+     The rapid attack and neutralization of immune functions in the early stages of the disease may explain the absence of leukocyte migration in other infected tissues in the final stage of the furunculosis. Peracute infections most often occur in fingerling fish which die from shock without showing marked clinical manifestations. Acute infections generally occur in juvenile and adult fish and are associated with haemorrhages in all organs.
+     <italic>
+      Aeromonas salmonicida
+     </italic>
+     ultimately induces a septicemic state but teleost fish are resistant to endotoxic shock (Sepulcre
+     <italic>
+      et al
+     </italic>
+     .,     ), and the cause of death in furunculosis is more likely due to a shock induced by vascular failure associated with disseminated intravascular coagulation, a consumptive coagulopathy that may rapidly be induced at least by the intravascular injection of the serine protease Ahe2 (AspA) (Salte
+     <italic>
+      et al
+     </italic>
+     .,     ) and the LPS-activated GCAT lipase (SatA) (Salte
+     <italic>
+      et al
+     </italic>
+     .,     ). Thus, the early stage of the furunculosis could be dominated by the T3SS inducing immune escape and dissemination of a few bacteria in lymphoid organs. Thereafter, the later stages of the disease would be associated with a large multiplication and bacterial dissemination in all organs, ultimately resulting in circulatory shock due to other virulence factors (Fig.     ).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     The protective immune response to
+     <italic>
+      A. salmonicida
+     </italic>
+    </title>
+    <p>
+     Various studies tend to demonstrate that the protective immune response against
+     <italic>
+      A. salmonicida
+     </italic>
+     would result from a balanced Th1/Th2 response (Fig.     ). For example, fish protection is correlated with a high level of circulating antibodies specific to
+     <italic>
+      A. salmonicida
+     </italic>
+     (Romer
+     <italic>
+      et al
+     </italic>
+     .,     ; Romstad
+     <italic>
+      et al
+     </italic>
+     .,     ). The administration to fish of specific immunostimulants such as CpG oligodeoxynucleotides or the heptanoyl tripeptide FK-565 which indirectly enhance the activation of Th1 cells (Krieg,     ; Tada
+     <italic>
+      et al
+     </italic>
+     .,     ) increases their survival following a challenge with a virulent strain of
+     <italic>
+      A. salmonicida
+     </italic>
+     (Kitao and Yoshida,     ; Carrington and Secombes,     ) and suggest that promoting a Th1 polarization might be important to overcome the infection.
+    </p>
+    <p>
+     Like other pathogens using the T3SS for their virulence, we suspect that
+     <italic>
+      A. salmonicida
+     </italic>
+     might use certain strategies to interfere with the endogenous pathway (MHC-I) and the ultimate activation of CD8     T-cells to avoid the destruction of its Trojan horse (APC) by CTLs. Actually, it is accepted that T3SS effectors translocated into the host cytoplasm should be, like viral proteins, perfect candidates for antigen presentation by the endogenous pathway which canonically eliminate cells containing the intracellular pathogen (Mantegazza
+     <italic>
+      et al
+     </italic>
+     .,     ). Bergman and colleagues (     ) showed that the CTL response played a critical role in eliminating
+     <italic>
+      Yersinia
+     </italic>
+     infections, and that this response was directed against Yop T3SS effectors. In
+     <italic>
+      Salmonella
+     </italic>
+     , MHC class-I-restricted CD8 T cells can play a protective role during primary
+     <italic>
+      Salmonella
+     </italic>
+     infection (Lee
+     <italic>
+      et al
+     </italic>
+     .,     ). Moreover,
+     <italic>
+      Salmonella
+     </italic>
+     T3SS effectors have been successfully used for vaccination strategy specifically through the MHC-I/CD8     T-cell pathway (Hegazy
+     <italic>
+      et al
+     </italic>
+     .,     ). Eliciting an immune response against
+     <italic>
+      A. salmonicida
+     </italic>
+     through the endogenous pathway of antigen presentation might thus be an interesting strategy for vaccine approaches. However, it was also predicted by bioinformatics that T3SS effectors with homologues in
+     <italic>
+      A. salmonicida
+     </italic>
+     show clear escape mutations and have low epitope densities for MHC, suggesting that these bacteria, like viruses, are evolutionarily selected to ensure their survival in the presence of CD8     T-cells (Maman
+     <italic>
+      et al
+     </italic>
+     .,     ). For example, while YopE, a homologue to AexT, was not protective in experiments using the whole protein as antigen, the N-terminal domain (YopE69-77) revealed to be a major protective antigen eliciting CD8 T-cell immunity (Zhang
+     <italic>
+      et al
+     </italic>
+     .,     ). In spite of the fact that most of the T3SS effectors are immune suppressor/modulator, this result shows that they can contain protective epitopes that might be promising candidates for vaccination. In this view, it has been demonstrated that polymorphisms in MHC-II, but also MHC-I, were significantly associated with resistance of Atlantic salmon to furunculosis (Grimholt
+     <italic>
+      et al
+     </italic>
+     .,     ; Kjoglum
+     <italic>
+      et al
+     </italic>
+     .,     ) and highlight the importance of the endogenous pathway of antigen presentation in this disease.
+    </p>
+    <p>
+     Vaccine and therapeutic approaches stopping the T3SS-dependent immunosuppressive strategies of
+     <italic>
+      A. salmonicida
+     </italic>
+     at the onset of the disease might thus represent the best protection of fish against furunculosis. According to this hypothesis, we recently observed that immunization of fish with bacterins of the
+     <italic>
+      ΔascV
+     </italic>
+     mutant strain of
+     <italic>
+      A. salmonicida
+     </italic>
+     (JF2747) that expresses low levels of all the T3SS components (immunosuppressors), induced a better protection (25% increase in the survival) than vaccination with the wt strain JF5054 expressing the T3SS at high levels (Vanden Bergh
+     <italic>
+      et al
+     </italic>
+     .,     ). This result was unexpected but it supports our current model of pathogenesis, and challenged the hypothesis that mounting specific antibodies against proteins of the T3SS yields better protection. At the onset of a furunculosis outbreak, therapies targeting either the inhibition of the T3SS expression (such as pro-quorum-sensing molecules) (Ng
+     <italic>
+      et al
+     </italic>
+     .,     ) or secretion (Duncan
+     <italic>
+      et al
+     </italic>
+     .,     ) by
+     <italic>
+      A. salmonicida
+     </italic>
+     , or promoting the Th1 immune response (Krieg,     ; Tada
+     <italic>
+      et al
+     </italic>
+     .,     ), or specifically inhibiting the Treg expansion (Casares
+     <italic>
+      et al
+     </italic>
+     .,     ) are expected to help resolving the disease and constitute alternatives to classical antibiotics.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="conclusions">
+    <title>
+     Conclusions
+    </title>
+    <p>
+     The typical furunculosis induced by
+     <italic>
+      Aeromonas salmonicida
+     </italic>
+     subsp.
+     <italic>
+      salmonicida
+     </italic>
+     is a disease that has been known for over a century. The mechanisms of virulence were poorly understood until the discovery of the T3SS as a major virulence system, a decade ago. In this review, we have proposed a comprehensive model of pathogenesis for
+     <italic>
+      A. salmonicida
+     </italic>
+     involving the various actions of T3SS and its effectors on the morphogenesis, the vital functions and the immune defence of the host cells. This concerted action of virulence attributes permits the pathogen to cause disease in salmonid fish by circumventing all barriers imposed by the host and the environment. Although further investigations both on the pathogen and on the host will be necessary to fully confirm its validity, this knowledge provides strategies in designing novel preventive and therapeutic approaches to optimize environmentally and economically sustainable fish farming.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

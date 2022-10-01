@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Comparative Systems Biology Analysis To Study the Mode of Action of the Isothiocyanate Compound Iberin on
+ </title>
+ <abstract>
+  <p>
+   Food is now recognized as a natural resource of novel antimicrobial agents, including those that target the virulence mechanisms of bacterial pathogens. Iberin, an isothiocyanate compound from horseradish, was recently identified as a quorum-sensing inhibitor (QSI) of the bacterial pathogen
+   <named-content content-type="genus-species">
+    Pseudomonas aeruginosa
+   </named-content>
+   . In this study, we used a comparative systems biology approach to unravel the molecular mechanisms of the effects of iberin on QS and virulence factor expression of
+   <named-content content-type="genus-species">
+    P. aeruginosa
+   </named-content>
+   . Our study shows that the two systems biology methods used (i.e., RNA sequencing and proteomics) complement each other and provide a thorough overview of the impact of iberin on
+   <named-content content-type="genus-species">
+    P. aeruginosa
+   </named-content>
+   . RNA sequencing-based transcriptomics showed that iberin inhibits the expression of the GacA-dependent small regulatory RNAs RsmY and RsmZ; this was verified by using
+   <italic>
+    gfp
+   </italic>
+   -based transcriptional reporter fusions with the
+   <italic>
+    rsmY
+   </italic>
+   or
+   <italic>
+    rsmZ
+   </italic>
+   promoter regions. Isobaric tags for relative and absolute quantitation (iTRAQ) proteomics showed that iberin reduces the abundance of the LadS protein, an activator of GacS. Taken together, the findings suggest that the mode of QS inhibition in iberin is through downregulation of the Gac/Rsm QS network, which in turn leads to the repression of QS-regulated virulence factors, such as pyoverdine, chitinase, and protease IV. Lastly, as expected from the observed repression of small regulatory RNA synthesis, we also show that iberin effectively reduces biofilm formation. This suggests that small regulatory RNAs might serve as potential targets in the future development of therapies against pathogens that use QS for controlling virulence factor expression and assume the biofilm mode of growth in the process of causing disease.
+  </p>
+ </abstract>
+ <sentences/>
+</article>

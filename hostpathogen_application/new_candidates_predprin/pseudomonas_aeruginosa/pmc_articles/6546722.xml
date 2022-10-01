@@ -1,0 +1,1939 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1998/Math/MathML" xmlns:ns1="http://www.w3.org/1999/xlink">
+ <title>
+  Plant Aquaporins in Infection by and Immunity Against Pathogens – A Critical Review
+ </title>
+ <abstract>
+  <p>
+   Plant aquaporins (AQPs) of the plasma membrane intrinsic protein (PIP) family face constant risk of hijack by pathogens aiming to infect plants. PIPs can also be involved in plant immunity against infection. This review will utilize two case studies to discuss biochemical and structural mechanisms that govern the functions of PIPs in the regulation of plant infection and immunity. The first example concerns the interaction between rice
+   <italic>
+    Oryza sativa
+   </italic>
+   and the bacterial blight pathogen
+   <italic>
+    Xanthomonas oryzae
+   </italic>
+   pv.
+   <italic>
+    oryzae
+   </italic>
+   (Xoo). To infect rice, Xoo uses the type III (T3) secretion system to secrete the proteic translocator Hpa1, and Hpa1 subsequently mediates the translocation of T3 effectors secreted by this system. Once shifted from bacteria into rice cells, effectors exert virulent or avirulent effects depending on the susceptibility of the rice varieties. The translocator function of Hpa1 requires cooperation with OsPIP1;3, the rice interactor of Hpa1. This role of OsPIP1;3 is related to regulatory models of effector translocation. The regulatory models have been proposed as, translocon-dependent delivery, translocon-independent pore formation, and effector endocytosis with membrane protein/lipid trafficking. The second case study includes the interaction of Hpa1 with the H
+   <sub>
+    2
+   </sub>
+   O
+   <sub>
+    2
+   </sub>
+   transport channel AtPIP1;4, and the associated consequence for H
+   <sub>
+    2
+   </sub>
+   O
+   <sub>
+    2
+   </sub>
+   signal transduction of immunity pathways in
+   <italic>
+    Arabidopsis thaliana
+   </italic>
+   , a non-host of Xoo. H
+   <sub>
+    2
+   </sub>
+   O
+   <sub>
+    2
+   </sub>
+   is generated in the apoplast upon induction by a pathogen or microbial pattern. H
+   <sub>
+    2
+   </sub>
+   O
+   <sub>
+    2
+   </sub>
+   from this source translocates quickly into Arabidopsis cells, where it interacts with pathways of intracellular immunity to confer plant resistance against diseases. To expedite H
+   <sub>
+    2
+   </sub>
+   O
+   <sub>
+    2
+   </sub>
+   transport, AtPIP1;4 must adopt a specific conformation in a number of ways, including channel width extension through amino acid interactions and selectivity for H
+   <sub>
+    2
+   </sub>
+   O
+   <sub>
+    2
+   </sub>
+   through amino acid protonation and tautomeric reactions. Both topics will reference relevant studies, conducted on other organisms and AQPs, to highlight possible mechanisms of T3 effector translocation currently under debate, and highlight the structural basis of AtPIP1;4 in H
+   <sub>
+    2
+   </sub>
+   O
+   <sub>
+    2
+   </sub>
+   transport facilitated by gating and trafficking regulation.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec>
+    <title>
+     Introduction
+    </title>
+    <p>
+     Aquaporins (AQPs) are membrane-intrinsic proteins initially defined as water (H
+     <sub>
+      2
+     </sub>
+     O) transporting channels in all organisms and subsequently found to have many other substrate specificities (
+     ;
+     ,
+     ;
+     ), such as hydrogen peroxide (H
+     <inline-formula>
+      <ns0:math id="INEQ1">
+       <ns0:msub>
+        <ns0:mi/>
+        <ns0:mn>
+         2
+        </ns0:mn>
+       </ns0:msub>
+      </ns0:math>
+     </inline-formula>
+     O
+     <inline-formula>
+      <ns0:math id="INEQ2">
+       <ns0:msub>
+        <ns0:mi/>
+        <ns0:mn>
+         2
+        </ns0:mn>
+       </ns0:msub>
+      </ns0:math>
+     </inline-formula>
+     ;
+     ). In plants, AQPs are classified into five major families (
+     ;
+     ), including the plasma membrane intrinsic proteins (PIPs), tonoplast intrinsic proteins (TIPs), nodulin 26 like intrinsic proteins (NIPs), small basic intrinsic proteins (SIPs), and X intrinsic proteins (XIPs). The PIP family is further divided into the PIP1 subfamily made of PIP1;1 to PIP1;5 and the PIP2 subfamily consisting of PIP2;1 to PIP2;8 in most plant species (
+     ;
+     ;
+     ). While AQPs of the other four families function in substrate trafficking between organelles, PIPs are responsible for substrate transportation between the exterior and interior of cells (
+     ;
+     ;
+     ;
+     ;
+     ).
+    </p>
+    <p>
+     Recently discovered functions of AQPs surpass the original “water channel” concept (
+     ;
+     ;
+     ;
+     ), and suggest implications in infection and immunity in both animals (
+     ;
+     ) and plants (
+     ;
+     ;
+     ;
+     ). The functions of animal AQPs are no longer confined to substrate-transport-based processes such as urinary concentration and body fluid homeostasis (
+     ), and are now known to include roles in various disease conditions and pathological states (
+     ). Similarly, functional diversity – redundancy, overlapping, and extension beyond substrate transport – is a property of plant AQPs, especially PIPs (
+     ;
+     ;
+     ,
+     ;
+     ). The functional scope of PIPs goes far beyond water relations or drought tolerance, extending to the subcellular transport of reactive oxygen species (ROS), including H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     (
+     ;
+     ). H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport connects with signaling between the cell exterior and interior and between organelles, resulting in plant resistance to pathogen infection (
+     ).
+    </p>
+    <p>
+     PIPs possess extracellular regions exposed to the outside environment (
+     ), and have potential to partake in plant responses to biotic and abiotic stresses. Here are several examples. Previous uses of induced resistance in crop protection (for example:
+     ,
+     ;
+     ;
+     ) confirm the practical value of PIP-mediated immunity signal transduction (
+     ). The correlation of PIP function in water transport with stress response results in promising strategies for improvement of plant tolerance to abiotic stresses, including drought (
+     ). Drought tolerance in a variety of plant species is related to arbuscular mycorrhizal (AM) symbiosis, in which AM fungi (
+     <italic>
+      Rhizophagus
+     </italic>
+     spp.) show enhanced expression of AQP-encoding genes (
+     ,
+     ;
+     ;
+     ;
+     ;
+     ). Surprisingly, the AM fungus
+     <italic>
+      R. clarus
+     </italic>
+     contributes its aquaglyceroporin (glycerol/water-transporting AQP) RcAQP3 to the mediation of long-distant polyphosphate translocation from the fungal vacuoles into cells of plant roots and leaves (
+     ). Genetic resources of plants, including the AQP transcriptome, can be used in responses to environmental cues, symbiotic microbes (AM fungi and rhizobia), and microbial pathogens (
+     ;
+     ;
+     ).
+    </p>
+    <p>
+     Due to their direct contact with the extracellular environment, PIPs risk being appropriated by plant pathogens to expedite infection (
+     ;
+     ). When infection is imminent, the real-time function of PIPs may switch from substrate transport to the regulation of plant responses to pathogens (
+     ;
+     ). This is either favorable or unfavorable to plant growth and development, depending on plant responses to pathogenicity determinants, called effectors, whose functions are subject to regulation of PIPs (
+     ;
+     ;
+     ;
+     ).
+    </p>
+    <p>
+     This review will summarize recent studies on the roles of PIPs in plant infection and immunity, and discuss the molecular, biochemical, and structural mechanisms involved. Discussion of infection will focus on type III (T3) effector translocation (T3ET) from
+     <italic>
+      Xanthomonas oryzae
+     </italic>
+     pv.
+     <italic>
+      oryzae
+     </italic>
+     (Xoo) into rice cells. Discussion of immunity will focus on the response of Arabidopsis to pathogens or pathogen-associated molecular patterns (PAMPs), also termed microbial patterns. This review will reference studies investigating AQPs in animals, microbes, and other plants to highlight the broad importance of PIP function, from substrate transport to infection and immunity in plants.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     The Circumstantial Function of a PIP in T3ET
+    </title>
+    <p>
+     PIPs possess three extracellular regions that are exposed to the outside environment (
+     ). As a result, they are at a constant risk of being hijacked by pathogens attempting to infect plants, and inevitably partake in immunity against infection. Therefore, PIPs are required to extend their function from substrate transport to plant infection and immunity when the circumstances demand it. Emerging evidence suggests the implication of OsPIP1;3 in rice infection by Xoo (
+     ;
+     ;
+     ). In this case, OsPIP1;3 functions with the bacterial hydrophilic protein Hpa1, which belongs to the harpin-group proteins secreted by the T3 secretion pathway of Gram-negative plant-pathogenic bacteria (
+     ;
+     ;
+     ;
+     ). Hpa1 produced by
+     <italic>
+      X. oryzae
+     </italic>
+     (
+     ;
+     ) is involved in the virulence of bacterial pathogens (
+     ). Hpa1 modulates physiological and pathological processes in plants in association with PIPs (
+     ;
+     ;
+     ;
+     ). The virulence role of Hpa1 is determined by its biochemical properties. Hpa1 is a one-domain harpin, which share a unitary hydrophilic “harpin” domain distinct from the enzymatic domain present in two-domain harpins (
+     ;
+     ;
+     ). Two-domain harpins have potential to associate with the bacterial periplasm or plant cell walls to facilitate assembly of the T3 secretion machinery (
+     ;
+     ;
+     ;
+     ;
+     ). One-domain harpins, including Hpa1, target plasma membranes (PMs), where they serve as T3 translocators to mediate T3ET (
+     ;
+     ;
+     ;
+     ;
+     ).
+    </p>
+    <p>
+     In Xoo-infected rice plants, secreted Hpa1 translocates at least two transcription activator-like (TAL) effectors – AvrXa10 and PthXo1, which are also produced via the pathway (
+     ). Translocated effectors exert virulent or avirulent effects depending on the susceptibility of the plant variety (
+     ;
+     ;
+     ;
+     ;
+     ). The rice variety Nipponbare is susceptible to the TAL effector PthXo1 secreted by PXO99
+     , a well-studied Xoo strain (
+     ;
+     ;
+     ). To infect Nipponbare plants, PXO99
+     secretes Hpa1 and delivers it to the cell surface, where Hpa1 interacts with OsPIP1;3 to facilitate the translocation of subsequently secreted PthXo1 into Nipponbare cells (
+     ;
+     ). PthXo1 then induces virulence by activating its regulatory target – the host susceptibility gene
+     <italic>
+      OsSWEET11
+     </italic>
+     (
+     ) in an OsPIP1;3-dependent manner (
+     ;
+     ). If the
+     <italic>
+      OsPIP1;3
+     </italic>
+     gene is silenced by hairpin or knocked out by TALEN
+     , both PthXo1 translocation and
+     <italic>
+      OsSWEET11
+     </italic>
+     expression incur concomitant impairments up to 70%, highly alleviating virulence as a consequence (
+     ;
+     ). In contrast, both events acquire &gt;2-fold enhancements if
+     <italic>
+      OsPIP1;3
+     </italic>
+     is overexpressed, causing marked aggravations in virulence (
+     ).
+    </p>
+    <p>
+     AvrXa10 is an avirulent effector secreted by the Xoo strain PXO86, and induces immune responses in the resistant rice variety IRBB10 (
+     ). The plant immunity is determined by the disease-resistant gene
+     <italic>
+      Xa10
+     </italic>
+     , which is the target of AvrXa10 (
+     ).
+     <italic>
+      Xa10
+     </italic>
+     has two homologs in the Nipponbare genome –
+     <italic>
+      Xa10-Ni
+     </italic>
+     and
+     <italic>
+      Xa23-Ni
+     </italic>
+     , both of which function similarly to confer immune responses in Nipponbare plants inoculated with recombinant PXO99
+     strains that deliver the matching artificially designed TAL effectors (
+     ). When
+     <italic>
+      avrXa10
+     </italic>
+     is transferred from PXO86 into the PXO99
+     genome, the resulting PXO99
+     /
+     <italic>
+      avrXa10
+     </italic>
+     recombinant delivers AvrXa10 in IRBB10 cells (
+     ). Thereafter, AvrXa10 activates the disease resistant gene
+     <italic>
+      Xa10-Ni
+     </italic>
+     to confer the plant resistance against the blight disease (
+     ). The AvrXa10 translocation and
+     <italic>
+      Xa10-Ni
+     </italic>
+     activation incur concomitant impairments in plants inoculated with the
+     <italic>
+      hpa1
+     </italic>
+     -deleted mutant; the absence of
+     <italic>
+      hpa1
+     </italic>
+     markedly reduces the quantity of AvrXa10 translocation, decreasing the expression level of
+     <italic>
+      Xa10-Ni
+     </italic>
+     (
+     ). The AvrXa10 translocation and
+     <italic>
+      Xa10-Ni
+     </italic>
+     activation requires
+     <italic>
+      OsPIP1;3
+     </italic>
+     , and both events are enhanced by
+     <italic>
+      OsPIP1;3
+     </italic>
+     overexpression but inhibited by
+     <italic>
+      OsPIP1;3
+     </italic>
+     silencing (
+     ).
+    </p>
+    <p>
+     These findings demonstrate the important role of OsPIP1;3 in the translocation of T3 effectors, at least the TAL effectors PthXo1 and AvrXa10, from bacterial cells into the cytosol of rice cells. OsPIP1;3 functions either as a disease-susceptibility or -resistance factor, depending on a virulent or avirulent function of the translocated effector.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Potential Mechanisms of T3ET Regulation
+    </title>
+    <p>
+     Passages of proteic T3 effectors are 1.2–5.0 nanometers in width (
+     ;
+     ), in contrast to PIP/AQP channels with an aperture around 3 Å, which is permeable to small substrates (
+     ;
+     ;
+     ) but impossible for proteins to pass (
+     ). Presumably, the role of OsPIP1;3 in T3ET complies with one of regulation models currently in debate (
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ). Three models have been proposed as the canonical translocon-dependent delivery (
+     ;
+     middle purple route) and the translocon-independent pore formation (
+     ;
+     left black route) and endocytosis (
+     ;
+     right red route). To date, studies on the three models have obtained empirical genetic evidence (
+     ;
+     ;
+     ;
+     ;
+     ), but the structural basis of each model remains to be analyzed.
+    </p>
+    <p>
+     The first model of T3ET (
+     middle purple route) was proposed to emphasize molecular interactions between T3 translocators and molecular interactions of T3 translocators with PM receptors (
+     ;
+     ;
+     ;
+     ), either lipids (
+     ;
+     ), or proteins (
+     ;
+     ;
+     ). T3 translocators include one hydrophilic protein, such as Hpa1 from xanthomonads – bacteria in the
+     <italic>
+      Xanthomonas
+     </italic>
+     genus (
+     ;
+     ;
+     ), and two hydrophobic proteins (
+     ;
+     ), such as HrpF from the same bacteria (
+     ;
+     ;
+     ). Recognition of the hydrophilic translocator by a component of the PM composition is the first step towards translocon assembly (
+     ;
+     ;
+     ). Then, the translocon is finalized by the binding of lipids to hydrophobic translocators (
+     ;
+     ;
+     ). A completed translocon possesses an inner conduit that opens into a target cell and accommodates bacterial effector translocation (
+     ;
+     ;
+     ;
+     ).
+    </p>
+    <p>
+     Although there is no evidence so far to verify the T3 translocon assembly, many studies suggest the involvement of T3 translocators in effector translocation from animal- and plant-pathogenic bacteria into cells of their corresponding eukaryotic hosts (summarized in
+     ). Mounting evidence indicates the engagement of PM phospholipids in T3ET, especially phosphatidylinositol phosphates PI(n)Pn (
+     ,
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ). For T3ET from xanthomonads, lipids in the plant PM associates with the bacterial hydrophobic T3 translocator HrpF (
+     ;
+     ). HrpF was the first reported T3 translocator and is regarded as a marker of T3 translocon in xanthomonads (
+     ;
+     ). HrpF is highly conserved in xanthomonads (
+     ) and has been shown to mediate the translocation of AvrBs3 from
+     <italic>
+      X. campestris
+     </italic>
+     pv.
+     <italic>
+      vesicatoria
+     </italic>
+     (
+     <italic>
+      Xcv
+     </italic>
+     ) – the bacterial spot pathogen of pepper (
+     ;
+     ), and from
+     <italic>
+      X. oryzae
+     </italic>
+     pv.
+     <italic>
+      oryzicola
+     </italic>
+     — the pathogen that causes bacterial leaf streak in rice (
+     ). Evidence is further provided by our demonstrations that the hydrophilic T3 translocator Hpa1 of Xoo interacts with OsPIP1;3 at rice PMs to expedite translocation of TAL effectors PthXo1 and AvrXa10 from Xoo cells into the cytosol of rice cells (
+     ;
+     ;
+     ).
+    </p>
+    <p>
+     The second model of T3ET (
+     left black pathway) is the translocon-independent pore formation by bacterial effectors characteristic of cell-penetrating peptide (RPP;
+     ;
+     ). Pore forming in eukaryotic PMs is momentary, occurs quickly upon recognition of bacterial effectors, and is regulated by membrane repair mechanisms (
+     ). RPPs are either autonomously transported across the membrane or delivered by endocytosis (
+     ). Autonomous translocation was found with the T3 effector YopM from
+     <italic>
+      Yersinia enterocolitica
+     </italic>
+     (
+     ). The YopM sequence contains two N-terminal α-helices, which determines the interaction with eukaryotic PMs (
+     ), and two putative nuclear localization signals at the C-terminus (
+     ). Therefore, YopM can be translocated directly into the cytosol of target cells and further transported into the nucleus via vesicle trafficking (
+     ).
+    </p>
+    <p>
+     Little is known about the translocon-independent translocation of T3 effectors from plant-pathogenic bacteria except for the TAL effector AvrBs3 from
+     <italic>
+      Xcv
+     </italic>
+     . Preliminary infection experiments with
+     <italic>
+      Xcv
+     </italic>
+     translocon mutants and endocytosis inhibitors deny a contribution of endocytosis to the delivery of AvrBs3 (
+     ). A possible route for AvrBs3 translocation from the translocon mutants is a direct transportation through pore formation. The pore could be proteolipidic (
+     ) and could be generated by means of proteic and lipidic constituents, which are required for the translocation of T3 effectors from xanthomonads (
+     ;
+     ,
+     ). However, the efficiency of AvrBs3 translocation from the translocon mutants is much lower than that from the WT strain, indicating that the translocon-independent route is used in the absence of alternative.
+    </p>
+    <p>
+     The third model of T3ET (
+     left black pathway) was recently proposed to emphasize the effector endocytosis through direct interaction with receptors situated in eukaryotic PMs (
+     ). The molecular interaction may trigger the membrane trafficking mechanism (
+     ) either by endoplasmic reticulum (ER) or vesicles (
+     ), providing a potential scheme for bacterial effector endocytosis (
+     ). Protein and lipid trafficking via ER is universal (
+     ;
+     ), and vesicle-mediated PIP trafficking has been elucidated in roots of Arabidopsis following treatment with H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     (
+     ). The treatment induces AtPIP2;1 accumulation in the late endosomal compartments, and increases stability of the PIP and its homologs in the cytoplasm (
+     ). Like AtPIP1;4 (
+     ,
+     ), AtPIP2;1 also is an H
+     <sub>
+      2
+     </sub>
+     O/H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     /CO
+     <sub>
+      2
+     </sub>
+     triple channel (
+     ;
+     ), but no study shows whether or not AtPIP2;1 resembles AtPIP1;4 to regulate bacterial effector translocation. It is deserved of studying whether multiple substrate specificities of a PIP enable it to accommodate bacterial effectors.
+    </p>
+    <p>
+     There are two examples indicating the possibility that T3 effectors of plant-pathogenic bacteria are translocated along with membrane trafficking. One is the T3 effector HopZ1a of
+     <italic>
+      Pseudomonas syringae
+     </italic>
+     pv.
+     <italic>
+      syringae
+     </italic>
+     , bacterial pathogen of many plants. HopZ1a, HopZ1b, and HopZ1c are allelic forms, constitute the HopZ1 family of
+     <italic>
+      P. syringae
+     </italic>
+     T3 secretion system, and share a consensus myristoylation site required for membrane localization (
+     ). HopZ1a is an acetyltransferase, is activated by the eukaryotic co-factor phytic acid, and turns to acetylate itself and tubulin. Tubulin acetylation causes a decrease in microtubule networks, disrupts the secretory pathway, and suppresses cell wall-associated defense in plants (
+     ). The defense is subject to complex regulatory networks, which involve vesicle trafficking linked to microtubules (
+     ). The other example is the T3 effector HopM1 of
+     <italic>
+      P. syringae
+     </italic>
+     pv.
+     <italic>
+      tomato
+     </italic>
+     . To infect tomato plants, the bacteria secrets HopM1, and delivers it into the plant PM-derived trans-Golgi network/early endosome (
+     ), suggesting a role of vesicle trafficking in HopM1 translocation.
+    </p>
+    <p>
+     The involvement of AQPs in T3 effector endocytosis can be speculated from independent studies summarized below. The trafficking of animal AQPs towards the cell interior is triggered by the AQP binding to a different protein (
+     ;
+     ), such as vasopressin (
+     ), or heat shock protein HSP70 (
+     ). Nevertheless, molecular interactions at the PM transiently affect PM integrity (
+     ;
+     ;
+     ), which may extricate and internalize PM-associated proteins to accommodate foreign molecules like T3 effectors. It is possible that AvrBs3 and PthXo1 use this mechanism to enter rice cells together with OsPIP1;3 trafficking (
+     ). Both effectors may be internalized through trafficking of OsPIP1;3 en route to degradation by the proteasome (
+     ;
+     ) or the autophagosome (
+     ). This mode of trafficking and degradation has been shown to regulate animal AQP turnover (
+     ;
+     ) and may also apply to plant AQPs. It is necessary to verify whether OsPIP1;3, or any other PIPs, can interact with any of the bacterial effectors, in the absence of Hpa1, to cause the PIP and effector internalization.
+    </p>
+    <p>
+     How could PM binding lead to endocytosis of bacterial effectors? The binding of effectors or translocators to the PM induces transient damage to the integrity and function of PM compositions, providing an abnormal pathway for bacterial effector translocation (
+     ). In addition to T3, other secretion systems, such as T4, may be involved also (
+     ).
+     <italic>
+      Salmonella enterica
+     </italic>
+     serovars are intracellular facultative pathogens with a wide host range, and cause serious diseases including typhoid fever and cholera in humans (
+     ;
+     ). About 40 different T3 effectors confer differential virulence to different serovars. For infection,
+     <italic>
+      Salmonella
+     </italic>
+     bacteria establish a bacteria-containing vacuole (BVC), induce tubules, and then deliver the T3 effector SteA onto the BCV and tubules. In both structures, SteA specifically interacts with PI4P to move into host cells (
+     ).
+     <italic>
+      Legionella pneumophila
+     </italic>
+     , the pathogen responsible for Legionnaire’ disease, creates BCV through effectors secreted by the Dot/Icm T4 system (
+     ). In BCV, the pathogen hijacks host PM trafficking to induce BCV maturation (
+     ). The BCV membrane mainly contains PI4P (
+     ;
+     ), which is important for anchoring many Dot/Icm effectors onto BCV (
+     ). The T4 effector LepBd of
+     <italic>
+      L. pneumophila
+     </italic>
+     is a phosphatase (PP), and specifically converts PI3P into PI(3,4)P
+     <sub>
+      2
+     </sub>
+     . PI(3,4)P
+     <sub>
+      2
+     </sub>
+     is efficiently hydrolyzed into PI4P (
+     ), which may be used to replenish the PI4P stock of BCV. This mechanism is also employed by the T3 effector SopB of cholera pathogen
+     <italic>
+      S. enterica
+     </italic>
+     serovar Typhimurium. Like the T4 effector LepBd of
+     <italic>
+      L. pneumophila
+     </italic>
+     , the T3 effector SopB of Typhimurium is also a PP, but possesses both 4-PP and 5-PP activities. This dual enzymatic function is essential for the formation of BCV membrane ruffles and subsequent bacterial invasion. The 5-PP activity of SopB is assumed to generate PI(3,4)P
+     <sub>
+      2
+     </sub>
+     , which is then recruited by sorting nexin 9 (SNX9), an actin-modulating protein. The 4-PP activity converts PI(3,4)P
+     <sub>
+      2
+     </sub>
+     to PI3P. Alone, neither activity is sufficient for membrane ruffling. Instead, combined 4-PP and 5-PP activities induce SNX9-mediated membrane ruffling and bacterial invasion (
+     ).
+    </p>
+    <p>
+     The three models of T3ET may be chosen to use circumstantially by bacteria with genetic variations in the T3 repertoire. For example, the translocon-dependent mechanism guarantees efficient translocation of AvrBs3 from the wild-type
+     <italic>
+      Xcv
+     </italic>
+     strain (
+     ), in contrast to insufficient translocation from the bacterial translocon mutants in a translocon-independent manner (
+     ). An early report stated that the carboxy (C)-terminal region of HrpF is essential for the entry of
+     <italic>
+      Xcv
+     </italic>
+     AvrBs3 into plant cells, whereas the nitrogen (N)-terminal contains a secretion signal and has no effect on effector translocation (
+     ). This suggests that xanthomonads T3ET occurs in a translocon-dependent manner. By contrast, a recent report proposed a translocon-independent pathway (
+     ). The N-terminal 10 and 50 amino acids are required for T3 secretion and AvrBs3 translocation, respectively. Additional signals in the N-terminal 30 amino acids and the region between amino acids 64 and 152 promote AvrBs3 translocation. AvrBs3 translocation occurs in the absence of the T3 secretion chaperon HpaB, and in the absence of HrpF, which is a predicted component of the T3 translocon assembly. The authors suggested that the delivery of AvrBs3 begins during the early stages of infection, before the activation of HpaB or translocon integration into the plant PM (
+     ). It is more likely that a different translocator, present in reserve and lacking function when the bacteria possesses a workable HrpF, is employed when HrpF loses function or is removed from the bacterial proteome.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     A Cytological Gap Between H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     Signaling and Immunity Pathways
+    </title>
+    <p>
+     H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     is stable compared with other ROS molecules such as the superoxide anion O
+     <sub>
+      2
+     </sub>
+     and hydroxyl radical OH
+     . In plants, H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     is produced by the enzymatic activities via multiple biochemical mechanisms (
+     ). These mechanisms include electron leakage from the electron transport chain in chloroplasts and mitochondria, the activity of peroxisomal oxidases and peroxidases in cytoplasm or plant cell walls, as well as the activity of NADPH oxidases (NOXs) in the PM (
+     ). The rapid production of ROS, especially H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     , indicates the successful recognition of pathogen infection and molecular patterns (
+     ;
+     ). Well-known examples of pathogenic patterns include invariant microbial epitopes, such as fungal chitin (
+     ) and bacterial flagellin (
+     ) and harpin proteins (
+     ;
+     ). These pattern molecules can be recognized by pattern receptors within the PM, which induce immune responses, including H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     production, in plants (
+     ;
+     ;
+     ).
+    </p>
+    <p>
+     The production of H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     is typically apoplastic, resulting mainly from the enzymatic activity of NOXs located in PMs (
+     ;
+     ;
+     ). Then, there is crosstalk between H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     and immunity pathways, such as systemic acquired resistance (SAR) and pattern-triggered immunity (PTI) to regulate plant disease resistance (
+     ). SAR is characteristic of the induced expression of pathogenesis-related (PR) genes, typically
+     <italic>
+      PR-1
+     </italic>
+     and
+     <italic>
+      PR-2
+     </italic>
+     , under the regulation of non-inducer of
+     <italic>
+      PR
+     </italic>
+     genes-1 (NPR1) (
+     ;
+     ). NPR1 functions through conformational changes under cytoplasmic redox conditions (
+     ) and through proteasome-mediated turnover in the nucleus (
+     ). The PTI pathway activates a cytoplasmic MAPK cascade (
+     ), including a branch in which MPK3 and MPK6 phosphorylate different substrates (
+     ;
+     ) to activate immune responses, including H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     and callose production (
+     ;
+     ). Callose is a β-1,3-glucan synthesized by glucan synthase-like (GSL) enzymes, with GSL5 playing a critical role in cellular immune responses (
+     ). Therefore, both the SAR and PTI pathways comprise pivotal tiers of intracellular responses in the crosstalk with H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     produced in the apoplast (
+     ). It is clear that a cytological gap exists between H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     generation and functional performance. In fact, it remains unclear for a long time how apoplastic H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     penetrates plant PMs to enter the cytoplasm and regulate immunity.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     PIP-Mediated H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     Transport and Its Immunological Importance
+    </title>
+    <p>
+     Hpa1, applied to plants or produced in transgenic plants, functions as a bacterial pattern to activate the PTI and SAR pathways (
+     ). Both pathways are activated by the generation of ROS, especially H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     , in plant apoplasts. In Arabidopsis, inoculation with the bacterial pathogen
+     <italic>
+      Pseudomonas syringae
+     </italic>
+     pv.
+     <italic>
+      tomato
+     </italic>
+     or treatment with bacterial patterns, including Hpa1 and the flagellin functional fragment flg22, induce H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     generation in the apoplast. This H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     moves quickly into the cytoplasm, where H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     associates with PTI and SAR signal transduction. AtPIP1;4 serves as a H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport channel to facilitate apoplastic H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     import into the cytoplasm (
+     ), bridging the cytological gap in immunity signaling cascades (
+     ).
+    </p>
+    <p>
+     This finding validates the hypothesis that H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport across a biomembrane is mediated by particular AQP isoforms in addition to certain membrane lipids (
+     ,
+     ;
+     ;
+     ). AQPs are transmembrane channels essential for the transport of H
+     <sub>
+      2
+     </sub>
+     O, H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     , and other small substrates in all living cells (
+     ;
+     ). In this way, AQPs can modulate many physiological and/or pathological processes (
+     ;
+     ,
+     ;
+     ;
+     ;
+     ). In most plant species, five major families of AQPs exist. The PIP family has 11 members, PIP1;1–5 and PIP2;1–8 (
+     ;
+     ;
+     ). These are believed to mediate the transport of different substrates across plant PMs in an overlapping or redundant substrate-specific manner (
+     ;
+     ,
+     ;
+     ). To date, five AtPIP isoforms (2;1, 2;2, 2;4, 2;5, and 2;7) are assumed to mediate H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport in engineered yeast cells (
+     ). The
+     <italic>
+      de novo
+     </italic>
+     expression of these PIPs can increase H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     sensitivity and decrease the viability of yeast (
+     ;
+     ). Based on incomplete literature search, not all PIPs whose expression increases H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     sensitivity and decreases the viability of yeast have been verified for the H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transporting function. AtPIP2;1 was determined to increase H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     uptake by yeast cells (
+     ;
+     ) and by Arabidopsis guard cells (
+     ). AtPIP1;4 has been shown to function in H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport from the apoplast into the cytoplasm of Arabidopsis (
+     ). Many works are required to test
+     <italic>
+      in planta
+     </italic>
+     function of the AQP candidates in H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     translocation.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Conservative AQP Function for H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     Transport
+    </title>
+    <p>
+     AtPIP1;4 was determined to have triple substrate specificities (
+     ;
+     ). In addition to transporting H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     (
+     ), AtPIP1;4 partakes in the cellular hydraulic conductance (P
+     <sub>
+      f
+     </sub>
+     ) of roots, and in mesophyll conductance of CO
+     <sub>
+      2
+     </sub>
+     (
+     <italic>
+      g
+     </italic>
+     <sub>
+      m
+     </sub>
+     ); however, it does not affect stomatal CO
+     <sub>
+      2
+     </sub>
+     conductance (
+     <italic>
+      g
+     </italic>
+     <sub>
+      s
+     </sub>
+     ) or P
+     <sub>
+      f
+     </sub>
+     in leaves (
+     ). The interaction of AtPIP1;4 with Hpa1 at Arabidopsis PMs promotes substrate transport, increasing the net photosynthesis rate (
+     <italic>
+      A
+     </italic>
+     <sub>
+      N
+     </sub>
+     ), while P
+     <sub>
+      f
+     </sub>
+     is also increased in leaves and roots (
+     ). Therefore, a PIP can alter its physiological functions or effect extents in response to plant pathogens or bacterial patterns.
+    </p>
+    <p>
+     The function of AtPIP1;4 in immunity is an extension of its primary roles in substrate transport, which was initially assigned to AQPs in mammals (
+     ) and subsequently in plants (
+     ). The functional extension of AtPIP1;4 has biological importance for at least two reasons. First, AtPIP1;4-dependent SAR responses induced by bacterial pathogens effectively repress pathogen virulence (
+     ;
+     ). In this case, pathogen-associated repressors of plant immunity (
+     ;
+     ;
+     ) may be inhibited, or their immunity-repressing functions may be counteracted by the role of AtPIP1;4 in H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     translocation, which is linked to the immunity pathway. Second, AtPIP1;4 is an integral component of PTI in response to typical patterns, with conserved microbial cell-surface composition, i.e., flagellin (
+     ) and chitin (
+     ). Despite their different biochemical nature, both patterns require AtPIP1;4 to induce PTI responses, except in the absence of induced
+     <italic>
+      MPK6
+     </italic>
+     expression (
+     ). This is consistent with previous findings that the MAPK cascade diverges at MPK3 and MPK6 (
+     ;
+     ) to regulate distinct substrates in response to different patterns (
+     ;
+     ). Moreover, the induction of
+     <italic>
+      MPK3
+     </italic>
+     expression represents a circuit of the MAPK cascade in response to H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     (
+     ). These sets of information suggest that AtPIP1;4 plays a prominent role in immunity signaling by mediating apoplastic H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     translocation into plant cells.
+    </p>
+    <p>
+     AQP-mediated H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport in immune signaling also occurs in mammals. Among 13 AQPs, AQP3 is a H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport channel (
+     ). AQP3-mediated H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport is associated with necrosis factor-κB (NF-κB) signaling in keratinocytes, and in the pathogenesis of psoriasis in response to cytokine regulation (
+     ). The induction of psoriasis by cytokines, NF-κB activation, and intracellular H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     accumulation are concomitantly reduced in AQP3-knockout mice. In primary keratinocyte cultures, H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     is generated by membrane-associated NOX2 in response to TNF-α, and moves into intracellular spaces. Cellular import of H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     is facilitated by AQP3 and is required for NF-κB activation under PP2A regulation. Since AQP3 associates with NOX2 at PMs, this interplay may constitute H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     -mediated signaling in response to TNF-α stimulation (
+     ). Moreover, under oxidative stress, AQP3-mediated H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport attenuates apoptosis by regulating the P38 MAPK pathway (
+     ;
+     ). Based on these findings, and those regarding PIPs, cytoplasmic import across the PM can reduce the cytological distance for H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     generation, and functional performance (
+     ;
+     ;
+     ). Apocytoplastic signaling is conserved in plants and animals.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     AQP Structure for H
+     <sub>
+      2
+     </sub>
+     O Transport
+    </title>
+    <p>
+     It is unclear how different AQPs function in the transport of corresponding substrates, and how an AQP, such as AtPIP1;4 (
+     ;
+     ), can function as a triple substrate transport conduit. One hypothesis is that structural details allow for differences in selectivity and modes of regulation (
+     ). Regarding H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport, the structures of AQP/PIP channels have not been studied, but can be inferred from information on structures of AQPs that function as water channels.
+    </p>
+    <p>
+     Plant aquaporins are predominant channels of H
+     <sub>
+      2
+     </sub>
+     O transport between the outside and inside of the cell, and between intracellular organelles (
+     ). Although cotransporters and uniporters have been implicated in water homeostasis, AQPs have been accepted as intramolecular channels for the transmembrane movement of H
+     <sub>
+      2
+     </sub>
+     O down an osmotic gradient (
+     ;
+     ;
+     ;
+     ). H
+     <sub>
+      2
+     </sub>
+     O transport by AQPs is determined by their three-dimensional structure.
+    </p>
+    <p>
+     Structural studies have characterized AQPs as homotetramers, which are integrated into the membrane with conserved configurations (
+     ;
+     ;
+     ;
+     ;
+     ;
+     ). Each monomer has a functional pore formed by six α-helical TM domains (TM1–TM6), five connecting loops (LA–LE), and two shorter helices (HB and HE). The outward end of HB and inward end of LE contain a pair of asparagine (N), proline (P), and alamine (A) tandem (NPA) motifs, which constitute the central channel through the membrane (
+     ). Two NPAs form a conical funnel or traditional hourglass, which are linked at the tip and open outward from LE and inward from TM5 (
+     ), and are essential for AQP function (
+     ;
+     ). Within LE, TM2 and TM5, the aromatic/arginine (Ar/R) selective filter (SF) is formed by four residues including aromatic amino acids and an arginine (R) residue; hence its name (
+     ). The SF is located in the outward opening of the channel and allows H
+     <sub>
+      2
+     </sub>
+     O to pass while repelling protons and cations (
+     ). Multiple physical factors, such as hydrophilic and hydrophobic interactions, electrostatic repulsion, and dipole alignment between amino acid residues within or around the NPA and SF, influence substrate selectivity (
+     ).
+    </p>
+    <p>
+     A pivotal step toward the substrate-transporting function of AQPs is the regulation of gating (opening and closing) and trafficking (substrate transport). This has been elucidated for water channels at angstrom (Å) or sub-Å resolution (
+     ;
+     ;
+     ;
+     ). Considering spinach
+     <italic>
+      Spinacia oleracea
+     </italic>
+     SoPIP2;1, channel opening is triggered by the phosphorylation of conserved serine (S) 197 (
+     ;
+     ), and is expedited by hydrogen bond networks in LD (
+     ). Channel closure results from the dephosphorylation of S115 in LB and S274 in the C-terminal region of the AQP sequence under conditions of drought stress, or from the protonation of a conserved histidine (H) residue following a decrease in cytoplasmic pH due to anoxia during flooding. Dissection of SoPIP2;1 crystal structures, both the closed conformation at 2.1 Å and the open conformation at 3.9 Å, reveals the importance of LD displacement for gating and trafficking. The dephosphorylation of S115 and S274 prevents outward NPA entry from LB, and inward NPA exit in TM5. In the open conformation of SoPIP2;1, S197 is phosphorylated at LD, LD is displaced up to 16 Å, the nitrogen terminus of TM5 extends a further half-turn into the cytoplasm, and NPA entry and exit are promoted. In addition, H193 protonation and interactions between amino acids, including hydrogen bond networks and electrostatic repulsion, also influence the switch between opening and closing of the channel (
+     ).
+    </p>
+    <p>
+     Crystal structure analysis of Aqy1, the only AQP in yeast
+     <italic>
+      Pichia pastoris
+     </italic>
+     , at a sub-Å (0.88 Å) resolution, provides evidence for tautomeric reactions to expedite H
+     <sub>
+      2
+     </sub>
+     O transport (
+     ). Hydrophilic amino acids in NPA and SF interact to bind H
+     <sub>
+      2
+     </sub>
+     O molecules, which are then navigated through the channel. With polar hydrogen bond configurations, four H
+     <sub>
+      2
+     </sub>
+     O molecules per group pass the SF, and then divide into two pairs to pass through the inward NPA region. There are two types of tautomerism between hydrophilic amino acids in the SF. One is proton transfer – the atom Nδ, but not Nε, of H212 is protonated to provide a proton for L208, with the role of guiding H
+     <sub>
+      2
+     </sub>
+     O movement. The other one is covalent binding – atoms Cζ and Nη2 of R227 maximally bind to each other, Nη2 is closest to the central conduit, and its positive charge repels cations, creating favorable conditions for H
+     <sub>
+      2
+     </sub>
+     O to travel through the SF. With this advantage, four compact H
+     <sub>
+      2
+     </sub>
+     O molecules are located within the full space of the SF, where they synchronize to move within and across the SF passage. Due to high impacts of atom tautomerism and hydrogen-bond interactions restricted to the H
+     <sub>
+      2
+     </sub>
+     O molecules in transport, other H
+     <sub>
+      2
+     </sub>
+     O molecules must wait for the next round of the channel opening and trafficking, and proton or cations are unable to enter the SF.
+    </p>
+    <p>
+     In addition to the structural configuration, biochemical regulation is also indispensable to the function of AQPs. In this aspect, channel gating and trafficking regulation by phosphorylation are ubiquitous for all AQPs (
+     ;
+     ;
+     ;
+     ). Additionally critical mechanisms underlying the functional regulation of different AQPs include biotic and abiotic signals. They induce the transport of different substrates (
+     ;
+     ;
+     ;
+     ) by stimulating AQPs themselves with gradients over membranes and by interacting with other proteins (
+     ;
+     ). These have been topics of many literatures (for example:
+     ;
+     ;
+     ;
+     ;
+     ;
+     ) and will not been discussed in this article.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Control of Substrate Specificities
+    </title>
+    <p>
+     This is a question for AQPs capable of transporting substrates other than H
+     <sub>
+      2
+     </sub>
+     O, especially those that have multiple permeation properties. In addition to H
+     <sub>
+      2
+     </sub>
+     O, approximately 20 other substrates require AQPs to move between the exterior and interior of cells, and between organelles (
+     ). A fifth pore created by four AQP monomers of a homotetramer in the lipid bilayer (
+     ) or yeast membrane (
+     ) has been proposed for gas (CO
+     <sub>
+      2
+     </sub>
+     and O
+     <sub>
+      2
+     </sub>
+     ) and ion transport (
+     ). Moreover, many AQPs have more than one substrate (
+     ;
+     ;
+     ;
+     ). Examples include AtPIP2;1 for H
+     <sub>
+      2
+     </sub>
+     O/H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     (
+     ;
+     ), AtPIP1;4 for H
+     <sub>
+      2
+     </sub>
+     O/H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     /CO
+     <sub>
+      2
+     </sub>
+     (
+     ;
+     ), and TIPs for H
+     <sub>
+      2
+     </sub>
+     O, H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     and/or ammonia (NH
+     <inline-formula>
+      <ns0:math id="INEQ3">
+       <ns0:msub>
+        <ns0:mi/>
+        <ns0:mn>
+         3
+        </ns0:mn>
+       </ns0:msub>
+      </ns0:math>
+     </inline-formula>
+     ;
+     ;
+     ;
+     ) transport. Regulation of gating and trafficking must differ considerably between specialist channels, different generalist channels, and channels for H
+     <sub>
+      2
+     </sub>
+     O and a different substrate. Variation in NPA diameter, the composition and width of SF, neighboring residues, and their interactions with each other and with the substrate might explain multiple functions of AQPs/PIPs in the transport of different substrates, and the multiple substrate transport capacities of a single AQP/PIP (
+     ).
+    </p>
+    <p>
+     Recently, a smart solution was proposed in a study on the 1.18 Å crystal structure of AtTIP2;1 (
+     ). That study characterized AtTIP2;1 as an NH
+     <sub>
+      3
+     </sub>
+     transport channel, which functions with an extended SF. The channel diameter in the NPA region is smaller than that of other AQPs, but remains constant at ∼3Å along the channel; this is in contrast to the narrowing of SF in other AQPs. The topological positions of four SF residues in TM2, TM5, LE, and HE are thought to determine substrate selectivity (
+     ). Consistent with this model, TIP2s deviate from other AQPs in terms of the wider SF, which is mainly caused by an isoleucine (I185) in TM5, replacing a histidine that is conserved in water-specific AQPs (
+     ). The most striking feature of the SF in AtTIP2;1 is the R200 located in HE, while the arginine in HE is conserved in most AQPs. In AtTIP2;1, the R200 side chain is located at the edge of the channel due to the H131 situated in LC, making histidine the fifth residue of the extended SF. The position of this arginine is further stabilized by a hydrogen bond with histidine (H63) in TM2, which occupies the same space as the corresponding aromatic residues of water and glycerol channels without direct effects on the channel opening (
+     ). Moreover, H131 in LC interacts directly with the substrate in the selectivity region. These structural features define the extended SF at five positions: I185, R200, H131, and H63, which have properties and configurations that establish the novel SF, plus G191 in LE, which is conserved in the canonical and extended SF. The concept of extended SF is instructive to conceiving study schemes before initiating analysis of APQ/PIP channels for transport of H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     and more substrates other than H
+     <sub>
+      2
+     </sub>
+     O and NH
+     <sub>
+      3
+     </sub>
+     .
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Structural Basis of PIPs for Mediation of H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     Transport
+    </title>
+    <p>
+     Until the structural basis of PIP/AQP functions in H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport is dissected, no more than inspiration can be deduced from referencing the crystal structures of SoPIP2;1 for NH
+     <sub>
+      3
+     </sub>
+     transport (
+     ) and both Aqy1 (
+     ) and AtTIP2;1 (
+     ) for H
+     <sub>
+      2
+     </sub>
+     O transport. The topological displacement of the connecting loop (
+     ) may have a broad importance for AQPs. Tautomeric reactions (
+     ) and the SF extension (
+     ) might be used by certain PIPs/AQPs to expedite H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport. However, these features are likely to be insufficient to support H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport, due to the difference in diameter/molecular mass of H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     (3.70 Å/34), H
+     <sub>
+      2
+     </sub>
+     O (2.96 Å/33) and NH
+     <sub>
+      3
+     </sub>
+     (&lt;2.96 Å/17), and in the Ar/R SF features. The location and composition of the SF is identical (F87, H126, T225, R231) in the H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     channel AtPIP2;1 (
+     ) and the water channel SoPIP2;1 (
+     ). However, the SF composition shared by AtPIP2;1 and SoPIP2;1 is distinct from that in the corresponding positions (G87, I126, L225, and T231) of the H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     channel AtPIP1;4 (
+     ). AtPIP1;4 is the same length as OsPIP2;1, but possesses six more residues than SoPIP2;1, with a predicted Ar/R SF comprising F95, H224, T231, and R239 (
+     ). If the SF extension permits AQPs to mediate H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport, the degree of the SF extension must be considerably higher than that in the NH
+     <sub>
+      3
+     </sub>
+     transport channel (
+     ).
+    </p>
+    <p>
+     Three issues are considered to infer the structural basis of the function of PIPs in H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport between the outside and inside of plant cells. First, the apocytoplastic transport of H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     is more intricate as compared to the signal shift ways by the cell-to-cell traveling via plasmodesmata (
+     ) and via vesicle-aided trafficking between organelles through the ER system within the cell interior (
+     ;
+     ). Second, H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport in and out of plant cells is not constant throughout the life circle of plants (
+     ;
+     ). Third, H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     trafficking across the PM is induced but is not constitutive, and occurs only when apoplastic H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     is generated in response to pathogens, microbial patterns, or environmental signals (
+     ;
+     ;
+     ;
+     ).
+    </p>
+    <p>
+     Plasma membrane sensing of these distinct signals will promote H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     generation in apoplasts and its immediate translocation into the cytoplasm (
+     ;
+     ;
+     ) by three possible mechanisms. One is inductivity (
+     ). When plants are infected by a pathogen or respond to a microbial pattern, such as Hpa1 or flg22, the enzymatic activity of NOX is induced to catalyze the generation of H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     by peroxidation and superoxidation in PMs (
+     ;
+     ). The generated H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     accumulates, and the concentration increases temporarily in the apoplast. This creates a gradient from the outside to the inside of the cell (
+     ), and induces the PIP channel to function (
+     ).
+    </p>
+    <p>
+     The second mechanism is speculated to be the combination of factors (
+     ) found in SoPIP2;1 (
+     ), Aqy1 (
+     ), and AtTIP2;1 (
+     ). Combined factors facilitate the passage of H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     through the PIP channel, which could be established by SF extension (
+     ), and optimized by amino acid protonation (
+     ). H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     generation (2O
+     <sub>
+      2
+     </sub>
+     + 2H
+     = H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     ) requires protons, and may reduce the likelihood that amino acid residues near the SF and NPA regions are protonated. As the protonation navigates H
+     <sub>
+      2
+     </sub>
+     O movement along the channel (
+     ), decreased protonation will disturb H
+     <sub>
+      2
+     </sub>
+     O transport. This might promotes the transport of H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     over H
+     <sub>
+      2
+     </sub>
+     O through a PIP channel once a sufficient diameter is reached (&gt;3.70 Å).
+    </p>
+    <p>
+     The third mechanism is supposed to be biochemical responses (
+     ) associated with the regulation of PM remodeling – injury and repair (
+     ;
+     ). PM remodeling is triggered by the binding of an active extrinsic protein, including microbial patterns such as Hpa1 (
+     ;
+     ), bacterial T3 translocators such as HrpF (
+     ;
+     ), and bacterial effectors (
+     ;
+     ;
+     ). Binding of these bioactive proteins affects the PM integrity (
+     ;
+     ). Reduced PM integrity is advantageous for solute influx, which, however, is strictly regulated by proteins and lipids that recognize microbial patterns, T3 effectors, or translocators (
+     ).
+    </p>
+    <p>
+     The former two mechanisms may synergize in the gating and trafficking regulation, requiring AtPIP1;4 to transport H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     in plants grown under regular conditions without any input signal, except for externally applied H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     or H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     induced by a pathogen or a microbial pattern (
+     ). The third mechanism may occur in the presence of Hpa1 following application to plants or production in transgenic plants, in which AtPIP1;4 interacts with Hpa1 (
+     ) to increase the substrate transport function. Studies should aim to verify this hypothesis in order to elucidate the structures of PIP orthologs as transport channels for H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     or different substrates.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Conclusion and Perspectives
+    </title>
+    <p>
+     Finite research performed on these case studies is based on a solid foundation obtained through extensive studies; research on the structural regulation of PIP function in plant infection and immunity is invited. The first case study on Hpa1-mediated, OsPIP1;3-associated, and virulence-relevant PthXo1 translocation offers multiple experimental avenues to characterize interactions between T3 translocators and their receptors at target PMs, as well as the associated implications for effector translocation and virulence. The two subjects discussed here are yet to be thoroughly studied. First, which of the assumed delivery lanes is used by different effectors is a long-standing question for all plant-pathogenic bacteria. Xoo possesses more than 30 effectors secreted by the T3 system (
+     ), similar to the number in other bacteria. Further study is needed to identify all T3 effectors in the three proposed mechanisms: translocon-independent pore formation (
+     ), endocytosis with PM protein or lipid trafficking (
+     ,
+     ), and translocon-dependent delivery (
+     ). The second subject includes the contribution of PM lipids and proteins to T3 effector translocation. T3 translocon assembly or pore formation must recruit both lipids and proteins situated in plant PMs (
+     ;
+     ;
+     ;
+     ;
+     ). It would be of great interest to determine how effectors are internalized with PM protein or lipid trafficking, and how protein and lipid receptors of T3 translocators coordinate their actions to generate pores or translocons in plant PMs.
+    </p>
+    <p>
+     The second case study discusses AtPIP1;4-regulated, Hpa1-promoted, and immunity-linked H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport, and establishes a cytological connection between the generation and function of H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     in the apoplast and cytoplasm, respectively (
+     ). The cytoplasmic import of H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     bridges a physical gap, which was unknown for at least 20 years since the biphasic H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     accumulation following induction was awarded biological significance (
+     ). AtPIP1;4-mediated H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     translocation is a pivotal step in apocytoplastic signal transduction for intracellular immunity pathways, which regulate SAR and PTI responses, leading to plant resistance against diseases (
+     ;
+     ,
+     ;
+     ;
+     ). The future focus of studies will be difficult, highlighting the regulation of gating and trafficking of the AtPIP1;4 channel for H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport. To date, the structures of AQP channels have only been determined for the transport of NH
+     <inline-formula>
+      <ns0:math id="INEQ4">
+       <ns0:msub>
+        <ns0:mi/>
+        <ns0:mn>
+         3
+        </ns0:mn>
+       </ns0:msub>
+      </ns0:math>
+     </inline-formula>
+     (
+     ) and H
+     <sub>
+      2
+     </sub>
+     O (
+     ;
+     ;
+     ;
+     ), and almost 20 substrates remain to be understood (
+     ). Rational hypotheses on structural themes in both gating and trafficking (
+     ) requires the efforts of researchers to explore structural mechanisms that govern diverse AQP channels. It is necessary to dissect the conformation of AtPIP1;4 (
+     ) involved in H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport in response pathogens or patterns (
+     ). It is especially necessary to study whether the H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     transport is facilitated by combined impetuses, including the SF extension, amino acid residue interactions (
+     ), and PM protein trafficking (
+     ).
+    </p>
+    <p>
+     The two case studies have been designed to converge at the intersection Hpa1-PIP cooperation and branch into two directions. One targets plant immunity, for which Hpa1 functions as a bacterial pattern in a pathogen-independent manner. The other contributes to plant infection, in which Hpa1 acts as a T3 translocator after secretion by the bacteria, and mediates the translocation of virulent effectors that lead to disease. These findings provide insight into disease control either through induced immunity, or the prevention of bacteria from usurping the substrate transport gate. Practical application of both strategies to strengthen crop protection (
+     ;
+     ;
+     ;
+     ;
+     ) will integrate with crop involvement by using AQPs from plants themselves (
+     ;
+     ) and from symbiotic microbes as well (
+     ;
+     ).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Author Contributions
+    </title>
+    <p>
+     LZ, LC, and HD drafted the manuscript. LZ predicted the 3D structure of AtPIP1;4. HD finalized the manuscript.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Conflict of Interest Statement
+    </title>
+    <p>
+     The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

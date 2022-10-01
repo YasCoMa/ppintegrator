@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Immunoglobulin for Treating Bacterial Infections: One More Mechanism of Action
+ </title>
+ <abstract>
+  <p>
+   The mechanisms underlying the effects of immunoglobulins on bacterial infections are thought to involve bacterial cell lysis via complement activation, phagocytosis via bacterial opsonization, toxin neutralization, and antibody-dependent cell-mediated cytotoxicity. Nevertheless, recent advances in the study of the pathogenicity of Gram-negative bacteria have raised the possibility of an association between immunoglobulin and bacterial toxin secretion. Over time, new toxin secretion systems like the type III secretion system have been discovered in many pathogenic Gram-negative bacteria. With this system, the bacterial toxins are directly injected into the cytoplasm of the target cell through a special secretory apparatus without any exposure to the extracellular environment, and therefore with no opportunity for antibodies to neutralize the toxin. However, antibodies against the V-antigen, which is located on the needle-shaped tip of the bacterial secretion apparatus, can inhibit toxin translocation, thus raising the hope that the toxin may be susceptible to antibody targeting. Because multi-drug resistant bacteria are now prevalent, inhibiting this secretion mechanism is an attractive alternative or adjunctive therapy against lethal bacterial infections. Thus, it is not unreasonable to define the blocking effect of anti-V-antigen antibodies as the fifth mechanism for immunoglobulin action against bacterial infections.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="sec1-antibodies-08-00052" sec-type="intro">
+    <title>
+     1. Introduction
+    </title>
+    <p>
+     In immunology textbooks, the mechanism involved in the effect of immunoglobulins against infectious diseases is described as having four main features: (1) Complement-associated immunolysis, (2) opsonization (immunophagocytosis), (3) toxin/virus neutralization, and (4) antibody-dependent cell-mediated cytotoxicity (ADCC) (
+     ) [
+     ,
+     ]. These four mechanisms of action were briefly summarized as follows:
+     <list list-type="simple">
+      <list-item>
+       <label>
+        (1)
+       </label>
+       <p>
+        Complement-associated immunolysis: After the antibody binds to certain Gram-negative bacteria, spirochetes, or other types of bacteria, the complement components react, pierce the cell membrane, and destroy the bacteria through cell lysis.
+       </p>
+      </list-item>
+      <list-item>
+       <label>
+        (2)
+       </label>
+       <p>
+        Opsonin action (immunophagocytosis): Neutrophils and macrophages have a receptor for the Fc portion of IgG and can effectively phagocytose bacteria that are bound to IgG antibodies via this receptor. IgG bound to bacteria induces active oxygen (O
+        <sub>
+         2
+        </sub>
+        ) (a bactericidal substance) in the phagosome, which in turn acts directly on the bacterium as an oxidant and promotes phagosome to lysosome fusion. The phagocytosed bacteria are then effectively sterilized and digested by cooperation with lysosomal enzymes.
+       </p>
+      </list-item>
+      <list-item>
+       <label>
+        (3)
+       </label>
+       <p>
+        Toxin neutralizing action: An antibody responds by binding to a toxin produced by a bacterium and neutralizing its activity. In the case of a viral infection, the antibody can bind to a virus particle to prevent the virus from entering the target cell.
+       </p>
+      </list-item>
+      <list-item>
+       <label>
+        (4)
+       </label>
+       <p>
+        ADCC: When IgG antibodies bind to the virus-related antigens expressed on the surface of a virus-infected cell, a natural killer cell with Fc receptors can then bind to and damage the virus-infected cell. In doing so, it destroys the infected cell, which is the site of virus propagation, and prevents the transmission of pathogenic viruses.
+       </p>
+      </list-item>
+     </list>
+    </p>
+    <p>
+     During a bacterial infection, immunoglobulins bind to the surface antigens on bacterial cells to promote bacterial lysis via complement, neutrophil- and macrophage-related phagocytosis, and the neutralization of bacterial toxins [
+     ]. Therefore, the virus-neutralizing action and ADCC are related to the role of intravenous immunoglobulin (IVIG) against viral infections. If limited to bacterial infections, the mechanism of immunoglobulins can be focused on mechanisms (1), (2), and part of (3). In addition to the above-mentioned mechanisms, as a supplementary action, immunoglobulins are thought to bind to the Fc receptors on lymphocytes and suppress cytokine production via stimulation by toxins or cytokines [
+     ,
+     ,
+     ].
+    </p>
+    <p>
+     From the clinical aspect, nonspecific IVIG is human polyclonal IgG from a pooled plasma of over 10,000 healthy blood donors [
+     ,
+     ]. Because IVIG comes from so many donors, it is thought to contain a wide array of variable regions of antibodies capable of binding to a large variety of antigens [
+     ]. With such an advantage, IVIG has been used to treat severe infections and autoimmune diseases [
+     ,
+     ,
+     ,
+     ]. Because patients with primary immunodeficiency are extremely susceptible to bacterial infection and IVIG can prevent infection in these patients [
+     ], there is no doubt that immunoglobulins in the body have a bioprotective activity that can prevent or cure infections [
+     ]. However, despite the description of the mechanism of action of immunoglobulins in the immunology textbook, with the exception of some infections, such as Group A streptococcus infections [
+     ], no clear clinically significant IVIG effects on severe bacterial infections and sepsis have been shown [
+     ,
+     ]. It has been suggested that this negative result involves multiple factors, such as the IVIG preparation, time of administration, dose, and the inflammatory/immunomodulation profile of the patients [
+     ]. It is highly likely that the heterogeneity of the antibody repertoire for specific toxins and antigens among various IVIG products and product lots has affected the negative results. These situations imply that the selection of target patients and the identification of target antigens for IVIG treatment are more critical for determining whether IVIG therapy can be effective against bacterial infections.
+    </p>
+    <p>
+     In contrast to the pessimistic aspects of vague clinical effects of IVIG therapy on severe bacterial infections and sepsis so far, important knowledge at the experimental level has accumulated concerning the mechanism of action of immunoglobulins against bacterial infections. Recent advances in our understanding of the virulence mechanism used by Gram-negative bacteria and the host’s immune response specific to the bacterial toxin secretion system (the type III secretion system) raise the possibility of the existence of an unknown mechanism for immunoglobulin-related pathogen targeting [
+     ,
+     ]. Experimental efforts related to these discoveries have suggested the potential for effective antibody therapy. Herein, as a consideration that leads to re-challenging the clinical application of effective immunoglobulin therapy, we overviewed the newly identified toxin-secreting function used by Gram-negative bacteria and the host immunity against it and reconsidered the mechanism of action of immunoglobulins against pathogenic Gram-negative bacteria.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec2-antibodies-08-00052">
+    <title>
+     2. The Bacterial Type III Secretion System and Its Toxins
+    </title>
+    <p>
+     In the early 1990s, Swedish bacteriologists reported that in
+     <italic>
+      Yersinia
+     </italic>
+     , the bacterial toxin YopE is directly sent from the bacterial cytosol to the cytoplasm of the target cells through a specialized secretory apparatus [
+     ,
+     ,
+     ]. Later, along with the progress obtained in the genome analysis of many pathogenic Gram-negative bacteria, this new concept of toxin secretion was verified and homologous secretion systems were found in various pathogenic Gram-negative species [
+     ,
+     ,
+     ,
+     ]. This type of toxin secretion, which was then called the type III secretion system, differs from the classical type I and II systems [
+     ].
+    </p>
+    <p>
+     Gene-level analyses have revealed that the type III secretion system evolved from flagella [
+     ,
+     ]. In
+     <italic>
+      Legionella
+     </italic>
+     and
+     <italic>
+      Helicobacter pylori
+     </italic>
+     , toxin proteins and nucleic acids were found to be driven into the target cells by a special secretion device that appears to have evolved from pili. Subsequently, the system was named the type IV secretion system [
+     ]. In both type III and IV secretion systems, toxins are injected directly into the cytoplasm of a target cell using a secretion device [
+     ,
+     ,
+     ]. Therefore, even in the presence of neutralizing antibodies against the toxin, the antibodies cannot neutralize the toxin itself unless the specific antibodies are shuttled into or penetrate into the host cells because the toxin reaches the target cell without exposure to the extracellular environment (
+     ). The fact that antibody immunization does not enable the host to offset the damage caused by the type III secretory toxins is alarming. Interestingly, toxins are produced in an inactive state in bacteria and only exert enzymatic activity in conjunction with a co-factor after being injected into eukaryotic cells [
+     ,
+     ]. Hence, the inactive toxin only exerts its action after entering the target cell. Thus, although surprising, Gram-negative bacteria are already equipped with a sophisticated stealth intoxication system capable of evading the host’s acquired immunity in the form of antibodies.
+    </p>
+    <p>
+     The toxin injection device, or ‘injectisome’, comprises many protein molecules [
+     ]. Toxins are called ‘effectors’, and the mechanism used by the toxins to move from the bacterial cytosol to the outside of the bacterial cell membrane is defined as ‘secretion’ [
+     ,
+     ,
+     ,
+     ]. The bacterium also makes holes in the cell membrane of the target cell to drive toxins into the cytoplasm, a process called ‘translocation’ [
+     ]. Translocation involves a two-protein structure called the ‘translocon’, which is described later [
+     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec3-antibodies-08-00052">
+    <title>
+     3. The V-Antigen of the Type III Secretion Apparatus and Its Specific Antibody
+    </title>
+    <p>
+     In the 1950s, British researchers reported that the protein components secreted from
+     <italic>
+      Yersinia pestis
+     </italic>
+     contain an antigen recognized by the serum from infected mice that exerts a vaccine effect in a mouse model of
+     <italic>
+      Y. pestis
+     </italic>
+     infection [
+     ,
+     ,
+     ,
+     ,
+     ,
+     ]. This antigen was named the V-antigen [
+     ]. Later on, in the 1980s, a set of proteins secreted from
+     <italic>
+      Yersinia
+     </italic>
+     (called Yop,
+     <italic>
+      Yersinia
+     </italic>
+     outer membrane proteins) under low-calcium conditions (named the low calcium-response,
+     <italic>
+      lcr
+     </italic>
+     ) were found to contain the V-antigen protein (or LcrV) [
+     ,
+     ]. The
+     <italic>
+      lcrV
+     </italic>
+     gene was then found in the pCD1 plasmid, which is essential for the pathogenicity of
+     <italic>
+      Yersinia
+     </italic>
+     [
+     ], and passive immunity against LcrV was reported [
+     ,
+     ]. In the early 1990s, as mentioned above, it was reported that
+     <italic>
+      Yersinia
+     </italic>
+     injects several Yop proteins directly into its target cells through a special secretion apparatus, and that this apparatus is associated with a set of genes, called the Yop virulon, found in pCD1 [
+     ,
+     ]. Among the five Yop virulon-associated operons, the
+     <italic>
+      lcrGVHyopBD
+     </italic>
+     operon that encodes the five proteins (including LcrV) plays a role in toxin translocation. Key experiments then showed that a knockout mutant of the LcrV gene,
+     <italic>
+      lcrV
+     </italic>
+     , lost its toxicity and that antibodies against it inhibited the toxicity [
+     ,
+     ].
+    </p>
+    <p>
+     In 1996, the exoenzyme S-related toxins were reported to be
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     type III secretion toxins [
+     ]. In 1997, in addition to two exoenzymes (ExoS and ExoT), the cytotoxic type III secretory toxin, ExoU, was newly discovered as a major lung injury factor in
+     <italic>
+      P. aeruginosa
+     </italic>
+     [
+     ]. Consequently, a region called the exoenzyme S regulon in the chromosomal genome of
+     <italic>
+      P. aeruginosa
+     </italic>
+     was discovered (
+     (1)) [
+     ]. Surprisingly, beyond the bacterial species lineage, the exoenzyme S regulon shares high homology with the
+     <italic>
+      Yersinia
+     </italic>
+     Yop virulon [
+     ]. In the exoenzyme S regulon, five operons encode the regulatory proteins, the secretion apparatus, and the translocon components (
+     (2)) [
+     ]. The
+     <italic>
+      pcrGVHpopBD
+     </italic>
+     operon, which is homologous to the
+     <italic>
+      Yersinia lcrGVHyopBD
+     </italic>
+     operon, encodes five proteins associated with toxin translocation (
+     (2)) [
+     ]. In 1999, the effects of PcrV vaccination and passive immunization with anti-PcrV antibodies in animal models of
+     <italic>
+      P. aeruginosa
+     </italic>
+     pneumonia were reported, as seen with the LcrV vaccinations against
+     <italic>
+      Yersinia,
+     </italic>
+     [
+     ]. In both
+     <italic>
+      Yersinia
+     </italic>
+     and
+     <italic>
+      P. aeruginosa
+     </italic>
+     , specific antibodies against LcrV and PcrV, respectively, reduced the infection pathology [
+     ,
+     ].
+    </p>
+    <p>
+     Translocation of
+     <italic>
+      Yersinia
+     </italic>
+     type III secretion involves two proteins—YopB and YopD—both of which are encoded by the
+     <italic>
+      lcrGVHyopBD
+     </italic>
+     operon [
+     ,
+     ]. The homologs of these
+     <italic>
+      P. aeruginosa
+     </italic>
+     proteins, which are encoded by
+     <italic>
+      pcrGVHpopBD
+     </italic>
+     , are PopB and PopD [
+     ]. YopB and YopD from
+     <italic>
+      Yersinia
+     </italic>
+     [
+     ] and PopB and PopD from
+     <italic>
+      P. aeruginosa
+     </italic>
+     [
+     ,
+     ] are involved in pore formation in the eukaryotic cell membrane. The structural mechanism involving LcrV, YopB, and YopD in
+     <italic>
+      Yersinia
+     </italic>
+     and PcrV, PopB, and PopD in
+     <italic>
+      P. aeruginosa
+     </italic>
+     involves a translocon (
+     (3)) [
+     ,
+     ]. The structural position of the V-antigen proteins in the type III secretion system was unknown until 2005, when electron microscopy analysis showed that LcrV and PcrV are both cap-like structures located at the tip of the needle structure in the secretion apparatus [
+     ,
+     ]. Currently, V-antigens are thought to occupy the interface between the secretion needle and translocation as an essential component of the translocon [
+     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec4-antibodies-08-00052">
+    <title>
+     4. Blocking Effects of Antibodies Against the Bacterial Type III Secretion System
+    </title>
+    <p>
+     The
+     <italic>
+      pcrV
+     </italic>
+     -deletion non-polar mutant of
+     <italic>
+      P. aeruginosa
+     </italic>
+     lost its type III secretion toxicity in the same way as the
+     <italic>
+      lcrV
+     </italic>
+     -deletion non-polar mutant of
+     <italic>
+      Yersinia
+     </italic>
+     [
+     ], but the complementation of
+     <italic>
+      pcrV
+     </italic>
+     with a plasmid in trans restored the toxicity [
+     ]. These observations indicate that a V-antigen, such as LcrV or PcrV, is essential for type III secretion intoxication [
+     ,
+     ]. Active immunization with recombinant PcrV improved mortality in a model of
+     <italic>
+      P. aeruginosa
+     </italic>
+     pulmonary infection [
+     ], and passive immunization with a rabbit-derived anti-PcrV-specific polyclonal IgG against PcrV reduced the acute lung injury associated with
+     <italic>
+      P. aeruginosa
+     </italic>
+     type III secretion [
+     ]. Additionally, intravenous administration of a polyclonal F(ab’)
+     <sub>
+      2
+     </sub>
+     antibody significantly improved secondary sepsis in a rabbit pneumonia model [
+     ]. The anti-PcrV-specific polyclonal IgG was also effective in a burned skin model of
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection [
+     ] and in a chronic
+     <italic>
+      P. aeruginosa
+     </italic>
+     pneumonia model [
+     ]. Consequently, the mouse-derived monoclonal antibody (mAb) 166 was developed [
+     ], the administration of which reduced lung injury and mortality in the
+     <italic>
+      P. aeruginosa
+     </italic>
+     pneumonia infection model [
+     ]. This effect was also observed with the mAb166 Fab (antigen-binding fragment) [
+     ]. This mAb166 monoclonal antibody was humanized for clinical use as KB001 [
+     ], and phase II clinical studies of the antibody have now been conducted [
+     ,
+     ,
+     ]. Active immunization with recombinant PcrV also improved acute lung injury and mortality in
+     <italic>
+      P. aeruginosa
+     </italic>
+     pneumonia models [
+     ,
+     ,
+     ]. In recent years, more researchers have reported the clinical application of anti-PcrV antibodies, which have been developed using different approaches [
+     ,
+     ,
+     ,
+     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec5-antibodies-08-00052">
+    <title>
+     5. V-Antigen Homologs
+    </title>
+    <p>
+     To date, type III secretion systems have been found in most pathogenic Gram-negative bacterial species. However, as described above, the target species for detailed studies on V-antigens have been limited to
+     <italic>
+      Yersinia
+     </italic>
+     and
+     <italic>
+      P. aeruginosa
+     </italic>
+     because the existence of an obvious V-antigen homolog has only been found in five bacterial species, namely
+     <italic>
+      Yersinia
+     </italic>
+     LcrV,
+     <italic>
+      P. aeruginosa
+     </italic>
+     PcrV,
+     <italic>
+      Aeromonas
+     </italic>
+     AcrV,
+     <italic>
+      Vibrio
+     </italic>
+     VcrV, and
+     <italic>
+      Photorhabdus
+     </italic>
+     LssV (
+     ) [
+     ]. It has been reported that rainbow trout vaccinated with recombinant AcrV were not protected against infection with
+     <italic>
+      A. salmonicida
+     </italic>
+     [
+     ,
+     ].
+     <italic>
+      A. hydrophila
+     </italic>
+     and
+     <italic>
+      Vibrio
+     </italic>
+     are infective to humans, but no detailed studies on AcrV and VcrV from each of them, respectively, have been performed. Thus, with the exception of LcrV and PcrV, the characteristics of V-antigen homologs from other species have not been adequately studied to date.
+    </p>
+    <p>
+     As shown in
+     , V-antigen orthologs that share a genetic and functional association with V-antigen homologs have also been identified. These include EspA from pathogenic
+     <italic>
+      Escherichia coli
+     </italic>
+     ,
+     <italic>
+      Salmonella
+     </italic>
+     SipD and SseB,
+     <italic>
+      Shigella
+     </italic>
+     IpaD,
+     <italic>
+      Burkholderia
+     </italic>
+     BipD,
+     <italic>
+      Bordetella pertussis
+     </italic>
+     Bsp22, and
+     <italic>
+      Chlamydophila
+     </italic>
+     CT1584 (
+     ) [
+     ]. These orthologs mostly take the form of a coated sheath-like structure around the needle of the type III secretion apparatus, unlike the cap-like structure of the V-antigen homologs on the needle tip [
+     ]. EspA from pathogenic
+     <italic>
+      E. coli
+     </italic>
+     is reportedly essential for type III secretion in this bacterium [
+     ]. Regarding IpaD from
+     <italic>
+      Shigella
+     </italic>
+     [
+     ], although the effects of vaccination with an IpaB–IpaD fusion protein have been reported, there have been no reports on other orthologs to date.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec6-antibodies-08-00052">
+    <title>
+     6. The Antibody-Blocking Mechanisms against Type III Secretion
+    </title>
+    <p>
+     Because both the whole IgG molecule and Fab fragment against
+     <italic>
+      P. aeruginosa
+     </italic>
+     PcrV can suppress the intoxication caused by type III secretion, it is possible that the Fc-domain of the antibody is not necessary for the blocking effect [
+     ,
+     ,
+     ]. The binding site of mAb166 is located at position 144–257 of the 294 amino-acid-long PcrV molecule (
+     ) [
+     ]. Deleting one amino acid from the amino- or carboxyl-terminal of the PcrV fragment at position 144–257 results in the loss of mAb166 binding in immunoblotting, suggesting that this PcrV fragment (144–257) is the minimal blocking epitope for this mAb [
+     ]. In the 3D structures of LcrV and PcrV, there are two coiled-domains in the center and carboxyl-terminal regions, respectively [
+     ,
+     ,
+     ]. These two-coiled regions form a double chain as a coiled-coil center shaft in the V-antigen, and the coiled-coil region forms a dumbbell-like structure with globular domains at both the amino- and carboxyl-terminals (
+     (1)) [
+     ,
+     ,
+     ]. In serotype O8 of
+     <italic>
+      Y. enterocolitica
+     </italic>
+     , the carboxyl-terminal globular domain of LcrV contains a hypervariable region at position 225–232, and the antibodies generated against LcrV from this serotype are unable to protect against other
+     <italic>
+      Yersinia
+     </italic>
+     spp. carrying the alternative LcrV type [
+     ]. MAb166 binds to the carboxyl-terminal globular domain of PcrV [
+     ]. Deleting the 144–257 region of the fragment may unravel the coiled-coil state, thereby impairing the 3D protein structure [
+     ,
+     ]. Therefore, the above observations imply that normal mAb166 binding is associated with the conformational structure of PcrV.
+    </p>
+    <p>
+     The humanized KB001 Fab antibody displays significantly higher binding affinity to PcrV than the original murine mAb166 [
+     ]. KB001 showed significant effects against infections in a dose-response study, suggesting that its inhibitory power against type III intoxication is significantly associated with the binding affinity of this antibody to its cognate antigen [
+     ]. A detailed structure of LcrV has also been reported, revealing a pentagonal ring structure comprising an LcrV pentamer on the tip of the secretion needle [
+     ,
+     ]. Based on the homology between LcrV and PcrV, a 3D structure of PcrV was described for the association with the translocon (
+     (2)) [
+     ,
+     ,
+     ,
+     ,
+     ]. Although researchers are not yet certain, antibody binding may occur in the vicinity of the central hole formed by the mushroom-like cap structure comprising the PcrV monomers to physically inhibit the passage of the toxin. These two coil regions form a double chain as a coiled-coil that forms a dumbbell-like structure with globular domains at both the amino- and carboxyl-terminals [
+     ,
+     ,
+     ,
+     ,
+     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec7-antibodies-08-00052">
+    <title>
+     7. The Blocking Antibody Fraction in Human Serum
+    </title>
+    <p>
+     It has been confirmed that a commercially available IVIG preparation contains a fraction that binds to PcrV, and that administration of the IVIG preparation reduced lung injury and mortality in a mouse model of
+     <italic>
+      P. aeruginosa
+     </italic>
+     pneumonia in a dose-dependent manner [
+     ,
+     ]. This effect was attenuated by removing the PcrV-binding fraction in the IVIG by affinity chromatography depletion [
+     ]. Additionally, a recent epidemiological study showed that anti-PcrV titers in sera from adult volunteers were significantly higher in approximately 10% of the tested volunteers [
+     ]. When the therapeutic effects of the immunoglobulin fractions obtained from the adults with high PcrV titers were tested in an animal model of
+     <italic>
+      P. aeruginosa
+     </italic>
+     pneumonia [
+     ], high anti-PcrV titer-derived IgG was found to significantly improve lung injury and mortality, unlike the immunoglobulin obtained from adult sera with low anti-PcrV titers [
+     ]. These findings indirectly suggest that patients with high anti-PcrV antibody titers have acquired immunity against
+     <italic>
+      P. aeruginosa
+     </italic>
+     type III secretion toxicity. Therefore, clinical administration of immunoglobulin with a high antibody titer is expected to provide a prophylactic or therapeutic effect against
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec8-antibodies-08-00052">
+    <title>
+     8. The Fifth Mechanism of Action of Immunoglobulin Therapy and Future Research
+    </title>
+    <p>
+     The above-mentioned findings, which were obtained mainly from
+     <italic>
+      Yersinia
+     </italic>
+     and
+     <italic>
+      P. aeruginosa
+     </italic>
+     , revealed that antibody-binding to V-antigens can counteract bacterial type III intoxication in the host. Crucially in this respect, human sera and human sera-derived IVIG preparations contain antibody fractions that bind to PcrV [
+     ,
+     ,
+     ,
+     ]. The ability of these antibodies to inhibit a bacterial infection is independent of toxin neutralization, complement, or opsonization. Instead, their action seems to physically inhibit toxin secretion and/or translocation by recognizing the 3D structure of the bacterial secretion apparatus. We do not know how significant this immunity is, especially in Gram-negative infections. In the current situation where multi-drug resistant bacteria are common, the application of a V-antigen homolog as a vaccine and immunoglobulin therapy targeting V-antigen homologs is a potentially attractive alternative or adjunctive therapy against lethal bacterial infections. Therefore, it seems reasonable to define the blocking effect of anti-V-antigen antibodies as the fifth mechanism of immunoglobulin action against bacterial infections (
+     (5)).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec9-antibodies-08-00052" sec-type="conclusions">
+    <title>
+     9. Conclusions
+    </title>
+    <p>
+     Four mechanisms of action have been suggested to explain the positive effects of immunoglobulin therapy on bacterial infections. In the type III secretion system, the toxin (an effector) was directly injected into the cytoplasm of the target cell through a special secretory apparatus without being exposed to the extracellular environment, thus providing no opportunity for antibodies to neutralize the toxin. The ability of antibodies to target the V-antigen on the needle-shaped tip of the bacterial secretion apparatus and inhibit toxin translocation suggests that the toxin secretion-inhibitory effects of immunoglobulins should be considered as the immunoglobulin’s fifth mechanism of action against bacteria and as a new therapeutic immunoglobulin strategy.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

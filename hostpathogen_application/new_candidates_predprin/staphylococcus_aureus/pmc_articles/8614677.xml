@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Mechanism, Prevention, and Treatment of Radiation-Induced Salivary Gland Injury Related to Oxidative Stress
+ </title>
+ <abstract>
+  <p>
+   Radiation therapy is a common treatment for head and neck cancers. However, because of the presence of nerve structures (brain stem, spinal cord, and brachial plexus), salivary glands (SGs), mucous membranes, and swallowing muscles in the head and neck regions, radiotherapy inevitably causes damage to these normal tissues. Among them, SG injury is a serious adverse event, and its clinical manifestations include changes in taste, difficulty chewing and swallowing, oral infections, and dental caries. These clinical symptoms seriously reduce a patient’s quality of life. Therefore, it is important to clarify the mechanism of SG injury caused by radiotherapy. Although the mechanism of radiation-induced SG injury has not yet been determined, recent studies have shown that the mechanisms of calcium signaling, microvascular injury, cellular senescence, and apoptosis are closely related to oxidative stress. In this article, we review the mechanism by which radiotherapy causes oxidative stress and damages the SGs. In addition, we discuss effective methods to prevent and treat radiation-induced SG damage.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="sec1-antioxidants-10-01666" sec-type="intro">
+    <title>
+     1. Introduction
+    </title>
+    <p>
+     Head and neck cancer (HNC) is the seventh most common cancer worldwide, accounting for 3% of all cancers, with approximately 900,000 new cases and half a million deaths annually [     ]. Surgery, radiotherapy, and systemic therapies (including chemotherapy, targeted therapy, and immunotherapy) play roles in varying degrees at all stages of HNC. The radiation (IR)-based approach is well-established as a standard therapy for functional preservation in patients with HNC [     ].
+    </p>
+    <p>
+     Salivary glands (SGs) are markedly sensitive to IR therapy, and damage is generally irreversible at doses higher than 50 Gy [     ]. More than 50% of patients who undergo radiotherapy involving major SGs experience the perception of hyposalivation, termed IR-induced xerostomia [     ]. Xerostomia is one of the most detrimental long-term side effects of multimodal therapy in patients with locally advanced HNC [     ]. The clinical manifestations of xerostomia include dysgeusia, dysphagia, painful swallowing, and difficulty sleeping and speaking, which are closely related to the patient’s quality of life [     ].
+    </p>
+    <p>
+     Radiotherapy significantly increases reactive oxygen species (ROS) levels, thereby inducing oxidative stress in SGs [     ]. Oxidative stress plays an important role in the calcium signaling of SG and microvascular damage. In addition, a large number of trials have been conducted to treat IR-induced SG injury (RISGI). In this review, we discuss the mechanism of IR-induced SG damage through oxidative stress, summarize how to improve the secretory function of SGs, and propose some suggestions for future research.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec2-antioxidants-10-01666">
+    <title>
+     2. Mechanism of RISGI
+    </title>
+    <p>
+     Bergoni first described the phenomenon of RISGI. Oral and pharynx tissues exposed to IR have short- and long-term sequelae, including the loss of SG function and persistent xerostomia [     ]. These problems are caused by damage to highly radiosensitive acinar SG cells (fluid-producing) [     ]. Initially, based on the slow turnover rate of SG cells (60–120 days), it is expected that the SGs will be unresponsive (&gt;60 days). However, the changes in saliva production and composition shortly after radiotherapy indicate that these glands respond quickly [     ,     ]. Many early morphological studies on the effect of radiotherapy on salivary tissues have shown that serous cells are more sensitive than mucous cells. Therefore, the parotid gland is more likely to cause damage during radiotherapy in HNC patients [     ,     ,     ]. Moreover, recent clinical studies on parotid and submandibular/sublingual saliva flow after radiotherapy have shown that the dose effect is similar in saliva composition and flow rate changes [     ,     ,     ,     ].
+    </p>
+    <p>
+     In the first few days after radiotherapy, parotid gland function may be reduced by 50% [     ]. The earliest hypothesis, specifically the degranulation theory, was that IR damage caused the loss of salivary acinar cells. The hypothesis of degranulation is that radiotherapy damages the peroxidation of the redox-capable iron and copper ions on cell membrane lipids, leading to the leakage of proteolytic enzymes from the secreted granules and triggering cell lysis. Later, it was discovered that the SGs consist of a variety of cells with different metal and enzyme contents. This evidence does not support the degranulation hypothesis. Clinical studies have also confirmed that the stimulation of pilocarpine before irradiation leads to the degranulation of the parotid glands, which produces only 13% protection [     ]. In irradiated cells, the behavior of particles is not different from that of unirradiated cells. Therefore, we rejected the degranulation hypothesis.
+    </p>
+    <p>
+     Although the catheter loses its function, most of its structure remains intact [     ]. In the acute phase, IR mainly suppresses water secretion and causes a sharp drop in saliva flow [     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec3-antioxidants-10-01666">
+    <title>
+     3. Calcium Signaling
+    </title>
+    <p>
+     Under physiological conditions, acetylcholine acts on G-protein-coupled receptors. The G-protein-coupled receptor contains seven transmembrane alpha helices, which are involved in the process of signal transduction. The G-protein-coupled receptor that binds to the ligand undergoes a conformational change. By exchanging guanosine diphosphate originally bound to G protein with guanosine triphosphate (GTP), G protein separates the α subunit from the β and γ subunits. This process activates the G protein (specifically the α subunit bound to GTP). The activated G protein then activates the downstream phospholipase C (PLC). After that, phosphatidylinositol 4,5-bisphosphate is decomposed into inositol triphosphate (IP3) and diacylglycerol (DAG) under the action of PLC and activates the G-protein effector PLC by activating the G protein; thus, phosphatidylinositol 4,5-bisphosphate is decomposed into IP3 and DAG. Among them, the DAG–protein kinase C alpha (PKC) pathway is related to the secretion of SG proteins. IP3 acts on the IP3 receptor on the endoplasmic reticulum, intracellular Ca     is released, and the intracytoplasmic Ca     concentration increases. As a second messenger, Ca     increases intracellular Ca     ([Ca     i]) through Ca     sensor protein stromal interaction molecule 1 (STIM1), which regulates the storage operation Ca     entry (SOCE). This process is controlled by channel transient receptor potential criterion 1 and [Ca     i]-release-activated calcium channel protein 1 [     ,     ,     ,     ,     ]. Elevated [Ca     i] regulates the activity of ion channels, generating an appropriate osmotic gradient to drive fluid secretion across the apical membrane.
+    </p>
+    <p>
+     Initially, it was generally believed that the intracellular Ca     concentration and the muscarinic receptor-mediated Ca     mobilization state in irradiated cells are equivalent to those of unirradiated cells, and the degree and time course of Ca     mobilization are not affected by IR therapy. However, intracellular Ca     depletion did not explain the decline in cell proliferation [     ,     ].
+    </p>
+    <p>
+     Subsequent research showed that when exposed to a muscarinic acetylcholine receptor agonist, the ability of irradiated SG cells isolated from the body to mobilize [Ca     i] after irradiation is closely related to the oxidative stress caused by IR. IR causes nicotinamide adenine dinucleotide (NAD+) and ROS to accumulate in damaged tissues. External NAD     may be converted to adenosine diphosphate ribose (ADPR), cADPR, and nicotinic acid adenine dinucleotide phosphate by the ectoenzymes CD38 and CD157. Extracellular ADPR may then bind to plasma membrane receptors, increase [Ca     i] through the release of Ca     from stores via G proteins, and activate PLC with subsequent IP3 production. H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     (a type of ROS), may also cross the plasma membrane and mobilize ADPR from mitochondria (both H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     and cADPR can synergize with ADPR to activate transient receptor potential cation channel, subfamily M, member 2 (TRPM2)). TRPM2 is an ROS-sensitive non-selective channel with a unique C-terminal ADPR pyrophosphatase domain [     ,     ]. Free cytosolic ADPR acts on the plasma membrane TRPM2 channels, enabling Ca     influx across the plasma membrane and/or the release of lysosomal Ca     , thereby increasing the Ca     concentration in the cytosol [     ,     ].
+    </p>
+    <p>
+     TRPM2-mediated [Ca     i] increases trigger mitochondrial Ca     uniporter-dependent Ca     uptake into mitochondria. As a result, [Ca     ] and ROS levels in the mitochondria increase while the mitochondrial membrane potential decreases. In addition, the slow emergence of activated caspase-3 eventually leads to the loss of STIM1. The loss of STIM1 leads to a decrease in SOCE, which, in turn, decreases saliva secretion. This phenomenon is observed in the acinar cells of the submandibular glands of TRPM2     mice in the early stage after irradiation, but it does not occur in the acinar cells of TRPM2     mice [     ].
+    </p>
+    <p>
+     In addition to the mechanism in which changes in [Ca     i] are mediated by TRPM2 reduces saliva secretion, the cell-membrane-binding disorder of PKC has also been confirmed in previous studies. Phosphorbol esters (PMA), analogs of diacylglycerol, can activate PKC. When the SG cells isolated after irradiation are exposed to muscarinic acetylcholine receptor agonists, the muscarinic acetylcholine agonist-induced activation of PKCα is severely affected in irradiated cells in vivo. Similarly, PMA is no longer able to activate PKCα in irradiated cells. In addition, IR can interfere with the binding of PKCα to the membrane, resulting in impaired intracellular signal transduction. This study showed for the first time that the ability of cells to respond to receptor agonists is impaired after IR [     ]. The calcium signaling mechanism of RISGI is summarized in     .
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec4-antioxidants-10-01666">
+    <title>
+     4. Microvascular Injury
+    </title>
+    <p>
+     Microvascular damage may play an important role in RISGI [     ]. Exposure to 15 Gy induced a 50% reduction in microvascular density (MVD) within the SGs of C3H mice [     ]. IR-induced microvascular dysfunction that leads to a decrease in MVD in SGs results from oxidative stress caused by IR, and the role of ROS is crucial [     ]. Studies using bovine aortic endothelial cells have shown that ROS induces extensive apoptosis in a short period of time. The oxidative stress response is achieved through membrane lipid peroxidation. Acid sphingomyelinase hydrolyzes sphingomyelin in the plasma membrane of endothelial cells to produce ceramide. Ceramide, acting as a second messenger in receptor-mediated signal transduction, initiates endothelial cell apoptosis through the mitochondrial system [     ]. IR-induced DNA damage can also initiate ceramide generation via the activation of mitochondrial ceramide synthase and the de novo synthesis of ceramide. BAX is activated downstream of ceramide, regulating vascular endothelial cell apoptosis via the release of mitochondrial cytochrome c [     ,     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec5-antioxidants-10-01666">
+    <title>
+     5. Decreased Parasympathetic Nerve Signals
+    </title>
+    <p>
+     Under physiological conditions, the nerve growth factor secreted by epithelial cells acts on the parasympathetic nerves to maintain the function of parasympathetic neurons. Acetylcholine secreted by the parasympathetic nerve acts on the cholinergic receptors muscarinic 1 (Chrm1) and Chrm3 of SOX2+ SG stem cells. Acetylcholine acts on Chrm1 to activate the transactivation of the heparin-binding epidermal growth factor (HB-EGF) pathway, which promotes the proliferation and differentiation of progenitor cell epithelial cells. The activation of the HB-EGF pathway is related to the expression of genes related to cell cycle progression, such as cyclin A2 [     ,     ]. SOX2 is a marker of progenitor cells in the submandibular and sublingual SGs of fetal mice, and it is essential for the regeneration of salivary acinar cells [     ].
+    </p>
+    <p>
+     Radiotherapy can reduce the occurrence of epithelium and cause the loss of epithelial terminal buds. The apoptosis of epithelial cells reduces the expression of brain-derived neurotrophic factor (BDNF), neurotrophic factor, and nerve growth factor, which directly causes the downregulation of parasympathetic nerve function. The downregulation of Chrm1 and Chrm3 transcription levels and the decline of stem cells’ ability to respond to acetylcholine reduce the number of stem cells [     ,     ,     ]. Radiotherapy additionally reduces the expression of neuronal tubulin (Tubb3), which is a marker of axons in parasympathetic nerves and has previously been shown to affect the maintenance of epithelial progenitor cells [     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec6-antioxidants-10-01666">
+    <title>
+     6. Water Channel Hypothesis
+    </title>
+    <p>
+     The decrease in saliva flow after radiotherapy is disproportionate to the loss of acinar cells. The gland volume does not change after irradiation; only the salivation function is impaired. This indicates that RISGI may be the cause of low salivary function [     ]. Aquaporin (AQP) is a constitutively activated water channel that does not exhibit a polarized membrane distribution in most epithelia [     ,     ]. AQP1 and AQP5 play important roles in the hypofunction of SGs caused by IR. AQP1 is a constitutively activated water channel that does not show a polarized membrane distribution in most epithelial cells [     ]. Furthermore, AQP1 is only detected in the venules and capillaries within SGs [     ]. AQP5 is mainly located on the apical membrane of the secretory acinar cells of the rat submandibular, parotid, and sublingual glands, as well as on the apical membrane of the ductal cells inserted into the rat submandibular gland [     ]. A number of studies have used mice, rats, and humans to increase the expression of human AQP1 (hAQP1) in the SG parenchyma by constructing a recombinant adenovirus encoding hAQP1 [     ,     ,     ]. The salivary flow rate of SGs after gene transfer significantly increases. At the same time, studies have shown that the degree of improvement in SG function is inconsistent. Subsequent studies found that the label density of AQP1 and Na     /K     -ATPase did not significantly decrease after irradiation, and only the AQP5 protein was significantly lost [     ,     ]. These studies emphasized the important role of AQP5 in the reduction of SG flow caused by IR and explained the inconsistent improvement in SG function after AQP1 gene transfer [     ,     ]. The level of AQP5 protein is regulated by the parasympathetic nerve/M3 muscarinic receptor agonist. Cutting the parasympathetic nerve can reduce the amount of AQP5 protein. This process is achieved by the degradation of AQP5 by autophagosomes and/or lysosomes [     ,     ]. IR can reduce the function of parasympathetic nerves. Therefore, we infer that IR can indirectly reduce the level of the AQP5 protein by inhibiting the function of the parasympathetic nerves. The mechanism underlying the reduction in AQP1 protein levels is still unclear.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec7-antioxidants-10-01666">
+    <title>
+     7. Cellular Senescence and Apoptosis
+    </title>
+    <p>
+     Cell senescence is a stable state of cell proliferation, and the loss of SG function after IR is closely related to this mechanism. The levels of ROS and oxidative stress malondialdehyde in the irradiated SGs were significantly increased. This process is achieved through the p16 INK4a/Rb-dependent pathway induced by growth/differentiation factor-15. ROS accelerate the shortening of telomeres through oxidative stress and directly damage DNA, thereby inducing cell senescence. DNA damage is a sign of cell senescence. When oxidative stress causes DNA damage in SG cells, ataxia telangiectasia mutation kinase is the first to respond to DNA double-strand breaks (DSBs), and its substrates include histone H2AX and p53 binding protein-1 (53BP1). Phosphorylated H2AX and 53BP1 are quickly localized in DSBs, forming characteristic lesions in the nucleus. In addition, IR can cause the expression of senescence-related markers in SG cells (senescence-related β-galactosidase (SA-βgal), p19ARF, and DcR2) and increase the secretion of senescence-related phenotypic factors (PAI-1 and interleukin 6 (IL-6)), which indicates the occurrence of cellular senescence. Among them, IL-6-mediated cellular senescence plays an important role in SG damage caused by IR, and IL-6 signal transduction depends on the expression of IL-6R and its co-receptor gp130 on target cells. When IL-6R is not expressed, IL-6 can also signal by acting on the soluble receptor. This mechanism is called IL-6 trans-signaling [     ]. IL-6R is mainly expressed in ductal cells. Using IL-6 knockout mice, experiments have shown that IR-induced DNA damage induces cell senescence and hypofunction through the continuous expression of IL-6 in the SGs [     ,     ]. In contrast, the characteristics of cellular senescence, such as mitochondrial dysfunction and p21 upregulation, increase ROS production, which may help stabilize senescence [     ].
+    </p>
+    <p>
+     In addition to cell senescence, cell apoptosis is a possible cause of RISGI. Experiments on rhesus monkeys have shown that irradiated serous SGs undergo interphase cell death due to apoptosis [     ]. The main reason for the massive loss of acinar cells in animal models after IR has caused widespread controversy. First, it was discovered that the necessary condition for IR to cause the apoptosis of SGs was the expression of p53 in the body. P53 is a tumor suppressor that is closely related to the regulation of DNA damage repair, cell cycle arrest, and cell apoptosis [     ].
+    </p>
+    <p>
+     There are complicated mechanisms by which IR activates p53 in salivary glands through oxidative stress. Among them, the nuclear translocation of PKCδ is essential for inducing apoptosis [     ]. PKCδ is a member of the lipid-regulated serine/threonine PKC family. At the same time, it is also an important regulator of mitochondrial-dependent apoptosis in epithelial cells. Studies have shown that IR strongly induces apoptosis in wild-type mouse parotid gland cells in vivo, while PKCδ−/− mouse parotid gland cell apoptosis is inhibited by more than 60% [     ]. In addition, the reintroduction of PKCδ through adenovirus transduction can restore the apoptotic response. Before the cell is exposed to pro-apoptotic factors, the N-terminal regulatory domain of PKCδ restricts the nuclear localization sequence (NLS)-dependent PKCδ input into the nucleus. PKCδ exists in the cytoplasm in a conformation that excludes importin-α binding. When PKCδ is in an inactive state, the intramolecular contact between C2 and the catalytic domain prevents the NLS from binding to importin-α [     ].
+    </p>
+    <p>
+     Tyr-64 and Tyr-155 are the main sites of tyrosine phosphorylation in response to H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     [     ]. When H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     is produced by the oxidative stress of IR, phosphorylation at PKCδ-Y64 and Y155 opens the PKCδ conformation. Exposure to NLS allows both Hsp90 and importin-α to bind to the binding sites of PKCδ. PKCδ accumulates in the nucleus during the binding of importin-α [     ]. This step is necessary to induce apoptosis; however, the phosphorylation of PKCδ is not necessary for apoptosis, because in the physiological state, after the addition of SV-40 nuclear localization signal, the non-cleavable form of PKC delta also enters the nucleus to induce cell apoptosis [     ].
+    </p>
+    <p>
+     When phosphorylated PKCδ enters the nucleus, PKCδ can control the expression of p53 in a transcription-dependent manner in the nucleus, and it can also activate p53 via the phosphorylation of different serine and threonine residues in an indirect manner. After IR causes DNA damage, PKCδ activates the Bcl-2-related transcription factor and binds it to the CPE region of p53, thereby inducing p53 transcription [     ]. PKCδ can also be activated by IKKα caused by oxidative stress and indirectly activates p53 through the phosphorylation of ser20 [     ]. The phosphorylation of p53 allows for the stabilization and activation of p53 to promote gene expression, thereby inducing cell cycle arrest and apoptosis. Activated p53 can, in turn, promote PKCδ transcription in response to DNA damage [     ].
+    </p>
+    <p>
+     In addition, PKCδ entering the nucleus can also be cleaved by nuclear caspase-3 to produce proapoptotic δCF [     ]. The expression of δCF is associated with the activation of the pro-apoptotic protein Bax and cytochrome c release [     ]. In addition, δCF further activates caspase-3 in the cytoplasm through positive feedback [     ].
+    </p>
+    <p>
+     In short, both cell senescence and apoptosis are the mechanisms by which radiotherapy causes a loss of SG function. IL-6 plays an important role in inducing cell senescence. For apoptosis, oxidative stress products produced by IR act on PKCδ, which activates and increases p53 transcription in the nucleus through nuclear translocation and can also activate cell apoptosis through interaction with caspase-3. The cell senescence mechanism of RISGI is summarized in     .
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec8-antioxidants-10-01666">
+    <title>
+     8. Treatment of RISGI
+    </title>
+    <sec id="sec8dot1-antioxidants-10-01666">
+     <title>
+      8.1. Amifostine
+     </title>
+     <p>
+      RISGI is closely related to free radicals produced by radiotherapy. As a free radical scavenger, amifostine can effectively reduce the SG damage caused by radiation [      ,      ]. At first, amifostine is effective in reducing oral problems caused by salivary dysfunction after radiotherapy (tooth caries, oral candidiasis, and mucositis) [      ,      ,      ]. Subsequent clinical studies and meta-analyses have shown that the application of amifostine together with radiotherapy for HNC can improve xerostomia. The incidence of long-term xerostomia was found to be lower in amifostine groups [      ]. In addition to reducing the severity of xerostomia, the use of amifostine during head and neck radiotherapy can reduce the duration of xerostomia after 2 years [      ].
+     </p>
+     <p>
+      Amifostine is effectively concentrated in saliva tissues and is activated as a selective tissue protective metabolite. Compared with normal cells, the relative lack of amifostine in tumors indicates that it can protect normal tissues and increase the radiotherapy index [      ]. The use of amifostine does not reduce the local control rate, progression-free survival, and overall survival [      ,      ,      ,      ]. Intravenous injection of amifostine has a good saliva preservation function without tumor protection [      ,      ]. Subcutaneous treatment appears to be equally effective as a method of administration [      ]. Recently, a study on the subcutaneous injection of amifostine showed that the serum concentration of the active metabolite is comparable to that of intravenous injection and the clinical benefit in reducing xerostomia is also similar [      ]. On this basis, its side effects may be less than that of intravenous injection. The subcutaneous injection of amifostine is more convenient and safer [      ].
+     </p>
+     <p>
+      However, some people have questioned the effect of amifostine in preventing xerostomia [      ]. Although there is a statistical difference in the improvement of xerostomia after the application of amifostine, the advantage is not obvious [      ]. At the same time, intensive radiotherapy and chemotherapy regimens also cause the incidence of xerostomia and mucositis [      ].
+     </p>
+    </sec>
+    <sec id="sec8dot2-antioxidants-10-01666">
+     <title>
+      8.2. Antioxidant Stress Therapy
+     </title>
+     <p>
+      Radiation produces a lot of reactive oxygen species. These reactive oxygen species, especially the excessive formation of the superoxide (SO) free radical O
+      <sub>
+       2
+      </sub>
+      , play a central role in the occurrence and development of xerostomia and mucositis. The natural antioxidant enzyme superoxide dismutase (SOD) in the human body detoxifies superoxide by converting it into hydrogen peroxide (H
+      <sub>
+       2
+      </sub>
+      O
+      <sub>
+       2
+      </sub>
+      ), a relatively stable and less reactive oxidant. However, during radiotherapy, the excessive production of superoxide free radicals overwhelms the natural SOD enzyme and leads to SO-mediated damage, which makes it possible for exogenous superoxide dismutase and antioxidants to reduce the toxicity of radiotherapy.
+     </p>
+     <p>
+      Cationic Mn (III) N-substituted pyridylporphyrins (MnPs) are powerful SOD mimics. It was found that they can quickly react with many other species and change the activity of transcription factors, such as nuclear factor kappa B, hypoxia-inducible factor-1α, nuclear factor E2-related factor 2 and specific protein 1 [      ,      ,      ,      ]. Among them, MnTnBuOE-2-PyP      (BMX-001) and Mn (II) pentaaza macrocycle (GC4419) play important roles in the prevention and treatment of the oral mucositis and salivary gland damage caused by radiotherapy. In addition, it is surprising that both of these two kinds of Mn porphyrins can exert anti-tumor effects in combination with radiotherapy.
+     </p>
+     <p>
+      GC4419, a highly stable low molecular weight MnPAM dismutase mimic, is a selective superoxide dismutase mimic that has the characteristics of high cell permeability, high stability, and high selectivity to O
+      <sub>
+       2
+      </sub>
+      [      ]. M40403 (GC4403) is the enantiomer of GC4419. Previously, researchers used mice to obtain convincing results in the prevention and treatment of radiation oral mucositis [      ]. In 2013, GC4419 was introduced into clinical trials to verify its role in reducing the normal tissue toxicity caused by radiotherapy. Like M40403, GC4419 can effectively prevent and reduce radiation-induced normal tissue toxicity in a mouse model of radiation-induced oral mucositis [      ]. The efficacy of GC4419 in reducing the oral mucositis caused by radiotherapy and chemotherapy in patients with oral or oropharyngeal cancer was confirmed in a phase 1b/2a trial, and its safety is tolerable [      ]. A subsequent phase IIb clinical study showed that 90 mg of GC4419 significantly reduced the duration, incidence, and severity of severe oral mucositis, as well as having acceptable safety [      ]. A phase III trial (ROMAN; ClinicalTrials.gov identifier: NCT03689712) has begun. In addition to protecting normal tissues, avasopasem manganese also has the effect of sensitizing tumor cells to radiation-induced damage [      ]. GC4419 combined with hyperfractionated radiotherapy can inhibit tumors in non-small cell lung cancer, pancreatic ductal adenocarcinoma, and head and neck squamous cell lines. Research using a radiation-resistant SqCC/Y1 HNSCC cell line and high-dose radiation (12 Gy per fraction) combined with GC4419 enhanced the response of tumors in SqCC/Y1 [      ]. GC4419 increased the level of Bax in the lung tissue induced by IR, decreased the level of Bcl-2, and increased the ratio of Bax/Bcl-2. GC4419 increases TrxR activity in normal cells but reduces the activity in lung cancer cells, thereby increasing the sensitivity of cancer cells to oxidative stress. This mechanism needs to be confirmed in head and neck tumors [      ].
+     </p>
+     <p>
+      BMX-001 is a potent manganese porphyrin SOD mimic and a regulator of cellular redox signaling pathways. Studies have used C57BL/6 mice to prove that this substance can reduce the incidence of mucositis and xerostomia after receiving local radiotherapy in the head and neck. What is particularly surprising is that BMX-001 significantly increases the number of M1 macrophages in tumors, thereby producing an inhibitory effect on tumor tissues. The FaDu human epithelial cell line was used for this study [      ]. Another study showed that BMX-001 had a radioprotective effect on normal tissues at both the early and late time points. Although they did not confirm the tumor suppressor effect of BMX-001, at least they confirmed that drug does not reduce the efficacy of radiation and cisplatin, which may be related to the dose of MnP [      ]. A trial of BMX-001 treatment combined with radiotherapy and cisplatin for locally advanced head and neck cancer is currently underway (NCT02990468).
+     </p>
+     <p>
+      The nitroxide Tempol is an SOD mimic and effective antioxidant [      ]. Tempol and other nitroxide analogs have been shown to prevent radiation-induced damage in in vitro and in vivo models [      ,      ]. In a mouse model, Tempol has been shown to be effective against IR-induced salivary gland damage and subsequent reduction in saliva flow [      ,      ] and IR-induced oral mucositis [      ]. A clinical trial is currently underway to assess the ability of Tempol to prevent and/or reduce the toxicity associated with cisplatin and radiotherapy in patients with head and neck cancer (NCT03480971). Epigallocatechin-3-gallate (EGCG) is a well-known antioxidant. It is the main flavonoid produced during the heating of Camellia sinensis (green tea) leaves [      ]. As early as 2004, a study using human immortalized salivary acinar and ductal cells confirmed that EGCG can protect normal salivary gland cells from damage induced by chemotherapy or radiotherapy [      ]. A recent study conducted a comprehensive study of the biological effects of EGCG in the pro-acinar and ductal epithelial compartments of the intact SG organ. SG pretreated with 7.5 µg/mL of EGCG promoted epithelial proliferation and the development of pro-acinar buds and ducts in regular homeostasis. In addition, EGCG’s antioxidant activity after IR injury effectively prevents epithelial cell apoptosis [      ]. As a strong antioxidant, α-lipoic acid (ALA) is highly reactive to free radicals that can prevent normal tissue damage and dysfunction caused by radiation by increasing the level of glutathione in the tissues; this has been confirmed in the small intestine and thyroid of rats [      ,      ]. ALA in the salivary glands can also effectively improve weight loss and decrease the salivary secretion caused by radiation. The mechanism is able to inhibit the apoptosis and senescence of acinar cells and ductal cells, as well as inhibit the reduction of AQP-5 expression in salivary gland epithelial cells [      ,      ]. In addition to the abovementioned antioxidants, thymoquinone, vitamins, melatonin, resveratrol, and other substances have shown good antioxidant activity in the salivary glands of irradiated rats and mice [      ,      ,      ,      ]. The antioxidant effect of vitamins was confirmed in a prospective randomized controlled trial [      ]. However, the antioxidant effects of thymoquinone, melatonin, and resveratrol in preventing radiation-induced salivary gland damage in the human body still need to be confirmed by further clinical studies.
+     </p>
+    </sec>
+    <sec id="sec8dot3-antioxidants-10-01666">
+     <title>
+      8.3. Growth Factor Therapy
+     </title>
+     <p>
+      Growth factors, such as insulin growth factor 1 (IGF-1), epidermal growth factor (EGF), and fibroblast growth factor (FGF), have the ability to repair RISGI. In order to protect the vascular endothelium, FGF activates the FGFR–PI3K signal, thereby protecting the SGs from IR-induced apoptosis and maintaining acinar structure and function [      ,      ,      ]. There have been many studies on the protective effects of IGF on SGs. IGF-1 promotes DNA repair in the parotid gland through the maintenance and activation of sirtuin-1 and can restore SG function by normalizing cell proliferation and improving the expression of amylase [      ,      ]. EGF can protect salivary gland function by supplementing KRT14+ ductal progenitor cells and MIST1+ acinar cells. In addition, EGF has an anti-apoptotic effect, which is achieved by activating the EGFR–PI3K–AKT pathway [      ]. Heat shock protein-25 (HSP25) and HSP70i have similar effects. HSP25 or HSP70i transfer inhibits IR-induced apoptosis in acinar cells, granular coiled cells, and intercalated ductal cells. In addition, it has an opposite effect on the expression of AQP5 in SGs inhibited by IR. However, the transfer of HSP25 reduces the content of amylase, protein, Ca      , Cl      , and Na      in saliva. IGF-1 can also increase the binding of p21 and p53 by reducing the binding of ΔNp63 to the p21 promoter after IR. Since the use of IGF-1 after radiotherapy can increase the transcription of p21, it can increase the accumulation of cells in the G2/M phase, inhibit cell apoptosis, and restore SG function [      ]. Similar to the role of IGF-1, roscovitine, an inhibitor of the cell cycle, acts to transiently arrest the cell cycle at the G2/M phase by competing for the ATP binding site in the catalytic cleft of the cyclin-dependent kinase. Roscovitine-induced transient G2/M cell cycle arrest can effectively inhibit cell apoptosis, thereby maintaining normal salivary function after the targeted IR of the head and neck [      ]. On the basis of confirmation that IGF-1 can improve the hypofunction of SGs caused by radiotherapy, although IGF-1 administered at the same time as radiotherapy leads to an increase in the tumor cell growth rate compared to the use of IGF-1 after radiotherapy, IGF-1 is effective in radiotherapy for head and neck tumors. The efficacy of these cells has no significant impact [      ]. Recently, IGF-1 has been shown to restore salivary function by maintaining the activation of atypical protein kinase C and partially rescuing the cellular positioning of YAP in label-retaining cells. This mechanism is necessary for IGF-1 to restore SG function. The specific mechanism of action remains to be explored [      ].
+     </p>
+    </sec>
+    <sec id="sec8dot4-antioxidants-10-01666">
+     <title>
+      8.4. Molecular Targeted Therapy
+     </title>
+     <sec id="sec8dot4dot1-antioxidants-10-01666">
+      <title>
+       8.4.1. Targeted TGF-β Therapy
+      </title>
+      <p>
+       The protective effect of simvastatin on SGs may be attributed to the elimination of malondialdehyde, the reduction of collagen deposition, and the reduction and delay of IR-induced increase in the expression of transforming growth factor β1 (TGF-β1) [       ]. Hyperbaric oxygen therapy (HBOT) can also inhibit TGF-β, which is related to IR-induced fibrosis and chronic functional loss after IR therapy. In addition, HBOT reduces the expression of fibrosis-related factor α-smooth muscle actin in the SGs, enhances the proliferation of the SGs, and increases the vascular density of the SGs [       ].
+      </p>
+     </sec>
+     <sec id="sec8dot4dot2-antioxidants-10-01666">
+      <title>
+       8.4.2. Targeted PKCδ Therapy
+      </title>
+      <p>
+       Tyr-64 and Tyr-155 tyrosine phosphorylation can activate PKCδ by promoting nuclear import in response to apoptotic stimuli. C-Abl was identified as PKCδTyr-155 kinase, and c-Src was identified as a Tyr-64 kinase. Dasatinib can block the phosphorylation of PKCδ at Tyr-64 and Tyr-155. Imatinib specifically blocks PKCδTyr-155 phosphorylation. Both block the combination of PKCδ and importin-α and nuclear input to inhibit the nuclear accumulation of PKCδ. Moreover, dasatinib can inhibit etoposide, and IR can induce apoptosis in vitro [       ]. The continuous administration of dasatinib can extend the protection period to at least 5 months, and the combined use of dasatinib or imatinib with fractional IR does not enhance tumor growth [       ]. In addition, TKIs mediate radioprotection by increasing the repair of DNA double-stranded breaks, and TKIs increase the IR-induced activation of DNA-PK but not ATM. Moreover, TKIs increase the basal and IR-induced expression of genes associated with NHEJ (DNA ligase-4, Artemis, and XLF) and HR (Rad50, Rad51, and BRCA1). TKIs provide radioprotection to the salivary gland tissues and support the clinical exploration of TKIs in head and neck cancer patients undergoing IR therapy [       ].
+      </p>
+     </sec>
+     <sec id="sec8dot4dot3-antioxidants-10-01666">
+      <title>
+       8.4.3. Targeting PI3K/AKT/mTOR Pathway
+      </title>
+      <p>
+       The mammalian target of rapamycin (mTOR), a highly conserved serine/threonine protein kinase, is responsible for cell growth, protein synthesis, metabolic homeostasis, and cancer progression. The administration of the mTOR inhibitor rapamycin was found to significantly prevent the IR-induced decline of saliva in miniature pigs and to protect human SG cells from cell depletion and the loss of proliferation after IR. This protective effect is accompanied by a decrease in DNA damage and the upregulation of mitochondrial superoxide dismutase [       ] (       ).
+      </p>
+     </sec>
+    </sec>
+    <sec id="sec8dot5-antioxidants-10-01666">
+     <title>
+      8.5. Stem Cell Therapy
+     </title>
+     <sec id="sec8dot5dot1-antioxidants-10-01666">
+      <title>
+       8.5.1. Save SCs to Reduce IR Damage
+      </title>
+      <p>
+       SG recovery depends on the exposure dose and stem cell (SC) level. Salivary stem/progenitor cells (SSPC) are present in the SG ducts of mice. Tissue remodeling has been achieved through SC expansion, and its effect has been confirmed in limited experiments in mice and humans [       ]. SC-based therapies can provide ways to alleviate the decrease in radioactive salivation in patients after radiotherapy [       ]. Deferoxamine can prevent IR-induced SG dysfunction in mice by preserving more SCs. The mechanism may be to increase hypoxia-inducible factor 1α to reduce acinar cell apoptosis and increase the expression level of VEGF to increase angiogenesis in damaged tissues [       ]. The role of adipose-derived SCs in restoring SG function after IR is also related to angiogenesis, and they help restore blood flow in submandibular gland tissue.
+      </p>
+      <p>
+       Lin       CD24       c-Kit       Sca1       SCs have the highest proliferation, self-renewal, and differentiation abilities during continuous passage in vitro. Studies have found that glial cell-derived neurotrophic factor (GDNF) is highly expressed in Lin       CD24       c-Kit       Sca1       SCs. The expression of GDNF in Lin       CD24       c-Kit       Sca1       SCs was found to be upregulated in the submandibular glands of mice and humans after radiotherapy. GDNF enriched the number of functional acinars in the irradiated submandibular glands and enhanced the salivary formation of salivary SCs but did not promote the growth of HNC cells. This process may be achieved through the GDNF–RET signaling pathway [       ]. Interestingly, radiotherapy itself can also cause the upregulation of GDNF expression in Lin       CD24       c-Kit       Sca1       SCs of the submandibular gland in mice and humans. The regulation of the GDNF pathway has a bright future for the treatment of RISGI [       ].
+      </p>
+      <p>
+       Now, more and more evidence shows that the Wnt/β-catenin signaling pathway is essential for maintaining and activating different types of SCs. The central mediator of Wnt signaling is β-catenin, which is an activator of gene transcription. SGSCs have been confirmed to exist in SG ducts. The concurrent transient activation of the Wnt pathway can prevent chronic SG dysfunction after IR by acting on SG duct EpCAM(       ) cells, inhibiting apoptosis, and preserving functional salivary stem/progenitor cells [       ,       ]. However, it is worth noting that male mice were found to improve SG function through Wnt/β-catenin signal activation, but no signal activation was observed in female mice. Wnt/β-catenin signal activation may lead to the increased radioresistance of cancer stem cells [       ]. Therefore, the mechanism of activating the Wnt/β-catenin pathway to protect SGs from radiotherapy still needs to be confirmed by further clinical prospective experiments.
+      </p>
+      <p>
+       Studies have investigated the improvement of SG function by injecting SCs into the SGs of IR-treated mice and humans, and it has been found that the therapeutic effect is good, which may be related to the normalization of blood vessels and the reduction of fibrosis [       ,       ]. In addition, experiments have compared the ability of young and old SCs to improve SGs according to the activity of SCs at different ages. The results showed that although the number of aging SGSCs was reduced, there was no difference between young SGSCs in vitro [       ].
+      </p>
+      <p>
+       Bone marrow cell extracts play a significant role in restoring the normal function of SGs. Granulocyte colony stimulating factor (G-CSF) or FMS-like tyrosine kinase-3 ligand, stem cell factor, and G-CSF (called F/S/G) combine to mobilize BMC after radiotherapy, promote the regeneration of submandibular glands, reduce SG vascular damage, and directly promote the formation of new blood vessels [       ]. Bone marrow cell extracts of both fresh and bone marrow cells can restore saliva secretion; increase cell proliferation; upregulate regeneration/repair genes; and protect salivary acinar cells, parasympathetic nerves, and blood vessels from the SGs damaged by IR [       ,       ]. Cell extracts from whole bone marrow, spleen, and adipose-derived stromal cells can restore 65–70% of saliva secretion; protect acinar cells, blood vessels, and parasympathetic nerves; and promote cell proliferation [       ]. For the best timing and frequency of using bone marrow cell extracts, some test results have shown that starting the injection of bone marrow (BM) soup within 1–3 weeks can reduce the impact of IR-induced SG damage and improve the recovery of saliva function. Although the therapeutic effect of BM soup weaken after 8 weeks, it can be maintained by increasing the frequency of weekly injections [       ].
+      </p>
+     </sec>
+     <sec id="sec8dot5dot2-antioxidants-10-01666">
+      <title>
+       8.5.2. Other Functioning SCs
+      </title>
+      <p>
+       Side population cells have been identified as putative SCs in various organs. Recent in vitro and in vivo studies have shown that although the transplanted side population cells are only sparsely distributed and do not produce any growth products, they can use cluster proteins to inhibit oxidative stress and oxidative stress-induced cell damage to restore SG function after IR. Clusterin is essential for this process [       ]. In recent years, research on mesenchymal SCs has increased daily. Bone marrow mesenchymal cells derived from bone marrow and adipose tissue act on SSPC by secreting growth factors to proliferate and improve dry mouth. Trials have used mesenchymal stem cells (MSCs) to treat patients with Sjogren’s syndrome, and it has been found that they are successful in maintaining the salivary function of non-obese diabetic mice; the cells positive for AQP5, AQP4, α-SMA, CK5, and c-Kit are retained, the gene expression of AQP5, EGF, FGF2, BMP7, LYZ1, and IL-10 is upregulated, and the gene expression of TNF-α, TGF-β1, MMP2, CASP3, and IL-1β is downregulated [       ]. The level of serum EGF and proliferation rate of the glands also increased. The specific mechanism by which growth factors improve SG function is described below. Studies have shown that mice transplanted with BM-cMSCs have a significant increase in salivary flow rate 12 weeks after transplantation. The management of BM-cMSC was found to retain the microscopic morphology of the SG, and the SGs transplanted with BM-cMSC showed more functional recovery than the SGs injected with PBS (control group) [       ]. Therefore, this method can be used to improve IR-induced advanced fibrosis in SGs. When SG damage is expected to be low, the technique using bone marrow-derived cells is sufficient to limit xerostomia after radiotherapy; therefore, this therapy depends on the number and function of the remaining cells. When the damage is expected to be high, the bone marrow-derived cells are insufficiently mobilized, so SC transplantation is required [       ] (       ).
+      </p>
+     </sec>
+    </sec>
+    <sec id="sec8dot6-antioxidants-10-01666">
+     <title>
+      8.6. Gene Transfer Therapy
+     </title>
+     <sec>
+      <title>
+       Transferred Genes
+      </title>
+      <p>
+       Radiotherapy can reduce the expression of AQP on the surface of salivary gland acinar cells. Experiments have been conducted using adeno-associated virus type 2 (AAV2) to deliver hAQP1 to the parotid glands of piglets and mice with damaged radiotherapy, causing the surviving duct cells to secrete more fluid [       ,       ,       ]. This helps improve saliva function in patients who have previously received IR therapy.
+      </p>
+      <p>
+       Previous experiments have been conducted in animals. The results of a test of delivering the AdhAQP1 vector to a single human parotid gland showed that this process is safe; the transfer of hAQP1 cDNA increased parotid gland flow and relieved the symptoms of some subjects [       ]. Zheng et al. further stated that the human cytomegalovirus enhancer/promoter (hCMVp) in AdhAQP1 was probably not methylated in transduced human SG cells of responding subjects, resulting in an unexpectedly longer functional expression of hAQP1 [       ]. When researchers transduced mouse and rat cell lines in vitro and submandibular glands in vivo with AdhAQP1, the methylation time of hCMVp was found to be longer. This phenomenon can explain the decrease in the expression and function of hAQP1 in vitro and hAQP1 expression in vivo [       ].
+      </p>
+      <p>
+       Sonic hedgehog (Shh) gene transfer inhibits IR-induced cellular senescence by promoting DNA repair and reducing oxidative stress, which is mediated by the upregulation of the expression of genes related to DNA repair (such as survivin and miR-21) and inhibits the expression of the pre-senescence gene Gdf15, which is downstream of miR [       ]. In addition, Shh gene transfection can activate HedgehogGli signaling. The transient activation of the Hedgehog pathway after IR reduces SG function in male rats by preserving salivary stem progenitor cells, parasympathetic innervation, and capillaries [       ]. A previous study showed that IR can significantly reduce vascular endothelial growth factor A (VEGFA) mRNA expression, while Ad–Shh but not Ad–GFP transfer significantly retained VEGFA expression in the 4th week, and Shh gene transfection could also activate autophagy and inhibit fibrogenesis in illuminated glands [       ]. SG resident macrophages are essential for functional SG regeneration following IR, which is related to their paracrine interactions with endothelial and epithelial cells. Hedgehog activation after IR recovers SG resident macrophages, either directly or by inducing the expression of Csf1 and IL34 in epithelial progenitors and endothelial cells, which then restores the expression of macrophage-derived Hgf and C1q [       ]. C1q also enhances phagocytosis by tagging damage-associated molecular patterns and apoptotic cells, and it promotes the polarization of macrophages to the M2 phenotype and the production of anti-inflammatory cytokines [       ,       ].
+      </p>
+      <p>
+       The preservation of parasympathetic nerves is related to the expression of neurotrophic factors, such as BDNF and neurturin (NRTN). Improving microvascular function may be achieved by inducing angiogenic factors [       ,       ]. NRTN is mainly secreted by epithelial cells and essential for parasympathetic neuron survival and axon growth. Mice with the genetic deletion of either NRTN or its receptor Gfrα2 have fewer parasympathetic neurons, as well as reduced SG innervation and function. The AAV2 vector expressing human neurotrophic factor (CERE-120) has been used to treat mouse mandibular glands before or after IR. Pre-IR (not post-IR) treatment with CERE-120 can prevent functional decline. CERE-120 prevents the hypofunction caused by IR, restores immune homeostasis, and has coordinated responses to the damage or treatment of the contralateral glands. In porcine PGs, CERE-120 gene therapy has been found to improve salivary function and to reduce IR-induced alterations in acinar structure to control levels 16 weeks after IR. Treatment with CERE-120 in pig PGs can also reduce IR-related immune responses and fibrosis, as well as improve secretion [       ,       ]. CERE-120 gene therapy is a potential treatment for head and neck cancer patients to influence communication among neuronal, immune, and epithelial cells to prevent IR-induced salivary hypofunction and restore immune homeostasis. In addition to neurotrophic factors, the upregulation of nerve growth factor in human SG cells and mouse submandibular gland tissues mediated by AAV can also effectively reduce IR-induced human SG cell apoptosis. This process is achieved by the dephosphorylation of JNK kinase. It is not achieved by dephosphorylating JNK kinase instead of promoting AKT phosphorylation [       ]. Researchers previously conducted a phase I human clinical trial in which the adenovirus gene AQP1 was transferred to a single SG of xerostomia caused by IR. However, due to its short cycle and heavier immune response, it cannot be widely used in phase II trials [       ]. Since then, studies have tried to mediate more stable gene transfer in animal parotid glands through the serotype 2 AAV2 vector, and the effect has been good [       ]. According to recent findings, as a means to provide AQP1 gene therapy in IR pig models, urinary angiotensinogen can replace adenovirus vectors and is a candidate for phase I human clinical trials [       ].
+      </p>
+      <p>
+       In summary, gene transfer technology brings hope for the restoration of SG cell function after radiotherapy. The hAQP1 gene was found to effectively increase the salivary flow of the parotid glands in both animals and humans. Shh gene transfer can also preserve SG function by preserving SG stem progenitor cells, parasympathetic nerves, and capillaries. Genes expressing human neurotrophic factors can prevent decreased salivary secretion by reducing the immune response, fibrosis, and restoring neuronal function (       ).
+      </p>
+     </sec>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec9-antioxidants-10-01666" sec-type="conclusions">
+    <title>
+     9. Conclusions
+    </title>
+    <p>
+     The mechanism of RISGI is closely related to oxidative stress. ROS generated by IR increase the concentration of calcium ions in the cytoplasm by cooperating with ADPR to activate TRPM2 channels. The activation of Ca     uniporters results in changes in the osmotic gradient of Ca     . In addition to the Ca     signal, microvascular endothelial cells undergo apoptosis, and the microvessel density decreases. IR can also cause a decrease in the parasympathetic nerve function that innervates the SGSCs and decreases the response of stem cells to acetylcholine. Cell senescence and apoptosis are two important factors in the loss of function of SG cells caused by IR. IR accelerates the shortening of telomeres through oxidative stress and directly damages DNA, thereby inducing cell senescence.
+    </p>
+    <p>
+     Growth factors can protect SG function by inhibiting IR-induced apoptosis. SCs are important for the long-lasting secretion of SGs. The choice of gene transfer vector is controversial.
+    </p>
+    <p>
+     Based on current evidence, the mechanism of RISGI is complex and diverse. Several treatments have been explored. In addition to traditional surgery, pilocarpine, amifostine, and submandibular gland surgical transfer, new treatment methods for SCs have emerged in recent years. In the future, antioxidant drugs based on SOD mimics and gene transfer research based on gene expression may improve the quality of life of clinical patients.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

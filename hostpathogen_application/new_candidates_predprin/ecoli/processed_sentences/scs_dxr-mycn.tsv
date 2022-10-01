@@ -1,0 +1,3 @@
+id_pmc	sentence location	highlighted phrase	interacting verbs	number of interacting verbs	experimental methods found	number of experimental methods	protein entities found	number of protein entities
+3223192	body	similar results were seen for mycn / max binding in dxr and myra - a treated sk - n - be ( 2 ) cells ( figure 5c ) .	bind	1		0	mycn|dxr|max|myra	4
+3223192	body	in summary , our data show that dxr and myra - a can interfere with the dna binding of c - myc / max as well as mycn / max , and thus likely influences the transcriptional activity of these complexes .	bind|complex	2		0	dxr|mycn|myra|-|a|myc|max	7

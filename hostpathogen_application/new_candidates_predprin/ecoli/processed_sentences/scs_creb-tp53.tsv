@@ -1,0 +1,2 @@
+id_pmc	sentence location	highlighted phrase	interacting verbs	number of interacting verbs	experimental methods found	number of experimental methods	protein entities found	number of protein entities
+8166836	body	5location of tp53 snps in the protein structure.a solution structure of p53 tad in complex with the nuclear receptor coactivator binding domain of creb binding protein ( ncbd - cbp ) ( pdb entry 2l14 ) .	complex|bind|bind	3		0	tp53|creb|snps|p53|tad|nuclear|receptor|coactivator|binding|domain|protein|ncbd|cbp	13

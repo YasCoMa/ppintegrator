@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Comparison of Staphopain A (ScpA) and B (SspB) precursor activation mechanisms reveals unique secretion kinetics of proSspB (Staphopain B), and a different interaction with its cognate Staphostatin, SspC.
+ </title>
+ <abstract>
+  <AbstractText>
+   The scpAB and sspABC operons of Staphylococcus aureus encode Staphopain cysteine proteases ScpA and SspB, and their respective Staphostatins ScpB and SspC, which are thought to protect against premature activation of Staphopain precursors during protein export. However, we found that the proSspB precursor was secreted and activated without detriment to S. aureus in the absence of SspC function. Our data indicate that this is feasible due to a restricted substrate specificity of mature SspB, a stable precursor structure and slow secretion kinetics. In contrast, mature ScpA had a broad substrate specificity, such that it was prone to autolytic degradation, but also was uniquely able to degrade elastin fibres. Modelling of proScpA relative to the proSspB structure identified several differences, which appear to optimize proScpA for autocatalytic activation, whereas proSspB is optimized for stability, and cannot initiate autocatalytic activation. Consequently, recombinant proSspB remained stable and unprocessed when retained in the cytoplasm of Escherichia coli, whereas proScpA initiated rapid autocatalytic activation, leading to capture of an activation intermediate by ScpB. We conclude that the status of sspBC in S. aureus, as paralogues of the ancestral scpAB genes, facilitated a different activation mechanism, a stable proSspB isoform and modified Staphostatin function.
+  </AbstractText>
+ </abstract>
+</article>

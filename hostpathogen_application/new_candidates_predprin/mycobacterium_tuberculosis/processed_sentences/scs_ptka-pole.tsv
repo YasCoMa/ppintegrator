@@ -1,0 +1,3 @@
+id_pmc	sentence location	highlighted phrase	interacting verbs	number of interacting verbs	experimental methods found	number of experimental methods	protein entities found	number of protein entities
+5035731	body	we have previously shown that overexpression of tkma confines ptka to the membrane ( ) and that mind is capable of recruiting ptka to the cell pole ( ) .	recruit	1		0	ptka|pole|tkma|mind	4
+4205851	body	this result provides in vivo validation of the mind / ptka interaction and hints at a role of mind in holding ptka at the cell pole during cytokinesis .	interact	1		0	ptka|pole|mind	3

@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  A systematic screen of conserved
+ </title>
+ <abstract>
+  <p>
+   Both
+   <italic>
+    Solanum tuberosum
+   </italic>
+   and
+   <italic>
+    Ralstonia solanacearum
+   </italic>
+   phylotype IIB originated in South America and share a long‐term co‐evolutionary history. However, our knowledge of potato bacterial wilt pathogenesis is scarce as a result of the technical difficulties of potato plant manipulation. Thus, we established a multiple screening system (virulence screen of effector mutants in potato, growth inhibition of yeast and transient expression in
+   <italic>
+    Nicotiana benthamiana
+   </italic>
+   ) of core type III effectors (T3Es) of a major potato pathovar of phylotype IIB, to provide more research perspectives and biological tools. Using this system, we identified four effectors contributing to virulence during potato infection, with two exhibiting multiple phenotypes in two other systems, including RipAB. Further study showed that RipAB is an unknown protein with a nuclear localization signal (NLS). Furthermore, we generated a
+   <italic>
+    ripAB
+   </italic>
+   complementation strain and transgenic
+   <italic>
+    ripAB
+   </italic>
+   ‐expressing potato plants, and subsequent virulence assays confirmed that
+   <italic>
+    R. solanacearum
+   </italic>
+   requires RipAB for full virulence. Compared with wild‐type potato, transcriptomic analysis of transgenic
+   <italic>
+    ripAB
+   </italic>
+   ‐expressing potato plants showed a significant down‐regulation of Ca
+   signalling‐related genes in the enriched Plant–Pathogen Interaction (PPI) gene ontology (GO) term. We further verified that, during infection, RipAB is required for the down‐regulation of four Ca
+   sensors,
+   <italic>
+    Stcml5
+   </italic>
+   ,
+   <italic>
+    Stcml23
+   </italic>
+   ,
+   <italic>
+    Stcml‐cast
+   </italic>
+   and
+   <italic>
+    Stcdpk2
+   </italic>
+   , and a Ca
+   transporter,
+   <italic>
+    Stcngc1
+   </italic>
+   . Further evidence showed that the immune‐associated reactive oxygen species (ROS) burst is attenuated in
+   <italic>
+    ripAB
+   </italic>
+   transgenic potato plants. In conclusion, a systematic screen of conserved
+   <italic>
+    R. solanacearum
+   </italic>
+   effectors revealed an important role for RipAB, which interferes with Ca
+   ‐dependent gene expression to promote disease development in potato.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="mpp12774-sec-0001">
+    <title>
+     Introduction
+    </title>
+    <p>
+     Potato (
+     <italic>
+      Solanum tuberosum L.
+     </italic>
+     ) is the third most important food crop worldwide. More than a billion people consume potato, and its production reached 382 million metric tons in 2014 (Kadota
+     <italic>
+      et al
+     </italic>
+     .,
+     ; McIntyre,
+     ). However, potato production and quality are severely constrained by numerous diseases, such as bacterial wilt, caused by
+     <italic>
+      Ralstonia solanacearum
+     </italic>
+     (Champoiseau
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Wullings
+     <italic>
+      et al
+     </italic>
+     .,
+     ). The major pathovar infecting potato belongs to phylotype IIB, which is widely distributed worldwide (Fegan
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Hayward,
+     ; Janse,
+     ; Seal
+     <italic>
+      et al
+     </italic>
+     .,
+     ). Phylotype IIB pathogens have adapted to cool temperatures and have migrated worldwide, probably through contaminated potato tubers (Hayward,
+     ; Hooker,
+     ; Huerta
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Wang
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Wicker
+     <italic>
+      et al
+     </italic>
+     .,
+     ). Even though potato and
+     <italic>
+      R. solanacearum
+     </italic>
+     have a long‐term co‐evolutionary history, very little is known about the interaction between them, as a result of both a lack of resistance materials and technical barriers involving potato genetic manipulation (Chen
+     <italic>
+      et al
+     </italic>
+     .,
+     ,
+     ). New strategies and biological tools are seriously needed for research and disease control.
+    </p>
+    <p>
+     Type III effectors (T3Es) are key virulence factors of
+     <italic>
+      R. solanacearum
+     </italic>
+     to counteract host immunity (Deslandes and Genin,
+     ; Macho and Zipfel,
+     ; Peeters
+     <italic>
+      et al
+     </italic>
+     .,
+     ), and T3Es from different bacterial pathogens have also been shown to manipulate other cellular functions independent of immunity (Macho,
+     ). Therefore, the use of effectors as molecular probes to detect potato immunity would offer a new perspective to study host resistance in potato. To date, this strategy has been broadly used in many studies of plant pathogenesis (Block and Alfano,
+     ; Greenberg and Vinatzer,
+     ; Kay and Bonas,
+     ; Lindeberg
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Mudgett,
+     ; Zhou and Chai,
+     ). With the development of genomics, an increasing number of
+     <italic>
+      R. solanacearum
+     </italic>
+     strains have been sequenced, and a plethora of effectors have been identified (Burstein
+     <italic>
+      et al
+     </italic>
+     .,
+     , Peeters
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Petnickiocwieja
+     <italic>
+      et al
+     </italic>
+     .,
+     ). Currently, more than 100 effectors have been reported in the
+     <italic>
+      R. solanacearum
+     </italic>
+     species complex (Deslandes and Genin,
+     ; Lonjon
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Peeters
+     <italic>
+      et al
+     </italic>
+     .,
+     ). Hence, a larger scale functional screening of effectors is essential for both the provision of more basic information on the effector inventory and acceleration of research on host resistance.
+    </p>
+    <p>
+     <italic>
+      Ralstonia solanacearum
+     </italic>
+     can infect more than 200 different species of plant. Each individual
+     <italic>
+      R. solanacearum
+     </italic>
+     strain harbours a large effector inventory (60–70) that can respond to various host environments (Genin and Denny,
+     ).
+     <italic>
+      Ralstonia solanacearum
+     </italic>
+     may require different combinations of effectors to infect specific hosts. Under these circumstances, the virulence screening of effector mutants is necessary for the study of specific host interactions and to prioritize effector studies amongst a large inventory.
+    </p>
+    <p>
+     Infection assays using effector mutants provide a direct proof of their contribution to virulence, but the detection of reduced virulence of individual effector mutants is difficult because of functional redundancy (Genin and Denny,
+     ; Macho
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Poueymiro
+     <italic>
+      et al
+     </italic>
+     .,
+     ). Owing to the conserved biochemical function of Gram‐negative bacterial effectors in eukaryotic environments, heterologous expression in yeast offers an effective and promising tool for whole‐genome functional screening and biochemical studies (Bosis
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Curak
+     <italic>
+      et al
+     </italic>
+     .,
+     ). The function of numerous bacterial effectors has been revealed using yeast as a model organism (Fujiwara
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Mukaihara
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Salomon
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Turgeon
+     <italic>
+      et al
+     </italic>
+     .,
+     ). Transient expression in
+     <italic>
+      Nicotiana benthamiana
+     </italic>
+     is also an ideal system for genetic investigations of plant interactions with pathogens, such as oomycetes, fungi and bacteria (Bombarely
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Goodin
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Oh
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Poueymiro
+     <italic>
+      et al
+     </italic>
+     .,
+     ). All of these methods combined would provide versatile tools and perspectives to benefit our research.
+    </p>
+    <p>
+     Compared with
+     <italic>
+      Pseudomonas
+     </italic>
+     and
+     <italic>
+      Xanthomonas
+     </italic>
+     ,
+     <italic>
+      Ralstonia
+     </italic>
+     harbours a larger effector repertoire of approximately 110 members (Lonjon
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Peeters
+     <italic>
+      et al
+     </italic>
+     .,
+     ). To date, the biochemical functions of a small number of these effectors and their targets have been described. RipP2 (PopP2) functions as an acetyltransferase that targets WRKY transcription factors (Le Roux
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Sarris
+     <italic>
+      et al
+     </italic>
+     .,
+     ). RipAY acts as a γ‐glutamyl cyclotransferase, altering intracellular redox homeostasis
+     <italic>
+      in planta
+     </italic>
+     (Fujiwara
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Mukaihara
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Sang
+     <italic>
+      et al
+     </italic>
+     .,
+     ). RipG family members can interfere with E3 ligase complexes (Angot
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Remigi
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Wang
+     <italic>
+      et al
+     </italic>
+     .,
+     ). RipTPS acts as a trehalose‐6‐phosphate (T6P) synthase, promoting the biosynthesis of T6P, and thus altering the crosstalk between plant metabolism and development (Poueymiro
+     <italic>
+      et al
+     </italic>
+     .,
+     ). RipAK can suppress the plant hypersensitive response (HR) by the inhibition of catalases (Sun
+     <italic>
+      et al
+     </italic>
+     .,
+     ). However, the function of most
+     <italic>
+      Ralstonia
+     </italic>
+     effectors is not yet understood.
+    </p>
+    <p>
+     In this work, we used a multiple screening system, involving the virulence screening of effector mutants in potato, yeast growth inhibition and transient expression in tobacco, to identify
+     <italic>
+      R. solanacearum
+     </italic>
+     virulence effectors. Using this screening system, we identified a highly relevant T3E, RipAB, which is the first reported effector that can suppress the Ca
+     signalling pathway at the mRNA level to promote the infection of
+     <italic>
+      R.
+     </italic>
+     <italic>
+      solanacearum
+     </italic>
+     in potato plants.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="mpp12774-sec-0002">
+    <title>
+     Results
+    </title>
+    <sec id="mpp12774-sec-0003">
+     <title>
+      Multiple functional screening reveals T3Es required for
+      <italic>
+       R. solanacearum
+      </italic>
+      virulence
+     </title>
+     <p>
+      To establish the multiple screening system, we first analysed the effector repertoire of 13 sequenced phylotype IIB strains (UW551, 23_10BR, CFBP1416, CFBP6783, CIP417, IBSBF1503, NCPPB909, NCPPB_282, P673, Po82, UW163, UW179 and UY031) in the
+      <italic>
+       R. solanacearum
+      </italic>
+      T3E database (Peeters
+      <italic>
+       et al
+      </italic>
+      .,
+      ). Thirty‐three effectors, which were present more than 10 times in the 13 sequenced strains, were selected as core effectors. Previous studies have shown that 20 and four core effectors are up‐regulated inside plant xylem and root tissues, respectively, in comparison with their expression in rich medium (Jacobs
+      <italic>
+       et al
+      </italic>
+      .,
+      , Puigvert
+      <italic>
+       et al
+      </italic>
+      .,
+      ). This indicates that most of these core effectors are associated with plant infection processes (Table
+      ). To reveal the virulence contribution of these core effectors, three different functional screenings were performed, including virulence assays of mutants on potato, growth inhibition of yeast and transient expression in
+      <italic>
+       N. benthamiana
+      </italic>
+      .
+     </p>
+     <p>
+      To investigate which effectors are important for
+      <italic>
+       R. solanacearum
+      </italic>
+      potato infection, we generated a collection of effector knockout mutant. Twenty‐four core effectors were successfully mutated in the reference UW551 strain
+      <italic>
+       via
+      </italic>
+      allelic exchange with spectinomycin resistance (Sm
+      ) cassettes (Jacobs
+      <italic>
+       et al
+      </italic>
+      .,
+      ). Compared with the wild‐type (WT) strain, six mutants were discarded because of distinguishable differences in motility assays and growth assays in rich medium (Figs
+      and
+      , see Supporting Information). The remaining 18 mutants were subjected to virulence assays using a susceptible potato accession, C9701, as described previously (Chen
+      <italic>
+       et al
+      </italic>
+      .,
+      ). Compared with the UW551 WT control, four of these effector mutants (
+      <italic>
+       ripAM
+      </italic>
+      ,
+      <italic>
+       ripAB
+      </italic>
+      ,
+      <italic>
+       ripAN
+      </italic>
+      and
+      <italic>
+       ripBH
+      </italic>
+      ) showed a significant reduction in virulence (Table
+      ; Figs
+      and
+      , see Supporting Information). These data indicate that each of these four effectors is required for infection of the susceptible potato accession C9701.
+     </p>
+     <p>
+      Furthermore, we used a yeast heterologous expression system to investigate the virulence function of the core effectors. We cloned 33 core effectors into a galactose‐inducible vector and transformed them into the yeast strain BY4741. The transformants were grown on both suppression and induction medium under two different conditions (with and without 0.5
+      <sc>
+       m
+      </sc>
+      NaCl). The results showed that four effectors, RipA5, RipBH, RipV1 and RipAY, strongly inhibited yeast growth under the two conditions. However, RipAB, RipAN, RipAV and RipD caused a relatively weak growth inhibition (Table
+      ; Fig.
+      ). Together, these data indicate that these effectors interfere with basic cellular functions in yeast.
+     </p>
+     <p>
+      Interestingly, using transient expression in
+      <italic>
+       N. benthamiana,
+      </italic>
+      we observed that four effectors (RipAB, RipV1, RipBH and RipF2) triggered cell death at 96 h post‐inoculation (hpi) (Table
+      ; Fig.
+      , see Supporting Information). Compared with RipV1 and RipF2, RipBH and RipAB triggered a stronger tissue necrosis (Fig.
+      , see Supporting Information). As a control for the immune elicitor that induces cell death, we used the
+      <italic>
+       Phytophthora infestans
+      </italic>
+      elicitor INF1 (Du
+      <italic>
+       et al
+      </italic>
+      .,
+      ). However, unlike cell death triggered by INF1, the cell death triggered by these four effectors seemed to be independent of the
+      <italic>
+       SGT1
+      </italic>
+      ‐,
+      <italic>
+       EDS1
+      </italic>
+      ‐,
+      <italic>
+       NDR1
+      </italic>
+      ‐,
+      <italic>
+       HSP70
+      </italic>
+      ‐ and
+      <italic>
+       MEKK2
+      </italic>
+      ‐mediated immune signalling pathways, as virus‐induced gene silencing (VIGS) of these genes did not affect the cell death triggered by these effectors (Figs
+      and
+      , see Supporting Information). These findings suggest that the cell death triggered by these effectors may be independent of the signalling pathways mediated by these genes.
+     </p>
+     <p>
+      As RipAB is required for full virulence during potato infection, induces cell death in
+      <italic>
+       N. benthamiana
+      </italic>
+      and inhibits yeast growth, we selected RipAB as our primary research object.
+     </p>
+    </sec>
+    <sec id="mpp12774-sec-0004">
+     <title>
+      RipAB is a type III‐secreted effector
+      <italic>
+       in vivo
+      </italic>
+     </title>
+     <p>
+      Previous studies have shown that RipAB is a type III‐secreted effector
+      <italic>
+       in vitro
+      </italic>
+      (Gueneron
+      <italic>
+       et al
+      </italic>
+      .,
+      ; Lonjon
+      <italic>
+       et al
+      </italic>
+      .,
+      ). To test the secretion of RipAB during potato infection, an adenylate cyclase (cyaA) assay was performed as described previously (Poueymiro
+      <italic>
+       et al
+      </italic>
+      .,
+      ), with some modifications. We generated an
+      <italic>
+       R. solanacearum
+      </italic>
+      expression vector (pABsscyaA) using a fragment of 100 amino acids of the RipAB N‐terminal type III secretion signal fused to cyaA protein (Fig.
+      a). We then transformed the expression vector and an empty vector (pABcyaA) into both UW551 and the type III secretion system (T3SS) mutant ΔHrcV. If it is translocated by the T3SS, cyaA would significantly increases the concentration of cyclic adenosine monophosphate (cAMP) in the cytoplasm. The concentration of cAMP was monitored at 7 days post‐inoculation (dpi). We observed that the concentration of cAMP in plants inoculated with UW551 (pABsscyaA) was significantly higher than that in plants inoculated with ΔHrcV (pABsscyaA), UW551(pABcyaA), ΔhrcV(pABcyaA), UW551 or ΔHrcV strains (Fig.
+      b), indicating that RipAB is secreted by the T3SS, which is consistent with the results of a previous
+      <italic>
+       in vitro
+      </italic>
+      secretome study (Gueneron
+      <italic>
+       et al
+      </italic>
+      .,
+      ; Lonjon
+      <italic>
+       et al
+      </italic>
+      .,
+      ).
+     </p>
+    </sec>
+    <sec id="mpp12774-sec-0005">
+     <title>
+      RipAB contributes to
+      <italic>
+       R. solanacearum
+      </italic>
+      UW551 infection in potato
+     </title>
+     <p>
+      To confirm the virulence screening data, we performed genetic complementation of the
+      <italic>
+       ΔripAB
+      </italic>
+      mutant. The
+      <italic>
+       ΔripAB:ripAB
+      </italic>
+      complementation strain was constructed via allelic exchange, in which
+      <italic>
+       ripAB
+      </italic>
+      expression is driven from its native promoter, and a kanamycin resistance (Km
+      ) cassette was inserted into a permissive chromosomal site, as described previously (Monteiro
+      <italic>
+       et al
+      </italic>
+      .,
+      ). Consistent with previous screening data, potato infection assays showed that the virulence of the
+      <italic>
+       ΔripAB
+      </italic>
+      strain was significantly reduced (
+      <italic>
+       P
+      </italic>
+      &lt; 0.0001), whereas the
+      <italic>
+       ΔripAB:ripAB
+      </italic>
+      complementation strain recovered the virulence to WT levels (Fig.
+      a,b).
+     </p>
+     <p>
+      To explore this phenomenon further in potato plants, we generated transgenic potato lines expressing
+      <italic>
+       ripAB
+      </italic>
+      from a constitutive 35S promoter. In comparison with other transgenic lines expressing control genes under a 35S promoter, all
+      <italic>
+       ripAB
+      </italic>
+      transgenic lines presented much lower expression of the transgene (Fig.
+      , see Supporting Information), suggesting that the plants with high
+      <italic>
+       ripAB
+      </italic>
+      expression were not viable on genetic transformation with the
+      <italic>
+       ripAB
+      </italic>
+      expression construct.
+      <italic>
+       ripAB
+      </italic>
+      transgenic plants exhibited stunted phenotypes (Fig.
+      c), suggesting that RipAB alters important plant physiological functions.
+     </p>
+     <p>
+      Three independent potato transgenic lines (RipAB‐1, RipAB‐3 and RipAB‐8) were subsequently selected and challenged with UW551 (Fig.
+      , see Supporting Information). As depicted in Fig.
+      d, compared with the untransformed potato cv. E3 control lines, the transgenic lines did not survive for more than 10 dpi with UW551. The three transgenic lines exhibited enhanced disease development, as measured by the disease index (Fig.
+      e). Together, these results further confirm that RipAB contributes to UW551 infection in potato.
+     </p>
+    </sec>
+    <sec id="mpp12774-sec-0006">
+     <title>
+      RipAB requires a nuclear localization signal (NLS) to trigger cell death in
+      <italic>
+       N. benthamiana
+      </italic>
+     </title>
+     <p>
+      To predict the molecular function of RipAB, its protein sequence was used to query several protein databases, including the National Center for Biotechnology Information (NCBI), UNIPROT, PHYRE2 and HHpred. However, RipAB did not show any sequence or structural similarity to known proteins. Nevertheless, a nuclear localization signal (NLS) was found in RipAB (Fig.
+      , see Supporting Information). To further investigate the function of RipAB, its subcellular localization in plant cells was examined in
+      <italic>
+       N. benthamiana
+      </italic>
+      using confocal microscopy. A construct with enhanced green fluorescent protein (EGFP) fused to the N‐terminus of RipAB was expressed in
+      <italic>
+       N. benthamiana
+      </italic>
+      via
+      <italic>
+       Agrobacterium
+      </italic>
+      ‐mediated transient expression. EGFP‐RipAB was observed to localize in the nucleoplasm (Fig.
+      a). To determine the relevance of the predicted NLS for RipAB nuclear localization, we generated a RipAB mutant variant with a deletion of the NLS (Fig.
+      , see Supporting Information). EGFP‐RipABΔNLS lost the specific nuclear localization (Fig.
+      a), indicating that RipAB requires this NLS for its nuclear localization.
+     </p>
+     <p>
+      As RipAB triggers cell death in
+      <italic>
+       N. benthamiana
+      </italic>
+      , we tested whether the NLS is required for cell death induction. EGFP‐RipAB and EGFP‐RipABΔNLS were transiently expressed in
+      <italic>
+       N. benthamiana
+      </italic>
+      and, as depicted in Fig.
+      b,c, EGFP‐RipABΔNLS did not trigger cell death, indicating that the NLS and the nuclear localization of this effector are essential for the induction of cell death.
+     </p>
+    </sec>
+    <sec id="mpp12774-sec-0007">
+     <title>
+      RipAB suppresses transcriptional responses associated with calcium signalling
+     </title>
+     <p>
+      To identify specific plant processes affected by RipAB, we performed a transcriptomic analysis of potato plants expressing
+      <italic>
+       ripAB
+      </italic>
+      . Non‐inoculated roots of three different transgenic lines (RipAB‐1, RipAB‐3 and RipAB‐8) and a control cultivar (E3) were sampled and subjected to RNA sequencing (RNA‐seq) analysis. Four hundred and seventeen differentially expressed genes (DEGs) were identified in all three
+      <italic>
+       ripAB
+      </italic>
+      transgenic lines compared with the E3 control line (Fig.
+      a). Notably, most DEGs were down‐regulated (388), whereas only 29 genes were up‐regulated, which indicates that RipAB interferes with the transcription process (Fig.
+      , see Supporting Information).
+     </p>
+     <p>
+      To determine the signalling pathways in which these DEGs are involved, KEGG pathway enrichment analysis was performed. Interestingly, only the Plant Pathogen Interaction (PPI) gene ontology (GO) term was significantly enriched (Fig.
+      b). Among all the DEGs, 16 genes were enriched in the PPI GO term, half of which were documented to be involved in Ca
+      signalling, including one cyclic nucleotide‐gated ion channel 1 (
+      <italic>
+       Stcngc1
+      </italic>
+      ) gene, whose product is a calcium transport channel (Jammes
+      <italic>
+       et al
+      </italic>
+      .,
+      ), six calmodulin genes, annotated as
+      <italic>
+       Stcml3
+      </italic>
+      ,
+      <italic>
+       Stcml5
+      </italic>
+      ,
+      <italic>
+       Stcml19
+      </italic>
+      ,
+      <italic>
+       Stcml23
+      </italic>
+      ,
+      <italic>
+       Stcml24
+      </italic>
+      and
+      <italic>
+       Stcml-cast
+      </italic>
+      , and one calcium‐dependent protein kinase 2 gene (
+      <italic>
+       Stcdpk2
+      </italic>
+      ), whose product is considered to be a calcium sensor that translates calcium signals into phosphorylation signals (Boudsocq and Sheen,
+      ). Additional targeted analysis by quantitative reverse transcription‐polymerase chain reaction (qRT‐PCR) confirmed that eight calcium signalling‐related genes were significantly down‐regulated in the three
+      <italic>
+       ripAB
+      </italic>
+      ‐expressing transgenic lines (Fig.
+      c).
+     </p>
+     <p>
+      To confirm whether RipAB down‐regulates calcium signalling‐related genes during infection in potato, we investigated gene expression in potato roots after inoculation with UW551 and Δ
+      <italic>
+       ripAB
+      </italic>
+      at 24 hpi. Compared with Δ
+      <italic>
+       ripAB
+      </italic>
+      , infection with UW551 caused a significant down‐regulation of the expression of
+      <italic>
+       Stcml5
+      </italic>
+      ,
+      <italic>
+       Stcml23
+      </italic>
+      ,
+      <italic>
+       Stcml‐cast
+      </italic>
+      ,
+      <italic>
+       Stcdpk2
+      </italic>
+      and
+      <italic>
+       Stcngc1
+      </italic>
+      (Fig.
+      d). These data are consistent with the RNA‐seq data from
+      <italic>
+       ripAB
+      </italic>
+      transgenic potato plants, strengthening our conclusion that RipAB specifically and significantly down‐regulates calcium signalling‐related genes during infection.
+     </p>
+    </sec>
+    <sec id="mpp12774-sec-0008">
+     <title>
+      RipAB suppresses the pathogen‐associated molecular pattern (PAMP)‐triggered oxidative burst
+     </title>
+     <p>
+      As a secondary messenger, Ca
+      is required for PAMP‐induced reactive oxygen species (ROS) production mediated by respiratory burst oxidase homologues (RBOHs) (Kadota
+      <italic>
+       et al
+      </italic>
+      .,
+      ). As such, we speculated that the down‐regulation of genes involved in Ca
+      ‐mediated signal transduction could possibly affect the oxidative burst. Thus, we tested the oxidative burst in transgenic leaf tissues on treatment with the bacterial PAMP flg22, which is the major epitope peptide of bacterial flagellin. In potato plants, the production of ROS reached a peak at 10 min after flg22 treatment. In control plants (E3), a peak value greater than 1000 relative luminescence units (RLU) was reached, whereas the peak value in
+      <italic>
+       ripAB
+      </italic>
+      ‐expressing transgenic lines was less than 500 RLU (Fig.
+      a). Compared with the E3 control lines, the
+      <italic>
+       ripAB
+      </italic>
+      ‐expressing transgenic lines exhibited a strong reduction in total ROS generated during 1 h after flg22 treatment (Fig.
+      b), suggesting that the down‐regulation of the Ca
+      signalling pathway by RipAB interferes with PAMP‐triggered ROS accumulation.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="mpp12774-sec-0009">
+    <title>
+     Discussion
+    </title>
+    <p>
+     <italic>
+      Ralstonia solanacearum
+     </italic>
+     can infect more than 200 different plant species, and each individual
+     <italic>
+      R. solanacearum
+     </italic>
+     strain harbours a large effector inventory (60–70) (Genin and Denny,
+     ). Thus,
+     <italic>
+      R. solanacearum
+     </italic>
+     might require different combinations of effectors to infect different hosts. Two lines of evidence exist to support this presumption. First, previous studies have shown that a single effector mutant hardly exhibits any virulence reduction in a limited number of hosts (Macho
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Poueymiro
+     <italic>
+      et al
+     </italic>
+     .,
+     ). Second, previous studies have shown that
+     <italic>
+      R. solanacearum
+     </italic>
+     RipAY, a glutamyl cyclotransferase, is the only effector that can significantly reduce glutathione in eggplants, whereas the ripAY mutant shows no marked difference in virulence in eggplants (Fujiwara
+     <italic>
+      et al
+     </italic>
+     .,
+     ). This indicates that RipAY, a non‐redundant effector, is dispensable for virulence on eggplants. In this scenario, the virulence screening of effector mutants is necessary for specific host interaction studies and to prioritize effector studies in a large inventory. To investigate which effectors are important for
+     <italic>
+      R. solanacearum
+     </italic>
+     potato infection, we set up a screen to identify effector mutants with reduced virulence in potato plants. We tested 18 effector mutants, and four exhibited significantly reduced virulence (Fig.
+     ). Our data suggest that these four effectors contribute to potato infection. However, we must consider that only one accession of susceptible potato was used for this screen, and therefore other relevant effectors could have been overlooked, such as RipAJ and RipG7, which have been shown recently to be under diversifying selection in
+     <italic>
+      R. solanacearum
+     </italic>
+     (Castillo and Agathos,
+     ). In the future, additional accessions will be tested in similar screening studies.
+    </p>
+    <p>
+     Heterologous expression in yeast is a powerful method to identify conserved biochemical functions in effectors that interfere with yeast growth (Popa
+     <italic>
+      et al
+     </italic>
+     .,
+     ). Via this model system, RipAY was revealed as a glutathione‐degrading enzyme which functions in both yeast and plant cells (Fujiwara
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Mukaihara
+     <italic>
+      et al
+     </italic>
+     .,
+     ; Sang
+     <italic>
+      et al
+     </italic>
+     .,
+     ). In keeping with these reports, we also found that RipAY from UW551 inhibits yeast growth, validating our screening approach for the identification of UW551 effectors that interfere with important functions in eukaryotic cells. In addition, RipA5 was found to inhibit the conserved TOR signalling pathway in yeast (Popa
+     <italic>
+      et al
+     </italic>
+     .,
+     ). To complement our analysis in yeast cells, we performed transient expression in
+     <italic>
+      N. benthamiana
+     </italic>
+     . We used cell death as a visualized phenotype (Fig.
+     ).
+    </p>
+    <p>
+     The development of cell death can be associated with a severe form of immunity, known as the HR. A previous study has shown that manipulation of the Arabidopsis type I metacaspase regulatory module can almost eliminate HR, but this elimination does not lead to increased pathogen proliferation, decoupling cell death from resistance (Coll
+     <italic>
+      et al
+     </italic>
+     .,
+     ). These findings indicate that HR‐type cell death could be independent of immunity and could be mediated by an independent cell death pathway (Coll
+     <italic>
+      et al
+     </italic>
+     .,
+     ,
+     ; Liu and Levine,
+     ). Distinguishing between cell death caused by toxicity and HR is difficult. To identify effectors triggering HR, the corresponding resistance genes (
+     <italic>
+      R
+     </italic>
+     genes) need to be revealed, which, in most cases, requires additional studies and the development of tools in specific host plants. In our research, four effectors caused cell death, which was independent of the usual signalling components required for immunity triggered by INF1. Therefore, we hypothesize that the cell death triggered by these effectors is unlikely to be a result of an HR, and is most likely caused by a toxic effect of their activities in plant cells. First, their conserved effect on both yeast and
+     <italic>
+      N. benthamiana
+     </italic>
+     suggests that these effectors could have a conserved biochemical function in eukaryotic cells. Another line of evidence is that cell death triggered by these effectors is slower than that triggered by INF1. In our study, we observed that INF1‐triggered cell death became evident at 36–42 hpi, whereas these effectors triggered cell death at 72–96 hpi.
+    </p>
+    <p>
+     We observed that several effectors, such as RipAB, RipBH and RipV1, caused multiple phenotypes in our screening system, suggesting a potential association of these three phenotypes (Figs
+     ,
+     ,
+     ), and raising the possibility that these effectors have a conserved biochemical function or target a conserved signalling pathway in different organisms. It is possible that these effectors target basic cellular functions; for example, RipAB seems to target host processes associated with the Ca
+     signalling pathway, which is essential in all types of biological processes (Cheval
+     <italic>
+      et al
+     </italic>
+     .,
+     ).
+    </p>
+    <p>
+     RipAB was previously named popB (Gueneron
+     <italic>
+      et al
+     </italic>
+     .,
+     ). However, the function of RipAB is still unknown. Here, we found that RipAB is a nuclear localized protein required for full virulence during potato infection, and our additional molecular analysis showed that RipAB severely down‐regulates Ca
+     ‐related signalling at the transcriptional level (Fig.
+     ). Plants use secondary messengers, such as Ca
+     , to perceive stimuli and to adapt to dynamic environments. The alteration of Ca
+     levels can translate perceived signals to downstream biological processes (Cheval
+     <italic>
+      et al
+     </italic>
+     .,
+     ). For instance, plant innate immunity requires Ca
+     for the amplification of immune responses (Kadota
+     <italic>
+      et al
+     </italic>
+     .,
+     ). Cytosolic Ca
+     concentration dramatically increases after the perception of PAMPs (Lecourieux
+     <italic>
+      et al
+     </italic>
+     .,
+     ), resulting in the Ca
+     binding of NADPH oxidases (RBOHD), which increases ROS production (Oda
+     <italic>
+      et al
+     </italic>
+     .,
+     ). Such processes can be completed within 15 min and are amongst the first steps for the activation of PAMP‐triggered immunity (PTI) (Boller and Felix,
+     ; Macho and Zipfel,
+     ). In keeping with this notion, we found that RipAB down‐regulates the expression of
+     <italic>
+      Stcngc1
+     </italic>
+     a Ca
+     transport channel gene, and
+     <italic>
+      Stcdpk2/Stcmls
+     </italic>
+     , Ca
+     sensor genes, accompanied by a reduction in PAMP‐triggered ROS production in
+     <italic>
+      ripAB
+     </italic>
+     ‐expressing transgenic plants (Figs
+     and
+     ).
+    </p>
+    <p>
+     Notably, a previous study has shown that CDPK/CMLs, Ca
+     sensors, are essential regulators of plant immunity. Mutation of
+     <italic>
+      cml24
+     </italic>
+     impairs HR mediated by avrRpt2 (Delk
+     <italic>
+      et al
+     </italic>
+     .,
+     ). In addition, silencing of
+     <italic>
+      cam13
+     </italic>
+     increases the susceptibility to
+     <italic>
+      Tobacco mosaic virus
+     </italic>
+     (TMV) and
+     <italic>
+      R. solanacearum
+     </italic>
+     (Takabatake
+     <italic>
+      et al
+     </italic>
+     .,
+     ). Overexpression of
+     <italic>
+      cdpk
+     </italic>
+     4/5 in potato can phosphorylate RBOHB, leading to HR‐like cell death (Kobayashi
+     <italic>
+      et al
+     </italic>
+     .,
+     ). NtCDPK2 autophosphorylation and phosphorylation by an upstream kinase are required for the fine‐tuning of defence signalling cascades (Witte
+     <italic>
+      et al
+     </italic>
+     .,
+     ). Ca
+     is a versatile secondary messenger involved in various developmental and adaptive processes in response to various physiological stimuli (Cheval
+     <italic>
+      et al
+     </italic>
+     .,
+     ). Therefore, it is important to consider that down‐regulated Ca
+     signalling will not only affect immunity, but also globally alter physiological processes, including hormone signalling, metabolism and responses to other environmental stresses, increasing the vulnerability of the plant to the environment.
+    </p>
+    <p>
+     We propose two hypothetical scenarios for the mode of action of RipAB (Fig.
+     ). First, RipAB could bind DNA directly to suppress gene expression associated with Ca
+     signalling. RipAB is a nuclear protein and requires its NLS to trigger cell death, which suggests that RipAB needs to be localized to the nucleus to function properly. Our RNA‐seq data showed that most DEGs were down‐regulated genes (388), which would support a mechanism whereby RipAB directly binds to DNA to impede their transcription. Because RipAB could specifically suppress the Ca
+     signalling pathway at the mRNA level, we speculated that RipAB might mimic a calcium‐related transcription factor to target certain DNA regions. However, the DNA sequence analysis of these down‐regulated calcium‐related genes did not show a clear pattern associated with specific transcription factors. In an alternative scenario, RipAB could interact with Ca
+     signalling regulators, such as calmodulins, and this would result in indirect down‐regulation of the DEGs. Both scenarios would lead to the down‐regulation of the Ca
+     transport channel gene
+     <italic>
+      CNGC
+     </italic>
+     , which would affect Ca
+     influx. Moreover, a reduced expression of calcium sensors would result in the inability of Ca
+     perception, which would lead to the inactivation of downstream immune responses (Fig.
+     ).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="mpp12774-sec-0010">
+    <title>
+     Experimental Procedures
+    </title>
+    <sec id="mpp12774-sec-0011">
+     <title>
+      Strains and vectors
+     </title>
+     <p>
+      All the strains and vectors used in this study are listed in Table
+      (see Supporting Information).
+     </p>
+    </sec>
+    <sec id="mpp12774-sec-0012">
+     <title>
+      Plant materials
+     </title>
+     <p>
+      Potato plants were grown at 18–25 °C in 24‐cm‐diameter plastic pots in the glasshouse (light intensity ranged from 400 to 1000 µE/m
+      ) at the National Centre for Vegetable Improvement (Central China), Huazhong Agricultural University, Wuhan, China.
+     </p>
+     <p>
+      <italic>
+       Solanum tuberosum
+      </italic>
+      cv. E‐Potato 3 (E3), susceptible to
+      <italic>
+       R. solanacearum
+      </italic>
+      , was used for transgenic manipulation, and
+      <italic>
+       Solanum chacoense
+      </italic>
+      accession C9701 (C9701) was a susceptible wild species used for virulence screening.
+     </p>
+     <p>
+      <italic>
+       Nicotiana benthamiana
+      </italic>
+      plants were grown in general‐purpose compost under long‐day conditions of 16 h of light at 22 °C in a glasshouse, and the light intensity ranged from 130 to 150 µE/m
+      .
+     </p>
+    </sec>
+    <sec id="mpp12774-sec-0013">
+     <title>
+      Yeast manipulation
+     </title>
+     <p>
+      Yeast cells were cultured in YPD medium (1% yeast extract, 2% peptone, 2% glucose), and yeast transformations were performed via the lithium acetate method (Gietz and Woods,
+      ). Thirty‐three effector genes driven by the galactose promoter were inserted into a pYES2 plasmid for expression. The yeast cells were then cultured for 2 days in synthetic dextrose medium (2% glucose, 0.67% yeast nitrogen base without amino acids) + 2% raffinose, after which the cells were diluted to an optical density at 600 nm (OD
+      <sub>
+       600
+      </sub>
+      ) of 0.4 in water and plated in repression medium (2% glucose) and induction medium (2% galactose) to monitor cell growth. For yeast protein extraction, the yeast cells were grown for 2 days in SD‐Ura medium + 2% raffinose, followed by dilution to an OD
+      <sub>
+       600
+      </sub>
+      of 0.4 in liquid induction medium (2% galactose). The cells were subsequently cultured for 12 h before cell lysis.
+     </p>
+    </sec>
+    <sec id="mpp12774-sec-0014">
+     <title>
+      Transient expression in
+      <italic>
+       N. benthamiana
+      </italic>
+     </title>
+     <p>
+      Four‐ to six‐week‐old plants were used for transient expression assays.
+      <italic>
+       Agrobacterium tumefaciens
+      </italic>
+      cultures (strain GV3101) carrying various constructs were cultured overnight in the presence of the appropriate antibiotics at 28 °C. The bacteria were pelleted, centrifuged and resuspended in infiltration buffer [10 m
+      <sc>
+       m
+      </sc>
+      2‐(
+      <italic>
+       N
+      </italic>
+      ‐morpholino)ethanesulfonic acid (MES; pH 5), 10 m
+      <sc>
+       m
+      </sc>
+      MgCl
+      <sub>
+       2
+      </sub>
+      and 0.2 m
+      <sc>
+       m
+      </sc>
+      acetosyringone], after which their concentration was adjusted to the required OD
+      <sub>
+       600
+      </sub>
+      of 0.3 for immunoblots and HR imaging, or 0.05 for confocal imaging. After 3 h of incubation, the cultures were infiltrated into the leaves of
+      <italic>
+       N. benthamiana
+      </italic>
+      plants. The HR phenotype of the effectors was captured at 60 hpi.
+     </p>
+    </sec>
+    <sec id="mpp12774-sec-0015">
+     <title>
+      Mutagenesis of
+      <italic>
+       R. solanacearum
+      </italic>
+     </title>
+     <p>
+      To generate mutants of
+      <italic>
+       R. solanacearum
+      </italic>
+      , the target effector genes were replaced with cassettes harbouring Sm
+      . Each sequence included the target gene, and its flanking region amplified from the genome of strain UW551 was inserted into a pEASY‐blunt vector. Reverse amplification of the target gene was used to delete the target gene that generated a linear vector only with the flanking region. An Sm
+      cassette that contained an independent promoter and terminator was inserted into the linear vector using a ClonExpress II One Step Cloning Kit (Vazyme Biotech, Nanjing, China) to create a pEASY‐target::Sm
+      vector. The Sm
+      cassette fragment harbouring the mutant gene flanking region fragments was then amplified and purified for transformation of the
+      <italic>
+       R. solanacearum
+      </italic>
+      strain, as described previously (Jacobs
+      <italic>
+       et al
+      </italic>
+      .,
+      ). All the mutations were verified by both PCR and RT‐PCR, and all the primers used are listed in Table
+      (see Supporting Information). The complementation strain was constructed via allelic exchange, and
+      <italic>
+       ripAB
+      </italic>
+      with a native promoter and a Km
+      cassette were inserted into a permissive chromosomal site, as described previously (Monteiro
+      <italic>
+       et al
+      </italic>
+      .,
+      ).
+     </p>
+    </sec>
+    <sec id="mpp12774-sec-0016">
+     <title>
+      Bacterial motility and growth assays
+     </title>
+     <p>
+      Bacterial motility assays were carried out on semisolid medium containing 1% tryptone and 0.325 g of agar (Boles and McCarter,
+      ). Each plate medium was inoculated with 5 µL of bacterial culture at a density of 10
+      colony‐forming units (CFU)/mL. The radius of cell movement was measured at 3 dpi. The growth assay was conducted with B medium (Hendrick and Sequeira,
+      ) that lacked antibiotics. The cultures were inoculated in 50‐mL tubes containing 15 mL of medium to an initial OD
+      <sub>
+       600
+      </sub>
+      of 0.01, and incubated in a 200‐rpm shaker at 28 °C; bacterial growth was measured spectrophotometrically at OD
+      <sub>
+       600
+      </sub>
+      .
+     </p>
+    </sec>
+    <sec id="mpp12774-sec-0017">
+     <title>
+      cAMP assays
+     </title>
+     <p>
+      The cyaA assay was performed as described previously, with some modifications (Poueymiro
+      <italic>
+       et al
+      </italic>
+      .,
+      ). Five microlitres of bacterial culture at a density of 10
+      CFU/mL of strain UW551 and its derivatives harbouring pABsscyaA or pABcyaA plasmids were infiltrated into cut surfaces of potato tubers. The tissues were sampled at 7 days after injection. cAMP levels were monitored with a cAMP enzyme immunoassay kit (New East Biosciences, Malvern, PA, USA) according to the manufacturer’s instructions.
+     </p>
+    </sec>
+    <sec id="mpp12774-sec-0018">
+     <title>
+      <italic>
+       Ralstonia solanacearum
+      </italic>
+      infection assays in potato
+     </title>
+     <p>
+      Two different infection methods were applied in this research.
+     </p>
+     <p>
+      <italic>
+       In vitro
+      </italic>
+      potato tests were used for mutant screening as described by Chen
+      <italic>
+       et al.
+      </italic>
+      (
+      ), with some modifications. The concentration of inoculated bacteria was adjusted to 10
+      CFU/mL. Four replicates of 20 plants were investigated for their disease index at 14 dpi. Accession C9701, used for the virulence assays
+      <italic>
+       in vitro
+      </italic>
+      , was cultivated 3 weeks before inoculation. The disease index was recorded each day after inoculation.
+     </p>
+     <p>
+      The soil drench method was used for the transgenic lines and complementation virulence assays. With respect to the infection of the transgenic cultivar E3, 24 plants were used for the investigation of the disease index; three replicates were tested. The disease index was recorded each day after inoculation. For the effector complementation virulence assays, 100 plants were used for the investigation of the survival rates. The surviving plants were recorded each day after inoculation, and the concentration of inoculated bacteria was adjusted to 10
+      CFU/mL.
+     </p>
+    </sec>
+    <sec id="mpp12774-sec-0019">
+     <title>
+      Confocal laser scanning microscopy
+     </title>
+     <p>
+      Confocal images of leaf cells expressing the protein fusions at 36 h after transient expression in six‐leaf‐stage
+      <italic>
+       N. benthamiana
+      </italic>
+      plants were captured with a Leica SP8 (Leica, Wetzlar, Germany) instrument. A wavelength of 488 nm was used for GFP excitation, and the wavelength (500–525 nm) of the emission signal was obtained for the GFP channel. A wavelength of 558 nm was used for chloroplast fluorescence excitation, and emission wavelengths (690–720 nm) were obtained.
+     </p>
+    </sec>
+    <sec id="mpp12774-sec-0020">
+     <title>
+      Immunoblot analysis
+     </title>
+     <p>
+      Samples were collected and ground in liquid nitrogen. Lysis buffer was then used as described previously (Kadota
+      <italic>
+       et al
+      </italic>
+      .,
+      ). The proteins were separated by 10% sodium dodecylsulfate‐polyacrylamide gel electrophoresis (SDS‐PAGE), transferred to a polyvinylidene fluoride (PVDF) membrane (Biorad, Hercules, CA, USA) and then measured via an ECL plus (Biorad) device. The anti‐GFP and horseradish peroxidase‐conjugated secondary antibodies used in this research were purchased from Thermo Fisher Scientific, Shanghai, China.
+     </p>
+    </sec>
+    <sec id="mpp12774-sec-0021">
+     <title>
+      Potato genetic transformation
+     </title>
+     <p>
+      The
+      <italic>
+       ripAB
+      </italic>
+      gene driven by P35S was transformed into potato cultivar E3 via
+      <italic>
+       A. tumefaciens
+      </italic>
+      (LBA4404)‐mediated transformation, as described previously (Tian
+      <italic>
+       et al
+      </italic>
+      .,
+      ). The regenerated plants were identified by semiquantitative PCR.
+     </p>
+    </sec>
+    <sec id="mpp12774-sec-0022">
+     <title>
+      Transcriptome analysis
+     </title>
+     <p>
+      In this study, root samples of 4‐week‐old
+      <italic>
+       in vitro
+      </italic>
+      potatoes were harvested. Taking untransformed potato cultivar E3 as a control, we sampled three
+      <italic>
+       ripAB
+      </italic>
+      transgenic lines to constitute three biological replicates. The total RNA was extracted with an RNA extraction kit (Zoman Biotechnology, Beijing, China) according to the manufacturer’s instructions. RNA‐seq was performed by Biomarker Technologies (Beijing, China) with a HiSeq‐xTEN (Illumina, San Diego, CA, USA) system. The data were analysed by the BMK Cloud server. The gene expression levels were quantified by the fragments per kilobase of transcript per million fragments mapped (FPKM) method (Trapnell
+      <italic>
+       et al
+      </italic>
+      .,
+      ). A value of |log
+      <sub>
+       2
+      </sub>
+      (fold change)| ≥ 1 [false discovery rate (FDR) &lt; 0.01] was set as the threshold for DEGs. GO enrichment analysis of the DEGs was implemented by the GOseq R package (Ashburner
+      <italic>
+       et al
+      </italic>
+      .,
+      ), and the enrichment of the DEGs in the KEGG pathways was analysed via KOBAS software (Mao
+      <italic>
+       et al
+      </italic>
+      .,
+      ). Raw sequencing data are available in the Sequence Read Archive under the accession code: PRJNA500722.
+     </p>
+    </sec>
+    <sec id="mpp12774-sec-0023">
+     <title>
+      qRT‐PCR
+     </title>
+     <p>
+      Total RNA was extracted using a Plant RNA kit (Biotek, Winooski, VT, USA) in accordance with the manufacturer’s instructions. First‐strand cDNA was synthesized using an iScript cDNA synthesis kit (Biorad). qRT‐PCR was performed using SYBR Green Supermix (Biorad) and a CFX96 Real Time system (Biorad), and the qRT‐PCR data were analysed as described previously (Livak and Schmittgen,
+      ). The potato gene
+      <italic>
+       ef1α
+      </italic>
+      (GenBank accession: AB061263) was used as an internal reference gene (Nicot
+      <italic>
+       et al
+      </italic>
+      .,
+      ). The primer sets used for qRT‐PCR analysis are listed in Table
+      .
+     </p>
+    </sec>
+    <sec id="mpp12774-sec-0024">
+     <title>
+      ROS assays
+     </title>
+     <p>
+      Oxidative bursts were measured as described previously (Gimenez‐Ibanez
+      <italic>
+       et al
+      </italic>
+      .,
+      ; Sang and Macho,
+      ), with some modifications. ROS were elicited with 100 n
+      <sc>
+       m
+      </sc>
+      flg22, and luminescence was measured during a 45‐min period using a microplate luminescence reader. The luminescence was recorded in each well for 400 ms each minute. The data obtained from the ROS burst assays were analysed and represented in two different ways: the RLU produced per minute (the kinetics of ROS production) and the total cumulative values of RLU for each sample (the total ROS production).
+     </p>
+    </sec>
+    <sec id="mpp12774-sec-0025">
+     <title>
+      VIGS assays
+     </title>
+     <p>
+      VIGS assays were performed as described by Liu
+      <italic>
+       et al
+      </italic>
+      . (
+      ). The primers used are listed in Table
+      .
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="supplementary-material">
+    <title>
+     Supporting information
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

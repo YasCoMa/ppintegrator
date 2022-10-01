@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Bacterial internalization is required to trigger NIK-dependent NF-κB activation in response to the bacterial type three secretion system
+ </title>
+ <abstract>
+  <p>
+   Infection of human cells with
+   <italic>
+    Yersinia pseudotuberculosis
+   </italic>
+   expressing a functional type III secretion system (T3SS) leads to activation of host NF-κB. We show that the
+   <italic>
+    Yersinia
+   </italic>
+   T3SS activates distinct NF-κB pathways dependent upon bacterial subcellular localization. We found that wildtype
+   <italic>
+    Yersinia
+   </italic>
+   able to remain extracellular triggered NF-κB activation independently of the non-canonical NF-κB kinase NIK in HEK293T cells. In contrast,
+   <italic>
+    Yersinia
+   </italic>
+   lacking the actin-targeting effectors YopEHO, which become internalized into host cells, induce a NIK-dependent response and nuclear entry of the non-canonical NF-κB subunit p52. Blocking actin polymerization and uptake of effector mutant bacteria using cytochalasin D shifted the host NF-κB response from NIK-independent to primarily NIK-dependent. We observed similar results using
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   , which expresses a related T3SS and the actin-targeting effector ExoT. As the NF-κB response of HEK293T cells to effectorless
+   <italic>
+    Yersinia
+   </italic>
+   has been used both as a screening tool for chemical inhibitors of the T3SS and for bacterial forward genetic screens, a better understanding of this response is important for tool optimization and interpretation.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="sec001" sec-type="intro">
+    <title>
+     Introduction
+    </title>
+    <p>
+     Bacterial pathogens and the mammalian innate immune system have co-evolved over millennia to recognize and combat one another. During infection, bacteria use virulence factors to survive and subvert host defenses, while the immune system employs pattern recognition receptors (PRRs) to identify and respond to these and other danger signals. PRRs, including Toll-like receptors (TLRs), NOD1 and NOD2, and nucleotide-binding domain leucine-rich repeat-containing receptors (NLRs), sense pathogen-associated molecular patterns (PAMPs) like bacterial flagellin or lipopolysaccharide to activate appropriate inflammatory responses. These PRRs occupy different cellular locations, allowing infected cells to recognize cytosolic, endosomal, and extracellular insults [     ].
+    </p>
+    <p>
+     One common virulence factor, which is also recognized as a PAMP, is the bacterial type III secretion system (T3SS) [     ]. The T3SS is a needle-like apparatus employed by dozens of bacterial pathogens to inject effector proteins into target host cells. Once inside, translocated effectors carry out species-specific functions, including dampening of immune signaling and prevention of phagocytosis by blocking actin polymerization. Effector translocation requires the translocator proteins YopB and YopD in pathogenic
+     <italic>
+      Yersinia
+     </italic>
+     (PopB and PopD in
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     ), which are thought to insert in the host cell membrane and form a conduit through which effector proteins are injected into the host cytosol [     ]. YopB and YopD were previously found to be important for the ability of
+     <italic>
+      Y
+     </italic>
+     .
+     <italic>
+      pseudotuberculosis
+     </italic>
+     to induce NF-κB activation in human cells [     –     ] suggesting that these proteins stimulate host cell signaling in addition to enabling translocation of effector proteins [     ]. This translocator-dependent NF-κB activation was independent of host TLRs, Nod1 and Nod2, and the caspase-1 inflammasome [     ]. Furthermore, T3SS effectors were dispensable for this response. In fact, the T3SS effector protein YopJ is known to dampen NF-κB signaling [     ].
+    </p>
+    <p>
+     NF-κB is a family of inducible mammalian transcription factors important for expression of inflammatory, developmental, and survival genes [     ]. The canonical NF-κB pathway controls gene expression through activity of the RelA/p50 heterodimer. This pathway is primarily involved in transient proinflammatory gene expression, while non-canonical NF-κB results in a slower, persistent response [     ]. Unlike canonical NF-κB, the non-canonical pathway is generally not associated with innate immune responses and results in nuclear translocation of heterodimerized RelB and p52 [     ]. This alternative pathway requires NF-κB inducing kinase (NIK), a central hub that integrates signals from various membrane receptors including B-cell activating factor receptor (BAFFR). Non-canonical NF-κB signaling is essential for regulating bone metabolism, dendritic cell activation, B-cell survival, and lymphoid organogenesis [     ]. The molecular implications of non-canonical activation are diverse and dependent on cell type. For instance, B cells produce anti-apoptotic genes like
+     <italic>
+      bcl-x
+     </italic>
+     and
+     <italic>
+      bcl-2
+     </italic>
+     in response to BAFF ligand, which are important for cell survival and maturation. In addition, cells with the lymphotoxin beta receptor respond to their cognate ligand by producing CCL21, CCL19, CXCL13, and CXCL12, chemokines essential for lymphoid development [     ].
+    </p>
+    <p>
+     Here we examine the nature of the NF-κB response to
+     <italic>
+      Y
+     </italic>
+     .
+     <italic>
+      pseudotuberculosis
+     </italic>
+     and
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     expressing or lacking T3SS effectors in human embryonic kidney HEK293T cells, commonly used as a model system for studying innate immunity to bacterial pathogens [     –     ]. We find that, surprisingly, HEK293T cells launch a non-canonical NF-κB response to
+     <italic>
+      Yersinia
+     </italic>
+     or
+     <italic>
+      Pseudomonas
+     </italic>
+     lacking actin-targeting T3SS effectors but expressing an otherwise functional T3SS.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec002" sec-type="materials|methods">
+    <title>
+     Materials and methods
+    </title>
+    <sec id="sec003">
+     <title>
+      Bacterial strains and cell lines
+     </title>
+     <p>
+      The
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      IP2666 and
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      PA103 strains used in this study are listed in      . The
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      Δ
+      <italic>
+       yopH
+      </italic>
+      and Δ
+      <italic>
+       yopO
+      </italic>
+      deletions in the IP2666 background were constructed as previously described [      ], using primer pairs designed using Primer 3 software (
+      <ext-link ext-link-type="uri" ns0:href="http://fokker.wi.mit.edu/primer3/input.htm">
+       http://fokker.wi.mit.edu/primer3/input.htm
+      </ext-link>
+      ): F5’yopO (
+      <monospace>
+       CGGTGAATGGGGATACAAAG
+      </monospace>
+      ), R5’yopO (
+      <monospace>
+       TAGGGGGCACTTGTCACATCCCCATGATTTTCACGCTTTT
+      </monospace>
+      ), F3’yopO (
+      <monospace>
+       AAAAGCGTGAAAATCATGGGGATGTGACAAGTGCCCCCTA
+      </monospace>
+      ), R3’yopO (
+      <monospace>
+       TGGAGAAATGGCAATCAGGT
+      </monospace>
+      ), F5’yopH (
+      <monospace>
+       CGCCAGACATTCACGACTAA
+      </monospace>
+      ), R5’yopH (
+      <monospace>
+       TTGATTGGCAAAGTGGTTTTTAATAATAGGTGAGCCGTGT
+      </monospace>
+      ), F3’yopH (
+      <monospace>
+       GGCTCACCTATTATTAAAAACCACTTTGCCAATCAAAGAA
+      </monospace>
+      ), R3’yopH (
+      <monospace>
+       ACCACTGCTGGTCAGTCGAT
+      </monospace>
+      ).
+     </p>
+     <p>
+      HEK293T cells (ATCC) were maintained in Dulbecco’s modified Eagle’s medium (DMEM) supplemented with 10% fetal bovine serum (FBS) and 2 mM L-glutamine at 37°C in 5% CO
+      <sub>
+       2
+      </sub>
+      .
+     </p>
+    </sec>
+    <sec id="sec004">
+     <title>
+      Bacterial culture and infection conditions
+     </title>
+     <p>
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      were grown overnight in Luria broth (LB) at 37°C with shaking. On the day of infection, cultures were backdiluted to an OD
+      <sub>
+       600
+      </sub>
+      of 0.2 into LB and incubated at 37°C with shaking for 3 hours. Cultures were normalized for OD
+      <sub>
+       600
+      </sub>
+      and added to eukaryotic cells for infection.
+     </p>
+     <p>
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      cultures were grown overnight in 2xYT media at 26°C with shaking. On the day of infection, the cultures were backdiluted to an OD
+      <sub>
+       600
+      </sub>
+      of 0.2 into low calcium media (2xYT with 20 mM sodium oxalate and 20 mM MgCl
+      <sub>
+       2
+      </sub>
+      ) and incubated at 26°C with shaking for 1.5 hours. The cultures were then shifted to 37°C with shaking for 1.5 hrs. Cultures were normalized for OD
+      <sub>
+       600
+      </sub>
+      and added to eukaryotic cells for infection.
+     </p>
+    </sec>
+    <sec id="sec005">
+     <title>
+      Western blots
+     </title>
+     <p>
+      To assess p52 and p50 nuclear translocation and NIK levels, HEK293T cells were plated at a density of 5x10      cells per well of a 6-well plate and incubated overnight. The next day, the cells were infected with
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      at a multiplicity of infection (MOI) of 10 or 25 for 4 hrs. The cells were resuspended in RIPA buffer and lysed by sonication at 40% power with four 10-second pulses and a 20 second rest on ice. For nuclear and cytoplasmic protein isolation, the Thermo Fisher NE-PER kit was used according to the manufacturer’s instructions with the exception of isolating nuclear proteins with sonication at 40% power with two 10-second pulses and 20 second rest on ice. Lysates were run on a 7.5% SDS-PAGE gels. Following semi-dry transfer or wet transfer (for visualization of NIK) to immobilon-P, samples were analyzed by Western blotting for p100/p52 (Cell Signaling), p105/p50 (Millipore), actin (Santa Cruz Biotechnology), laminB1 (Cell Signaling), tubulin (Cell Signaling), and NIK (Santa Cruz Biotechnology). Densitometric quantification of the bands was performed using Image Lab software (Bio-Rad).
+     </p>
+    </sec>
+    <sec id="sec006">
+     <title>
+      RNA interference
+     </title>
+     <p>
+      3x10      HEK293Ts cells were plated in each well of a 24-well plate in 400 μl DMEM plus 10% FBS and incubated overnight. On day two, the cells were transfected with siRNA targeting NIK or scrambled control siRNA (siCON, Dharmacon) using Lipofectamine 2000 (Invitrogen) according to the manufacturer’s instructions. The following day the cells were transfected with an NF-κB luciferase reporter plasmid (Stratagene) using Lipofectamine 2000 (Invitrogen) according to the manufacturer’s instructions. On day four, the HEK293Ts were infected with
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      at MOI 7. Following a four hour infection at 37°C/5% CO2, the medium was aspirated before adding a 1:1 Neolite–phosphate-buffered saline (PBS) solution. Plates were covered in foil, incubated for 5 min, and bioluminescence measured using an EnVision plate reader (PerkinElmer).
+     </p>
+    </sec>
+    <sec id="sec007">
+     <title>
+      Filtered supernatant experiment
+     </title>
+     <p>
+      HEK293T cells were plated and transfected with the NF-κB reporter plasmid as described above. Concurrently, the same number of HEK293T cells were plated in a separate 24-well plate, but not transfected. The non-transfected cells were infected as described above. Following a four-hour infection, the cell supernatants were filtered through a 0.22 μm filter, and this filtered supernatant (conditioned media) transferred to the transfected reporter HEK293T cells. As a positive control, some wells of transfected reporter cells were infected with
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      . After four hours of incubation with the conditioned media, or infection, bioluminescence (NF-κB activation) was measured as described above.
+     </p>
+    </sec>
+    <sec id="sec008">
+     <title>
+      Invasion assay
+     </title>
+     <p>
+      12mm round coverslips were autoclaved and treated with sterile Poly-L lysine (Sigma) diluted 1:10 in water for 5 min. Coverslips were washed with sterile water and allowed to dry for at least 2 hours before use. 2.6x10      HEK293T cells were plated in each well of a 96-well plate in 400 μl DMEM plus 10% FBS and incubated overnight. The following day, the HEK293T cells were infected at MOI 7. After 30 min, cell media was aspirated and replaced with fresh media to remove non-attached cells. To end the infection, after two total hours the cells were fixed with 4% formaldehyde for 10 min and incubated with an anti-
+      <italic>
+       Yersinia
+      </italic>
+      antibody (generously provided by R. Isberg) followed by an anti-rabbit Alexa-fluor 594 secondary antibody (Life Technologies). The HEK293T cells were then permeabilized with ice-cold methanol for 10 sec, incubated with the anti-
+      <italic>
+       Yersinia
+      </italic>
+      antibody followed by an anti-rabbit FITC secondary antibody (Santa Cruz Biotechnology) and Hoechst diluted 1:10,000 in PBS, mounted using ProLong Gold mounting media (Life Technologies), and imaged using a Leica SP5 Confocal Microscope. Approximately 300 bacteria were counted per strain for each of three biological replicates.
+     </p>
+    </sec>
+    <sec id="sec009">
+     <title>
+      Cytotoxicity assay
+     </title>
+     <p>
+      4.2x10      HEK293T cells were plated in each well of a 96-well plate in 100 μl DMEM plus 10% FBS and incubated overnight. The following day the cells were infected in triplicate at MOI 7. The cells were then incubated at 37°C/5% CO2 for 4 or 24 hours. For the 24-hour time point, chloramphenicol was added four hours post-inoculation. Following infection, the supernatant was transferred to microcentrifuge tubes and centrifuged to pellet cellular debris. For full cell lysis, 3 wells were flash frozen. 50 μl of the supernatant was then transferred to a new 96-well well plate, and incubated for 30 minutes with 50 μl of substrate mix (CytoTox 96 Non-Radioactive Cytotoxicity Assay, Promega). Following the incubation, 50 μl of stop solution was added to each well, and the absorbance measured at 490nm. The fully lysed wells were averaged and percent LDH release was calculated for each infection condition.
+     </p>
+    </sec>
+    <sec id="sec010">
+     <title>
+      Statistical analysis
+     </title>
+     <p>
+      Unless stated otherwise, bar charts display a mean ± SEM from at least 3 independent biological experiments. P values were determined by one-way ANOVA with Tukey’s post-hoc test comparing all strains or conditions. Student’s t-test was also used for additional analysis to compare NF-κB activation in siNIK versus siCON-treated conditions for a given bacterial strain. All statistical analysis was done using KaleidaGraph (Synergy Software).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec011" sec-type="results">
+    <title>
+     Results
+    </title>
+    <sec id="sec012">
+     <title>
+      The
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      T3SS triggers a NIK-dependent NF-κB response
+     </title>
+     <p>
+      To begin to characterize the HEK293T cell NF-κB response to
+      <italic>
+       Yersinia
+      </italic>
+      , we analyzed activity of an NF-κB responsive luciferase reporter gene in cells infected with
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      T3SS mutants [      ]. As previously shown [      ], a mutant lacking the YopHEMOJT T3SS effector proteins (Δyop6) induced significantly higher levels of NF-κB activity than the WT strain encoding the YopHEMOJ effectors or a mutant unable to form pores in host cell membranes to deliver Yops (Δ
+      <italic>
+       yopB
+      </italic>
+      ;      ). Loss of YopJ, an acetyltransferase known to dampen NF-κB activation [      ,      ], led to increased NF-κB activation, although this was not statistically significant. However, a Δyop6 strain complemented with a plasmid encoding YopJ triggered less overall NF-κB activity than the parental Δyop6 strain (      ).
+     </p>
+     <p>
+      To determine the type of NF-κB pathway activated by
+      <italic>
+       Yersinia
+      </italic>
+      , we used RNA interference to deplete cellular levels of the non-canonical NF-κB kinase NIK prior to transfection with NF-κB luciferase reporter and infection with
+      <italic>
+       Yersinia
+      </italic>
+      . A representative NIK immunoblot shows a two-fold depletion of NIK levels upon RNA interference (      ), as typically seen in other studies [      –      ]. Upon NIK knockdown, the Δyop6 strain triggered three-fold less NF-κB activity than in HEK293Ts treated with control siRNA (p = 0.003, Student’s t-test, Δyop6-siRNA control versus Δyop6-siNIK). This result suggests that the NF-κB response to the Δyop6 strain at four hours post-infection is primarily NIK-dependent, as at least 63% of the overall NF-κB response measured is dependent on NIK.
+     </p>
+     <p>
+      WT
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      , which triggered less overall NF-κB activity compared to the Δyop6 strain, activated NF-κB independently of NIK (      ). Expression of YopJ was not sufficient to shift the response from NIK-independent to NIK-dependent, as the Δyop6+pYopJ strain induced NF-κB activation in a manner that was not statistically different from the Δyop6 parental strain during NIK knockdown (      ). Taken together, these data confirm that YopJ reduces overall NF-κB activation, yet its presence or absence does not impact the NIK-dependency of the NF-κB response. Furthermore, these results suggest that Yop effectors other than YopJ alter the NIK-dependency of the NF-κB response.
+     </p>
+    </sec>
+    <sec id="sec013">
+     <title>
+      Yop effectors that target the actin cytoskeleton shift the NIK-dependency of the host cell NF-κB response
+     </title>
+     <p>
+      We sought to determine whether a Yop effector other than YopJ was responsible for influencing the nature of the NF-κB response to
+      <italic>
+       Yersinia
+      </italic>
+      . We infected HEK293T cells with single-effector deletion mutants lacking Yops E, H, J, M, or O, and tested their NF-κB response (      ). All five single deletion strains triggered a primarily NIK-independent NF-κB response at a similar level to WT
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      (      ), indicating that no single effector was responsible for shifting the NF-κB response from largely NIK-dependent to NIK-independent.
+     </p>
+     <p>
+      As several Yop effectors target the actin cytoskeleton, we tested the ability of a
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      strain lacking the actin cytoskeleton targeting effectors E, H, and O, but expressing Yops J and M, to activate NF-κB in HEK293T cells. The Δ
+      <italic>
+       yopEHO
+      </italic>
+      mutant induced NF-κB to the same level as WT
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      (      ), as YopJ is expressed, but required NIK to activate NF-κB (p = 0.02, Student’s t-test, Δ
+      <italic>
+       yopEHO
+      </italic>
+      -siRNA control versus Δ
+      <italic>
+       yopEHO
+      </italic>
+      -siNIK;      ) similar to the Δyop6 strain. This suggests that the actin-targeting effector Yops E, H, and O are collectively required to alter the NIK-dependency of the NF-κB response, and that Yops J and M are dispensable for this effect.
+     </p>
+    </sec>
+    <sec id="sec014">
+     <title>
+      The
+      <italic>
+       Pseudomonas aeruginosa
+      </italic>
+      T3SS triggers a primarily NIK-dependent NF-κB response
+     </title>
+     <p>
+      To determine whether the NIK-dependent NF-κB response is unique to
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      , or could be observed during infection with other T3SS-expressing pathogens, we tested the immune response to
+      <italic>
+       Pseudomonas aeruginosa
+      </italic>
+      . We compared PA103 strains lacking the T3SS effectors ExoU and ExoT (Δ
+      <italic>
+       exoUT
+      </italic>
+      ), containing a nonfunctional T3SS (Δ
+      <italic>
+       popBD
+      </italic>
+      ), or containing only the actin-targeting effector ExoT (Δ
+      <italic>
+       exoU)
+      </italic>
+      . A recent report identified PemA and PemB as putative
+      <italic>
+       Pseudomonas
+      </italic>
+      effectors, and these may be present [      ]. WT
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      could not be used in this assay as its phospholipase ExoU rapidly lysed host cells before the NF-κB response could be measured (data not shown).
+     </p>
+     <p>
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      Δ
+      <italic>
+       exoUT
+      </italic>
+      caused 4.5-fold more NF-κB activation than the Δ
+      <italic>
+       popBD
+      </italic>
+      strain (p = 0.005, ANOVA with Tukey’s HSD post-hoc), while the Δ
+      <italic>
+       exoU
+      </italic>
+      strain did not induce a significant response (p = 0.29, ANOVA Tukey’s HSD post-hoc,      ). Like the Δyop6
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      strain, Δ
+      <italic>
+       exoUT
+      </italic>
+      triggered NF-κB that was 73% NIK-dependent in contrast to the Δ
+      <italic>
+       popBD
+      </italic>
+      or Δ
+      <italic>
+       exoU P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      strains (      ). This indicates that
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      and
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      strains lacking actin-targeting effectors induce a largely NIK-dependent NF-κB pathway, and that translocation of actin-modulating effectors into host cells alters the NIK-dependency of the NF-κB response to infection with T3SS-positive bacteria.
+     </p>
+    </sec>
+    <sec id="sec015">
+     <title>
+      The
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      T3SS triggers nuclear localization of the non-canonical subunit, p52
+     </title>
+     <p>
+      In unstimulated cells, NIK protein levels are kept low by the activity of a destruction complex, as activation of the non-canonical NF-κB pathway requires NIK protein levels to accumulate [      ,      ]. This complex, comprised of TRAF3, TRAF2, and cIAP1/2, continuously degrades NIK until the complex is recruited to one of several ligand-bound membrane receptors [      ]. The presence of NIK is essential for processing of the non-canonical NF-κB precursor, p100, into p52 and induction of nuclear translocation of the non-canonical NF-κB heterodimer, RelB/p52 [      ,      ]. To assess the involvement of p52 in the HEK293T cell response to
+      <italic>
+       Yersinia
+      </italic>
+      , we analyzed p52 nuclear entry in infected HEK293T cells via western blot (      ). The Δyop6 strain induced greater p52 accumulation in comparison to WT, the ΔyopJ strain, and the ΔyopB strain as well as uninfected HEK293T cells, although some p52 was detected in the nucleus of cells infected with WT and the Δ
+      <italic>
+       yopJ
+      </italic>
+      mutant. Collectively these data show that
+      <italic>
+       Yersinia
+      </italic>
+      lacking actin-targeting effectors induces greater p52 nuclear entry and NIK-dependent NF-κB activation than
+      <italic>
+       Yersinia
+      </italic>
+      expressing these effectors.
+     </p>
+    </sec>
+    <sec id="sec016">
+     <title>
+      The
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      T3SS induces nuclear localization of the canonical NF-κB subunit, p50
+     </title>
+     <p>
+      To assess the canonical NF-κB response to
+      <italic>
+       Yersinia
+      </italic>
+      , we infected HEK293T cells and measured nuclear localization of p50 (      ). Interestingly, the Δyop6 strain induced approximately two-fold more nuclear p50 than both WT and the Δ
+      <italic>
+       yopJ
+      </italic>
+      strain. These data suggest that although the majority of the NF-κB response to
+      <italic>
+       Yersinia
+      </italic>
+      lacking actin-targeting effectors is NIK-dependent, both p50 and p52 subunits enter the nucleus following HEK293T infection with Δyop6.
+     </p>
+    </sec>
+    <sec id="sec017">
+     <title>
+      Actin-targeting effectors prevent
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      invasion of HEK293T cells
+     </title>
+     <p>
+      To further understand how the T3SS activates a predominant NIK-dependent NF-κB response in the absence of YopEHO, we investigated the ability of our
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      strains to invade HEK293T cells (      ,      ). WT
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      remained largely extracellular. The Δyop6 strain invaded at the highest rate, with 62% of bacteria internalized two hours post-inoculation. The Δ
+      <italic>
+       yopEHO
+      </italic>
+      strain and the T3SS-deficient Δ
+      <italic>
+       yopB
+      </italic>
+      strain were also unable to prevent internalization and displayed 51 and 55% invasion, respectively. These results suggest that internalization is necessary but not sufficient for NIK-dependent NF-κB activation, as the Δyop6, Δ
+      <italic>
+       yopEHO
+      </italic>
+      , and Δ
+      <italic>
+       yopB
+      </italic>
+      strains invaded, but only the Δyop6 and Δ
+      <italic>
+       yopEHO
+      </italic>
+      strains, containing a functional T3SS, triggered a primarily NIK-dependent NF-κB response. This differential localization did not lead to differences in host cell survival, as infection with the WT, Δyop6, and Δ
+      <italic>
+       yopB
+      </italic>
+      strains did not cause significant LDH release compared to uninfected controls (      ).
+     </p>
+    </sec>
+    <sec id="sec018">
+     <title>
+      Extracellular bacteria do not activate NIK-dependent NF-κB
+     </title>
+     <p>
+      We hypothesized that location of T3SS activity, irrespective of effector presence, was the critical factor determining the type of NF-κB response. To test this, we pretreated HEK293T cells with the actin depolymerizing fungal toxin cytochalasin D to prevent bacterial internalization, and quantified NF-κB NIK dependency. Cytochalasin D pre-treatment of HEK293T cells infected with either
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      Δyop6 or
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      Δ
+      <italic>
+       exoUT
+      </italic>
+      led to loss of dependence on NIK for NF-κB activation (      ). Furthermore, pre-treatment of infected cells with the Rac1 inhibitor NSC23766 [      ] reduced Δyop6 bacterial uptake and NIK-dependent NF-κB activation by ~1.5 fold (      ). Taken together, these results suggest
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      and
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      must be internalized and possess a functional T3SS to activate NIK-dependent NF-κB.
+     </p>
+    </sec>
+    <sec id="sec019">
+     <title>
+      Conditioned media from
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      infected cells does not stimulate NF-κB in naïve HEK293T cells
+     </title>
+     <p>
+      In order to determine whether a diffusible molecule is involved in the ability of
+      <italic>
+       Yersinia
+      </italic>
+      to trigger NF-κB activation, we tested the ability of the supernatant of infected HEK293T cells to trigger NF-κB activation in naïve HEK293T NF-κB reporter cells (      ). While infecting HEK293T cells with
+      <italic>
+       Y
+      </italic>
+      .
+      <italic>
+       pseudotuberculosis
+      </italic>
+      Δyop6 induced NF-κB activation as expected, incubating these cells with filtered supernatant from infected cells did not trigger NF-κB. These data suggest that
+      <italic>
+       Yersinia
+      </italic>
+      does not induce NF-κB activation in HEK293T cells dependent upon a diffusible molecule.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec020" sec-type="conclusions">
+    <title>
+     Discussion
+    </title>
+    <p>
+     We used RNA interference to elucidate the host NF-κB response to the bacterial T3SS. T3SS-positive extracellular
+     <italic>
+      Y
+     </italic>
+     .
+     <italic>
+      pseudotuberculosis
+     </italic>
+     and
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     triggered NF-κB activation in a NIK-independent manner, indicative of the canonical NF-κB pathway. In contrast, internalized T3SS-positive
+     <italic>
+      Y pseudotuberculosis
+     </italic>
+     and
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     induced NF-κB activation in a largely NIK-dependent manner, indicative of the non-canonical NF-κB pathway. These data suggest that T3SS-expressing bacteria may trigger distinct signaling pathways following engagement of the plasma membrane versus the vacuolar membrane.
+    </p>
+    <p>
+     We found that internalized
+     <italic>
+      Y
+     </italic>
+     .
+     <italic>
+      pseudotuberculosis
+     </italic>
+     and
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     induce a distinct NIK-dependent NF-κB pathway. This non-canonical NF-κB activation was dependent on a functional T3SS, as pore formation mutants (Δ
+     <italic>
+      yopB
+     </italic>
+     and Δ
+     <italic>
+      popBD
+     </italic>
+     ) were internalized but did not induce NF-κB. If cytochalasin D was used to force bacteria expressing an active T3SS but lacking actin-targeting effectors to remain extracellular, the bacteria no longer activated NF-κB in a NIK-dependent manner. Cytochalasin D still allowed 60% of normal Yop translocation, suggesting it does not completely block translocation of T3SS cargo into the host cytosol ([     ], unpublished data). In addition, the Rac1 inhibitor NSC23766, which does not have an effect on translocation or pore formation [     ], also decreased bacterial uptake and NF-κB NIK-dependency. Therefore, non-canonical NF-κ
+    </p>
+    <p>
+     The non-canonical NF-κB pathway is typically activated by a small set of membrane receptors and their cognate ligands, such as BAFF, CD40 and LTβ [     ]. We have not yet identified the receptor responsible for T3SS-induced non-canonical NF-κB activation. A subset of ligands that trigger the non-canonical NF-κB pathway are secreted molecules such as BAFF [     ,     ]. However, our data suggests that NF-κB activation triggered by
+     <italic>
+      Yersinia
+     </italic>
+     lacking actin-targeting effectors does not involve a diffusible molecule released from infected cells. This suggests that
+     <italic>
+      Yersinia
+     </italic>
+     lacking actin targeting effectors instead triggers NF-κB directly in infected cells or in bystander cells through modulation of a membrane-bound receptor agonist.
+    </p>
+    <p>
+     Previous studies have elucidated independent mechanisms by which host cells recognize the T3SS. There is evidence that translocation of T3SS needle and inner rod subunits through the T3SS into host cells leads to inflammasome activation via NAIP PRRs [     ,     –     ]. In addition,
+     <italic>
+      Yersinia
+     </italic>
+     YopE and YopT were recently shown to trigger pyrin inflammasome activation through their impact on RhoA [     ]. Furthermore, Keestra
+     <italic>
+      et al
+     </italic>
+     . demonstrated that the downstream activities of a
+     <italic>
+      Salmonella
+     </italic>
+     Rho GTPase-activating effector could be sensed by Nod1, leading to induction of NF-κB and MAPK pathways [     ]. While we demonstrate here that actin cytoskeletal-targeting effectors alter the nature of the NF-κB response to T3SS-positive
+     <italic>
+      Yersinia
+     </italic>
+     , our previous data showed that the NF-κB response to the effectorless
+     <italic>
+      Y
+     </italic>
+     .
+     <italic>
+      pseudotuberculosis
+     </italic>
+     Δyop6 strain was independent of Nod1 and Nod2 [     ]. Our findings suggest that a distinct host pathway may sense a functional T3SS deployed by an internalized pathogen, leading to NIK-dependent NF-κB activation.
+    </p>
+    <p>
+     While it remains unclear what implications this host cell signaling response has on infection, it is highly relevant for utilization of the NF-κB response to the T3SS as a screening strategy for T3SS activity. Previously our lab has used the host NF-κB response to screen for small-molecule inhibitors of the T3SS [     ] and in a forward-genetic screen for bacterial genes affecting the T3SS [     ]. A better understanding the NF-κB response to the T3SS will facilitate optimization of the signal to noise ratio of these screens, development of appropriate secondary screens, and insight into how small molecules or specific bacterial genes impact the T3SS-host cell interaction.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec021" sec-type="supplementary-material">
+    <title>
+     Supporting information
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

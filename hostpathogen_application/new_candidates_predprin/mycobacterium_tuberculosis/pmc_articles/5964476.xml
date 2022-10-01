@@ -1,0 +1,2225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Mycobacterial cell wall biosynthesis: a multifaceted antibiotic target
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    Mycobacterium tuberculosis
+   </italic>
+   (
+   <italic>
+    Mtb
+   </italic>
+   ), the etiological agent of tuberculosis (TB), is recognized as a global health emergency as promoted by the World Health Organization. Over 1 million deaths
+   <italic>
+    per
+   </italic>
+   year, along with the emergence of multi- and extensively-drug resistant strains of
+   <italic>
+    Mtb
+   </italic>
+   , have triggered intensive research into the pathogenicity and biochemistry of this microorganism, guiding the development of anti-TB chemotherapeutic agents. The essential mycobacterial cell wall, sharing some common features with all bacteria, represents an apparent ‘Achilles heel’ that has been targeted by TB chemotherapy since the advent of TB treatment. This complex structure composed of three distinct layers, peptidoglycan, arabinogalactan and mycolic acids, is vital in supporting cell growth, virulence and providing a barrier to antibiotics. The fundamental nature of cell wall synthesis and assembly has rendered the mycobacterial cell wall as the most widely exploited target of anti-TB drugs. This review provides an overview of the biosynthesis of the prominent cell wall components, highlighting the inhibitory mechanisms of existing clinical drugs and illustrating the potential of other unexploited enzymes as future drug targets.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="sec1" sec-type="intro">
+    <title>
+     INTRODUCTION
+    </title>
+    <p>
+     <italic>
+      Mycobacterium tuberculosis
+     </italic>
+     (
+     <italic>
+      Mtb
+     </italic>
+     ), the causative agent of tuberculosis (TB), is regarded as the world\s most successful pathogen (Hingley-Wilson
+     <italic>
+      et al.
+     </italic>
+     ). Responsible for an estimated 1·4 million deaths and 10·4 million new cases of TB, including 480 000 new cases of multi-drug resistant (MDR)-TB in 2015 (World Health Organization,
+     ),
+     <italic>
+      Mtb
+     </italic>
+     remains a global health emergency as declared by the World Health Organization (WHO) (World Health Organization,
+     ). New chemotherapeutic agents to complement or replace existing front-line treatment regimens are urgently required to reduce treatment time (currently 6-month course) and to combat the increasing threat by this microorganism.
+    </p>
+    <p>
+     The distinguishing feature of mycobacteria, the complex cell wall, is a well-recognized drug target. The cell wall is common to all bacteria, both Gram-positive and Gram-negative, but can have vast differences in terms of the biochemical and structural features. Over the past decade, extensive research into cell wall assembly, aided by whole-genome sequencing, has led to an increased understanding of mycobacterial cell wall biosynthesis. This has promoted further exploration into the discovery and development of chemotherapeutic agents (from an enzymatic and phenotypic perspective) directed against the synthesis of this unique macromolecule structure in
+     <italic>
+      Mtb
+     </italic>
+     . The
+     <italic>
+      Mtb
+     </italic>
+     cell envelope is an expansive structure and is summarized in
+     . The inner membrane phospholipid bilayer contains glycolipids that extend into the periplasmic space. The essential core cell wall structure is composed of three main components: a cross-linked polymer of peptidoglycan, a highly branched arabinogalactan polysaccharide, and long-chain mycolic acids. Intercalated into the mycolate layer are solvent-extractable lipids including non-covalently linked glycophospholipids and inert waxes, forming the outer membrane. The capsule forms the outermost layer and is mainly composed of proteins and polysaccharides. The lipid- and carbohydrate-rich layers of the cell wall serve not only as a permeability barrier, providing protection against hydrophilic compounds, but also are critical in pathogenesis and survival. It is these traits that make the biosynthesis and assembly of the cell wall components attractive drug targets. This review focuses on the synthesis of the key cell wall components, highlighting previously validated targets and the ongoing drug discovery efforts to inhibit other essential enzymes in mycobacterial cell wall biosynthesis.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec2">
+    <title>
+     PEPTIDOGLYCAN
+    </title>
+    <p>
+     Peptidoglycan is a major component of the cell wall of both Gram-positive and Gram-negative bacteria (Vollmer
+     <italic>
+      et al.
+     </italic>
+     ). It is a polymer of alternating
+     <italic>
+      N
+     </italic>
+     -acetylglucosamine and
+     <italic>
+      N
+     </italic>
+     -acetylmuramic acid residues via
+     <italic>
+      β
+     </italic>
+     (1 → 4) linkages with side chains of amino acids cross-linked by transpeptide bridges (Brennan and Nikaido,
+     ). Mycobacterial peptidoglycan has a number of unique features that diversifies the cell wall from the typical structure including
+     <italic>
+      N
+     </italic>
+     -glycolyl- and
+     <italic>
+      N
+     </italic>
+     -acetyl-muramic acid residues (Mahapatra
+     <italic>
+      et al.
+     </italic>
+     ), amidation of the carboxylic acids in the peptide stems (Mahapatra
+     <italic>
+      et al.
+     </italic>
+     ) and additional glycine or serine residues (Vollmer
+     <italic>
+      et al.
+     </italic>
+     ). The function of peptidoglycan is not only to provide shape and rigidity, but it is responsible for counteracting turgor pressure and hence it is essential for growth and survival (Vollmer
+     <italic>
+      et al.
+     </italic>
+     ). Peptidoglycan is unique to bacterial cells, and it is this property that has led to numerous enzymes involved in its synthesis to be targeted by potent antibiotics, with others representing attractive targets in the development of future antibiotics.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec3">
+    <title>
+     PEPTIDOGLYCAN BIOSYNTHESIS
+    </title>
+    <p>
+     The biosynthesis of peptidoglycan is summarized in
+     . The first committed step is the generation of uridine diphosphate-N-acetylglucosamine (UDP-GlcNAc). This is catalysed by the acetyltransferase and uridyltransferase activities of GlmU (Zhang
+     <italic>
+      et al.
+     </italic>
+     ), where first the acetyl group from acetyl-CoA is transferred to glucosamine-1-phosphate (GlcN-1-P) to produce
+     <italic>
+      N
+     </italic>
+     -acetylglucosamine-1-phosphate (GlcNAc-1-P). Secondly, uridine-5′-monophosphate from UTP is transferred to GlcNAc-1-P to yield UDP-GlcNAc (Zhang
+     <italic>
+      et al.
+     </italic>
+     ). The abundance of GlcNAc-1-P in eukaryotes (Mio
+     <italic>
+      et al.
+     </italic>
+     ) and the functional similarity of the GlmU uridyltransferase with human enzymes (Peneff
+     <italic>
+      et al.
+     </italic>
+     ) makes this domain an unsuitable drug target (Rani and Khan,
+     ). However, the absence of GlcN-1-P from humans makes the acetyltransferase domain a potential target (Mio
+     <italic>
+      et al.
+     </italic>
+     ). Efforts to identify inhibitors of this domain are underway (Tran
+     <italic>
+      et al.
+     </italic>
+     ). A substrate analogue of GlcN-1-P has been designed and exhibits inhibitory effect against GlmU, providing a candidate for further optimization (Li
+     <italic>
+      et al.
+     </italic>
+     ).
+    </p>
+    <p>
+     The next step involves the generation of the UDP-
+     <italic>
+      N
+     </italic>
+     -acetylmuramic acid (UDP-MurNAc)-pentapeptide, which is synthesized in a sequential pathway catalysed by the Mur ligases A–F (Barreteau
+     <italic>
+      et al.
+     </italic>
+     ), whereby most of the
+     <italic>
+      Mtb
+     </italic>
+     genes have been found through homology. MurA, a UDP-
+     <italic>
+      N
+     </italic>
+     -acetylglucosamine 1-carboxyvinyltransferase, and MurB, a UDP-
+     <italic>
+      N
+     </italic>
+     -acetylenolpyruvoylglucosamine reductase, are involved in generating UDP-MurNAc from UDP-GlcNAc, by first the addition of the enoylpyruvyl moiety of PEP, followed by reduction to a lactoyl ether moiety via NADPH. At this point, NamH, a UDP-
+     <italic>
+      N
+     </italic>
+     -acetylmuramic acid hydroxylase, hydroxylates UDP-MurNAc to UDP-
+     <italic>
+      N
+     </italic>
+     -glycolylmuramic acid (UDP-MurNGlyc), providing both types of UDP-muramyl substrates;
+     <italic>
+      Mtb
+     </italic>
+     cell walls are dominated by the latter (Mahapatra
+     <italic>
+      et al.
+     </italic>
+     ). This structural modification is unique to mycobacteria (and closely related genera) and is considered to increase the intrinsic strength of peptidoglycan, by potentially alleviating susceptibility to lysozyme and providing sites for additional hydrogen bonding (Raymond
+     <italic>
+      et al.
+     </italic>
+     ). Inhibitors of
+     <italic>
+      Mtb
+     </italic>
+     MurA and MurB are yet to be discovered. Whilst the natural product, broad spectrum antibiotic, fosfomycin, targets Gram-negative MurA, the critical residue for inhibition is absent in
+     <italic>
+      Mtb
+     </italic>
+     , providing intrinsic resistance against this antibiotic (Kim
+     <italic>
+      et al.
+     </italic>
+     ). Consequently, an inhibitor with a new mode of action is required to target
+     <italic>
+      Mtb
+     </italic>
+     MurA. A limited number of inhibitors have been reported against MurB. Molecular dynamics and docking studies of existing MurB inhibitors (3,5-dioxopyrazolidine derivatives) onto the
+     <italic>
+      Mtb
+     </italic>
+     MurB structure reveal the potential potent activity of these compounds, which can be used to guide future structure-based drug design (Kumar
+     <italic>
+      et al.
+     </italic>
+     ). Inhibitors of NamH have not been documented;
+     <italic>
+      namH
+     </italic>
+     is not essential in
+     <italic>
+      Mycobacterium smegmatis
+     </italic>
+     , and therefore is not condusive to a characteristic target property. However, gene deletion results in a strain hypersusceptible to
+     <italic>
+      β
+     </italic>
+     -lactam antibiotics and lysozyme and therefore inhibitors of NamH could potentiate the effect of
+     <italic>
+      β
+     </italic>
+     -lactams (Raymond
+     <italic>
+      et al.
+     </italic>
+     ).
+    </p>
+    <p>
+     The pentapeptide chain is incorporated onto the UDP-MurNAc/Glyc substrates by the successive addition of amino acid residues L-alanine, D-isoglutamate, meso-diaminopimelate (
+     <italic>
+      m
+     </italic>
+     -DAP) and D-alanyl-D-alanine [generated by the D-Ala: D-Ala ligase (Ddl)] by the ATP-dependent Mur ligases C-F respectively (Munshi
+     <italic>
+      et al.
+     </italic>
+     ). This results in the muramyl-pentapeptide product, UDP-MurNAc/Glyc-L-Ala-D-isoGlu-
+     <italic>
+      m
+     </italic>
+     -DAP-D-Ala-D-Ala, also known as Park\s nucleotide (Kurosu
+     <italic>
+      et al.
+     </italic>
+     ). Despite the different amino acid specificities, the four ligases share common properties: the reaction mechanism; six invariant ‘Mur’ residues; an ATP-binding consensus; three-dimensional structural domains (Barreteau
+     <italic>
+      et al.
+     </italic>
+     ). Due to these similarities, it is plausible that a single inhibitor could target more than one Mur ligase and such inhibitors have been reported in the literature (Tomasic
+     <italic>
+      et al.
+     </italic>
+     ). Numerous small molecule inhibitors of the Mur ligases have been discovered and are the subject of an extensive review (Hrast
+     <italic>
+      et al.
+     </italic>
+     ). In most cases, the inhibitors were identified from high-throughput screening (HTS) campaigns of compound libraries employing
+     <italic>
+      in vitro
+     </italic>
+     kinetic assays. These types of
+     <italic>
+      in vitro
+     </italic>
+     screening methods are limited in use against
+     <italic>
+      Mtb
+     </italic>
+     Mur ligases given that only MurC and MurE have been biochemically characterized (Mahapatra
+     <italic>
+      et al.
+     </italic>
+     ; Li
+     <italic>
+      et al.
+     </italic>
+     ). This dictates the next rational step towards the target-based discovery of Mur ligase inhibitors. Ddl is the target of D-cycloserine (Bruning
+     <italic>
+      et al.
+     </italic>
+     ), a second-line drug used in the treatment of TB, and is at the cornerstone of treatment for MDR and extensively drug resistant (XDR)-TB. D-cycloserine acts as a structural analogue of D-Ala, inhibiting the binding of either D-Ala to Ddl (Prosser and de Carvalho,
+     ,
+     ).
+    </p>
+    <p>
+     The first membrane-anchored peptidoglycan precursor is generated by the translocation of Park\s nucleotide to decaprenyl phosphate (C
+     <sub>
+      50
+     </sub>
+     -P), catalysed by MurX (also known as MraY), forming Lipid I (Kurosu
+     <italic>
+      et al.
+     </italic>
+     ). There are a number of nucleoside-based complex natural products that inhibit MurX, including muraymycin, liposidomycin, caprazamycin and capuramycin (Dini,
+     ). Capuramycin and derivatives exhibit killing
+     <italic>
+      in vitro
+     </italic>
+     and
+     <italic>
+      in vivo
+     </italic>
+     and more significantly, analogues of capuramycin have been shown to kill non-replicating
+     <italic>
+      Mtb
+     </italic>
+     , a feature not common to the majority of cell wall biosynthesis inhibitors (Koga
+     <italic>
+      et al.
+     </italic>
+     ; Reddy
+     <italic>
+      et al.
+     </italic>
+     ; Nikonenko
+     <italic>
+      et al.
+     </italic>
+     ; Siricilla
+     <italic>
+      et al.
+     </italic>
+     ). Significantly, the analogue SQ641 is in preclinical development (
+     <uri ns0:href="http://www.newtbdrugs.org" ns0:type="simple">
+      http://www.newtbdrugs.org
+     </uri>
+     ).
+    </p>
+    <p>
+     The final intracellular step of peptidoglycan synthesis is performed by the glycosyltransferase, MurG. A
+     <italic>
+      β
+     </italic>
+     (1 → 4) linkage between GlcNAc (from UDP-GlcNAc) and MurNAc/Glyc of Lipid I is formed, leading to the generation of Lipid II, the monomeric building block of peptidoglycan (Mengin-Lecreulx
+     <italic>
+      et al.
+     </italic>
+     ). A library of transition state mimics have been designed for
+     <italic>
+      Escherichia coli
+     </italic>
+     MurG, and tested against
+     <italic>
+      Mtb
+     </italic>
+     MurG with partial success, one being the first inhibitor identified against the
+     <italic>
+      Mtb
+     </italic>
+     enzyme (Trunkfield
+     <italic>
+      et al.
+     </italic>
+     ).
+    </p>
+    <p>
+     The enzyme catalysing the translocation of Lipid II across the plasma membrane has been the subject of much debate. To date, there is evidence for two different enzymes with ‘flippase’ activity: MurJ and FtsW (Ruiz,
+     ,
+     ; Mohammadi
+     <italic>
+      et al.
+     </italic>
+     ,
+     ; Sham
+     <italic>
+      et al.
+     </italic>
+     ). Further biochemical characterization is required to confirm the identification of the ‘flippase’. Inhibitors against this enzyme would be expected to exhibit broad-spectrum activity, targeting a vital activity in all bacteria.
+    </p>
+    <p>
+     Following translocation across the plasma membrane, Lipid II is polymerized by the monofunctional and bifunctional Penicillin-binding proteins (PBPs) (Sauvage
+     <italic>
+      et al.
+     </italic>
+     ). Bifunctional PBPs (PonA1/PBP1 and PonA2/PBP2) possess transglycosylase and transpeptidase domains. The former domain is responsible for linking the disaccharide building blocks of Lipid II to the pre-existing glycan chains (with the concomitant release of decaprenyl pyrophosphate), whereas the latter domain catalyses the formation of the classical (3 → 4) cross-links, between
+     <italic>
+      m
+     </italic>
+     -DAP and D-Ala of the adjacent pentapeptide chains, with the cleavage of the terminal D-Ala. D,D-transpeptidation and D,D-carboxypeptidation is performed by the monofunctional PBPs, both resulting in the cleavage of the terminal D-Ala of the peptide stem (Goffin and Ghuysen,
+     ). Only 20% of the cross-links in
+     <italic>
+      Mtb
+     </italic>
+     peptidoglycan are (3 → 4) (Kumar
+     <italic>
+      et al.
+     </italic>
+     ). The majority are (3 → 3) links between two tetrapeptide stems, with the release of the fourth position D-Ala (Lavollay
+     <italic>
+      et al.
+     </italic>
+     ). This reaction is catalysed by the L,D-transpeptidases, with D,D-carboxypeptidation as a prerequisite activity. The L,D-transpeptidases are structurally unrelated to PBPs, with different active site residues (cysteine and serine, respectively) (Mainardi
+     <italic>
+      et al.
+     </italic>
+     ; Biarrotte-Sorin
+     <italic>
+      et al.
+     </italic>
+     ). The
+     <italic>
+      β
+     </italic>
+     -lactam antibiotics have been used in the treatment of bacterial infections for nearly a century, and gave rise to the discovery of their target, the PBPs. The L,D-transpeptidases are resistant to most
+     <italic>
+      β
+     </italic>
+     -lactam antibiotics, except the carbapenems (Dubee
+     <italic>
+      et al.
+     </italic>
+     ). Until recently,
+     <italic>
+      β
+     </italic>
+     -lactams were not considered for use in the treatment of TB, due to the expression of a broad-spectrum
+     <italic>
+      β
+     </italic>
+     -lactamase, BlaC. However, it has been shown that BlaC is irreversibly inactivated by clavulanic acid, yet hydrolyses carbapenems at a low rate (Hugonnet
+     <italic>
+      et al.
+     </italic>
+     ). Combined treatment of the
+     <italic>
+      β
+     </italic>
+     -lactam with the
+     <italic>
+      β
+     </italic>
+     -lactamase inhibitor has been shown to be bactericidal against both replicating and non-replicating forms of
+     <italic>
+      Mtb
+     </italic>
+     , and combinations are now being explored in clinical trials (Hugonnet
+     <italic>
+      et al.
+     </italic>
+     ; Rullas
+     <italic>
+      et al.
+     </italic>
+     ). A well-documented inhibitor of the transglycosylase of PBPs, moenomycin (van Heijenoort
+     <italic>
+      et al.
+     </italic>
+     ), a natural product glycolipid, is yet to have proven efficacy against
+     <italic>
+      Mtb
+     </italic>
+     .
+    </p>
+    <p>
+     The inhibitors discussed thus far directly target the enzymes involved in peptidoglycan biosynthesis. There are, however, other antibiotics that act on the peptidoglycan precursors. For example, the glycopeptides, vancomycin and teicoplanin, bind to the D-Ala-D-Ala terminus of the pentapeptide stem, preventing polymerization reactions (Reynolds,
+     ). Members of the lantibiotic family of antibiotics, such as nisin, interact with the pyrophosphate moiety of Lipid II, forming a pore in the cytoplasmic membrane, but also inhibiting peptidoglycan biosynthesis (Wiedemann
+     <italic>
+      et al.
+     </italic>
+     ). The lipoglycodepsipeptide ramoplanin inhibits the action of MurG by binding to Lipid I. Ramoplanin also binds to Lipid II, preventing its polymerization (Lo
+     <italic>
+      et al.
+     </italic>
+     ).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec4">
+    <title>
+     ARABINOGALACTAN
+    </title>
+    <p>
+     The major cell wall polysaccharide, arabinogalactan (
+     ), as the name suggests, is composed of galactose and arabinose sugar residues, in the furanose (
+     <italic>
+      f
+     </italic>
+     ) ring form (Gal
+     <italic>
+      f
+     </italic>
+     ) (McNeil
+     <italic>
+      et al.
+     </italic>
+     ). Arabinogalactan is attached to peptidoglycan via a single linker unit (McNeil
+     <italic>
+      et al.
+     </italic>
+     ). The galactan component is a linear chain of approximately 30 alternating 5- and 6-linked
+     <italic>
+      β
+     </italic>
+     -D-Gal
+     <italic>
+      f
+     </italic>
+     residues (Daffe
+     <italic>
+      et al.
+     </italic>
+     ). Three highly branched arabinan chains, consisting of approximately 30 Ara
+     <italic>
+      f
+     </italic>
+     residues, are attached to the galactan chain (Besra
+     <italic>
+      et al.
+     </italic>
+     ). The non-reducing termini of the arabinan chains act as an attachment site for mycolic acids, succinyl and galactosamine (D-GalN) moieties (Draper
+     <italic>
+      et al.
+     </italic>
+     ; Bhamidi
+     <italic>
+      et al.
+     </italic>
+     ).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec5">
+    <title>
+     ARABINOGALACTAN BIOSYNTHESIS
+    </title>
+    <p>
+     Arabinogalactan biosynthesis is illustrated in
+     . The first committed step begins in the cytoplasm and proceeds by the formation of the linker unit connecting peptidoglycan to arabinogalactan, which is initiated by WecA, a GlcNAc-1-P transferase (Jin
+     <italic>
+      et al.
+     </italic>
+     ). This enzyme catalyses the transfer of GlcNAc-1-P to C
+     <sub>
+      50
+     </sub>
+     -P. WbbL, a rhamnosyltransferase catalyses the transfer of L-rhamnose (L-Rha) from dTDP-L-Rha to position 3 of C
+     <sub>
+      50
+     </sub>
+     -P-P-GlcNAc to form C
+     <sub>
+      50
+     </sub>
+     -P-P-GlcNAc-L-Rha, completing the linker unit (McNeil
+     <italic>
+      et al.
+     </italic>
+     ; Mills
+     <italic>
+      et al.
+     </italic>
+     ). WecA has been identified as the target of caprazamycin derivatives, such as CPZEN-45, with the original nucleoside antibiotic shown to target MraY (Ishizaki
+     <italic>
+      et al.
+     </italic>
+     ). Recently, a fluorescence-based assay for WecA activity has been developed and used to screen compound libraries with some success (Mitachi
+     <italic>
+      et al.
+     </italic>
+     ). Inhibitors targeting WbbL have yet to be identified. This essential enzyme, present in all mycobacteria, is recognized as a promising target and efforts are underway to characterize the enzyme
+     <italic>
+      via
+     </italic>
+     the establishment of a microtiter plate-based assay for its activity, which could be exploited in inhibitor library screening (Grzegorzewicz
+     <italic>
+      et al.
+     </italic>
+     ).
+    </p>
+    <p>
+     The linker unit provides an attachment point for the polymerization of the galactan chain. This process also occurs in the cytoplasm. The bifunctional galactofuranosyltransferases (GlfT1 and GlfT2) (Alderwick
+     <italic>
+      et al.
+     </italic>
+     ) are responsible for the synthesis of the linear galactan chain. Initially, GlfT1 transfers Gal
+     <italic>
+      f
+     </italic>
+     from UDP-Gal
+     <italic>
+      f
+     </italic>
+     to the C-4 position of L-Rha, and then adds a second Gal
+     <italic>
+      f
+     </italic>
+     residue to the C-5 position of the primary Gal
+     <italic>
+      f
+     </italic>
+     , generating C
+     <sub>
+      50
+     </sub>
+     -P-P-GlcNAc-L-Rha-Gal
+     <italic>
+      f
+     </italic>
+     <sub>
+      2
+     </sub>
+     (Mikusova
+     <italic>
+      et al.
+     </italic>
+     ; Alderwick
+     <italic>
+      et al.
+     </italic>
+     ; Belanova
+     <italic>
+      et al.
+     </italic>
+     ). GlfT2 sequentially transfers Gal
+     <italic>
+      f
+     </italic>
+     residues to the growing galactan chain with alternating
+     <italic>
+      β
+     </italic>
+     (1 → 5) and
+     <italic>
+      β
+     </italic>
+     (1 → 6) glycosidic linkages (Kremer
+     <italic>
+      et al.
+     </italic>
+     ; Rose
+     <italic>
+      et al.
+     </italic>
+     ). The galactan chains contain ~30 Gal
+     <italic>
+      f
+     </italic>
+     residues
+     <italic>
+      in vivo
+     </italic>
+     , forming C
+     <sub>
+      50
+     </sub>
+     -P-P-GlcNAc-L-Rha-Gal
+     <italic>
+      f
+     </italic>
+     <sub>
+      30
+     </sub>
+     (Daffe
+     <italic>
+      et al.
+     </italic>
+     ), but the chain length determination mechanism is yet to be fully understood. GlfT1 and GlfT2 are suitable targets, as rationalized by an
+     <italic>
+      in silico
+     </italic>
+     target identification program (Raman
+     <italic>
+      et al.
+     </italic>
+     ). UDP-Gal
+     <italic>
+      f
+     </italic>
+     derivatives, with modifications to the C-5 and C-6 positions have been investigated as suitable inhibitors of these enzymes, whereby they cause premature galactan chain termination (Peltier
+     <italic>
+      et al.
+     </italic>
+     ).
+    </p>
+    <p>
+     The remainder of arabinogalactan synthesis occurs on the outside of the cell. Although the transport mechanism of this cell wall polysaccharide is not fully understood, Rv3781 and Rv3783, encoding an ABC transporter, are potential ‘flippase’ candidates (Dianiskova
+     <italic>
+      et al.
+     </italic>
+     ). Ara
+     <italic>
+      f
+     </italic>
+     residues are transferred directly onto C
+     <sub>
+      50
+     </sub>
+     -P-P-GlcNAc-L-Rha-Gal
+     <italic>
+      f
+     </italic>
+     <sub>
+      30
+     </sub>
+     from the lipid donor decaprenylphosphoryl-D-arabinose (DPA) (Wolucka
+     <italic>
+      et al.
+     </italic>
+     ). DPA is synthesized through a series of cytoplasmic steps, and originates exclusively from phospho-
+     <italic>
+      α
+     </italic>
+     -D-ribosyl-1-pyrophosphate (pRpp), prior to reorientation to the extracellular face of the plasma membrane. The pRpp synthetase, PrsA, catalyses the transfer of pyrophosphate from ATP to C-1 of ribose-5-phosphate, forming pRpp (Alderwick
+     <italic>
+      et al.
+     </italic>
+     ). A decaprenyl moiety is added, catalysed by UbiA (decaprenol-1-phosphate 5-phosphoribosyltransferase), forming decaprenol-1-monophosphate 5-phosphoribose (Alderwick
+     <italic>
+      et al.
+     </italic>
+     ; Huang
+     <italic>
+      et al.
+     </italic>
+     ,
+     ). Rv3807c encodes a putative phospholipid phosphatase, which catalyses C-5 dephosphorylation, generating decaprenol-1-phosphoribose (DPR) (Jiang
+     <italic>
+      et al.
+     </italic>
+     ). Finally, DPA is generated by an epimerization reaction of the ribose C-2 hydroxyl, catalysed by a two-step oxidation/reduction activity of the decaprenylphosphoribose-2′-epimerase consisting of subunits DprE1 and DprE2 (Mikusova
+     <italic>
+      et al.
+     </italic>
+     ).
+    </p>
+    <p>
+     The DPA synthetic pathway is a validated drug target. The nitro-benzothiazinones (BTZs) and the structurally related dinitrobenzamides target DprE1 and are effective against MDR and XDR strains of
+     <italic>
+      Mtb
+     </italic>
+     with low toxicity (Christophe
+     <italic>
+      et al.
+     </italic>
+     ; Batt
+     <italic>
+      et al.
+     </italic>
+     ; Makarov
+     <italic>
+      et al.
+     </italic>
+     ,
+     ). The success of these compounds has led to the study of the other enzymes as potential drug targets. Conditional knockdown mutants of
+     <italic>
+      dprE1, dprE2, ubiA, prsA
+     </italic>
+     and
+     <italic>
+      Rv3807c
+     </italic>
+     have proven the essentiality of all except
+     <italic>
+      Rv3807c
+     </italic>
+     , and a target-based whole-cell screen has been developed using these strains of reduced expression levels to identify enzyme-specific inhibitors. Inhibitors targeting a particular enzyme cause increased sensitivity and this was confirmed with BTZ and KRT2029 targeting DprE1 and UbiA, respectively, and can be the subject of future medicinal chemistry efforts (Kolly
+     <italic>
+      et al.
+     </italic>
+     ).
+    </p>
+    <p>
+     The mechanism of DPA reorientation into the periplasm is unknown. The ‘flippase’ was recently considered to be Rv3789, but there is evidence that this protein plays a different role: to act as an anchor protein to recruit AftA (Kolly
+     <italic>
+      et al.
+     </italic>
+     ). AftA is the first arabinofuranosyltransferase (AraT), of a predicted six, to commence the addition of arabinose from DPA onto the galactan chain (Alderwick
+     <italic>
+      et al.
+     </italic>
+     ). AftA transfers a single Araf residue onto C-5 of
+     <italic>
+      β
+     </italic>
+     (1 → 6) Gal
+     <italic>
+      f
+     </italic>
+     residues 8, 10 and 12 of C
+     <sub>
+      50
+     </sub>
+     -P-P-GlcNAc-L-Rha-Gal
+     <italic>
+      f
+     </italic>
+     <sub>
+      30
+     </sub>
+     (Alderwick
+     <italic>
+      et al.
+     </italic>
+     ). EmbA and EmbB, so called because their discovery was based on the mode of action elucidation of ethambutol (EMB), catalyse the addition of further
+     <italic>
+      α
+     </italic>
+     (1 → 5) Ara
+     <italic>
+      f
+     </italic>
+     polymerization (Alderwick
+     <italic>
+      et al.
+     </italic>
+     ). AftC introduces
+     <italic>
+      α
+     </italic>
+     (1 → 3) branching (Birch
+     <italic>
+      et al.
+     </italic>
+     ), with AftD having an equivalent role (Skovierova
+     <italic>
+      et al.
+     </italic>
+     ). The structure terminates in a well-defined hexa-arabinofuranosyl (Ara
+     <italic>
+      f
+     </italic>
+     <sub>
+      6
+     </sub>
+     ) structural motif: [
+     <italic>
+      β
+     </italic>
+     -D-Ara
+     <italic>
+      f
+     </italic>
+     -(1 → 2)-
+     <italic>
+      α
+     </italic>
+     -D-Ara
+     <italic>
+      f
+     </italic>
+     ]
+     <sub>
+      2
+     </sub>
+     -3,5-
+     <italic>
+      α
+     </italic>
+     -D-Ara
+     <italic>
+      f
+     </italic>
+     -(1 → 5)-
+     <italic>
+      α
+     </italic>
+     -D-Ara
+     <italic>
+      f
+     </italic>
+     . This motif is generated by EmbA, EmbB, AftC, AftD and AftB (Escuyer
+     <italic>
+      et al.
+     </italic>
+     ; Alderwick
+     <italic>
+      et al.
+     </italic>
+     ; Birch
+     <italic>
+      et al.
+     </italic>
+     ,
+     ; Skovierova
+     <italic>
+      et al.
+     </italic>
+     ). AftB catalyses the transfer of the terminal
+     <italic>
+      β
+     </italic>
+     (1 → 2) Ara
+     <italic>
+      f
+     </italic>
+     residues (Seidel
+     <italic>
+      et al.
+     </italic>
+     ). C-5 of the terminal
+     <italic>
+      β
+     </italic>
+     -D-Ara
+     <italic>
+      f
+     </italic>
+     and the penultimate 2-
+     <italic>
+      α
+     </italic>
+     -D-Ara
+     <italic>
+      f
+     </italic>
+     of this motif act as anchoring points for mycolic acids (McNeil
+     <italic>
+      et al.
+     </italic>
+     ).
+    </p>
+    <p>
+     The Emb arabinosyltransferases are inhibited by EMB, a well-recognized anti-TB drug, which is employed in the short-course treatment strategy of TB. Efforts are focused on investigating EMB analogues, such as SQ109 (Jia
+     <italic>
+      et al.
+     </italic>
+     ,
+     ,
+     ; Sacksteder
+     <italic>
+      et al.
+     </italic>
+     ) and SQ775 (Bogatcheva
+     <italic>
+      et al.
+     </italic>
+     ), for future lead drug development. Interestingly, the other AraTs are not inhibited by EMB (Alderwick
+     <italic>
+      et al.
+     </italic>
+     ; Seidel
+     <italic>
+      et al.
+     </italic>
+     ; Birch
+     <italic>
+      et al.
+     </italic>
+     ) and screening for inhibitors against these enzymes is hindered due to the nature of the protein and substrate (membrane bound). However, there have been reports on the development of DPA analogues for the inhibition of arabinogalactan biosynthesis (Pathak
+     <italic>
+      et al.
+     </italic>
+     ; Owen
+     <italic>
+      et al.
+     </italic>
+     ). A recent study employing a cell free assay approach with membrane preparations has determined that various DPA analogues are able to limit the incorporation of a radiolabelled DP[
+     C]A (Zhang
+     <italic>
+      et al.
+     </italic>
+     ).
+    </p>
+    <p>
+     The primary structure of arabinogalactan is completed by the transfer of succinyl and D-GalN residues to the inner arabinan units. PpgS, polyprenyl-phospho-
+     <italic>
+      N
+     </italic>
+     -acetylgalactosaminyl synthase, catalyses the formation of polyprenol-P-D-GalNAc from polyprenyl-P and UDP-GalNAc, which is then translocated across the membrane (Skovierova
+     <italic>
+      et al.
+     </italic>
+     ; Rana
+     <italic>
+      et al.
+     </italic>
+     ). The deacylation to polyprenol-P-D-GalN occurs in an undetermined location and by an unknown mechanism. The glycosyltransferase, Rv3779, transfers D-GalN to arabinogalactan at the C-2 position of 3,5-branched Ara
+     <italic>
+      f
+     </italic>
+     residue (Scherman
+     <italic>
+      et al.
+     </italic>
+     ; Skovierova
+     <italic>
+      et al.
+     </italic>
+     ; Peng
+     <italic>
+      et al.
+     </italic>
+     ; Rana
+     <italic>
+      et al.
+     </italic>
+     ). Succinylated Ara
+     <italic>
+      f
+     </italic>
+     residues have also been detected at this position of non-mycolated arabinan chains (Bhamidi
+     <italic>
+      et al.
+     </italic>
+     ), but the enzyme responsible is currently unknown. A comprehensive mechanistic and functional understanding of these enzymes is required for evaluation as suitable drug targets and to date, there are no identified inhibitors against these processes. The final stage is the attachment of the arabinogalactan macromolecule to peptidoglycan. The enzyme responsible for this essential ligation has recently been elucidated to be Lcp1 (Harrison
+     <italic>
+      et al.
+     </italic>
+     ).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec6">
+    <title>
+     PHOSPHATIDYL-MYO-INOSITOL MANNOSIDES, LIPOMANNAN AND LIPOARABINOMANNAN
+    </title>
+    <p>
+     The glycolipids, phosphatidyl-
+     <italic>
+      myo
+     </italic>
+     -inositol mannosides (PIMs), and the related lipoglycans, lipomannan (LM) and lipoarabinomannan (LAM), are non-covalently anchored into the inner and outer membranes of the cell wall
+     <italic>
+      via
+     </italic>
+     the phosphatidyl-
+     <italic>
+      myo
+     </italic>
+     -inositol unit (Ortalo-Magne
+     <italic>
+      et al.
+     </italic>
+     ) (
+     ). The core structure of PIM consists of an acylated
+     <italic>
+      sn
+     </italic>
+     -glycerol-3-phospho-(1-D-
+     <italic>
+      myo
+     </italic>
+     -inositol), the phosphatidyl inositol (PI) unit. Glycosylation with mannopyranose (Man
+     <italic>
+      p
+     </italic>
+     ) residues at the O-2 and O-6 positions of
+     <italic>
+      myo
+     </italic>
+     -inositol, results in the mannosyl phosphate inositol (MPI) anchor (Ballou
+     <italic>
+      et al.
+     </italic>
+     ; Ballou and Lee,
+     ; Nigou
+     <italic>
+      et al.
+     </italic>
+     ). The MPI structure is highly diverse, with variations in the type (commonly palmitic and tuberculostearic chains (Pitarque
+     <italic>
+      et al.
+     </italic>
+     )), number and location of acyl chains. The most prevalent forms of PIMs in mycobacteria are tri- and tetra-acylated phospho-
+     <italic>
+      myo
+     </italic>
+     -inositol di/hexamannosides (Ac
+     <sub>
+      1
+     </sub>
+     PIM
+     <sub>
+      2
+     </sub>
+     , Ac
+     <sub>
+      1
+     </sub>
+     PIM
+     <sub>
+      6
+     </sub>
+     , Ac
+     <sub>
+      2
+     </sub>
+     PIM
+     <sub>
+      2
+     </sub>
+     , Ac
+     <sub>
+      2
+     </sub>
+     PIM
+     <sub>
+      6
+     </sub>
+     ), where in the hexamannosides, there is one Man
+     <italic>
+      p
+     </italic>
+     unit on the O-2 and five Man
+     <italic>
+      p
+     </italic>
+     units on the O-6 position of
+     <italic>
+      myo
+     </italic>
+     -inositol (Gilleron
+     <italic>
+      et al.
+     </italic>
+     ). Extensions of mannan and arabinomannan chains on the MPI anchor form LM and LAM, respectively. In both LM and LAM, the mannan chain consists of approximately 21–34
+     <italic>
+      α
+     </italic>
+     (1 → 6) linked Man
+     <italic>
+      p
+     </italic>
+     units, decorated with single
+     <italic>
+      α
+     </italic>
+     (1 → 2)-Man
+     <italic>
+      p
+     </italic>
+     residues (Kaur
+     <italic>
+      et al.
+     </italic>
+     ). In LAM, the mannan chain is glycosylated through an
+     <italic>
+      α
+     </italic>
+     (1 → 2) linkage with ~50–80 Ara
+     <italic>
+      f
+     </italic>
+     residues (Khoo
+     <italic>
+      et al.
+     </italic>
+     ).
+    </p>
+    <p>
+     In mycobacteria, PI and PIMs contribute up to 56% of all phospholipids in the cell wall and 37% in the cytoplasmic membrane (Goren,
+     ). These significant quantities indicate their importance. Not only are they structural components, they also have roles in cell wall integrity, permeability and control of septation and division (Parish
+     <italic>
+      et al.
+     </italic>
+     ; Patterson
+     <italic>
+      et al.
+     </italic>
+     ; Fukuda
+     <italic>
+      et al.
+     </italic>
+     ). LM and LAM are involved in
+     <italic>
+      Mtb
+     </italic>
+     pathogenicity, with evidence to suggest they are modulators of host–pathogen interactions (Schlesinger
+     <italic>
+      et al.
+     </italic>
+     ; Nigou
+     <italic>
+      et al.
+     </italic>
+     ; Maeda
+     <italic>
+      et al.
+     </italic>
+     ). These features of PIMs, LM and LAM make them suitable targets in anti-TB drug discovery.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec7">
+    <title>
+     BIOSYNTHESIS OF PHOSPHATIDYL-MYO-INOSITOL MANNOSIDES, LIPOMANNAN AND LIPOARABINOMANNAN
+    </title>
+    <p>
+     PIM biosynthesis begins in the cytoplasm (
+     ). The
+     <italic>
+      α
+     </italic>
+     -mannopyranosyl transferase (Man
+     <italic>
+      p
+     </italic>
+     T), PimA, of the GT-A/B superfamily, transfers Man
+     <italic>
+      p
+     </italic>
+     from the donor GDP-Man
+     <italic>
+      p
+     </italic>
+     to position O-2 of the
+     <italic>
+      myo
+     </italic>
+     -inositol ring to form PIM
+     <sub>
+      1
+     </sub>
+     (Kordulakova
+     <italic>
+      et al.
+     </italic>
+     ; Guerin
+     <italic>
+      et al.
+     </italic>
+     ). A second Man
+     <italic>
+      p
+     </italic>
+     residue is transferred to position O-6 of the
+     <italic>
+      myo
+     </italic>
+     -inositol ring by PimB’ to form PIM
+     <sub>
+      2
+     </sub>
+     (Guerin
+     <italic>
+      et al.
+     </italic>
+     ). Acylation of the Man
+     <italic>
+      p
+     </italic>
+     residue of PIM
+     <sub>
+      1
+     </sub>
+     is performed by the acyltransferase Rv2611c before or after the addition of the second Man
+     <italic>
+      p
+     </italic>
+     residue (Kordulakova
+     <italic>
+      et al.
+     </italic>
+     ). The acylation of the C-3 position of the
+     <italic>
+      myo
+     </italic>
+     -inositol ring is performed by an unknown acyltransferase. This finishes the synthesis of the MPI anchor. Mannosylation of Ac
+     <sub>
+      1
+     </sub>
+     /Ac
+     <sub>
+      2
+     </sub>
+     PIM
+     <sub>
+      2
+     </sub>
+     to Ac
+     <sub>
+      1
+     </sub>
+     /Ac
+     <sub>
+      2
+     </sub>
+     PIM
+     <sub>
+      3
+     </sub>
+     is performed by a Man
+     <italic>
+      p
+     </italic>
+     T, designated PimC, but this enzyme is yet to be confirmed in
+     <italic>
+      Mtb
+     </italic>
+     H37Rv (Kremer
+     <italic>
+      et al.
+     </italic>
+     ). It is suspected that the subsequent addition of Man
+     <italic>
+      p
+     </italic>
+     to the non-reducing end of Ac
+     <sub>
+      1
+     </sub>
+     /Ac
+     <sub>
+      2
+     </sub>
+     PIM
+     <sub>
+      3
+     </sub>
+     is performed by the unidentified PimC or PimD forming Ac
+     <sub>
+      1
+     </sub>
+     /Ac
+     <sub>
+      2
+     </sub>
+     PIM
+     <sub>
+      4
+     </sub>
+     . The Man
+     <italic>
+      p
+     </italic>
+     Ts have been the subject of target-based screening programs. More specifically,
+     <italic>
+      in vitro
+     </italic>
+     PimA activity was screened with approximately 350 compounds. Several hit molecules exhibited significant inhibition, but the compounds did not exhibit
+     <italic>
+      in vivo
+     </italic>
+     activity in
+     <italic>
+      Mtb
+     </italic>
+     (Sipos
+     <italic>
+      et al.
+     </italic>
+     ). Substrate analogues of PimA and PimB’, galactose-derived phosphonate analogs of PI, have also been developed, which show enzyme inhibition in a cell-free system (Dinev
+     <italic>
+      et al.
+     </italic>
+     ).
+    </p>
+    <p>
+     The biosynthesis of Ac
+     <sub>
+      1
+     </sub>
+     /Ac
+     <sub>
+      2
+     </sub>
+     PIM
+     <sub>
+      4
+     </sub>
+     marks the transition towards the synthesis of higher order PIMs, LM and LAM (
+     ). It is predicted that the synthesis of Ac
+     <sub>
+      1
+     </sub>
+     /Ac
+     <sub>
+      2
+     </sub>
+     PIM
+     <sub>
+      4
+     </sub>
+     occurs on the cytoplasmic side of the membrane, and at this point, is flipped across the membrane by an unidentified translocase, with the remainder of the steps thought to occur in the periplasmic space. The integral membrane Man
+     <italic>
+      p
+     </italic>
+     Ts (of the GT-C glycosyltransferase superfamily) are reliant on polyprenyl-phosphate-based mannose donors (PPM) rather than the nucleotide-based sugars (Berg
+     <italic>
+      et al.
+     </italic>
+     ). The polyprenol monophosphomannose synthase, Ppm1, catalyses the synthesis of PPM from GDP-Man
+     <italic>
+      p
+     </italic>
+     and polyprenol phosphates (Gurcha
+     <italic>
+      et al.
+     </italic>
+     ).
+    </p>
+    <p>
+     PimE catalyses the transfer of an
+     <italic>
+      α
+     </italic>
+     (1 → 2)-linked Man
+     <italic>
+      p
+     </italic>
+     residue onto Ac
+     <sub>
+      1
+     </sub>
+     /Ac
+     <sub>
+      2
+     </sub>
+     PIM
+     <sub>
+      4
+     </sub>
+     , generating Ac
+     <sub>
+      1
+     </sub>
+     /Ac
+     <sub>
+      2
+     </sub>
+     PIM
+     <sub>
+      5
+     </sub>
+     (Morita
+     <italic>
+      et al.
+     </italic>
+     ). The transfer of the last Man
+     <italic>
+      p
+     </italic>
+     residue is either performed by PimE or by an unidentified GT-C glycosyltransferase forming Ac
+     <sub>
+      1
+     </sub>
+     /Ac
+     <sub>
+      2
+     </sub>
+     PIM
+     <sub>
+      6
+     </sub>
+     (Morita
+     <italic>
+      et al.
+     </italic>
+     ). The distal 2-linked Man
+     <italic>
+      p
+     </italic>
+     residues are not present in the mannan core of LM or LAM; Ac
+     <sub>
+      1
+     </sub>
+     /Ac
+     <sub>
+      2
+     </sub>
+     PIM
+     <sub>
+      4
+     </sub>
+     is the likely precursor for the extension of the mannan chain. Recent evidence suggests that the putative lipoprotein LpqW channels intermediates such as Ac
+     <sub>
+      1
+     </sub>
+     /Ac
+     <sub>
+      2
+     </sub>
+     PIM
+     <sub>
+      4
+     </sub>
+     towards either PimE (to form the polar lipids) or to LM and LAM synthesis (Crellin
+     <italic>
+      et al.
+     </italic>
+     ). The mannosyltransferases, MptA and MptB (Mishra
+     <italic>
+      et al.
+     </italic>
+     ,
+     ), are responsible for the
+     <italic>
+      α
+     </italic>
+     (1 → 6)-linked mannan core of LM and LAM. MptC catalyses the transfer of the monomannose side chains via
+     <italic>
+      α
+     </italic>
+     (1 → 2) linkages, forming mature LM (Kaur
+     <italic>
+      et al.
+     </italic>
+     ; Mishra
+     <italic>
+      et al.
+     </italic>
+     ). Modification of LM leads to LAM. Approximately 50–80 Ara
+     <italic>
+      f
+     </italic>
+     residues are added using DPA as the donor, comparable to that of the arabinogalactan domain. An unidentified Ara
+     <italic>
+      f
+     </italic>
+     T primes the mannan chain, which is further elongated by EmbC, adding 12–16 Ara
+     <italic>
+      f
+     </italic>
+     residues with
+     <italic>
+      α
+     </italic>
+     (1 → 5) linkages (Shi
+     <italic>
+      et al.
+     </italic>
+     ; Alderwick
+     <italic>
+      et al.
+     </italic>
+     ). AftC, the same enzyme involved in arabinogalactan synthesis, integrates
+     <italic>
+      α
+     </italic>
+     (1 → 3) Ara
+     <italic>
+      f
+     </italic>
+     branches (Birch
+     <italic>
+      et al.
+     </italic>
+     ). It has also been speculated that AftD introduces
+     <italic>
+      α
+     </italic>
+     (1 → 3) Ara
+     <italic>
+      f
+     </italic>
+     , but its function is yet to be confirmed (Skovierova
+     <italic>
+      et al.
+     </italic>
+     ). The arabinan domain is terminated by
+     <italic>
+      β
+     </italic>
+     (1 → 2) Ara
+     <italic>
+      f
+     </italic>
+     linkages, predicted to be performed by AftB, resulting in branched hexa-arabinoside or linear tetra-arabinoside motifs. Further structural heterogeneity is introduced by capping motifs. These moieties consist of a number of
+     <italic>
+      α
+     </italic>
+     (1 → 2)-linked Man
+     <italic>
+      p
+     </italic>
+     residues, producing mannosylated LAM (ManLAM) (Kaur
+     <italic>
+      et al.
+     </italic>
+     ). Using PPM, the
+     <italic>
+      α
+     </italic>
+     (1 → 5) Man
+     <italic>
+      p
+     </italic>
+     T, CapA, attaches the first Man
+     <italic>
+      p
+     </italic>
+     residue (Dinadayala
+     <italic>
+      et al.
+     </italic>
+     ). MptC catalyses the addition of subsequent
+     <italic>
+      α
+     </italic>
+     (1 → 2) Man
+     <italic>
+      p
+     </italic>
+     residues (Kaur
+     <italic>
+      et al.
+     </italic>
+     ), which can be decorated with an
+     <italic>
+      α
+     </italic>
+     (1 → 4)-linked 5-deoxy-5-methyl-thio-xylofuranose (MTX) residue (Ludwiczak
+     <italic>
+      et al.
+     </italic>
+     ; Turnbull
+     <italic>
+      et al.
+     </italic>
+     ). The enzymes involved in the addition of MTX and succinyl residues to LAM are still to be determined.
+    </p>
+    <p>
+     The essentiality of PPM in lipoglycan biosynthesis makes Ppm1 an attractive drug target. Amphomycin, a lipopeptide antibiotic, inhibits the synthesis of PPM by sequestering the polyprenol phosphates, and consequently inhibits the extracellular Man
+     <italic>
+      p
+     </italic>
+     Ts (Banerjee
+     <italic>
+      et al.
+     </italic>
+     ; Besra
+     <italic>
+      et al.
+     </italic>
+     ). Guy
+     <italic>
+      et al
+     </italic>
+     . (
+     ) designed a variety of prenyl-based photoactivable probes. Upon photoactivation, a number of the probes exhibited inhibitory activity against
+     <italic>
+      Mtb
+     </italic>
+     Ppm1 and
+     <italic>
+      M
+     </italic>
+     .
+     <italic>
+      smegmatis α
+     </italic>
+     (1 → 6) Man
+     <italic>
+      p
+     </italic>
+     Ts (Guy
+     <italic>
+      et al.
+     </italic>
+     ). Substrate analogues of the Man
+     <italic>
+      p
+     </italic>
+     Ts have been designed to investigate enzyme–substrate interactions and mechanisms of action (Brown
+     <italic>
+      et al.
+     </italic>
+     ; Tam and Lowary,
+     ). These types of studies will provide an invaluable insight into the interactions involved and for the future design of inhibitors.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec8">
+    <title>
+     MYCOLIC ACIDS
+    </title>
+    <p>
+     The final distinctive component of the mycobacterial cell wall is the unique fatty acids, termed the mycolic acids (
+     ). These unique long chain
+     <italic>
+      α
+     </italic>
+     -alkyl-
+     <italic>
+      β
+     </italic>
+     -hydroxy fatty acids (comprised a meromycolate chain of C
+     <sub>
+      42
+     </sub>
+     –C
+     <sub>
+      62
+     </sub>
+     and a long saturated
+     <italic>
+      α
+     </italic>
+     -chain C
+     <sub>
+      24
+     </sub>
+     –C
+     <sub>
+      26
+     </sub>
+     ) are attached to the arabinogalactan layer, but also make up other outer cell envelope lipids such as trehalose mono/di-mycolates and glucose monomycolate. There are three subclasses of mycolic acids:
+     <italic>
+      α
+     </italic>
+     -mycolates, containing cyclopropane rings in the
+     <italic>
+      cis
+     </italic>
+     -configuration; methoxy-mycolates and keto-mycolates containing methoxy or ketone groups, respectively, and have cyclopropane rings in the
+     <italic>
+      cis
+     </italic>
+     - or
+     <italic>
+      trans
+     </italic>
+     - configuration (Brennan and Nikaido,
+     ; Watanabe
+     <italic>
+      et al.
+     </italic>
+     ,
+     ). Mycolic acids contribute to the permeability of the cell wall, and as such are essential for cell viability, and are also essential in virulence, making the biosynthesis of mycolates suitable drug targets (Liu
+     <italic>
+      et al.
+     </italic>
+     ).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec9">
+    <title>
+     MYCOLIC ACID BIOSYNTHESIS
+    </title>
+    <p>
+     Mycolic acid biosynthesis occurs in the cytoplasm, involving two distinct pathways, termed fatty acid synthase types I and II (FAS I and FAS II) (
+     ). FAS I (Rv2524c), a multifunctional polypeptide, generates short-chain fatty acyl-CoA esters that can either form the saturated
+     <italic>
+      α
+     </italic>
+     -branch (C
+     <sub>
+      24
+     </sub>
+     ), or be extended by FAS II to form the meromycolate chain (Cole
+     <italic>
+      et al.
+     </italic>
+     ). Elongation of the fatty acids is dependent on the availability of holo-AcpM, an acyl carrier protein, and malonyl-CoA. FabD, the malonyl:AcpM transacylase generates malonyl-AcpM (Kremer
+     <italic>
+      et al.
+     </italic>
+     ). C
+     <sub>
+      14
+     </sub>
+     -CoA primers from FAS I are condensed with malonyl-AcpM, catalysed by FabH (
+     <italic>
+      β
+     </italic>
+     -ketoacyl ACP synthase) (Choi
+     <italic>
+      et al.
+     </italic>
+     ), forming a pivotal link between the FAS I and FAS II pathways. The C
+     <sub>
+      16
+     </sub>
+     -AcpM formed is channeled to the FAS II pathway (Bhatt
+     <italic>
+      et al.
+     </italic>
+     ), where it undergoes a round of keto-reduction, dehydration and enoyl-reduction, catalysed by: MabA, a
+     <italic>
+      β
+     </italic>
+     -ketoacyl-AcpM reductase (Marrakchi
+     <italic>
+      et al.
+     </italic>
+     ); HadAB/BC, a
+     <italic>
+      β
+     </italic>
+     -hydroxyacyl-AcpM hydratase (Sacco
+     <italic>
+      et al.
+     </italic>
+     ); InhA, an enoyl-AcpM reductase (Banerjee
+     <italic>
+      et al.
+     </italic>
+     ). Successive cycles ensue, whereby the condensation reaction of FabH is replaced by the activities of KasA and KasB,
+     <italic>
+      β
+     </italic>
+     -ketoacyl synthases (Schaeffer
+     <italic>
+      et al.
+     </italic>
+     ; Kremer
+     <italic>
+      et al.
+     </italic>
+     ). The AcpM-bound acyl chain extends by two carbon units in each cycle, forming a saturated long-chain meromycolate of C
+     <sub>
+      42
+     </sub>
+     –C
+     <sub>
+      62
+     </sub>
+     , which is subject to modifications such as
+     <italic>
+      cis
+     </italic>
+     -/
+     <italic>
+      trans
+     </italic>
+     -cyclopropanation, and the addition of methoxy and keto groups (Dubnau
+     <italic>
+      et al.
+     </italic>
+     ; Glickman
+     <italic>
+      et al.
+     </italic>
+     ; Glickman,
+     ; Barkan
+     <italic>
+      et al.
+     </italic>
+     ). FabD32, a fatty acyl-AMP ligase, activates the meromycolate chain (Trivedi
+     <italic>
+      et al.
+     </italic>
+     ) and the subsequent meromycolyl-AMP is linked with the
+     <italic>
+      α
+     </italic>
+     -alkyl-CoA ester, catalysed by Pks13, to generate a
+     <italic>
+      α
+     </italic>
+     -alkyl-
+     <italic>
+      β
+     </italic>
+     -keto-mycolic acid (Gande
+     <italic>
+      et al.
+     </italic>
+     ; Portevin
+     <italic>
+      et al.
+     </italic>
+     ). Finally a reduction step, catalysed by Rv2509, generates a mature mycolate (Bhatt
+     <italic>
+      et al.
+     </italic>
+     ). Transport of the mycolates to either the cell envelope or for attachment to arabinogalactan remains to be elucidated. It is considered that the mycolates are transported in the form of trehalose monomycolate (TMM). In the generation of TMM, Takayama
+     <italic>
+      et al
+     </italic>
+     . (
+     ) propose that a mycolyltransferase transfers the mycolyl group from mycolyl-Pks13 to D-mannopyranosyl-1-phosphoheptaprenol (Besra
+     <italic>
+      et al.
+     </italic>
+     ). The mycolyl group of mycolyl-D-mannopyranosyl-1-phosphoheptaprenol is transferred to trehalose-6-phosphate by a second mycolyltransferase, forming TMM-phosphate. The phosphate moiety is removed by a trehalose-6-phosphate phosphatase, and the TMM is immediately translocated outside of the cell using a resistance-nodulation-division (RND) family of efflux pumps, termed mycobacterial membrane proteins large (MmpL), limiting TMM accumulation in the cytoplasm (Takayama
+     <italic>
+      et al.
+     </italic>
+     ; Grzegorzewicz
+     <italic>
+      et al.
+     </italic>
+     ; Varela
+     <italic>
+      et al.
+     </italic>
+     ). Finally, the mycolyltransferase Antigen 85 complex, formed of Ag85A, Ag85B and Ag85C, attaches the mycolic acid moiety from TMM to arabinogalactan (Jackson
+     <italic>
+      et al.
+     </italic>
+     ). This complex also catalyses the formation of trehalose dimycolate, TDM, from two TMM molecules with the release of trehalose (Takayama
+     <italic>
+      et al.
+     </italic>
+     ). TDM, or ‘cord factor’, is implicated in the pathogenicity of
+     <italic>
+      Mtb
+     </italic>
+     .
+    </p>
+    <p>
+     The enzymes involved in mycolic acid biosynthesis are the targets of numerous inhibitors. In 1952, shortly after its discovery, isoniazid (INH) was administered as a front-line and essential antibiotic in the treatment of TB (Medical Research Council,
+     ) and has only recently had the mode of action elucidated. Initially thought to target KatG due to mutations in the corresponding gene in resistant isolates (Zhang and Young,
+     ; Rouse and Morris,
+     ), INH was later revealed to be a pro-drug, with the true target being InhA (Banerjee
+     <italic>
+      et al.
+     </italic>
+     ; Larsen
+     <italic>
+      et al.
+     </italic>
+     ). Ethionamide, a structural analogue of INH, also requires cellular activation via EthA, before targeting InhA (Banerjee
+     <italic>
+      et al.
+     </italic>
+     ). Direct inhibitors of InhA that do not require activation are now being searched for (Lu
+     <italic>
+      et al.
+     </italic>
+     ; Vilcheze
+     <italic>
+      et al.
+     </italic>
+     ; Pan and Tonge,
+     ; Encinas
+     <italic>
+      et al.
+     </italic>
+     ; Manjunatha
+     <italic>
+      et al.
+     </italic>
+     ; Sink
+     <italic>
+      et al.
+     </italic>
+     ; Martinez-Hoyos
+     <italic>
+      et al.
+     </italic>
+     ). One such molecule is the broad-spectrum antibiotic triclosan, which has not been adopted in TB treatment due to its sub-optimal bioavailability (Wang
+     <italic>
+      et al.
+     </italic>
+     ). In the last year, GlaxoSmithKline have published a set of thiadiazole compounds, which directly target InhA, with GSK693 demonstrating
+     <italic>
+      in vivo
+     </italic>
+     efficacy comparable to INH (Martinez-Hoyos
+     <italic>
+      et al.
+     </italic>
+     ). Therefore, old drug targets should not be discounted in the search for new anti-tubercular agents.
+    </p>
+    <p>
+     The
+     <italic>
+      β
+     </italic>
+     -ketoacyl synthases, KasA and KasB, are the targets of the natural products cerulenin (Parrish
+     <italic>
+      et al.
+     </italic>
+     ; Schaeffer
+     <italic>
+      et al.
+     </italic>
+     ; Kremer
+     <italic>
+      et al.
+     </italic>
+     ), platensimycin (Brown
+     <italic>
+      et al.
+     </italic>
+     ), and thiolactomycin (TLM) (Kremer
+     <italic>
+      et al.
+     </italic>
+     ; Schaeffer
+     <italic>
+      et al.
+     </italic>
+     ). There has been significant interest in TLM due to its broad-spectrum activity and numerous analogues have been synthesized to improve on potency and pharmacokinetic properties (Kremer
+     <italic>
+      et al.
+     </italic>
+     ; Senior
+     <italic>
+      et al.
+     </italic>
+     ,
+     ; Kim
+     <italic>
+      et al.
+     </italic>
+     ). The biphenyl-based 5-substituents of TLM also exhibit
+     <italic>
+      in vitro
+     </italic>
+     activity against FabH, but with no whole-cell activity (Senior
+     <italic>
+      et al.
+     </italic>
+     ,
+     ). The 2-tosylnaphthalene-1,4-diol pharmacophore of TLM also has
+     <italic>
+      in vitro
+     </italic>
+     activity against FabH, however, whole-cell data are yet to be published (Alhamadsheh
+     <italic>
+      et al.
+     </italic>
+     ). Recently, a new anti-TB compound, an indazole sulfonamide GSK3011724A, was discovered from a phenotypic whole-cell HTS (Abrahams
+     <italic>
+      et al.
+     </italic>
+     ). The compound was shown to target KasA specifically, with no discernable target engagement with KasB or FabH, and is currently the focus of medicinal chemistry optimization (Abrahams
+     <italic>
+      et al.
+     </italic>
+     ).
+    </p>
+    <p>
+     Due to the success of InhA as a chemotherapeutic target, there is a mounting interest in the other enzymes involved in mycolic acid biosynthesis from a drug target perspective that could bypass INH resistance in MDR and XDR-TB. Formerly used in the treatment of TB, the thiocarbamide-containing drugs, thiacetazone and isoxyl, were shown to target mycolic acid biosynthesis and the inhibition mechanism has recently been elucidated. Following activation by EthA, both drugs target the HadA subunit of the HadABC dehydratase, forming a covalent interaction with the active site cysteine (Grzegorzewicz
+     <italic>
+      et al.
+     </italic>
+     ). It has also been shown that thiacetazone inhibits cyclopropanation of mycolic acids (Alahari
+     <italic>
+      et al.
+     </italic>
+     ). MabA has been the subject of a molecular docking study. Comparable with the control inhibitory substrate isonicotinic-acyl-NADH, pteleoellagic acid had a high docking score with
+     <italic>
+      in vivo
+     </italic>
+     activity to be confirmed (Shilpi
+     <italic>
+      et al.
+     </italic>
+     ). Through a target-based screening approach linked with whole-genome sequencing of resistant mutants, a benzofuran has been shown to target Pks13 (Ioerger
+     <italic>
+      et al.
+     </italic>
+     ). Additionally, Pks13 is the target of thiophene compounds (Wilson
+     <italic>
+      et al.
+     </italic>
+     ) including 2-aminothiophenes (Thanna
+     <italic>
+      et al.
+     </italic>
+     ). From a GFP reporter-based whole-cell HTS, a diarylcoumarin exhibited potent activity against
+     <italic>
+      Mtb
+     </italic>
+     and this structural class was shown to target FadD32 by inhibiting the acyl–acyl carrier protein synthetase activity (Stanley
+     <italic>
+      et al.
+     </italic>
+     ). The homologue of the Rv2509 reductase in
+     <italic>
+      M. smegmatis
+     </italic>
+     is non-essential but loss of function increases susceptibility to lipophilic antibiotics such as rifampicin. Targeting this ‘secondary’ drug target in
+     <italic>
+      Mtb
+     </italic>
+     could increase the susceptibility of the bacilli to antibiotics (Bhatt
+     <italic>
+      et al.
+     </italic>
+     ). The Antigen 85 complex has been the focus of a number of inhibitor-based screening studies (Belisle
+     <italic>
+      et al.
+     </italic>
+     ; Gobec
+     <italic>
+      et al.
+     </italic>
+     ; Sanki
+     <italic>
+      et al.
+     </italic>
+     ,
+     ; Elamin
+     <italic>
+      et al.
+     </italic>
+     ; Barry
+     <italic>
+      et al.
+     </italic>
+     ). Recently, an inhibitor from a compound library was shown to bind to Antigen 85C, and derivatives of this compound have been synthesized, with 2-amino-6-propyl-4,5,6,7-tetrahydro-1-benzothiphene-3-carbonitrile (I3-AG85) exhibiting the lowest MIC in
+     <italic>
+      Mtb
+     </italic>
+     and drug-resistant strains (Warrier
+     <italic>
+      et al.
+     </italic>
+     ).
+    </p>
+    <p>
+     In the target identification of new anti-tubercular compounds, some targets can be regarded as promiscuous, inhibited by multiple different chemical scaffolds, exemplified by MmpL3 (Grzegorzewicz
+     <italic>
+      et al.
+     </italic>
+     ; La Rosa
+     <italic>
+      et al.
+     </italic>
+     ; Stanley
+     <italic>
+      et al.
+     </italic>
+     ; Tahlan
+     <italic>
+      et al.
+     </italic>
+     ; Lun
+     <italic>
+      et al.
+     </italic>
+     ; Remuinan
+     <italic>
+      et al.
+     </italic>
+     ), a predicted TMM transporter. Through the generation and sequencing of spontaneous resistant mutants, a number of inhibitors with diverse chemical structures have been shown to target MmpL3 (Grzegorzewicz
+     <italic>
+      et al.
+     </italic>
+     ; La Rosa
+     <italic>
+      et al.
+     </italic>
+     ; Stanley
+     <italic>
+      et al.
+     </italic>
+     ; Tahlan
+     <italic>
+      et al.
+     </italic>
+     ; Lun
+     <italic>
+      et al.
+     </italic>
+     ; Remuinan
+     <italic>
+      et al.
+     </italic>
+     ). However, a recent chemoproteomics approach determined that one of the proposed inhibitor classes of MmpL3, the tetrahydropyrazo[1,5-a]pyrimidine-3-carboxamides (THPPs), has a novel alternative target, EchA6 (Cox
+     <italic>
+      et al.
+     </italic>
+     ). Sequence analysis predicted EchA6 to be an enoyl-CoA hydratase, but it lacks the residues required for catalytic activity. Through an extensive biochemical investigation, Cox
+     <italic>
+      et al
+     </italic>
+     . (
+     ) predicted that EchA6 shuttles fatty acyl-CoA esters from the
+     <italic>
+      β
+     </italic>
+     -oxidation pathway into FAS II, ready for the condensation activities of KasA or KasB with malonyl-AcpM. This research demonstrates that target identification of inhibitory compounds can unveil not only a new biological pathway, but also an untapped area for drug targets.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec10">
+    <title>
+     DRUG DISCOVERY EFFORTS
+    </title>
+    <p>
+     The strategies involved in drug discovery are forever evolving. Traditional enzyme screening campaigns and medicinal chemistry focused on ligand-based inhibitor designs (such as substrate or transition state analogues) that once dominated drug discovery are being superseded by phenotypic HTS. The former approach often relies on the X-ray crystal structure of the enzyme or biochemical understanding, and successful inhibitors from these screens are further challenged by target engagement
+     <italic>
+      in vivo.
+     </italic>
+     Over recent years, HTS has become the lead approach in drug discovery. HTS employs extensive compound libraries of diverse chemical structures, and as a consequence, these methods can identify a multitude of inhibitors with novel chemical scaffolds. Phenotypic HTS can reveal anti-TB agents with whole-cell activity and unknown modes of action, having the potential to unveil new biochemical pathways (Abrahams
+     <italic>
+      et al.
+     </italic>
+     ,
+     ; Gurcha
+     <italic>
+      et al.
+     </italic>
+     ; Mugumbate
+     <italic>
+      et al.
+     </italic>
+     ). Alternatively, phenotypic HTS can be target-based, focusing on enzymes or pathways such as those involved in cell wall biosynthesis. This can be a very effective way to identify novel anti-TB compounds with known modes of action, but is limited by the specified target (Batt
+     <italic>
+      et al.
+     </italic>
+     ; Martinez-Hoyos
+     <italic>
+      et al.
+     </italic>
+     ). Target assignment is a fundamental step in in the drug discovery pipeline. Without knowledge of the physiological target, efforts can be wasted on developing compounds against an unsuitable target, such as those homologous in humans. Establishing the mode of action of an inhibitor is a prerequisite for facilitating medicinal chemistry efforts to convert compounds into potential drug candidates.
+    </p>
+    <sec id="sec10-1">
+     <title>
+      Concluding remarks
+     </title>
+     <p>
+      The essential mycobacterial cell wall, responsible for structural integrity, permeability and pathogenicity, is an attractive drug target, both structurally and biosynthetically. Recent advancements in biochemical and omics-based techniques have led to the discovery and mechanistic understanding of enzymes involved in mycobacterial cell wall synthesis and assembly. Although a number of key enzymes are yet to be established, there are a plethora of suitable targets, exploited not only in current treatment programmes but also for anti-TB drug discovery. In the current TB treatment regimen, two of the front-line drugs, INH and EMB, target mycolic acid and arabinogalactan biosynthesis, respectively, with the second-line drugs such as ethionamide and D-cycloserine also targeting cell wall production. The proven success of these drugs validates the future development of inhibitors targeting the unique mycobacterial cell wall, which remains a source of unexploited clinically relevant drug targets. The continued progression in drug discovery approaches and the optimization of biochemical techniques, will enable the rapid identification of anti-TB agents, many of which are likely to target the biosynthesis of the so-called ‘Achilles heel’ of
+      <italic>
+       Mtb
+      </italic>
+      .
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

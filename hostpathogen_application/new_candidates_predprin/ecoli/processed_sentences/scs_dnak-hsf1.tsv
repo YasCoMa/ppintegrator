@@ -1,0 +1,2 @@
+id_pmc	sentence location	highlighted phrase	interacting verbs	number of interacting verbs	experimental methods found	number of experimental methods	protein entities found	number of protein entities
+4807281	body	hsf1 is inactivated by forming a complex with hsp90 , hsp70 , and hsp40 under non - stress conditions ( 74–76 ) , whereas σ32 is delivered by the dnak - dnaj - grpe complex and degraded by the protease ftsh ( 23 ) .	complex|complex	2		0	hsf1|dnak|hsp90|hsp70|hsp40|σ32|dnaj|grpe|complex	9

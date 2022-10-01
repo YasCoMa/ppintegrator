@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Keeping in Touch with Type-III Secretion System Effectors: Mass Spectrometry-Based Proteomics to Study Effector–Host Protein–Protein Interactions
+ </title>
+ <abstract>
+  <p>
+   Manipulation of host cellular processes by translocated bacterial effectors is key to the success of bacterial pathogens and some symbionts. Therefore, a comprehensive understanding of effectors is of critical importance to understand infection biology. It has become increasingly clear that the identification of host protein targets contributes invaluable knowledge to the characterization of effector function during pathogenesis. Recent advances in mapping protein–protein interaction networks by means of mass spectrometry-based interactomics have enabled the identification of host targets at large-scale. In this review, we highlight mass spectrometry-driven proteomics strategies and recent advances to elucidate type-III secretion system effector–host protein–protein interactions. Furthermore, we highlight approaches for defining spatial and temporal effector–host interactions, and discuss possible avenues for studying natively delivered effectors in the context of infection. Overall, the knowledge gained when unravelling effector complexation with host factors will provide novel opportunities to control infectious disease outcomes.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="sec1-ijms-21-06891" sec-type="intro">
+    <title>
+     1. Introduction
+    </title>
+    <sec id="sec1dot1-ijms-21-06891">
+     <title>
+      1.1. Effectors and Their Role in Establishing Host Interactions
+     </title>
+     <p>
+      For thousands of years, the coevolutionary arms race between bacteria and their hosts have provided opportunities for adaptations of bacteria–host associations. As a first line of defense, hosts have evolved to recognize molecular patterns of microbial origin, such as flagellin or lipopolysaccharide (LPS). These elicitors are termed either microbe-associated molecular patterns (MAMPs) or pathogen-associated molecular patterns (PAMPs). Since these terms are frequently used interchangeably, we will maintain the broader term MAMP [
+      ]. MAMPs are detected by pattern recognition receptors (PRRs) that induce various antimicrobial and immune responses to eliminate encroaching infective agents, referred to as MAMP-triggered immunity (MTI) [
+      ,
+      ]. In turn, pathogenic and symbiotic bacteria have mastered powerful strategies to deceive these host immune surveillance systems to promote their own survival and dissemination. Part of their tactic consists of introducing a batch of virulence factors—termed “effectors”—into the host cell. The emergence of these host-injected bacterial effectors has in turn led to host responses recognizing and counteracting these effectors, leading to effector-triggered immunity (ETI), which often involves programmed cell death [
+      ,
+      ,
+      ]. Although first discovered in plants, the ETI response has more recently been shown to also exist in mammalian cells [
+      ]. Highly evolved pathogens, such as
+      <italic>
+       Legionella
+      </italic>
+      ,
+      <italic>
+       Salmonella, Pseudomonas
+      </italic>
+      , and
+      <italic>
+       Ralstonia
+      </italic>
+      spp., or symbionts, such as
+      <italic>
+       Rhizobium
+      </italic>
+      spp., have further expanded their effector repertoire to suppress ETI or use it to their own benefit. For most of these bacteria, the injection of effectors has become essential for their association with the host. For instance, the acquisition of specific effector proteins by nonpathogenic
+      <italic>
+       Escherichia coli
+      </italic>
+      (
+      <italic>
+       E. coli
+      </italic>
+      ) has led to the evolution of different “pathotypes”, such as enterohaemorrhagic
+      <italic>
+       E. coli
+      </italic>
+      (EHEC) and enteropathogenic
+      <italic>
+       E. coli
+      </italic>
+      (EPEC), pathotypes with high disease burden [
+      ]. In a similar fashion,
+      <italic>
+       Ralstonia solanacearum
+      </italic>
+      mutants lacking the transcriptional activator HrpB, which controls expression of the type-III secretion system (T3SS) and effectors, show a reduced colonization, infection and multiplication ability
+      <italic>
+       in planta
+      </italic>
+      [
+      ]. Strikingly, for certain pathogens such as
+      <italic>
+       Chlamydiae
+      </italic>
+      , up to 10% of the coding sequences encode secreted effectors, i.e., ~90 out of ~900 proteins, underpinning their importance in the pathogen’s life cycle [
+      ].
+     </p>
+    </sec>
+    <sec id="sec1dot2-ijms-21-06891">
+     <title>
+      1.2. Delivery of Protein Effectors by Specialized Secretion Systems
+     </title>
+     <p>
+      Although Gram-positives, such as
+      <italic>
+       Listeria monocytogenes,
+      </italic>
+      typically achieve effector release via general secretion pathways, in Gram-negatives, translocation of effectors into the host cell is facilitated by specialized evolved bacterial secretion systems. Nine different secretion systems have been discovered thus far [
+      ], of which secretion system type-III, IV and VI (T3SS, T4SS and T6SS) provide a mean for the direct delivery of effector proteins into target cells that can be of either prokaryotic or eukaryotic origin. Many Gram-negative animal and plant pathogens (e.g., EHEC/EPEC,
+      <italic>
+       Chlamydia
+      </italic>
+      , and
+      <italic>
+       Salmonella
+      </italic>
+      spp.,
+      <italic>
+       Ralstonia
+      </italic>
+      spp. and
+      <italic>
+       Pseudomonas syringae
+      </italic>
+      (
+      <italic>
+       P. syringae
+      </italic>
+      )) employ the T3SS, also referred to as “injectisome”. In recent years, exciting progress on the assembly, structure, and function of this molecular syringe has been made, as extensively reviewed in [
+      ]. The T3SS was found to be evolutionarily related to the flagellar apparatus [
+      ]. More specifically, this sophisticated 3.5 megadalton syringe-like system is composed of a cytosolic sorting complex that acts as the effector receiving component, several inner and outer membrane-embedded structures, a hollow needle spanning the three membranes upon host cell infection and the translocon complex at the tip (
+      ) [
+      ,
+      ]. In contrast, the type IV secretion system (T4SS) is structurally related to the DNA conjugation system and can transport single proteins, protein complexes, or protein-DNA complexes into the prokaryotic or eukaryotic host cell. The type VI secretion system (T6SS) used by numerous Gram-negative bacterial species on the other hand, shares structural homology to phage tails and can, besides their primary function in antibacterial antagonism by means of secreted substrates, also secrete proteins into eukaryotic host cells. Gram-negative bacteria interacting with eukaryotic hosts most often harbor the T3SS. Although the technologies discussed in this review are in principle applicable to study effector–host protein–protein interactions (EH-PPIs) of all the above-mentioned secretion systems, we will mainly focus on type-III effectors (T3Es) and T3SS-related infection biology.
+     </p>
+    </sec>
+    <sec id="sec1dot3-ijms-21-06891">
+     <title>
+      1.3. Effectors: Their Origin and Mechanisms of Action
+     </title>
+     <p>
+      As opposed to the highly conserved T3SS machinery [
+      ], T3Es are functionally and structurally diverse [
+      ]. As a safety net for adaptations in the host, a remarkably high degree of functional redundancy is common among T3Es, and is the product of continuous acquisition, modification and terminal reassortment of effector genes [
+      ]. In terminal reassortment, new effectors arise as a result of genome rearrangements, e.g., the addition of an existing secretion domain to an existing gene [
+      ]. Variations and adaptations to the effector repertoire of the pathogen or symbiont facilitate an intra- or extracellular lifestyle, distinct host ranges, and changes in pathogenicity. For instance, acquisition of large regions in the bacterial genome involved in pathogenicity, termed pathogenicity islands (PAIs), serve typical hallmarks of important host adaptations. This is illustrated by the establishment of an intracellular lifestyle of
+      <italic>
+       Salmonella
+      </italic>
+      upon acquisition of a second
+      <italic>
+       Salmonella
+      </italic>
+      pathogenicity island (SPI-2) through horizontal gene transfer in combination with an exquisite temporal expression control of both SPI-1 and -2 encoded proteins [
+      ]. Furthermore, an in silico analysis of the genomes of multiple
+      <italic>
+       Ralstonia solanacearum (R. solanacearum)
+      </italic>
+      strains revealed that strains capable of infecting tomato plants possess two additional effectors (RipS3 and RipH3) compared to tomato nonpathogenic strains [
+      ]. Indeed, the triple deletion mutant
+      <italic>
+       ripH1-3
+      </italic>
+      is significantly impaired in tomato pathogenicity [
+      ], which demonstrates the involvement of effectors in shaping host range.
+     </p>
+     <p>
+      In contrast to bacterial proteins post-translationally transported through the general secretion (Sec) or twin-arginine translocation (Tat) dependent universal pathways, T3Es typically lack a conserved cleavable secretion signal [
+      ], but possess an intrinsically disordered N-terminal ~20 amino acid long sequence enriched for serine, threonine, isoleucine and proline residues [
+      ,
+      ,
+      ] and often a downstream 20 to 50 amino acid long chaperone-binding domain (CBD) [
+      ]. Newly synthesized T3Es are generally believed to be kept in a partially unfolded state by chaperones that also target them to the T3SS sorting platform [
+      ,
+      ]. Only upon contact with the host, hierarchical secretion of the effectors by an ATP and proton-motive force-driven secretion mechanism through the T3SS is fully engaged. More specifically, at the sorting platform, effector proteins are stripped of their chaperones and further unfolded through ATPase activity, enabling their successive passage through the 20 Å hollow needle of the T3SS (
+      ) [
+      ]. Subsequent cytosolic delivery of the effectors in the host cell prompts folding into their active protein conformation. Although T3Es are thought to remain in an unfolded and thus inactive state inside bacteria, markedly, very recently, intra-bacterial enzymatic glycosylation activity of the
+      <italic>
+       C. rodentium
+      </italic>
+      non-LEE (locus of enterocyte effacement)-encoded effector NleB was demonstrated, which challenges the envisioned idea of T3Es residing dormant inside the pathogen [
+      ].
+     </p>
+     <p>
+      Once inside the host cell, the effector operates by interacting with one or more host proteins. Diverse activities are ascribed to T3Es—sharing the common objective of modulating the host to the needs of the bacterium. In a controlled and integrated fashion, (sets of) effectors modify cytoskeletal dynamics, transcription, translation and signal transduction at multiple levels by covalent modification or binding of host protein targets, or by mimicking activities of host cell proteins among others. For instance, the phosphoinositide phosphatase activities of effectors IpgD (Inositol phosphate phosphatase D) and SopB (
+      <italic>
+       Salmonella
+      </italic>
+      outer protein B; also known as SigD) from
+      <italic>
+       Shigella
+      </italic>
+      and
+      <italic>
+       Salmonella
+      </italic>
+      spp., respectively, enzymatically modify plasma membrane phosphoinositides [
+      ,
+      ,
+      ]. Alteration of the phosphoinositide composition of the plasma membrane causes membrane ruffling and actin cytoskeleton rearrangements in the host cell. Other representative examples include the actin-binding
+      <italic>
+       Salmonella
+      </italic>
+      effectors SipA/SspA (
+      <italic>
+       Salmonella
+      </italic>
+      invasion protein A/stringent starvation protein A) and SipC/SspC that reshape the actin cytoskeleton of the host by stimulating actin polymerization [
+      ,
+      ], and the phytopathogen
+      <italic>
+       R. solanacearum
+      </italic>
+      GalNAc-T activation (GALA) effectors that mimic plant E3 ubiquitin ligases to interact with SKP1-like proteins [
+      ,
+      ]. Also, in the context of beneficial interactions, effectors may play a key role. For example, the effector gene ErnA (effector required for nodulation-A) is conserved across many bradyrhizobia strains and triggers nodule formation in plants, as inoculation with the mutant results in loss of nodule formation. To properly achieve these functions, bacterial effectors are predicted to practice so-called “structural imperfect mimicry” in which a delicate balance between infectivity and toxicity has to be found [
+      ]. By imperfectly simulating eukaryotic interaction interfaces, effectors can discriminate bacterial from host origin and steer their effects accordingly.
+     </p>
+    </sec>
+    <sec id="sec1dot4-ijms-21-06891">
+     <title>
+      1.4. The Past and Future Ways of Studying Effector Interactomes
+     </title>
+     <p>
+      In the past few decades, examination EH-PPIs has largely relied on binary yeast two-hybrid (Y2H) screenings that entail the heterologous expression of a genetically tagged bait and prey protein in yeast, and using yeast survival as a readout [
+      ]. The scalability and low cost of Y2H enabled semi high-throughput screening of prey libraries, such as the host target screens reported in the case of phytopathogens
+      <italic>
+       P. syringae
+      </italic>
+      and
+      <italic>
+       Hyaloperonospora arabidopsidis
+      </italic>
+      effectors probing a library of roughly 8000
+      <italic>
+       Arabidopsis
+      </italic>
+      proteins [
+      ] and for mapping of the EHEC host-pathogen interactome [
+      ]. In the former study, Y2H screening showed that some host proteins, referred to as proteins hubs, often involved in immunity, are targeted by multiple effectors from evolutionary distant pathogens. Most of the interactions (33/51) found in Y2H between the effectors and the extensively targeted plant protein TCP14 were validated
+      <italic>
+       in planta
+      </italic>
+      [
+      ]. To date, Y2H remains a popular screening platform for plant-based research, which can be coupled to next-generation sequencing (NGS), dubbed Y2H-sequencing (Y2H-seq), to further improve sensitivity and increase scalability [
+      ]. Representative studies in which Y2H-seq was applied to study EH-PPIs include the identification of interactors of the HopZ2 (Hrp-dependent outer protein Z2) T3E from
+      <italic>
+       P. syringae
+      </italic>
+      implicated in plant host colonization [
+      ] and the large-scale Y2H-screening for mapping interactions between effectors from the plant vascular pathogens
+      <italic>
+       R. solanacearum
+      </italic>
+      and
+      <italic>
+       X. campestris
+      </italic>
+      and
+      <italic>
+       A. thaliana
+      </italic>
+      protein [
+      ]. However, high rates of false negative and positive interactions have been reported in Y2H-screens due to the non-physiological interaction conditions [
+      ]. Recent advances in mass spectrometry (MS)-based proteomics strategies have unlocked opportunities for high-throughput and sensitive detection of EH-PPIs. In this review, we discuss the state-of-the-art MS-based toolbox for elucidating effector–host interactions and elaborate on the latest advances and shortcomings when studying EH-PPIs.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec2-ijms-21-06891" sec-type="methods">
+    <title>
+     2. Methods to Elucidate Effector–Host Protein–Protein Interactions
+    </title>
+    <sec id="sec2dot1-ijms-21-06891">
+     <title>
+      2.1. Affinity- or Immune-Based Purification of Effector Interactomes in a Host Context
+     </title>
+     <p>
+      Reminiscent to Y2H being a predecessor of binary PPI approaches, affinity purification (AP) followed by MS (AP-MS) can be considered to be the founding MS-based approach for studying PPIs and protein co-complexation (reviewed in [
+      ]). AP-MS consists of the expression of a translational fusion of the protein of interest (e.g., bait) to an affinity tag and consecutive co-purification of its interactors from native cell lysates by means of antibodies against the affinity tag (
+      ), followed by proteolytic digestion of the sample (e.g., trypsin) which is subsequently subjected to MS [
+      ]. By combining the separation capability of liquid chromatography (LC) with the analytic power of MS it has become a common practice to separate digests before sample injection into the mass spectrometer. By the online coupling of LC separation with MS, dubbed “LC-MS”, the overall sample complexity can be reduced, thereby providing a more comprehensive proteome coverage following MS-based analysis. AP can be done in a single or double step, depending on the selected (composite) affinity tag—of which diverse options exist, such as the FLAG-, HA- (i.e., hemagglutinin antigenic peptide), or tandem AP (TAP)-tag. In case of tagged bait expression, either high transfection efficiency models for overexpression of the fusion protein or, more ideal and gaining more interest in recent years, models expressing baits at endogenous levels can be used for carrying out AP-MS studies. In a similar fashion, immunopurification (IP) followed by MS (IP-MS) enables the co-purification of interactors of untagged baits by using antibodies specific for the selected bait protein. Unfortunately, weak and transient interactions are commonly missed in AP- and IP-MS (i.e., false negatives), viewing the loss of spatial organization upon cell lysis. Chemical crosslinking of proximal amino acids reactive side chains has emerged in recent years to surmount these problems [
+      ], but has not been widely adopted in the field of effector–host interactions. Challenges with artefact integration, MS-spectra interpretation, and defining streamlined MS data analysis workflows likely accounts for the latter observation. False positive interactions, on the other hand, can be limited in AP-MS by use of appropriate reference controls, the use of an inducible expression system or the use of endogenous tagging. Another drawback intrinsic to the purification strategies used for AP- and IP-MS is the vast underrepresentation of membrane proteins, mainly because of the challenge to extract and solubilize these while maintaining physiological interactions during the purification process. Nevertheless, AP-MS has clearly proven of value for the identification of strong and less dynamic PPIs, or interactions enduring the applied lysis conditions, and the method is commonly used as reference method when asserting new PPI screening methods.
+     </p>
+     <p>
+      Classical AP-MS data only provides a static view of protein complexes. To facilitate the study of dynamic and regulated interactions, quantitative proteomics approaches have been implemented easing MS data interpretation and analysis. Metabolic protein labeling (e.g., stable isotope labeling of amino acids in cell culture (SILAC)) can be used to quantify relative differences in protein levels among light and heavy stable isotope-labeled samples (
+      ) [
+      ]. In case of SILAC, cells are differentially grown in medium containing either regular amino acids or amino acids (usually arginine or lysine) enriched with heavy carbon-13 (
+      C) and/or nitrogen-15 (
+      N) atoms, i.e., isotopologs. Consequently, the proteomes matching distinct experimental conditions are mass encoded when pooled, thus enabling the MS-based determination of (differences in) relative protein abundances (of interactors). When SILAC is coupled with IP, the protein lysates of the differentially SILAC-labeled cell populations undergo IP specific to the (tagged) bait protein (ectopically) expressed, added recombinantly, or—in case of effector biology—delivered in the context of a host-microbe interaction in a differentially SILAC labeled sample. In this way, relative differences in eluate protein levels can be determined by differential MS-based analysis, thereby pointing to potential interactors of the effector under study (
+      ). SILAC is rarely used
+      <italic>
+       in planta
+      </italic>
+      due to the autotrophic nature of plants and thus poor metabolic labeling efficiency, although some efforts have been made (reviewed in [
+      ]). Rather, plant researchers rely on post-metabolic labeling strategies or alternatively, label-free quantification (LFQ) for comparative quantitative proteomics.
+     </p>
+     <p>
+      Besides enabling the extensive mapping of protein complexes in various models in general [
+      ] (e.g., the use of TAP in
+      <italic>
+       Saccharomyces cerevisiae
+      </italic>
+      [
+      ]), AP-MS has also significantly contributed to the elucidation of EH-PPIs in bacterial infection biology (
+      ), such as in the large-scale identification of host interactors of
+      <italic>
+       Chlamydia trachomatis
+      </italic>
+      (
+      <italic>
+       C. trachomatis
+      </italic>
+      ) vacuolar membrane protein (Inc) T3Es [
+      ]. Mirrashidi et al. transiently expressed 58 Incs in human HEK293T cells and subjected them to large-scale AP-MS analysis, revealing 354 high-confidence Inc-host interactors [
+      ]. Interestingly, the comprehensive EH-PPI dataset showed significant overlap with human host targets of viral proteins, suggesting shared pathogenic strategies for obligate intracellular microorganisms. This observation is further in line with a recent report in which a plant virus-encoded protein as well as the GALA1 and GALA3
+      <italic>
+       R. solanacearum
+      </italic>
+      effectors convergently evolved to target chloroplasts, thereby interfering with salicylic acid (SA)-mediated defense [
+      ]. Further research proved that IncE binding to sorting nexins (SNXs) 5/6 relocated them to the inclusion membrane. This observation was followed up by comparing the AP-MS interaction profiles of wild-type versus SNX5 mutated at the IncE binding surface, overall leading to the discovery that IncE disrupts a native interaction between cation-independent mannose-6-phosphate receptor (CI-MPR) and SNX5 and thus most likely represents an example of host mimicry [
+      ]. Sontag et al. made use of AP-MS and came up with a collection of high-confident EH-PPIs of eight
+      <italic>
+       Salmonella
+      </italic>
+      and four
+      <italic>
+       Citrobacter
+      </italic>
+      effectors [
+      ]. Interestingly, while for some
+      <italic>
+       Salmonella enterica
+      </italic>
+      serovar Typhimurium (
+      <italic>
+       S
+      </italic>
+      Tm) effectors, e.g., GtgA and SseI, 25, and 14 confident EH-PPIs, respectively, were retrieved, for four other effectors (CigR, PipB2, SifA, and SssA) no host interactors were found. In contrast, D’Costa and colleagues screened five
+      <italic>
+       Salmonella
+      </italic>
+      T3Es, including PipB2 and SifA, for human protein interactors using AP-MS in a cellular context (i.e., by the use stable epithelial cell lines and inducible effector expression), and identified a total of 130 putative EH-PPIs (including 63 EH-PPIs for PipB2 and 13 EH-PPIs for SifA) [
+      ]. The observation that SifA and PipB2 localizations are steered by specific protein targeting mechanisms such as prenylation [
+      ] and lipid raft-recruitment [
+      ], respectively might (partially) account for the success of identifying EH-PPIs of these effectors in a cellular context. Recently, 9 and 12
+      <italic>
+       S
+      </italic>
+      Tm effectors were screened using (crosslinking) AP-MS upon infection with chromosomally tagged effector strains in epithelial and macrophage cell lines, respectively [
+      ]. In this study, Walch et al. described 412 novel candidate EH-PPIs, next to 25 previously observed interactors, of which 4 SifA and 16 PipB2 EH-PPIs were in accordance with the study of D’Costa and colleagues. Remarkably, only 28 EH-PPIs were identified in both cell lines studied, putatively evincing the different infection strategies used by
+      <italic>
+       S
+      </italic>
+      Tm in epithelial cells and macrophages in addition to the differential host protein expression profiles of both cell lines. Furthermore, several EH-PPIs, such as SifA with VPS39 and RBM10, were uniquely found after crosslinking before pulldown, suggestive of transient or weak EH-PPIs. In plants, several AP-MS-based studies investigating EH-PPIs have been performed [
+      ,
+      ,
+      ,
+      ]. A commonly used practice is GFP-trapping in which a translational fusion between the protein of interest and GFP is used to coprecipitate interacting proteins using beads coupled to an anti-GFP antibody. Using this technique, Sang et al. showed that the
+      <italic>
+       R. solanacearum
+      </italic>
+      T3E RipAY targets thioredoxins, proteins involved in redox regulation, of tobacco and Arabidopsis [
+      ]. Furthermore, Üstün et al. showed that the
+      <italic>
+       P. syringae
+      </italic>
+      T3E HopM1 interacts with different proteasomal proteins of tobacco, including ECM29, which, interestingly, is involved in halting proteasomal protein degradation [
+      ,
+      ].
+     </p>
+     <p>
+      Various examples exist in which SILAC coupled with IP-MS was capable of pinpointing EH-PPIs upon mammalian host cell T3E expression or addition of the recombinant T3E to cell lysates [
+      ,
+      ,
+      ,
+      ,
+      ,
+      ,
+      ]. This way, Shames et al. described the function of EspZ and NleC EPEC effectors by unravelling their interaction with host target CD98 and p300, respectively [
+      ,
+      ]. Direct interactions of both effectors to their corresponding host prey were confirmed by co-IP. Another study investigated the interaction partners of SPI-2 effectors in mammalian cells [
+      ] and identified previously reported binding partners for SopB, SseJ (
+      <italic>
+       Salmonella
+      </italic>
+      secreted effector protein J), and SspH1 (
+      <italic>
+       Salmonella
+      </italic>
+      secreted protein H1). Besides, several new interactions were presented, such as junction plakoglobin and desmoplakin as host target of the less characterized effectors SseF and SseG, respectively. Furthermore, EH-PPIs for SseL with oxysterol-binding protein 1 (OSBP) and SspH2 with SUGT1 (Suppressor of G2 allele of SKP1 homolog) were verified. By means of co-IP and in the context of a stable inducible SopA-expressing cell line as well as
+      <italic>
+       Salmonella
+      </italic>
+      -infected cells, Fiskin and co-workers validated the interaction between SopA and two significant SopA-enriched hits, namely tripartite motif containing 56 (TRIM56) and TRIM65 [
+      ].
+     </p>
+    </sec>
+    <sec id="sec2dot2-ijms-21-06891">
+     <title>
+      2.2. Proximity-Dependent Labeling Approaches
+     </title>
+     <p>
+      In contrast to the previously discussed methods, proximity-dependent labeling approaches also capture proximal proteins besides direct and indirect PPIs. Use of a promiscuous biotin ligase (PBL) or a peroxidase (e.g., APEX (ascorbate peroxidase)) fused to a bait of interest enables covalent biotin labeling of vicinal proteins, and thus does not require the interaction of the protein complex to be maintained during purification or isolation, the latter being a major improvement considering that the use of different stringencies of (washing) buffers to extract proteins and remove nonspecific binders in AP-MS can heavily impact the proteins retained when performing affinity purifications. Following protein digestion, biotinylated proteins can subsequently be identified by means of LC-MS/MS. In proximity-dependent biotinylation (PDB;
+      ), identification of protein interactors and proximal proteins is based on the enzymatic action of a PBL, an approach referred to as BioID when making use of mutant
+      <italic>
+       E. coli
+      </italic>
+      BirA
+      , designated BirA* (R118G), as PBL [
+      ]. More specifically, upon supplementation of biotin to cells expressing a BioID fusion protein, the PBL moiety transfers activated biotin, or biotinoyl-AMP, to accessible primary amines in its vicinity [
+      ]. This enables subsequent streptavidin-based purification and MS-based identification, overall permitting the identification of high as well as low affinity interactions. The robust biotin-streptavidin interaction permits the use of stringent washes (e.g., high content of (chaotropic) salts and detergents) and thus results in a reduced background of nonspecific proteins bound to affinity resins—providing significant improvements over AP-MS. Additionally, the ability for selective capture makes the method generally insensitive to protein solubility or protein complexation, and thus improves its applicability for interactome analysis of membrane proteins and cytoskeletal constituents, representing major advantages over alternative interactomics approaches. Occasionally, the relatively large BioID tag (35.3 kDa) may affect subcellular targeting of certain bait proteins. To steer its observed cytosolic localization in eukaryotic cells, BirA* can be engineered with a signal leader peptide to translocate the fusion protein to the desired compartment [
+      ,
+      ]. To potentially improve on these aspects, Kim and colleagues developed a smaller (27 kDa) second-generation PBL, called “BioID2”, from the
+      <italic>
+       Aquifex aeolicus
+      </italic>
+      biotin ligase, naturally lacking a DNA-binding domain [
+      ]. Likewise, the Khavari lab engineered a mutant biotin ligase from
+      <italic>
+       Bacillus subtilis
+      </italic>
+      termed BASU (28 kDa) [
+      ]. More challenging, however, is the relatively slow kinetics of these first- and second-generation enzymes used for PDB as sufficient biotinylation typically requires up to 16 to 24 h of labeling, overall complicating the exploration of dynamic interactions. To tackle the latter inadequacy, third-generation PBLs were developed by the directed evolution of BioID in yeast, namely TurboID (35 kDa) and miniTurbo (28 kDa) [
+      ]. Alternatively, in vitro BioID (ivBioID) was shown to capture dynamic interactions by PBL labeling of permeabilized fixed cells, obtaining the cellular context in a physiologically inactive state and thus partially overcoming the limitation of slow BirA* kinetics while additionally increasing the spatial resolution [
+      ].
+     </p>
+     <p>
+      BioID made its first introduction
+      <italic>
+       in planta
+      </italic>
+      in 2017 where researchers used rice protoplasts to investigate the vicinal proteins of OsFD2, a rice transcription factor, tagged with BirA* [
+      ]. In 2018, Khan et al. applied the technique for identifying EH-PPIs in a whole plant system (transgenic
+      <italic>
+       A. thaliana
+      </italic>
+      ) by searching for interactors of the
+      <italic>
+       P. syringae
+      </italic>
+      T3E membrane-associated HopF2 (
+      ) [
+      ]. Interestingly, when compared to acquired AP-MS data showing the interaction of HopF2-HA with 10 membrane-associated proteins [
+      ], nine extra membrane-associated prey proteins could be identified with BioID (i.e., 18/19 of the proximal proteins identified localized to membranes), thereby revealing some previously unknown targets of HopF2. Although 58% (11/19) of the strong HopF2 interactors identified by BioID were also identified with AP-MS, a few known interactors of HopF2 (MKK5, BAK1) were missed with BioID, a finding likely attributed to the non-accessible nature of free amines on proximal proteins for biotinylation, an observation in line with other reports [
+      ,
+      ]. Using BioID in tobacco leaves, researchers identified five proximal plant proteins to interact with the
+      <italic>
+       P. syringae
+      </italic>
+      T3E AvrPto, including RIN4 which functions at the membrane and is involved in immunity [
+      ]. Largely due to the insufficient compatibility of using first- and second-generation PBLs of bacterial origin in plants, it was only with the introduction of the third-generation enzymes such as Turbo and miniTurbo, working optimally at temperatures far below 37 °C, that PBL became more proficient in identifying PPIs
+      <italic>
+       in planta
+      </italic>
+      [
+      ,
+      ,
+      ], making BioID amenable to boost bacterial effector biology research in the context of plant hosts in the future.
+     </p>
+     <p>
+      An alternative proximity labeling (PL) approach, relies of the translational fusion of engineered APEX to biotinylate proteins in the vicinity of the bait [
+      ]. In the presence of H
+      <sub>
+       2
+      </sub>
+      O
+      <sub>
+       2
+      </sub>
+      , APEX catalyzes the oxidation of biotin-phenol to the highly reactive and short-lived biotin-phenoxyl radical that subsequently reacts with electron-rich amino acids (&gt;98% tyrosine and &lt;2% tryptophan, cysteine [
+      ]) of proximal proteins in a range of ~20 nm [
+      ], resulting in their biotinylation. As for third-generation PBLs, a more efficient version of the enzyme was generated,
+      <italic>
+       i.e.
+      </italic>
+      , APEX2, using directed evolution [
+      ]. APEX(2)-based proximity labeling greatly excels in terms of labeling time compared to BioID/BioID2/BASU (1 min or less vs. &gt;16 h) and thus even the labeling kinetics of the recently realized TurboID and miniTurbo PBLs (~10 min of labeling). APEX2 has enabled the study of time-sensitive protein complexation, such as G-protein-coupled receptor signaling [
+      ,
+      ]. Because of its toxicity, the use of H
+      <sub>
+       2
+      </sub>
+      O
+      <sub>
+       2
+      </sub>
+      however warrants caution and its use is unsuitable in case of high endogenous peroxidase activity, therefore making TurboID and miniturbo the strategies of choice for non-toxic proximity labeling [
+      ,
+      ].
+     </p>
+     <p>
+      Overall, PL has already proven to be a potent tool to uncover eukaryotic PPI networks [
+      ,
+      ], next to defining subcellular or localized protein compositions [
+      ]. In bacterial cells, proximity labeling was only implemented very recently using the advantageous kinetics of APEX2-dependent biotinylation thereby revealing proteins involved in biogenesis of the type VI secretion system (T6SS) in
+      <italic>
+       E. coli
+      </italic>
+      [
+      ]. By stalling the T6SS assembly pathway at different stages, Santin and co-workers were able to pinpoint the consecutive proximal partners of TssA during T6SS assembly. The first report on EH-PPIs mapping using BioID was in a study aiming at the identification of host targets of the newly discovered
+      <italic>
+       Chlamydia psittaci
+      </italic>
+      (
+      <italic>
+       C. psittaci
+      </italic>
+      ) T3E SINC [
+      ]. BioID revealed that SINC targeted the host nuclear envelope, thereby contributing potential vital knowledge of
+      <italic>
+       C. psittaci
+      </italic>
+      virulence. More recently, BioID was successfully applied as a large-scale screening method for the discovery of
+      <italic>
+       Salmonella
+      </italic>
+      T3E-host protein interactions [
+      ]. D’Costa and colleagues screened the
+      <italic>
+       Salmonella
+      </italic>
+      effectors SopD2, SifA, PipB2, SseF and SseG for human protein interactors using inducible BioID effector fusions expression in stable HEK293T epithelial cell lines. The presence of an additional FLAG-tag enabled the application of BioID and AP-MS in parallel. Using BioID, eight known besides 632 putative novel (indirect) EH-PPIs were identified, the latter category showing a significant enrichment of membrane proteins and proteins implicated in vesicle organization-, cytoskeleton-, and endosomal transport when compared to AP-MS data. Five of the newly discovered candidate EH-PPIs were validated through co-IP in the case of SifA, including the interaction with the host multi-subunit BLOC-2 complex implicated in lysosomal trafficking, a complex not picked up by traditional AP-MS. In addition, since bacterial effectors notoriously target biological membrane (-associated) complexes [
+      ], this study underscores the utility of BioID and PL in general in elucidating bacterial EH-PPIs and further illustrates the value of robust high-throughput screening platforms in increasing our understanding of effector biology.
+     </p>
+    </sec>
+    <sec id="sec2dot3-ijms-21-06891">
+     <title>
+      2.3. Virotrap
+     </title>
+     <p>
+      By allowing stringent IP conditions or the direct identification of biotinylated sites [
+      ], BioID benefits from the covalent biotin modification to circumvent false positive or negative PPIs due to cell lysis and nonspecific interactions [
+      ]. Conversely, Virotrap eliminates the need for cell lysis altogether by making use of the vesicle-forming properties of the human immunodeficiency virus type 1 (HIV-1) GAG protein (55 kDa) [
+      ]. Expression of an N-terminally GAG-tagged bait results in the budding of so-called virus-like particles (VLPs)—wherein interacting proteins are “trapped”. Important for downstream purification of these VLPs, is the co-expression of vesicular stomatitis virus G protein (VSV-G) in both the FLAG-tagged and untagged form (i.e., expression of both forms facilitate trimerization). VSV-G(-FLAG) appears as a composite trimer at the cell membrane and consequently, after budding, makes up part of the VLP surface. As a result, VLPs can simply be isolated from the growth medium using immobilized anti-FLAG antibodies. Next, VLP contents are liberated and typically analyzed using label-free shotgun proteome analysis. It should be noted that natural GAG protein is thought to reside in the cytosol before multimerization at the plasma membrane, at multivesicular bodies or at similar surfaces [
+      ]. Hence, the endogenous location of Virotrap bait-interactions should preferentially be the cytosol, as this is the most physiologically relevant location for interactions in Virotrap. Currently, studies on 33 Virotrap target hits [
+      ,
+      ] that reside in or at the plasma membrane or fulfill (one of) their function(s) in the cytosol have been published.
+     </p>
+     <p>
+      To date, Virotrap has only been optimized in HEK293T cells. Nonetheless, with certain optimizations, Virotrap would likely be applicable to other mammalian cells and can thus potentially be extrapolated to other species. In this context, it is noteworthy that VLPs have successfully been isolated from plant tissue expressing full-length HIV-1 GAG [
+      ], so application of Virotrap in plants could be an interesting subject of future investigation. Virotrap has fruitfully assisted in selecting candidate interactions for human ring finger protein 41 (RNF41) and proved to be orthogonal to BioID and AP-MS in that regard [
+      ,
+      ]. Furthermore, we recently obtained proof-of-concept data that Virotrap can be used for studying EH-PPIs by fusing the C-terminus of GAG to
+      <italic>
+       Salmonella
+      </italic>
+      T3Es, by the identification of known host interactors (unpublished data). With respect to its complementarity to other high-throughput methods, we anticipate that Virotrap will further aid the comprehensive discovery of EH-PPI maps.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec3-ijms-21-06891" sec-type="discussion">
+    <title>
+     3. Discussion
+    </title>
+    <p>
+     The availability of various interactomics approaches and their application have provided insights into the strengths and weaknesses with respect to studying host-pathogen interactions. The often complementary nature of the different interactomics methods currently at hand, stresses the need to use more than one approach to obtain a complete and less biased picture of EH-PPI repertoires (
+     ), as illustrated by several studies discussed above [
+     ,
+     ,
+     ]. AP-MS and derived technologies thereof are usually not successful in detecting weak and dynamic PPIs, due to their highly dynamic nature, or membrane targets, due to their poor solubilization and thus extraction during native protein extraction.
+    </p>
+    <p>
+     The development of techniques such as BioID and Virotrap (partially) alleviated these shortcomings by means of covalent modification and avoiding cell lysis, respectively [
+     ,
+     ]. More specifically, BioID on the one hand takes advantage of marking PPIs by means of the covalent attachment of biotin, a stable modification that is retained during cell lysis conditions, opposed to the necessity for the maintenance of interactions upon cell lysis in case of AP-MS analysis. Virotrap on the other hand benefits from its unique feature being the evasion of cell lysis by hijacking vesicle-forming properties of HIV-1 GAG protein. In addition, especially for poorly soluble proteins, such as membrane and cytoskeletal proteins, BioID and Virotrap have proven to clearly outperform AP-MS screenings [
+     ,
+     ,
+     ,
+     ]. Since the total amount of membrane-associated effectors is estimated to be around 30%, there is a clear necessity for techniques capable of targeting this protein category [
+     ]. BioID takes the identification of PPIs a step further by identifying the so-called “proxeome”, inevitably however making selection of direct effector–host targets relevant for effector function a more laborious task. Selection of appropriate controls and linkers may facilitate and streamline downstream validation efforts [
+     ,
+     ]. GFP fused to a PBL, for example, has frequently been used as a control for non-bait specific biotinylation [
+     ]. In addition, Virotrap has proven to be complementary to BioID in identifying PPIs [
+     ], and both techniques are based on a completely different principle, making the methods also intrinsically complementary. Although both techniques deliver only partially overlapping protein identifications, they also harbor a specific set of missing interactions, or false negatives. For instance, proteins lacking an (accessible) lysine cannot be biotinylated and will not be perceived in case of BioID. Proteins that are too distant from the BioID tag will also be missed. The latter can potentially be overcome by incorporating a (longer) linker between the tag and the bait, which, in addition, reduces the effects of steric hindrance (
+     ) [
+     ], or alternatively, by re-positioning of the PBL. False negative interactions in Virotrap might include proteins residing in confined subcellular structures of organelles, such as the nucleus, or protein complexes too large to fit in the VLP particles estimated to be 100 to 350 nm in diameter [
+     ]. False positives can to a certain extent be limited by an appropriate experimental design. Endogenously biotinylated proteins, for instance, can easily be filtered out by comparison with a control dataset representing the background. False positive interactions with GAG can be eliminated by comparing to a control setup. An appropriate VLP control setup, i.e., a representation of the complete VLP proteome in absence of the effector, is indispensable for Virotrap MS-based analysis as VLPs exhibit their own characteristic proteome content [
+     ]. In the context of appropriate BioID controls, it is noteworthy that by using the power of genome editing, Vandemoortele et al. designed a method to obtain isogenic cell lines expressing T2A-BirA* bait fusion or its corresponding BirA* control protein, both under the control of the endogenous bait promoter [
+     ]. The method relies on introduction of the T2A-BirA* cassette at the C-terminus of the protein of interest resulting in bicistronic expression of both the bait and BirA*, thereby serving an elegant control setup for isogenic cells obtained by targeting of a Cas9 enzyme, fused to a cytidine deaminase to the T2A autocleavage site, thereby inactivating the T2A peptide sequence resulting in the expression of the bait fusion from its endogenous promoter. It is clear that EH-PPI discovery is multifaceted and requires careful assessment of the effector protein under investigation to set up a successful experiment. The study of effector biology is further complicated by the range of susceptible hosts. Therefore, selection of an appropriate host context is of essential importance, also viewing the reported overreliance on a few popular models clearly biasing host-pathogen interactomics studies [
+     ]. We recently demonstrated that EH-PPIs of bacterial root pathogens can be studied when making use of hairy root cultures closely mimicking the environment of the natural host [
+     ] (unpublished data). In this setup, roots are transformed with
+     <italic>
+      Agrobacterium rhizogenes
+     </italic>
+     carrying the desired construct of for example a tagged effector. Transformed roots can be selected for (e.g., by co-expression of a fluorescent marker) and used as model for protein interaction studies [
+     ]. It is also important to consider the mode of effector tagging. Of note, signal peptides, CBDs and for instance GTP-activating domains typically reside at the N-terminus of bacterial effectors [
+     ]. The latter suggests a general preference for C-terminally tagged effector fusions to retain functionality, but it is always essential to validate functionality of the tagged variant independent of tag size.
+    </p>
+    <p>
+     Investigation of bacterial effectors in their physiological context can be essential for proper effector functioning. This is for instance demonstrated by the observed aberrant localization of certain heterologously expressed effectors versus the localization of effectors delivered through the bacterial secretion system by infection of host cells, whether or not following endogenous chromosomal tagging [
+     ,
+     ] or overexpression in bacteria [
+     ]. Illustrative of this, while SifB is known to be targeted to the
+     <italic>
+      Salmonella
+     </italic>
+     -containing vacuole (SCV) and
+     <italic>
+      Salmonella
+     </italic>
+     -induced filaments (Sifs) when secreted by
+     <italic>
+      Salmonella
+     </italic>
+     , i.e., when SifB is present at physiological levels, a cytoplasmic localization was observed upon heterologous (over-)expression [
+     ]. Of note, the lack of EH-PPI identifications for some effectors studied by Sontag et al. could be due to improper effector production or localization, or the absence of specific cofactors or protein modifications in vitro. Moreover, many effectors rely on protein modifications or the expression of other effectors on which their function relies. EPEC Tir (translocated intimin receptor) phosphorylation (Y454), for example, leads to recruitment of N-WASP, resulting in actin assembly at the site of bacterial invasion [
+     ]. The T3E SopD from
+     <italic>
+      S
+     </italic>
+     Tm relies on the phosphatase activity of a second T3E SopB for its targeting to the plasma membrane [
+     ]. As such, effectors are preferably studied upon native delivery in infection(-relevant) conditions. One way is to make use of bacteria encoding endogenously tagged effectors when infecting host cells. A potential strategy based on BioID would be to tag effectors with a PBL at their endogenous locus (endogenous BioID, eBioID,
+     ). Secretion of tagged T3Es and T4Es have been proven successful in case of small tags and certain reporters [
+     ,
+     ,
+     ]. However, viewing the limited unfolding capacity of the T3SS (or T4SS [
+     ]) and the stable β-barrel structure of fluorescent proteins (e.g., GFP), fusion of fluorescent proteins to T3Es was shown to block T3SS-mediated secretion [
+     ], thereby generally excluding the use of tightly folded proteins as T3E fusions. However, a split GFP system was developed that enables GFP-IP and real-time imaging of effector translocation. By tagging the effector with strand 11 from GFP and expressing the other ten strands in the desired host cell, delivery, and localization of, for instance, three
+     <italic>
+      S
+     </italic>
+     Tm effectors (i.e., PipB2, SteA and SteC) [
+     ] and two
+     <italic>
+      R. solanacearum
+     </italic>
+     GMI1000 effectors (i.e., AvrB and PopP2) was successfully accomplished [
+     ]. Alternatively, other modules with likely higher unfolding capacity as compared to GFP, such as PhoA, calmodulin-activated adenylate cyclase and beta-lactamase, have been successfully used to monitor effector secretion [
+     ,
+     ,
+     ]. Upon native delivery of tagged effectors, and to improve the resolution of future host-pathogen interactomics studies, it will be increasingly important to additionally consider spatiotemporal effector expression profiles and kinetics of effector delivery. As illustrated by the Knodler et al. study profiling T3E-host PPIs at later stages of infection (i.e., 20 hpi), a bias towards the identification of
+     <italic>
+      Salmonella
+     </italic>
+     SPI-2 T3Es host targets compared to SPI-1 targets could clearly be observed. This discrepancy is largely due to the fact that SPI-2 T3Es are translocated at later stages of infection when bacterial loads are high, implying their generally higher abundance and concomitant improved detectability of SPI-2 host targets [
+     ]. The implementation of high sensitive data-independent acquisition (DIA)-based proteomics approaches shown to outperform data-dependent acquisition (DDA) workflows in identifying and quantifying low abundant proteins, may aid future EH-PPI studies of low abundant effectors [
+     ]. All considering, it should be attempted to closely mimic real infection conditions, but a delicate balance between accuracy and feasibility is ultimately essential.
+    </p>
+    <p>
+     Creative approaches using the combined power of AP-MS and BioID have enabled diversion of relative spatial distances for proteins within a complex [
+     ,
+     ]. Liu et al. introduced this principle using a MAC-tag (StrepIII-BirA*), enabling the integration of stoichiometric complexation information from AP-MS with the identification of transient or proximal interactions by BioID. D’Costa et al. also used a composite tag, but used it to perform both methods in parallel (enabling the comparison of identical (tagged) baits besides reducing cloning efforts) [
+     ].
+    </p>
+    <p>
+     Furthermore, it is important to consider that effectors with enzymatic activity might not form stable interactions with their substrates and that protein interactions with other macromolecules, such as lipids or DNA/RNA, should not be disregarded when considering pathogenesis mechanisms. Substitution of the described methodologies by other technologies to frame these interactions is thus desirable. Interestingly, BASU was recently reported to capture RNA-protein interactions using labeling times as short as 1 min [
+     ].
+    </p>
+    <p>
+     Implementing complementary MS-based strategies was proven very useful in distinguishing background from relevant PPIs. Integration of these rich host-pathogen interactomics datasets with knowledge of timing of effector expression, secretion, activity and (subcellular) localization will eventually enable us to shed better lights on bacterial pathogenesis.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

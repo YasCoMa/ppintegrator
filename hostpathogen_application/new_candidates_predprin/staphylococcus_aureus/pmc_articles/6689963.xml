@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  None
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    Salmonella
+   </italic>
+   species can infect a diverse range of birds, reptiles, and mammals, including humans. The type III protein secretion system (T3SS) encoded by
+   <italic>
+    Salmonella
+   </italic>
+   pathogenicity island 1 (SPI-1) delivers effector proteins required for intestinal invasion and the production of enteritis. The T3SS is regarded as the most important virulence factor of
+   <italic>
+    Salmonella
+   </italic>
+   . SPI-1 encodes transcription factors that regulate the expression of some virulence factors of
+   <italic>
+    Salmonella
+   </italic>
+   , while other transcription factors encoded outside SPI-1 participate in the expression of SPI-1-encoded genes. SPI-1 genes are responsible for the invasion of host cells, regulation of the host immune response, e.g., the host inflammatory response, immune cell recruitment and apoptosis, and biofilm formation. The regulatory network of SPI-1 is very complex and crucial. Here, we review the function, effectors, and regulation of SPI-1 genes and their contribution to the pathogenicity of
+   <italic>
+    Salmonella
+   </italic>
+   .
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="s1" sec-type="intro">
+    <title>
+     Introduction
+    </title>
+    <p>
+     The gram-negative bacterial genus
+     <italic>
+      Salmonella
+     </italic>
+     contains as many as six subspecies and more than 2,600 serovars, including numerous serovars pathogenic to humans and a variety of animals (LeLièvre et al.,     ). Salmonellosis, the most frequent foodborne disease in humans, usually results from contaminated water and food. Typhoid fever, caused by
+     <italic>
+      Salmonella enterica
+     </italic>
+     serovar Typhi infection, is still a major health problem, especially in the developing world with substandard water supplies and poor sanitation (Parry et al.,     ; Wain et al.,     ). Better characterization of
+     <italic>
+      Salmonella
+     </italic>
+     has become a hotspot issue. Pathogenic
+     <italic>
+      Salmonella
+     </italic>
+     species invade non-phagocytic intestinal epithelial cells by delivering a specialized set of effectors through sophisticated machinery comprising the type 3 secretion system (T3SS), which plays a crucial role in the pathogenesis of
+     <italic>
+      Salmonella
+     </italic>
+     (Que et al.,     ).
+     <italic>
+      Salmonella
+     </italic>
+     employs two T3SSs encoded by
+     <italic>
+      Salmonella
+     </italic>
+     pathogenicity island 1 (SPI-1) and
+     <italic>
+      Salmonella
+     </italic>
+     pathogenicity island 2 (SPI-2). SPI-1 is a gene cluster and consists of a 40-kb region, which includes 39 genes encoding T3SS-1 and its chaperones and effector proteins as well as some transcriptional regulators that control the expression of many virulence genes located within and outside SPI-1 (Hansen-Wester and Hensel,     ; Zhang K. et al.,     ). T3SS-1 of
+     <italic>
+      Salmonella
+     </italic>
+     can affect the phenotype, polarization and function of macrophages (Kyrova et al.,     ; Zhao et al.,     ). The ubiquity of SPI-1 is conserved and required for
+     <italic>
+      Salmonella
+     </italic>
+     virulence, demonstrated by its active role in the entry process. Further studies have revealed that the SPI-1-encoded T3SS has additional functions and that its regulatory network is very complex. This review focuses on the effect and the regulation of SPI-1 and the relationship between host immunology and SPI-1 in
+     <italic>
+      Salmonella
+     </italic>
+     .
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s2">
+    <title>
+     The Role of SPI-1
+    </title>
+    <p>
+     <italic>
+      Salmonella
+     </italic>
+     pathogenicity island 1 (SPI-1) plays a crucial role in the interaction between
+     <italic>
+      Salmonella
+     </italic>
+     and host cells. SPI-1 promotes
+     <italic>
+      Salmonella
+     </italic>
+     invasion into epithelial cells (Raffatellu et al.,     ). The T3SS is assembled from the proteins encoded by SPI-1 and is termed the needle complex. Translocases and effector proteins are delivered into host cells through the needle complex. The needle complex spans the bacterial envelope, and a needle-like extension protrudes from the bacterial inner and outer membranes to the host cell membranes (Kubori et al.,     ; Sukhan et al.,     ). There are several highly conserved proteins and an ATPase in the needle complex, and all of them are essential for secretion (     ). A sorting platform determines the order of protein secretion in the SPI-1 T3SS of
+     <italic>
+      Salmonella
+     </italic>
+     . The sorting platform consists of five proteins, SpaO, OrgA, OrgB, InvI, and the hexameric ATPase InvC, in
+     <italic>
+      Salmonella
+     </italic>
+     . Type III secretion chaperones are required for loading effectors and translocases onto the sorting platform (Lara-Tejero et al.,     ). The needle complex is composed of a multiple-ring cylindrical base. The needle complex base is initiated at the export apparatus, which is composed of the proteins InvA, SpaP, SpaQ, SpaR, and SpaS (Cornelis,     ; Galán and Wolf-Watz,     ; Minamino et al.,     ; Worrall et al.,     ). The export apparatus is essential to the assembly and/or the stability of the needle complex base (Wagner et al.,     ). Three proteins, InvG, which comprises the outer rings; PrgH, and PrgK, which are thought to form the rest of the structure, constitute the base with equimolar amounts. PrgI is the main component of the needle portion (Kubori et al.,     ; Marlovits et al.,     ; Schraidt et al.,     ). The length of the needle segment is controlled by the protein InvJ (Kubori et al.,     ). PrgJ forms an inner rod within the basal body and the needle is anchored by that inner rod, which forms a conduit between the bacterial cytoplasm and the host cell membrane (Galán and Wolf-Watz,     ). The needle tip structure is capped with SipD, which is secreted by a nascent T3SS filament. The tip protein SipD is stably bound at the tip of the needle formed by a polymer of the protein PrgI. The needle tip complex regulates the secretion of effectors from
+     <italic>
+      Salmonella
+     </italic>
+     into the host cell (Lunelli et al.,     ). Upon host cell contact, the protein SipD forms a platform for the translocon composed of the transmembrane proteins SipB and SipC and interacts with their N-terminal ectodomains (Lara-Tejero and Galán,     ; Kaur et al.,     ; Glasgow et al.,     ). SipB is a
+     <italic>
+      Salmonella
+     </italic>
+     translocon protein that is inserted into host membranes to form a channel associated with SipD at the needle tip, through which T3SS effectors are translocated into the host cell (Myeni et al.,     ; McShan et al.,     ). These translocons, encoded by
+     <italic>
+      Salmonella
+     </italic>
+     SPI-1, play an important role in both
+     <italic>
+      Salmonella
+     </italic>
+     contact with and invasion of host cells and the colonization of mammalian intestinal epithelial cells (Knodler and Steele-Mortimer,     ; Boyen et al.,     ; Sivula et al.,     ; Lara-Tejero and Galán,     ).
+    </p>
+    <p>
+     The SPI-1-encoded proteins are also required for the complex immune responses of host cells during
+     <italic>
+      Salmonella
+     </italic>
+     infection.
+     <italic>
+      Salmonella
+     </italic>
+     SPI-1 induces neutrophil recruitment during enteric colitis, leading to a reduction and alteration in intestinal microbiota (Sekirov et al.,     ). The SPI-1-encoded T3SS is required not only for cell invasion but also for suppression of early proinflammatory cytokine expression in macrophages, including that of IL-1β, IL-8, TNF-α, IL-23α, GM-CSF, and IL-18 (Pavlova et al.,     ). SPI-1 is involved in MHC-II downregulation and polarization to the M2 phenotype in macrophages (Kyrova et al.,     ; Van Parys et al.,     ; Zhao et al.,     ).
+     <italic>
+      Salmonella
+     </italic>
+     can cross the blood-brain barrier and reach various brain tissues because the SPI-1 and outer membrane protein A genes of
+     <italic>
+      Salmonella
+     </italic>
+     increase penetration of the blood-brain barrier (Chaudhuri et al.,     ).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s3">
+    <title>
+     The Effector Proteins of the SPI-1 T3SS
+    </title>
+    <p>
+     Many gram-negative bacterial pathogens use a T3SS to inject their own proteins, termed effectors, into host cells to modulate some cellular functions (Hueck,     ). Many SPI-1 effector proteins have been identified in
+     <italic>
+      Salmonella
+     </italic>
+     . These effectors play a variety of roles during
+     <italic>
+      Salmonella
+     </italic>
+     infection, including taking part in rearrangement of the host cytoskeleton, immune cell recruitment, cell metabolism, fluid secretion, and regulation of the host inflammatory response (Collier-Hyams et al.,     ; Brawn et al.,     ; Myeni et al.,     ). Several SPI-1 translocated effectors are responsible for the invasion of epithelial cells (Fu and Galán,     ; Hayward and Koronakis,     ; Mirold et al.,     ,     ).
+     <italic>
+      Salmonella
+     </italic>
+     expresses different SPI-1 effectors when colonizing specific tissues. The level and timing of the expression of these proteins determine the consequences of
+     <italic>
+      Salmonella
+     </italic>
+     infection and might be essential for tissue-specific aspects of its pathogenesis (Gong et al.,     ,     ). The differential stability of some effector proteins (SopE and SptP) is central to the regulation of the activity of bacterial effectors within host cells (Kubori and Galán,     ). We describe some of the effector proteins of SPI-1 T3SS and their functions below.
+    </p>
+    <p>
+     (1) AvrA
+    </p>
+    <p>
+     The virulence-associated gene
+     <italic>
+      avrA
+     </italic>
+     is located within SPI-1 and exists in most
+     <italic>
+      Salmonella
+     </italic>
+     strains (Amavisit et al.,     ). AvrA is a multifunctional enzyme and plays a critical role in inhibiting activation of the key proinflammatory NF-κB transcription factor and apoptosis via the JNK pathway (Collier-Hyams et al.,     ; Jones et al.,     ; Liao et al.,     ; Wu et al.,     ). It is phosphorylated in mammalian cells, and its phosphorylation requires the extracellular-regulated kinase (ERK) signaling pathway (Du and Galán,     ). AvrA promotes intestinal epithelial cell proliferation (Ye et al.,     ) and tumorigenesis (Lu et al.,     ) by blocking the degradation of IκBα and β-catenin. It enhances the development of infection-associated colon cancer by activating the STAT3 signaling pathway (Lu et al.,     ). AvrA expression in
+     <italic>
+      Salmonella
+     </italic>
+     stabilizes the structure and influences the function of tight junctions of intestinal epithelial cells via the JNK pathway, while its expression increases bacterial invasion ability and translocation (Liao et al.,     ; Lu et al.,     ; Lin et al.,     ).
+    </p>
+    <p>
+     (2) Sips
+    </p>
+    <p>
+     There are four
+     <italic>
+      Salmonella
+     </italic>
+     invasion proteins (Sips), namely, Sips A–D. These Sips are exported and translocated into the host cell plasma membrane or cytosol and play essential and complex roles in the secretion and translocation of SPI-1 effectors. SipA is an actin-binding protein and enhances the efficiency of the entry process of
+     <italic>
+      Salmonella
+     </italic>
+     into host cells by influencing different stages in the formation of membrane ruffles and rearrangement of the actin cytoskeleton (Zhou et al.,     ). SipA regulates the concentration, polymerization and stability of the actin molecules at the site of bacterial entry and increases the bundling activity of host cell fimbrin (Galan and Zhou,     ; McGhie et al.,     ,     ). SipA is not essential for uptake, but it enhances the efficiency of the entry process (Zhou et al.,     ). SipA is exposed on the cytoplasmic face of the
+     <italic>
+      Salmonella
+     </italic>
+     -containing vacuole (SCV) after
+     <italic>
+      Salmonella
+     </italic>
+     internalization in both non-phagocytic cells and macrophages, and it is involved in the regulation of phagosome maturation and intracellular
+     <italic>
+      Salmonella
+     </italic>
+     replication (Brawn et al.,     ). The N-terminal domain of SipA induces polymorphonuclear leukocyte recruitment (Lee et al.,     ; Wall et al.,     ). SipA causes the activation and release of caspase-3, which plays multiple roles in the immune response of host cells, including in apoptosis, differentiation, proliferation, immunomodulation, immune cell migration, and signal transduction (Srikanth et al.,     ; McIntosh et al.,     ). SipB, SipC, and SipD are translocon proteins that participate in the formation of the SPI-1 T3SS needle complex (     ; Zierler and Galán,     ; Collazo and Galán,     ; Scherer et al.,     ; Myeni and Zhou,     ; Myeni et al.,     ). SipB is necessary for
+     <italic>
+      Salmonella
+     </italic>
+     -induced caspase-1-dependent apoptosis and the release of IL-18 (Hersh et al.,     ; Dreher et al.,     ; Obregon et al.,     ). SipC is a
+     <italic>
+      Salmonella
+     </italic>
+     translocon protein that targets F-actin, which is necessary for pathogen internalization (Kaniga et al.,     ) and promotes
+     <italic>
+      Salmonella
+     </italic>
+     invasion. Antibodies against SipD inhibit
+     <italic>
+      Salmonella
+     </italic>
+     invasion, and SipD might be a potential target for blocking SPI-1-mediated virulence (Desin et al.,     ). The N-terminal domain of SipD promotes the secretion of effectors and functions at the post-transcriptional and post-translational levels (Glasgow et al.,     ).
+    </p>
+    <p>
+     (3) SptP
+    </p>
+    <p>
+     <italic>
+      Salmonella
+     </italic>
+     protein tyrosine phosphatase (SptP) was identified in 1996. The translocation of SptP to host cells results in the disruption of the cellular actin cytoskeleton (Kaniga et al.,     ; Fu and Galán,     ). However, SptP is directly responsible for the reversal of the actin cytoskeletal changes induced by other effectors of
+     <italic>
+      Salmonella
+     </italic>
+     via regulating villin phosphorylation (Fu and Galán,     ; Lhocine et al.,     ; Johnson et al.,     ). SptP translocation occurs during entry, when it downregulates membrane ruffling and then downmodulates ERK and mitogen-activated protein kinase (MAPK) activation and the secretion of proinflammatory cytokines induced by
+     <italic>
+      Salmonella
+     </italic>
+     entry (Kubori and Galán,     ; Lin et al.,     ; Eswarappa et al.,     ; Button and Galán,     ; Johnson et al.,     ). Protein SicP, which is immediately upstream of SptP, acts as a chaperone for SptP. Coupling of their translation is required for maximally efficient secretion of SptP (Fu and Galán,     ; Zhou and Galán,     ; Button and Galán,     ). SptP-mediated dephosphorylation of valosin-containing protein promotes
+     <italic>
+      Salmonella
+     </italic>
+     intracellular replication (Humphreys et al.,     ). SptP suppresses the degranulation and activation of mast cells, which enables bacterial dissemination. It is a powerful mechanism utilized by
+     <italic>
+      Salmonella
+     </italic>
+     to impede early innate immunity (Choi et al.,     ; Kawakami and Ando,     ).
+    </p>
+    <p>
+     (4) Sops
+    </p>
+    <p>
+     The
+     <italic>
+      Salmonella
+     </italic>
+     outer proteins (Sops) are effector proteins that consist of SopA, SopB, SopD, SopD2, SopE, and SopE2. Sops are involved in the control of different stages of polymorphonuclear leukocyte influx and rearrangement of the cytoskeleton (Wood et al.,     ,     ; Galyov et al.,     ; Jones et al.,     ; Bakshi et al.,     ; Boyle et al.,     ; Schlumberger and Hardt,     ), contribute to
+     <italic>
+      Salmonella
+     </italic>
+     invasion and are responsible for inducing inflammation and diarrhea (Wood et al.,     ; Raffatellu et al.,     ; Zhang et al.,     ).
+     <italic>
+      sopA, sopB
+     </italic>
+     , and
+     <italic>
+      sopE
+     </italic>
+     are regulated cooperatively by HilA and InvF (Thijs et al.,     ).
+    </p>
+    <p>
+     SopA can induce fluid secretion and the inflammatory response in
+     <italic>
+      Salmonella
+     </italic>
+     -infected intestines after being translocated into host cells (Wood et al.,     ). The stability and translocation of SopA requires the chaperone InvB (Ehrbar et al.,     ). Efficient bacterial escape from the SCV to the cytosol of epithelial cells requires HsRMA1-mediated SopA ubiquitination and contributes to
+     <italic>
+      Salmonella
+     </italic>
+     -induced enteropathogenicity. HsRMA1 is a membrane-bound ubiquitin E3 ligase, although SopA is an E3 ligase itself (Zhang et al.,     ,     ). SopA regulates innate immune responses by mediating the ubiquitination and proteasomal degradation of tripartite-motif containing (TRIM) E3 ligases (TRIM56 and TRIM65) (Kamanova et al.,     ; Fiskin et al.,     ).
+    </p>
+    <p>
+     SopB/SigD, an inositol phosphatase, is required for fluid and chloride secretion and neutrophil recruitment (Norris et al.,     ; Bertelsen et al.,     ). It mediates virulence by interdicting inositol phosphate signaling pathways and inducing Akt activation (Norris et al.,     ; Steele-Mortimer et al.,     ; Marcus et al.,     ). SopB/SigD also has antiapoptotic activity and is related to intracellular replication because of the sustainment of Akt activation (Knodler et al.,     ; Rodríguez-Escudero et al.,     ; García-Gil et al.,     ). SopB/SigD promotes membrane fission and damage to epithelial barrier function during invasion (Marcus et al.,     ; Terebiznik et al.,     ; Bertelsen et al.,     ). It stimulates nitric oxide (NO) production (Drecktrah et al.,     ).
+    </p>
+    <p>
+     SopD affects multiple signals and protein interactions and contributes to the systemic virulence of
+     <italic>
+      Salmonella
+     </italic>
+     and the development of gastroenteritis (Galyov et al.,     ; Jones et al.,     ; Galan and Zhou,     ; Boonyom et al.,     ). It is involved in membrane fission and macropinosome formation during
+     <italic>
+      Salmonella
+     </italic>
+     invasion, with cooperation from SopB (Bakowski et al.,     ). SopD and SopD2 promote bacterial replication in host cells and are related to the SCV (Jiang et al.,     ; Bakowski et al.,     ; Maserati et al.,     ). SopD2 contributes to
+     <italic>
+      Salmonella
+     </italic>
+     -induced filament formation (Jiang et al.,     ) and inhibits the vesicular transport and tubule formation that extend outward from the SCV (Schroeder et al.,     ).
+    </p>
+    <p>
+     SopE, a Rho GTPase exchange factor, induces rapid actin cytoskeleton rearrangements, membrane ruffling, and consequent pathogen macropinocytosis and promotes bacterial invasion (Wood et al.,     ; Hardt et al.,     ; Rudolph et al.,     ; Galán and Fu,     ; Mirold et al.,     ; Humphreys et al.,     ; Lim et al.,     ). SopE transiently localizes to the early SCV and contributes to intracellular replication (Vonaesch et al.,     ). SopE2, which is homologous to SopE, has similar mechanisms of action to those of SopE (Bakshi et al.,     ; Stender et al.,     ; Friebel et al.,     ; Mirold et al.,     ; Schlumberger and Hardt,     ). SopE is rapidly degraded by a proteasome-mediated pathway, whereas SptP is slowly degraded, which inactivates Cdc42 and Rac1 and thereby reverses SopB-, SopE-, and SopE2-signaling (Fu and Galán,     ; Kubori and Galán,     ; Van Engelenburg and Palmer,     ; Vonaesch et al.,     ). SopE induces the host to produce nitric oxide synthetase (iNOS) in the intestine, leading to intestinal inflammation (Bliska and van der Velden,     ).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s4">
+    <title>
+     The Regulation of SPI-1
+    </title>
+    <p>
+     <italic>
+      Salmonella
+     </italic>
+     pathogenicity island 1 (SPI-1) plays a crucial role not only in the colonization and invasion of
+     <italic>
+      Salmonella
+     </italic>
+     in the gut but also in the induction of neutrophil recruitment (Boyen et al.,     ). The regulation of the process involves many environmental stimuli and genetic regulators in complex networks (     ). Several transcriptional regulators (e.g., HilA, HilC, HilD, and InvF) are encoded by SPI-1. Induction of SPI-1 requires the expression of
+     <italic>
+      invF
+     </italic>
+     and
+     <italic>
+      hilA
+     </italic>
+     because they are transcriptional activators of SPI-1 genes (Altier,     ; Jones,     ; Ellermeier and Slauch,     ). The feed-forward regulatory loop of HilC–RtsA–HilD is the most important core part of the regulatory networks to control the transcription of
+     <italic>
+      hilA
+     </italic>
+     , while HilA is the central regulator of SPI-1 (Ellermeier et al.,     ; Dieye et al.,     ). HilA directly activates the expression of two SPI-1 genes (
+     <italic>
+      invF
+     </italic>
+     and
+     <italic>
+      sicA
+     </italic>
+     ) that encode SPI-1 T3SS apparatus components. InvF, a transcriptional activator of the AraC family, activates the expression of SPI-1 T3SS effectors encoded both inside and outside of SPI-1 (Darwin and Miller,     ; Eichelberg and Galán,     ). The activity of InvF requires SicA, which is also encoded within SPI-1 (Darwin and Miller,     ,     ). Each activator among HilC, RtsA, and HilD can bind to the
+     <italic>
+      hilA
+     </italic>
+     promoter to activate the expression of
+     <italic>
+      hilA
+     </italic>
+     , and HilA can also induce its own expression significantly as well as activate the other two regulators (Schechter and Lee,     ; Boddicker et al.,     ; Ellermeier et al.,     ). Furthermore, they can activate the expression of
+     <italic>
+      invF
+     </italic>
+     in a HilA-independent manner (Akbar et al.,     ; Baxter et al.,     ). HilE is the most important negative regulator of
+     <italic>
+      hilA
+     </italic>
+     expression. HilE represses the SPI-1 genes by binding to HilD, thus inactivating HilD and preventing the activation of HilA (Paredes-Amaya et al.,     ). Many other regulators can influence SPI-1 through interacting with the core network. Mlc, a global regulator of carbohydrate metabolism, controls several genes related to sugar utilization. Mlc downregulates
+     <italic>
+      hilE
+     </italic>
+     expression by binding to the
+     <italic>
+      hilE
+     </italic>
+     P3 promoter (Lim et al.,     ). SirA, a member of the phosphorylated response regulator protein family, positively regulates the HilD–HilC–RtsA–HilA network by activating HilA, HilC, or HilD (Behlau and Miller,     ; Johnston et al.,     ; Teplitski et al.,     ; Ellermeier and Slauch,     ). The action of BarA is coupled to SirA. In many studies, BarA/SirA is regarded as a two-component regulator that activates
+     <italic>
+      hilA
+     </italic>
+     expression and can also activate the
+     <italic>
+      invF
+     </italic>
+     gene without HilA involvement (Johnston et al.,     ; Rakeman et al.,     ; Altier et al.,     ; Teplitski et al.,     ). CsrA, a global regulatory RNA-binding protein, post-transcriptionally downregulates
+     <italic>
+      hilD
+     </italic>
+     expression by binding near the translation initiation codon sequences of the
+     <italic>
+      hilD
+     </italic>
+     mRNA directly, preventing HilD translation and leading to
+     <italic>
+      hilD
+     </italic>
+     mRNA turnover (Lucchetti-Miganeh et al.,     ; Martínez et al.,     ). The negative regulation is counteracted by the BarA/SirA two-component system, which directly activates the expression of
+     <italic>
+      csrB/C
+     </italic>
+     , two non-coding regulatory RNAs that sequester CsrA, thereby preventing CsrA from binding to its target mRNAs (Teplitski et al.,     ; Timmermans and Van Melderen,     ; Martínez et al.,     ,     ; Potts et al.,     ). H-NS is an abundant DNA-binding protein found in enteric bacteria, including
+     <italic>
+      Salmonella
+     </italic>
+     (Marsh and Hillyard,     ; Owen-Hughes et al.,     ). H-NS inhibits the core positive regulators of SPI-1, including HilA, HilD, and RtsA, thus inhibiting the expression of SPI-1 as well as that of many other A + T-rich genes or ancestral DNA (Van Velkinburgh and Gunn,     ; Lucchini et al.,     ; Navarre et al.,     ). The repression effect on
+     <italic>
+      rtsA
+     </italic>
+     is the most efficient among them. HilD, HilC, and RtsA bind to a common site in the rtsA promoter and antagonize H-NS-mediated repression (Schechter et al.,     ; Olekhnovich and Kadner,     ). Interestingly, H-NS also represses the promoters of
+     <italic>
+      leuO
+     </italic>
+     and
+     <italic>
+      hilE
+     </italic>
+     , which are regarded as negative regulatory genes. HilE downregulates the expression of SPI-1 by directly inactivating HilD (Baxter et al.,     ). LeuO, a LysR-type transcriptional regulator, has been identified as a
+     <italic>
+      Salmonella
+     </italic>
+     virulence factor through genetic screening (Tenor et al.,     ; Lawley et al.,     ). The regulatory effect of LeuO is concentration-dependent (Dillon et al.,     ; Hernández-Lucas and Calva,     ). LeuO is regarded as a transcriptional antagonist of H-NS because some genes repressed by H-NS can be activated by LeuO (Hernández-Lucas et al.,     ; Shimada et al.,     ). LeuO inhibits the expression of SPI-1 mainly by directly activating the promoter of
+     <italic>
+      hilE
+     </italic>
+     and via an unknown HilE-independent mechanism (Espinosa and Casadesús,     ). However, LeuO has also been suggested to play a backup role for H-NS. The inhibitory effect of LeuO on SPI-1 genes may occur under growth conditions where H-NS does not perform such activity (Fahlen et al.,     ). FliZ, a flagellar regulator, can inhibit the expression of the type-1 fimbrial gene through post-transcriptional regulation of FimZ. FimZ is a regulator known to facilitate fimbrial protein expression and to repress the expression of flagellar genes (Saini et al.,     ). FliZ post-transcriptionally controls HilD to upregulate
+     <italic>
+      hilA
+     </italic>
+     expression (Chubiz et al.,     ). FimZ enhances the expression of
+     <italic>
+      hilE
+     </italic>
+     , which negatively regulates
+     <italic>
+      hilD
+     </italic>
+     . FliZ and FimZ are negative regulators of each other (Baxter and Jones,     ).
+     <italic>
+      glnA
+     </italic>
+     , the glutamine synthetase gene, is essential for the growth and virulence of
+     <italic>
+      Salmonella
+     </italic>
+     because it upregulates FliZ, HilA, and HilD levels, improving the expression of SPI-1-associated effector genes, such as
+     <italic>
+      sopA, sopB, sopD
+     </italic>
+     , and
+     <italic>
+      invF
+     </italic>
+     (Aurass et al.,     ). The global regulatory system ArcAB promotes the expression of genes associated with the SPI-1 T3SS, such as
+     <italic>
+      invF, hilA
+     </italic>
+     , and
+     <italic>
+      sipC
+     </italic>
+     . It participates in
+     <italic>
+      Salmonella
+     </italic>
+     adaptation to changing oxygen levels. ArcAB is also involved in promoting bacterial intracellular survival (Lim et al.,     ; Pardo-Esté et al.,     ).
+    </p>
+    <p>
+     Because environmental changes, such as osmolarity, pH, and oxygen tension, influence the expression of
+     <italic>
+      hilA
+     </italic>
+     and because constitutive expression of
+     <italic>
+      hilA
+     </italic>
+     substantially frees invasion genes from the control of these environmental signals, it has been supposed that HilA plays a central role in the coordinated environmental regulatory effects of invasion genes (Bajaj et al.,     ). Bile, Mg     concentration and short-chain fatty acids can also regulate invasion (Altier,     ). Bile is produced continuously by the liver and is involved in the digestion and absorption of fats. Bile is stored in the gall bladder at high concentrations prior to release into the intestines and serves as an important environmental cue to upregulate virulence gene expression during infection within the host gastrointestinal tract.
+     <italic>
+      Salmonella
+     </italic>
+     controls the production of virulence factors following bile exposure. The bile presents different regulatory effects on the SPI-1 T3SS between non-typhoidal and typhoidal
+     <italic>
+      Salmonella
+     </italic>
+     . The expression and activity of the
+     <italic>
+      S. Typhimurium
+     </italic>
+     SPI-1 T3SS are repressed by bile via BarA/SirA (Prouty and Gunn,     ; Ellermeier and Slauch,     ), while those of
+     <italic>
+      S. Typhi
+     </italic>
+     are increased by bile via prolonging the half-life of HilD and increasing SipC, SipD, SopB, and SopE expression (Johnson et al.,     ). Both
+     <italic>
+      phoPQ
+     </italic>
+     and
+     <italic>
+      phoBR
+     </italic>
+     , two-component systems, are very important regulators of
+     <italic>
+      hilA
+     </italic>
+     expression. These environmental signals could influence the expression and phosphorylation of
+     <italic>
+      fimZ
+     </italic>
+     . Under conditions of low Mg     concentration, the PhoPQ regulon is activated, leading to the phosphorylation of FimZ with a subsequent increase in
+     <italic>
+      hilE
+     </italic>
+     expression. Under conditions of low phosphate, PhoBR is activated, which increases
+     <italic>
+      fimZ
+     </italic>
+     expression, thus upregulating
+     <italic>
+      hilE
+     </italic>
+     expression (Baxter and Jones,     ). The concentrations and composition of short-chain fatty acids regulate the SPI-1 T3SS via BarA/SirA (Lawhon et al.,     ). Propionate represses the SPI-1 T3SS by reducing the stability of HilD through post-translational modification (Hung et al.,     ). Lon protease, a negative regulator of SPI-1 genes, is important for the downregulation of
+     <italic>
+      hilA
+     </italic>
+     expression and intracellular survival after the invasion of epithelial cells through the degradation of HilC and HilD (Boddicker and Jones,     ; Takaya et al.,     ). LoiA directly represses
+     <italic>
+      lon
+     </italic>
+     expression to activate the expression of SPI-1 genes (Jiang et al.,     ,     ; Li et al.,     ).
+     <italic>
+      Salmonella
+     </italic>
+     can sense sugar availability by Mlc. The relatively high glucose concentration in the proximal small intestine can inhibit SPI-1 gene expression via Mlc, perhaps together with PhoBR and/or SirA (Agbor and McCormick,     ). Lysophosphatidylcholine released following caspase-1 activation in
+     <italic>
+      Salmonella
+     </italic>
+     -infected cells promotes the expression of Sips and HilA and increases
+     <italic>
+      Salmonella
+     </italic>
+     invasion of host cells, and it is regarded as a key component of a novel regulatory mechanism for the regulation of cellular invasion with pathogenic
+     <italic>
+      Salmonella
+     </italic>
+     (Shivcharan et al.,     ).
+    </p>
+    <p>
+     Some small molecule compounds have been found to have an effect on the regulation of SPI-1. Dimethyl sulfide inhibits the expression of multiple SPI-1-related genes, including
+     <italic>
+      hilA, invA, sopA, sopB
+     </italic>
+     , and
+     <italic>
+      sopE2
+     </italic>
+     (Antunes et al.,     ). L-arabinose, a plant-derived sugar, may serve as an inhibitory signal for SPI-1 of
+     <italic>
+      Salmonella
+     </italic>
+     by inhibiting the expression of
+     <italic>
+      hilD
+     </italic>
+     under certain circumstances (López-Garrido et al.,     ).
+     <italic>
+      Bifidobacterium thermophilum
+     </italic>
+     RBL67, a human fecal isolate, upregulates the expression of SPI-1-related genes of
+     <italic>
+      Salmonella
+     </italic>
+     , including
+     <italic>
+      sipB, sipD, prgI/H/K, invA/C/B/G/H, spaS/R/Q/P/O
+     </italic>
+     , and
+     <italic>
+      sicA/P
+     </italic>
+     . However, it also activates some genes located on SPI-2 and fimbrial genes, leading to redundant energy expenditure and protective activity against
+     <italic>
+      Salmonella
+     </italic>
+     infection (Tanner et al.,     ). Seaweed water extracts (
+     <italic>
+      Sarcodiotheca gaudichaudii
+     </italic>
+     and
+     <italic>
+      Chondrus crispus
+     </italic>
+     ) can suppress expression of the SPI-1-associated genes
+     <italic>
+      hilA, sipA
+     </italic>
+     , and
+     <italic>
+      invF
+     </italic>
+     and may also impart beneficial effects on animal and human health (Kulshreshtha et al.,     ). Cytosporone B can decrease the expression of
+     <italic>
+      hilC, hilD, rtsA, hilA, sipA
+     </italic>
+     , and
+     <italic>
+      sipC
+     </italic>
+     . It regulates the transcription of SPI-1-related genes through the Hha–H-NS–HilD–HilC–RtsA–HilA regulatory pathway and has potential benefits in anti-
+     <italic>
+      Salmonella
+     </italic>
+     drug discovery (Li et al.,     ). Sanguinarine chloride, a natural compound, downregulates the transcription of HilA and consequently decreases the production of SipA and SipB. Sanguinarine chloride inhibits the invasion of host cells by
+     <italic>
+      Salmonella
+     </italic>
+     . It is a putative SPI-1 inhibitor and could be a promising anti-
+     <italic>
+      Salmonella
+     </italic>
+     compound (Zhang Y. et al.,     ). Methylthioadenosine reduces the virulence of
+     <italic>
+      Salmonella
+     </italic>
+     by suppressing the expression of
+     <italic>
+      invF
+     </italic>
+     and
+     <italic>
+      sipB
+     </italic>
+     (Bourgeois et al.,     ). Some kinds of prenylated flavonoids show a strong inhibitory effect on the secretion of SPI-1 effector proteins through regulating the transcription of
+     <italic>
+      sicA
+     </italic>
+     /
+     <italic>
+      invF
+     </italic>
+     and the transportation of the effector proteins SipA/B/C/D (Guo et al.,     ). Baicalein, a specific flavonoid from
+     <italic>
+      Scutellaria baicalensis
+     </italic>
+     , targets SPI-1 effectors and translocases to inhibit
+     <italic>
+      Salmonella
+     </italic>
+     invasion. It does not suppress SPI-1-related proteins directly but affects the assembly, stability, or activity of their substrates (Tsou et al.,     ). Quercetin, another naturally occurring flavonoid, can also antagonize SPI-1 T3SS substrates of
+     <italic>
+      Salmonella
+     </italic>
+     (Tsou et al.,     ). Biochanin a, a major isoflavone constituent found in red clover, cabbage, alfalfa, and some other herbal dietary supplements, suppresses the expression of
+     <italic>
+      sipA, sipB, sipC, hilA
+     </italic>
+     , and
+     <italic>
+      hilD
+     </italic>
+     and reverses macrophage polarization via downregulating SPI-1 expression (Zhao et al.,     ). Indole, a microbial metabolite of tryptophan, inhibits
+     <italic>
+      Salmonella
+     </italic>
+     invasion by decreasing SPI-1-related gene expression, including that of
+     <italic>
+      hilA, prgH, invF
+     </italic>
+     , and
+     <italic>
+      sipC
+     </italic>
+     , via both PhoPQ-dependent and -independent mechanisms (Kohli et al.,     ). These compounds and medicines may have immunomodulatory effects on
+     <italic>
+      Salmonella
+     </italic>
+     -infected host cells and regulate their bactericidal activity. They might be promising candidates for novel types of anti-
+     <italic>
+      Salmonella
+     </italic>
+     drugs.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s5" sec-type="conclusions">
+    <title>
+     Conclusion
+    </title>
+    <p>
+     The virulence-associated SPI-1 has been widely explored in interactions between
+     <italic>
+      Salmonella
+     </italic>
+     and its hosts. SPI-1 affects the whole process of salmonellosis, including pathogen invasion, proliferation, and host responses. Greater insights into SPI-1 and its complex regulatory network might contribute to drug investigation and
+     <italic>
+      Salmonella
+     </italic>
+     infection control.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s6">
+    <title>
+     Author Contributions
+    </title>
+    <p>
+     YW conceived the general idea. LL, PZ, and RP conducted the literature study and wrote the draft manuscript. YW provided critical revision and final approval of the manuscript.
+    </p>
+    <sec>
+     <title>
+      Conflict of Interest Statement
+     </title>
+     <p>
+      The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

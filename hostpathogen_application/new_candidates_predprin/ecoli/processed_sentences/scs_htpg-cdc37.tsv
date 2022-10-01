@@ -1,0 +1,2 @@
+id_pmc	sentence location	highlighted phrase	interacting verbs	number of interacting verbs	experimental methods found	number of experimental methods	protein entities found	number of protein entities
+3854018	body	the ensemble of conformational htpg states was used in 3 - body docking of hsp90 - cdc37 - cdk4 complexes to partially mimic structural adaptability of the chaperone to binding with cdc37 and cdk4 .	complex|bind	2		0	htpg|cdc37|hsp90|cdk4|complexes	5

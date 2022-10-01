@@ -1,0 +1,719 @@
+Escherichia coli	GO:0005737	cytoplasm	691	0.2913
+Escherichia coli	GO:0005886	plasma membrane	493	0.2078
+Escherichia coli	GO:0016021	integral component of membrane	478	0.2015
+Escherichia coli	GO:0005618	cell wall	360	0.1518
+Escherichia coli	GO:0009279	cell outer membrane	56	0.0236
+Escherichia coli	GO:0005576	extracellular region	55	0.0232
+Escherichia coli	GO:0042597	periplasmic space	52	0.0219
+Escherichia coli	GO:0036125	fatty acid beta-oxidation multienzyme complex	35	0.0148
+Escherichia coli	GO:0046930	pore complex	33	0.0139
+Escherichia coli	GO:0005694	chromosome	33	0.0139
+Escherichia coli	GO:0009295	nucleoid	21	0.0089
+Escherichia coli	GO:0009986	cell surface	20	0.0084
+Escherichia coli	GO:0009289	pilus	16	0.0067
+Escherichia coli	GO:0005829	cytosol	10	0.0042
+Escherichia coli	GO:0009380	excinuclease repair complex	8	0.0034
+Escherichia coli	GO:0002189	ribose phosphate diphosphokinase complex	5	0.0021
+Escherichia coli	GO:0044165	host cell endoplasmic reticulum	3	0.0013
+Escherichia coli	GO:0044228	host cell surface	3	0.0013
+Homo sapiens	GO:0005829	cytosol	918	0.0761
+Homo sapiens	GO:0005634	nucleus	769	0.0637
+Homo sapiens	GO:0005654	nucleoplasm	750	0.0621
+Homo sapiens	GO:0005737	cytoplasm	634	0.0525
+Homo sapiens	GO:0005886	plasma membrane	438	0.0363
+Homo sapiens	GO:0070062	extracellular exosome	389	0.0322
+Homo sapiens	GO:0016020	membrane	291	0.0241
+Homo sapiens	GO:0032991	protein-containing complex	262	0.0217
+Homo sapiens	GO:0000785	chromatin	204	0.0169
+Homo sapiens	GO:0005576	extracellular region	199	0.0165
+Homo sapiens	GO:0005739	mitochondrion	163	0.0135
+Homo sapiens	GO:0005667	transcription regulator complex	131	0.0109
+Homo sapiens	GO:0048471	perinuclear region of cytoplasm	130	0.0108
+Homo sapiens	GO:0005615	extracellular space	121	0.0100
+Homo sapiens	GO:0005925	focal adhesion	112	0.0093
+Homo sapiens	GO:0005813	centrosome	106	0.0088
+Homo sapiens	GO:0000502	proteasome complex	103	0.0085
+Homo sapiens	GO:0005794	Golgi apparatus	100	0.0083
+Homo sapiens	GO:0005730	nucleolus	99	0.0082
+Homo sapiens	GO:0016607	nuclear speck	96	0.0080
+Homo sapiens	GO:0043231	intracellular membrane-bounded organelle	94	0.0078
+Homo sapiens	GO:0005783	endoplasmic reticulum	83	0.0069
+Homo sapiens	GO:0005887	integral component of plasma membrane	82	0.0068
+Homo sapiens	GO:0009986	cell surface	79	0.0065
+Homo sapiens	GO:0016605	PML body	74	0.0061
+Homo sapiens	GO:0016604	nuclear body	73	0.0060
+Homo sapiens	GO:0005789	endoplasmic reticulum membrane	72	0.0060
+Homo sapiens	GO:0005856	cytoskeleton	68	0.0056
+Homo sapiens	GO:0043025	neuronal cell body	67	0.0056
+Homo sapiens	GO:0045202	synapse	65	0.0054
+Homo sapiens	GO:0030425	dendrite	64	0.0053
+Homo sapiens	GO:0005759	mitochondrial matrix	62	0.0051
+Homo sapiens	GO:0045121	membrane raft	61	0.0051
+Homo sapiens	GO:0030424	axon	61	0.0051
+Homo sapiens	GO:0000139	Golgi membrane	60	0.0050
+Homo sapiens	GO:0005839	proteasome core complex	58	0.0048
+Homo sapiens	GO:0098978	glutamatergic synapse	57	0.0047
+Homo sapiens	GO:0090575	RNA polymerase II transcription regulator complex	56	0.0046
+Homo sapiens	GO:0043005	neuron projection	55	0.0046
+Homo sapiens	GO:0034751	aryl hydrocarbon receptor complex	51	0.0042
+Homo sapiens	GO:0005874	microtubule	51	0.0042
+Homo sapiens	GO:1990904	ribonucleoprotein complex	51	0.0042
+Homo sapiens	GO:0043235	receptor complex	50	0.0041
+Homo sapiens	GO:0016021	integral component of membrane	50	0.0041
+Homo sapiens	GO:1904813	ficolin-1-rich granule lumen	50	0.0041
+Homo sapiens	GO:0034774	secretory granule lumen	50	0.0041
+Homo sapiens	GO:0042470	melanosome	46	0.0038
+Homo sapiens	GO:0005768	endosome	46	0.0038
+Homo sapiens	GO:0014069	postsynaptic density	45	0.0037
+Homo sapiens	GO:0005769	early endosome	44	0.0036
+Homo sapiens	GO:0030027	lamellipodium	42	0.0035
+Homo sapiens	GO:0005665	RNA polymerase II, core complex	41	0.0034
+Homo sapiens	GO:0031410	cytoplasmic vesicle	40	0.0033
+Homo sapiens	GO:0010008	endosome membrane	38	0.0031
+Homo sapiens	GO:0062023	collagen-containing extracellular matrix	38	0.0031
+Homo sapiens	GO:0015629	actin cytoskeleton	37	0.0031
+Homo sapiens	GO:0031234	extrinsic component of cytoplasmic side of plasma membrane	36	0.0030
+Homo sapiens	GO:0043197	dendritic spine	36	0.0030
+Homo sapiens	GO:0016363	nuclear matrix	35	0.0029
+Homo sapiens	GO:0005938	cell cortex	34	0.0028
+Homo sapiens	GO:0005764	lysosome	34	0.0028
+Homo sapiens	GO:0019774	proteasome core complex, beta-subunit complex	33	0.0027
+Homo sapiens	GO:0030426	growth cone	33	0.0027
+Homo sapiens	GO:0005911	cell-cell junction	31	0.0026
+Homo sapiens	GO:0022626	cytosolic ribosome	30	0.0025
+Homo sapiens	GO:0030496	midbody	30	0.0025
+Homo sapiens	GO:0042995	cell projection	30	0.0025
+Homo sapiens	GO:0005788	endoplasmic reticulum lumen	30	0.0025
+Homo sapiens	GO:0072562	blood microparticle	30	0.0025
+Homo sapiens	GO:0016324	apical plasma membrane	30	0.0025
+Homo sapiens	GO:1990513	CLOCK-BMAL transcription complex	30	0.0025
+Homo sapiens	GO:0005743	mitochondrial inner membrane	29	0.0024
+Homo sapiens	GO:1904115	axon cytoplasm	29	0.0024
+Homo sapiens	GO:0005770	late endosome	28	0.0023
+Homo sapiens	GO:0044297	cell body	28	0.0023
+Homo sapiens	GO:0000932	P-body	28	0.0023
+Homo sapiens	GO:0005736	RNA polymerase I complex	27	0.0022
+Homo sapiens	GO:0005765	lysosomal membrane	26	0.0022
+Homo sapiens	GO:0000781	chromosome, telomeric region	26	0.0022
+Homo sapiens	GO:0045335	phagocytic vesicle	26	0.0022
+Homo sapiens	GO:0012505	endomembrane system	25	0.0021
+Homo sapiens	GO:0016323	basolateral plasma membrane	25	0.0021
+Homo sapiens	GO:0032587	ruffle membrane	25	0.0021
+Homo sapiens	GO:0098794	postsynapse	25	0.0021
+Homo sapiens	GO:0019773	proteasome core complex, alpha-subunit complex	25	0.0021
+Homo sapiens	GO:0031965	nuclear membrane	24	0.0020
+Homo sapiens	GO:0000307	cyclin-dependent protein kinase holoenzyme complex	24	0.0020
+Homo sapiens	GO:0005741	mitochondrial outer membrane	24	0.0020
+Homo sapiens	GO:0001650	fibrillar center	24	0.0020
+Homo sapiens	GO:0000786	nucleosome	24	0.0020
+Homo sapiens	GO:0005681	spliceosomal complex	24	0.0020
+Homo sapiens	GO:0008540	proteasome regulatory particle, base subcomplex	23	0.0019
+Homo sapiens	GO:0022624	proteasome accessory complex	23	0.0019
+Homo sapiens	GO:0031514	motile cilium	22	0.0018
+Homo sapiens	GO:0016234	inclusion body	22	0.0018
+Homo sapiens	GO:0071013	catalytic step 2 spliceosome	22	0.0018
+Homo sapiens	GO:0031982	vesicle	22	0.0018
+Homo sapiens	GO:0017053	transcription repressor complex	21	0.0017
+Homo sapiens	GO:0001726	ruffle	21	0.0017
+Homo sapiens	GO:0005657	replication fork	21	0.0017
+Homo sapiens	GO:0005635	nuclear envelope	21	0.0017
+Homo sapiens	GO:0008021	synaptic vesicle	21	0.0017
+Homo sapiens	GO:0031901	early endosome membrane	20	0.0017
+Homo sapiens	GO:0036064	ciliary basal body	20	0.0017
+Homo sapiens	GO:0043202	lysosomal lumen	20	0.0017
+Homo sapiens	GO:0000439	transcription factor TFIIH core complex	20	0.0017
+Homo sapiens	GO:0005675	transcription factor TFIIH holo complex	20	0.0017
+Homo sapiens	GO:0030670	phagocytic vesicle membrane	20	0.0017
+Homo sapiens	GO:0035861	site of double-strand break	20	0.0017
+Homo sapiens	GO:0005669	transcription factor TFIID complex	20	0.0017
+Homo sapiens	GO:0005796	Golgi lumen	19	0.0016
+Homo sapiens	GO:0032993	protein-DNA complex	19	0.0016
+Homo sapiens	GO:0030054	cell junction	18	0.0015
+Homo sapiens	GO:0030141	secretory granule	18	0.0015
+Homo sapiens	GO:0022627	cytosolic small ribosomal subunit	18	0.0015
+Homo sapiens	GO:0015630	microtubule cytoskeleton	18	0.0015
+Homo sapiens	GO:0005815	microtubule organizing center	18	0.0015
+Homo sapiens	GO:0005901	caveola	18	0.0015
+Homo sapiens	GO:0101031	chaperone complex	18	0.0015
+Homo sapiens	GO:0043204	perikaryon	18	0.0015
+Homo sapiens	GO:0005929	cilium	18	0.0015
+Homo sapiens	GO:0009897	external side of plasma membrane	18	0.0015
+Homo sapiens	GO:0030669	clathrin-coated endocytic vesicle membrane	17	0.0014
+Homo sapiens	GO:0000151	ubiquitin ligase complex	17	0.0014
+Homo sapiens	GO:0005694	chromosome	17	0.0014
+Homo sapiens	GO:0030175	filopodium	17	0.0014
+Homo sapiens	GO:0036464	cytoplasmic ribonucleoprotein granule	17	0.0014
+Homo sapiens	GO:0005666	RNA polymerase III complex	17	0.0014
+Homo sapiens	GO:0000438	core TFIIH complex portion of holo TFIIH complex	17	0.0014
+Homo sapiens	GO:0005871	kinesin complex	17	0.0014
+Homo sapiens	GO:0043195	terminal bouton	17	0.0014
+Homo sapiens	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	16	0.0013
+Homo sapiens	GO:0055038	recycling endosome membrane	16	0.0013
+Homo sapiens	GO:0098685	Schaffer collateral - CA1 synapse	16	0.0013
+Homo sapiens	GO:0035578	azurophil granule lumen	16	0.0013
+Homo sapiens	GO:0016592	mediator complex	16	0.0013
+Homo sapiens	GO:1990062	RPAP3/R2TP/prefoldin-like complex	16	0.0013
+Homo sapiens	GO:0097550	transcription preinitiation complex	16	0.0013
+Homo sapiens	GO:0009898	cytoplasmic side of plasma membrane	16	0.0013
+Homo sapiens	GO:0031012	extracellular matrix	15	0.0012
+Homo sapiens	GO:0032154	cleavage furrow	15	0.0012
+Homo sapiens	GO:0005802	trans-Golgi network	15	0.0012
+Homo sapiens	GO:0034752	cytosolic aryl hydrocarbon receptor complex	15	0.0012
+Homo sapiens	GO:0005832	chaperonin-containing T-complex	15	0.0012
+Homo sapiens	GO:0033391	chromatoid body	15	0.0012
+Homo sapiens	GO:0005912	adherens junction	14	0.0012
+Homo sapiens	GO:0046658	anchored component of plasma membrane	14	0.0012
+Homo sapiens	GO:0030666	endocytic vesicle membrane	14	0.0012
+Homo sapiens	GO:0016235	aggresome	14	0.0012
+Homo sapiens	GO:0072686	mitotic spindle	14	0.0012
+Homo sapiens	GO:0070776	MOZ/MORF histone acetyltransferase complex	14	0.0012
+Homo sapiens	GO:0033162	melanosome membrane	14	0.0012
+Homo sapiens	GO:0097546	ciliary base	14	0.0012
+Homo sapiens	GO:0005844	polysome	14	0.0012
+Homo sapiens	GO:1990111	spermatoproteasome complex	13	0.0011
+Homo sapiens	GO:0005923	bicellular tight junction	13	0.0011
+Homo sapiens	GO:0015935	small ribosomal subunit	13	0.0011
+Homo sapiens	GO:0000812	Swr1 complex	13	0.0011
+Homo sapiens	GO:0098793	presynapse	13	0.0011
+Homo sapiens	GO:0071682	endocytic vesicle lumen	13	0.0011
+Homo sapiens	GO:0005902	microvillus	13	0.0011
+Homo sapiens	GO:0002199	zona pellucida receptor complex	13	0.0011
+Homo sapiens	GO:0009925	basal plasma membrane	12	0.0010
+Homo sapiens	GO:0055037	recycling endosome	12	0.0010
+Homo sapiens	GO:0022625	cytosolic large ribosomal subunit	12	0.0010
+Homo sapiens	GO:0030667	secretory granule membrane	12	0.0010
+Homo sapiens	GO:0098993	anchored component of synaptic vesicle membrane	12	0.0010
+Homo sapiens	GO:0005811	lipid droplet	12	0.0010
+Homo sapiens	GO:1905370	serine-type endopeptidase complex	11	0.0009
+Homo sapiens	GO:0005905	clathrin-coated pit	11	0.0009
+Homo sapiens	GO:0000118	histone deacetylase complex	11	0.0009
+Homo sapiens	GO:0016581	NuRD complex	11	0.0009
+Homo sapiens	GO:0000776	kinetochore	11	0.0009
+Homo sapiens	GO:0000922	spindle pole	11	0.0009
+Homo sapiens	GO:0005819	spindle	11	0.0009
+Homo sapiens	GO:0005758	mitochondrial intermembrane space	11	0.0009
+Homo sapiens	GO:0005776	autophagosome	11	0.0009
+Homo sapiens	GO:0070847	core mediator complex	11	0.0009
+Homo sapiens	GO:0044295	axonal growth cone	11	0.0009
+Homo sapiens	GO:0000791	euchromatin	11	0.0009
+Homo sapiens	GO:0005952	cAMP-dependent protein kinase complex	11	0.0009
+Homo sapiens	GO:0005814	centriole	10	0.0008
+Homo sapiens	GO:0042383	sarcolemma	10	0.0008
+Homo sapiens	GO:0005884	actin filament	10	0.0008
+Homo sapiens	GO:0080008	Cul4-RING E3 ubiquitin ligase complex	10	0.0008
+Homo sapiens	GO:0031252	cell leading edge	10	0.0008
+Homo sapiens	GO:0030659	cytoplasmic vesicle membrane	10	0.0008
+Homo sapiens	GO:0031594	neuromuscular junction	10	0.0008
+Homo sapiens	GO:0001725	stress fiber	9	0.0007
+Homo sapiens	GO:0005604	basement membrane	9	0.0007
+Homo sapiens	GO:0045211	postsynaptic membrane	9	0.0007
+Homo sapiens	GO:0044294	dendritic growth cone	9	0.0007
+Homo sapiens	GO:0034663	endoplasmic reticulum chaperone complex	9	0.0007
+Homo sapiens	GO:0097225	sperm midpiece	9	0.0007
+Homo sapiens	GO:0005947	mitochondrial alpha-ketoglutarate dehydrogenase complex	9	0.0007
+Homo sapiens	GO:0031902	late endosome membrane	9	0.0007
+Homo sapiens	GO:0005790	smooth endoplasmic reticulum	9	0.0007
+Homo sapiens	GO:0044853	plasma membrane raft	9	0.0007
+Homo sapiens	GO:0034451	centriolar satellite	8	0.0007
+Homo sapiens	GO:0045177	apical part of cell	8	0.0007
+Homo sapiens	GO:0030672	synaptic vesicle membrane	8	0.0007
+Homo sapiens	GO:0043679	axon terminus	8	0.0007
+Homo sapiens	GO:0005643	nuclear pore	8	0.0007
+Homo sapiens	GO:0035267	NuA4 histone acetyltransferase complex	8	0.0007
+Homo sapiens	GO:0071339	MLL1 complex	8	0.0007
+Homo sapiens	GO:0002102	podosome	8	0.0007
+Homo sapiens	GO:1990565	HSP90-CDC37 chaperone complex	8	0.0007
+Homo sapiens	GO:0001669	acrosomal vesicle	8	0.0007
+Homo sapiens	GO:0005697	telomerase holoenzyme complex	8	0.0007
+Homo sapiens	GO:0005682	U5 snRNP	8	0.0007
+Homo sapiens	GO:0046540	U4/U6 x U5 tri-snRNP complex	8	0.0007
+Homo sapiens	GO:0070821	tertiary granule membrane	8	0.0007
+Homo sapiens	GO:0042645	mitochondrial nucleoid	7	0.0006
+Homo sapiens	GO:0016580	Sin3 complex	7	0.0006
+Homo sapiens	GO:0030018	Z disc	7	0.0006
+Homo sapiens	GO:0001931	uropod	7	0.0006
+Homo sapiens	GO:0031597	cytosolic proteasome complex	7	0.0006
+Homo sapiens	GO:0033018	sarcoplasmic reticulum lumen	7	0.0006
+Homo sapiens	GO:0031011	Ino80 complex	7	0.0006
+Homo sapiens	GO:0097255	R2TP complex	7	0.0006
+Homo sapiens	GO:0033116	endoplasmic reticulum-Golgi intermediate compartment membrane	7	0.0006
+Homo sapiens	GO:0005687	U4 snRNP	7	0.0006
+Homo sapiens	GO:0010494	cytoplasmic stress granule	7	0.0006
+Homo sapiens	GO:0030017	sarcomere	7	0.0006
+Homo sapiens	GO:0099523	presynaptic cytosol	7	0.0006
+Homo sapiens	GO:0031588	nucleotide-activated protein kinase complex	7	0.0006
+Homo sapiens	GO:0035579	specific granule membrane	7	0.0006
+Homo sapiens	GO:0034719	SMN-Sm protein complex	7	0.0006
+Homo sapiens	GO:0035631	CD40 receptor complex	7	0.0006
+Homo sapiens	GO:0031093	platelet alpha granule lumen	6	0.0005
+Homo sapiens	GO:0097708	intracellular vesicle	6	0.0005
+Homo sapiens	GO:0035098	ESC/E(Z) complex	6	0.0005
+Homo sapiens	GO:0051233	spindle midzone	6	0.0005
+Homo sapiens	GO:1990909	Wnt signalosome	6	0.0005
+Homo sapiens	GO:0031430	M band	6	0.0005
+Homo sapiens	GO:0005875	microtubule associated complex	6	0.0005
+Homo sapiens	GO:0030864	cortical actin cytoskeleton	6	0.0005
+Homo sapiens	GO:0043209	myelin sheath	6	0.0005
+Homo sapiens	GO:0000794	condensed nuclear chromosome	6	0.0005
+Homo sapiens	GO:0001772	immunological synapse	6	0.0005
+Homo sapiens	GO:0016281	eukaryotic translation initiation factor 4F complex	6	0.0005
+Homo sapiens	GO:0001673	male germ cell nucleus	6	0.0005
+Homo sapiens	GO:0098797	plasma membrane protein complex	6	0.0005
+Homo sapiens	GO:0032585	multivesicular body membrane	6	0.0005
+Homo sapiens	GO:0030139	endocytic vesicle	6	0.0005
+Homo sapiens	GO:0070971	endoplasmic reticulum exit site	6	0.0005
+Homo sapiens	GO:0099056	integral component of presynaptic membrane	6	0.0005
+Homo sapiens	GO:0071944	cell periphery	6	0.0005
+Homo sapiens	GO:0005798	Golgi-associated vesicle	6	0.0005
+Homo sapiens	GO:0008305	integrin complex	6	0.0005
+Homo sapiens	GO:0000792	heterochromatin	6	0.0005
+Homo sapiens	GO:0035580	specific granule lumen	6	0.0005
+Homo sapiens	GO:0071005	U2-type precatalytic spliceosome	6	0.0005
+Homo sapiens	GO:0031966	mitochondrial membrane	6	0.0005
+Homo sapiens	GO:0043596	nuclear replication fork	6	0.0005
+Homo sapiens	GO:0030176	integral component of endoplasmic reticulum membrane	5	0.0004
+Homo sapiens	GO:0005834	heterotrimeric G-protein complex	5	0.0004
+Homo sapiens	GO:0000795	synaptonemal complex	5	0.0004
+Homo sapiens	GO:0097431	mitotic spindle pole	5	0.0004
+Homo sapiens	GO:0005778	peroxisomal membrane	5	0.0004
+Homo sapiens	GO:0034045	phagophore assembly site membrane	5	0.0004
+Homo sapiens	GO:0045334	clathrin-coated endocytic vesicle	5	0.0004
+Homo sapiens	GO:0031143	pseudopodium	5	0.0004
+Homo sapiens	GO:0031256	leading edge membrane	5	0.0004
+Homo sapiens	GO:0031904	endosome lumen	5	0.0004
+Homo sapiens	GO:0031527	filopodium membrane	5	0.0004
+Homo sapiens	GO:0045111	intermediate filament cytoskeleton	5	0.0004
+Homo sapiens	GO:0099524	postsynaptic cytosol	5	0.0004
+Homo sapiens	GO:0097165	nuclear stress granule	5	0.0004
+Homo sapiens	GO:0019897	extrinsic component of plasma membrane	5	0.0004
+Homo sapiens	GO:0070532	BRCA1-B complex	5	0.0004
+Homo sapiens	GO:0043203	axon hillock	5	0.0004
+Homo sapiens	GO:0042567	insulin-like growth factor ternary complex	5	0.0004
+Homo sapiens	GO:0016328	lateral plasma membrane	5	0.0004
+Homo sapiens	GO:0030140	trans-Golgi network transport vesicle	5	0.0004
+Homo sapiens	GO:0031253	cell projection membrane	5	0.0004
+Homo sapiens	GO:0045171	intercellular bridge	5	0.0004
+Homo sapiens	GO:0030133	transport vesicle	5	0.0004
+Homo sapiens	GO:0005954	calcium- and calmodulin-dependent protein kinase complex	5	0.0004
+Homo sapiens	GO:1904949	ATPase complex	5	0.0004
+Homo sapiens	GO:0019898	extrinsic component of membrane	5	0.0004
+Homo sapiens	GO:0036126	sperm flagellum	5	0.0004
+Homo sapiens	GO:0001405	PAM complex, Tim23 associated import motor	5	0.0004
+Homo sapiens	GO:0032009	early phagosome	5	0.0004
+Homo sapiens	GO:0031526	brush border membrane	5	0.0004
+Homo sapiens	GO:1990913	sperm head plasma membrane	5	0.0004
+Homo sapiens	GO:1990917	ooplasm	5	0.0004
+Homo sapiens	GO:0043625	delta DNA polymerase complex	5	0.0004
+Homo sapiens	GO:0097487	multivesicular body, internal vesicle	5	0.0004
+Homo sapiens	GO:0005637	nuclear inner membrane	5	0.0004
+Homo sapiens	GO:0005652	nuclear lamina	5	0.0004
+Homo sapiens	GO:0036513	Derlin-1 retrotranslocation complex	4	0.0003
+Homo sapiens	GO:0019005	SCF ubiquitin ligase complex	4	0.0003
+Homo sapiens	GO:0031307	integral component of mitochondrial outer membrane	4	0.0003
+Homo sapiens	GO:0000407	phagophore assembly site	4	0.0003
+Homo sapiens	GO:0008076	voltage-gated potassium channel complex	4	0.0003
+Homo sapiens	GO:0000322	storage vacuole	4	0.0003
+Homo sapiens	GO:0017119	Golgi transport complex	4	0.0003
+Homo sapiens	GO:0097440	apical dendrite	4	0.0003
+Homo sapiens	GO:0032588	trans-Golgi network membrane	4	0.0003
+Homo sapiens	GO:0005838	proteasome regulatory particle	4	0.0003
+Homo sapiens	GO:0012506	vesicle membrane	4	0.0003
+Homo sapiens	GO:0000242	pericentriolar material	4	0.0003
+Homo sapiens	GO:0098684	photoreceptor ribbon synapse	4	0.0003
+Homo sapiens	GO:0035577	azurophil granule membrane	4	0.0003
+Homo sapiens	GO:0099061	integral component of postsynaptic density membrane	4	0.0003
+Homo sapiens	GO:0005745	m-AAA complex	4	0.0003
+Homo sapiens	GO:0005757	mitochondrial permeability transition pore complex	4	0.0003
+Homo sapiens	GO:0072687	meiotic spindle	4	0.0003
+Homo sapiens	GO:0034704	calcium channel complex	4	0.0003
+Homo sapiens	GO:0097542	ciliary tip	4	0.0003
+Homo sapiens	GO:1903561	extracellular vesicle	4	0.0003
+Homo sapiens	GO:0005840	ribosome	4	0.0003
+Homo sapiens	GO:0032593	insulin-responsive compartment	4	0.0003
+Homo sapiens	GO:0000109	nucleotide-excision repair complex	4	0.0003
+Homo sapiens	GO:0032473	cytoplasmic side of mitochondrial outer membrane	4	0.0003
+Homo sapiens	GO:0032839	dendrite cytoplasm	4	0.0003
+Homo sapiens	GO:0044753	amphisome	4	0.0003
+Homo sapiens	GO:0044754	autolysosome	4	0.0003
+Homo sapiens	GO:0099400	caveola neck	4	0.0003
+Homo sapiens	GO:0016533	protein kinase 5 complex	4	0.0003
+Homo sapiens	GO:0036477	somatodendritic compartment	4	0.0003
+Homo sapiens	GO:0005683	U7 snRNP	4	0.0003
+Homo sapiens	GO:0005685	U1 snRNP	4	0.0003
+Homo sapiens	GO:0005686	U2 snRNP	4	0.0003
+Homo sapiens	GO:0005689	U12-type spliceosomal complex	4	0.0003
+Homo sapiens	GO:0030532	small nuclear ribonucleoprotein complex	4	0.0003
+Homo sapiens	GO:0034709	methylosome	4	0.0003
+Homo sapiens	GO:0034715	pICln-Sm protein complex	4	0.0003
+Homo sapiens	GO:0071007	U2-type catalytic step 2 spliceosome	4	0.0003
+Homo sapiens	GO:0071011	precatalytic spliceosome	4	0.0003
+Homo sapiens	GO:0005640	nuclear outer membrane	4	0.0003
+Homo sapiens	GO:0097129	cyclin D2-CDK4 complex	4	0.0003
+Homo sapiens	GO:0071159	NF-kappaB complex	4	0.0003
+Homo sapiens	GO:0030016	myofibril	4	0.0003
+Homo sapiens	GO:0008385	IkappaB kinase complex	4	0.0003
+Homo sapiens	GO:1902494	catalytic complex	4	0.0003
+Homo sapiens	GO:0005771	multivesicular body	4	0.0003
+Homo sapiens	GO:0098554	cytoplasmic side of endoplasmic reticulum membrane	4	0.0003
+Homo sapiens	GO:0101003	ficolin-1-rich granule membrane	4	0.0003
+Homo sapiens	GO:0070557	PCNA-p21 complex	4	0.0003
+Homo sapiens	GO:0033017	sarcoplasmic reticulum membrane	4	0.0003
+Homo sapiens	GO:0070435	Shc-EGFR complex	3	0.0002
+Homo sapiens	GO:0097489	multivesicular body, internal vesicle lumen	3	0.0002
+Homo sapiens	GO:0097128	cyclin D1-CDK4 complex	3	0.0002
+Homo sapiens	GO:0097124	cyclin A2-CDK2 complex	3	0.0002
+Homo sapiens	GO:0097134	cyclin E1-CDK2 complex	3	0.0002
+Homo sapiens	GO:0019907	cyclin-dependent protein kinase activating kinase holoenzyme complex	3	0.0002
+Homo sapiens	GO:0070516	CAK-ERCC2 complex	3	0.0002
+Homo sapiens	GO:0070985	transcription factor TFIIK complex	3	0.0002
+Homo sapiens	GO:0044233	mitochondria-associated endoplasmic reticulum membrane	3	0.0002
+Homo sapiens	GO:0035097	histone methyltransferase complex	3	0.0002
+Homo sapiens	GO:0030061	mitochondrial crista	3	0.0002
+Homo sapiens	GO:0034666	integrin alpha2-beta1 complex	3	0.0002
+Homo sapiens	GO:0099091	postsynaptic specialization, intracellular component	3	0.0002
+Homo sapiens	GO:0099092	postsynaptic density, intracellular component	3	0.0002
+Homo sapiens	GO:0097381	photoreceptor disc membrane	3	0.0002
+Homo sapiens	GO:0043194	axon initial segment	3	0.0002
+Homo sapiens	GO:0017146	NMDA selective glutamate receptor complex	3	0.0002
+Homo sapiens	GO:0034515	proteasome storage granule	3	0.0002
+Homo sapiens	GO:0016010	dystrophin-associated glycoprotein complex	3	0.0002
+Homo sapiens	GO:0030478	actin cap	3	0.0002
+Homo sapiens	GO:0035253	ciliary rootlet	3	0.0002
+Homo sapiens	GO:0106002	mCRD-mediated mRNA stability complex	3	0.0002
+Homo sapiens	GO:0060053	neurofilament cytoskeleton	3	0.0002
+Homo sapiens	GO:0090724	central region of growth cone	3	0.0002
+Homo sapiens	GO:1905360	GTPase complex	3	0.0002
+Homo sapiens	GO:0031464	Cul4A-RING E3 ubiquitin ligase complex	3	0.0002
+Homo sapiens	GO:0005721	pericentric heterochromatin	3	0.0002
+Homo sapiens	GO:0005795	Golgi stack	3	0.0002
+Homo sapiens	GO:0097441	basal dendrite	3	0.0002
+Homo sapiens	GO:0000346	transcription export complex	3	0.0002
+Homo sapiens	GO:0005688	U6 snRNP	3	0.0002
+Homo sapiens	GO:0031595	nuclear proteasome complex	3	0.0002
+Homo sapiens	GO:0030136	clathrin-coated vesicle	3	0.0002
+Homo sapiens	GO:0098982	GABA-ergic synapse	3	0.0002
+Homo sapiens	GO:0000974	Prp19 complex	3	0.0002
+Homo sapiens	GO:0061202	clathrin-sculpted gamma-aminobutyric acid transport vesicle membrane	3	0.0002
+Homo sapiens	GO:0098575	lumenal side of lysosomal membrane	3	0.0002
+Homo sapiens	GO:0098690	glycinergic synapse	3	0.0002
+Homo sapiens	GO:0099634	postsynaptic specialization membrane	3	0.0002
+Homo sapiens	GO:0045120	pronucleus	3	0.0002
+Homo sapiens	GO:0045178	basal part of cell	3	0.0002
+Homo sapiens	GO:0070877	microprocessor complex	3	0.0002
+Homo sapiens	GO:0060076	excitatory synapse	3	0.0002
+Homo sapiens	GO:0097060	synaptic membrane	3	0.0002
+Homo sapiens	GO:0030992	intraciliary transport particle B	3	0.0002
+Homo sapiens	GO:0000228	nuclear chromosome	3	0.0002
+Homo sapiens	GO:0000800	lateral element	3	0.0002
+Homo sapiens	GO:0031422	RecQ family helicase-topoisomerase III complex	3	0.0002
+Homo sapiens	GO:0042101	T cell receptor complex	3	0.0002
+Homo sapiens	GO:0097038	perinuclear endoplasmic reticulum	3	0.0002
+Homo sapiens	GO:0005801	cis-Golgi network	3	0.0002
+Homo sapiens	GO:0005791	rough endoplasmic reticulum	3	0.0002
+Homo sapiens	GO:0001750	photoreceptor outer segment	3	0.0002
+Homo sapiens	GO:0033093	Weibel-Palade body	3	0.0002
+Homo sapiens	GO:0070382	exocytic vesicle	3	0.0002
+Homo sapiens	GO:0043292	contractile fiber	3	0.0002
+Homo sapiens	GO:0098559	cytoplasmic side of early endosome membrane	3	0.0002
+Homo sapiens	GO:0098842	postsynaptic early endosome	3	0.0002
+Homo sapiens	GO:0038143	ERBB3:ERBB2 complex	3	0.0002
+Homo sapiens	GO:0034098	VCP-NPL4-UFD1 AAA ATPase complex	3	0.0002
+Homo sapiens	GO:1990730	VCP-NSFL1C complex	3	0.0002
+Homo sapiens	GO:0008250	oligosaccharyltransferase complex	3	0.0002
+Homo sapiens	GO:0036128	CatSper complex	3	0.0002
+Homo sapiens	GO:0005967	mitochondrial pyruvate dehydrogenase complex	3	0.0002
+Homo sapiens	GO:0045254	pyruvate dehydrogenase complex	3	0.0002
+Homo sapiens	GO:0005885	Arp2/3 protein complex	3	0.0002
+Homo sapiens	GO:0097386	glial cell projection	3	0.0002
+Homo sapiens	GO:0005773	vacuole	3	0.0002
+Homo sapiens	GO:0032797	SMN complex	3	0.0002
+Homo sapiens	GO:0090571	RNA polymerase II transcription repressor complex	3	0.0002
+Homo sapiens	GO:0097504	Gemini of coiled bodies	3	0.0002
+Homo sapiens	GO:0090543	Flemming body	3	0.0002
+Homo sapiens	GO:0071141	SMAD protein complex	3	0.0002
+Homo sapiens	GO:0071144	heteromeric SMAD protein complex	3	0.0002
+Homo sapiens	GO:0001401	SAM complex	3	0.0002
+Homo sapiens	GO:0140275	MIB complex	3	0.0002
+Homo sapiens	GO:0097130	cyclin D3-CDK4 complex	3	0.0002
+Homo sapiens	GO:0042734	presynaptic membrane	3	0.0002
+Homo sapiens	GO:0000808	origin recognition complex	3	0.0002
+Homo sapiens	GO:0005664	nuclear origin of replication recognition complex	3	0.0002
+Homo sapiens	GO:0099738	cell cortex region	3	0.0002
+Homo sapiens	GO:0014704	intercalated disc	3	0.0002
+Homo sapiens	GO:0097443	sorting endosome	3	0.0002
+Homo sapiens	GO:0030894	replisome	3	0.0002
+Homo sapiens	GO:0043626	PCNA complex	3	0.0002
+Homo sapiens	GO:0008622	epsilon DNA polymerase complex	3	0.0002
+Homo sapiens	GO:0030658	transport vesicle membrane	2	0.0002
+Homo sapiens	GO:0071942	XPC complex	2	0.0002
+Homo sapiens	GO:0044214	spanning component of plasma membrane	2	0.0002
+Homo sapiens	GO:0044322	endoplasmic reticulum quality control compartment	2	0.0002
+Homo sapiens	GO:0015030	Cajal body	2	0.0002
+Homo sapiens	GO:0097123	cyclin A1-CDK2 complex	2	0.0002
+Homo sapiens	GO:0000940	outer kinetochore	2	0.0002
+Homo sapiens	GO:0046930	pore complex	2	0.0002
+Homo sapiens	GO:0030877	beta-catenin destruction complex	2	0.0002
+Homo sapiens	GO:0048188	Set1C/COMPASS complex	2	0.0002
+Homo sapiens	GO:0061702	inflammasome complex	2	0.0002
+Homo sapiens	GO:0097180	serine protease inhibitor complex	2	0.0002
+Homo sapiens	GO:0099512	supramolecular fiber	2	0.0002
+Homo sapiens	GO:0001891	phagocytic cup	2	0.0002
+Homo sapiens	GO:0030124	AP-4 adaptor complex	2	0.0002
+Homo sapiens	GO:0016013	syntrophin complex	2	0.0002
+Homo sapiens	GO:0030055	cell-substrate junction	2	0.0002
+Homo sapiens	GO:0043034	costamere	2	0.0002
+Homo sapiens	GO:0044306	neuron projection terminus	2	0.0002
+Homo sapiens	GO:0001741	XY body	2	0.0002
+Homo sapiens	GO:0043198	dendritic shaft	2	0.0002
+Homo sapiens	GO:0000152	nuclear ubiquitin ligase complex	2	0.0002
+Homo sapiens	GO:0031436	BRCA1-BARD1 complex	2	0.0002
+Homo sapiens	GO:0070531	BRCA1-A complex	2	0.0002
+Homo sapiens	GO:0070533	BRCA1-C complex	2	0.0002
+Homo sapiens	GO:0031313	extrinsic component of endosome membrane	2	0.0002
+Homo sapiens	GO:0042382	paraspeckles	2	0.0002
+Homo sapiens	GO:0070021	transforming growth factor beta ligand-receptor complex	2	0.0002
+Homo sapiens	GO:0036057	slit diaphragm	2	0.0002
+Homo sapiens	GO:0043505	CENP-A containing nucleosome	2	0.0002
+Homo sapiens	GO:0031088	platelet dense granule membrane	2	0.0002
+Homo sapiens	GO:0042589	zymogen granule membrane	2	0.0002
+Homo sapiens	GO:0031201	SNARE complex	2	0.0002
+Homo sapiens	GO:0032580	Golgi cisterna membrane	2	0.0002
+Homo sapiens	GO:0043220	Schmidt-Lanterman incisure	2	0.0002
+Homo sapiens	GO:0097452	GAIT complex	2	0.0002
+Homo sapiens	GO:0001917	photoreceptor inner segment	2	0.0002
+Homo sapiens	GO:0030135	coated vesicle	2	0.0002
+Homo sapiens	GO:0046696	lipopolysaccharide receptor complex	2	0.0002
+Homo sapiens	GO:0042824	MHC class I peptide loading complex	2	0.0002
+Homo sapiens	GO:0071556	integral component of lumenal side of endoplasmic reticulum membrane	2	0.0002
+Homo sapiens	GO:0070765	gamma-secretase complex	2	0.0002
+Homo sapiens	GO:0033256	I-kappaB/NF-kappaB complex	2	0.0002
+Homo sapiens	GO:0005760	gamma DNA polymerase complex	2	0.0002
+Homo sapiens	GO:0031941	filamentous actin	2	0.0002
+Homo sapiens	GO:0031616	spindle pole centrosome	2	0.0002
+Homo sapiens	GO:0000421	autophagosome membrane	2	0.0002
+Homo sapiens	GO:0032419	extrinsic component of lysosome membrane	2	0.0002
+Homo sapiens	GO:0097208	alveolar lamellar body	2	0.0002
+Homo sapiens	GO:0030660	Golgi-associated vesicle membrane	2	0.0002
+Homo sapiens	GO:0034707	chloride channel complex	2	0.0002
+Homo sapiens	GO:0031258	lamellipodium membrane	2	0.0002
+Homo sapiens	GO:0008541	proteasome regulatory particle, lid subcomplex	2	0.0002
+Homo sapiens	GO:0032420	stereocilium	2	0.0002
+Homo sapiens	GO:0036021	endolysosome lumen	2	0.0002
+Homo sapiens	GO:1904724	tertiary granule lumen	2	0.0002
+Homo sapiens	GO:0097132	cyclin D2-CDK6 complex	2	0.0002
+Homo sapiens	GO:0005899	insulin receptor complex	2	0.0002
+Homo sapiens	GO:0030315	T-tubule	2	0.0002
+Homo sapiens	GO:0035867	alphav-beta3 integrin-IGF-1-IGF1R complex	2	0.0002
+Homo sapiens	GO:1902911	protein kinase complex	2	0.0002
+Homo sapiens	GO:0005881	cytoplasmic microtubule	2	0.0002
+Homo sapiens	GO:0030526	granulocyte macrophage colony-stimulating factor receptor complex	2	0.0002
+Homo sapiens	GO:0071006	U2-type catalytic step 1 spliceosome	2	0.0002
+Homo sapiens	GO:0098800	inner mitochondrial membrane protein complex	2	0.0002
+Homo sapiens	GO:0099617	matrix side of mitochondrial inner membrane	2	0.0002
+Homo sapiens	GO:0031225	anchored component of membrane	2	0.0002
+Homo sapiens	GO:0019815	B cell receptor complex	2	0.0002
+Homo sapiens	GO:0031528	microvillus membrane	2	0.0002
+Homo sapiens	GO:0035866	alphav-beta3 integrin-PKCalpha complex	2	0.0002
+Homo sapiens	GO:0099055	integral component of postsynaptic membrane	2	0.0002
+Homo sapiens	GO:0032045	guanyl-nucleotide exchange factor complex	2	0.0002
+Homo sapiens	GO:0097730	non-motile cilium	2	0.0002
+Homo sapiens	GO:0034399	nuclear periphery	2	0.0002
+Homo sapiens	GO:0070721	ISGF3 complex	2	0.0002
+Homo sapiens	GO:0005726	perichromatin fibrils	2	0.0002
+Homo sapiens	GO:0016442	RISC complex	2	0.0002
+Homo sapiens	GO:0042788	polysomal ribosome	2	0.0002
+Homo sapiens	GO:0070578	RISC-loading complex	2	0.0002
+Homo sapiens	GO:0070937	CRD-mediated mRNA stability complex	2	0.0002
+Homo sapiens	GO:0005865	striated muscle thin filament	2	0.0002
+Homo sapiens	GO:0031674	I band	2	0.0002
+Homo sapiens	GO:1990733	titin-telethonin complex	2	0.0002
+Homo sapiens	GO:0061827	sperm head	2	0.0002
+Homo sapiens	GO:0098981	cholinergic synapse	2	0.0002
+Homo sapiens	GO:1902636	kinociliary basal body	2	0.0002
+Homo sapiens	GO:0032444	activin responsive factor complex	2	0.0002
+Homo sapiens	GO:0005584	collagen type I trimer	2	0.0002
+Homo sapiens	GO:0071797	LUBAC complex	2	0.0002
+Homo sapiens	GO:0016600	flotillin complex	2	0.0002
+Homo sapiens	GO:0098837	postsynaptic recycling endosome	2	0.0002
+Homo sapiens	GO:0005955	calcineurin complex	2	0.0002
+Homo sapiens	GO:0043159	acrosomal matrix	2	0.0002
+Homo sapiens	GO:0045252	oxoglutarate dehydrogenase complex	2	0.0002
+Homo sapiens	GO:0097228	sperm principal piece	2	0.0002
+Homo sapiens	GO:0031931	TORC1 complex	2	0.0002
+Homo sapiens	GO:0031932	TORC2 complex	2	0.0002
+Homo sapiens	GO:0034689	integrin alphaX-beta2 complex	2	0.0002
+Homo sapiens	GO:0035770	ribonucleoprotein granule	2	0.0002
+Homo sapiens	GO:0005677	chromatin silencing complex	2	0.0002
+Homo sapiens	GO:0097125	cyclin B1-CDK1 complex	2	0.0002
+Homo sapiens	GO:0005673	transcription factor TFIIE complex	2	0.0002
+Homo sapiens	GO:1990712	HFE-transferrin receptor complex	2	0.0002
+Homo sapiens	GO:0060170	ciliary membrane	2	0.0002
+Homo sapiens	GO:0001939	female pronucleus	2	0.0002
+Homo sapiens	GO:0001940	male pronucleus	2	0.0002
+Homo sapiens	GO:0005876	spindle microtubule	2	0.0002
+Homo sapiens	GO:0032433	filopodium tip	2	0.0002
+Homo sapiens	GO:0000793	condensed chromosome	1	0.0001
+Homo sapiens	GO:0000805	X chromosome	1	0.0001
+Homo sapiens	GO:0000806	Y chromosome	1	0.0001
+Homo sapiens	GO:0097135	cyclin E2-CDK2 complex	1	0.0001
+Homo sapiens	GO:0005742	mitochondrial outer membrane translocase complex	1	0.0001
+Homo sapiens	GO:0098992	neuronal dense core vesicle	1	0.0001
+Homo sapiens	GO:0099544	perisynaptic space	1	0.0001
+Homo sapiens	GO:0097629	extrinsic component of omegasome membrane	1	0.0001
+Homo sapiens	GO:0097632	extrinsic component of phagophore assembly site membrane	1	0.0001
+Homo sapiens	GO:0097635	extrinsic component of autophagosome membrane	1	0.0001
+Homo sapiens	GO:1990316	Atg1/ULK1 kinase complex	1	0.0001
+Homo sapiens	GO:0034358	plasma lipoprotein particle	1	0.0001
+Homo sapiens	GO:0071014	post-mRNA release spliceosomal complex	1	0.0001
+Homo sapiens	GO:0018444	translation release factor complex	1	0.0001
+Homo sapiens	GO:0000775	chromosome, centromeric region	1	0.0001
+Homo sapiens	GO:0000779	condensed chromosome, centromeric region	1	0.0001
+Homo sapiens	GO:0000939	inner kinetochore	1	0.0001
+Homo sapiens	GO:0030131	clathrin adaptor complex	1	0.0001
+Homo sapiens	GO:0016528	sarcoplasm	1	0.0001
+Homo sapiens	GO:0120157	PAR polarity complex	1	0.0001
+Homo sapiens	GO:0071065	alpha9-beta1 integrin-vascular cell adhesion molecule-1 complex	1	0.0001
+Homo sapiens	GO:0031089	platelet dense granule lumen	1	0.0001
+Homo sapiens	GO:0030117	membrane coat	1	0.0001
+Homo sapiens	GO:0098835	presynaptic endocytic zone membrane	1	0.0001
+Homo sapiens	GO:0005797	Golgi medial cisterna	1	0.0001
+Homo sapiens	GO:0012507	ER to Golgi transport vesicle membrane	1	0.0001
+Homo sapiens	GO:0042612	MHC class I protein complex	1	0.0001
+Homo sapiens	GO:0032059	bleb	1	0.0001
+Homo sapiens	GO:0099059	integral component of presynaptic active zone membrane	1	0.0001
+Homo sapiens	GO:0042564	NLS-dependent protein nuclear import complex	1	0.0001
+Homo sapiens	GO:0140535	intracellular protein-containing complex	1	0.0001
+Homo sapiens	GO:0031362	anchored component of external side of plasma membrane	1	0.0001
+Homo sapiens	GO:0033268	node of Ranvier	1	0.0001
+Homo sapiens	GO:0044224	juxtaparanode region of axon	1	0.0001
+Homo sapiens	GO:0099025	anchored component of postsynaptic membrane	1	0.0001
+Homo sapiens	GO:0032133	chromosome passenger complex	1	0.0001
+Homo sapiens	GO:0042585	germinal vesicle	1	0.0001
+Homo sapiens	GO:0016589	NURF complex	1	0.0001
+Homo sapiens	GO:0033186	CAF-1 complex	1	0.0001
+Homo sapiens	GO:0031264	death-inducing signaling complex	1	0.0001
+Homo sapiens	GO:0097342	ripoptosome	1	0.0001
+Homo sapiens	GO:0016514	SWI/SNF complex	1	0.0001
+Homo sapiens	GO:0071564	npBAF complex	1	0.0001
+Homo sapiens	GO:0071565	nBAF complex	1	0.0001
+Homo sapiens	GO:0031226	intrinsic component of plasma membrane	1	0.0001
+Homo sapiens	GO:0070160	tight junction	1	0.0001
+Homo sapiens	GO:0034667	integrin alpha3-beta1 complex	1	0.0001
+Homo sapiens	GO:1990812	growth cone filopodium	1	0.0001
+Homo sapiens	GO:0042641	actomyosin	1	0.0001
+Homo sapiens	GO:1902937	inward rectifier potassium channel complex	1	0.0001
+Homo sapiens	GO:0044291	cell-cell contact zone	1	0.0001
+Homo sapiens	GO:0033596	TSC1-TSC2 complex	1	0.0001
+Homo sapiens	GO:0008023	transcription elongation factor complex	1	0.0001
+Homo sapiens	GO:0097197	tetraspanin-enriched microdomain	1	0.0001
+Homo sapiens	GO:0034683	integrin alphav-beta3 complex	1	0.0001
+Homo sapiens	GO:0034684	integrin alphav-beta5 complex	1	0.0001
+Homo sapiens	GO:0034685	integrin alphav-beta6 complex	1	0.0001
+Homo sapiens	GO:0034686	integrin alphav-beta8 complex	1	0.0001
+Homo sapiens	GO:0035868	alphav-beta3 integrin-HMGB1 complex	1	0.0001
+Homo sapiens	GO:0099154	serotonergic synapse	1	0.0001
+Homo sapiens	GO:0106068	SUMO ligase complex	1	0.0001
+Homo sapiens	GO:1990234	transferase complex	1	0.0001
+Homo sapiens	GO:1990356	sumoylated E2 ligase complex	1	0.0001
+Homo sapiens	GO:0030868	smooth endoplasmic reticulum membrane	1	0.0001
+Homo sapiens	GO:0072559	NLRP3 inflammasome complex	1	0.0001
+Homo sapiens	GO:0030673	axolemma	1	0.0001
+Homo sapiens	GO:0044304	main axon	1	0.0001
+Homo sapiens	GO:0045298	tubulin complex	1	0.0001
+Homo sapiens	GO:0097418	neurofibrillary tangle	1	0.0001
+Homo sapiens	GO:0016035	zeta DNA polymerase complex	1	0.0001
+Homo sapiens	GO:0000159	protein phosphatase type 2A complex	1	0.0001
+Homo sapiens	GO:1990876	cytoplasmic side of nuclear pore	1	0.0001
+Homo sapiens	GO:0042405	nuclear inclusion body	1	0.0001
+Homo sapiens	GO:0043657	host cell	1	0.0001
+Homo sapiens	GO:0044615	nuclear pore nuclear basket	1	0.0001
+Homo sapiens	GO:0097136	Bcl-2 family protein complex	1	0.0001
+Homo sapiens	GO:0098637	protein complex involved in cell-matrix adhesion	1	0.0001
+Homo sapiens	GO:0032982	myosin filament	1	0.0001
+Homo sapiens	GO:0005782	peroxisomal matrix	1	0.0001
+Homo sapiens	GO:1990391	DNA repair complex	1	0.0001
+Homo sapiens	GO:0070310	ATR-ATRIP complex	1	0.0001
+Homo sapiens	GO:0032156	septin cytoskeleton	1	0.0001
+Homo sapiens	GO:0000243	commitment complex	1	0.0001
+Homo sapiens	GO:0071004	U2-type prespliceosome	1	0.0001
+Homo sapiens	GO:0089701	U2AF complex	1	0.0001
+Homo sapiens	GO:1990851	Wnt-Frizzled-LRP5/6 complex	1	0.0001
+Homo sapiens	GO:0036488	CHOP-C/EBP complex	1	0.0001
+Homo sapiens	GO:1990617	CHOP-ATF4 complex	1	0.0001
+Homo sapiens	GO:1990622	CHOP-ATF3 complex	1	0.0001
+Homo sapiens	GO:0071142	homomeric SMAD protein complex	1	0.0001
+Homo sapiens	GO:0035749	myelin sheath adaxonal region	1	0.0001
+Homo sapiens	GO:0048788	cytoskeleton of presynaptic active zone	1	0.0001
+Homo sapiens	GO:0016602	CCAAT-binding factor complex	1	0.0001
+Homo sapiens	GO:1902562	H4 histone acetyltransferase complex	1	0.0001
+Homo sapiens	GO:0098686	hippocampal mossy fiber to CA3 synapse	1	0.0001
+Homo sapiens	GO:0030134	COPII-coated ER to Golgi transport vesicle	1	0.0001
+Homo sapiens	GO:0098666	G protein-coupled serotonin receptor complex	1	0.0001
+Homo sapiens	GO:0031232	extrinsic component of external side of plasma membrane	1	0.0001
+Homo sapiens	GO:0034366	spherical high-density lipoprotein particle	1	0.0001
+Homo sapiens	GO:1905286	serine-type peptidase complex	1	0.0001
+Homo sapiens	GO:0036053	glomerular endothelium fenestra	1	0.0001
+Homo sapiens	GO:0016939	kinesin II complex	1	0.0001
+Homo sapiens	GO:0005942	phosphatidylinositol 3-kinase complex	1	0.0001
+Homo sapiens	GO:0005943	phosphatidylinositol 3-kinase complex, class IA	1	0.0001
+Homo sapiens	GO:0005944	phosphatidylinositol 3-kinase complex, class IB	1	0.0001
+Homo sapiens	GO:0070369	beta-catenin-TCF7L2 complex	1	0.0001
+Homo sapiens	GO:0071664	catenin-TCF7L2 complex	1	0.0001
+Homo sapiens	GO:1990907	beta-catenin-TCF complex	1	0.0001
+Homo sapiens	GO:0005601	classical-complement-pathway C3/C5 convertase complex	1	0.0001
+Homo sapiens	GO:0005774	vacuolar membrane	1	0.0001
+Homo sapiens	GO:0016327	apicolateral plasma membrane	1	0.0001
+Homo sapiens	GO:0044530	supraspliceosomal complex	1	0.0001
+Homo sapiens	GO:0032021	NELF complex	1	0.0001
+Homo sapiens	GO:0001518	voltage-gated sodium channel complex	1	0.0001
+Homo sapiens	GO:0042406	extrinsic component of endoplasmic reticulum membrane	1	0.0001
+Homo sapiens	GO:1990124	messenger ribonucleoprotein complex	1	0.0001
+Homo sapiens	GO:0032998	Fc-epsilon receptor I complex	1	0.0001
+Homo sapiens	GO:0043083	synaptic cleft	1	0.0001
+Homo sapiens	GO:1990604	IRE1-TRAF2-ASK1 complex	1	0.0001
+Homo sapiens	GO:0005868	cytoplasmic dynein complex	1	0.0001
+Homo sapiens	GO:0030286	dynein complex	1	0.0001
+Homo sapiens	GO:0031233	intrinsic component of external side of plasma membrane	1	0.0001
+Homo sapiens	GO:0034687	integrin alphaL-beta2 complex	1	0.0001
+Homo sapiens	GO:0034688	integrin alphaM-beta2 complex	1	0.0001
+Homo sapiens	GO:0035976	transcription factor AP-1 complex	1	0.0001
+Homo sapiens	GO:0097224	sperm connecting piece	1	0.0001
+Homo sapiens	GO:0005672	transcription factor TFIIA complex	1	0.0001
+Homo sapiens	GO:0042105	alpha-beta T cell receptor complex	1	0.0001
+Homo sapiens	GO:0031905	early endosome lumen	1	0.0001
+Homo sapiens	GO:0070436	Grb2-EGFR complex	1	0.0001
+Homo sapiens	GO:0097268	cytoophidium	1	0.0001
+Homo sapiens	GO:0044194	cytolytic granule	1	0.0001
+Homo sapiens	GO:0060473	cortical granule	1	0.0001
+Homo sapiens	GO:0005869	dynactin complex	1	0.0001
+Homo sapiens	GO:0005956	protein kinase CK2 complex	1	0.0001
+Homo sapiens	GO:0000164	protein phosphatase type 1 complex	1	0.0001
+Homo sapiens	GO:0072357	PTW/PP1 phosphatase complex	1	0.0001
+Homo sapiens	GO:0005903	brush border	1	0.0001
+Homo sapiens	GO:0005744	TIM23 mitochondrial import inner membrane translocase complex	1	0.0001
+Homo sapiens	GO:0031305	integral component of mitochondrial inner membrane	1	0.0001
+Homo sapiens	GO:0048179	activin receptor complex	1	0.0001
+Homo sapiens	GO:0042583	chromaffin granule	1	0.0001
+Homo sapiens	GO:1990682	CSF1-CSF1R complex	1	0.0001
+Homo sapiens	GO:0005852	eukaryotic translation initiation factor 3 complex	1	0.0001
+Homo sapiens	GO:0016282	eukaryotic 43S preinitiation complex	1	0.0001
+Homo sapiens	GO:0033290	eukaryotic 48S preinitiation complex	1	0.0001
+Homo sapiens	GO:0071541	eukaryotic translation initiation factor 3 complex, eIF3m	1	0.0001
+Homo sapiens	GO:0030173	integral component of Golgi membrane	1	0.0001
+Homo sapiens	GO:0035748	myelin sheath abaxonal region	1	0.0001
+Homo sapiens	GO:0045179	apical cortex	1	0.0001
+Homo sapiens	GO:0030904	retromer complex	1	0.0001
+Homo sapiens	GO:0030906	retromer, cargo-selective complex	1	0.0001
+Homo sapiens	GO:0097422	tubular endosome	1	0.0001
+Homo sapiens	GO:0099073	mitochondrion-derived vesicle	1	0.0001
+Homo sapiens	GO:0097413	Lewy body	1	0.0001
+Homo sapiens	GO:0097449	astrocyte projection	1	0.0001
+Homo sapiens	GO:0030127	COPII vesicle coat	1	0.0001
+Homo sapiens	GO:0036019	endolysosome	1	0.0001
+Homo sapiens	GO:0042599	lamellar body	1	0.0001
+Staphylococcus aureus	GO:0005576	extracellular region	54	0.5567
+Staphylococcus aureus	GO:0005737	cytoplasm	43	0.4433
+Pseudomonas aeruginosa	GO:0016021	integral component of membrane	81	1.0000
+Mycobacterium tuberculosis	GO:0005737	cytoplasm	42	0.8750
+Mycobacterium tuberculosis	GO:0005886	plasma membrane	3	0.0625
+Mycobacterium tuberculosis	GO:0016021	integral component of membrane	3	0.0625

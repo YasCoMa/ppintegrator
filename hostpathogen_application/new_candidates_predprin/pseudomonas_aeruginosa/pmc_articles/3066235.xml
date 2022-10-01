@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Modified Needle-Tip PcrV Proteins Reveal Distinct Phenotypes Relevant to the Control of Type III Secretion and Intoxication by
+ </title>
+ <abstract>
+  <p>
+   The type III secretion system (T3SS) is employed to deliver effector proteins to the cytosol of eukaryotic hosts by multiple species of Gram-negative bacteria, including
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   . Translocation of effectors is dependent on the proteins encoded by the
+   <italic>
+    pcrGVHpopBD
+   </italic>
+   operon. These proteins form a T3S translocator complex, composed of a needle-tip complex (PcrV), translocons (PopB and PopD), and chaperones (PcrG and PcrH). PcrV mediates the folding and insertion of PopB/PopD in host plasmic membranes, where assembled translocons form a translocation channel. Assembly of this complex and delivery of effectors through this machinery is tightly controlled by PcrV, yet the multifunctional aspects of this molecule have not been defined. In addition, PcrV is a protective antigen for
+   <italic>
+    P. aeruginosa
+   </italic>
+   infection as is the ortholog, LcrV, for
+   <italic>
+    Yersinia
+   </italic>
+   . We constructed PcrV derivatives containing in-frame linker insertions and site-specific mutations. The expression of these derivatives was regulated by a T3S-specific promoter in a
+   <italic>
+    pcrV
+   </italic>
+   -null mutant of PA103. Nine derivatives disrupted the regulation of effector secretion and constitutively released an effector protein into growth medium. Three of these regulatory mutants, in which the linker was inserted in the N-terminal globular domain, were competent for the translocation of a cytotoxin, ExoU, into eukaryotic host cells. We also isolated strains expressing a delayed-toxicity phenotype, which secrete translocators slowly despite the normal level of effector secretion. Most of the cytotoxic translocation-competent strains retained the protective epitope of PcrV derivatives, and Mab166 was able to protect erythrocytes during infection with these strains. The use of defined PcrV derivatives possessing distinct phenotypes may lead to a better understanding of the functional aspects of T3 needle-tip proteins and the development of therapeutic agents or vaccines targeting T3SS-mediated intoxication.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="s1">
+    <title>
+     Introduction
+    </title>
+    <p>
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     is a Gram-negative opportunistic pathogen responsible for severe nosocomial pneumonias, acute infections of immunocompromised individuals, and chronic infections of cystic fibrosis patients
+     ,
+     . Morbidity and mortality is due to a combination of host factors, the severity of tissue injury, and the intrinsic resistance displayed by
+     <italic>
+      P. aeruginosa
+     </italic>
+     to many therapeutic drugs
+     ,
+     . A major virulence factor used by
+     <italic>
+      P. aeruginosa
+     </italic>
+     during infection is the type III secretion system (T3SS)
+     ,
+     –
+     . Many Gram-negative pathogens employ T3SSs, which can be likened to a molecular syringe, to inject toxins directly into eukaryotic cells
+     ,
+     . Four known
+     <italic>
+      P. aeruginosa
+     </italic>
+     T3SS toxins, ExoS, ExoT, ExoU, and ExoY, have been identified to date. ExoS and ExoT interfere with eukaryotic cell signaling pathways and host cytoskeletal architecture by their bifunctional Rho GAP and ADP-ribosyltransferase activities
+     –
+     . ExoU functions as a phospholipase A
+     <sub>
+      2
+     </sub>
+     . ExoY is an adenylyl cyclase that shares homology to the edema factor of the anthrax toxin
+     . Of the four identified effectors, ExoU and ExoS are cytotoxic. The intracellular delivery of these enzymes and their interaction with eukaryotic cofactors is highly correlated with the dissemination of bacteria from the initial sites of infection and the induction of sepsis
+     ,
+     –
+     .
+    </p>
+    <p>
+     The
+     <italic>
+      P. aeruginosa
+     </italic>
+     T3SS components (Psc) belong to the family of proteins that include orthologs encoded by
+     <italic>
+      Yersinia
+     </italic>
+     (Ysc) and by
+     <italic>
+      Aeromonas
+     </italic>
+     (Asc)
+     –
+     . Intoxication of mammalian cells by
+     <italic>
+      P. aeruginosa
+     </italic>
+     requires the products of the
+     <italic>
+      pcrGVHpopBD
+     </italic>
+     operon
+     ,
+     ,
+     . PcrV, PopB, and PopD are classified as translocators and mediate the injection of the effectors into eukaryotic cells or contact-dependent lysis of erythrocytes
+     –
+     . PopB and PopD are hydrophobic proteins that interact with or insert into membrane lipids, forming a channel called the translocon
+     ,
+     ,
+     . The translocon assembly is necessary for delivery of T3S effectors across the eukaryotic plasma membrane into the cytosolic compartment (reviewed in
+     ,
+     ,
+     ). PcrV is a hydrophilic protein forming the T3-needle tip complex, which is required for appropriate assembly and insertion of PopB and PopD into host membranes
+     ,
+     . Strains carrying a
+     <italic>
+      pcrV
+     </italic>
+     -null mutation are noncytotoxic due to the inability to assemble the translocon
+     ,
+     . Complementation with a wild-type copy of the gene restores type III translocation and cytotoxicity. These results suggest that PcrV is involved in the regulation of effector translocation
+     .
+    </p>
+    <p>
+     Of these translocator proteins only PcrV is an important protective antigen against T3SS-mediated
+     <italic>
+      Pseudomonas
+     </italic>
+     infection
+     –
+     . Active immunization with recombinant PcrV protects mice from lethal infection even under induced-leukocytopenia conditions
+     ,
+     . Passive protection against cellular intoxication, lung injury, and bacteremia due to
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection in animal models was demonstrated with polyclonal antiserum or affinity-purified antibodies, a monoclonal antibody (Mab166), and a humanized F(ab′)
+     <sub>
+      2
+     </sub>
+     single chain antibody against PcrV
+     ,
+     ,
+     ,
+     . These data provide further evidence for the critical role of PcrV in translocation events and suggest that PcrV is exposed on the bacterial surface rendering it accessible to antibody neutralization.
+    </p>
+    <p>
+     In this study we used an unbiased genetic approach to further define the functional domains of PcrV based on phenotypic analyses. A transposon-based system was used to randomly insert an in-frame linker into PcrV, and the derivatives were expressed under T3SS regulation in
+     <italic>
+      pcrV
+     </italic>
+     -deleted PA103. Based on phenotypic analyses, we grouped the linker-insertion and site-specific mutants into 4 classes. Each class of mutants exhibited different functional properties, suggesting that these derivative molecules will be useful towards understanding the multifunctional aspects of T3S tip proteins.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s2">
+    <title>
+     Results
+    </title>
+    <sec id="s2a">
+     <title>
+      Protein structure modeling of PcrV
+     </title>
+     <p>
+      Recent progress using electron microscopy, molecular genetics, and structural biology approaches has increased our understanding of the mechanistic aspects of the T3SS translocation machinery. Visualization of the Ysc family members of needle-tip complexes by scanning transmission electron microscopy demonstrated that these molecules consist of three structural domains called the head, neck, and base
+      . The crystal structure of LcrV from
+      <italic>
+       Yersinia
+      </italic>
+      indicates that the protein has an overall dumbbell shape with a “grip” formed by the antiparallel coiled-coil of two long α-helices and globular domains at each end
+      . When the amino-acid sequences of
+      <italic>
+       Y. pestis
+      </italic>
+      LcrV and PcrV from several
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains were aligned, the proteins possess 37 to 41% identity (
+      ) and have sufficient similarity to produce superimposable structural models, with the model for PcrV shown in
+      (Swiss Model server,
+      <ext-link ext-link-type="uri" ns0:href="http://www.expasy.org">
+       http://www.expasy.org
+      </ext-link>
+      )
+      . The LcrV structure information in this study, modeled from the data deposited in PBD (1r6f chain A), demonstrated subtle differences from the original crystallography study by Derewanda
+      <italic>
+       et al.
+      </italic>
+      . The newer version of the modeling program (Swiss-protein, 2008) did not assign the previously predicted two α-helices, α3 and α8, in LcrV, thus the numerical nomenclatures of helices in this study are not identical to the original model.
+     </p>
+     <p>
+      Broz
+      <italic>
+       et al.
+      </italic>
+      determined that the N-terminal globular domain of three Ysc-family tip proteins, LcrV, PcrV, and AcrV (
+      <italic>
+       Aeromonas
+      </italic>
+      ), forms the base of the tip complex that faces the
+      <italic>
+       Yersinia
+      </italic>
+      needle protein, YscF
+      . Based on the tertiary structure models, the base structure of PcrV corresponds to the N-terminal α-helices and β-sheets, α1, β1, α2, α3, β2, α4, and α5 (
+      ). The C-terminal globular domain of LcrV forms the head of the tip complex and the neck is presumably the intramolecular coiled-coil region
+      . LcrV and PcrV contain a high structural similarity in the long coiled-coil region, which is a neck structure formed by α6 and α11 of PcrV (
+      ). The C-terminal globular domain of PcrV is composed of several short α-helices and β-sheets (β3, α7, α8, α9, β4, and α10) with loop structures between (
+      ).
+     </p>
+    </sec>
+    <sec id="s2b">
+     <title>
+      Scanning linker mutagenesis of PcrV
+     </title>
+     <p>
+      To understand the structure-function relationships of the multifunctional protein PcrV, we used a genetic approach to randomly introduce a 57-bp linker throughout the molecule. The plasmid containing
+      <italic>
+       pcrV
+      </italic>
+      with a type III promoter for
+      <italic>
+       exoS
+      </italic>
+      , pUCP-pS-
+      <italic>
+       pcrV
+      </italic>
+      (amp
+      ), was mutagenized using an
+      <italic>
+       in vitro
+      </italic>
+      transposition system, which results in the insertion of a kanamycin marker (kan
+      ) flanked by NotI sites. Approximately 129 plasmids that expressed both kan
+      and amp
+      in
+      <italic>
+       E. coli
+      </italic>
+      were screened by restriction mapping to identify the insertion within the
+      <italic>
+       pcrV
+      </italic>
+      coding region. Removal of the kan
+      cassette by digestion with NotI and religation leaves 57 base pairs, resulting in an in-frame insertion of the 19-amino-acid EZ linker. Twenty-eight distinct in-frame insertion mutants were isolated. Derivatives are designated as EZ followed by the amino acid location where the linker was inserted or where the original PcrV amino-acid residue was substituted with another residue (
+      and
+      ). Insertions were localized within the predicted alpha helices of PcrV, α1, α3, α4, α5, α6 and α11 as well as in regions flanking these structural features (
+      ). The pUCP-pS-
+      <italic>
+       pcrV
+      </italic>
+      plasmids carrying a linker insertion were transformed into a
+      <italic>
+       pcrV
+      </italic>
+      -null strain of
+      <italic>
+       P. aeruginosa
+      </italic>
+      , PA103Δ
+      <italic>
+       pcrV
+      </italic>
+      , and expression of the PcrV::EZ proteins was assessed by Western blot analysis with polyclonal anti-PcrV IgG. Compared to PcrV expressed from a complementation construct, derivatives had a slightly altered mobility in SDS-PAGE due to the additional 19 residues and the various amino acid sequences encoded within the insertion (
+      ). The sequence within the linkers differed by the target site duplication and three possible open reading frames based on the site of transposition (insertion frames are shown in
+      ).
+     </p>
+    </sec>
+    <sec id="s2c">
+     <title>
+      Cytotoxicity and secretory-regulation phenotypes of PcrV::EZ expressed in a
+      <italic>
+       pcrV
+      </italic>
+      -null strain
+     </title>
+     <p>
+      In cell culture systems, a
+      <italic>
+       pcrV
+      </italic>
+      -deletion strain (PA103Δ
+      <italic>
+       pcrV)
+      </italic>
+      releases effector proteins into the culture medium and is unable to intoxicate host cells (
+      and
+      ,
+      ). Expression of wild-type PcrV in PA103Δ
+      <italic>
+       pcrV
+      </italic>
+      restores the regulation of type III secretion and cytotoxicity (
+      ). We screened PA103Δ
+      <italic>
+       pcrV
+      </italic>
+      strains expressing PcrV::EZ in an acute cytotoxicity assay that measures the ability of
+      <italic>
+       P. aeruginosa
+      </italic>
+      to inject a cytotoxin, ExoU. During tissue culture infections, the translocation of this phospholipase toxin results in cell death and loss of the monolayer. The cytotoxic phenotype of derivative strains was screened by a crystal violet retention assay using HeLa-cell monolayers (data not shown). This initial screening step identified 6 nontoxic mutants out of the total of 28 derivatives. We further examined the kinetic patterns of intoxication of HeLa cells using a defined multiplicity of infection (MOI) of 5. The release of lactate dehydrogenase (LDH) within a 3–5 h infection period is a measure of cellular permeability due to the enzymatic activity of ExoU
+      . LDH release was clearly evident when cytotoxic strains were compared with noncytotoxic mutants (compare open/gray to closed symbols in
+      ). There was no significant difference in the overall kinetics of LDH release among a wild-type strain and all of the cytotoxic linker mutants (representative strains are shown in
+      ).
+     </p>
+     <p>
+      To induce the expression and secretion of type III proteins,
+      <italic>
+       P. aeruginosa
+      </italic>
+      is grown in the presence of a calcium chelator, nitrilotriacetic acid (NTA,
+      ). Effector proteins as well as the proteins required for translocation are secreted and accumulate in the extracellular growth medium under the low-calcium conditions
+      . In the absence of a chelator, secretion of effectors is controlled via transcriptional inhibition of the loci involved in the process
+      ,
+      ,
+      . The
+      <italic>
+       pcrV
+      </italic>
+      -null strain, PA103Δ
+      <italic>
+       pcrV
+      </italic>
+      , releases type III effectors even in the absence of induction, suggesting that the secretion apparatus is deregulated and constitutively releasing those proteins
+      ,
+      . Calcium-mediated regulation of T3SS is restored by complementation with
+      <italic>
+       pcrV in trans
+      </italic>
+      . All of our EZ-linker mutants secreted similar amounts of ExoU after growth in the presence of NTA (data not shown). An insertion that blocks secretion of ExoU was not isolated. Nine mutants were calcium insensitive and constitutively secreted ExoU even in the absence of the inducer (
+      ). The expression of these derivatives within bacterial cells was confirmed (
+      ). The deregulated-secretion phenotype was defined by an enhanced level (&gt;40%) of ExoU release as compared to the PcrV-complemented strain (
+      ). The remaining derivatives demonstrated a cytotoxic phenotype with a pattern of regulated secretion similar to the complemented strain, which are classified as class I mutants (
+      and
+      ). Insertion sites in this class of the derivatives were generally located in the N- and C-terminal globular domains with exceptions of EZ154 and EZ155, in which the linker was located at the top region of α-6, one of the coiled-coil helices (
+      and
+      ).
+     </p>
+     <p>
+      Insertions associated with the disruption of secretory regulation mapped to two distinct areas of PcrV (
+      ). One set (EZ119, EZ120, EZ131, EZ134, EZ138, and EZ279) mapped to the end of the globular domain and to the central coiled-coil domain (
+      ). The second set (EZ44, EZ52, and EZ64) mapped to the predicted N-terminal globular domain. Interestingly, the derivatives with the constitutive-secretion phenotype segregated into noncytotoxic and cytotoxic groups. Insertions adjacent to or within the coiled-coil region (1
+      group) prevented both translocation and regulated secretion of ExoU (gray boxes in
+      ). In contrast, insertions in the N-terminal globular domain (2
+      group) retained the cytotoxic phenotype (dotted boxes in
+      ). We classified the phenotype of the 1
+      group (nontoxic) and 2
+      group (toxic) of the constitutive-secretion insertions as class II and class III, respectively (
+      and
+      ).
+     </p>
+    </sec>
+    <sec id="s2d">
+     <title>
+      Analyses of the protective epitope in PcrV::EZ with translocation-competent cytotoxic phenotype (classes I and III)
+     </title>
+     <p>
+      In addition to having a role in type III translocation, PcrV is a clinically important protective antigen. Previously more than 70 monoclonal antibodies were screened for protection against ExoU-mediated cytotoxicity and only Mab166 was identified as being protective both
+      <italic>
+       in vitro
+      </italic>
+      and
+      <italic>
+       in vivo
+      </italic>
+      . The protective epitope in PcrV was identified as conformational and the position of the epitope was mapped to a region between amino acids 144 and 257 using truncated molecules or between 158 and 217 as assessed by phage display
+      . Mab166 is reactive to the conformational epitope located in the second globular region between the central and C-terminal helices, α6 and α11, respectively (
+      ). The location of the protective epitope in the PcrV-structure models overlaps to the regions identified as the linear and conformational protective epitopes of LcrV
+      ,
+      .
+     </p>
+     <p>
+      To determine if this protective epitope was compromised by EZ-linker insertion, monomer forms of all of the PcrV::EZ molecules were initially examined for Mab166 recognition. Western blot analyses demonstrated similar binding of Mab166 to all derivatives, except PcrV::EZ214 (
+      ). EZ214, in which the linker is located between α-9 and β-4 within the epitope region, demonstrated a lower affinity for Mab166. Polyclonal antibody recognizing PcrV bound to all of the EZ derivatives similarly, including EZ214 (data not shown). In order to analyze the retention of the protective capacity of Mab166, 22 translocation-competent mutants were subjected to a hemolysis-based protection assay. Translocator-mediated lysis of erythrocytes is inhibited by Mab166 (data not shown and
+      ). In the presence of 10 µg Mab166, hemolysis of erythrocytes infected with ΔV+
+      <italic>
+       pcrV
+      </italic>
+      was reduced approximately 70% (data not shown), which was set as 100% protection. Overall, red blood cells infected with translocation-competent derivatives were protected at an efficiency of 80% or higher compared to the strain expressing wild-type PcrV, ΔV+
+      <italic>
+       pcrV
+      </italic>
+      (
+      ). For EZ214, which possessed a low affinity to Mab166 as detected by Western blot analysis, full protection was observed. For several linker-insertion derivatives, EZ16, EZ28, EZ52, EZ96, and EZ180, there was slight reduction (20% or less) in protection. Protection was compromised only for EZ198 (by 40%,
+      ). This insertion is positioned in the loop structure next to α-8, which is localized to the middle of the mapped epitope region (
+      ). These data support the importance of these flexible-loop regions of PcrV for protection from intoxication.
+     </p>
+     <p>
+      Mab166 has been shown to bind to surface-localized PcrV and inhibit the translocon assembly in host membranes, resulting in a failure to deliver effectors for intoxication
+      ,
+      ,
+      . The binding of Mab166 to surface-localized PcrV was analyzed by fluorescence microscopy. First, PcrV was expressed in the ΔV+
+      <italic>
+       pcrV
+      </italic>
+      strain and probed with polyclonal IgG. Spike-shaped signals (shown in green) were detectable on bacterial cell surface (upper panels in
+      ). Bacterial cells were visualized by staining DNA molecules with DAPI (shown in blue,
+      ). Labeling PcrV with both Mab166 (shown in green) and polyclonal IgG (shown in red) resulted in the intense signals of either antibody or both (shown in yellow, lower panels in
+      ). For the
+      <italic>
+       pcrV
+      </italic>
+      -null control strain (ΔV+pUCP), only DAPI-stained cells were visible and no PcrV signals were detected (left panels,
+      ).
+     </p>
+    </sec>
+    <sec id="s2e">
+     <title>
+      Biochemical analyses of nontoxic class II derivatives and co-expression of PcrV::EZ derivatives with PcrV
+     </title>
+     <p>
+      The noncytotoxic phenotype observed in six EZ derivatives indicates that these mutants are defective for translocation of ExoU into host cells. To characterize these derivatives further, HeLa cells were infected and then fractionated to analyze the expression and location of the effector protein [bacterial (b), HeLa cytoplasmic (cell soluble, cs), or extracellular medium]. Superoxide dismutase 1 (SOD1) serves as a marker for the HeLa cellular fractions. Strain PA103Δ
+      <italic>
+       exoUexoT
+      </italic>
+      ::Tc (PA103ΔUT) expresses none of the known effectors but possesses an intact T3SS (
+      ). After infection with PA103ΔUT expressing a non-catalytic effector protein, ExoU-S142A, the non-catalytic molecule was localized to bacterial fractions and mostly to HeLa cell cytoplasmic fractions (
+      ), confirming that PA103ΔUT is competent for translocation. After infection with the nontoxic PcrV::EZ derivatives, ExoU was undetectable in soluble and insoluble fractions of HeLa cells, supporting the translocation-incompetent phenotype (
+      and data not shown). The bacterial cells were clearly synthesizing ExoU and PcrV-EZ (
+      ). During the infection, ExoU-S142A and ExoU were released to the cell-culture medium in the absence of PcrV (ΔV) and when complemented with EZ-derivatives, respectively (
+      ). No extracellular ExoU-S142A was detected in cellular supernatants from a translocation competent (ΔUT) strain (
+      , lane 8), suggesting that the effector-translocation machinery is tightly controlled and the bridge between the needle and translocon structures is sealed by PcrV.
+     </p>
+     <p>
+      The current structural models of the needle-tip complex indicate that multiple units of the V protein oligomerize on top of the needle proteins
+      ,
+      –
+      . Using a
+      <italic>
+       Yersinia
+      </italic>
+      co-infection system, Marenne
+      <italic>
+       et al.
+      </italic>
+      demonstrated that YopB, YopD, and LcrV are sufficient for channel formation only when these proteins are expressed and secreted by the same bacterium
+      . To determine if the translocation-incompetent PcrV derivatives could exert a dominant effect over wild-type PcrV, six of these proteins were expressed in the wild-type strain, PA103. The ability to deliver ExoU by these co-expression strains was identical to the strain PA103+
+      <italic>
+       pcrV
+      </italic>
+      in LDH kinetic assays (
+      ). Under inducing conditions, all of these strains demonstrated a wild-type secretion pattern of ExoU, PcrV, and PcrV::EZ (+NTA in
+      ). In the absence of NTA-mediated induction, effector secretion was tightly regulated by all coexpression strains similar to the PcrV-complemented strain (–NTA in
+      ). These data suggest that despite expression and secretion from the same bacterium, the function of PcrV was not impaired by translocation-incompetent PcrV::EZ derivatives.
+     </p>
+     <p>
+      Erythrocytes are often used to identify the formation of T3S translocon channels based on the release of hemoglobins by osmotic lysis of cell membranes
+      ,
+      . To determine if the noncytotoxic phenotype is mediated by an inability of PcrV::EZ derivatives to form a translocon, erythrocytes were infected with the nontoxic mutants and measured for hemoglobin release. Although the type III-competent strains without effector genes (ΔUT+pUCP and ΔUT+
+      <italic>
+       pcrV
+      </italic>
+      ) released hemoglobin, the nontoxic mutants were not hemolytic (data not shown).
+     </p>
+     <p>
+      A failure of the nontoxic PcrV::EZ strains to form translocons and to influence any phenotypic effect of wild-type PcrV upon co-expression (
+      ) implies that the linker insertion impaired the association of the derivatives with the needle components. Surface localization of all of the nontoxic EZ derivatives was 50% or lower than that of PcrV, quantified with either microscopy (
+      ) or flow cytometry analysis (
+      ). These data indicate that the linker insertion within or near the coiled-coil region destabilizes the interaction of the V-tip protein with the needle apparatus.
+     </p>
+    </sec>
+    <sec id="s2f">
+     <title>
+      Analysis of class III PcrV derivatives with the cytotoxic/deregulated-secretion phenotype
+     </title>
+     <p>
+      The class III strains (EZ44, EZ52, EZ64) demonstrated wild-type levels of cytotoxicity despite possessing the
+      <italic>
+       pcrV
+      </italic>
+      -null phenotype of constitutive secretion (
+      and
+      ). Their cytotoxic phenotype suggests these derivatives are competent for the assembly of PopB/PopD translocons in host membranes. We used an assay to detect the translocon formation in erythrocytes to determine if these derivative molecules influence the parental PcrV phenotype in a competitive, additive, or synergetic manner. When the proteins were expressed in the ΔV strain, EZ44 and EZ64 demonstrated a 30% to 35% lower amounts of hemoglobin release than the
+      <italic>
+       pcrV
+      </italic>
+      complemented strain (gray bars,
+      ). Expression of these derivatives in the wild-type strain, PA103, demonstrated slightly decreased hemolytic activity compared to the wild-type strains, PA103+pUCP and PA103+
+      <italic>
+       pcrV
+      </italic>
+      (black bars,
+      ). In the case of EZ52, the percentage hemolysis was comparable to the complemented strain (
+      ). Overall, these results indicate that the translocon can still be deployed by EZ44, EZ52, and EZ64 albeit at various efficiencies.
+     </p>
+     <p>
+      We then analyzed the effect of wild-type PcrV on the constitutive secretion phenotype of class III derivatives. In the absence of NTA, secretion of ExoU by the co-expression strains was as tightly regulated as the wild-type phenotype (SN,
+      ). Under inducing conditions (2 mM NTA), levels of ExoU secretion were similar among the co-expression and wild-type strains (SN,
+      ). Amounts of secreted derivative proteins, especially EZ44 and EZ52, were undetectable or extremely low irrespective of NTA (SN,
+      ). When proteins within bacterial cells were probed, co-expression strains possessed similar levels of EZ derivatives and PcrV in the presence of NTA (bac,
+      ). In uninduced conditions, the expression of these proteins within bacteria was low or undetectable (bac, no NTA,
+      ), suggesting the dominant expression and secretion of parental PcrV. Analysis of the molecules in this phenotypic group may help to understand possible differential features of PcrV distinct to translocation or secretion. To further analyze the deregulated secretion/translocation-competent phenotype, class III derivatives were compared for the localization on the bacterial surface by flow cytometry. In the absence of NTA (uninduced), all of the derivatives localized on the bacterial surface similar to PcrV (open bars,
+      ). EZ44 trended towards less surface localization compared to other derivatives but was not statistically significant (
+      <italic>
+       p
+      </italic>
+      = 0.176,
+      <italic>
+       t
+      </italic>
+      -test). Under inducing conditions, the number of bacterial cells with surface-localized EZ64 was similar to the parental control (filled bars,
+      ). Surface localization of EZ44 and EZ52, however, was significantly lower than that of PcrV (filled bars,
+      ). The surface localization of EZ44 was almost as low as the negative control, ΔV+pUCP (
+      ). It should be noted that EZ44 and EZ52 could form translocation channels in erythrocyte membranes and demonstrated a parental pattern of cytotoxicity upon cell contact-mediated type III activation (
+      and
+      ). These results indicate that linker insertions in EZ44 and EZ52 disrupt the association of these molecules with the needle apparatus specifically when low calcium is the activation signal.
+     </p>
+     <p>
+      Class III derivatives possessing an insertion in the N-terminal globular region lost the control of effector secretion (
+      ). Because PcrV is also required for the secretion of translocon proteins (PopB and PopD), levels of secreted proteins by EZ44, EZ52, and EZ64 were examined by Western blot analysis. Secretion patterns of PcrV and the derivatives into growth medium were similar under either induced or uninduced conditions, except a slightly reduced secretion of EZ44 in the presence of NTA (
+      ). The class III phenotype of deregulated secretion of ExoU was recapitulated for these derivatives (no NTA,
+      ). Levels of secreted PopB and PopD by all strains were indistinguishable in the presence of NTA (
+      ). After growth in the absence of NTA, the complemented strain (ΔV+
+      <italic>
+       pcrV
+      </italic>
+      ) secreted PopB and PopD at fairly low levels while the
+      <italic>
+       pcrV
+      </italic>
+      -null strain and class III mutants secreted these translocators at high levels similar to the induced condition (
+      ). These results suggest that the insertion in EZ44, EZ52, and EZ64 disrupts the low-calcium dependent control of the secretion mechanism for both effector and translocon proteins.
+     </p>
+    </sec>
+    <sec id="s2g">
+     <title>
+      Cytotoxic phenotypes of single site-specific mutations (class IV)
+     </title>
+     <p>
+      Two linker sites, representing the constitutive-secretion/cytotoxic phenotype (EZ64) and the constitutive-secretion/noncytotoxic phenotype (EZ134), were selected for site-directed mutagenesis. Alanine was used to replace a leucine residue at position 63 (L63A) and an aspartic acid residue at position 133 (D133A). When LDH release was monitored during an infection, both site-specific mutants appeared to have a delayed-cytotoxic phenotype and classified to the forth phenotypic group, class IV (
+      and
+      ). The time lag prior to the intoxication by these mutants was approximately 1 h, and after the lag period, the kinetics of LDH release was similar to the complemented strain (
+      ).
+     </p>
+     <p>
+      Formation of translocation channels in eukaryotic plasma membranes by effectorless strains can be detected by measuring osmotic lysis via the release of LDH from infected cells
+      ,
+      . To monitor translocon formation in the HeLa cell membrane, the release of LDH was measured at 7 h post-infection with various strains of
+      <italic>
+       P. aeruginosa
+      </italic>
+      . HeLa cell infection with a T3SS competent and effectorless strain, PA103ΔUT+pUCP, demonstrated a statistically significant level of LDH release (
+      <italic>
+       p
+      </italic>
+      &lt;0.001 by t-test,
+      ). Strain PA103
+      <italic>
+       exsA
+      </italic>
+      Ω is unable to express the T3SS due to a mutation introduced into a key transcriptional activator, ExsA (
+      )
+      ,
+      . Release of LDH was undetectable after infection with this strain (
+      ). Collectively, these data support the hypothesis that lysis of HeLa cells in the absence of effectors requires the intact T3SS.
+     </p>
+     <p>
+      To determine whether the cytotoxic phenotype was specifically related to an intact translocation operon, translocator-deletion mutants PA103Δ
+      <italic>
+       pcrV
+      </italic>
+      and PA103Δ
+      <italic>
+       popB
+      </italic>
+      were compared to PA103ΔUT in the presence or absence of an inhibitor of actin polymerization, cytochalasin D (
+      ). Viboud and Bliska demonstrated that treatment with cytochalasin D reduced type III-mediated osmotic lysis of eukaryotic cells during infection with
+      <italic>
+       Yersinia
+      </italic>
+      . Protection by this inhibitor is mediated by the prevention of local actin rearrangements at the insertion sites of YopB/YopD translocons, where cytochalasin D is postulated to suppress disruptive membrane movement
+      . When cells were infected with translocator-deletion mutants, Δ
+      <italic>
+       pcrV
+      </italic>
+      and Δ
+      <italic>
+       popB
+      </italic>
+      , LDH release was at a basal level similar to the T3S incompetent strain, PA103
+      <italic>
+       exsA
+      </italic>
+      Ω (
+      ). When cytochalasin D-treated cells were infected with an effectorless strain of
+      <italic>
+       P. aeruginosa
+      </italic>
+      , LDH release was ameliorated (ΔUT+pUCP in
+      ), indicating that the observed LDH release is due to membrane disruption caused by insertion of PopB/PopD translocons. Complementation of translocator-deletion mutants, ΔV+
+      <italic>
+       pcrV
+      </italic>
+      and Δ
+      <italic>
+       popB
+      </italic>
+      +
+      <italic>
+       popB
+      </italic>
+      , allowed intoxication with ExoU even in the presence of cytochalasin D (
+      ). The inhibitor treatment did not interfere with the translocation of effectors (
+      and
+      ,
+      ,
+      , suggesting that cytochalasin D does not inhibit insertion of translocons into the eukaryotic membrane. These results confirm that both PopB and PcrV translocators are required for the channel formation followed by translocation of the effector.
+     </p>
+     <p>
+      The delayed-toxic phenotype of class IV mutants could be mediated by the inefficient formation of translocons in the host plasma membrane. At 7 h post infection of HeLa cells, the point mutants released intermediate levels (∼60%) of LDH, not as high as the fully toxic strains but not as low as the effectorless type III-competent strain, ΔUT+pUCP (gray bars,
+      ). The intermediate levels of LDH release by both point mutants were partially inhibited by the addition of cytochalasin D (black bars,
+      ). This inhibitor could not reduce ExoU-mediated LDH release even at early stages of cellular intoxication (data not shown). These data suggest that class IV mutants are capable of forming translocons but the slow kinetics of the channel formation allows cytochalasin D to be effective prior to ExoU translocation.
+     </p>
+    </sec>
+    <sec id="s2h">
+     <title>
+      Biochemical analyses of class IV mutations for translocon formation and secretory regulation
+     </title>
+     <p>
+      HeLa cell infection with ΔV+L63A and ΔV+D133A strains demonstrated the delayed-cytotoxicity phenotype (
+      ). The release of LDH by these strains was partially inhibited by cytochalasin D (
+      ), suggesting that the low expression or slower deployment of translocon proteins (PopB and PopD) due to the alanine substitution. To determine if L63A and D133A proteins are adequately expressed and associated with the type III needle, bacterial surface localization of the derivatives was analyzed by flow cytometry. The number of bacterial cells with surface localized L63A and D133A was comparable to the parental control, irrespective of the presence of NTA (
+      ). These results implicate that the delayed-cytotoxic phenotype is related to a malfunction of these derivatives other than insufficient protein expression or surface localization.
+     </p>
+     <p>
+      To evaluate the formation of translocon channels in membranes, sheep erythrocytes were infected with a point-mutation strain ΔV+L63A or ΔV+D133A. Infection with either of the strains released only basal levels of hemoglobin, similar to the
+      <italic>
+       pcrV
+      </italic>
+      -null strain at a 1 h incubation time (gray bars,
+      ). The hemolysis data along with the delayed cytotoxic effect on HeLa cells (
+      ) suggest a slower rate of the insertion and assembly of translocons in host membranes by these mutants. Co-expression of the derivatives with PcrV in the parental PA103 strain restored hemolytic activity to the levels of positive control strains (filled bars,
+      ). These results indicate that L63A and D133A derivatives do not possess a dominant negative effect on the translocon assembly by parental PcrV.
+     </p>
+     <p>
+      Class IV derivatives appeared to require additional time for the assembly of translocation channels, which can be mediated by low expression or secretion of translocator proteins. For the point mutants, PcrV, PopB, and PopD were similarly expressed and retained within bacterial cells at the level of the ΔV+
+      <italic>
+       pcrV
+      </italic>
+      strain under induced and uninduced conditions (bacteria,
+      ). In contrast, levels of secreted PcrV, PopB, and PopD by these mutants were significantly reduced (supernatant,
+      ). Notably, secreted PopB and PopD proteins were undetectable in the absence of NTA (no NTA,
+      ). In a calcium-rich environment, expression and secretion of ExoU were tightly controlled by PcrV, L63A, and D133A and the regulatory system was perturbed only when
+      <italic>
+       pcrV
+      </italic>
+      was deleted (no NTA,
+      ). Under low-calcium inducing conditions, most of expressed ExoU was secreted into the growth medium and barely detectable in bacterial cell fractions of all four strains (2 mM NTA,
+      ). These data suggest that the alanine substitution at L63 or D133 decreases the efficiency of translocator secretion, resulting in the slow translocon assembly and delayed-cytotoxic phenotype.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s3">
+    <title>
+     Discussion
+    </title>
+    <p>
+     The T3SS is a key virulence determinant of
+     <italic>
+      P. aeruginosa
+     </italic>
+     and multiple other Gram-negative organisms. Understanding the essential components and functional mechanisms of this intoxication system will be important for the development of novel therapeutics that could inhibit translocon assembly, toxin translocation, and signaling activity associated with transcriptional induction in response to contact with eukaryotic cells
+     ,
+     –
+     . This study focuses on a linker-scanning mutagenesis analysis of PcrV, the needle-tip protein of the
+     <italic>
+      P. aeruginosa
+     </italic>
+     type III apparatus. Despite the molecular, biochemical, and microscopic analyses of the tip complexes in the past, the multifunctional nature of tip proteins makes it difficult to tease out how they mechanistically serve as regulators for expression and secretion of effectors as well as extracellular chaperones for integration of the hydrophobic translocators (PopB and PopD) into eukaryotic plasma membranes. Understanding the functional mechanism of the needle-tip proteins is particularly relevant to the design of vaccines and therapeutics targeted to neutralize activities that contribute to intoxication of host cells
+     ,
+     ,
+     –
+     .
+    </p>
+    <p>
+     The linker-scan analysis of PcrV was initiated as an unbiased approach to cause distinct 19 amino-acid insertions in this molecule. The lower frequency of C-terminal insertions does not correlate with the selection process relative to protein expression as the clones were screened in
+     <italic>
+      E. coli
+     </italic>
+     , a host in which the
+     <italic>
+      Pseudomonas
+     </italic>
+     -specific pS promoter does not initiate transcription
+     . Most of the insertions (∼79%) did not disrupt the function of effector translocation, retaining the cytotoxic phenotype of the strains. Amino acid sequences within the insertion grouped into 3 patterns flanked by various sequences due to the target site duplication (
+     ). Each group of linkers contains either 3 cysteine residues, 2 cysteine residues, or a proline residue, which may introduce a circular or folded structure of an EZ linker by a formation of disulfide bonds or a proline kink in the middle of the linker. PcrV possesses no cysteine residues to form a covalent bond with a free cysteine in the linker. Biochemical and biological analyses of the linker-insertion derivatives identified four types of phenotypic groups possessing distinct structural and functional regions of PcrV (
+     and
+     ).
+    </p>
+    <sec id="s3a">
+     <title>
+      Class I insertions (wild-type phenotype;
+      )
+     </title>
+     <p>
+      Most of the insertions for this phenotypic group are mainly positioned in N- and C- terminal globular domains, except EZ154 and EZ155 (
+      and
+      ). These two insertions are located at the tip end of the central coiled-coil structure, less likely involved in the coiled-coil interaction. Collectively, both N- and C-terminal globular domains are more permissive to insertions, indicating the structural flexibility in those domains.
+     </p>
+     <p>
+      PcrV is a clinically important molecule as an effective protective antigen for
+      <italic>
+       P. aeruginosa
+      </italic>
+      infection. All of the PcrV::EZ proteins were immunoreactive to Mab166 examined by Western blot analysis, except EZ214. Using an erythrocyte-protection assay, we demonstrated that most of the translocation-competent mutants retain the conformational protective epitope. Mab166 protected against infection with the strain expressing EZ214, suggesting the epitope in this molecule is preserved during bacterial contact with erythrocytes. Reduced protection for EZ198 is understandable since the linker-insertion site is located within the predicted epitope region. These protection and biochemical data indicate that the loop regions proximal to short helices (α8 and α9) are critical for the recognition and protection by Mab166 and that the epitope region appears to be structurally flexible and retains the protective role irrespective of the 19-residue insertions.
+     </p>
+    </sec>
+    <sec id="s3b">
+     <title>
+      Class II insertions (pcrV-null phenotype;
+      )
+     </title>
+     <p>
+      The
+      <italic>
+       pcrV
+      </italic>
+      -knockout deletion in the chromosome of PA103 loses the regulatory function for both secretion and translocation of effectors, resulting in a failure to intoxicate host cells and constitutive secretion of effector proteins into a growth medium. The regulatory mechanism of T3SS is complex. It has been proposed that there are multiple-levels of control by the needle-tip complex, needle proteins, and cytosolic regulators located around the base of a type III apparatus
+      ,
+      ,
+      ,
+      –
+      . For example, cytoplasmic chaperones for PcrV and LcrV (PcrG and LcrG, respectively) are involved in secretory regulation of
+      <italic>
+       P. aeruginosa
+      </italic>
+      and
+      <italic>
+       Yersinia
+      </italic>
+      species
+      ,
+      . In the case of
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PAO1, a deletion of either
+      <italic>
+       pcrV
+      </italic>
+      or
+      <italic>
+       pcrG
+      </italic>
+      leads to a calcium-blind secretion phenotype, and the deregulation effect is additive for the double-deletion mutant
+      . In
+      <italic>
+       Yersinia
+      </italic>
+      species, YopN with its adaptor TyeA also acts as a cytoplasmic regulator in addition to LcrG
+      ,
+      . Moreover, it is postulated that needle proteins are involved in conducting an activation signal bidirectionally to coordinate the regulation of T3SS
+      ,
+      . Further studies are needed to elucidate how the secretion and translocation mechanisms are intricately accommodated by various regulatory proteins present in distinct locations.
+     </p>
+     <p>
+      The class II deregulated-secretion/translocation phenotype observed when
+      <italic>
+       pcrV
+      </italic>
+      is deleted from strains PA103 and PAO1 is recapitulated in
+      <italic>
+       Shigella
+      </italic>
+      species when the V-like gene,
+      <italic>
+       ipaD
+      </italic>
+      , is deleted
+      ,
+      ,
+      . In contrast, a knockout or partial deletion of
+      <italic>
+       pcrV
+      </italic>
+      in
+      <italic>
+       P. aeruginosa
+      </italic>
+      CHA and PAK strains or the
+      <italic>
+       lcrV
+      </italic>
+      gene in
+      <italic>
+       Yersinia
+      </italic>
+      species retains the regulated-secretion phenotype despite the loss of cytotoxicity
+      ,
+      –
+      . This phenotypic diversity may be specific to the strain
+      or the size and region of the deletion if the entire gene is not deleted.
+     </p>
+     <p>
+      Our data demonstrated that the inability to deliver effectors by class II mutants is due to a failure of the PcrV derivatives to localize on the bacterial surface. The results suggest that class II derivatives form a structurally unstable complex possessing a low affinity to the needle apparatus or they are unable to oligomerize to form a needle-tip complex. We expressed class II derivatives in a wild-type host background with the expectation of hetero-oligomer formation with PcrV. The attenuated affinity of the derivative proteins for the needle structure, however, allowed wild-type PcrV to be functionally dominant, selecting for parental phenotypes during co-expression.
+     </p>
+     <p>
+      An insertion region that contributes to the class II phenotype is mapped to the end of N-terminal globular domain (EZ119, EZ120) and at the base of the intramolecular antiparallel coiled-coil structure (EZ131, EZ134, EZ138, EZ279) shown in
+      . Many residues conserved in both PcrV and LcrV are located on the helices that form the coiled-coil structure, suggesting a structural importance in these regions. Caroline
+      <italic>
+       et al.
+      </italic>
+      showed that one of their site-specific mutations (L276A) in one of the coiled-coil helices of PcrV reduced the toxic effect of this strain on macrophages
+      <italic>
+       in vitro
+      </italic>
+      . Lee
+      <italic>
+       et al.
+      </italic>
+      demonstrated that single amino acid replacement of the F279 residue of PcrV to arginine abolishes the cytotoxic phenotype
+      . Combined with our data, hydrophobic residues in this region of PcrV must be critical for stabilizing the structure. Interestingly, the intramolecular coiled-coil motif is also seen in structural analyses of the needle subunit proteins, suggesting a common mechanism of assembly of tip proteins and needle subunits
+      . The C-terminal α-helix of LcrV, one of the coiled-coil helices, is structurally homologous to a stabilizing helix of the
+      <italic>
+       Shigella
+      </italic>
+      needle protein (MxiH), which permitted the modeling of the LcrV-pentamer tip complex on the top end of the MxiH needle without structural restraints
+      . Thus, we suggest that the disruption of the coiled-coil structure by a linker insertion leads to a failure to assemble or to position the V-tip complex on the type III needle, resulting in the class II
+      <italic>
+       pcrV
+      </italic>
+      -null phenotype.
+     </p>
+    </sec>
+    <sec id="s3c">
+     <title>
+      Class III insertions (cytotoxic/deregulated-secretion phenotype;
+      )
+     </title>
+     <p>
+      Insertions between amino acids 44 and 64 of PcrV imparted the class III phenotype of cytotoxicity with constitutive secretion (
+      and
+      ). Insertions in this area compromised the secretory regulation of the effector, ExoU, as well as translocon proteins, PopB and PopD. Despite of the defect in secretory control, the derivatives (EZ44, EZ52 and EZ64) retained the capability to assemble translocons and translocate the effector, resulting in wild-type levels of cytotoxicity. This secretory-control region is located within an N-terminal globular domain, which is involved in associating with the needle proteins as it is part of the base of the V-tip complex
+      . Our flow cytometry analysis demonstrated that EZ44 and EZ52 molecules are localized on the bacterial surface in the uninduced environment but delocalized in low-calcium induced conditions. These data suggest that this region is involved in the mechanical control of the type III apparatus responding to environmental signals. Intriguingly, the insertion is tolerated for translocation events, suggesting that different conformations of PcrV exist for secretion and translocation functions. We postulate that the conformations of this needle-tip protein are distinct in response to the activation stimuli of the type III machinery specific to contact-dependent translocation (a well-coordinated process with tightly sealed transport of effectors) or chelator-induced secretion (less-controlled release of translocators and effectors).
+     </p>
+     <p>
+      Structural changes within this N-terminal region may influence the regulation of the opening/closing of the tip complex in addition to the affinity of the tip protein for the injection needle
+      ,
+      ,
+      –
+      . Furthermore, the conformation of the V proteins for translocation processes may be distinct to each stepwise function, such as insertion of translocators into membranes, assembly of a translocon, and delivery of effectors. Our data support a model in which PcrV secretes translocators at a basal level but not an effector until receiving a signal based on the host contact or low calcium environment
+      ,
+      . Elper
+      <italic>
+       et al.
+      </italic>
+      and others demonstrated that IpaD, a tip protein in
+      <italic>
+       Shigella
+      </italic>
+      , senses small molecules (deoxycholate or other bile salts) that stabilize the translocator complex prior to T3SS induction
+      ,
+      .
+     </p>
+     <p>
+      The deregulated-secretion phenotype of class III derivatives is overpowered by functional PcrV when proteins are co-expressed in wild-type PA103, resulting in tightly regulated secretion of ExoU. It is notable that the amount of secreted derivative proteins is significantly lower than that of PcrV even though the expression levels of all proteins are equivalent. When the derivatives were expressed in the
+      <italic>
+       pcrV
+      </italic>
+      -null host strain, secretion of these proteins was not inhibited. These data imply that wild-type PcrV is a preferred substrate for the secretion machinery and regulators involved in protein export.
+     </p>
+     <p>
+      The tip complex formed by the derivatives, EZ44, EZ52 and EZ64, is competent to control the insertion of the hydrophobic translocators in host plasma membranes and the assembly of the translocon structure. For the needle-tip proteins from
+      <italic>
+       Shigella
+      </italic>
+      (IpaD) and
+      <italic>
+       Burkolderia
+      </italic>
+      (BipD), the N-terminal domain is believed to function as an intramolecular chaperone to control the timing of self-oligomerization
+      . However, the structure of the N-terminal domain of PcrV and LcrV is bulky and has few structural similarities to IpaD and BipD
+      . In addition, no chaperones specific to IpaD and BipD have been found, while PcrV and LcrV have the cognate chaperones PcrG and LcrG that are expressed from the same operon. It is postulated that PcrV and LcrV act as chaperones for translocon proteins
+      . Specific domains of PcrV may perform chaperone functions to control the self-oligomerization of PcrV and assemble the PopB/PopD translocon in the eukaryotic membrane. More studies are needed to test these hypotheses.
+     </p>
+    </sec>
+    <sec id="s3d">
+     <title>
+      Class IV mutations (delayed-cytotoxicity/regulated-secretion phenotype;
+      )
+     </title>
+     <p>
+      Site-specific alanine substitutions (L63A and D133A) made in two regions of PcrV demonstrated a class IV delayed-cytotoxic phenotype (
+      and
+      ). In this case, we believe that translocon proteins are deployed and that translocation of ExoU occurs as cytotoxicity is observed even in the presence of cytochalasin D. At the late time point of HeLa cell infection, levels of LDH release by these mutants are higher than by an effectorless type III-competent strain, indicating that cytotoxicity is mediated by the formation of translocation channels and the enzymatic activity of translocated ExoU. It is unclear why a site-specific lesion (L63A) delayed in the induction of cytotoxicity relative to the linker counterpart (EZ64), which has a cytotoxic phenotype. The leucine at residue 63 is conserved and positions next to an LxxLxxL zipper motif, which is implicated for the interaction with other molecules, possibly a needle protein. The other residue, D133, is located within another leucine motif (Lx3Lx2Lx3L) important for the formation of the intramolecular coiled-coil structure
+      .
+     </p>
+     <p>
+      Co-expression analysis of class IV derivatives with PcrV demonstrated the retention of the parental phenotype. L63A and D133A molecules may not oligomerize with themselves or with PcrV due to a loss of a hydrophobic- or charged-side group in the residue by alanine substitution. Amounts of the derivatives secreted by these mutants were extremely low, which may explain the dominant effect of wild-type PcrV on translocon assembly at the initial stage of erythrocyte infection. The alanine replacement may also influence the association of PcrV with its cognate chaperone, PcrG, in the bacterial cytoplasm. It is postulated that the interaction between PcrV and PcrG facilitates the export of PcrV, yet the interaction is not required for the secretory regulation of effectors
+      . If the affinity to PcrG is decreased, the PcrV derivatives may be inefficiently unfolded prior to the export process, leading to the delayed establishment of translocon structure and effector translocation.
+     </p>
+     <p>
+      Our biochemical analyses indicated that the expression patterns of all of the translocators and the surface localization of the V derivatives are similar to those of PcrV. However, secretion levels of translocators, especially translocon proteins PopB and PopD, were extremely low regardless of the presence or absence of NTA. Erythrocytes infected with these point mutants did not release hemoglobin during the 1 h-incubation time, indicating the slower kinetics of PopB/PopD deployment. Once translocons were formed, the kinetics of ExoU-mediated cytotoxicity was equivalent to the parental strain. It is intriguing that the delayed-secretion phenotype specific to translocator proteins was also observed with an
+      <italic>
+       mxiC
+      </italic>
+      mutant in
+      <italic>
+       Shigella
+      </italic>
+      . MxiC is a cytoplasmic regulator for a
+      <italic>
+       Shigella
+      </italic>
+      type III system, which belongs to the family of YopN/TyeA in
+      <italic>
+       Yersinia
+      </italic>
+      . A knockout mutant of
+      <italic>
+       mxiC
+      </italic>
+      constitutively secretes effectors but the secretion of IpaC, a PopD ortholog translocator, is weak and delayed upon type III induction
+      ,
+      . These phenotypic properties combined with our data suggest that the control of type III machinery is coordinated specific to the type of secretion substrates, either translocators or effectors. Further studies are needed to elucidate the control mechanisms of the T3SS distinct to translocators and effectors.
+     </p>
+    </sec>
+    <sec id="s3e">
+     <title>
+      Conclusions
+     </title>
+     <p>
+      Comprehending how the needle-tip complex interfaces with the type III machinery and the translocon assembles in eukaryotic membranes will be important towards understanding the T3SS-mediated intoxication mechanisms and protective nature of antibodies to V antigens. The tertiary structure models of tip proteins provide a template to design V antigens that retain immunogenicity but lack immunosuppressive properties
+      ,
+      . We isolated the strains with interesting biological and biochemical phenotypes: constitutive secretion with cytotoxicity, delayed cytotoxicity, delocalization of the tip protein only upon low-calcium induction, and low secretion levels of translocators but not of effectors. Further analyses of PcrV and the derivatives compared to the homologous tip proteins in the Ysc family, LcrV (
+      <italic>
+       Yersinia
+      </italic>
+      ) and AcrV (
+      <italic>
+       Aeromonas
+      </italic>
+      ), as well as those belonging to other families, IpaD (
+      <italic>
+       Shigella
+      </italic>
+      ), BipD (
+      <italic>
+       Burkolderia
+      </italic>
+      ), SipD (
+      <italic>
+       Salmonella
+      </italic>
+      ), and EspA (enteropathogenic
+      <italic>
+       E. coli
+      </italic>
+      ), will advance a mechanistic understanding of how these molecules function in the secretion, translocation, and intoxication processes. Furthermore, it is important to elucidate the control mechanism of the type III system, which is coordinated by V-like proteins, cytoplasmic regulators, and needle proteins. The functional and regulatory information of this multifunctional translocator, PcrV, will facilitate the development of new-generation vaccines and therapeutics targeting on type III-mediated intoxication of host cells.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s4" sec-type="materials|methods">
+    <title>
+     Materials and Methods
+    </title>
+    <sec id="s4a">
+     <title>
+      Bacterial strains and growth in bacteriological medium
+     </title>
+     <p>
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains used in this study are shown in
+      . The TransforMax™ EC100™
+      <italic>
+       Escherichia coli
+      </italic>
+      strain (
+      <italic>
+       F
+       mcrA
+      </italic>
+      Δ
+      <italic>
+       (mrr-hsdRMS-mcrBC)
+      </italic>
+      ϕ
+      <italic>
+       80dlacZΔM15 ΔlacX74 recA1 endA1 araD139 Δ(ara, leu)7697 galU galK λ
+       rpsL nupG
+      </italic>
+      ) from EpiCentre was used in this study.
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains were cultured on Vogel-Bonner minimal medium
+      agar plates in the presence or absence of 400 µg/ml carbenicillin at 37°C.
+      <italic>
+       E. coli
+      </italic>
+      strains were cultured on Luria agar plates or broth supplemented with 50 µg/ml kanamycin, and/or 100 µg/ml ampicillin as required.
+     </p>
+    </sec>
+    <sec id="s4b">
+     <title>
+      Random mutagenesis by linker insertion
+     </title>
+     <p>
+      Random mutagenesis of
+      <italic>
+       pcrV
+      </italic>
+      was performed using the EZ::TN™ In-Frame Linker Insertion Kit, according to manufacturer\s instructions (EPICENTRE). The plasmid pUCP-pS-
+      <italic>
+       pcrV
+      </italic>
+      , an
+      <italic>
+       E. coli-Pseudomonas
+      </italic>
+      shuttle vector carrying
+      <italic>
+       pcrV
+      </italic>
+      under the control of the
+      <italic>
+       exoS
+      </italic>
+      promoter (pS,
+      ), was used as template DNA for the
+      <italic>
+       in vitro
+      </italic>
+      transposition reaction. After the transposition, the reaction mixture was electroporated into
+      <italic>
+       E. coli
+      </italic>
+      and grown on Luria agar containing 50 µg/ml kanamycin and 100 µg/ml ampicillin to select for clones carrying transposed plasmids. Plasmid DNA was prepared and subjected to restriction mapping and DNA sequence analysis using primers FP-2 and RP-2 provided in the linker insertion kit to determine the site of insertion of the EZ::TN™ &lt;
+      <italic>
+       Not
+      </italic>
+      I/KAN-3&gt; transposon in the
+      <italic>
+       pcrV
+      </italic>
+      coding region. Plasmids carrying insertions in
+      <italic>
+       pcrV
+      </italic>
+      were subjected to
+      <italic>
+       Not
+      </italic>
+      I digestion and re-ligation to remove all but 57-base pairs of insertion-derived sequence resulting in the in-frame insertion of 19 codons into
+      <italic>
+       pcrV
+      </italic>
+      . Each resolved clone was subjected to DNA sequence analysis to confirm the in-frame insertion. Plasmids carrying the 19-codon insertion in
+      <italic>
+       pcrV
+      </italic>
+      were transformed into
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains, PA103Δ
+      <italic>
+       pcrV
+      </italic>
+      or PA103.
+     </p>
+    </sec>
+    <sec id="s4c">
+     <title>
+      Site specific mutagenesis
+     </title>
+     <p>
+      Plasmid, pUCP-pS-
+      <italic>
+       pcrV
+      </italic>
+      was purified using a Qiagen miniprep kit. Plasmid DNA was mutagenized using Change-IT™ kit (USB). Primers used are (underline shows difference from wild-type sequence):
+     </p>
+     <p>
+      L63A:
+      <named-content content-type="gene">
+       5′-TCAAGGCGCTCGCCTGGTTG
+       <underline>
+        GC
+       </underline>
+       CGCGGCCAATCCGTCCGCGC-3′
+      </named-content>
+     </p>
+     <p>
+      D133A:
+      <named-content content-type="gene">
+       5′-CAAGCGCAAGGCGCTGCTCG
+       <underline>
+        C
+       </underline>
+       CGAGCTCAAGGCGCTGACCG-3′
+      </named-content>
+     </p>
+     <p>
+      Colony screening PCR and restriction enzyme digestion of the plasmids were used to select point mutants of interest. The mutations were confirmed by DNA sequencing analyses.
+     </p>
+    </sec>
+    <sec id="s4d">
+     <title>
+      Expression and controlled secretion of type III proteins in bacterial culture
+     </title>
+     <p>
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains were grown in Luria broth (LB) containing 400 µg/ml carbenicillin in the presence (inducing condition) or absence (non-inducing condition) of 2 mM NTA. Culture supernatant was separated from bacterial cells by centrifugation and subjected to ammonium sulfate precipitation
+      . After precipitation, the concentrated proteins were normalized to an equivalent OD
+      <sub>
+       540
+      </sub>
+      by suspending in SDS-PAGE sample buffer.
+     </p>
+    </sec>
+    <sec id="s4e">
+     <title>
+      Protein structure modeling
+     </title>
+     <p>
+      The amino acid sequence of PcrV from strain PA103 used in this study was submitted to Swiss Model server (Automated Comparative Protein Modeling Server,
+      <ext-link ext-link-type="uri" ns0:href="http://swissmodel.expasy.org">
+       http://swissmodel.expasy.org
+      </ext-link>
+      ). The structural data of the ortholog LcrV from
+      <italic>
+       Yersinia
+      </italic>
+      (PBD: 1r6f chain A) was used as a template for modeling. The Swiss-Pdb Viewer 4.0 was used to indicate the sites of the linker insertion in the PcrV structural model
+      . For coloring, the secondary structure succession mode was used to distinguish alpha-helices and beta-sheets. LcrV sequence from
+      <italic>
+       Y. pestis
+      </italic>
+      strains KIM 10 (NP_857946 and NP_857751) and Z176003 (YP_003560525) was used for alignment.
+     </p>
+    </sec>
+    <sec id="s4f">
+     <title>
+      Western blotting
+     </title>
+     <p>
+      For detection of specific proteins, samples were separated by SDS-PAGE, transferred to nitrocellulose membranes, and probed with rabbit anti-PcrV IgG, sheep anti-SOD IgG (CalBiochem), rabbit anti-PopD IgG, or mouse anti-ExoU monoclonal antibody U29F8. PopB was detected with a mouse monoclonal antibody produced by using a transmembrane domain-deleted molecule (a gift from Dr. Joseph T. Barbieri, Medical College of Wisconsin). As a secondary antibody, horseradish-peroxidase conjugates for rabbit IgG (Sigma), sheep IgG (Jackson), or mouse IgG (Roche) were used to detect the appropriate primary antibody. SuperSignal West Pico Chemiluminescent Substrate (Pierce) was used for detection of immuno-reactive proteins. Signals from Western blot chemoluminescent analyses were quantified by using an AlphaImager AIC (Alpha Innotech) for densitometry.
+     </p>
+    </sec>
+    <sec id="s4g">
+     <title>
+      Lactate dehydrogenase (LDH) release assays to measure cytotoxicity
+     </title>
+     <p>
+      HeLa cells were grown in 6-well tissue culture plates to approximately 6×10
+      cells per well. Bacterial cells suspended in serum-free DMEM were added for infection with an MOI of 5. When required, HeLa cells were pre-incubated for 30 min in serum-free DMEM containing 3 µg/ml cytochalasin D prior to and during infection. To follow the release of LDH over time, 30 µl aliquots of the tissue culture supernatant were removed at various time points and subjected to centrifugation. The supernatant was diluted in serum-free DMEM and LDH activity was measured using the CytoTox 96® Non-Radioactive Cytotoxicity Assay (Promega) according to the manufacturer\s instructions. Percent cytotoxicity was calculated using PA103Δ
+      <italic>
+       pcrV
+      </italic>
+      +pUCP-
+      <italic>
+       pS-pcrV
+      </italic>
+      as the maximum reference and uninfected samples as the baseline. Assays were performed at least 3 times as independent experiments and the error bars indicate standard deviations.
+     </p>
+    </sec>
+    <sec id="s4h">
+     <title>
+      Expression and localization of PcrV in the HeLa cell infection model
+     </title>
+     <p>
+      HeLa cells (2×10
+      cells) were seeded in a 60 mm cell culture dish and incubated at 37°C in 5% CO
+      <sub>
+       2
+      </sub>
+      overnight. HeLa cell monolayers were washed twice with HBSS and incubated in serum-free DMEM for 15 to 20 min. Bacterial cells were suspended in serum-free DMEM and used at an MOI of 5 for
+      <italic>
+       in vitro
+      </italic>
+      infections. After infection for 3 to 4 h, the culture medium containing bacteria was removed and subjected to centrifugation at 5,900×
+      <italic>
+       g
+      </italic>
+      for 10 min to isolate bacterial cells. The proteins in the supernatant were concentrated by ammonium sulfate precipitation for immunoblot analysis. The infected HeLa monolayers were washed with PBS twice and then 500 µl Triton solution (0.05% Triton X-100 and 10 mM EDTA in PBS) was added for fractionation. Cells were scraped and transferred into a microcentrifuge tube. The culture dish was rinsed with additional 100 µl of Triton solution to complete the harvesting of cells. Harvested cells were incubated at room temperature (RT) for 30 min and briefly vortexed several times during the incubation period. The insoluble fractions were collected by centrifugation at 16,100×
+      <italic>
+       g
+      </italic>
+      for 15 min at RT. The supernatant (soluble fractions) represents cellular cytosolic and translocated bacterial proteins.
+     </p>
+    </sec>
+    <sec id="s4i">
+     <title>
+      Hemolysis assay and erythrocyte protection by Mab166
+     </title>
+     <p>
+      The hemolysis and protection assays were performed based on modified protocols from Blocker
+      <italic>
+       et. al.
+      </italic>
+      and Goure
+      <italic>
+       et al.
+      </italic>
+      ,
+      . Sheep red blood cells (RBCs, PML microbiologicals) were washed and stored in 5 mM glucose in PBS. Bacterial cells were grown in LB at 37°C for 3 h, washed and suspended in 5 mM glucose in PBS prior to infection. A mixture of 5×10
+      RBCs and 2.5×10
+      bacterial cells (MOI of 0.5) was suspended in the total volume of 200 µl in 0.5 ml microcentrifuge tubes. The samples were subjected to centrifugation at 1,000× g for 10 min at RT and then incubated at 37°C for 1 h. After incubation, RBCs and bacteria were subjected to centrifugation and 150 µl of supernatant was used to assess released hemoglobin as measured by absorbance at 415 nm (SpectraMax M5 by Molecular Devices). To evaluate the protection of RBCs by the monoclonal antibody, 10 µg of MAb166 was incubated with bacterial cells at RT for 45 min and followed by the addition of RBCs for the hemolysis assay. Protection of erythrocytes was calculated by the formula:
+      <disp-formula>
+       <graphic mimetype="image" ns0:href="pone.0018356.e001.jpg" position="float"/>
+      </disp-formula>
+      Assays were performed at least 3 times and the error bars indicate standard deviations.
+     </p>
+    </sec>
+    <sec id="s4j">
+     <title>
+      Surface localization of PcrV derivatives
+     </title>
+     <p>
+      The flow cytometry procedure used was modified from the method reported by Lee
+      <italic>
+       et al.
+      </italic>
+      . Bacterial cells (initial OD
+      <sub>
+       540
+      </sub>
+      of 0.1) were grown in LB containing 400 µg/ml carbenicillin in the presence or absence of 2 mM NTA at 37°C for 2.5 h. Cells were collected from 1 ml of culture by centrifugation at 1,300×
+      <italic>
+       g
+      </italic>
+      for 4 min, suspended in 250 µl PBS, and gently mixed by pipetting. For fixation, the same volume of 4% para-formaldehyde in PBS was added and incubated on a rotator for 25 min at room temperature. The reaction was quenched by addition of 25 µl of 1 M Tris-HCl (pH 8) followed by an incubation for 5 min. Fixed cells were washed with PBS and then blocked with 500 µl of 10% fetal bovine serum (FBS) in PBS for 1 h. V-tip protein localization on the bacterial cell surface was measured by assessing the binding of a rabbit anti-PcrV IgG (1∶500) for 1 h. The binding step was followed by two washes with 10% FBS/PBS. Cells were labeled with an Alexa Fluor 488-conjugated anti-rabbit IgG (1∶2,000, Invitogen) for 1 h and washed with 10% FBS/PBS once and then with PBS once. Bacterial cells were subjected to centrifugation and suspended in 750 µl of PBS. The samples were diluted at 1∶200 with PBS prior to flow cytometry analysis using Guava easyCyte 6HT (Millipore). Samples were prepared in duplicate from at least two independent experiments for statistical analyses with SD. For fluorescence microscopy, immunoprobed cells were analyzed with Nikon Eclipse Ti-U inverted microscope with Chroma Sedat filters using a 100× oil immersion objective lens. NIS-Elements software (Nikon) was used for image acquisition. To quantify the surface localization of PcrV, 12 field images were randomly captured for each sample and then the number of bacterial cells possessing the signals of PcrV was compared to the number of DAPI-stained bacterial cells.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s5" sec-type="supplementary-material">
+    <title>
+     Supporting Information
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

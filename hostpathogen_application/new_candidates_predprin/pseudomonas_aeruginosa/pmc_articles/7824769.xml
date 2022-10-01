@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Identification of Small Molecules Blocking the
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   is an opportunistic bacterial pathogen that employs its type III secretion system (T3SS) during the acute phase of infection to translocate cytotoxins into the host cell cytoplasm to evade the immune system. The PcrV protein is located at the tip of the T3SS, facilitates the integration of pore-forming proteins into the eukaryotic cell membrane, and is required for translocation of cytotoxins into the host cell. In this study, we used surface plasmon resonance screening to identify small molecule binders of PcrV. A follow-up structure-activity relationship analysis resulted in PcrV binders that protect macrophages in a
+   <italic>
+    P. aeruginosa
+   </italic>
+   cell-based infection assay. Treatment of
+   <italic>
+    P. aeruginosa
+   </italic>
+   infections is challenging due to acquired, intrinsic, and adaptive resistance in addition to a broad arsenal of virulence systems such as the T3SS. Virulence blocking molecules targeting PcrV constitute valuable starting points for development of next generation antibacterials to treat infections caused by
+   <italic>
+    P. aeruginosa
+   </italic>
+   .
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="sec1-biomolecules-11-00055" sec-type="intro">
+    <title>
+     1. Introduction
+    </title>
+    <p>
+     Infectious diseases continue to constitute a threat to public health and a serious cause of morbidity and mortality worldwide. The alarming emergence rate of antimicrobial resistance is estimated to result in 10 million annual deaths with a cost of $100 trillion by 2050 [
+     ]. The gram-negative bacterium
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     is an opportunistic pathogen and one of the most frequent causes of urinary tract, bloodstream, and burn wound infections as well as hospital-acquired pneumonia and cystic fibrosis-associated infections worldwide [
+     ].
+     <italic>
+      P. aeruginosa
+     </italic>
+     is a “superbug” with a unique capacity to develop resistance [
+     ]. This is due to a combination of acquired, intrinsic, and adaptive resistance. Acquired resistance results from horizontal gene transfer and mutations leading to reduced uptake, efflux pump overexpression, target mutations, and expression of antibiotic modifying enzymes such as extended spectrum β-lactamases. The intrinsic resistance stems from a generally low outer membrane permeability, β-lactamase production, and constitutive expression of efflux pumps. Adaptive resistance is the result of triggering factors such as antibiotics, biocides, polyamines, pH, anaerobiosis, cations, and carbon sources as well as social behavior in biofilm formation. These factors modulate the expression of genes that lead to increased resistance. Taken together, these features have resulted in multi-drug-resistant
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains for which no effective antibiotic treatment is available, and these strains are becoming more frequent [
+     ]. The ability of
+     <italic>
+      P. aeruginosa
+     </italic>
+     to rapidly acquire or develop resistance against multiple classes of antimicrobials narrows down and complicates the selection of antimicrobial therapy, which is crucial in optimizing clinical outcome [
+     ,
+     ]. Furthermore, infections caused by antibiotic-resistant
+     <italic>
+      P. aeruginosa
+     </italic>
+     are associated with increased rates of morbidity and mortality, particularly in critically ill and immunocompromised individuals such as cystic fibrosis and cancer patients [
+     ]. In such patients, approaches targeting virulence factors have the potential to prevent infection or to augment the effect of conventional antibiotics.
+    </p>
+    <p>
+     <italic>
+      P. aeruginosa
+     </italic>
+     uses a broad arsenal of virulence factors, such as type IV pili, flagella, quorum sensing, biofilm formation, and different secretion systems (type I–IV and VI) to adapt to and survive within diverse harsh environmental settings and under minimal nutritional requirements [
+     ,
+     ,
+     ,
+     ,
+     ]. Several of these systems, predominantly quorum sensing, biofilm formation, and type III and VI secretion systems, have been exploited in the search for novel therapeutic agents [
+     ] A recent example is the report on tanshinones, a class of natural products blocking T3SS biogenesis in
+     <italic>
+      P. aeruginosa
+     </italic>
+     in vitro and in vivo [
+     ].
+    </p>
+    <p>
+     Like several other gram-negative pathogens,
+     <italic>
+      P. aeruginosa
+     </italic>
+     utilizes its type III secretion system (T3SS) during the acute phase of infection to inject effector proteins (toxins) into the eukaryotic cytoplasm to subvert the host and to evade the immune defense [
+     ]. To date, four known toxins, exoenzymes, secreted by
+     <italic>
+      P. aeruginosa
+     </italic>
+     T3S have been described: ExoU, a potent phospholipase; ExoS and ExoT, closely related bifunctional enzymes with ADP-ribosylation and GTPase activity; and ExoY, an adenylate cyclase [
+     ,
+     ]. The core of the T3SS is a nanosyringe structure that consists of a basal body spanning the bacterial membrane and an extracellular needle-like structure protruding from the bacterial surface and designed to deliver the effector proteins upon contact with a host cell (
+     ) [
+     ,
+     ]. Although, the exact mechanism of the translocation remains poorly understood, it is believed that translocation of the effector protein is triggered by contact with the host cell. The PcrV protein forms an oligomeric ring structure, most likely a pentamer, at the tip of the needle that is crucial for a functional T3SS. [
+     ,
+     ] In addition, two hydrophobic translocator proteins, PopB and PopD [
+     ,
+     ,
+     ], assemble with the PcrV protein at the tip of the T3SS needle and are inserted into the host cell membrane to form a functional pore (
+     ) [
+     ,
+     ,
+     ,
+     ].
+    </p>
+    <p>
+     One approach to develop novel antibacterial agents is to block pathogenicity by inhibiting virulence instead of targeting bacterial viability [
+     ]. Several authors suggest that a low probability for development of resistance is one of the key advantages of using virulence systems as targets for novel anti-infectives [
+     ,
+     ]. Resistance to compounds targeting virulence factors will most likely not evolve and spread in endogenous bacterial flora, since these bacteria do not express the specific virulence targets. The T3SS of
+     <italic>
+      P. aeruginosa
+     </italic>
+     and other gram-negative pathogens have been explored as targets for the development of virulence-blocking antibacterial agents [
+     ,
+     ]. A number of synthetic and natural compounds have been demonstrated to block the T3SS of
+     <italic>
+      P. aeruginosa
+     </italic>
+     , resulting in attenuation of infection in vitro and in vivo [
+     ,
+     ,
+     ,
+     ,
+     ,
+     ]. However, most of these compounds have been identified by phenotypic screening and the mode of action at the molecular level remains unknown.
+    </p>
+    <p>
+     PcrV is an attractive therapeutic target for the development of virulence blocking compounds against
+     <italic>
+      P. aeruginosa
+     </italic>
+     . Several studies have shown that PcrV is essential for a functional T3SS and intoxication of the host cell. Deletion of the
+     <italic>
+      pcrV
+     </italic>
+     gene (Δ
+     <italic>
+      pcrV
+     </italic>
+     ) results in a mutant that is incapable of delivering the T3S toxins into the eukaryotic cells, thus abolishing in vitro and in vivo cytotoxicity [
+     ,
+     ,
+     ,
+     ]. In addition, it was found that active and passive immunization against PcrV greatly increase the survival rate in animal models of
+     <italic>
+      P. aeruginosa
+     </italic>
+     -induced lung infection [
+     ]. Since PcrV is present on the exterior of the bacterium, the challenge of entry into the bacterial cell and the action of efflux pumps are circumvented. Importantly, the T3SS in
+     <italic>
+      P. aeruginosa
+     </italic>
+     is essential to block macrophage phagocytosis and the anti-PcrV antibody was demonstrated to successfully protect the macrophage from infection [
+     ,
+     ]. Later, many monoclonal and polyclonal anti-PcrV antibodies were shown to protect against
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection in a variety of animal models [
+     ,
+     ,
+     ,
+     ,
+     ] and anti-PcrV antibodies have been advanced to clinical trials [
+     ,
+     ,
+     ]. Despite the essential role of PcrV in translocation mechanism, to date, there is no structural information, e.g., crystal structures available of the complete PcrV protein although a homology model has been built based on the crystal structure of LcrV from
+     <italic>
+      Yersinia
+     </italic>
+     [
+     ], and to the best of our knowledge, small molecules blocking PcrV have not been described. Two recent studies describe surface plasmon resonance (SPR) screening against the analogues in
+     <italic>
+      Shigella
+     </italic>
+     (IpaD) and in
+     <italic>
+      Salmonella
+     </italic>
+     (SipD), resulting in low affinity binders; however, virulence blocking activity of these compounds have not been established [
+     ,
+     ].
+    </p>
+    <p>
+     Surface plasmon resonance (SPR) is a powerful and versatile biophysical technique for the detection of small molecule-biomolecule interactions, complementary with other techniques such as nuclear magnetic resonance (NMR) spectroscopy and X-ray crystallography [
+     ]. SPR is sensitive and allows kinetic and thermodynamic evaluation, which makes it an excellent choice for the detection of low molecular weight analytes (e.g., 100–300 Da) and low-affinity interactions (i.e., high µM to mM). Moreover, one advantage that most SPR technologies offer nowadays is the availability of multiple biosensor channels, which allows the study of multiple proteins in parallel.
+    </p>
+    <p>
+     In this study, we describe SPR screening of a library of 7600 diverse small molecules to identify nontoxic PcrV binders with efficacy in a cell-based
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection model at µM concentrations that can potentially be used as starting points for the development of a virulence blocking molecule.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec2-biomolecules-11-00055">
+    <title>
+     2. Materials and Methods
+    </title>
+    <sec id="sec2dot1-biomolecules-11-00055">
+     <title>
+      2.1. Protein Expression and Purification
+     </title>
+     <p>
+      The PcrV gene (amino acid 20-294) was cloned into NcoI/Acc65I sites in the pETHis1a plasmid and transformed into the competent
+      <italic>
+       E. coli
+      </italic>
+      strain BL(DE3) (Novagen), generating a PcrV-protein lacking the first 19 amino acids and having a His-tag in the N-terminal. Three milliliters of overnight cultures of BL21(DE3) (pETHis1a, pcrV) grown in Luria Broth (LB) containing 50 µg/mL Kanamycin were added to 600 ml TYM-5052 medium, grown for 4 h; shook at 37 °C; and after the temperature was shifted to 26 °C, incubated overnight. The culture was then centrifuged, and pellet was washed in phosphate buffered saline (PBS) and then frozen for 24 h, after which lysis buffer was added and the sample was sonicated. Purification was carried out using gravity flow on Econo-Pac columns (Bio-Rad) packed with 2 mL of Ni
+      charged nitrilotriacetic acid (NTA) agarose (Qiagen) and equilibrated with lysis buffer. The column was washed with 10× the bead volume using wash buffer II, and the PcrV protein was eluted using 5× the bead volume of elution buffer. For all buffer ingredients, see the
+      . The eluate was dialyzed in PBS, loaded on a 12% sodium dodecyl sulfate (SDS) gel, and stained using Coomassie. A very strong band was seen corresponding to PcrV, and the concentration was measured to 6.87 mg/mL. The purified PcrV protein was then used in SPR screening.
+     </p>
+    </sec>
+    <sec id="sec2dot2-biomolecules-11-00055">
+     <title>
+      2.2. Surface Plasmon Resonance
+     </title>
+     <p>
+      The SPR screening was performed using the ProteOn
+      XPR36 Protein Interaction Array System (Bio-Rad Laboratories Inc., Hercules, CA, USA) with ProteOn GLH sensor chip (Bio-Rad Laboratories Inc., Hercules, CA, USA), and the results were analyzed with the ProteOn Manager software
+      (Bio-Rad Laboratories Inc., Hercules, CA, USA), Excel 2016 (Microsoft Office), and GraphPad Prism 7.04. All SPR experiments were performed at 25 °C. The multichannel module of the ProteOn system was in the vertical position during protein immobilization. The proteins were attached to the surface of a GLH sensor chip via amine coupling chemistry. A buffer scouting was performed to elucidate the optimal binding conditions of PcrV to the GLH sensor chip. First, channels 1–4 on the chip surface were activated using a 1:1 mixture of 40 mM 1-ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (EDAC) (Bio-Rad Laboratories Inc., Hercules, CA, USA) and 10 mM
+      <italic>
+       N
+      </italic>
+      -hydroxysulfosuccinimide (sulfo-NHS, Bio-Rad Laboratories Inc., Hercules, CA, USA) for 300 s at 30 µL/min. Next, the proteins PcrV (33,398.6 Da, 6.37 mg/mL) was diluted in 10 mM NaOAc (pH 4, 4.5, and 5) to 0.05 mg/mL. PcrV was immobilized in channel 1–3 for 540 s at 30 µL/min. Channel 4 was flushed with 10 mM NaOAc (pH 5) for 540 s at 30 µL/min. As deactivating agent, a 1:1 mixture of 1 M ethanolamine and milli-Q filtered water was used. The deactivating solution was injected over all four channels for 300 s at 30 µL/min. Phosphate buffered saline with Tween (PBST; 10 mM phosphate buffer pH 7.4, 140 mM NaCl, 2.7 mM KCl, and 0.05% Tween 20) was used as the running buffer. The final amount of immobilized protein was measured in resonance units (RU) relative to the signal of the baseline prior activation. Sodium acetate of pH 5 and 4.5 gave comparable results (21,000 and 20,000 RU), while sodium acetate of pH 4 gave lower immobilization (16,000 RU) of PcrV to the surface. Immobilization of PcrV diluted in sodium acetate of pH 4.5 in one channel and of pH 5 in one channel were used in the beginning of the screening procedure (for plate 1–26). Since no difference was found between the two pH values, the PcrV protein was diluted in sodium acetate at pH 5 only (in two channels) from plate 27 and the rest of the screen. The immobilization procedure for the screening was performed as described above with the addition that the control protein carbonic anhydrase isoenzyme II from bovine erythrocytes (CAII, Sigma-Aldrich, article number 2522) was immobilized in one channel that was activated and deactivated as described above. CAII (1 mg/mL in PBS) was deactivated when diluted in 10 mM sodium acetate (pH 4) to 0.05 mg/mL. Immobilization level of the deactivated CAII was 18,000 RU. Deactivated CAII was used as a control protein according to the recommendations by the ProteOn manufacturer (Bio-Rad Laboratories Inc., Hercules, CA, USA). As running buffer, we employed PBS (pH 7.4, 0.05% Tween 20).
+     </p>
+     <p>
+      After ligand immobilization, the multichannel module of the ProteOn system was shifted to the horizontal position. The screening compound library consisted of 7600 compounds (95 plates and 80 compounds/plate) provided by the Laboratories for Chemical Biology Umeå (LCBU), Umeå University. The compounds were selected to cover the chemical space occupied of around 40,000 diverse compounds (Diverset, ChemBridge, San Diego, CA, USA). The compounds had a molecular weight between 250.17 and 449.97 g/mol and cLogP between −5.62 and 11.12 and, thus, contained fragments as well as lead-like and drug-like molecules. The analytes, i.e., the small molecule screening compounds, were prepared from DMSO stock solution (5 mM) in PBST buffer (0.05% Tween 20) to achieve a final concentration of 100 µM with a final DMSO concentration of 5% in 96-well plates (Proteon Standard Microplates, 98 wells, Bio-Rad Laboratories Inc., Hercules, CA, USA). The plates were sealed (ProteOn Microplate sealing film, Bio-Rad Laboratories Inc., Hercules, CA, USA) when the plate was prepared. The running buffer was PBST (0.05% Tween 20) containing 5% DMSO. The analytes were injected at a flow rate of 100 µL/min, contact time was 60 s, and dissociation time was 60–120 s. Solvent correction was performed continuously during screening to account for bulk response of DMSO. Each sensor chip was used for up to a week, allowing immobilization and then screening of 8–16 plates. The data was baseline-aligned, processed by channel-referencing with channel 4, and solvent-corrected. The data, i.e., the response, was then exported to Excel (Microsoft Office), where it was adjusted for molecular weight of the analyte (and multiplied with 100). Molecules with two times higher binding to PcrV compared to the control protein, CAII, were considered as selective binders, exemplified in
+      . Occasionally, air bubbles in the diluted sample wells interfered.
+     </p>
+     <p>
+      The analytes, i.e., the hits from the screening campaign that did not inhibit growth of
+      <italic>
+       P. aeruginosa
+      </italic>
+      , and synthesized analogs were further evaluated in dose-response experiments using SPR technique. First, the PcrV protein was immobilized in two channels as described above while keeping a blank channel which was activated and deactivated as described above. The multichannel module of the ProteOn system was in horizontal position during the small molecule interaction studies. They were serially diluted to (400,) 200, 100, 50, 25, 12.5, 6.25, and (3.125); or 100, 50, 25, and 12.5 µM; or 100, 66.7, 44.4, 29.6, 19.7, and 13.2 µM in PBST (0.05% Tween 20) with a total concentration of 5% DMSO in 96-well plates. The running buffer was PBST (0.05% Tween 20) containing 5% DMSO. The analytes were injected at a flowrate of 100 µL/min, contact time was 60 s, and dissociation time was 60–120 s. Solvent correction was performed continuously during the experiments to account for bulk response of DMSO. The data was then baseline-aligned, processed by channel referencing with the blank channel, and solvent-corrected. The equilibrium dissociation constant (K
+      <sub>
+       D
+      </sub>
+      ) values were determined from equilibrium analysis in the ProteOn Manager software
+      . Solubility problems frequently hampered K
+      <sub>
+       D
+      </sub>
+      determination since the small molecules could not always be dissolved in concentrations high enough to reach a plateau. The K
+      <sub>
+       D
+      </sub>
+      values in
+      consist of an averaged K
+      <sub>
+       D
+      </sub>
+      ± standard deviation calculated from at least three independent experiments (except from substances where no mean K
+      <sub>
+       D
+      </sub>
+      or standard deviation of K
+      <sub>
+       D
+      </sub>
+      is given) from one of the channels. Standard deviation was calculated using √((∑(x − M)
+      )/(
+      <italic>
+       n
+      </italic>
+      − 1)), where x refers to the individual data points, M is the mean, and
+      <italic>
+       n
+      </italic>
+      is the number of data points.
+     </p>
+    </sec>
+    <sec id="sec2dot3-biomolecules-11-00055">
+     <title>
+      2.3.
+      H NMR Binding Experiment
+     </title>
+     <p>
+      A solution containing 100 µM of the small molecule was prepared from 20 mM stock solution of the tested compound in DMSO and diluted in PBS (pH 7.4) containing trimethylsilyl propanoic acid (TMSP) as an internal standard. This solution was then split into halves and used for preparation of the test and the reference samples as follows: the test sample was prepared by adding 24 µL of 0.211 mM PcrV protein stock solution, resulting in a final protein concentration of 10 µM, whereas the reference sample was prepared by adding the corresponding volume of PBS buffer only before being transferred to 5-mm NMR tubes. The relaxation-edited experiments shown in
+      D were recorded on Bruker 600 MHz, and data were acquired at 298 K. Data from 256 scans were accumulated, and a Carr-Purcell-Meiboom-Gill (cpmg) spin-lock of 200 ms was used. Excitation sculpture was applied for water suppression.
+     </p>
+    </sec>
+    <sec id="sec2dot4-biomolecules-11-00055">
+     <title>
+      2.4. Cell Viability Assay
+     </title>
+     <p>
+      The cell viability assay was performed essentially as described before [
+      ]. J774 cells were seeded in 96-well micro-titer plates (Nunc), 100 µL/well, to a final number of 50,000 cells/well in Dulbecco’s modified Eagle’s medium (DMEM) with glutamax (Merck) supplemented with 10% fetal calf serum (FCS) and 3 µg/mL gentamicin and incubated for 16-18 h. Overnight cultures of the
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains PAK and PAK
+      <italic>
+       pcrV
+      </italic>
+      [
+      ] were grown in Luria Broth (LB) on a rotary shaker at 220 rpm at 37 °C. Prior to infection, the bacteria were diluted 1:10 in DMEM + glutamax and incubated for 1 h at 37 °C (shaking). The J774 cells were washed once with PBS, then 30 µL of DMEM with glutamax and 10% FCS supplemented with the potential binders at concentrations of 50, 100, 200, and 400 µM were added to the wells in triplicates. The infection was initiated by adding 30 µL of the diluted bacterial solutions (where the OD
+      <sub>
+       600
+      </sub>
+      had been diluted to 0.0008) to each well to initiate infection. This infection results in a final bacterial concentration of OD
+      <sub>
+       600
+      </sub>
+      = 0.0004 and a multiplicities of infection (MOI) of approximately 8, with final concentrations of the compounds at 25, 50, 100, and 200 µM in 60 µL of DMEM + glutamax and 5% FCS. In the primary screening, the compounds were run at one concentration (100 µM) in duplicates. As an infection control, the wild-type strain PAK with 1% DMSO was added, and as a positive control, PAK
+      <italic>
+       pcrV
+      </italic>
+      with 1% DMSO was added into four wells each. After 3 h and 30 min, 10 µL of UptiBlue Viable Cell Counting Kit (Interchime, France) was added to all wells. The infection was followed under the light microscope and the fluorescence (excitation 535 nm and emission 595 nm) was measured at 4, 5, and 6 h in a microplate reader (Synergy™ H4, Biotek). The results were calculated as percentage of living cells compared to uninfected control, where the uninfected control was set to 100% living cells and the infected control was set to 0% living cells. As a control, compounds were added to uninfected cells in a parallel experiment and viability was calculated as above to screen for cell toxicity. A compound was considered toxic if the viability was &lt;80% of the uninfected control after 6 h of incubation and if a visual change of cell morphology was observed by microscopy. Z’ was calculated for each plate to ensure good quality throughout the screening. Only results from plates with a Z’ &gt; 0.4 were counted. Standard deviation was calculated with Gaussian approximation when appropriate and shown as error bars in
+      C and
+      A.
+     </p>
+    </sec>
+    <sec id="sec2dot5-biomolecules-11-00055">
+     <title>
+      2.5. Bacterial Toxicity Assay
+     </title>
+     <p>
+      Overnight culture of the
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PAK was diluted in LB (Luria Broth) to an OD
+      <sub>
+       600
+      </sub>
+      of 0.2. The bacteria were added into microtiter plates, and 25, 50, 100, and 200 µM of the potential binders were added in triplicates to the bacteria with a final concentration of 1% DMSO. OD
+      <sub>
+       600
+      </sub>
+      was measured every hour for seven hours in a microplate reader (Victor, Perkin Elmer). Wells with 1% DMSO without substance were used as positive controls.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec3-biomolecules-11-00055" sec-type="results">
+    <title>
+     3. Results and Discussion
+    </title>
+    <sec id="sec3dot1-biomolecules-11-00055">
+     <title>
+      3.1. Screening and Hit Validation
+     </title>
+     <p>
+      Amino acid 20-294 of PcrV were cloned and expressed in
+      <italic>
+       Escherichia coli
+      </italic>
+      , and subsequent purification furnished pure PcrV in high yield (
+      ). The protein was soluble in phosphate-buffered saline (PBS), able to form secondary structures according to circular dichroism (CD) spectroscopy measurements (
+      ) and to bind to its cognate chaperone, PcrG, using NMR spectroscopy (data not shown), and was therefore considered suitable for SPR screening.
+     </p>
+     <p>
+      Assay development and screening were performed on a ProteOn XPR36 SPR instrument (Bio-Rad
+      Laboratories Inc., Hercules, CA, USA) that offers screening in 96-well plates, allowing analysis of up to 36 different interactions in parallel. The target protein PcrV was immobilized as duplicates on two different channels, and a deactivated control protein, carbonic anhydrase (CAII, Sigma-Aldrich), was immobilized as a negative control on a third channel. This makes it possible to distinguish between selective and nonselective PcrV binders. To allow blank subtraction, a fourth channel was treated in the same way as the other three channels (activation and deactivation) but without protein immobilization. The proteins were immobilized covalently with amine coupling chemistry to carboxylic acid functionalized chips activated with 1-ethyl-3-(3-dimethylaminopropyl) carbodiimide hydrochloride (EDAC) and
+      <italic>
+       N
+      </italic>
+      -hydroxysulfosuccinimide (sulfo-NHS). A library composed of 7600 small organic compounds selected from a ChemBridge diversity set dissolved in dimethylsulfoxide (DMSO) were screened at 100 µM in PBS with 0.05% Tween 20 (PBST) at a final DMSO concentration of 5%. Compounds with two times higher binding to PcrV than to the deactivated control protein CAII were considered as potential binders, while the best binders had more than five times higher binding to PcrV than to CAII, as exemplified in
+      . The screening resulted in 395 potential PcrV binders that were tested for biological activity in an infection assay at 100 µM [
+      ].
+     </p>
+     <p>
+      The T3SS is important for
+      <italic>
+       P. aeruginosa
+      </italic>
+      infection of eukaryotic cells, and a T3SS activator mutant or a mutant lacking the T3SS tip protein PcrV are not able to infect eukaryotic cells [
+      ,
+      ]. The macrophage cell line, J774, was infected with the wild-type
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PAK, and the potential PcrV binders were added to the wells at a final concentration of 100 µM to screen for inhibition of infection. The T3SS-mediated cytotoxic effect on the eukaryotic cells was measured by using a viability staining method (Uptiblue, Interchim), and the results were measured after 4, 5, and 6 h of infection. The
+      <italic>
+       pcrV
+      </italic>
+      -mutant (PAK
+      <italic>
+       pcrV
+      </italic>
+      ) [
+      ], which is not able to infect macrophages due to deletion of the PcrV protein, was used as a control. Out of the 395 tested compounds, 53 inhibited the infection significantly (&gt;3 standard deviations) and were chosen for further validation.
+     </p>
+     <p>
+      The binding affinity constants (K
+      <sub>
+       D
+      </sub>
+      ) for binding of the compounds to PcrV were determined by SPR dose-response experiments as exemplified for
+      <bold>
+       H1
+      </bold>
+      (averaged K
+      <sub>
+       D
+      </sub>
+      106 ± 36 µM;
+      A,B,
+      , and
+      ). The 53 compounds were also evaluated in the macrophage cell infection assay at four different concentrations: 200, 100, 50, and 25 µM, as exemplified for
+      <bold>
+       H1
+      </bold>
+      (
+      C). The toxicity of the binders was also tested towards
+      <italic>
+       P. aeruginosa
+      </italic>
+      since PcrV binders should function as virulence blockers, i.e., block virulence without affecting bacterial growth (
+      E).
+     </p>
+     <p>
+      To confirm the binding data obtained from the SPR, a secondary qualitative label-free binding experiment based on
+      H-NMR was performed [
+      ]. In this
+      H-NMR binding experiment, changes in relaxation time of resonances from small molecules (&lt;600 Da) upon binding to the large protein (PcrV) were observed, as exemplified by the signal reduction for
+      <bold>
+       H1
+      </bold>
+      (
+      D).
+     </p>
+     <p>
+      Taken together, the results from the validation of the binders resulted in 20 compounds that bind the PcrV protein according to NMR spectroscopy and show dose-dependent binding in SPR. In addition, these compounds showed biological activity by inhibiting cell infection with low toxicity towards bacteria and eukaryotic cells. The identity and the purity of the 20 potential PcrV binders that showed efficacy in the cell infection assay were then validated using liquid chromatography mass spectrometry (LCMS). The ChEMBL database [
+      ,
+      ] was used for cheminformatics and bioactivity mining using substructure and similarity searches. Resynthesizing the most promising compounds along with a few analogues and subsequent evaluation in SPR and in the cell infection assay confirmed
+      <bold>
+       H1
+      </bold>
+      (
+      ) as the most promising starting point for further investigation.
+     </p>
+    </sec>
+    <sec id="sec3dot2-biomolecules-11-00055">
+     <title>
+      3.2. Design, Synthesis and Structure–Activity Relationships
+     </title>
+     <p>
+      To probe the binding interactions between
+      <bold>
+       H1
+      </bold>
+      and PcrV and to establish structure-activity relationships, a number of analogues were designed and synthesized as outlined in
+      ,
+      and
+      .
+     </p>
+     <p>
+      The central ether linker in all compounds
+      <bold>
+       1
+      </bold>
+      –
+      <bold>
+       33
+      </bold>
+      were synthesized via Williamson ether synthesis from the corresponding phenol derivatives in 40–94% yields as outlined in
+      . Compounds
+      <bold>
+       18
+      </bold>
+      –
+      <bold>
+       27
+      </bold>
+      with terminal amide or sulfonamide were synthesized from the corresponding acid and amine using 1-[bis(dimethylamino)methylene]-1
+      <italic>
+       H
+      </italic>
+      -1,2,3-triazolo[4,5-
+      <italic>
+       b
+      </italic>
+      ]pyridinium 3-oxid hexafluoro- phosphate (HATU) or 1
+      <italic>
+       H
+      </italic>
+      -benzotriazole-1-yl)-1,1,3,3-tetramethylaminium tetrafluoroborate (TBTU) as coupling agents (
+      ). Alcohol
+      <bold>
+       28
+      </bold>
+      and ester
+      <bold>
+       29
+      </bold>
+      were prepared from the corresponding acid via reduction with borane or esterification with trimethylsilyldiazomethane, respectively. Compound
+      <bold>
+       30
+      </bold>
+      was synthesized by employing Sonogashira coupling and alkyne reduction followed by Appel reaction and
+      <italic>
+       O
+      </italic>
+      -alkylation (
+      ).
+     </p>
+     <p>
+      Compounds
+      <bold>
+       32
+      </bold>
+      and
+      <bold>
+       33
+      </bold>
+      with cyclopropyl linker were synthesized from the corresponding allyloxy substrate by applying intermolecular carbenoid cyclopropanation reaction with dirhodium tetraacetate and ethyl diazoacetate [
+      ] that afforded the desired substance in a diastereomeric mixture in 2:1 (
+      <italic>
+       E/Z
+      </italic>
+      ) ratio, which was subjected to chromatography that allowed the separation of the
+      <italic>
+       E
+      </italic>
+      and
+      <italic>
+       Z
+      </italic>
+      diastereoisomers in their racemic form and an overall yield of 68% (
+      ).
+     </p>
+     <p>
+      All analogues were evaluated for dose-dependent binding to PcrV using SPR (
+      ); compounds with dose-dependent binding were tested for virulence blocking activity in the macrophage infection assay and for toxicity towards bacteria and eukaryotic cells.
+     </p>
+     <p>
+      <bold>
+       <italic>
+        Substitution
+       </italic>
+      </bold>
+      : Based on the possibility that the aromatic ring of
+      <bold>
+       H1
+      </bold>
+      is involved in a hydrophobic or halogen interaction [
+      ], we designed and synthesized analogues with various substituents on different positions of the aromatic ring. We observed that dihalogenated aromatics with a hydrophobic character such as 2,4-dichloro (
+      <bold>
+       1
+      </bold>
+      ) or 3,5-dicholoro (
+      <bold>
+       2
+      </bold>
+      ) showed binding affinities &lt; 127 µM, while the 4-chloro (
+      <bold>
+       3
+      </bold>
+      ) and 4-iodo (
+      <bold>
+       4
+      </bold>
+      ) or 4-bromo-2-fluoro (
+      <bold>
+       5
+      </bold>
+      ) showed no binding at the examined concentrations. Electron-donating groups with a resonance effect located
+      <italic>
+       ortho
+      </italic>
+      (
+      <bold>
+       6
+      </bold>
+      ),
+      <italic>
+       meta
+      </italic>
+      (
+      <bold>
+       7
+      </bold>
+      ), or
+      <italic>
+       para
+      </italic>
+      (
+      <bold>
+       8
+      </bold>
+      ) to the linker impaired binding. Analogues carrying one electron withdrawing group in the
+      <italic>
+       meta
+      </italic>
+      (
+      <bold>
+       9
+      </bold>
+      ) position as well as polar functionalities with the capacity to form hydrogen bonds such as carboxylic acid (
+      <bold>
+       10
+      </bold>
+      ) showed no binding to PcrV. The same result was obtained with a heteroaromatic compound (
+      <bold>
+       11
+      </bold>
+      ). Taken together, these results suggest a preference for an aromatic ring with hydrophobic and electron withdrawing substituents. Accordingly, a few trisubstituted analogues were synthesized by shuffling the dimethyl groups around the ring (
+      <bold>
+       12
+      </bold>
+      ,
+      <bold>
+       13
+      </bold>
+      , and
+      <bold>
+       14
+      </bold>
+      ) while keeping a bromo or cyano substituent in the
+      <italic>
+       para
+      </italic>
+      position. The 2,6-dimethyl pattern (
+      <bold>
+       12
+      </bold>
+      and
+      <bold>
+       13
+      </bold>
+      ) reduced binding, while hydrophobic substituents on positions 2,3 (
+      <bold>
+       H1
+      </bold>
+      ) or 3,5 (
+      <bold>
+       14
+      </bold>
+      ) resulted in binding affinities &lt; 150 µM. To explore the possibility of extending the aromatic group further, we tested a larger substituent, such as
+      <italic>
+       p
+      </italic>
+      -cyclohexyl (
+      <bold>
+       15
+      </bold>
+      ), benzyl (
+      <bold>
+       16
+      </bold>
+      ), or phenoxy (
+      <bold>
+       17
+      </bold>
+      ) on the aromatic ring. Only the
+      <italic>
+       p
+      </italic>
+      -cyclohexyl substituent was tolerated with K
+      <sub>
+       D
+      </sub>
+      of 153 µM (
+      <bold>
+       15
+      </bold>
+      ).
+     </p>
+     <p>
+      <bold>
+       <italic>
+        Carboxylic acid functionality:
+       </italic>
+      </bold>
+      To study the importance of the carboxylic acid moiety and the possibility to extend the structure via this functionality, we synthesized analogues with amide (
+      <bold>
+       18
+      </bold>
+      –
+      <bold>
+       24
+      </bold>
+      ), sulfonamide (
+      <bold>
+       25
+      </bold>
+      –
+      <bold>
+       27
+      </bold>
+      ), alcohol (
+      <bold>
+       28
+      </bold>
+      ), ester (
+      <bold>
+       29
+      </bold>
+      ), and aromatic carboxylic (
+      <bold>
+       30
+      </bold>
+      ) functionalities. Analogues with carboxamide (
+      <bold>
+       18
+      </bold>
+      ) or
+      <italic>
+       N
+      </italic>
+      -methyl carboxamide (
+      <bold>
+       19
+      </bold>
+      ) showed improved or similar binding affinity to the hit carboxylic acid (
+      <bold>
+       H1
+      </bold>
+      ).
+      <italic>
+       N
+      </italic>
+      -substituted amides carrying carboxylic acid at different spatial arrangements such as racemic nipecotic acid (
+      <bold>
+       20
+      </bold>
+      ), phenylalanine (
+      <bold>
+       21
+      </bold>
+      ), pipecolic acid (
+      <bold>
+       22
+      </bold>
+      ), isonipecotic acid (
+      <bold>
+       23
+      </bold>
+      ), 2-aminobenzoic acid (
+      <bold>
+       24
+      </bold>
+      ), and
+      <italic>
+       ortho
+      </italic>
+      -linked benzoic acid (
+      <bold>
+       30
+      </bold>
+      ) showed binding with K
+      <sub>
+       D
+      </sub>
+      values in the range of 62 to 131 µM with the exception of
+      <bold>
+       24
+      </bold>
+      that failed to bind PcrV. The underlying reason might be its ability to form a stable intramolecular hydrogen bond with the amide linker, as noted in the
+      H-NMR spectroscopy for this compound, thus affecting its overall conformation. Interestingly, the
+      <bold>
+       H1
+      </bold>
+      analogue with an ester functionality (
+      <bold>
+       29
+      </bold>
+      ) that lacks the ionic head and the hydrogen bonding was capable of binding to PcrV with K
+      <sub>
+       D
+      </sub>
+      of 110 µM. A similar result was obtained with the corresponding alcohol (
+      <bold>
+       28
+      </bold>
+      ) with K
+      <sub>
+       D
+      </sub>
+      of 127 and 351 µM, respectively. Acyl sulfonamide isosteres (
+      <bold>
+       25
+      </bold>
+      –
+      <bold>
+       27
+      </bold>
+      ) showed affinities with K
+      <sub>
+       D
+      </sub>
+      in a range of 93–164 µM.
+     </p>
+     <p>
+      <bold>
+       <italic>
+        Linker
+       </italic>
+      </bold>
+      : A small set of compounds in which we varied the length and conformation of the linker carrying the carboxylic acid moiety were synthesized. A one-atom longer linker (
+      <bold>
+       31
+      </bold>
+      ) showed similar affinity to PcrV (K
+      <sub>
+       D
+      </sub>
+      120 and 138 µM, respectively) as the Hit compound
+      <bold>
+       H1
+      </bold>
+      , whereas a conformationally locked linker with a racemic
+      <italic>
+       Z
+      </italic>
+      or
+      <italic>
+       E
+      </italic>
+      -cyclopropyl group (
+      <bold>
+       32
+      </bold>
+      and
+      <bold>
+       33
+      </bold>
+      ) showed improved affinity with K
+      <sub>
+       D
+      </sub>
+      of around 60 µM. Full exploration of the potential of linker optimization would be facilitated by access to the structure of PcrV.
+     </p>
+    </sec>
+    <sec id="sec3dot3-biomolecules-11-00055">
+     <title>
+      3.3. Anti-Virulence Properties
+     </title>
+     <p>
+      All analogues that showed dose-dependent responses in the SPR binding experiments were then evaluated for their anti-virulence efficacy in the infection assay, and their inhibitory effect were calculated (
+      ). Many analogues displayed no or modest anti-virulence activity without clear dose-response (e.g.,
+      <bold>
+       20
+      </bold>
+      and
+      <bold>
+       31
+      </bold>
+      ), and for some, this could be linked to eukaryotic cell toxicity (e.g.,
+      <bold>
+       18
+      </bold>
+      and
+      <bold>
+       19
+      </bold>
+      ) (&lt;80% viability compared to DMSO control) or assay interference due to autofluorescence (e.g.,
+      <bold>
+       15
+      </bold>
+      and
+      <bold>
+       22
+      </bold>
+      ). However, a set of compounds proved to be as efficacious as or better than
+      <bold>
+       H1
+      </bold>
+      such as the close analogue
+      <bold>
+       14
+      </bold>
+      , the carboxylic acid isostere
+      <bold>
+       25
+      </bold>
+      , and compounds
+      <bold>
+       32
+      </bold>
+      and
+      <bold>
+       33
+      </bold>
+      with a cyclopropyl modified linker. Importantly, the most promising analogues
+      <bold>
+       32
+      </bold>
+      and
+      <bold>
+       33
+      </bold>
+      display SPR K
+      <sub>
+       D
+      </sub>
+      around 61–63 µM and dose-dependent inhibition of the infection up to 38% at 200 µM (
+      ). Furthermore, this data suggest that stereochemistry can be explored to further optimize efficacy. Compound
+      <bold>
+       1
+      </bold>
+      is a typical chlorophenoxy herbicide with adverse effects in humans, and it is possible that the toxic effects observed for some of the compounds can be traced to this similarity [
+      ].
+     </p>
+     <p>
+      Nevertheless, a clear correlation between binding affinity and efficacy in the infection model could not be established. The biophysical SPR method is simplified in comparison to the infection model where PcrV is present in its native form as a T3SS multiprotein complex in a context involving both living bacteria and eukaryotic cells. The infection assay is also affected by the cell toxicity of the substance and serum binding, while the binding assay is not; this might also affect the correlation between the results for some of the compounds.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec4-biomolecules-11-00055" sec-type="conclusions">
+    <title>
+     4. Conclusions
+    </title>
+    <p>
+     In this study, we develop and describe a screening funnel to identify nontoxic PcrV binders that block T3SS-mediated virulence in a
+     <italic>
+      P. aeruginosa
+     </italic>
+     cell infection assay as well as to perform a structure-activity relationship analysis with the aim to increase the potency and to lower the toxicity of the hit compound. The analysis indicates the importance of an appropriately substituted aromatic ring of the hit compound
+     <bold>
+      H1
+     </bold>
+     and that the linker and carboxylic acid functionality can be explored to reach more potent nontoxic compounds with anti-virulence properties. Importantly, the compounds are small in size, display good aqueous solubility, are amendable to medicinal chemistry, and could be considered as good starting points for further development. Continued optimization would greatly benefit from access to the PcrV structure. These compounds thus hold promise to be further developed into compounds with efficacy in vivo. Ultimately, small molecule virulence blocking agents targeting PcrV can be used in preventive care, as standalone therapy or in combination with conventional antibiotics, and can thereby improve our capabilities to treat
+     <italic>
+      P. aeruginosa
+     </italic>
+     infections.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  The
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   is an opportunistic bacterial pathogen that forms a serious problem for immunocompromised patients and also the leading cause of mortality in cystic fibrosis. The overall importance of a functional Type III secretion system (T3SS) in P. aeru inosa virulence has been well established, but the underlying mechanisms are still unclear. Using
+   <italic>
+    in vitro
+   </italic>
+   infected macrophages as w as a murine model of acute lung infection, we show that the Caspase-1 mediated maturation and secretion of IL-1β needs a translocation competent T3SS and Flagellin, but not the Type III effector proteins ExoS, ExoT and ExoY. However, ExoS was found to negative regulate the
+   <italic>
+    P. aeruginosa
+   </italic>
+   induced IL-1β maturation by a mechanism that is dependent on its ADP ribosyltransferase activity. Moreov ExoS deficiency also switched the mode of macrophage death from apoptosis to pro-inflammatory pyroptosis. Altogether, these da demonstrate a dual role for the
+   <italic>
+    P. aeruginosa
+   </italic>
+   T3SS in the regulation of Caspase-1 mediated IL-1β production and provide new insigh into the mechanisms of immune evasion by this pathogen.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec>
+    <title>
+     Introduction
+    </title>
+    <p>
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     is an opportunistic bacterial pathogen that causes a variety of serious infections in humans. Chronic pulmonary infections with
+     <italic>
+      P. aeruginosa
+     </italic>
+     are a major factor contributing to the mortality of cystic fibrosis patients and severely impair the quality of life and life expectancy of the patients. Acute infections are major problems in immunocompromised patients, burn victims and patients requiring mechanical ventilation [     ]. Eradication of
+     <italic>
+      P. aeruginosa
+     </italic>
+     from hospital settings, where most of the susceptible individuals reside, is unfortunately considered impossible because of its intrinsic resistance to antibiotics and its ubiquitous occurrence in the environment.
+    </p>
+    <p>
+     An inflammatory response is essential to clear pathogens from the site of infection. Hence, in order to create a unique and proper niche for their survival many pathogens have developed several mechanisms to modulate the host immune response. The overall importance of a Type III secretion system (T3SS) as a virulence mechanism to subvert the innate immune system has been well established for
+     <italic>
+      P. aeruginosa
+     </italic>
+     and several other bacterial pathogens of plants and mammals and is associated with poor clinical outcomes in
+     <italic>
+      P. aeruginosa
+     </italic>
+     infected patients [     ]. The T3SS consists of a complex secretion and translocation machinery to inject a set of bacterial effector proteins directly into the cytoplasm of eukaryotic host cells. Several Type III effectors from animal and plant pathogens are capable of modifying signal transduction pathways and have evolved to counteract innate immunity [reviewed in 3]. To date, four Type III effector proteins (ExoY, ExoU, ExoT and ExoS) have been identified in
+     <italic>
+      P. aeruginosa,
+     </italic>
+     although strains secreting all of them have not been found. ExoY is an adenylate cyclase that triggers the synthesis of cAMP, which has a profound effect on various cellular processes [     ]. ExoU possesses phospholipase A2 and lysophospholipase activities and is cytotoxic to mammalian cells [     ]. ExoS and ExoT are bifunctional proteins that contain a N-termi-nal Rho GTPase Activating Protein (GAP) domain which targets small Rho-like GTPases, such as Rho, Rac and Cdc42 to induce cytoskeletal rearrangements that inhibit bacterial internalization, and a C-terminal ademine dinucleotide phosphate (ADP)-ribosyltrans-ferase (ADPRT) domain that mediates ADP-ribosylation of several host cell proteins [reviewed in 6]. ADP-ribosylation by ExoS demonstrates another mechanism by which ExoS can modulate cytoskele-ton dynamics and also mediates cytotoxicity toward eukaryotic cells [     ]. Although they share 76% amino acid identity, ExoS and ExoT ADP-ribosylate different substrates. ExoS can ADP-ribosylate numerous host cell proteins including Ras, Ral, several Rabs, ezrin-radixin-moesin (ERM) family proteins and cyclophilin A, whereas ExoT ADP-ribosylates a more restricted subset of proteins, including the CT10 regulator of kinase (Crt) adaptor proteins [     ].
+    </p>
+    <p>
+     Interleukin-1β (IL-1β) is a major mediator of inflammation that initiates and amplifies a wide variety of effects associated with innate immunity and host responses to microbial invasion [reviewed in 8]. Engagement of Toll-like receptor signalling by various microbial components, including bacterial lipopolysaccharides (LPS) induces transcriptional activation of the IL-1β promoter, leading to the production of an inactive proIL-1β precursor protein. Active mature IL-1
+     <bold>
+      β
+     </bold>
+     is secreted upon cleavage of proIL-1β by the cysteine protease Caspase-1. Caspase-1 itself is activated as part of large multi-protein complexes termed ‘inflammasomes’, which contain members of the nucleotide-binding ogligomerization domain (NOD)-like receptor family that sense specific bacterial components [     ]. However, the intracellular events linking these bacterial products to NOD-like receptors remain largely unclear.
+    </p>
+    <p>
+     In the present work we analysed the role of the
+     <italic>
+      P. aeruginosa
+     </italic>
+     T3SS in Caspase-1 mediated processing of proIL-1β
+     <italic>
+      in vitro
+     </italic>
+     as well as in a murine model of acute lung infection. IL-1β processing in
+     <italic>
+      P. aeruginosa
+     </italic>
+     -infected macrophages was dependent on a translocation competent T3SS and bacterial Flagellin as revealed by the inability of respectively PopB and Flagellin deficient mutants to produce and secrete mature IL-1β. Surprisingly, secretion of the Type III effector protein ExoS negatively regulated Caspase-1 mediated IL-1β maturation. The effect of ExoS was independent of its GAP activity, but fully dependent on its ADPRT activity. These data demonstrate a dual role for the T3SS of
+     <italic>
+      P. aeruginosa
+     </italic>
+     in the regulation of pro-IL-1β maturation in infected macrophages and provide new insights into the mechanisms of immune evasion by this pathogen.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="materials|methods">
+    <title>
+     Materials and methods
+    </title>
+    <sec>
+     <title>
+      Bacterial strains, plasmids and other reagents
+     </title>
+     <p>
+      The
+      <italic>
+       P. aeruginosa
+      </italic>
+      laboratory strain PAK (which lacks the exoU gene) and mutants thereof with specific chromosomal deletions (Δ
+      <italic>
+       exoS
+      </italic>
+      , Δ
+      <italic>
+       exoT
+      </italic>
+      ,
+      <italic>
+       KexoS
+      </italic>
+      /Δ
+      <italic>
+       exoT
+      </italic>
+      , Δ
+      <italic>
+       exoS
+      </italic>
+      /Δ
+      <italic>
+       exoT
+      </italic>
+      /Δ
+      <italic>
+       exoY
+      </italic>
+      [      ]; Δ
+      <italic>
+       popB
+      </italic>
+      [      ]; Δ
+      <italic>
+       fliC
+      </italic>
+      (PAKΔɛγ
+      <italic>
+       fliC
+      </italic>
+      ) [      ] have been described before. PAK\\\\fliCexoS::Ω (Δ
+      <italic>
+       exoS
+      </italic>
+      /Δ
+      <italic>
+       fliC
+      </italic>
+      ) is PAK with
+      <italic>
+       fliC
+      </italic>
+      deleted and
+      <italic>
+       EeoS
+      </italic>
+      disrupted by an omega fragment insertion. It was generated by double crossing pHW9950 (
+      <italic>
+       exoS
+      </italic>
+      ::Ω) [      ] into the Δ
+      <italic>
+       fliC
+      </italic>
+      strain. Bacterial cultures were grown in Luria-Bertani broth (LB) at 37°C. For reconstitution experiments, bacteria were transformed with a pBBR1MCS expression plasmid (gift from Dr. P. Cornelis, University of Brussels, Belgium) in which C-terminal His
+      <sub>
+       6
+      </sub>
+      -tagged ExoS or ExoS mutants were cloned under the control of the endogenous
+      <italic>
+       exoS promotor
+      </italic>
+      (245 bp). Wild-type
+      <italic>
+       exoS
+      </italic>
+      and its promoter were amplified by PCR from genomic DNA from strain PAO1. The mutants ExoS-GAP      ADP      (E381A), ExoS-GAP
+      <sub>
+       −
+      </sub>
+      ADP      (R146K), ExoS-GAP      ADP      (R146K, E381A) and ExoT-GAP      ADP      (E385A), ExoT-GAP      ADP      (R149K), ExoT-GAP      ADP      (R149K, E385A) were generated by overlapping PCR using mutated primers. All constructs were confirmed by DNA sequence analysis. z-VAD-fmk was from Bachem and Ac-WEHD-cho was from Peptide Insitute Inc. LPS from
+      <italic>
+       Salmonella abortus equi
+      </italic>
+      was obtained from Sigma (Saint Louis, Missouri).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      <italic>
+       in vitro
+      </italic>
+      infection of macrophages and western blotting
+     </title>
+     <p>
+      Primary mouse alveolar macrophages were isolated from mouse bron-choalveolar lavage fluid (BALF) by selection for cells that adhered to the bottom of a cell culture flask within 1 hr after seeding. Caspase-1 deficient mice were obtained from Dr. R. Flavell (Yale University School of Medicine, New Haven). The immortalized murine spleen macrophage cell line Mf4/4 [      ] and primary mouse alveolar macrophages were cultured at 37°C in RPMI1640, supplemented with 10% FBS, 2 mM L-glutamine, 100 U/ml penicillin, 100 μg/ml streptomycin sulphate, 1 mM sodiumpyruvate and 2
+      <bold>
+       ×
+      </bold>
+      10      Mβ-mercaptoethanol. Cells were seeded at 10      cells/6-well in medium without antibiotics and 6 hrs prior to infection stimulated with 100 ng/ml LPS. Cells were infected with
+      <italic>
+       P. aeruginosa
+      </italic>
+      at a multiplicity of infection of 50. Prior to cell lysis and collection of supernatants, bacteria were killed by adding 100 μ/ml gentamicin and 50 μ/ml chloramphenicol. Cells were lysed in 300
+      <bold>
+       μ
+      </bold>
+      l lysis buffer (50 mM Hepes pH 7.6, 200 mM NaCl, 0.1% NP40, 5 mM ethylenediaminetetraacetic acid [EDTA]). Immunoprecipitation of IL-1β from the cell supernatant was performed upon the addition of 10% lysis buffer and incubation for 15 hrs with 2 μg of a rat monoclonal anti-IL-1β antibody (MAB401, R&amp;D systems), followed by incubation with protein G-sepharose (Amersham Biosciences) for 3 hrs. The beads were washed four times with lysis buffer prior to elu-tion with Laemmli buffer. Total cell extracts and IL-1β immunoprecipitates were separated by SDS-PAGE and analysed by western blotting and immunodetection with anti-IL-1β antibodies (AF-401-NA, R&amp;D systems) and HRP-linked antimouse Ig (Amersham Biosciences). Immunoreactivity was revealed with the enhanced chemiluminescence method (NEN™ Renaissance, NEN Life Sciences Products).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Mouse model of acute pneumonia
+     </title>
+     <p>
+      Eight-week-old female DBA/2 mice (BioServices Janvier, Schuijk, The Netherlands) that were kept under ‘Specific Pathogen Free’ conditions were intratracheally infected with
+      <italic>
+       P. aeruginosa
+      </italic>
+      as described before [      ]. Briefly bacterial cultures were grown overnight in LB medium at 37°C, diluted 1/100 and grown to exponential phase. Bacteria were collected by centrifugation and re-suspended to the appropriate number of colony forming units (CFU)/ml in phosphate buffer saline (PBS), as determined by optical density and plating out a serial dilution on Nutrient Broth agar plates. Mice were anaesthetized by intraperitoneal injection of a mixture of ketamine (100 mg/kg) and xylazine (10 mg/kg). Bacterial solutions were administered by intratracheal instillation of 2.5
+      <bold>
+       ×
+      </bold>
+      10      bacteria in a volume of 50 μl. All experiments were approved by and performed in accordance with the guidelines of the animal ethical committee of the University of Ghent.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Bronchoalveolar lavage and preparation of lung extracts
+     </title>
+     <p>
+      After the indicated times of infection the trachea was exposed through a midline incision and cannulated with a sterile catheter. Bronchoalveolar lavage was performed by instilling two aliquots of 0.5 ml PBS. BALF was retrieved, centrifuged and filtered (syringe 0.22
+      <bold>
+       μ
+      </bold>
+      m filter, Millipore, Bedford, USA) prior to use in cytokine bioassays and western blot analysis. The lungs were homogenized in 1 ml PBS and Laemmli loading buffer was added for western blot analysis.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Cytokine bioassays
+     </title>
+     <p>
+      Biologically active IL-1 and IL-6 present in BALF or cell supernatants was determined as described before in specific bioassays [      ].
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Cell death assays
+     </title>
+     <p>
+      Caspase-3-like activity was measured by incubating cell extracts with Ac-DEVD-AMC and monitoring the release of 7-amino-4-methyl coumarin (AMC) in a fluorometer as described previously [      ]. Propidium iodide (PI) exclusion was measured by quantitative flow cytometry as described previously [      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Results
+    </title>
+    <sec>
+     <title>
+      ExoS inhibits
+      <italic>
+       P. aeruginosa
+      </italic>
+      induced proteolytic maturation and secretion of IL-1β
+     </title>
+     <p>
+      We previous demonstrated that the Yersinia
+      <italic>
+       enterocolitica
+      </italic>
+      Type III effector protein YopE inhibits the Caspase-1 mediated maturation of proIL-1β in infected macrophages. Moreover, we showed that the Caspase-1 inhibitory activity of YopE was dependent on its GAP activity towards the small GTP-binding protein Rac1 [      ]. Because the
+      <italic>
+       P. aeruginosa
+      </italic>
+      Type III effector proteins ExoS and ExoT also have GAP activity towards Rac1 and several other small GTP-binding proteins, we hypothesized that ExoS and ExoT might also interfere with Caspase-1 activation. To investigate this further, we compared the ability of the
+      <italic>
+       P. aeruginosa
+      </italic>
+      wild-type PAK strain (which lacks the
+      <italic>
+       exoU
+      </italic>
+      gene) and isogenic mutants that are defective in expression of either ExoS, ExoT or both, to induce the Caspase-1 mediated maturation of pro-IL-1β in a murine model of acute lung infection. Six hours after infection, production of pro-IL-1β and mature IL-1β was determined by western blotting of whole lung cell extracts and BALF, respectively. Infection with wild-type
+      <italic>
+       P. aeruginosa
+      </italic>
+      resulted in a clear up-regulation of pro-IL-1β in whole lung extracts, which was similar upon infection with ExoS or ExoT deficient mutants [      , upper panel]. However, significant production and secretion of mature IL-1β in BALF was only detectable upon infection with ExoS deficient
+      <italic>
+       P. aeruginosa
+      </italic>
+      and not with wild-type or ExoT deficient bacteria [      , lower panel], despite the presence of equal amounts of pro-IL-1β in the lungs. Additional mutation of ExoT or ExoY had no further effect on the ability of an ExoS deficient mutant to induce IL-1β maturation and secretion. In contrast to IL-1β, no differences could be observed in the levels of IL-6 or TNF in BALF from mice infected with wild type or ExoS deficient mutants [      and data not shown]. Altogether, these results indicate that ExoS specifically inhibits the Caspase-1 mediated maturation of proIL-1β in a murine model of
+      <italic>
+       P. aeruginosa
+      </italic>
+      lung infection.
+     </p>
+     <p>
+      Macrophages are believed to be a major source of IL-1β. We therefore compared IL-1β maturation in primary mouse alveolar macrophages that were infected with either wild-type or ExoS deficient
+      <italic>
+       P. aeruginosa
+      </italic>
+      . Prior to infection, macrophages were prestim-ulated for 4 hrs with 100 ng/ml LPS to up-regulate proIL-1β expression levels, resulting in a 500-fold higher production of bioactive mature IL-1β upon subsequent infection (data not shown). LPS stimulation resulted in a strong induction of pro-IL-1β in macrophages, but did not result in the secretion of mature IL-1β into the medium (data not shown). This is in line with previously published data showing that LPS treatment as such does not result in the Caspase-1 mediated production of mature IL-1β[      ]. However, infection of LPS stimulated macrophages with ExoS deficient bacteria resulted in the significant maturation of proIL-1β, whereas IL-1β maturation in response to infection with wild type bacteria was only marginal [      ]. These data demonstrate that ExoS inhibits the Caspase-1 mediated maturation of IL-1β both
+      <italic>
+       in vitro
+      </italic>
+      as well as
+      <italic>
+       in vivo
+      </italic>
+      . Although Caspase-1 activation is known to be associated with the proteolytic maturation of the 45-kD Procaspase-1 precursor into its 20 and 10-kD subunits, we were unable to detect Caspase-1 cleavage in lysates of infected macrophages by western blotting (data not shown), most likely because the maturation was below the detection limit of our antibodies. However, IL-1β maturation in response to infection with ExoS deficient bacteria was absent when macrophages were pre-treated with the Caspase-1 inhibitors z-WEHD.cho or z-VAD.fmk, as well as when alveolar macrophages were derived from Caspase-1 deficient mice (      ), demonstrating the essential role of Caspase-1 in the proteolytic maturation of IL-1β that we observe upon infection with ExoS deficient bacteria.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Inhibition of IL-1β maturation by ExoS is mediated by its ADPRT activity
+     </title>
+     <p>
+      ExoS is a bifunctional protein possessing a N-terminal GAP domain and a C-terminal ADPRT domain. To investigate the contribution of each of these activities in the inhibition of IL-1β maturation by ExoS in
+      <italic>
+       P. aeruginosa
+      </italic>
+      infected cells, we analysed the levels of mature IL-1β in BALF of mice infected with ExoS deficient
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains that were complemented by electroporation with expression plasmids for wild-type ExoS or ExoS that is either defective in its GAP activity, ADPRT activity, or both. Re-constitution with wild-type ExoS or ExoS defective in GAP activity fully restored the ability of
+      <italic>
+       P. aeruginosa
+      </italic>
+      to inhibit the proteolytic maturation of pro-IL-1β[      ]. However, re-constitution of cells with ExoS that is defective in ADPRT activity or in both ADPRT and GAP activity was unable to restore the potential of
+      <italic>
+       P. aeruginosa
+      </italic>
+      to inhibit proIL-1β maturation. These complementation studies clearly demonstrate the essential role of ADP-ribosylation by ExoS in the inhibition of pro-IL-1β maturation.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      A translocation competent T3SS is needed for Caspase-1 mediated IL-1β maturation and secretion
+     </title>
+     <p>
+      The observed Caspase-1 dependent IL-1β maturation in macrophages upon infection with ExoS deficient
+      <italic>
+       P. aeruginosa
+      </italic>
+      illustrates the ability of these bacteria to trigger Caspase-1 activation. However, the underlying mechanisms of Caspase-1 activation in response to
+      <italic>
+       P. aeruginosa
+      </italic>
+      infection have not yet been studied. Activation of Caspase-1 by
+      <italic>
+       Salmonella typhimurium
+      </italic>
+      or by Shigella was previously attributed to respective T3SS proteins SipB [      ] and IpaB [      ], which are part of the bacterial transmembrane needle complex that is inserted into the eukaryotic cell membrane. As a result, SipB or IpaB deficient bacteria are unable to translocate any proteins
+      <italic>
+       via
+      </italic>
+      the T3SS into the host cell. In
+      <italic>
+       P. aeruginosa,
+      </italic>
+      PopB is the functional homologue of SipB and IpaB. To investigate whether a translocation competent T3SS is needed for Caspase-1 activation by
+      <italic>
+       P. aeruginosa,
+      </italic>
+      we compared the effect of ExoS deficient and ExoS/PopB double deficient
+      <italic>
+       P. aeruginosa
+      </italic>
+      to induce IL-1
+      <bold>
+       β
+      </bold>
+      maturation in LPS pretreated macrophages. Whereas cells infected with ExoS deficient bacteria secreted large amounts of mature IL-1β, cells infected with ExoS/PopB double deficient bacteria did not produce any detectable IL-1β[      , compare lanes 3 and 6]. In contrast, pro-IL-1β levels were unaffected by the absence of PopB, indicating that PopB is needed to trigger the pro-teolytic maturation and secretion of IL-1β. Similar results were obtained when the effect of PopB was analysed in the
+      <italic>
+       in vivo
+      </italic>
+      mouse infection model described earlier in this study (data not shown). These data clearly demonstrate that the formation of a translocation competent T3SS is essential to trigger Caspase-1 activation and IL-1β maturation.
+     </p>
+     <p>
+      Recently, it was shown that cytoplasmic Flagellin contributes to Caspase-1 activation
+      <italic>
+       via
+      </italic>
+      a T3SS-dependent mechanism in the case of
+      <italic>
+       Salmonella
+      </italic>
+      infection. It was speculated that a small amount of flagellin is translocated through the T3SS needle complex into the host cell cytoplasm, where it is then sensed by Ipaf as part of the inflammasome [      ]. To investigate whether
+      <italic>
+       P. aeruginosa
+      </italic>
+      Flagellin is involved in Caspase-1 activation, we compared the effect of ExoS deficient and ExoS/FliC (Flagellin) double deficient
+      <italic>
+       P. aeruginosa
+      </italic>
+      to induce IL-1β maturation in LPS pretreated macrophages. The lower bacterial cell motility of FliC and ExoS/FliC deficient bacteria can be expected to lower the potential of these bacteria to infect macrophages, which would complicate the interpretation of potential differences in IL-1β maturation. We therefore increased the infection time from 2 hrs in the case of FliC positive bacteria to 5.5 hrs in the case of FliC negative bacteria, leading to comparable cytotoxic effects in both cases. Whereas ExoS deficient bacteria were able to elicit significant secretion of mature IL-1β, cells infected with ExoS/Flagellin double deficient bacteria only produced marginal levels of mature IL-1β, which were comparable with the levels produced by cells infected with wild type bacteria [      , compare lanes 4 and 5]. These data demonstrate the essential role of Flagellin in Caspase-1 activation by
+      <italic>
+       P. aeruginosa
+      </italic>
+      . Whether this also requires the intracellular delivery of Flagellin and whether Flagellin delivery is mediated
+      <italic>
+       via
+      </italic>
+      the T3SS remain speculative.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      ExoS is required for
+      <italic>
+       P. aeruginosa
+      </italic>
+      induced apoptosis but not pyroptosis
+     </title>
+     <p>
+      <italic>
+       P. aeruginosa
+      </italic>
+      is known to induce apoptosis and caspase-3 activity in several cell types
+      <italic>
+       via
+      </italic>
+      a mechanism that requires ExoS [      ]. On the other hand, bacteria-induced cell death that relies on caspase-1 and which is associated with membrane permeabilization has been referred as pyroptosis [      ]. To analyse if the increased caspase-1 mediated IL-1β maturation that we observed in macrophages infected with ExoS deficient bacteria is associated with a change in the mode of cell death, we measured caspase-3-like activity and membrane permeabilization in macrophages that were infected with wild-type bacteria or ExoS deficient bacteria. Production of mature IL-1β was used as a control for caspase-1 activity. In agreement with our findings that ExoS inhibits caspase-1 activation, IL-1β maturation was significantly increased upon infection with ExoS deficient bacteria compared to wild-type bacteria (      , upper panel). In addition, ExoS deficiency completely abolished the ability of the bacteria to induce apoptosis, as reflected by the absence of caspase-3-like activity in the corresponding macrophage cell lysates (      ; middle panel). However, cellular uptake of PI, which reflects membrane permeabilization that is typical for pyroptosis, was still detectable upon infection with ExoS deficient bacteria, and was even increased when compared to wild type bacteria (      , lower panel). These data are consistent with a stronger activity of caspase-1, as reflected by the higher production of mature IL-1β, in the absence of ExoS. In addition, we also analysed the cytotoxic response to PopB deficient bacteria. Consistent with the defect in ExoS secretion and the absence of caspase-1 activation by these bacteria, apoptosis as well as pyroptosis were completely abolished (      ). Our data thus demonstrate that ExoS not only determines the amount of IL-1β that is produced by infected cells, but also the mode of cell death.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Discussion
+    </title>
+    <p>
+     In order to promote their survival and proliferation, pathogens have acquired several mechanisms to disrupt host innate immunity. Here, we show that the ADPRT activity of the T3SS effector protein ExoS inhibits the Caspase-1 mediated maturation and secretion of IL-1β, both
+     <italic>
+      in vitro
+     </italic>
+     as well as in a murine model of acute lung infection. The relative risk of mortality has been shown to increase by 8.7 times in patients who were infected with strains expressing a functional T3SS and secreting ExoS [     ], underlining the importance of this toxin in the pathogenesis of
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection. Moreover, the pathogenic role of ExoS is mainly attributable to its ADPRT activity [     ], although its GAP activity or its direct interaction with toll-like receptors (TLRs) may also modulate the host immune and inflammatory response [     ]. We speculate that the ExoS ADPRT mediated inhibition of IL-1β secretion at least partially contributes to virulence. The role of IL-1β in
+     <italic>
+      P. aeruginosa
+     </italic>
+     pathogenesis is rather complex and should be seen in the context of a delicate balance between protective innate immune responses and harmful pro-inflammatory activities at higher IL-1β expression levels or upon exposure for prolonged times [     ]. This may also explain why controversial data have been reported on the role of IL-1β in
+     <italic>
+      P. aeruginosa
+     </italic>
+     pathogenesis. Rapid IL-1 release and signalling through IL-1R have been shown to represent key steps in the innate immune response to limit
+     <italic>
+      P. aeruginosa
+     </italic>
+     colonization of the lungs [     ]. Moreover, Horino
+     <italic>
+      et al.
+     </italic>
+     found that IL-1 deficient mice were more susceptible to the gut-derived sepsis caused by
+     <italic>
+      P. aeruginosa
+     </italic>
+     [     ]. In contrast to these results, Schultz and colleagues found significantly fewer bacteria in the lungs of IL-1R deficient mice compared to those of wild type mice, suggesting that IL-1β deficiency was associated with impaired bacterial clearance [     ].
+    </p>
+    <p>
+     The inhibitory effect of ExoS on Caspase-1 activation that we report here resembles the effect of the
+     <italic>
+      Yersinia enterocolitica
+     </italic>
+     T3SS effector proteins YopE and YopT on Caspase-1 activation [     ]. These findings suggest that inhibition of Caspase-1 activation
+     <italic>
+      via
+     </italic>
+     the injection of T3SS effector proteins into the host cell is a mechanism of immune evasion that is used by different bacteria. However, the underlying mechanisms of Caspase-1 inhibition by
+     <italic>
+      Yersinia
+     </italic>
+     and
+     <italic>
+      Pseudomonas
+     </italic>
+     seem to be different. Whereas YopE and YopT inhibit Caspase-1 activation
+     <italic>
+      via
+     </italic>
+     their GAP domain, we show here that the inhibitory effect of ExoS is independent of its GAP activity but requires its ADPRT domain, which is absent in the cases of YopE and YopT. This is rather surprising since the Caspase-1 inhibitory effect of YopE was previously proposed to be due to its GAP activity towards Rac1 [     ], which is also targeted by ExoS GAP [     ]. It should however be mentioned that the proposed role of Rac1 in Caspase-1 activation and its modulation by YopE is mainly based on the similar Caspase-1 inhibitory effect of Rac1 dominant-negative mutants or inhibitory toxins that might also affect other RhoGTPases [     ]. Moreover, the GAP domains of YopE and ExoS show 54% similarity at the amino acid level, leaving the possibility that YopE and ExoS may target different substrates. We, therefore speculate a role for another Rho GTPase that is specifically targeted by the GAP activity of YopE and not by that of ExoS, resulting in the YopE-mediated inhibition of Caspase-1. Differential targeting might also explain the different effect of ExoS and ExoT ADPRT activity on Caspase-1 activation, consistent with previous observations showing that ExoS and ExoT have different target substrates in host cells [     ]. The specific ExoS substrate that could be involved in the regulation of Caspase-1 activation remains unknown. Already known ExoS substrates include Ras, Rac1 and several other small GTP-binding proteins, the Ezrin/Radixin/Moesin family of proteins, vimentin and cyclophilin A [     ]. Alternatively, we cannot rule out the possibility that Caspase-1 itself or components of the Caspase-1 inflammasome are directly targeted for ADP ribosylation by ExoS. Future studies will have to focus on the identification of the ExoS substrate that mediates Caspase-1 activation.
+    </p>
+    <p>
+     We show that ExoS specifically inhibits IL-1β maturation, without affecting the induction of pro-IL-1β. This is consistent with the recent demonstration that activation of the inflammasome proceeds independently of TLRs, which trigger proIL-1β gene expression [     ]. However, the signal that triggers the inflammasome remains unclear. Using PopB deficient
+     <italic>
+      P. aeruginosa
+     </italic>
+     mutants, which can no longer form a translocation competent T3SS needle structure, we were able to show that Caspase-1 activation is dependent on the insertion of a translocation competent T3SS. Similarly, while this paper was under revision, stimulation of Caspase-1 in response to
+     <italic>
+      Yersinia
+     </italic>
+     infection was reported to depend on the insertion of T3SS pores in the host cell [     ]. Moreover, the PopB related proteins SipB and IpaB from
+     <italic>
+      Salmonella
+     </italic>
+     and
+     <italic>
+      Shigella
+     </italic>
+     , respectively, have previously been shown to be essential for caspase-1 activation, although their effect has been explained by a direct interaction with caspase-1 [     ]. Altogether these observations indicate an essential role of the T3SS in Caspase-1 activation by different pathogenic bacteria. The mechanism by which the T3SS triggers the inflammasome is still unclear. It has recently been demonstrated that intracellular Flagellin is responsible for most of the Ipaf-dependent Caspase-1 activation in response to
+     <italic>
+      Salmonella typhimurium
+     </italic>
+     infection and it has been suggested that Flagellin is delivered to the cytosol
+     <italic>
+      via
+     </italic>
+     the T3SS as the basal bodies of the flagellum and the T3SS machinery show both structural and functional similarities [     ]. Real proof for this hypothesis has very recently been demonstrated by Sun and colleagues, who showed that the translocation of bacterial flagellin into the cytosol of host macrophages by
+     <italic>
+      Salmonella typhimurium
+     </italic>
+     requires the Salmonella Pathogenicity Island 1 T3SS but not the flagellar T3SS [     ]. Our observation that Flagellin deficient
+     <italic>
+      P. aeruginosa
+     </italic>
+     have a significantly reduced ability to induce IL-1β maturation suggests a similar function of Flagellin and the T3SS in
+     <italic>
+      P. aeruginosa
+     </italic>
+     induced Caspase-1 activation. It should be mentioned that there was still some residual IL-1β secretion in cells infected with ExoS/Flagellin deficient
+     <italic>
+      P. aeruginosa,
+     </italic>
+     indicating that part of the Caspase-1 activation can proceed independent of the Flagellin. A similar Flagellin-independent Caspase-1 activation has also been reported for
+     <italic>
+      Salmonella
+     </italic>
+     at higher bacterial multiplicity of infections [     ]. In the case of
+     <italic>
+      P. aeruginosa,
+     </italic>
+     this Flagellin-independent IL-1β secretion mechanism may be mediated by the direct activation of Caspase-1
+     <italic>
+      via
+     </italic>
+     PopB. In this context, binding of Caspase-1 with the PopB homologs SipB and IpaB has been suggested to contribute to Caspase-1 activation in response to
+     <italic>
+      Salmonella
+     </italic>
+     and
+     <italic>
+      Shigella
+     </italic>
+     [     ], respectively. However, we were unable to demonstrate an interaction between PopB and Caspase-1 in co-immunoprecipitation experiments (data not shown). Since we showed that bacteria deficient in all four known T3SS effector proteins (ExoS, ExoT, ExoY ExoU) still trigger IL-1β maturation, we can exclude an essential role of these effectors. However, one cannot exclude the potential T3SS-mediated delivery of other bacterial components into the host cell or other T3SS-induced changes that lead to Caspase-1 activation. It is worth mentioning that ATP-gated P2×7 receptor mediated changes in intracellular K     concentration are known to trigger Caspase-1 activation [     ], suggesting that pore formation by the T3SS might trigger changes in ionic gradients that promote Caspase-1 activation.
+    </p>
+    <p>
+     The
+     <italic>
+      P. aeruginosa
+     </italic>
+     T3SS has previously been shown to signal macrophages to undergo apoptosis
+     <italic>
+      via
+     </italic>
+     a mechanism that is dependent on the ADPRT activity of ExoS [     ]. Here we report that infection with ExoS deficient
+     <italic>
+      P. aeruginosa
+     </italic>
+     still induces macrophage cell death. However, Caspase-3-like activity is no longer observed in the absence of ExoS and cells die
+     <italic>
+      via
+     </italic>
+     pyropto-sis, a mode of Caspase-1 mediated cell death that is characterized by cell membrane permeabilization and IL-1β secretion and which is inherently pro-inflammatory [     ]. ExoS expression thus contributes to immune evasion by inhibiting IL-1β secretion as well as by preventing pro-inflammatory pyroptosis and shifting the mode of cell death to non-inflammatory apoptosis.
+    </p>
+    <p>
+     In conclusion, our findings suggest a dual role for the T3SS in the regulation of Caspase-1 activation. On the one hand, the T3SS is sensed by the host and triggers the activation of Caspase-1, leading to the proteolytic maturation and secretion of IL-1β. On the other hand, intracellular delivery of ExoS through the same T3SS prevents the activation of Caspase-1 mediated IL-1β maturation and pro-inflammatory pyroptosis, tipping the balance of the interaction in favour of the pathogen. While this manuscript was under revision, another paper describing a critical role for the T3SS and Ipaf-mediated sensing of Flagellin in
+     <italic>
+      P. aeruginosa
+     </italic>
+     -induced Caspase-1 activation was on-line published ahead of print [     ]. Whereas the latter study confirms our findings on the role of the T3SS and Flagellin in
+     <italic>
+      P. aeruginosa
+     </italic>
+     induced Caspase-1 activation, these authors concluded that ExoS did not affect Caspase-1 activation. The reason for this difference is not clear but likely involve different experimental conditions (
+     <italic>
+      e.g.
+     </italic>
+     the use of bone marrow derived macrophages instead of alveolar macrophages used in our study or a different macrophage/bacterial ratio). Although care should be taken not to induce a hyperinflammatory response, our findings suggest that specific inhibitors of the ADPRT activity of ExoS might be useful to restore proper innate immune responses against
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection, thus reducing the need for high doses of traditional antibiotics and avoiding the development of antibiotics resistance. Interestingly, a specific Type III effector protein from a plant pathogen
+     <italic>
+      Pseudomonas syringae
+     </italic>
+     has recently been shown to quell plant immunity by means of ADP ribosylation [     ], indicating that animal and plant pathogens use similar tools to suppress eukaryotic immune responses.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

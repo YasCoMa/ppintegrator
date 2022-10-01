@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1998/Math/MathML">
+ <title>
+  Enzyme kinetic and binding studies identify determinants of specificity for the immunomodulatory enzyme ScpA, a C5a inactivating bacterial protease.
+ </title>
+ <abstract>
+  <AbstractText>
+   The Streptococcal C5a peptidase (ScpA) specifically inactivates the human complement factor hC5a, a potent anaphylatoxin recently identified as a therapeutic target for treatment of COVID-19 infections. Biologics used to modulate hC5a are predominantly monoclonal antibodies. Here we present data to support an alternative therapeutic approach based on the specific inactivation of hC5a by ScpA in studies using recombinant hC5a (rhC5a). Initial characterization of ScpA confirmed activity in human serum and against rhC5a desArg (rhC5a
+   <sub>
+    dR
+   </sub>
+   ), the predominant hC5a form in blood. A new FRET based enzyme assay showed that ScpA cleaved rhC5a at near physiological concentrations (
+   <i>
+    K
+   </i>
+   <sub>
+    m
+   </sub>
+   185 nM). Surface Plasmon Resonance (SPR) and Isothermal Titration Calorimetry (ITC) studies established a high affinity ScpA-rhC5a interaction (
+   <i>
+    K
+   </i>
+   <sub>
+    D
+   </sub>
+   34 nM,
+   <ns0:math>
+    <ns0:mrow>
+     <ns0:msubsup>
+      <ns0:mrow>
+       <ns0:mi>
+        K
+       </ns0:mi>
+      </ns0:mrow>
+      <ns0:mrow>
+       <ns0:mi>
+        D
+       </ns0:mi>
+      </ns0:mrow>
+      <ns0:mrow>
+       <ns0:mi>
+        ITC
+       </ns0:mi>
+      </ns0:mrow>
+     </ns0:msubsup>
+    </ns0:mrow>
+   </ns0:math>
+   30.8 nM). SPR analyses also showed that substrate binding is dominated (88% of ΔG°
+   <sub>
+    bind
+   </sub>
+   ) by interactions with the bulky N-ter cleavage product (P
+   <sub>
+    N
+   </sub>
+   , \\\\core\\\\ residues 1-67) with interactions involving the C-ter R74 contributing most of the remaining ΔG°
+   <sub>
+    bind
+   </sub>
+   . Furthermore, reduced binding affinity following mutation of a subset of positively charged Arginine residues of P
+   <sub>
+    N
+   </sub>
+   and in the presence of higher salt concentrations, highlighted the importance of electrostatic interactions. These data provide the first in-depth study of the ScpA-C5a interaction and indicate that ScpA\\\\s ability to efficiently cleave physiological concentrations of C5a is driven by electrostatic interactions between an exosite on the enzyme and the \\\\core\\\\ of C5a. The results and methods described herein will facilitate engineering of ScpA to enhance its potential as a therapeutic for excessive immune response to infectious disease.
+  </AbstractText>
+ </abstract>
+</article>

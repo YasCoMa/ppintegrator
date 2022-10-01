@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Proteomic analysis reveals a role of ADP-glucose pyrophosphorylase in the asynchronous filling of rice superior and inferior spikelets.
+ </title>
+ <abstract>
+  <AbstractText>
+   The poor grain filling of inferior spikelets (IS) situated on the lower secondary rachis branch leads to a remarkable decrease in rice yield and quality. The AGPase small subunit 2 (AGPS2) encodes a small subunit of adenosine diphosphate-glucose pyrophosphorylase (AGPase) enzyme, which plays an important role in sucrose-starch conversion and starch biosynthesis in the grain filling of rice. In the present study, qPCR analysis showed low expression abundance of AGPS2 in IS, compared to the superior spikelets (SS), which was consistent with the lower grain weight of IS. To evaluate the molecular mechanism of AGPS2, we first identified the AGPS2 interaction network through Co-immunoprecipitation (Co-IP). In total, 29 proteins of AGPS2 interaction network were characterized by LC-MS/MS. Bioinformatics analysis revealed that, the characterized proteins in the interaction network are likely to be related to starch synthesis, sugar conversion, energy pathway, and folding/modification, and most of them were involved in the grain filling of rice. The sequent Co-IP analysis showed that AGPS2 can bind to starch branching enzyme (SBE), pullulanase (PUL) and starch debranching enzyme (DBE) and assemble into starch synthesizing protein complex (SSPC). In addition, the 14-3-3 protein GF14e was also found to interact with AGPS2. Further analysis by qPCR showed that the expression of GF14e was much higher on IS than on SS. The qPCR results also showed that the expression of GF14e was relatively stable in SS, but changed significantly in IS under alternate wetting and moderate soil drying (WMD), which is consistent with the AGPS2 expression pattern. Our present work provides direct molecular evidence for the different expression patterns of AGPS2 in SS and IS, which could be greatly helpful for the molecular amelioration of the poor grain filling of IS in rice.
+  </AbstractText>
+ </abstract>
+</article>

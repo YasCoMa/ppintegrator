@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Host genotype structures the microbiome of a globally dispersed marine phytoplankton
+ </title>
+ <abstract>
+  <p>
+   Microscale interactions between marine phytoplankton and their bacterial microbiomes can influence ecosystem functioning and global biogeochemical cycling through complex exchanges of metabolites and sophisticated ecological processes. Previous investigation of the phytoplankton microbiome has not focused on the role of a host’s underlying genetic background. Through examination of a single phytoplankton species’ microbiome across the global ocean, we found that host genotype strongly influenced microbiome community composition, with associations that potentially persist across generations and ocean basins but assemble rapidly (within days). The long-term association of microbiomes with host genetic background could explain the evolution and maintenance of intricate phytoplankton–bacteria interactions.
+  </p>
+  <p>
+   Phytoplankton support complex bacterial microbiomes that rely on phytoplankton-derived extracellular compounds and perform functions necessary for algal growth. Recent work has revealed sophisticated interactions and exchanges of molecules between specific phytoplankton–bacteria pairs, but the role of host genotype in regulating those interactions is unknown. Here, we show how phytoplankton microbiomes are shaped by intraspecific genetic variation in the host using global environmental isolates of the model phytoplankton host
+   <italic toggle="yes">
+    Thalassiosira rotula
+   </italic>
+   and a laboratory common garden experiment. A set of 81 environmental
+   <italic toggle="yes">
+    T. rotula
+   </italic>
+   genotypes from three ocean basins and eight genetically distinct populations did not reveal a core microbiome. While no single bacterial phylotype was shared across all genotypes, we found strong genotypic influence of
+   <italic toggle="yes">
+    T. rotula
+   </italic>
+   , with microbiomes associating more strongly with host genetic population than with environmental factors. The microbiome association with host genetic population persisted across different ocean basins, suggesting that microbiomes may be associated with host populations for decades. To isolate the impact of host genotype on microbiomes, a common garden experiment using eight genotypes from three distinct host populations again found that host genotype influenced microbial community composition, suggesting that a process we describe as genotypic filtering, analogous to environmental filtering, shapes phytoplankton microbiomes. In both the environmental and laboratory studies, microbiome variation between genotypes suggests that other factors influenced microbiome composition but did not swamp the dominant signal of host genetic background. The long-term association of microbiomes with specific host genotypes reveals a possible mechanism explaining the evolution and maintenance of complex phytoplankton–bacteria chemical exchanges.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="s1">
+    <title>
+     Results and Discussion
+    </title>
+    <sec id="s2">
+     <title>
+      Characterizing the
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      Microbiome.
+     </title>
+     <p>
+      Marine phytoplankton and bacteria have well-established biogeochemical linkages through bulk pools of nutrients and organic carbon, although the specificity of exchanges and phylogenetic breadth of the partnerships between these organisms remain areas of active investigation (
+      ). Here, we use a rich dataset of 81 single-cell environmental isolates of the phytoplankton species
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      and their co-isolated bacterial microbiomes paired with controlled laboratory experiments to examine the relationship between phytoplankton host genetic background and bacterial microbiome. Because environmental
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      microbiomes were obtained from washed single cells or chains, the microbiomes we recovered were largely from bacterial cells physically associated with the phytoplankton host. In order to increase the likelihood that bacterial sequences examined were derived from the in situ algal microbiome, we instituted a number of controls, which likely eliminated some real microbial diversity but reduced false relationships and removed potential contaminants. These included washing phytoplankton cells prior to culturing to reduce free-living bacteria to an estimated &lt;1 cell per freshly-isolated isolated phytoplankton, using a low–organic matter medium to support algal-derived bacterial growth and employing strict quality controls for sequence analyses (
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       <italic toggle="yes">
+        SI Appendix
+       </italic>
+       ,
+       <italic toggle="yes">
+        SI Results and Discussion
+       </italic>
+      </ext-link>
+      ).
+     </p>
+     <p>
+      Each environmental
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      isolate represented a unique multilocus genotype (
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       Dataset S1
+      </ext-link>
+      ) and possessed a diverse microbiome; after strict quality controls, we identified 278 bacterial amplicon sequence variants (ASVs) that clustered at the 99.9% identity level, with a range of eight to 51 bacterial ASVs and an average of 24.4 ± 9.6 ASVs per
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      environmental genotype (
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       Dataset S2
+      </ext-link>
+      ). Our results are consistent with previous reports of bacterial richness ranging from 1 to 125 operational taxonomic units (OTUs; roughly equivalent to ASVs) per phytoplankton isolate (
+      ,
+      ,
+      ), including eight to 80 OTUs per
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      isolate (
+      ,
+      ). Furthermore, the
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      -associated bacterial communities were significantly different from the in situ bacterioplankton communities (
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       <italic toggle="yes">
+        SI Appendix
+       </italic>
+       , Fig. S1
+      </ext-link>
+      and
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       Dataset S2
+      </ext-link>
+      ; Analysis of Similarities (ANOSIM)
+      <italic toggle="yes">
+       R
+      </italic>
+      = 0.80,
+      <italic toggle="yes">
+       P
+      </italic>
+      = 0.001), highlighting that microbiome composition does not simply reflect water column bacterioplankton composition (
+      ).
+     </p>
+     <p>
+      The
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      -associated bacterial communities from the environmental genotypes were dominated by Proteobacteria (83.5% of all sequences), including γ-proteobacteria (61.3%) and α-proteobacteria (21.3%) (
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       Dataset S2
+      </ext-link>
+      ). However, no single ASV was present in all microbiomes. The most frequent ASVs in the
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      microbiomes were two α-proteobacteria
+      <italic toggle="yes">
+       Loktanella
+      </italic>
+      (ASVs 743 and 1,938) and Actinobacteria
+      <italic toggle="yes">
+       Rhodococcus
+      </italic>
+      (ASV 24), present in 59%, 44%, and 56% of all environmental genotypes, respectively (
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       <italic toggle="yes">
+        SI Appendix
+       </italic>
+       , Fig. S2
+      </ext-link>
+      ). The relative abundance of individual ASVs per host genotype ranged widely, from 0 to &gt;90% in a microbiome (
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       <italic toggle="yes">
+        SI Appendix
+       </italic>
+       , Fig. S3
+      </ext-link>
+      ). For example, when present, the ASV most likely to occur in a microbiome,
+      <italic toggle="yes">
+       Loktanella
+      </italic>
+      743, had a relative median abundance of 4.41% but a range of 0 to &gt;80% in any given microbiome. The absence of a common ASV across microbiomes and high degree of variability in microbiome composition indicates that the cosmopolitan phytoplankton
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      sampled from across the global ocean lacks a “core” microbiome. Instead,
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      cells may associate with closely related lineages of bacteria that serve similar ecological roles but are adapted to distinct environmental conditions. With few exceptions (
+      ), the lack of a core microbiome stands in contrast to most surveys of microbiome communities from multicellular eukaryotes (
+      ) and marine algae (
+      ).
+     </p>
+     <p>
+      Although no single bacterial ASV was present in all microbiomes, similarities existed at the taxonomic order level, with the order Alteromonadales observed in 80 of the 81 environmental isolates. The Alteromonadales are known to associate with a number of phytoplankton lineages (
+      ,
+      ). Here, we supplied all required substrates for algal growth in the media, including vitamins and iron; thus,
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      may have benefited from the bacterial reduction of both oxidative stress and waste compounds (
+      ). Alternately, under these replete conditions,
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      may have derived no benefit from the bacteria, with the relationship being driven by bacterial metabolism of phytoplankton-derived organic material. Overall, these data suggest a strong relationship of the Alteromonadales with
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      .
+     </p>
+    </sec>
+    <sec id="s3">
+     <title>
+      The Role of Host Genetic Background in Structuring
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      Microbiomes.
+     </title>
+     <p>
+      In order to better understand the factors that shape
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      -associated microbiomes, we examined the roles of stochasticity, environmental selection, and host genetic background. To test how stochastic effects, such as dispersal, ecological drift, and random death and birth events (
+      ) influenced the microbiomes of environmental isolates, we used the normalized stochastic ratio of the Jaccard matrix (NST
+      <sub>
+       jac
+      </sub>
+      ), which quantifies the data structure ranging from deterministic (0%) to completely stochastic (100%). The NST
+      <sub>
+       jac
+      </sub>
+      averaged 36.2 ± 18.4% across all diatom microbiomes, indicating while some stochasticity was evident in the data structure, deterministic effects strongly impacted the microbiomes of environmental isolates.
+     </p>
+     <p>
+      To determine whether host genotype or environmental factors explained the composition of host microbiomes, we first examined microbiome composition in light of the
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      genetic background. Even at the bacterial class level, there appeared to be stark differences in the microbiomes of different host genotypes (
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       <italic toggle="yes">
+        SI Appendix
+       </italic>
+       , Fig. S4
+      </ext-link>
+      ). Variation among microbiomes was not evenly spread across the global dataset. Instead, we found that phytoplankton isolates from the same water sample consistently coisolated with a more similar bacterial community than isolates from different water samples (
+      <italic toggle="yes">
+       ANOSIM
+      </italic>
+      R statistic = 0.83,
+      <italic toggle="yes">
+       P
+      </italic>
+      = 0.001), with strong separation between cocultured and in situ bacterial communities (
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       <italic toggle="yes">
+        SI Appendix
+       </italic>
+       , Fig. S1
+      </ext-link>
+      ). Of the microbiomes we analyzed, the host was subdivided into eight genetically distinct populations from three ocean basins (
+      and
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       <italic toggle="yes">
+        SI Appendix
+       </italic>
+       , Tables S1 and S2
+      </ext-link>
+      ). By grouping
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      genotypes into populations, we observed the same
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      population in different locations (e.g., North Sea [NS] and Olympic Peninsula B [WaB]) (
+      ) as well as single locations from which different populations were sampled (e.g., Narragansett Bay Plankton Time Series A and K [NbA and Nbk]). We then performed multiple tests to determine how host population and environmental factors shaped the composition of the
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      microbiome. First, microbiome composition was most strongly and equally correlated with host population membership and sea surface temperature (SST) (bioenv correlations both 0.51). Interestingly, the genetic composition of the host population was also strongly influenced by temperature (
+      ), suggesting possible collinearity in the dataset. To further examine the relationship between host microbiome, host population, and SST, variance partitioning was conducted using two tests with different assumptions. We found that regardless of the variance-partitioning test used, host population explained by far the largest portion of variance in microbiome composition (adonis
+      <italic toggle="yes">
+       R
+      </italic>
+      = 0.47
+      <italic toggle="yes">
+       P
+      </italic>
+      = 0.001; varpart
+      <italic toggle="yes">
+       R
+      </italic>
+      = 0.35), followed distantly by SST (adonis
+      <italic toggle="yes">
+       R
+      </italic>
+      = 0.057
+      <italic toggle="yes">
+       P
+      </italic>
+      = 0.001; varpart R
+      <italic toggle="yes">
+       =
+      </italic>
+      0.04), and the interaction between SST and phytoplankton population (adonis
+      <italic toggle="yes">
+       R
+      </italic>
+      = 0.038
+      <italic toggle="yes">
+       P
+      </italic>
+      = 0.001; varpart
+      <italic toggle="yes">
+       R
+      </italic>
+      = 0.01). We found no correlation between microbiome composition and chlorophyll
+      <italic toggle="yes">
+       a
+      </italic>
+      concentration, salinity, and
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      concentration. We cannot rule out other unmeasured factors (e.g., nutrients) that could affect both the microbiome and algal population structure (
+      ,
+      ). Although temperature is known to shape microbiome composition and physiology (
+      ), genetic background of the algal host has not previously been shown to play a role in microbiome community composition.
+     </p>
+     <p>
+      We observed a significant relationship between host population and the taxonomic composition of its microbiome (
+      , ANOSIM R Statistic = 0.66,
+      <italic toggle="yes">
+       P
+      </italic>
+      = 0.001). Environmental genotypes from the same host population had microbiomes with compositional similarities even when those genotypes originated from different ocean basins (e.g., populations 1 and 4,
+      ). For example, the microbiomes of
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      population 1 sampled from the north Pacific and north Atlantic (SOMLIT-Astan Time Series, France [FrA] and Olympic Peninsula A [WaA]) shared 20 ASVs (43 and 30% of the ASVs in FrA and WaA microbiomes, respectively). Two ASVs, α-proteobacteria
+      <italic toggle="yes">
+       Loktanella
+      </italic>
+      (ASV 743) and Actinobacteria
+      <italic toggle="yes">
+       Rhodococcus
+      </italic>
+      (ASV 24), were present in all population 1 genotypes from both ocean basins. The microbiome similarities among environmental genotypes from different ocean basins are notable, because rates of surface water circulation in the global ocean can translate into decades-long separation of individuals from the same host population (
+      ).
+     </p>
+     <p>
+      Overall, compositional divergence between microbiomes was significantly correlated with genetic divergence between host phytoplankton populations (F
+      <sub>
+       ST
+      </sub>
+      ) (
+      ) (mantel
+      <italic toggle="yes">
+       r
+      </italic>
+      = 0.45,
+      <italic toggle="yes">
+       P
+      </italic>
+      = 0.01; linear regression
+      <italic toggle="yes">
+       R
+      </italic>
+      = 0.17, F = 6.63,
+      <italic toggle="yes">
+       P
+      </italic>
+      = 0.02). In contrast, geographic distance had no significant impact on the phytoplankton microbiome (
+      ) (mantel
+      <italic toggle="yes">
+       r
+      </italic>
+      = 0.18,
+      <italic toggle="yes">
+       P
+      </italic>
+      = 0.12; linear regression
+      <italic toggle="yes">
+       R
+      </italic>
+      = 0.02, F = 1.82,
+      <italic toggle="yes">
+       P
+      </italic>
+      = 0.18). Positive geographic distance–decay relationships are signatures of neutral processes (
+      ), evidenced by the biogeographic patterns of the global bacterioplankton community (
+      ), and have been shown to occur in some plankton microbiomes (
+      ). In contrast, our findings suggest that phytoplankton microbiomes sampled at different times or places (
+      ) may reflect the genetic background of the host phytoplankton and are not simply the result of colonization by the bacteria responding most rapidly to phytoplankton exudates, as models have predicted (
+      ).
+     </p>
+     <p>
+      To explicitly test whether distinct bacterial communities could assemble in response to
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      with different genetic backgrounds in the absence of potentially confounding environmental differences, we performed a common garden experiment under controlled conditions using host cells freshly isolated from the field (
+      and
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       Dataset S3
+      </ext-link>
+      ) (
+      ,
+      ,
+      ). Eight host genotypes were made axenic, inoculated with a &lt;1-µm natural seawater bacterial community, incubated for 5 d, and then the entire contents of the flasks were harvested by filtering. The final concentrations of host
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      were high (22,575 ± 10,129 cells/mL
+      ), similar to levels observed during phytoplankton blooms (
+      ). Subsequent sequencing of treatment flasks revealed a total of 419 ASVs, with an average of 330.1 ± 35.4 ASVs per genotype versus 350.3 ± 3.0 per bacterial control at the time of harvest (
+      and
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       Dataset S4
+      </ext-link>
+      ). The higher diversity of bacteria observed in this experiment compared to the survey of environmental genotypes (24.4 ± 9.6 bacterial ASVs per
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      isolate) can be attributed to factors including retention of nongrowing cells and inclusion of both algal-attached and free-living bacteria. Despite capturing both the free-living and attached bacterial community, there was similarity between the microbiome composition of the common garden
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      and the environmental isolates. In the environmental isolates, the two most frequently occurring bacterial classes (Gammaproteobacteria [62.05% of isolates] and Alphaproteobacteria [21.57%]), bacterial orders (Alteromonadales [98.77%] and Rhodobacterales [92.60%]), and bacterial families (Rhodobacteraceae [92.59%] and Colwelliaceae [75.31%]) were present in 100% of the common garden
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      microbiomes. Furthermore, the two most frequently occurring bacterial genera in the environmental isolates (
+      <italic toggle="yes">
+       Loktanella
+      </italic>
+      [70.37% of isolates] and
+      <italic toggle="yes">
+       Colwellia
+      </italic>
+      [69.14%]) were present in 66.67% and 100% of the common garden isolates, respectively.
+      <italic toggle="yes">
+       Loktanella
+      </italic>
+      was not present in the common garden microbiomes of two distinct PopC genotypes (NbQ-B4 and NbQ-B6), representing potential genotypic specific preferences for certain bacteria.
+     </p>
+     <p>
+      By evaluating replicates for each genotype as well as multiple genotypes within
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      populations, the common garden experiment allowed us to examine the relative importance of stochastic effects as well as the influence of two levels of host genetic background on bacterial composition: the underlying genotype of the host and host membership in a particular genetic population. Deterministic processes appeared to play a larger role than stochasticity in shaping host microbiomes in the common garden experiment (NST
+      <sub>
+       jac
+      </sub>
+      23.0% [PopA], 39.0% [PopB], and 37.8% [PopC]). Consistent with a key role for selection, we found that replicate flasks from the same
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      common garden genotype yielded highly reproducible bacterial communities (
+      ; ANOSIM,
+      <italic toggle="yes">
+       R
+      </italic>
+      = 0.93, significance = 0.001; adonis
+      <italic toggle="yes">
+       R
+      </italic>
+      = 0.76,
+      <italic toggle="yes">
+       P
+      </italic>
+      = 0.001). Next, we examined the role of population. The
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      used in the common garden experiment originated from three genetically distinct populations (
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       <italic toggle="yes">
+        SI Appendix
+       </italic>
+       , Tables S3 and S4
+      </ext-link>
+      ). We found that genotypes from the same population had more similar bacterial communities than those from other populations (
+      and
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       Dataset S4
+      </ext-link>
+      ; ANOSIM,
+      <italic toggle="yes">
+       R
+      </italic>
+      = 0.52, significance = 0.001; adonis
+      <italic toggle="yes">
+       R
+      </italic>
+      = 0.38,
+      <italic toggle="yes">
+       P
+      </italic>
+      = 0.001). Remarkably, the population-specific effects were evident rapidly, within the 5-d incubation period, suggesting that even stronger differences might have emerged over longer time frames but with concurrent increases in “bottle effects” (
+      ,
+      ). While the inoculum communities were dominated by SAR11, the microbiome cocultured with
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      was enriched in fast-growing organisms (e.g.,
+      <italic toggle="yes">
+       Vibrio
+      </italic>
+      ,
+      <italic toggle="yes">
+       Marinomonas
+      </italic>
+      ) similar to those in Fu (
+      ). Marine bacterioplankton are known to respond rapidly to primary producer–derived microenvironments including nutrient plumes (
+      ), lysed phytoplankton (
+      ), and both real and synthetic phytoplankton (
+      ,
+      ). Here, we showed that marine bacteria rapidly differentiate their composition in the presence of phytoplankton with different genetic backgrounds.
+     </p>
+     <p>
+      Despite similarities among the microbiomes of phytoplankton isolates from the same genetic population,
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      -associated bacterial communities exhibited variability both among genotypes from a single population and among replicates of a single genotype, suggesting that other mechanisms, such as stochastic and priority effects (
+      –
+      ), also likely played a role in community assembly. As we showed, stochastic effects, while apparent, were not the dominant drivers shaping
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      microbiome composition. Priority effects could influence the microbiome through historical contingencies shaping the pool of available microbes as well as through colonization of phytoplankton surfaces (
+      ). The common garden experiment could have been especially susceptible to priority effects, since we examined community assembly using axenic genotypes, a scenario in which abundant and fast-growing phylotypes may dominate over phycosphere-adapted taxa.
+     </p>
+     <p>
+      Microbiome variation among genotypes within the same host population may well be explained by a phenomenon that we describe here as genotypic filtering, similar to the process of environmental filtering (
+      ) or host filtering (
+      ). Genotypic variation is associated with high levels of phenotypic variation in phytoplankton, including
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      (
+      ,
+      ). Prior observations of extensive phenotypic variation of
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      together with recent evidence that exometabolites from different phytoplankton species predictably influence microbiome composition (
+      ), suggest that different
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      genotypes may release distinct organic compounds that select for or attract different bacterial associates. Phytoplankton like
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      have been shown to promote the growth and attachment of beneficial bacteria and inhibit colonization of opportunistic bacteria through secondary metabolites (
+      ). Phenotypic variation among genotypes may thus lead to genotypic filtering, a mechanism not previously attributed to phytoplankton-associated bacterial communities. The taxonomic extent of genotypic filtering in the phytoplankton is unknown. Intriguingly, there is evidence of phytoplankton-intraspecific variation in exudate profiles, which are well-known to influence bacterial composition and activities (
+      ) and evidence of genotype-specific responses to bacteria (
+      ), both of which suggest that genotypic filtering may be a widespread phenomenon in the phytoplankton.
+     </p>
+     <p>
+      Microbiome stability among genotypes separated by global-scale geographic distances may be maintained in part by the phytoplankton life cycle. Prior work has posited that phytoplankton microbiomes are short lived with a duration of just 1 to 2 d, equivalent to the lifespan of phytoplankton cells (
+      ). While it is possible that microbiomes reassemble on daily timescales, our results suggest that additional mechanisms may act to promote the long-term similarity of the phytoplankton microbiome, such as vertical transfer of bacteria during reproduction (
+      ). The host
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      divides primarily asexually, yielding two daughter cells that each receive from the mother cell one-half of a hard, silicified cell-wall covering known as a frustule (
+      ), which presumably contains a near-complete microbiome able to colonize the newly-formed half frustule. Sexual reproduction in phytoplankton like
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      occurs on time scales of once per year to once every 40 y, although the details are not well known (
+      ). As sexually generated offspring cast off both halves of the parent frustule and a new frustule is formed, microbiome colonization would occur from bacteria in the surrounding water column. It is interesting to note that in colony-forming phytoplankton like
+      <italic toggle="yes">
+       T. rotula,
+      </italic>
+      it has been observed that only a few cells in the monoclonal colony tend to undergo sexual reproduction (
+      ), providing a route for microbiome colonization from neighboring cells and long-term stability of microbiome community composition.
+     </p>
+     <p>
+      The process of
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      microbiome community assembly can be explained through an ecological framework of selection, drift, dispersal, and diversification (
+      ,
+      ). For selection and drift, the NST
+      <sub>
+       jac
+      </sub>
+      (
+      ) of both the environmental isolates (36.2 ± 18.4%) and common-garden experiment (33.3 ± 8.9%) indicates that the genotype selection effect is dominated by deterministic rather than stochastic factors, which provides a foundation for exploring assembly mechanisms in future studies. With regards to dispersal, we find that the same genetic populations of
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      sampled from different locations carry common ASVs, suggesting reassociation of microbiomes and maintenance of certain microbiome partners despite geographic separation. Finally, we found evidence of genotypic filtering in
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      microbiomes, which could lead to the diversification and maintenance of different populations of
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      .
+     </p>
+     <p>
+      Here, across both global environmental samples and a common-garden experiment, we observed that host genotype shapes the microbiomes of a single-celled phytoplankton. The association of bacteria with host genetic background observed here has the potential to impact host ecology and biogeochemical cycling. For example, microbiomes are known to alter growth and survival rates of the host (
+      ,
+      ) and expand host metabolic potential (
+      ). The evolutionary fingerprint of the phytoplankton host on bacterial microbiomes opens routes of inquiry into factors that initiate and maintain microbiome composition and function. In particular, the long-term association (or frequent reassociation) of bacteria to a genetically-restricted subset of a species sets up the potential for significant eco-evolutionary dynamics to occur in both partners and provides a mechanism for the evolution and maintenance of recently identified sophisticated molecular exchanges between phytoplankton and bacteria (
+      ).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s4" sec-type="materials|methods">
+    <title>
+     Materials and Methods
+    </title>
+    <sec id="s5">
+     <title>
+      Global Environmental Sampling.
+     </title>
+     <p>
+      Surface water containing
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      cells was collected 12 times from nine locations in the Atlantic, Pacific, and Indian Oceans (
+      ,
+      , and
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       <italic toggle="yes">
+        SI Appendix
+       </italic>
+       , Table S1
+      </ext-link>
+      ) (
+      ) and single cells or chains of
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      were isolated and genotyped (
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       <italic toggle="yes">
+        SI Appendix
+       </italic>
+       ,
+       <italic toggle="yes">
+        SI Materials and Methods
+       </italic>
+      </ext-link>
+      ). We amplified the V3-V4 region of the 16S ribosomal ribonucleic acid (rRNA) gene (
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       <italic toggle="yes">
+        SI Appendix
+       </italic>
+       ,
+       <italic toggle="yes">
+        SI Materials and Methods
+       </italic>
+      </ext-link>
+      ) and paired-end sequencing (2 × 250 bp) of the amplicons was performed on a MiSeq (Illumina) using version 2 chemistry at the Duke Genome Sequencing and Analysis Core Facility. Quality control, ASV clustering at 99.9% identity, and statistical analysis are described in
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       <italic toggle="yes">
+        SI Appendix
+       </italic>
+       ,
+       <italic toggle="yes">
+        SI Materials and Methods
+       </italic>
+      </ext-link>
+      .
+     </p>
+    </sec>
+    <sec id="s6">
+     <title>
+      Common Garden Experiment.
+     </title>
+     <p>
+      Single-cell isolates of
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      were collected from the Narragansett Bay Long-Term Plankton Time Series site three times in 2017 (March 20 [NbO/PopA], May 23 [NbP/PopB], and November 13 [NbQ/PopC]) (
+      ), genotyped using microsatellite markers, and maintained in axenic culture (
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       <italic toggle="yes">
+        SI Appendix
+       </italic>
+       ,
+       <italic toggle="yes">
+        SI Materials and Methods
+       </italic>
+      </ext-link>
+      ). Direct comparisons were not made between the common garden and global environmental
+      <italic toggle="yes">
+       T. rotula
+      </italic>
+      genotypes, because we modified PCR and fragment analysis protocols compared to Whittaker and Rynearson (
+      ) and used different 16S rRNA gene primers between the two datasets (
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       <italic toggle="yes">
+        SI Appendix
+       </italic>
+       ,
+       <italic toggle="yes">
+        SI Materials and Methods
+       </italic>
+      </ext-link>
+      <italic toggle="yes">
+       )
+      </italic>
+      . Eight axenic genotypes were chosen to undergo the common garden experiment described in
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       <italic toggle="yes">
+        SI Appendix
+       </italic>
+       ,
+       <italic toggle="yes">
+        SI Materials and Methods
+       </italic>
+      </ext-link>
+      . After the 5-d experiment, we amplified the V4-V5 region of the 16S rRNA gene of the triplicate common garden genotypes, quadruplicate bacterial controls, and starting inoculum, sequenced the amplicons on a MiSeq. 2 × 250 bp run (Illumina), and performed bioinformatic and statistical analysis (
+      <ext-link ext-link-type="uri" ns0:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2105207118/-/DCSupplemental" ns0:show="new">
+       <italic toggle="yes">
+        SI Appendix
+       </italic>
+       ,
+       <italic toggle="yes">
+        SI Materials and Methods
+       </italic>
+      </ext-link>
+      ).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="supplementary-material">
+    <title>
+     Supplementary Material
+    </title>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <p content-type="flushleft">
+    Interactions between marine phytoplankton and bacteria can exert a profound influence on ecosystem function and biogeochemical cycling, impacting rates of primary production, phytoplankton aggregation, organic carbon export, and nutrient cycling (
+    –
+    ). As an aquatic analog of the plant rhizosphere, the most intimate relationships between phytoplankton and bacteria exist in the phycosphere, the region immediately surrounding a phytoplankton cell, where molecules can be exchanged despite the effects of turbulence and diffusion (
+    ). Relationships between phytoplankton and bacteria in the phycosphere range from cooperative to competitive (
+    ). For example, during exponential growth, phytoplankton actively secrete amino acids that are taken up by bacteria, despite potentially significant energy costs (
+    ). In turn, some bacteria synthesize essential vitamins and growth hormones that stimulate phytoplankton productivity (
+    ,
+    ). During phytoplankton senescence, formerly “friendly” bacteria can become pathogenic, producing algicides that lyse phytoplankton cells and release organic carbon to the environment (
+    ). These complex ecological interactions have been investigated in the laboratory for specific phytoplankton–bacteria pairs (
+    ). However, the persistence and phylogenetic breadth of these relationships for both host and microbiome remain open questions (
+    –
+    ).
+   </p>
+  </textgroup>
+  <textgroup>
+   <p>
+    In terrestrial habitats, clear linkages exist between the genetic background (i.e., host genotype and population genetic structure) of foundational plant species and the organisms that rely on them. For example, genetic variation within tree species can influence the structure of associated epiphytic, mycorrhizal, and invertebrate communities (
+    –
+    ) through mutualism, parasitism, commensalism, facilitation, and competition (reviewed in ref.
+    ). These associations extend to plant-associated bacteria, whose abundance, composition, and diversity reflect intraspecific trait variation among host genotypes (
+    ). Because microbes regulate processes such as decomposition, nutrient dynamics, and energy flow, the influence of intraspecific genetic variation in plants on their associated bacteria extends the effects of community genetics to ecosystem processes (
+    ). In contrast to terrestrial habitats, seawater allows both bacteria and their phytoplankton hosts to drift with nearly unlimited dispersal across the global ocean. It is unknown whether planktonic communities mirror those in terrestrial habitats, where host genetics can shape bacterial community composition and influence ecosystem processes (
+    ), or whether dispersal in the dilute marine environment overwhelms the formation of close and specific relationships between phytoplankton and their associated microbiota. Although phytoplankton drift freely across the global ocean with nearly unlimited dispersal and divide primarily asexually, they still possess clear genetic structure. Phytoplankton species are organized into genetically distinct populations that possess phenotypic trait variation, are associated with specific environmental conditions, and undergo large increases in abundance, known as blooms (
+    –
+    ). Furthermore, genetically distinct phytoplankton populations persist on time scales of decades to centuries (
+    ,
+    ), providing ample opportunity for populations to develop specific relationships with other microbes. Few studies have evaluated the microbiomes of multiple strains within a phytoplankton species. Some studies found that individual phytoplankton species may possess a core microbiome, with a consistent set of bacterial phylotypes and metabolic potentials (
+    ,
+    ), while others found that phytoplankton strains supported distinct microbiomes (
+    ) and differed in their growth responses to the same bacterial strain (
+    ,
+    ,
+    ). These intriguing findings have not been rigorously examined in light of the genetic background of the host phytoplankton species. Given that plant genotype often (
+    –
+    ) but not always (
+    ) drives host microbiomes and given the differences between terrestrial and planktonic habitats, understanding to what extent the genetic background of phytoplankton species influences microbiome composition is critical to understanding the nature of their interactions and parsing the roles of both partners in global biogeochemical cycles.
+   </p>
+  </textgroup>
+  <textgroup>
+   <p>
+    Here, we assessed host–microbe interactions using the model marine phytoplankton
+    <italic toggle="yes">
+     Thalassiosira rotula
+    </italic>
+    , a cosmopolitan species characterized by high genotypic and phenotypic diversity, which is subdivided into genetically distinct populations (
+    ,
+    ). We examined whether the
+    <italic toggle="yes">
+     T. rotula
+    </italic>
+    microbiome was influenced by host genetic background, either at the genotype or population level. We combined a study of the microbiomes of 81 environmental genotypes (representing eight genetically distinct populations) sampled from around the world (
+    and
+    ) with a common garden experiment explicitly designed to evaluate the influence of host genetic background on microbiome assembly in the absence of other environmental changes. The union of these approaches allowed us to examine the role of host genetics in setting bacterial assemblage composition and to determine whether a core microbiome might exist in a globally distributed, pelagic phytoplankton.
+   </p>
+  </textgroup>
+ </sentences>
+</article>

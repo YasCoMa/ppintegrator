@@ -1,0 +1,10 @@
+{
+    "evidences": [ { "name": "go cellular component", "description": "semantic similarity calculated by pekar", "type_": "functional annotation" },
+			{ "name": "go molecular function", "description": "semantic similarity calculated by pekar", "type_": "functional annotation" },
+			{ "name": "go biological process", "description": "semantic similarity calculated by pekar", "type_": "functional annotation" },
+			{ "name": "pfam", "description": "interaction between protein families", "type_": "structure" },
+			{ "name": "kegg pathway", "description": "co occurrence in human metabolic pathways", "type_": "functional annotation" },
+			{ "name": "sequence", "description": "sequence based score obtained by SPRINT method", "type_": "sequence signature" },
+			{ "name": "predrep", "description": "stacking of multiple prediction methods", "type_": "combination" }
+		]
+}

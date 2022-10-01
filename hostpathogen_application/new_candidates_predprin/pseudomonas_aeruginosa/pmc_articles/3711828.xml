@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Structure and Biophysics of Type III Secretion in Bacteria
+ </title>
+ <abstract>
+  <p id="P1">
+   <graphic ns0:href="nihms-477430-f0001.jpg" orientation="portrait" position="float"/>
+  </p>
+  <p id="P2">
+   Many plant and animal bacterial pathogens assemble a needle-like nanomachine, the type III secretion system (T3SS), to inject virulence proteins directly into eukaryotic cells to initiate infection. The ability of bacteria to inject effectors into host cells is essential for infection, survival, and pathogenesis for many Gram-negative bacteria, including Salmonella, Escherichia, Shigella, Yersinia, Pseudomonas, and
+   <italic>
+    Chlamydia
+   </italic>
+   spp. These pathogens are responsible for a wide variety of diseases, such as typhoid fever, large-scale food-borne illnesses, dysentery, bubonic plague, secondary hospital infections, and sexually transmitted diseases. The T3SS consists of structural and nonstructural proteins. The structural proteins assemble the needle apparatus, which consists of a membrane-embedded basal structure, an external needle that protrudes from the bacterial surface, and a tip complex that caps the needle. Upon host cell contact, a translocon is assembled between the needle tip complex and the host cell, serving as a gateway for translocation of effector proteins by creating a pore in the host cell membrane. Following delivery into the host cytoplasm, effectors initiate and maintain infection by manipulating host cell biology, such as cell signaling, secretory trafficking, cytoskeletal dynamics, and the inflammatory response. Finally, chaperones serve as regulators of secretion by sequestering effectors and some structural proteins within the bacterial cytoplasm. This review will focus on the latest developments and future challenges concerning the structure and biophysics of the needle apparatus.
+  </p>
+ </abstract>
+ <sentences/>
+</article>

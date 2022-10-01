@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Mutations in the
+ </title>
+ <abstract>
+  <p>
+   The type III secretion system (T3SS) is a clinically important virulence mechanism in
+   <named-content content-type="genus-species">
+    Pseudomonas aeruginosa
+   </named-content>
+   that secretes and translocates effector toxins into host cells, impeding the host\s rapid innate immune response to infection. Inhibitors of T3SS may be useful as prophylactic or adjunctive therapeutic agents to augment the activity of antibiotics in
+   <named-content content-type="genus-species">
+    P. aeruginosa
+   </named-content>
+   infections, such as pneumonia and bacteremia. One such inhibitor, the phenoxyacetamide MBX 1641, exhibits very responsive structure-activity relationships, including striking stereoselectivity, in its inhibition of
+   <named-content content-type="genus-species">
+    P. aeruginosa
+   </named-content>
+   T3SS. These features suggest interaction with a specific, but unknown, protein target. Here, we identify the apparent molecular target by isolating inhibitor-resistant mutants and mapping the mutation sites by deep sequencing. Selection and sequencing of four independent mutants resistant to the phenoxyacetamide inhibitor MBX 2359 identified the T3SS gene
+   <italic>
+    pscF
+   </italic>
+   , encoding the needle apparatus, as the only locus of mutations common to all four strains. Transfer of the wild-type and mutated alleles of
+   <italic>
+    pscF
+   </italic>
+   , together with its chaperone and cochaperone genes
+   <italic>
+    pscE
+   </italic>
+   and
+   <italic>
+    pscG
+   </italic>
+   , to a Δ
+   <named-content content-type="genus-species">
+    pscF P. aeruginosa
+   </named-content>
+   strain demonstrated that each of the single-codon mutations in
+   <italic>
+    pscF
+   </italic>
+   is necessary and sufficient to provide secretion and translocation that is resistant to a variety of phenoxyacetamide inhibitor analogs but not to T3SS inhibitors with different chemical scaffolds. These results implicate the PscF needle protein as an apparent new molecular target for T3SS inhibitor discovery and suggest that three other chemically distinct T3SS inhibitors interact with one or more different targets or a different region of PscF.
+  </p>
+ </abstract>
+ <sentences/>
+</article>

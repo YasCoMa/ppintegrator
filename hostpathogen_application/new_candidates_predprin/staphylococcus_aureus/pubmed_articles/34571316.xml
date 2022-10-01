@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Balanced lipase interactions for degradation-controlled paclitaxel release from lipid cubic phase formulations.
+ </title>
+ <abstract>
+  <AbstractText>
+   Lipid cubic phase (LCP) formulations enhance the intestinal solubility and bioavailability of hydrophobic drugs by reducing precipitation and facilitating their mass transport to the intestinal surface for absorption. LCPs with an ester linkage connecting the acyl chain to the glycerol backbone (monoacylglycerols), are susceptible to chemical digestion by several lipolytic enzymes including lipases, accelerating the release of hydrophobic agents from the lipid bilayers of the matrix. Unlike regular enzymes that transform soluble substrates, lipolytic enzymes act at the interface of water and insoluble lipid. Therefore, compounds that bind to this interface can enhance or inhibit the activity of enzymes to varying extent. Here, we explore how the lipolysis rate can be tuned by the interfacial interaction of porcine pancreatic lipase with monoolein LCPs containing a known lipase inhibitor, tetrahydrolipstatin. Release of the Biopharmaceutical Classification System (BCS) class IV drug, paclitaxel, from the inhibitor-modified LCP was examined in the presence of lipase and its effectors colipase and calcium. By combining experimental dynamic digestion studies, thermodynamic measurements and molecular dynamics simulations of the competitive inhibition of lipase by tetrahydrolipstatin, we reveal the role and mode of action of lipase effectors in creating a precisely-balanced degradation-controlled LCP release system for the poorly soluble paclitaxel drug.
+  </AbstractText>
+ </abstract>
+</article>

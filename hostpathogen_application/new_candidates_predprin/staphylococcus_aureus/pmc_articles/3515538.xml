@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  The nuclear envelope proteome differs notably between tissues
+ </title>
+ <abstract>
+  <p>
+   One hypothesis to explain how mutations in the same nuclear envelope proteins yield pathologies focused in distinct tissues is that as yet unidentified tissue-specific partners mediate the disease pathologies. The nuclear envelope proteome was recently determined from leukocytes and muscle. Here the same methodology is applied to liver and a direct comparison of the liver, muscle and leukocyte data sets is presented. At least 74 novel transmembrane proteins identified in these studies have been directly confirmed at the nuclear envelope. Within this set, RT-PCR, western blot and staining of tissue cryosections confirms that the protein complement of the nuclear envelope is clearly distinct from one tissue to another. Bioinformatics reveals similar divergence between tissues across the larger data sets. For proteins acting in complexes according to interactome data, the whole complex often exhibited the same tissue-specificity. Other tissue-specific nuclear envelope proteins identified were known proteins with functions in signaling and gene regulation. The high tissue specificity in the nuclear envelope likely underlies the complex disease pathologies and argues that all organelle proteomes warrant re-examination in multiple tissues.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec>
+    <title>
+     Introduction
+    </title>
+    <p>
+     The nuclear envelope (NE) is a double membrane system consisting of the nuclear lamina, inner and outer nuclear membranes and nuclear pore complexes.
+     Though historically viewed as little more than a barrier and gatekeeper, recent years have linked NE proteins to functions as disparate as DNA damage repair,
+     cell cycle regulation,
+     and cell mobility.
+     This range of functions is enabled because NE transmembrane proteins (NETs) in the outer membrane connect to the cytoskeleton and NETs/ lamins in the inner membrane interact with chromatin and gene regulatory proteins. Mutations in lamins and NETs, often collectively referred to as the lamina, have been linked to distinct diseases that each exhibit tissue-specific pathologies ranging from muscular dystrophies to neuropathy, dermopathy, lipodystrophy, bone disorders and progeroid aging syndromes.
+     As the proteins mutated in these disorders are all widely expressed it has been proposed that as yet unidentified tissue-specific partners might mediate the tissue preferences in pathology.
+    </p>
+    <p>
+     Cellular organelles, in general, are thought to be relatively invariant in their integral protein composition, with the exception of the complement of tissue-specific proteins being synthesized in the ER and functioning at the plasma membrane. The first indication that this may not be the case was a proteomic observation that mitochondria isolated from four different mouse tissues exhibited differences in their protein complement.
+     Despite the significance of this finding, other organelles have not been similarly analyzed for such tissue specificity. Two recent proteomic determinations of blood leukocyte and muscle NE proteomes using identical methodologies each identified some novel proteins previously not reported at the NE.
+     Some differences could be due to tissue- and cell-type specificity while others could reflect differences in the methodologies used from earlier studies. Here, we have employed the same methodology used for the blood leukocyte and muscle NEs to determine the liver NE proteome so that all three tissues could be directly compared.
+    </p>
+    <p>
+     Comparing these NE proteomes, we find surprisingly few proteins common to all three tissues. Tissue differences determined by direct testing of a subset of confirmed NETs by antibody staining of tissue cryosections, tissue western blot and tissue RT-PCR reflected the tissue differences indicated by the proteome data set comparison. Proteomic tissue specificity in the larger data sets also correlated with expression data from a large-scale transcriptome study. Furthermore, comparison of the proteome data with interactome data revealed that proteins indicated to be in complexes often segregated together into particular tissues. Among the subset of proteins with known functions identified here at the NE, gene ontology (GO) functional assignments suggest that the observed tissue differences in NE composition contribute to signaling and gene regulation. It is reasonable to speculate that many among the hundreds of previously uncharacterized proteins identified in the NE will have similarly important tissue-specific contributions.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="results">
+    <title>
+     Results
+    </title>
+    <sec>
+     <title>
+      Nuclear envelope proteomics
+     </title>
+     <p>
+      Many novel NE proteins were identified in two recent proteomic analyses of rat muscle and human peripheral blood leukocytes
+      that were not identified in earlier studies of rat liver
+      or mouse neuronal tissue culture cells.
+      This finding could indicate that the NE proteome differs significantly between tissues or could reflect a combination of moderate tissue differences together with improvements in the mass spectrometry approaches used and/or a tendency for different contaminants to co-fractionate in a particular tissue. To distinguish these possibilities a new analysis of rat liver NEs was engaged that used the same approaches as the recent muscle and leukocyte studies.
+     </p>
+     <p>
+      Nuclei were first isolated from other cellular organelles by floating contaminating membranes on sucrose, then chromatin was digested and nuclear contents extracted with salt washes and removed by floating on sucrose to generate crude NEs (
+      ). These were further purified by alkali or detergent extraction prior to mass spectrometry because isolated NEs at this stage clearly have some chromatin attached and some contamination from other cellular organelles as determined by electron microscopy (
+      −­D). Nonetheless, even at this stage, the fractionation had effectively separated the NEs from most expected contaminants as judged by the fact that the ER marker calreticulin and the mitochondrial marker porin were undetectable by Western (
+      ).
+     </p>
+     <p>
+      The reason that the ER would be expected to provide the principal transmembrane protein contaminants is because the ER membrane is continuous with the outer nuclear membrane.
+      Therefore, some ER proteins will normally reside also in the outer nuclear membrane or, viewed conversely, some NETs likely double as ER proteins. This has already been demonstrated for the NET emerin, which concentrates both in the inner nuclear membrane and in the peripheral ER where it functions in connecting the centrosome to the outer nuclear membrane.
+      To better distinguish NE-specific proteins a separate microsomal membrane fraction
+      was prepared from the tissue for comparison. NETs enriched in the NE data sets over the microsome data sets could be considered as higher probability candidate NE proteins, though other NETs could still be important because it is estimated that ~40% of proteins occupy multiple cellular compartments.
+      Thus NE proteins identified were considered in total or as enriched in NEs &gt; 5-fold over microsomes based on normalized spectral counts.
+     </p>
+     <p>
+      These NEs and microsomes were then extracted with alkali or detergent treatments to remove many of these presumed contaminants prior to mass spectrometry analysis (
+      ). One aliquot of NEs was extracted with 0.1 M NaOH because this breaks most protein-protein interactions without solubilizing membranes and so enriches for transmembrane proteins. Another aliquot was extracted with 500 mM NaCl/1% β-octylglucoside because the detergent will draw the membrane lipids into micelles without perturbing the intermediate filament lamin polymer and so enriches for proteins tightly associated with the lamin polymer. Both aliquots were separately analyzed because some well-characterized NETs distribute to one or the other fraction.
+      Each extracted fraction was digested with trypsin and soluble peptides were equally divided for use in 4 direct replicate multidimensional protein identification technology (MudPIT)
+      runs. Remaining insoluble material was further digested with proteinase K at high pH and split for an additional two runs (
+      ;
+      ).
+     </p>
+     <p>
+      The use of both different extraction and different digestion conditions increased the total number of NETs identified. The separate analysis of salt/ detergent extracted NEs resulted in the recovery of 34 additional transmembrane proteins over the NaOH extracted NEs (a 6% increase) using the NE-enriched data set (
+      , top Venn diagram). A similar increase in identified NETs was obtained (5.6%) when including NETs also &lt; 5-fold enriched over microsomes. The sequential digests (trypsin, then proteinase K) were engaged because the NE lamina is defined largely by its insolubility, consisting of both intermediate filament and transmembrane proteins. Thus it was anticipated that associated proteins would be missed that were impervious to the trypsin digestion due to hydrophobic aggregation. This anticipation was justified because 62 additional transmembrane proteins (an 11.5% increase) were uniquely identified in the proteinase K fraction and not in the trypsin fraction using the NE-enriched data set (
+      , bottom Venn diagram). This approach would thus likely benefit other proteomic analyses of transmembrane proteins.
+     </p>
+     <p>
+      Similarly, engaging multiple replicate runs enabled more comprehensive identification of all proteins in the fractions. The total number of proteins identified from six salt/detergent extracted NE runs was nearly 50% higher than the number identified in any individual run (
+      ). As run number increased the number of new identifications dropped, reaching a plateau by ~5 runs where it could be estimated that roughly all proteins in the fractions had been identified. Whereas the earlier liver study that engaged only one run for each extracted fraction identified 1,150 proteins,
+      this new liver study identified 2,921 proteins (
+      ).
+     </p>
+     <p>
+      The finding that so many replicate runs were required for new identifications to reach a plateau is an important observation because it indicates the need for many replicate mass spectrometry runs when investigating complex fractions. The blood leukocyte and muscle studies had respectively engaged 5 and 7 MudPIT runs using the same digestion and run methodology,
+      so that all three analyses should be fairly comprehensive and could be compared on equal footing. In the case of the blood leukocyte data sets, 5 MudPIT runs were performed for unstimulated leukocytes and an additional 5 MudPIT runs were separately performed for PHA-activated leukocytes, finding some differences between the two states
+      ; so for purposes of comparison just the PHA-stimulated data sets are used while total NET tallies include both. Before comparing the new liver NE data sets with the blood leukocyte and muscle NE data sets, redundancy due to differences in annotation was removed by converting protein IDs from all 30 MudPIT runs to orthologous gene groups. This yielded 5,222 proteins in total identified among unstimulated and activated leukocyte, muscle and liver NE fractions and 1,037 NETs (
+      ). Proteins were ranked by abundance estimates based on normalized spectral counts
+      and compared with microsomes to generate the NE-enriched data set containing 4,077 proteins and 598 NETs.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Nuclear envelope tissue specificity
+     </title>
+     <p>
+      Considerable differences were observed in the total protein complement of the NE when comparing the three data sets. First, proteins were plotted as heat maps using a color coding based on the abundance estimate for a particular tissue using normalized spectral counts
+      across all tissues (
+      ). Many proteins were uniquely identified in a single tissue. Furthermore, differences in abundance were often observed for those identified in multiple tissues. Though some of those identified in all tissues were highly abundant, surprisingly, quite a few of the tissue-specific NE proteins were more abundant than ones that were ubiquitously expressed. Second, tissue-specific NETs tended to be less conserved than those widely expressed. Analysis of the evolutionary conservation of NETs revealed a statistical correlation such that the more tissue-specific the NET the less it was conserved (
+      ). The subset of tissue-specific proteins thus is more likely to have evolved more specific functions. Third, tissue specificity of protein identifications correlated with tissue-specific expression data. NE proteins identified in the various tissues were checked for expression against the high-throughput BioGPS transcriptome database that compared gene expression levels between 80 different human tissues.
+      Proteins color-coded by their proteomic identification in human blood leukocytes (red), rat muscle (yellow) or rat liver (blue) and the various combinations were plotted according to the tissue preference for their transcript expression in whole human blood (x-axis), human liver (y-axis) or human muscle (z-axis) (
+      ). This yielded a clear correlation between mRNA tissue expression and protein identification in our tissue NE fractions across the wider set of proteins identified and underscores that many tissue differences are conserved across species.
+     </p>
+     <p>
+      The calculated percentage of NETs shared between the muscle, liver and blood leukocyte NEs was remarkably small—only 16% of the total NETs identified (
+      ). Thus the vast majority of NETs identified are distinct in certain tissues. These tissue differences are not driven by species differences because the conservation between the two rat tissues (liver and muscle: 31%) is similar to that between these and the human leukocytes (25% and 27%). Prep-to-prep variation should have been largely averaged out because, due to low yields in isolating clean leukocyte and muscle NEs, at least 12 individual preparations were combined. A value for shared proteins around 10% was maintained whether considering all proteins identified including soluble proteins or considering subsets that represent higher stringency criteria such as the NETs, those with spectral abundance in NEs &gt; 5-fold higher than microsomes or proteins identified in multiple MudPIT runs (
+      ). Nonetheless, this number should not be taken as an absolute value because of the inability to distinguish all contaminants obtained during NE isolation.
+     </p>
+     <p>
+      To estimate the level of possible contamination acquired during cell fractionation, the complete data sets (5,222 proteins) were searched for proteins with gene ontology (GO)-localization terms for other cellular organelles (particularly membrane bound organelles). The tissue distribution of this subset of NE proteins that have previously been linked to other organelles was the opposite of that for the whole data sets, with the largest fraction being shared by all three tissues for both the total protein set (not shown) and for 356 NETs (
+      ). Thus, if these proteins were considered as contaminants it would only increase the amount of tissue specificity among the remaining proteins.
+     </p>
+     <p>
+      If the tissue differences were due to a particular organelle more readily co-purifying with NEs in one tissue vs. another, then contaminants from that organelle would be expected to accumulate in a particular tissue. This was not the case for any organelle (
+      ). Instead the percentage of these potential contaminants in each tissue was roughly equal for individual organelles, whether considering those identified exclusively in one tissue, in any two tissues or in all three tissues.
+     </p>
+     <p>
+      Proteins with GO-localization terms for any individual organelle generally represented only 0.5 to 3% of total proteins in any tissue data set with the exception of ER and mitochondria (
+      ). This could indicate contamination due to a favored relationship between the NE and these organelles. Indeed, as noted before, the ER is continuous with the NE
+      and also mitochondria are observed in invaginations of the NE.
+      However, the fact that only a fraction of the known proteins from these organelles were identified in the NE preparations is perhaps more consistent with this subset of proteins having functions in both organelles. Interestingly, a large number of these proteins were associated with multiple GO-localization terms, further consistent with their identification as valid NE components.
+     </p>
+     <p>
+      If viewing those proteins enriched in the ER and mitochondria as more likely to be contaminants, then the use of the enriched data set (with normalized spectral abundance in the NE data sets &gt; 5-fold over the microsome data sets) should yield high confidence in identifications. Mitochondrial proteins
+      accounted for 3% of those in the NE data sets: subtracting those left 3,946 proteins in the mixed enriched data set of which 571 were putative NETs. Because not all NETs were exclusive to the NE, we refer to individual NETs using their gene names.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Direct confirmation of NET tissue specificity
+     </title>
+     <p>
+      The only way to verify if a protein is a true NE component is through direct testing by microscopy for targeting to the NE. The validity of these data sets is supported by the confirmation either with tagged fusions or antibodies thus far of 87 NETs (
+      ). All of the original 13 NETs met the enrichment criterion of being &gt; 5-fold enriched in the NE compared with microsomes and nearly 90% of the new NETs meeting this criterion that have been tested are now confirmed. Strikingly, over half of the 74 new NETs confirmed to at least partially accumulate at the NE were &lt; 5-fold enriched compared with microsomal proteins based on normalized spectral counts—in fact 8 had very similar levels. Interestingly, 95% of the proteins tested in the &lt; 5-fold enriched set were validated as targeting to the NE. Thus many proteins in the data sets clearly occupy multiple cellular compartments, as expected from the continuity between the ER and outer nuclear membrane.
+     </p>
+     <p>
+      Several proteins identified in only one of the extraction conditions were confirmed at the NE, further validating the methodology of using different extractions and sequential digests to increase identification of membrane proteins. NET33/SCARA5 and Tmem70 were identified only in the proteinase K digested data sets while NET34/SLC39A14 and NET62/MCAT were identified only in the salt/ detergent extracted data sets and another 16 proteins were identified only in the NaOH extracted/ trypsin digested data sets.
+     </p>
+     <p>
+      Tissue specificity was directly tested for several NETs by investigating transcript and protein levels and antibody staining in different tissues. Transcript levels of 64 putative and confirmed NETs were compared by RT-PCR in 8 human tissues (
+      ;
+      and
+      ). Though some were ubiquitously expressed, many NET transcripts were only detected in a subset of the tissues examined. This tissue expression largely matched the tissue identification by mass spectrometry. Tissue differences at the protein level were confirmed by western blot with NET antibodies comparing rat liver, heart, leg muscle and thymus lysates (
+      ). Equal amounts of each tissue were resolved on the same gels for western blotting and the signals for bands corresponding to each NET were directly quantified from fluorophores conjugated to the antibodies. The fraction for each tissue from the total signal from all tissues combined is plotted.
+     </p>
+     <p>
+      Finally, antibodies generated to several of the confirmed NETs identified in liver, muscle and/ or leukocytes
+      were tested on cryosections from rat muscle, liver and spleen (
+      ). With the exception of C17orf62, which was identified in all three tissues, NE staining was only observed in the tissue from which the novel NET was identified. For example POPDC2 and Tmem38A were both identified only in muscle and a rim staining around the nucleus as defined by DAPI staining for DNA was observed in the muscle cryosections, but not in the liver or spleen cryosections. To ensure that no weak nuclear rim staining was occurring, the exposure times were much longer in the tissues where rim staining was not observed giving the appearance of high background. Similarly nuclear rim staining is only observed in liver for DHRS7 and TM7SF2 that were identified only in the liver data sets and Tmem126A that was identified uniquely in the leukocytes appeared at the nuclear rim only in spleen (
+      ). Importantly, it can be observed that even within a tissue staining was restricted to only certain cell types. Tissues are made up of multiple cell types and, accordingly, Tmem38A strongly stains only 3 of the 6 nuclei in the image shown. The cryosection data importantly demonstrate that tissue-specificity applies to NE residence, even if some moderate expression is observed in another tissue.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Functional consequences of NE tissue differences
+     </title>
+     <p>
+      General protein characteristics such as isoelectric point, transmembrane topology and prevalence of coiled-coils did not vary between NETs identified in different tissues (data not shown). At the same time the previously suggested tendency for NETs to have higher isoelectric points
+      was supported, suggesting that these data sets can be used to extract general characteristics of NETs.
+     </p>
+     <p>
+      A further support of both the tissue distinctiveness of the NE and its functional importance is that the components of a particular protein complex were often found together in one tissue while being absent from the other tissues. NE proteins from the different tissue data sets were searched for their occurrence in complexes listed in the HPRD database at Johns Hopkins University. For each complex for which a component was found in the NE data sets the proportion of complex components identified in the NE of each tissue was plotted (
+      ). Though few complexes were recovered in their entirety in all three tissues, in many cases a complex was fully identified in one tissue but not identified at all or only partially identified in other tissues. In these latter cases the complex might contain different components in different tissues. These same characteristics were observed when considering only complexes containing transmembrane components (
+      ).
+     </p>
+     <p>
+      Another possible reason for NE tissue specificity is suggested by the subset of proteins identified at the NE that have Gene Ontology (GO)
+      functional annotations. To determine if particular nuclear GO-functions were partly accumulating at the NE so that they become
+      <bold>
+       relatively
+      </bold>
+      enriched at the NE, the fraction of our NE proteins with a particular functional annotation was compared with the fraction of total GO-annotated nuclear proteins with the same functional annotations. Thus a positive value for this ratio indicates relative enrichment at the NE such that the percentage of NE proteins devoted to a particular function is greater than the percentage of GO-nuclear proteins devoted to that same function. Negative values indicate relative enrichment in the nucleoplasm (
+      −F). All GO-functional annotations used were experimentally verified.
+     </p>
+     <p>
+      General functional categories yielded expected distributions, e.g., DNA and RNA functions were relatively enriched in the nucleoplasm while transport functions were relatively enriched at the NE (
+      ). However, more specific functions varied in relative NE enrichment, some according to the tissues sampled. Although as expected general RNA functions were more nucleoplasmic, those proteins involved in splicing were relatively enriched at the NE (
+      ). This does not mean that splicing preferentially occurs at the NE compared with the nucleoplasm (it is clearly more nucleoplasmic by localization studies), but that among GO functions splicing occurs more often at the NE than other GO functions. The relative enrichment of some splicing functions at the NE is perhaps due to splicing factors that remain associated with mRNAs during transport through the nuclear pore complex. Other GO-functions had tissue-specific differences in their relative functional enrichment at the NE. Polyadenylation functions, for example, were relatively enriched at the NE only in liver and muscle, but not in leukocytes.
+     </p>
+     <p>
+      Although most epigenetic regulatory functional groupings were not relatively enriched at the NE, certain silencing factors became relatively enriched at the NE in certain tissues. Polycomb group proteins were only relatively enriched at the NE in liver while NuRD was relatively enriched in all but unstimulated blood leukocytes (
+      ). Similarly, several proteins involved in functional groupings for signaling pathways were also relatively enriched at the NE (
+      ). Of note, a large difference was observed between unstimulated and PHA-stimulated blood leukocytes in cGMP-mediated signaling, Wnt receptor signaling was only relatively enriched in liver and BMP signaling was more relatively enriched in the nucleoplasm in blood leukocytes than in liver and muscle.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="discussion">
+    <title>
+     Discussion
+    </title>
+    <p>
+     The high degree of tissue specificity in the NE proteome observed here was not expected. However, it is not surprising in retrospect when considering that the three tissues compared are all made up of many different cell types that have striking differences in nuclear size, shape and the amount of dense chromatin at the NE. For example, in addition to hepatocytes liver contains biliary epithelia, sinusoidal cells, Kupffer cells and stellate cells as well as connective tissue, veins and arteries and muscle composition is similarly diverse. Though the blood cells were determined to be roughly 70% leukocytes, there were also many other cell types present. Applying the same bioinformatic analysis to a previously published data set of mitochondria from different tissues
+     indicates that the NE has at least 3-fold more tissue specificity than mitochondria. However, even the differences observed for mitochondria are large enough that these studies together strongly argue for evaluation of the protein complement of all organelles in different tissues. Furthermore the functional implications of this work underscore the importance of considering the possibility of tissue-specific mediators when studying the function of most well-characterized proteins.
+    </p>
+    <p>
+     As roughly a third of the exome is predicted to encode transmembrane proteins, it is important to develop improved methods for their detection in proteomic analyses. Most such approaches have focused on chemically improving resolution of membrane proteins on 2D gels, but it is generally assumed that LC/LC/MS/MS approaches avoid the losses inherent in 2D gels.
+     While this is certainly true to some extent, the greater than 10% increase in NET identifications we observe by using multiple extraction and digestion conditions strongly argue that proteomic studies still tend to under-represent transmembrane proteins and provides a simple approach that can increase membrane protein identifications. Our results also underscore the importance of engaging multiple replicate runs for complex fractions. Though some of the differences between liver NE proteins identified in this study compared with a previous MudPIT analysis of liver NEs
+     might be attributed to improvements in peptide fragmentation and identification in the mass spectrometers used, within this study the replicate runs and sequential digests roughly doubled the number of identifications. Thus the identification of 2,921 liver NE proteins in this study compared with 1,150 in the previous study is apparently mostly due to these two procedural changes since the purification procedures used to isolate NEs from liver were identical in both studies.
+    </p>
+    <p>
+     The extreme sensitivity of mass spectrometry often yields identification of even minor contaminants in a sample. As cellular fractions are inherently impossible to purify to homogeneity, this has led to a tendency to use cutoffs based on abundance estimates as an effective in silica purification step. While this makes sense for most soluble proteins, that 95% of NETs tested from the &lt; 5-fold enriched set were confirmed as targeting at least in part to the NE argues that a separate, less stringent cutoff may be appropriate for transmembrane proteins.
+    </p>
+    <p>
+     The reason that close to half of the total NETs identified were not &gt; 5-fold enriched at the NE is likely because they have multiple cellular localizations. This is consistent with separate high-throughput observations that 40% of all proteins have multiple cellular localizations
+     as well as the physical structure of the NE in association with both mitochondria and ER.
+     Thus it is not surprising that three tissue-specific proteins in the data sets previously published as mitochondrial and ER proteins (MARCHV, Tmem70 and Tmem38A;
+     ) were confirmed as NETs in the inner nuclear membrane by super-resolution microscopy.
+     Even the well characterized and NE-enriched NET emerin has now been found, in addition to its predominant inner nuclear membrane localization, also to associate with the centrosome in the outer nuclear membrane, the cytoplasm in myotubes and interstitial discs in cardiac tissue.
+    </p>
+    <p>
+     In keeping with this tendency for multiple cellular localizations, the &lt; 5-fold enriched set includes several proteins now confirmed at the NE by others that have characterized functions in small molecule transport or signaling (
+     ;
+     ). The exclusion limit of the nuclear pore complexes allows for small molecules and ions to exchange
+     ; thus, the nucleus likely needs a variety of membrane transporters to maintain ion levels and pH. Notably, in muscle, where strong calcium fluxes during contraction could result in leakage into the nucleus that might damage the genome, there was an abundance of calcium transporters and associated proteins identified in the NE data sets that could clear the ion from the nucleus (
+     ). The identification of signaling molecules identified in the NE by direct testing
+     supports the wider findings from the GO-functional term analysis of tissue-specific accumulation of signaling molecules in the NE. The specific observations regarding some NE accumulation of Wnt and BMP signaling proteins in certain tissues (
+     ) reinforce separate observations that Smads and β-catenin interact with the NETs MAN1 and emerin
+     and, perhaps more importantly, provide an explanation for how mutation of these ubiquitously expressed NETs can lead to tissue-specific disease pathologies.
+    </p>
+    <p>
+     The identification of chromatin binding/modifying proteins in association with the NE is also supported by various individual observations in the literature (e.g., LAP2β with BAF and HDAC3,
+     hALP1 with SUN1,
+     emerin with lmo7,
+     MeCP2 and HP1 with LBR
+     ), though this study provides the first large-scale sampling of such proteins at the NE. Interestingly, the NuRD complex we find to be relatively enriched at the NE in certain tissues (
+     ) is involved in progeria defects caused by NE mutations.
+     Thus known proteins in these data sets fit with the current literature for the NE influencing genome functions and these functions are tissue-specific. This indicates the likelihood that some of the 419 new NE proteins lacking GO-annotations (including both soluble proteins and NETs) also will contribute to genome functions. This likelihood is supported by findings that several NETs with unknown functions identified in the leukocyte data sets could alter genome organization.
+     More compelling, though, is the observation that even a protein with a known and distinct function identified in our data sets—the Na,K-ATPase βm-subunit—has been confirmed at the NE and found to serve a secondary function as a co-regulator of transcription.
+    </p>
+    <p>
+     NETs and their soluble partners that accumulate at the NE only in certain tissues could explain the focused tissue pathology in NE diseases. For example a muscle-specific NET that complexes with Lamin A or Emerin could be lost from the NE with mutations in these proteins linked to Emery-Dreifuss muscular dystrophy.
+     Differences between tissues in NE signaling pathways or chromatin organization/ gene regulation indicated here could result in particular tissues having greater susceptibility to disruption of specific functions with particular NE mutations. In keeping with this idea, the NuRD complex and signaling proteins indicated here to vary at the NE between tissues have been linked to various NE diseases and proteins.
+     The primary deficits in heritable diseases tend to localize in a particular tissue and moreover within a particular organelle. Thus the subcellular location and tissue distribution of proteins linked to disease are important in constructing a model for how their mutation can lead to pathology. This study suggests that to better understand such diseases all cell organelles should be analyzed for tissue specificity in their proteomes.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="materials|methods">
+    <title>
+     Materials and Methods
+    </title>
+    <sec>
+     <title>
+      Preparation and MudPIT analysis of NEs
+     </title>
+     <p>
+      Rat liver NEs and microsomes were prepared and analyzed by MudPIT as described in references
+      and
+      The human blood leukocyte and rat muscle NE preparation and data sets are described in detail in.
+      All protein pellets were solubilized in 0.1 M TRIS-HCl, pH 8.5, 8 M urea, 5 mM TCEP. Iodoacetamide was added to 10 mM for 30 min and endoproteinase Lys-C and trypsin digestion performed as above. Samples were centrifuged 30 min at 17,500 × g. Supernatants (“Ti” digests) were analyzed by MudPIT while pellets were resuspended in 0.1 M Na
+      <sub>
+       2
+      </sub>
+      CO
+      <sub>
+       3
+      </sub>
+      pH 11.5, 8 M urea, 5 mM TCEP for 30 min, then 10 mM iodoacetamide 30 min and then digested with proteinase K 4 h at 37°C
+      and also analyzed by MudPIT (“PK” digests).
+     </p>
+     <p>
+      Importantly in all cases at least five separate MudPIT runs
+      were engaged for each preparation. During the course of a fully automated chromatography, 15 120 min cycles (
+      ) of increasing salt concentrations followed by organic gradients slowly released peptides directly into the mass spectrometer.
+      Three different elution buffers were used: 5% acetonitrile, 0.1% formic acid (Buffer A); 80% acetonitrile, 0.1% formic acid (Buffer B); and 0.5 M ammonium acetate, 5% acetonitrile, 0.1% formic acid (Buffer C). The last five (out of 15) chromatography steps consisted in a high salt wash with 100% Buffer C followed by the acetonitrile gradient. The distal application of a 2.5 kV voltage electrosprayed the eluting peptides directly into ion trap mass spectrometers equipped with a nano-LC electrospray ionization source (ThermoFinnigan). Each full MS scan (from 400 to 1,600 m/z) was followed by five (LTQ) MS/MS events using data-dependent acquisition where the first most intense ion was isolated and fragmented by collision-induced dissociation (at 35% collision energy), followed by the second to 5th most intense ions. The raw data from each run is available at the Proteome Commons Tranche repository through the links given in
+      .
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Data analysis
+     </title>
+     <p>
+      RAW files were extracted into ms2 file format
+      using RAW_Xtract v.1.0.
+      MS/MS spectra—including the liver NEs and ER/microsomes data from
+      —were queried for peptide sequence information using SEQUEST
+      v.27 (rev.9)
+      against 28,400 rat proteins (non-redundant NCBI sequences on July 10, 2006), plus 197 human and mouse homologs of previously identified NETs
+      and 172 sequences from usual contaminants (e.g., human keratins, IgGs, proteolytic enzymes, etc.). In addition, sequences for proteins we had annotated as NETs using previous database releases were added to these databases. Finally, to estimate false discovery rates, each non-redundant protein entry was randomized. The resulting “shuffled” sequences were added to the database and searched at the same time as the “forward” sequences, leading to a total search space of 57,538 and 60,828 sequences for the rat and mouse databases (
+      ). MS/MS spectra were searched without specifying differential modifications. To account for carboxamidomethylation by IAM, +57 Da were added statically to cysteine residues for all the searches. No enzyme specificity was imposed during searches, setting a mass tolerance of 3 amu for precursor ions and of ± 0.5 amu for fragment ions.
+     </p>
+     <p>
+      Spectrum/peptide matches were selected using DTASelect
+      and only retained if peptides were at least 7 amino acids long and their ends had to comply with the specificity of the proteolytic enzymes used, when appropriate. For trypsin-digested samples, peptides had to be fully tryptic, while for samples that had been chemically cleaved with CNBr prior to trypsin digestion (previously acquired mouse NE data set), Methionine or Lysine or Arginine had to be present before the N-terminus and at the C-terminus of the peptide sequences. In both cases, the DeltCn had to be at least 0.08, with a minimum XCorr of 1.8 for singly-, 2.0 for doubly- and3.0 for triply-charged spectra and a maximum Sp rank of 10. For the proteinase K-digested samples, no specific peptide ends were imposed, but the DeltCn cut-off was increased to 0.15,
+      while XCorr minima were increased to 2.5 for doubly- and3.5 for triply-charged spectra. SEQUEST parameters for the spectrum to peptide matches for all detected proteins from rat liver NE and microsomal membranes are provided in
+      , respectively. Results from different runs were compared and merged using CONTRAST
+      (
+      ). Proteins that were subset of others were removed.
+      <italic>
+       NSAF7
+      </italic>
+      (Tim Wen) was used to create the final report (
+      ) on all detected proteins across the different runs, calculate their respective Normalized Spectral Abundance Factor (NSAF) values and estimate false discovery rates (FDR).
+     </p>
+     <p>
+      Spectral FDR was calculated as:
+     </p>
+     <disp-formula>
+      <graphic ns0:href="nucl-3-552-e1"/>
+     </disp-formula>
+     <p>
+      Protein level FDR was calculated as:
+     </p>
+     <disp-formula>
+      <graphic ns0:href="nucl-3-552-e2"/>
+     </disp-formula>
+     <p>
+      Under these criteria the final FDRs at the protein and peptide levels were 2.8 ±1.5% and 0.4 ±0.2%, respectively.
+     </p>
+     <p>
+      To estimate relative protein levels, distributed normalized spectral abundance factors (dNSAFs) were calculated for each non-redundant protein or protein group, as described in:
+     </p>
+     <disp-formula>
+      <graphic ns0:href="nucl-3-552-e3"/>
+     </disp-formula>
+     <p>
+      with
+     </p>
+     <disp-formula>
+      <inline-formula>
+       <inline-graphic ns0:href="nucl-3-552-e4.jpg"/>
+      </inline-formula>
+      ,
+     </disp-formula>
+     <p>
+      in which shared spectral counts (sSpC) were distributed based on spectral counts unique to each protein i (uSpC) divided by the sum of all unique spectral counts for the M protein isoforms that shared peptide
+      <italic>
+       j
+      </italic>
+      with protein
+      <italic>
+       i
+      </italic>
+      (
+      ).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Antibodies and western blotting
+     </title>
+     <p>
+      Antibodies used: GAPDH (Enogene, E1C604), Calreticulin (Cell Signaling, 2891S), Calnexin (Stressgen, SPA-860), lamin A (3262), NET antibodies were rabbit polyclonals generated to peptides from human sequences (Millipore) LAP2β (06–1002), SUN2 (06–1038), TMTC3 (06–1009), TM7SF2 (06–1026), TMEM126A (06–1037), TMEM201 (06–1013), C17orf62 (06–1033), C17orf32 (06–1035), PPAPDC3 (06–1025), TMEM38A (06–1005), POPDC2 (06–1007), TMEM209 (06–1020), DHRS7 (06–1027).
+     </p>
+     <p>
+      Rat tissue lysates were prepared by grinding tissues under liquid nitrogen, adding sample buffer (100 mM Tris pH 6.8, 4 M Urea, 2% SDS, 50 mM DTT and 15% sucrose) and heating at 65°C 10 min followed by sonibath sonication. Loading was normalized with GAPDH antibodies. Mitochondria were prepared by pelleting a liver post-nuclear supernatant at 11,000x g 15 min and lysing in sample buffer. To increase lamina solubility, liver NE and microsomes were incubated on ice in 50 mM TRIS-HCl pH 7.4, 150 mM NaCl, 2 mM MgCl
+      <sub>
+       2
+      </sub>
+      , 0.2% NP-40 with protease inhibitors, then heated at 65°C for 2 min and sonicated in a 4°C sonibath. Protein concentrations were determined by Bradford assay before adding sample buffer.
+     </p>
+     <p>
+      For
+      and
+      blots after quantification of protein levels in the lysates, equal amounts of protein were added for NEs and microsomes. For
+      blots, mitochondrial lysates were loaded so that porin levels matched those in total cell lysates and NE lysates were loaded so that the lamin levels matched those in total cell lysates. Blots shown in
+      were run according to standard procedures visualizing bands with ECL reagent. For
+      , protein bands were visualized and quantified with IR800-conjugated secondary antibodies using a LI-COR Odyssey and median background subtraction and averages from three independent blots are plotted.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      RT-PCR
+     </title>
+     <p>
+      All human total tissue RNAs for RT-PCR reactions were obtained from Stratagene except for peripheral blood leukocytes (PBL). In this case RNA was isolated using Trizol from cells prepared as for the blood leukocyte proteomics. Reactions were performed with 10 ng of the tissue RNAs using the Titan one tube RT-PCR system (Roche) according to manufacturer’s instructions, except that dNTP concentration was increased to 500 µM and MgCl
+      <sub>
+       2
+      </sub>
+      to 3 mM. Typical reaction conditions were 30 min reverse transcription at 50°C, 2 min denaturation at 94°C, then 24 cycles of 94°C for 30 sec, 60°C for 30 sec and 68°C for 45 sec. Peptidylprolyl isomerase A (PPIA) was used as a loading control and reactions were typically repeated at least three times when notable differences were observed.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Immunofluorescence microscopy
+     </title>
+     <p>
+      For cryosections, fresh rat tissues cut into 2–3 mm cubes were embedded in Optimal Cutting Temperature Compound (Tissue-Tek) and snap-frozen in liquid nitrogen. Sections were cut on a Leica CM 1900 Cryostat at 6–8 μm thickness and fixed in -20°C methanol. After rehydration, sections were incubated with NET antibodies O/N at 4°C followed by 2° antibodies as above. Images were recorded using an SP5 laser confocal system with 63× oil 1.4 NA objective (Leica). Micrographs were saved as TIFF files and prepared for figures using Photoshop 8.0.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Bioinformatics analysis
+     </title>
+     <p>
+      Proteins identified by SEQUEST were first mapped to an Ensembl gene. Human/Rat/Mouse orthologous groups were identified with Ensembl release 48
+      to remove redundancy and false variation that might have resulted from differences in human and rodent gene assignments. Orthologous group IDs were sorted according to run criteria (e.g., appearance in runs for different tissues, membrane helix status and 5x higher dNSAF values in NEs vs microsomes) and compared using Venn diagrams to measure the level of tissue distinctness. Area proportional Venn diagrams were generated using Venn Diagram Plotter v1.4 from PNNL, US Department of Energy (
+      <ext-link ext-link-type="uri" ns0:href="http://omics.pnl.gov/software/VennDiagramPlotter.php">
+       http://omics.pnl.gov/software/VennDiagramPlotter.php
+      </ext-link>
+      ).
+     </p>
+     <p>
+      Basic properties of proteins listed in supplemental tables were calculated using BioPerl modules
+      or EMBOSS.
+      PSORTII was used for the prediction of nuclear localization signals.
+      For prediction of transmembrane spans it is important to note that a very stringent set of criteria was used for those annotated as “TM” in the supplemental tables and used for the numbers generated comparing NETs in various figures. Only proteins that had predictions by TM-HMM version 2.0c
+      AND which had no signal peptide (SP) prediction if they had only one predicted membrane span were used for this analysis. However, some NETs confirmed at the NE (including one of the original pre-proteomics NETs) did not have membrane spans predicted using these criteria. The detailed listing of TM-HMM and SP predictions is given in
+      .
+     </p>
+     <p>
+      To plot heatmaps the log2 of the dNSAF scores for NETs within a particular tissue were z-transformed to standardize between experiments.
+     </p>
+     <p>
+      Comparison of expression levels in different tissues was done by downloading microarray signal data from BioGPS at
+      <ext-link ext-link-type="uri" ns0:href="http://biogps.gnf.org/">
+       http://biogps.gnf.org/
+      </ext-link>
+      and calculating the fold-expression over the median value from a wide variety of mouse tissues tested in this transcriptome database. For
+      just those proteins appearing in ~60% or more of MudPIT runs were considered.
+     </p>
+     <p>
+      Proteins were searched against the human protein reference database (HPRD, Johns Hopkins University) to identify protein complexes. These were compared between the individual NE data sets to determine how many complex components were identified in each tissue and then restricted to those that had at least 75% of complex components identified between all data sets.
+     </p>
+     <p>
+      Biologically interesting gene ontology (GO)-terms and their corresponding child terms were retrieved from the mySQL database
+      <ext-link ext-link-type="uri" ns0:href="http://amigo.geneontology.org">
+       http://amigo.geneontology.org
+      </ext-link>
+      .
+      To ensure a fair comparison for term enrichment, only human-mapped genes in our data set were considered. These were compared with the genomic data set of human Ensembl genes using BioMart (
+      <ext-link ext-link-type="uri" ns0:href="http://www.biomart.org/">
+       http://www.biomart.org/
+      </ext-link>
+      ) as well as those GO-defined as having nuclear localization. Only experimentally verified GO-functional annotations were used including EXP (Inferred from EXperiment), IDA (Inferred from Direct Assay) andIPI (Inferred from Physical Interaction). For a given GO-term, the fraction of genes containing that term or any of the child terms was calculated for all data sets. The fold-difference was calculated by dividing this fractional value from our data set of interest by the value from the reference group. GO terms were also used to identify potential contaminants as proteins with GO-targeting annotations for other organelles as follows. GO:0016023, cytoplasmic membrane-bounded vesicle; GO:0005794, Golgi apparatus; GO:0005739, mitochondrion; GO:0005773, vacuole; GO:0005768, endosome; GO:0005783, endoplasmic reticulum; GO:0042579, microbody; GO:0005856, cytoskeleton; GO:0005694, chromosome; GO:0005730, nucleolus; GO:0005840, ribosome.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="supplementary-material">
+    <title>
+     Supplementary Material
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

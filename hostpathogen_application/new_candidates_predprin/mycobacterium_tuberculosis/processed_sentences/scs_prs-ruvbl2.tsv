@@ -1,0 +1,2 @@
+id_pmc	sentence location	highlighted phrase	interacting verbs	number of interacting verbs	experimental methods found	number of experimental methods	protein entities found	number of protein entities
+5700371	body	the prs corresponds to human orfs encoding the nfx1 , ruvbl2 , nup50 , ptges3 , and kpna2 proteins picked up from the human orfeome , which have been shown in the literature to bind pb2 .	bind	1		0	prs|ruvbl2|human|orfs|nup50|ptges3|kpna2|proteins|pb2	9

@@ -1,0 +1,1866 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1998/Math/MathML" xmlns:ns1="http://www.w3.org/1999/xlink">
+ <title>
+  Enzyme kinetic and binding studies identify determinants of specificity for the immunomodulatory enzyme ScpA, a C5a inactivating bacterial protease
+ </title>
+ <abstract>
+  <p>
+   <list id="l0005" list-type="simple">
+    <list-item id="o0005">
+     <label>
+      •
+     </label>
+     <p id="p0005">
+      The human complement protein C5a is implicated in immunomodulatory diseases.
+     </p>
+    </list-item>
+    <list-item id="o0010">
+     <label>
+      •
+     </label>
+     <p id="p0010">
+      ScpA, a C5a inactivating protease, represents a novel enzymatic approach to therapy.
+     </p>
+    </list-item>
+    <list-item id="o0015">
+     <label>
+      •
+     </label>
+     <p id="p0015">
+      High-affinity ScpA specificity for C5a is driven by C5a core-exosite interactions.
+     </p>
+    </list-item>
+    <list-item id="o0020">
+     <label>
+      •
+     </label>
+     <p id="p0020">
+      3 Arginines in the C5a core, and electrostatic interactions contribute to binding.
+     </p>
+    </list-item>
+    <list-item id="o0025">
+     <label>
+      •
+     </label>
+     <p id="p0025">
+      These studies are first steps in the development of novel immunomodulatory therapies.
+     </p>
+    </list-item>
+   </list>
+  </p>
+  <p>
+   The Streptococcal C5a peptidase (ScpA) specifically inactivates the human complement factor hC5a, a potent anaphylatoxin recently identified as a therapeutic target for treatment of COVID-19 infections. Biologics used to modulate hC5a are predominantly monoclonal antibodies. Here we present data to support an alternative therapeutic approach based on the specific inactivation of hC5a by ScpA in studies using recombinant hC5a (rhC5a). Initial characterization of ScpA confirmed activity in human serum and against rhC5a desArg (rhC5a
+   <sub>
+    dR
+   </sub>
+   ), the predominant hC5a form in blood. A new FRET based enzyme assay showed that ScpA cleaved rhC5a at near physiological concentrations (
+   <italic>
+    K
+   </italic>
+   <sub>
+    m
+   </sub>
+   185 nM). Surface Plasmon Resonance (SPR) and Isothermal Titration Calorimetry (ITC) studies established a high affinity ScpA-rhC5a interaction (
+   <italic>
+    K
+   </italic>
+   <sub>
+    D
+   </sub>
+   34 nM,
+   <inline-formula>
+    <ns0:math altimg="si3.svg" id="M1">
+     <ns0:mrow>
+      <ns0:msubsup>
+       <ns0:mrow>
+        <ns0:mi mathvariant="italic">
+         K
+        </ns0:mi>
+       </ns0:mrow>
+       <ns0:mrow>
+        <ns0:mi>
+         D
+        </ns0:mi>
+       </ns0:mrow>
+       <ns0:mrow>
+        <ns0:mi>
+         ITC
+        </ns0:mi>
+       </ns0:mrow>
+      </ns0:msubsup>
+     </ns0:mrow>
+    </ns0:math>
+   </inline-formula>
+   30.8 nM). SPR analyses also showed that substrate binding is dominated (88% of ΔG°
+   <sub>
+    bind
+   </sub>
+   ) by interactions with the bulky N-ter cleavage product (P
+   <sub>
+    N
+   </sub>
+   , ’core’ residues 1–67) with interactions involving the C-ter R74 contributing most of the remaining ΔG°
+   <sub>
+    bind
+   </sub>
+   . Furthermore, reduced binding affinity following mutation of a subset of positively charged Arginine residues of P
+   <sub>
+    N
+   </sub>
+   and in the presence of higher salt concentrations, highlighted the importance of electrostatic interactions. These data provide the first in-depth study of the ScpA-C5a interaction and indicate that ScpA’s ability to efficiently cleave physiological concentrations of C5a is driven by electrostatic interactions between an exosite on the enzyme and the ‘core’ of C5a. The results and methods described herein will facilitate engineering of ScpA to enhance its potential as a therapeutic for excessive immune response to infectious disease.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="s0005">
+    <label>
+     1
+    </label>
+    <title>
+     Introduction
+    </title>
+    <p id="p0030">
+     The role of the complement factor C5a in inflammatory diseases has come into sharp focus in recent months, with data supporting a role for C5a-C5aR in the progression of COVID-19 disease
+     . The therapeutic value of targeting C5a as an intervention in COVID-19 infection is demonstrated by multiple ongoing Phase III clinical studies using anti-C5a monoclonal antibodies (MAbs)
+     ,
+     ,
+     ,
+     . Complement therapeutics have garnered increasing attention as strategies for treatments of inflammatory diseases
+     ,
+     . Proteases are also being explored for their potential to modulate the complement response in the disease process. Examples include an engineered human MTSP1 protease targeting C3 as a treatment of age-related macular degeneration (AMD)
+     and the use of ScpA, a bacterial protease specific for C5a, as an intervention in sepsis
+     .
+    </p>
+    <p id="p0035">
+     The ScpA enzyme is one of two multi-domain cell envelope proteases (CEPs) produced by the Gram-positive bacterium
+     <italic>
+      Streptococcus pyogenes
+     </italic>
+     . The second enzyme is the IL-8 cleaving peptidase ScpC (also known as SpyCEP). Unlike degradative subtilases, ScpA and ScpC have high substrate specificity. ScpC has been shown to selectively cleave and inactivate CXC chemokines that possess the ELR motif
+     , thus targeting a structurally conserved carboxyl-terminal (C-ter) helix in chemokines which stimulate neutrophil migration
+     ,
+     . ScpA is a more selective enzyme specific for the complement factors C5a and C3a only
+     ,
+     . The better characterized substrate for ScpA is C5a, a 74 amino-acid pro-inflammatory product of complement activation with a myriad of significant biological functions
+     ,
+     . ScpA inactivation of human C5a (hC5a) results from a single proteolytic event between residues H67 and K68
+     , releasing the 7 C-terminal (C-ter) residues of the chemotaxin associated with receptor activation
+     . The amino-terminal (N-ter) cleavage product (P
+     <sub>
+      N
+     </sub>
+     , residues 1–67, referred to as the ‘core’ residues or ‘hC5a
+     <sub>
+      core
+     </sub>
+     ’) has greatly reduced PMN chemotactic and stimulatory activity as compared to the full-length C5a peptide
+     . From the perspective of bacterial virulence, the action of these two CEPs modulate the host immune response and promote bacterial persistence.
+    </p>
+    <p id="p0040">
+     The current study examines factors contributing to ScpA’s specificity for hC5a, and therefore how it exerts an immune-modulatory effect. Early characterizations of the peptidase showed that ScpA did not cleave native forms of a variety of proteins (C5, human serum albumin, ovalbumin, soybean trypsin inhibitor, carbonic anhydrase, α-lactalbumin, myosin, and cytochrome), but demonstrated endoproteolytic activity against hC5a
+     ,
+     . More recently, ScpA has also been shown to be capable of cleaving C3a, the structurally related complement derived anaphylotoxin
+     . In addition, ScpA was observed to discriminate between C5a molecules from different species, inactivating bovine C5a but not the mouse or rat proteins
+     .
+    </p>
+    <p id="p0045">
+     While the specificity of ScpA has not been exhaustively tested, it has historically been considered a highly discriminating enzyme. The specificity of ScpA has been examined in both enzyme kinetic and substrate binding. To date, enzyme kinetic studies on ScpA have relied on use of small peptide mimics or large chimeric fusion proteins as substrate analogues. Studies with a 16 amino-acid peptide representing the C-ter of hC5a, reported
+     <italic>
+      k
+     </italic>
+     <sub>
+      cat
+     </sub>
+     and
+     <italic>
+      K
+     </italic>
+     <sub>
+      m
+     </sub>
+     values of 1.1 s
+     and 360 μM respectively for ScpA
+     . Additional analysis with a peptide substrate lacking the 7 C-ter tail residues decreased
+     <italic>
+      k
+     </italic>
+     <sub>
+      cat
+     </sub>
+     /
+     <italic>
+      K
+     </italic>
+     <sub>
+      m
+     </sub>
+     more than 200 fold, demonstrating the importance of prime side interactions in determining substrate interactions. Several studies expanded the substrate to include the entire C5a molecule. Stafslien and Cleary employed a Glutathione S transferase-C5a-green fluorescent protein tripartite fusion as a substrate and reported specific activity for ScpA, but not other kinetic parameters
+     . However, their study did confirm the identity of the catalytic residues (D130, H193, and S512), and demonstrated that peptidase activity decreased with increasing (20–200 mM) NaCl concentration
+     . In addition, Terao and co-workers examined interaction between active ScpA and the full-length human C5a in Surface Plasmon Resonance (SPR) studies which indicated that the peptidase binds hC5a with very low affinity (
+     <italic>
+      K
+     </italic>
+     <sub>
+      D
+     </sub>
+     7.25 mM)
+     .
+    </p>
+    <p id="p0050">
+     When considering activity of an enzyme such as a protease, it is important to relate the observations on
+     <italic>
+      K
+     </italic>
+     <sub>
+      m
+     </sub>
+     to the physiological concentration of its substrate. Data from clinical samples under conditions where C5a is expected to be elevated indicate that physiological levels of C5a are in the low nM range (10–30 nM) for a variety of clinical indications including intra-abdominal infections
+     , sepsis
+     and COVID-19 infection
+     ,
+     . Thus, the substrate analogues used in previous studies do not adequately account for interactions critical for examining the properties of ScpA. Understanding of ScpA as a virulence factor and potential therapeutic would benefit from an improved substrate for kinetic analysis.
+    </p>
+    <p id="p0055">
+     The structure of ScpA showed that it is a subtilisin-like protease with a PA domain inserted within the catalytic domain and 3 tandemly arranged C-terminal fibronectin type III domains (Fn1-Fn3)
+     . Based on proximity to the active site, the PA and Fn2 domains were proposed to participate in substrate interactions in the active site and at an exosite respectively. Furthermore, modelling of the ScpA-hC5a complex indicated that the catalytic site is occluded and would be inaccessible to large, folded substrates. Therefore, positioning of the scissile bond near the catalytic site required that the hC5a residues in the C-ter α-helix (residues 65–74) adopt an extended conformation. Interactions with the Fn2 domain were predicted to make the largest contribution to substrate binding affinity, involving a large surface area and 9 salt bridges with hC5a residues between residue 1 and residue 64. These exosite interactions between the hC5a
+     <sub>
+      core
+     </sub>
+     residues and the Fn2 domain would compensate for the limited number of stabilizing interactions in non-prime side of the active site. The model also proposed that ionic interactions with 3 hC5a residues in the C-ter tail (K68, D69 and R74) would be involved in substrate binding.
+    </p>
+    <p id="p0060">
+     Here we present enzyme kinetic data, along with the surface (SPR) and solution (Isothermal Titration Calorimetry) protein–protein interaction studies that probe the ScpA-hC5a interaction. The results of these studies are the first to be consistent with physiologically relevant concentrations of C5a. These data thus provide in-depth insight into the determinants of ScpA specificity, a critical initial step in developing this enzyme into novel therapeutics for immunomodulatory disorders involving C5a.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s0010">
+    <label>
+     2
+    </label>
+    <title>
+     Materials and methods
+    </title>
+    <sec id="s0015">
+     <label>
+      2.1
+     </label>
+     <title>
+      Preparation of recombinant proteins
+     </title>
+     <p id="p0065">
+      The cloning of recombinant ScpA, residues 31–1032, has been described previously
+      , and was designed to closely mimic the form of ScpA released from the surface of the Group A Streptococcal cell by the action of SpeB, and which is reported to retain activity
+      . For the purposes of this work this protein is called ScpA. The plasmid expressing ScpA (pGEX ScpA
+      <sub>
+       (31-1032)
+      </sub>
+      ) was used as a template to generate an active site serine to alanine (S512A) mutation with the QuickChange II site directed mutagenesis kit (Strategene, USA) for use in SPR studies. The proper folding of ScpA
+      <sub>
+       S512A
+      </sub>
+      was confirmed crystallographically (Supplemental Information, Table S2 and
+      ), and the coordinates and structure factors deposited at the Protein Data Bank (PDB ID 7BJ3).
+     </p>
+     <p id="p0070">
+      Recombinant human C5a peptides were produced as N-ter
+      <italic>
+       hexa
+      </italic>
+      -histidine tagged (HT) fusion proteins using a protocol which closely followed the method of Bubeck
+      <italic>
+       et al.
+      </italic>
+      . Synthetic genes for human C5a were inserted into the pProExHTb expression vector (Invitrogen, UK). Unless otherwise stated point mutations were generated using a QuickChange II site directed mutagenesis kit (Strategene, USA) with specific primers, and using the pProEXHTb construct for rhC5a as the template. The synthetic gene for rhC5a with an additional C-ter C75 residue (rhC5a
+      <sub>
+       C75
+      </sub>
+      ) was generated using
+      <italic>
+       gblock
+      </italic>
+      technology (IDT Biotech). The rhC5a
+      <sub>
+       core
+      </sub>
+      was purified from a treatment of rhC5a with ScpA. For competitive binding experiments, TEV protease (Sigma Merck, U.S.A) was used to produce the His-tagless form of rhC5a (rhC5a
+      <sub>
+       -HT
+      </sub>
+      ).
+     </p>
+     <p id="p0075">
+      Additional details of recombinant protein production and purification are provided in Supplemental Information.
+     </p>
+    </sec>
+    <sec id="s0020">
+     <label>
+      2.2
+     </label>
+     <title>
+      ScpA activity assays
+     </title>
+     <p id="p0080">
+      The activity of recombinant ScpA against rhC5a, rhC5a
+      <sub>
+       dR
+      </sub>
+      and rhC5a
+      <sub>
+       C75
+      </sub>
+      -BODIPY was examined in cleavage assays containing 18 μM C5a peptide and 10 nM ScpA in PBS. The reactions were incubated at 37 °C for 15 min and analyzed by SDS-PAGE and MS. Salt dependent activity assays were conducted in 30 mM Hepes buffer with 10 mM, 150 mM and 1 M NaCl adjusted to pH 7 with KOH. 17 µM rhC5a was cleaved with 10 nM ScpA under each buffering condition for 7 min at 37 °C and assessed with SDS-PAGE.
+     </p>
+     <p id="p0085">
+      ScpA activity was also demonstrated in human serum. Reactions were in normal human serum (Merck, Germany) with 39 µM rhC5a and 36 nM ScpA. Assays were incubated for 90 min at 37 °C. The reactions were immediately passed through a ProteoSpin™ protein depletion column (Norgen Biotek, Canada) and rhC5a cleavage assessed with SDS-PAGE. These assays were conducted at higher concentrations of rhC5a to facilitate visualization of the digestion product anticipating dilution of rhC5a using the ProteoSpin™ protein depletion column. Western blot analysis of the samples used polyclonal rabbit anti-human C5a antibody (MBS524143, MyBioSource, USA).
+     </p>
+     <p id="p0090">
+      The rate of reaction of cleavage of C5a by ScpA was determined in an assay using the self-quenched doubly BODIPY labelled His-tagged rhC5a
+      <sub>
+       C75
+      </sub>
+      as a substrate. Production of the substrate is described in Supplemental Information. Enzyme kinetics assays contained 16, 31, 62, 125, 250 or 500 nM of the labelled substrate and 180 pM ScpA in 1 X PBS with 0.1% (v/v) Tween 20. The reactions were performed at 25 °C, and the evolution of fluorescence monitored over 8000 s using a Berthold Tristar2S fluorescence plate reader (Berthold Technologies, UK) with excitation at 485 nm and emission at 520 nm and a 2 s data acquisition time. Experiments were performed in quadruplicate. Following correction for spontaneous hydrolysis of substrate the progress curves were analysed using the DYNAFIT software package
+      . Progress curves were fit with the minimal Van Slyke-Cullen mechanism
+      to obtain steady state enzyme kinetic parameters (
+      <italic>
+       K
+      </italic>
+      <sub>
+       m
+      </sub>
+      and
+      <italic>
+       k
+      </italic>
+      <sub>
+       cat
+      </sub>
+      ).
+     </p>
+    </sec>
+    <sec id="s0025">
+     <label>
+      2.3
+     </label>
+     <title>
+      Surface plasmon resonance studies
+     </title>
+     <p id="p0095">
+      SPR data was obtained by measuring of the His-tagged C5a peptides to ScpA
+      <sub>
+       S512A
+      </sub>
+      was measured at 25 °C with a BIAcore X100 system (GE Healthcare, UK) in Hepes buffer (10 mM Hepes-KOH pH 7.5, 150 mM NaCl, 0.005% (v/v) Tween 20, 50 μM EDTA). The experiments were conducted in triplicate. Values of binding constants reported on
+      represent the mean and standard deviation from three experiments. Interactions with the human C5a peptides (rhC5a, rhC5a
+      <sub>
+       dR
+      </sub>
+      , rhC5a
+      <sub>
+       core
+      </sub>
+      and point mutations) were assessed with an NTA sensor chip (GE Healthcare, UK) with approximately 30–40 response units (RU) of immobilized peptide ligand and a flow rate of 30 μL/min. The binding to human C5a peptides was measured over a range of ScpA
+      <sub>
+       S512A
+      </sub>
+      concentrations (32-fold) divided equally over 6 experiments (
+      <italic>
+       i.e.
+      </italic>
+      2-fold change in ScpA
+      <sub>
+       S512A
+      </sub>
+      concentration between measurements). Association and dissociation phases were each monitored for 200 s. The highest ScpA
+      <sub>
+       S512A
+      </sub>
+      concentrations were 90, 500, and 1000 nM for rhC5a, rhC5a
+      <sub>
+       dR
+      </sub>
+      , and rhC5a
+      <sub>
+       core
+      </sub>
+      binding respectively. The highest ScpA
+      <sub>
+       S512A
+      </sub>
+      concentration was 90 nM for rhC5a
+      <sub>
+       K4A,K5A
+      </sub>
+      , rhC5a
+      <sub>
+       K12A,K14A
+      </sub>
+      , and rhC5a
+      <sub>
+       K49A
+      </sub>
+      , 360 nM for rhC5a
+      <sub>
+       R46A
+      </sub>
+      , and 720 nM for rhC5a
+      <sub>
+       R37A
+      </sub>
+      and rhC5a
+      <sub>
+       R40A
+      </sub>
+      . Double referencing was used to remove the effects associated with buffer changes. In addition, the signal associated with non-specific ScpA
+      <sub>
+       S512A
+      </sub>
+      interactions with the chip surface was subtracted from each sensorgram. The sensorgrams were fit in a global analysis with the BIAevaluation 4.1 curve fitting software (GE Healthcare, UK). The best fit (lowest chi
+      ) was obtained using 1:1 Langmuir model with a drifting baseline.
+     </p>
+    </sec>
+    <sec id="s0030">
+     <label>
+      2.4
+     </label>
+     <title>
+      Competitive binding assay
+     </title>
+     <p id="p0100">
+      The competition between ScpA binding to immobilized rhC5a
+      <sub>
+       core
+      </sub>
+      and the His-tagless form of rhC5a in solution (rhC5a
+      <sub>
+       core
+      </sub>
+      (imm) and rhC5a
+      <sub>
+       -HT
+      </sub>
+      (sol) respectively in
+      ) was used to estimate the ScpA-rhC5a equilibrium dissociation constant in solution (
+      <inline-formula>
+       <ns0:math altimg="si1.svg" id="M2">
+        <ns0:mrow>
+         <ns0:msubsup>
+          <ns0:mi>
+           K
+          </ns0:mi>
+          <ns0:mrow>
+           <ns0:mi>
+            D
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mi>
+           Sol
+          </ns0:mi>
+         </ns0:msubsup>
+        </ns0:mrow>
+       </ns0:math>
+      </inline-formula>
+      ). The equilibrium SPR response (R
+      <sub>
+       eq
+      </sub>
+      ) was measured over a range rhC5a
+      <sub>
+       -HT
+      </sub>
+      concentrations with fixed levels of immobilized rhC5a
+      <sub>
+       core
+      </sub>
+      and ScpA concentrations. 40 RU of HT-rhC5a
+      <sub>
+       core
+      </sub>
+      was immobilized on a NTA biosensor chip. Mixtures of ScpA
+      <sub>
+       S512A
+      </sub>
+      (700 nM) and rhC5a
+      <sub>
+       -HT
+      </sub>
+      (0–2000 nM) were pre-incubated in SPR running buffer (1 hr on ice) prior to injection over both flow cells (30 µL/min for 180 sec). R
+      <sub>
+       eq
+      </sub>
+      values obtained from these experiments were analyzed according to the method reported by Morelock
+      <italic>
+       et al.
+      </italic>
+      .
+     </p>
+     <p id="p0105">
+      In brief, the R
+      <sub>
+       eq
+      </sub>
+      in the competition assay measures ScpA
+      <sub>
+       S512A
+      </sub>
+      -rhC5a
+      <sub>
+       core
+      </sub>
+      binding on the chip surface, which is dependent on the concentration of free ScpA
+      <sub>
+       S512A
+      </sub>
+      in solution (
+      <italic>
+       i.e.
+      </italic>
+      [ScpA]
+      <sub>
+       Tot
+      </sub>
+      – [ScpA▪rhC5a
+      <sub>
+       -HT
+      </sub>
+      ] (Eq. 1). Where [ScpA]
+      <sub>
+       Tot
+      </sub>
+      is the total concentration of ScpA
+      <sub>
+       S512A
+      </sub>
+      , [ScpA▪rhC5a
+      <sub>
+       -HT
+      </sub>
+      ] is the concentration of the ScpA
+      <sub>
+       S512A
+      </sub>
+      ▪rhC5a
+      <sub>
+       -HT
+      </sub>
+      complex in solution,
+      <inline-formula>
+       <ns0:math altimg="si2.svg" id="M5">
+        <ns0:mrow>
+         <ns0:msubsup>
+          <ns0:mrow>
+           <ns0:mi mathvariant="italic">
+            K
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mrow>
+           <ns0:mi>
+            D
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mrow>
+           <ns0:mi>
+            core
+           </ns0:mi>
+          </ns0:mrow>
+         </ns0:msubsup>
+        </ns0:mrow>
+       </ns0:math>
+      </inline-formula>
+      is the SPR derived constant for ScpA-rhC5a
+      <sub>
+       core
+      </sub>
+      binding (
+      ), and R
+      <sub>
+       max
+      </sub>
+      and R
+      <sub>
+       min
+      </sub>
+      are the maximum and minimum R
+      <sub>
+       eq
+      </sub>
+      responses in the competition assay. [ScpA▪rhC5a
+      <sub>
+       -HT
+      </sub>
+      ] can be obtained from the quadratic solution of the expression for
+      <inline-formula>
+       <ns0:math altimg="si1.svg" id="M6">
+        <ns0:mrow>
+         <ns0:msubsup>
+          <ns0:mrow>
+           <ns0:mi mathvariant="italic">
+            K
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mrow>
+           <ns0:mi>
+            D
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mrow>
+           <ns0:mi>
+            Sol
+           </ns0:mi>
+          </ns0:mrow>
+         </ns0:msubsup>
+        </ns0:mrow>
+       </ns0:math>
+      </inline-formula>
+      (Eq. 2). Substitution of Eq. 2 into Eq. 1 allows estimation of
+      <inline-formula>
+       <ns0:math altimg="si1.svg" id="M7">
+        <ns0:mrow>
+         <ns0:msubsup>
+          <ns0:mrow>
+           <ns0:mi mathvariant="italic">
+            K
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mrow>
+           <ns0:mi>
+            D
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mrow>
+           <ns0:mi>
+            Sol
+           </ns0:mi>
+          </ns0:mrow>
+         </ns0:msubsup>
+        </ns0:mrow>
+       </ns0:math>
+      </inline-formula>
+      by fitting plots of [rhC5a
+      <sub>
+       -HT
+      </sub>
+      ]
+      <sub>
+       Tot
+      </sub>
+      versus R
+      <sub>
+       eq
+      </sub>
+      with fixed values of [ScpA]
+      <sub>
+       Tot
+      </sub>
+      (700 nM),
+      <inline-formula>
+       <ns0:math altimg="si2.svg" id="M8">
+        <ns0:mrow>
+         <ns0:msubsup>
+          <ns0:mrow>
+           <ns0:mi mathvariant="italic">
+            K
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mrow>
+           <ns0:mi>
+            D
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mrow>
+           <ns0:mi>
+            core
+           </ns0:mi>
+          </ns0:mrow>
+         </ns0:msubsup>
+        </ns0:mrow>
+       </ns0:math>
+      </inline-formula>
+      (240 nM), and R
+      <sub>
+       min
+      </sub>
+      (0.0).
+     </p>
+    </sec>
+    <sec id="s0035">
+     <label>
+      2.5
+     </label>
+     <title>
+      ITC determination of equilibrium dissociation constant (
+      <inline-formula>
+       <ns0:math altimg="si3.svg" id="M9">
+        <ns0:mrow>
+         <ns0:msubsup>
+          <ns0:mrow>
+           <ns0:mi mathvariant="italic">
+            K
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mrow>
+           <ns0:mi>
+            D
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mrow>
+           <ns0:mi>
+            ITC
+           </ns0:mi>
+          </ns0:mrow>
+         </ns0:msubsup>
+        </ns0:mrow>
+       </ns0:math>
+      </inline-formula>
+      )
+     </title>
+     <p id="p0110">
+      Isothermal titration calorimetry (ITC) was used to measure thermodynamic parameters for ScpA
+      <sub>
+       S512A
+      </sub>
+      -rhC5a binding in solution. Measurements were performed using an iTC
+      <sub>
+       200
+      </sub>
+      calorimeter (MicroCal, U.S.A.) equipped with a 200 μL sample cell (GE Healthcare). Purified protein samples were extensively dialysed against 50 mM Hepes-KOH buffer, pH 7.5 containing 150 mM NaCl. The reference power was set to 4.5 μcal/sec and the instrument was equilibrated to 25 °C. ScpA
+      <sub>
+       S512A
+      </sub>
+      (18 μM) was placed in the sample cell and titrated with 170 μM rhC5a in 2.5 μL injections with 120 s interval between the injections and stirring (1000 rpm). Titration data were collected in triplicate and analysed with the ORIGIN software package (MicroCal, U.S.A.). The peaks areas were integrated and corrected for the heat of rhC5a dilution. Plots of kcal/mol of injectant versus molar ratio were analyzed with the ‘one set of sites’ model to obtain values for the association binding constant (
+      <italic>
+       K
+      </italic>
+      <sub>
+       A
+      </sub>
+      ), stoichiometry (N), and the enthalpy of binding (ΔH
+      <sub>
+       bind
+      </sub>
+      ), entropy of binding (ΔS
+      <sub>
+       bind
+      </sub>
+      ) were determined. The reported equilibrium dissociation constant (
+      <inline-formula>
+       <ns0:math altimg="si3.svg" id="M10">
+        <ns0:mrow>
+         <ns0:msubsup>
+          <ns0:mrow>
+           <ns0:mi mathvariant="italic">
+            K
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mrow>
+           <ns0:mi>
+            D
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mrow>
+           <ns0:mi>
+            ITC
+           </ns0:mi>
+          </ns0:mrow>
+         </ns0:msubsup>
+        </ns0:mrow>
+       </ns0:math>
+      </inline-formula>
+      ) was derived from
+      <italic>
+       K
+      </italic>
+      <sub>
+       A
+      </sub>
+      .
+     </p>
+    </sec>
+    <sec id="s0040">
+     <label>
+      2.6
+     </label>
+     <title>
+      Mass spectrometry analysis of recombinant rhC5a and rhC5a
+      <sub>
+       C75
+      </sub>
+      proteins
+     </title>
+     <p id="p0115">
+      Intact mass analysis of rhC5a and rhC5a
+      <sub>
+       C75
+      </sub>
+      proteins were performed in-house on a Bruker UltrafleXtreme instrument (Bruker Daltonik GmbH, Germany), using Compass 1.4 software unless otherwise stated. The sample preparation followed the dry droplet, two-layer method as per
+      . Protein samples were diluted with 0.1% TFA to final concentrations of 50 µg/mL and 15 µg/mL for rhC5a and rhC5a
+      <sub>
+       C75
+      </sub>
+      samples, respectively. Analyte solutions consist of a 1:1 mixture of the diluted protein samples and a saturated solution of sinapinic acid (Bruker Daltonik GmbH, Germany) in 30% acetonitrile, 0.1% TFA (v/v). A saturated matrix solution of sinapinic acid in ethanol was layered onto a stainless-steel target plate and allowed to air dry. 0.5 µL of the analyte solution was applied as the second layer to the target and allowed to dry. Spectra were recorded in the positive linear mode and externally calibrated using Protein Calibration Standard I (Bruker Daltonik GmbH, Germany). Germany). Masses of rhC5a and its mutants were calculated from amino acid sequences with the PROTPARAM tool on the ExPASy server
+      . Calculated masses include an additional 70 Da to account for disulfide bond linkages and the addition of β-mercaptoethanol to C27 in the refolding process.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s0045">
+    <label>
+     3
+    </label>
+    <title>
+     Results
+    </title>
+    <sec id="s0050">
+     <label>
+      3.1
+     </label>
+     <title>
+      ScpA is active against both major forms of C5a found in blood
+     </title>
+     <p id="p0120">
+      C5a in human blood is rapidly cleaved by carboxypeptidases to the C5a des Arg form which lacks the C-ter R74 residue
+      . While C5a des Arg is reported to have reduced potency as compared to C5a, it still retains biological activity
+      ,
+      . The ScpA enzyme (defined as residues 32–1032 of the wild-type enzyme) cleaved recombinant forms of human C5a and C5a des Arg (rhC5a and rhC5a
+      <sub>
+       dR
+      </sub>
+      , respectively) in agreement with data on C5a proteins isolated from human serum
+      . A decrease in molecular weight for both forms of C5a was observed in the presence of ScpA (
+      a). The mass of larger digestion product was confirmed to be the core portion of C5a (residues 1–67, rhC5a
+      <sub>
+       core)
+      </sub>
+      (
+      a). These analyses demonstrated that the same N-ter product (P
+      <sub>
+       N
+      </sub>
+      ) was released by ScpA from both rhC5a and rhC5a
+      <sub>
+       dR
+      </sub>
+      . Thus, ScpA is capable of inactivating both major forms of C5a by targeting the same scissile bond between residues H67 and K68. Furthermore, the C5a-ase activity of the ScpA was assessed in a more biologically relevant solution. These assays showed that ScpA readily cleaved rhC5a to near completion in human serum (
+      b), supporting the ability of the recombinant enzyme to function as expected in biological fluids, and demonstrating a potential for the development of ScpA as a therapeutic enzyme.
+     </p>
+    </sec>
+    <sec id="s0055">
+     <label>
+      3.2
+     </label>
+     <title>
+      ScpA cleaves C5a with a K
+      <sub>
+       m
+      </sub>
+      and k
+      <sub>
+       cat
+      </sub>
+      of 185 nM and 0.886
+      <italic>
+       sec
+      </italic>
+      respectively
+     </title>
+     <p id="p0125">
+      Characterization of the kinetics of C5a cleavage by ScpA utilized fluorescent substrate based on the full length C5a with two self-quenching BODIPY moieties on the core and tail portion of the molecule (Supplemental
+      ). The labelling chemistry target the free thiols of the naturally occurring C27 residue and the introduced C-terminal C75 residue (rhC5a
+      <sub>
+       C75
+      </sub>
+      ). In preliminary studies, the doubly labelled rhC5a
+      <sub>
+       C75
+      </sub>
+      -BODIPY form of C5a was found to be readily cleaved by ScpA, producing fragments of the expected mass for the labelled P
+      <sub>
+       N
+      </sub>
+      and tail portions (P
+      <sub>
+       C
+      </sub>
+      ) of the substrate (Supplemental
+      ).
+     </p>
+     <p id="p0130">
+      Kinetic parameters were determined using a full range of substrate concentrations under conditions where the enzyme concentration was much less than the concentration of the substrate (
+      c). Progress curves were fit with the minimal Van Slyke-Cullen mechanism to obtain steady state enzyme kinetic parameters giving a
+      <italic>
+       K
+      </italic>
+      <sub>
+       m
+      </sub>
+      and
+      <italic>
+       k
+      </italic>
+      <sub>
+       cat
+      </sub>
+      of 185 ± 6 nM and 0.886 ± 0.019
+      <italic>
+       sec
+      </italic>
+      , respectively. The
+      <italic>
+       k
+      </italic>
+      <sub>
+       cat
+      </sub>
+      /
+      <italic>
+       K
+      </italic>
+      <sub>
+       m
+      </sub>
+      of 4.79 X 10
+      M
+      s
+      is well below that expected for a diffusion limited enzymatic reaction
+      . In contrast to other substrates used to measure ScpA activity, the observed
+      <italic>
+       K
+      </italic>
+      <sub>
+       m
+      </sub>
+      for rhC5a
+      <sub>
+       C75
+      </sub>
+      -BODIPY is consistent with the nM concentrations of C5a
+      <italic>
+       in vivo
+      </italic>
+      and thus a very sensitive probe to study the specificity determinants of ScpA.
+     </p>
+    </sec>
+    <sec id="s0060">
+     <label>
+      3.3
+     </label>
+     <title>
+      ScpA binds to rhC5a with nM affinity
+     </title>
+     <p id="p0135">
+      To explore how ScpA recognizes and binds to its substrate C5a in greater detail, a series of protein–protein interaction studies was performed. To circumvent potential complexities expected when measuring substrate binding to an active enzyme, surface plasmon resonance (SPR) studies utilized the S512A active site mutant of ScpA (ScpA
+      <sub>
+       S512A
+      </sub>
+      ) and recombinant His-tagged C5a peptides. The sensorgrams observed for ScpA
+      <sub>
+       S512A
+      </sub>
+      binding to immobilized rhC5a were well accounted for with global fitting of the data using a 1:1 Langmuir binding model (
+      a). All binding constants are reported on
+     </p>
+     <p id="p0140">
+      For rhC5a binding, the average association (
+      <italic>
+       k
+      </italic>
+      <sub>
+       a
+      </sub>
+      ) and dissociation rates (
+      <italic>
+       k
+      </italic>
+      <sub>
+       d
+      </sub>
+      ) were 13.1 X 10
+      M
+      s
+      and 4.4 X 10
+      s
+      respectively. The equilibrium dissociation constant (
+      <italic>
+       K
+      </italic>
+      <sub>
+       D
+      </sub>
+      ) derived from these kinetic parameters was in the low nM range (34 nM) indicating that ScpA has a high affinity for rhC5a. The magnitude of the
+      <italic>
+       k
+      </italic>
+      <sub>
+       a
+      </sub>
+      is at the theoretical boundary between protein–protein association rates limited by diffusion versus those limited by conformational changes
+      . Faster rates implicate the involvement of complementary long-range electrostatic interactions, while slower rates are expected to result from larger structural rearrangements such as changes in domain orientation.
+     </p>
+     <p id="p0145">
+      The SPR data are supported by additional ITC studies (
+      b and c) that more accurately reflect binding in solution. The analysis confirms that the substrate binds to ScpA at a single site with high affinity (
+      <inline-formula>
+       <ns0:math altimg="si3.svg" id="M11">
+        <ns0:mrow>
+         <ns0:msubsup>
+          <ns0:mi>
+           K
+          </ns0:mi>
+          <ns0:mrow>
+           <ns0:mi>
+            D
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mi>
+           ITC
+          </ns0:mi>
+         </ns0:msubsup>
+        </ns0:mrow>
+       </ns0:math>
+      </inline-formula>
+      = 30.8 nM). The ITC measurements also indicated that the binding of the substrate is an enthalpically driven process with a ΔH of −9.4 kcal/mol and ΔS of 2.3 cal/mol/deg. This is consistent with the published model which highlighted 22 hydrogen bonds, and 15 salt-bridges between the substrate and enzyme
+      . Importantly, the
+      <italic>
+       K
+      </italic>
+      <sub>
+       D
+      </sub>
+      values reported here indicate that the enzyme is capable of binding C5a at physiological concentrations and is in good agreement with the
+      <italic>
+       K
+      </italic>
+      <sub>
+       m
+      </sub>
+      measured with the doubly labelled C5a substrate (
+      ). The observed values indicate a considerably tighter binding than has previously been reported. The interaction between wild type ScpA and the full-length substrate was examined by others in SPR studies which indicated that the peptidase binds rhC5a with very low affinity (
+      <italic>
+       K
+      </italic>
+      <sub>
+       D
+      </sub>
+      7.25 mM)
+      . The discrepancy may be related to differences in the SPR experimental details, most notably the use of the active enzyme which complicates the interpretation of binding data. Taken together these data indicate a high affinity interaction between ScpA and its substrate C5a, and that the described enzyme kinetic and SPR methods are sensitive tools for detailed characterization of ScpA substrate interactions.
+     </p>
+    </sec>
+    <sec id="s0065">
+     <label>
+      3.4
+     </label>
+     <title>
+      Binding studies indicate exosite binding interaction between ScpA and C5a
+     </title>
+     <p id="p0150">
+      Binding of ScpA to the larger core portion of C5a (rhC5a
+      <sub>
+       core
+      </sub>
+      ) was also measured by SPR. rhC5a
+      <sub>
+       core
+      </sub>
+      represents the larger N-terminal product (P
+      <sub>
+       N
+      </sub>
+      ) of ScpA inactivation. As with the full length rhC5a, the binding curves are well accounted for with a 1:1 Langmuir binding model supporting a single binding site for the rhC5a
+      <sub>
+       core
+      </sub>
+      .
+      a shows the global fitting of the sensorgrams obtained for binding of rhC5a
+      <sub>
+       core
+      </sub>
+      . The
+      <italic>
+       K
+      </italic>
+      <sub>
+       D
+      </sub>
+      for rhC5a
+      <sub>
+       core
+      </sub>
+      binding was observed to be in the nM range (240 nM,
+      ), approximately eight-fold greater than for the full length rhC5a (
+      ).
+     </p>
+     <p id="p0155">
+      Though it is likely that rhC5a
+      <sub>
+       core
+      </sub>
+      and rhC5a bind to the same region on ScpA, it is possible that two distinct sites exist for binding of these entities. This was examined in an SPR based competition binding study using a tag-less form rhC5a (rhC5a
+      <sub>
+       -HT
+      </sub>
+      ).
+      b shows that binding of ScpA to immobilized rhC5a
+      <sub>
+       core
+      </sub>
+      was reduced with increasing concentrations of free rhC5a
+      <sub>
+       -HT
+      </sub>
+      in solution. This indicates that the full length and core portion of C5a compete for a single binding site on ScpA. Fitting of the competitive binding curve to Eq. 1 provides an estimate for solution binding affinity
+      <inline-formula>
+       <ns0:math altimg="si4.svg" id="M14">
+        <ns0:mrow>
+         <ns0:mo>
+          (
+         </ns0:mo>
+         <ns0:msubsup>
+          <ns0:mrow>
+           <ns0:mi mathvariant="italic">
+            K
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mrow>
+           <ns0:mi>
+            D
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mrow>
+           <ns0:mi>
+            Sol
+           </ns0:mi>
+          </ns0:mrow>
+         </ns0:msubsup>
+         <ns0:mo>
+          )
+         </ns0:mo>
+        </ns0:mrow>
+       </ns0:math>
+      </inline-formula>
+      . A
+      <inline-formula>
+       <ns0:math altimg="si1.svg" id="M15">
+        <ns0:mrow>
+         <ns0:msubsup>
+          <ns0:mrow>
+           <ns0:mi mathvariant="italic">
+            K
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mrow>
+           <ns0:mi>
+            D
+           </ns0:mi>
+          </ns0:mrow>
+          <ns0:mrow>
+           <ns0:mi>
+            Sol
+           </ns0:mi>
+          </ns0:mrow>
+         </ns0:msubsup>
+        </ns0:mrow>
+       </ns0:math>
+      </inline-formula>
+      of 11.1 nM again supports a high affinity interaction between ScpA and C5a in solution.
+     </p>
+     <p id="p0160">
+      Additional insight into how ScpA binds C5a was gained by comparing the binding energies for rhC5a and rhC5a
+      <sub>
+       core
+      </sub>
+      . The difference in binding energy (ΔΔG°,
+      ) between rhC5a and rhC5a
+      <sub>
+       core
+      </sub>
+      was 1.2 kcal/mol. Thus, interactions with rhC5a
+      <sub>
+       core
+      </sub>
+      account for the majority (88%) of the 10.2 kcal/mol of total binding energy (ΔG°
+      <sub>
+       bind
+      </sub>
+      ,
+      ). The remaining 12% of the binding energy is attributable to interactions with the 7 C-terminal tail residues presumably in the substrate binding cleft. According to the published model for C5a binding
+      , the core portion of C5a is too large to fit into the active site cleft. Thus, the high affinity binding of rhC5a
+      <sub>
+       core
+      </sub>
+      along with the competitive binding data indicated that the bulk of substrate interactions occur at a site outside of the ScpA active site (
+      <italic>
+       i.e.
+      </italic>
+      an exosite).
+     </p>
+    </sec>
+    <sec id="s0070">
+     <label>
+      3.5
+     </label>
+     <title>
+      R74 is the dominant residue contributing to the tail interaction.
+     </title>
+     <p id="p0165">
+      To examine the contribution of the R74 residue to substrate specificity the interaction of ScpA
+      <sub>
+       S512A
+      </sub>
+      with rhC5a
+      <sub>
+       dR
+      </sub>
+      was examined by SPR. ScpA
+      <sub>
+       S512A
+      </sub>
+      binds to rhC5a
+      <sub>
+       dR
+      </sub>
+      with a
+      <italic>
+       K
+      </italic>
+      <sub>
+       D
+      </sub>
+      of 191 nM (
+      and
+      c), intermediate in value between the
+      <italic>
+       K
+      </italic>
+      <sub>
+       D
+      </sub>
+      s for rhC5a and rhC5a
+      <sub>
+       core
+      </sub>
+      . This 6-fold increase in
+      <italic>
+       K
+      </italic>
+      <sub>
+       D
+      </sub>
+      relative to full length rhC5a indicates that interactions with R74 contributes 1.0 kcal/mol to binding. Thus, interactions with R74 provide the majority (83%) of the 1.2 kcal/mol contributed by interactions with all 7 C-terminal residues.
+     </p>
+    </sec>
+    <sec id="s0075">
+     <label>
+      3.6
+     </label>
+     <title>
+      The 7 C-terminal tail residues facilitate substrate binding.
+     </title>
+     <p id="p0170">
+      The SPR experiments also provide rates of association and dissociation for the studied interactions and thus allow further analysis of the substrate binding process. From
+      , the
+      <italic>
+       k
+      </italic>
+      <sub>
+       a
+      </sub>
+      for rhC5a is 13.1 X 10
+      M
+      s
+      while the
+      <italic>
+       k
+      </italic>
+      <sub>
+       a
+      </sub>
+      values for rhC5a
+      <sub>
+       dR
+      </sub>
+      and rhC5a
+      <sub>
+       core
+      </sub>
+      are 6.17 X 10
+      M
+      s
+      and 3.52 X 10
+      M
+      s
+      respectively. The association rate for binding rhC5a is 2.1 times faster than for rhC5a
+      <sub>
+       dR
+      </sub>
+      and 3.7 times faster as compared to for rhC5a
+      <sub>
+       core
+      </sub>
+      . Thus, the
+      <italic>
+       k
+      </italic>
+      <sub>
+       a
+      </sub>
+      for binding decreases when the tail is either removed or truncated, indicating that the presence of the C-terminal tail residues accelerates the association of the substrate. This would suggest that while most of the stabilizing interactions involve the residues in the core of the substrate, the tail residues facilitate the formation of these interactions possibly by aiding proper positioning of the substrate on ScpA. The tail residue interactions in the prime side of the active site are expected to involve the PA domain
+      . Thus, these observations highlight the possibility that interactions between the tail residues and the PA domain facilitate communication between the active site and exosite.
+     </p>
+    </sec>
+    <sec id="s0080">
+     <label>
+      3.7
+     </label>
+     <title>
+      Binding and cleavage of rhC5a to ScpA is dependent on NaCl concentration.
+     </title>
+     <p id="p0175">
+      Based on amino-acid composition, ScpA and rhC5a are expected to be oppositely charged at pH 7.4 (net charges of −31 and + 5 for ScpA and rhC5a respectively). Thus, rhC5a binding was measured in the presence of increasing NaCl concentrations. Comparison of the sensorgrams for binding at 150 mM (
+      a) versus 350, 550, 750 and 950 mM (
+      a-4d) clearly show the salt dependence of ScpA-rhC5a interaction. The
+      <italic>
+       K
+      </italic>
+      <sub>
+       D
+      </sub>
+      increased from 34 to 466 nM as buffer NaCl concentrations increased from 150 to 950 mM (
+      ). This decrease in substrate binding affinity is due mainly to a 6.7-fold lower
+      <italic>
+       k
+      </italic>
+      <sub>
+       a
+      </sub>
+      (13.1 X 10
+      to 1.953 X 10
+      M
+      s
+      ), as compared to an ~ 2-fold increase in
+      <italic>
+       k
+      </italic>
+      <sub>
+       d
+      </sub>
+      (4.4 X 10
+      to 9.10 X 10
+      s
+      ). The impact of increased ionic strength on
+      <italic>
+       k
+      </italic>
+      <sub>
+       a
+      </sub>
+      supports the contribution of electrostatic interactions during the association of the substrate.
+     </p>
+     <p id="p0180">
+      In these binding experiments, it is possible that the high concentrations of NaCl may have impacted on the fold of ScpA or possibly the substrate. We therefore evaluated the activity of the active form of ScpA at higher concentrations of NaCl. Interestingly, the simple gel assays show that ScpA not only retains its activity at 1 M NaCl, but in fact cleaves the substrate more efficiently at the higher salt concentration (
+      e). This would not be expected given that substrate affinity decreases with higher salt. The activity assays were conducted with high substrate concentrations (18 µM), possibly well above the
+      <italic>
+       K
+      </italic>
+      <sub>
+       m
+      </sub>
+      for rhC5a at 1 M NaCl, thus the enhanced activity may be related to a higher V
+      <sub>
+       max
+      </sub>
+      or turnover rate under these conditions.
+     </p>
+    </sec>
+    <sec id="s0085">
+     <label>
+      3.8
+     </label>
+     <title>
+      Arginine residues, but not lysine residues in the core of C5a contribute to binding
+     </title>
+     <p id="p0185">
+      The binding studies in the presence of higher salt concentrations indicated that association of the substrate involved ionic interactions (
+      ). Substrate binding was also shown to be dominated by interactions with rhC5a
+      <sub>
+       core
+      </sub>
+      (
+      ), thus the contribution of positively charged core residues was examined by SPR. A panel of single and double mutants of rhC5a were generated using the published model of the ScpA-C5a complex as a guide (
+      a and 5b show stereo representations of the ScpA-complex and C5a, respectively). ScpA activity was demonstrated against all mutants (Supplemental
+      ) supporting proper folding of the substrate.
+     </p>
+     <p id="p0190">
+      Mutations in 3 of the 4 total R residues in the C5a core (R37A, R40A and R46A) were observed to decrease binding affinity relative to rhC5a (
+      ). These residues occur in the region encompassing C5a helix III and the loop linking helix III and helix IV (
+      b). The observed
+      <italic>
+       K
+      </italic>
+      <sub>
+       D
+      </sub>
+      s for rhC5a
+      <sub>
+       R37A
+      </sub>
+      , rhC5a
+      <sub>
+       R40A
+      </sub>
+      and the rhC5a
+      <sub>
+       R46A
+      </sub>
+      are 217 nM, 234 nM and 162 nM, respectively (
+      e-g), each mutant decreasing the binding energy by approximately 1 kcal/mol. In these arginine mutants, the decrease in affinity is predominantly due to a faster dissociation rates for binding rather than slowing the rate of association. The
+      <italic>
+       k
+      </italic>
+      <sub>
+       d
+      </sub>
+      for rhC5a
+      <sub>
+       R37A
+      </sub>
+      (17.6 × 10
+      s
+      ), rhC5a
+      <sub>
+       R40A
+      </sub>
+      (20.5 × 10
+      s
+      ) and rhC5a
+      <sub>
+       R46A
+      </sub>
+      (17.8 × 10
+      s
+      ) mutants increased by 4.0, 4.7 and 4.0-fold, respectively, in comparison to rhC5a interaction (4.4 × 10
+      s
+      ). This suggests that these residues mainly contribute short range interactions in the bound state rather than facilitating formation of the complex. Of the 3 tested arginine residues in the core, R37 and R40 make the largest contribution to binding impacting both
+      <italic>
+       k
+      </italic>
+      <sub>
+       a
+      </sub>
+      and
+      <italic>
+       k
+      </italic>
+      <sub>
+       d
+      </sub>
+      indicating their roles in the formation as well as the stability of the bound state.
+     </p>
+     <p id="p0195">
+      Five of the 7 total lysine residues in the C5a core were also mutated to examine their role in binding (
+      b). 4 of the 5 residues (K4, K5, K12 and K14) are in helix I and inter α-helical loop 1, outside the 3 central disulfide bridged helices (helices II-IV). The fifth lysine residue (K49) is in helix IV. These mutations did not affect binding affinity as significantly as mutations of the arginine residues.
+     </p>
+     <p id="p0200">
+      The observed
+      <italic>
+       K
+      </italic>
+      <sub>
+       D
+      </sub>
+      s range between 25.6 and 32.5 nM (
+      c, 5d, 5 h and
+      ). Interestingly, the association rates for all lysine mutants (15.8 – 19.5 X 10
+      M
+      s
+      ), are marginally faster than for rhC5a (13.1 X 10
+      M
+      s
+      ), while the dissociation rates are relatively unchanged. This shows that in contrast to R37, R40 and R46, these lysine residues do not contribute significantly to the stability of the enzyme-substrate complex.
+     </p>
+     <p id="p0205">
+      In summary, positively charged residues important for binding identified in these studies are located on one side of the C5a molecule in the region spanning Helix III, Helix IV and the intervening loop.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s0090">
+    <label>
+     4
+    </label>
+    <title>
+     Discussion
+    </title>
+    <p id="p0210">
+     The importance of complement in human inflammatory diseases is well established. However, in recent months there is increased awareness of the impact of complement activation in disease because of its role in the progress and severity of COVID-19 infections. A recent study reported that C5a levels in COVID-19 patients correlated with disease severity
+     ,
+     . Several groups are targeting C5a or its biological receptor C5aR1 using monoclonal antibodies (MAbs) to C5, C5a and C5aR1. These studies are showing promise in late-stage clinical trials
+     ,
+     ,
+     ,
+     . The potential of using an enzyme to target C5a has yet to be explored.
+    </p>
+    <p id="p0215">
+     Of particular interest is the use of bacterial proteases which naturally target components of the human immune system and modulate the immune response, a type of immunomodulatory enzyme (IME). The potential of exploitation of IMEs is exemplified by the streptococcal proteases IdeS and ScpA. The former targets IgG and is being developed as a candidate therapeutic in clinical trials
+     , while the latter targets C5a and has been proposed as a means for targeting the inflammatory response in sepsis
+     . Intervention with therapeutic proteases has clear advantages of use of MAbs. While both types of biologic can be highly specific, the action of enzymes is catalytic in nature as opposed to stoichiometric for MAbs. Thus, the required therapeutic dose of IMEs could be significantly lower in comparison to MAbs. Minimizing the amount of biologic administered to the patient would reduce associated risks of side-effects, and the ultimate cost of the therapy. To better develop ScpA as a potential therapeutic resource, a more complete understanding of the enzyme is essential. This includes characteristics such as mechanical and chemical stability, engineering to remove functions such as fibronectin binding
+     , as well as how the specificity of the enzyme is affected by different environmental conditions. Thus, the first objective of these studies was to obtain sensitive tools to benchmark the activity of ScpA and the interaction with its substrate hC5a.
+    </p>
+    <p id="p0220">
+     Enzyme kinetic characterization utilizing a substrate based on the full length hC5a shows that ScpA cleaves C5a with a
+     <italic>
+      K
+     </italic>
+     <sub>
+      m
+     </sub>
+     of 185 nM and the
+     <italic>
+      k
+     </italic>
+     <sub>
+      cat
+     </sub>
+     a 0.886 s
+     (
+     ). In comparison, Anderson and co-workers reported a
+     <italic>
+      K
+     </italic>
+     <sub>
+      m
+     </sub>
+     of 360 µM and a
+     <italic>
+      k
+     </italic>
+     <sub>
+      cat
+     </sub>
+     of 1.1 s
+     using 16 residue peptide which lacks the bulky N-terminal core portion of C5a
+     . The &gt;1000-fold lower
+     <italic>
+      K
+     </italic>
+     <sub>
+      m
+     </sub>
+     , reported herein, indicates that significant interactions with C5a occur outside the active site thus supporting the importance of exosite interactions in substrate recognition. Significantly, a
+     <italic>
+      K
+     </italic>
+     <sub>
+      m
+     </sub>
+     in the low nM range agrees well with the physiological concentrations of C5a (12 nM) reported in intra-abdominal infection
+     . The analyses also showed that ScpA is a relatively slow enzyme, with the
+     <italic>
+      k
+     </italic>
+     <sub>
+      cat
+     </sub>
+     value falling at the lower end of reported values for other multidomain subtilases. For example, reported values of
+     <italic>
+      k
+     </italic>
+     <sub>
+      cat
+     </sub>
+     for Furin can be more than 100 s
+     for substrates with nM
+     <italic>
+      K
+     </italic>
+     <sub>
+      m
+     </sub>
+     s
+     ,
+     . The low
+     <italic>
+      k
+     </italic>
+     <sub>
+      cat
+     </sub>
+     for ScpA is potentially due to conformational changes related to the enhanced specificity of the enzyme.
+    </p>
+    <p id="p0225">
+     The mode of interaction between ScpA and C5a was also examined in SPR binding experiments (
+     ). A
+     <italic>
+      K
+     </italic>
+     <sub>
+      D
+     </sub>
+     of 34 nM was observed for binding between the ScpA
+     <sub>
+      S512A
+     </sub>
+     inactive mutant and the substrate rhC5a. This is in good agreement with the
+     <inline-formula>
+      <ns0:math altimg="si3.svg" id="M16">
+       <ns0:mrow>
+        <ns0:msubsup>
+         <ns0:mrow>
+          <ns0:mi mathvariant="italic">
+           K
+          </ns0:mi>
+         </ns0:mrow>
+         <ns0:mrow>
+          <ns0:mi>
+           D
+          </ns0:mi>
+         </ns0:mrow>
+         <ns0:mrow>
+          <ns0:mi>
+           ITC
+          </ns0:mi>
+         </ns0:mrow>
+        </ns0:msubsup>
+       </ns0:mrow>
+      </ns0:math>
+     </inline-formula>
+     measured in ITC experiments for solution binding (30.8 nM). The ITC data also showed that binding is enthalpically driven, consistent with the large number of hydrogen bonds and salt-bridges predicted for the complex
+     . The observed binding affinity is much lower than previously reported by Terao and co-workers
+     in studies with the active enzyme (
+     <italic>
+      K
+     </italic>
+     <sub>
+      D
+     </sub>
+     7.25 mM). As with the enzyme kinetic studies, the low nM range
+     <italic>
+      K
+     </italic>
+     <sub>
+      D
+     </sub>
+     , reported herein, is in good agreement with what is known about C5a levels
+     <italic>
+      in vivo
+     </italic>
+     . The tools used in these analyses allow probing of ScpA activity and substrate interactions in a manner not previously possible. The methods described here are currently being applied to examine the selectivity of the enzyme for C5a and C3a from different species which will inform interpretation of animal studies on
+     <italic>
+      S. pyogenes
+     </italic>
+     virulence as well as model selection for preclinical evaluation of an ScpA therapeutic.
+    </p>
+    <p id="p0230">
+     The SPR experiments (
+     ,
+     ,
+     ,
+     ,
+     ,
+     ) with the full length rhC5a and truncated forms of rhC5a (rhC5a
+     <sub>
+      core
+     </sub>
+     and rhC5a
+     <sub>
+      dR
+     </sub>
+     ) support 4 general features of the proposed model for substrate binding by ScpA
+     . First, rhC5a binding by ScpA is dominated by interactions between the core portion of rhC5a and an exosite, which we propose to be located on the Fn2 domain due to its proximity to the entrance of the active site. Participation of an exosite is indicated by the nM binding affinity of rhC5a
+     <sub>
+      core
+     </sub>
+     (
+     <italic>
+      K
+     </italic>
+     <sub>
+      D
+     </sub>
+     240 nM) accounting for 88% of the substrate binding energy (ΔG°
+     <sub>
+      bind
+     </sub>
+     ). Residues of the rhC5a
+     <sub>
+      core
+     </sub>
+     form an α-helical bundle, reported to be too bulky to access the ScpA active site in docking studies
+     . Second, interactions with the 7 C-ter C5a tail residues make a smaller contribution to substrate binding affinity. Observed binding affinities for rhC5a
+     <sub>
+      core
+     </sub>
+     and rhC5a
+     <sub>
+      dR
+     </sub>
+     show that interactions with the seven C5a tail residues (68–74) contribute 12% or 1.2 kcal/mol of ΔG°
+     <sub>
+      bind
+     </sub>
+     of which 83% or 1 kcal/mol involve hC5a residue R74. The tail residues are the C-ter (P
+     <sub>
+      C
+     </sub>
+     ) product released by ScpA and thus expected to bind in the prime side of the active site in an extended conformation with potential interactions involving residues of the catalytic and PA domains
+     . Interestingly, the presence of the tail residues was also shown to increase the rate of association. Thus, interactions between the tail residues and the PA domain may play a role in communicating events in the active site to the exosite and/or participate in orienting the substrate during binding. The third feature supported in these rhC5a binding experiments is the participation of electrostatic interactions in substrate binding. Point mutations, removing a subset of positively charged side chains in the substrate, impacted on substrate binding. In addition, the binding affinity for rhC5a was observed to decrease by nearly 14-fold as the concentration of NaCl increased from 150 mM to 950 mM. The decrease in affinity is mainly a result of a 6.7-fold decrease in the
+     <italic>
+      k
+     </italic>
+     <sub>
+      a
+     </sub>
+     . The slower association rates at higher NaCl concentrations would be consistent with shielding of longer-range interactions between the large lobes of oppositely charged electrostatic potential located on the hC5a core and ScpA Fn2 domain. Finally, these features are consistent with the proposed two-step binding model where electrostatic recruitment of the substrate to the ScpA surface, combines with conformational changes in governing substrate specificity. This is supported by the magnitude of
+     <italic>
+      k
+     </italic>
+     <sub>
+      a
+     </sub>
+     for rhC5a, which is in a range consistent with protein interactions that are governed neither by diffusion nor by slower large-scale conformational changes
+     .
+    </p>
+    <p id="p0235">
+     The SPR studies also examined binding to a panel of hC5a mutants to gain additional insight into ScpA substrate specificity. Alanine mutants of 8 positively charged K and R residues were tested since ScpA and hC5a are oppositely charged at neutral pH and substrate binding affinity was observed to be salt dependent (
+     ). Mutation of 3 R residues in Helix III (R37), Helix IV (R46) and in the Helix III-IV loop (R40), which are in the cross-linked C5a core, each decreased binding affinity by approximately 1 kcal/mol. The impact of these mutations on substrate binding affinity provides additional evidence that exosite interactions play a significant role in hC5a binding. Interactions with these residues would involve residues outside of the ScpA active site since they are located more than 20 Å from the scissile bond. In contrast, mutation of the 5 K residues (
+     c, 5d and 5h) in Helix I (K4, K5 and K12), Helix IV (K49) and in the Helix I-II loop of C5a (K14) had little effect on the binding affinity. These residues do not form specific interactions with ScpA since the mutations did not significantly alter the
+     <italic>
+      k
+     </italic>
+     <sub>
+      d
+     </sub>
+     of binding. The expectation based on the high salt binding studies was that mutations of lysine or arginine residues would identify residues involved in long range electrostatic interactions. However, no single mutation accounts for the observed decrease in
+     <italic>
+      k
+     </italic>
+     <sub>
+      a
+     </sub>
+     at high salt. It is possible that the long-range effect involves other untested charged residues and/or is a cumulative effect over multiple residues.
+    </p>
+    <p id="p0240">
+     While the data presented here support the general features of the model of the ScpA-C5a complex proposed
+     , discrepancies between the kinetic parameters obtained from the enzymatic and SPR analyses may indicate additional complexity in the ScpA catalytic cycle. It is often assumed that proteases follow the 3-step mechanism for substrate hydrolysis. This involves binding of the substrate to form the Michaelis complex, followed by two chemical transformation steps (acylation and deacylation). The rate of dissociation for the second product (P
+     <sub>
+      N
+     </sub>
+     ) is typically thought to be fast relative to the rate of deacylation and thus not explicitly included in the expressions for
+     <italic>
+      k
+     </italic>
+     <sub>
+      cat
+     </sub>
+     or
+     <italic>
+      K
+     </italic>
+     <sub>
+      m
+     </sub>
+     . For ScpA, dissociation of the core portion (P
+     <sub>
+      N
+     </sub>
+     ) measured by SPR is very slow (
+     <italic>
+      k
+     </italic>
+     <sub>
+      d
+     </sub>
+     8.5 X 10
+     <italic>
+      sec
+     </italic>
+     for rhC5a
+     <sub>
+      core
+     </sub>
+     ) and would be rate limiting for a subtilase
+     . However, the rate of substrate hydrolysis by ScpA is clearly not limited by the P
+     <sub>
+      N
+     </sub>
+     dissociation rate measured by SPR with a more than 100-fold faster
+     <italic>
+      k
+     </italic>
+     <sub>
+      cat
+     </sub>
+     (0.886
+     <italic>
+      sec
+     </italic>
+     ). The inconsistencies in these values may indicate that efficient progression through the catalytic cycle involves ScpA conformational state(s) that require appropriate interactions with both core and tail residues in an intact full-length substrate. This is illustrated in
+     i where an ScpA conformational state ‘F’ is adopted in the ES complex upon binding of the full length hC5a. Release of the core in the catalytic cycle would occur from a conformational state accessed only in the presence of the tail. Dissociation of the P
+     <sub>
+      N
+     </sub>
+     from this state may be faster than indicated by SPR studies, and thus not rate limiting. In the absence of the tail residues, the core binds to ScpA with a slow dissociation rate potentially forming an inhibited enzyme complex. This scenario implies that recognition of both parts of substrate are critical for a productive encounter with the enzyme and may be an important feature in the specificity of ScpA and similar enzymes.
+    </p>
+    <p id="p0245">
+     The emerging view of ScpA and related subtilases is that selection of their substrates is a dynamic two-step process involving flexibility in the domains around the active site and in the C-ter of the substrate. Structural and molecular dynamics studies indicate that the PA domains in ScpA and the related IL-8 cleaving subtilisin SpyCEP are capable of adopting different orientations
+     . In mutagenesis studies, Bruinenberg et al. demonstrated that deletion of the PA domain in the CEP from
+     <italic>
+      Lactococcus lactis
+     </italic>
+     modified the caseinolytic specificity but not the activity of the enzyme
+     . As suggested for SpyCEP recognition of the N-terminal ELR motif in IL-8, mobility of the PA domain in ScpA could allow crucial interactions with the N-terminal core portion of the C5a as well as with the Fn2 domain and thus either open or modify features in the prime side of the active site. In this manner, PA domain sensing of appropriate contacts at the exosite would be an additional mechanism for ensuring proper substrate selection. Additional studies with ScpA mutants are required to unequivocally show that residues distant from the active site, for example in the Fn2 domain, are important for substrate binding and specificity. Using the tools developed herein, it is possible to evaluate these mutations systematically. Furthermore, it is possible to test the susceptibility of C5a from different species to the action of ScpA, which will contribute to a better evaluation of pre-clinical animal models.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s0095">
+    <label>
+     5
+    </label>
+    <title>
+     Concluding remarks
+    </title>
+    <p id="p0250">
+     The enzymatic and binding studies presented here provide the first detailed information on the activity and specificity of the C5a peptidase ScpA. Bioinformatic analysis identified many CEPs in Gram positive organisms that inhabit the human gut
+     which may participate in modulating the host immune response in a manner similar to ScpA. This makes ScpA the prototype of an expanding group of immuno-modulatory enzymes (IMEs) with potential medical and biotechnological applications. The use of IMEs as a strategy for therapeutic intervention has clear advantages over use of MAbs. Both can be highly specific, but the catalytic nature of enzymes means that the dose of therapeutic required for treatment would be significantly lower for an enzyme. Minimizing the amount of biologic administered to the patient reduces associated risks of side-effects, and the ultimate cost of the therapy. Engineering of IMEs, such as ScpA, for exploitation as anti-complement or anti-cytokine therapies will require detailed analyses, such as those reported here, to establish substrate preference or hierarchy of activity against these important immune modulators.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s0100">
+    <title>
+     CRediT authorship contribution statement
+    </title>
+    <p id="p0255">
+     <bold>
+      Malgorzata Teçza:
+     </bold>
+     Investigation, Methodology, Formal analysis, Writing - original draft.
+     <bold>
+      Todd F. Kagawa:
+     </bold>
+     Investigation, Methodology, Conceptualization, Formal analysis, Writing - original draft, Writing - review &amp; editing.
+     <bold>
+      Monica Jain:
+     </bold>
+     Investigation, Writing - original draft.
+     <bold>
+      Jakki C. Cooney:
+     </bold>
+     Investigation, Conceptualization, Writing - original draft, Writing - review &amp; editing, Funding acquisition, Supervision.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="COI-statement">
+    <title>
+     Declaration of Competing Interest
+    </title>
+    <p id="p0260">
+     The authors declare the following financial interests/personal relationships which may be considered as potential competing interests: JCC and TFK are inventors on a patent for the development of ScpA as a therapeutic for sepsis, licenced to a company through the University of Limerick.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

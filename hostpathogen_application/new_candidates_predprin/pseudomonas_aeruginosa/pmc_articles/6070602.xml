@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Construction of a Protective Vaccine Against Lipopolysaccharide-Heterologous
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   is a ubiquitous opportunistic pathogen, which causes infectious disease in patients with cystic fibrosis and compromised immunity.
+   <italic>
+    P. aeruginosa
+   </italic>
+   is difficult to eradicate because of its intrinsic resistance to most traditional antibiotics as well as acquired resistance mechanisms after decades of antibiotic usage. A full understanding of the
+   <italic>
+    P. aeruginosa
+   </italic>
+   pathogenesis mechanisms is necessary for the development of novel prevention and treatment strategies. To identify novel vaccine candidates, here we comprehensively examined the expression levels of all the known outer membrane proteins in two
+   <italic>
+    P. aeruginosa
+   </italic>
+   strains in a murine acute pneumonia model. OprH was one of the most highly expressed proteins during infection. In addition, OprH is known to be highly immunogenic and accessible by host proteins. Thus, it was chosen as a vaccine candidate. To further identify vaccine candidates, 34 genes highly expressed during infection were evaluated for their contributions in virulence by testing individual transposon insertion mutants. Among them,
+   <italic>
+    fpvA, hasR
+   </italic>
+   , and
+   <italic>
+    foxA
+   </italic>
+   were found essential for bacterial virulence and therefore included in vaccine construction. Immunization with a mixture of FpvA, HasR, and FoxA rendered no protection, however, while immunization by OprH refolded in liposomes elicited specific opsonic antibodies and conferred protection against two lipopolysaccharide-heterologous
+   <italic>
+    P. aeruginosa
+   </italic>
+   strains (PA14 and PA103). Overall, by studying the expression profile of the
+   <italic>
+    P. aeruginosa
+   </italic>
+   outer membrane proteins during infection, we identified OprH as a potential vaccine candidate for the prevention of lung infection by
+   <italic>
+    P. aeruginosa
+   </italic>
+   .
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="S1" sec-type="introduction">
+    <title>
+     Introduction
+    </title>
+    <p>
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     is a Gram-negative opportunistic pathogen which can cause various human infections, especially in immunocompromised and cystic fibrosis patients (
+     ,
+     ).
+     <italic>
+      P. aeruginosa
+     </italic>
+     is intrinsically highly resistant to a variety of antibiotics, and biofilm formation can further increase resistance by 1,000-fold (
+     ). It is often difficult to eradicate
+     <italic>
+      P. aeruginosa
+     </italic>
+     despite intense antibiotic treatment (
+     ).
+    </p>
+    <p>
+     Vaccination is an effective strategy to fight against infectious diseases. In the past several decades, enormous efforts have been put into the development of effective vaccines against
+     <italic>
+      P. aeruginosa
+     </italic>
+     (
+     ). In several acute and chronic infection models, animals were protected by immunization with various surface exposed immunogens, including lipopolysaccharide (LPS) O antigen (
+     ), the type III secretion system (T3SS) component PcrV (
+     ), outer membrane protein F (OprF) (
+     ), flagellin (
+     ), and pillin (
+     ). Immunization with these immunogens elicits protective antibodies which mediate opsonophagocytic killing and/or virulence inhibition. Although LPS O antigen-based vaccines confer high levels of protection, the clinical application is limited due to O antigen diversity among
+     <italic>
+      P. aeruginosa
+     </italic>
+     isolates (
+     ,
+     ). Accordingly, recent studies have been focused on antigens with conserved epitopes.
+    </p>
+    <p>
+     Multivalent vaccines based on the above antigens showed promising protective efficacy. Immunization with a fusion protein containing OprF-OprI or OprF epitope 8 (OprF311-341), OprI, and type A and B flagellins induced high level of protective IgG and conferred effective protection (
+     –
+     ). Recently, a bispecific antibody against PcrV and the extrapolysaccharide Psl conferred protection in several murine infection models (
+     ).
+    </p>
+    <p>
+     Although several vaccines against
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection have entered clinical trials (
+     ,
+     –
+     ), no vaccine is currently available for use in humans. Identification of novel candidate immunogens might contribute to the development of effective single- or multi-valent vaccines. Many successful vaccines are based on immunogens with at least one of the following characteristics: high immunogenicity, surface exposure, high abundance, and involvement in virulence (
+     ,
+     ).
+     <italic>
+      P. aeruginosa
+     </italic>
+     encodes 158 outer membrane proteins (
+     ), of which the expression patterns and functions during infection remain largely unknown. Studies on these genes might provide valuable clues to the understanding of the pathogenesis of
+     <italic>
+      P. aeruginosa
+     </italic>
+     and allow identification of novel vaccine candidates.
+    </p>
+    <p>
+     Here, we assessed the expression level of each individual outer membrane protein of
+     <italic>
+      P. aeruginosa
+     </italic>
+     in a murine acute pneumonia model. The porin protein OprH was found to be highly expressed during infection and chosen for vaccine construction. Iron uptake proteins, including FpvA, FoxA, and HasR, also showed significantly increase during infection, and can affect the colonization ability of
+     <italic>
+      P. aeruginosa
+     </italic>
+     PA14 in lungs of mice. Vaccination with FpvA, FoxA, and HasR separately or their mixture did not show protective efficacy in murine acute lung infection model. While purified His-OprH also did not have protective efficacy. Vaccination with OprH refolded in liposomes conferred protection against lung infection by two serotype-distinct
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains PA14 and PA103. Together, our study indicates that OprH is a potential candidate for vaccine development against
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="S2" sec-type="materials|methods">
+    <title>
+     Materials and Methods
+    </title>
+    <sec id="S2-1">
+     <title>
+      Ethics Statement
+     </title>
+     <p>
+      All animal studies complied with National and Nankai University guidelines regarding the use of animals in research. All animal experiment protocols have been approved by the institutional animal care and use committee of the College of Life Sciences of Nankai University (permit number NK-04-2012).
+     </p>
+    </sec>
+    <sec id="S2-2">
+     <title>
+      Bacterial Strains and Plasmids
+     </title>
+     <p>
+      The bacterial strains and plasmids used in this study are listed in Table
+      , along with their description and sources.
+     </p>
+    </sec>
+    <sec id="S2-3">
+     <title>
+      Preparation of Bacterial Inocula for
+      <italic>
+       In Vivo
+      </italic>
+      Challenge Experiments
+     </title>
+     <p>
+      Bacteria were grown overnight at 37°C in LB. The bacteria were diluted 1:100 in fresh medium and grown to an OD
+      <sub>
+       600
+      </sub>
+      of 1.0. For intranasal challenge experiments, bacteria were washed with phosphate-buffered saline (PBS) and diluted to the indicated concentrations. The concentrations of bacteria were confirmed by plating and enumeration.
+     </p>
+    </sec>
+    <sec id="S2-4">
+     <title>
+      Murine Acute Pneumonia Model
+     </title>
+     <p>
+      Six-week-old female BALB/c mice were purchased from Vital River (Beijing, China). Mice were anesthetized with an intraperitoneal injection of 7.5% chloral hydrate (100 µL per mouse) and then inoculated intranasally with 20 µL
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PAO1, PA14, or PA103 at the indicated bacterial concentrations.
+     </p>
+     <p>
+      For colonization assays, 12 h postinfection, mice were sacrificed CO
+      <sub>
+       2
+      </sub>
+      , lungs were isolated and then homogenized in 1% peptone, and bacterial numbers were determined by serial dilution and plating. For survival assays, mice were monitored for 5 days after infection.
+     </p>
+    </sec>
+    <sec id="S2-5">
+     <title>
+      Quantitative Real-Time PCR Assay
+     </title>
+     <p>
+      To examine bacterial gene expression levels during infection, mice were sacrificed by CO
+      <sub>
+       2
+      </sub>
+      at 3 or 6 h postinfection. Bronchoalveolar lavage fluid (BALF) was obtained by cannulation of the trachea followed by two instillations of 1 mL sterile PBS with 0.5 mM EDTA. 50 µL of the BALF was used for bacterial enumeration, while the remaining BALF was centrifuged and the pellets were immediately resuspended in 200 µL TRIzol reagent (Invitrogen). Total RNA was isolated as instructed by the manufacturer and further purified with an RNA cleanup kit (Tiangen Biotech). For
+      <italic>
+       in vitro
+      </italic>
+      -grown bacteria, overnight cultures of bacterial cells were diluted 1:100 into fresh LB medium and grown to an OD
+      <sub>
+       600
+      </sub>
+      of 1.0. Total RNA was isolated with an RNeasy Minikit (Tiangen Biotech).
+     </p>
+     <p>
+      cDNA was synthesized by a PrimeScript Reverse Transcriptase (TaKaRa) with random primers. The cDNA was mixed with 5 pmol of forward and reverse primers (Table
+      in Supplementary Material) and iQSYBR green Supermix (Bio-Rad). Quantitative real-time PCR was conducted using a CFX Connect Real-Time system (Bio-Rad). The 30S ribosomal protein gene
+      <italic>
+       rpsL
+      </italic>
+      was used as an internal control (
+      ).
+     </p>
+    </sec>
+    <sec id="S2-6">
+     <title>
+      Expression and Purification of Proteins From
+      <italic>
+       E. coli
+      </italic>
+     </title>
+     <p>
+      <italic>
+       fpvA, foxA, hasR
+      </italic>
+      , and
+      <italic>
+       oprH
+      </italic>
+      were cloned from genome of
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PA14 by PCR. His-tagged fusion proteins were constructed in pET28a and the resulting plasmids were introduced into
+      <italic>
+       E. coli
+      </italic>
+      BL21(DE3). Expression of the proteins were induced by IPTG (1 mM). Bacteria were harvested by centrifugation at 4,000 ×
+      <italic>
+       g
+      </italic>
+      for 20 min and lysed by sonication on ice in buffer B (100 mM NaH
+      <sub>
+       2
+      </sub>
+      PO
+      <sub>
+       4
+      </sub>
+      , 500 mM NaCl, 8 M urea, 10 mM imidazole, pH 7.2). The lysate was centrifuged at 10,000 ×
+      <italic>
+       g
+      </italic>
+      for 30 min at room temperature. The supernatant was mixed with Ni-NTA agarose (Qiagen) and incubated at room temperature for 1 h. The lysate-resin mixture was loaded into an empty column and washed twice with buffer B containing 25 mM imidazole. The protein was eluted by buffer B containing 500 mM imidazole, followed by further purification by molecular sieve (GE). To remove urea and imidazole, proteins were extensively dialyzed in PBS with reducing concentrations of urea (4, 2, and 1 M) and finally in PBS. Protein concentration was measured with the Bradford method (Bio-Rad).
+     </p>
+    </sec>
+    <sec id="S2-7">
+     <title>
+      Preparation of FpvA, FoxA, and HasR
+     </title>
+     <p>
+      After dialyzed into PBS, the concentration of FpvA, FoxA, and HasR were 0.2, 0.5, and 0.2 mg/mL, respectively. These proteins were mixed with same volume of curdlan (20 mg/mL) and used for mice immunization. To construct the Fe receptor mix, equal amount of His-FpvA, His-HasR, and His-FoxA were mixed together and dialyzed into PBS. The final concentration of supernatant was 0.9 mg/mL. The proteins were mixed with the same volume of curdlan (20 mg/mL) before immunization.
+     </p>
+    </sec>
+    <sec id="S2-8">
+     <title>
+      OprH Refolding
+     </title>
+     <p>
+      Refolding of OprH in 1, 2-dihexanoyl-
+      <italic>
+       sn
+      </italic>
+      -glycero-3-phosphocholine (DHPC) micelles was performed as described previously (
+      ). Briefly, 0.4 mM OprH in buffer B containing 500 mM imidazole was diluted 10-fold into the refolding buffer (20 mM Tris–HCl, 5 mM EDTA, and 0.6 M
+      <sc>
+       l
+      </sc>
+      -arginine, pH 8.5) with 3% DHPC (Avanti Polar Lipids Inc.). The mixture was incubated at 37°C for 72 h and then dialyzed against 2.5 L of 20 mM Tris–HCl, 5 mM EDTA, and 50 mM KCl at pH 8.5 for 20 min at room temperature. The solution was concentrated by an ultrafiltration device (Millipore), and the buffer was exchanged with an exchange solution (25 mM Na
+      <sub>
+       3
+      </sub>
+      PO
+      <sub>
+       4
+      </sub>
+      and 50 mM KCl at pH 6.0) by ultrafiltration. The final concentration of the refolded OprH was approximately 7 mg/mL.
+     </p>
+    </sec>
+    <sec id="S2-9">
+     <title>
+      Immunization of Mice
+     </title>
+     <p>
+      Mice were immunized three times with refolded OprH plus curdlan (10 mg/mL) in PBS intranasally at weekly intervals. Three weeks after immunization, the sera of mice were obtained or the survival assay was conducted.
+     </p>
+    </sec>
+    <sec id="S2-10">
+     <title>
+      Enzyme Linked Immunosorbent Assay (ELISA)
+     </title>
+     <p>
+      96-well plates were coated with purified OprH at 0.1 mg/mL in coating buffer (15 mM Na
+      <sub>
+       2
+      </sub>
+      CO
+      <sub>
+       3
+      </sub>
+      and 35 mM NaHCO
+      <sub>
+       3
+      </sub>
+      , pH 9.6) overnight at 4°C. For the whole cell ELISA, PA14 and the Δ
+      <italic>
+       oprH
+      </italic>
+      mutant were grown overnight at 37°C in LB. The bacteria were diluted 1:100 in fresh medium and grown to an OD600 of 1.0. 1 × 10
+      bacteria were washed once by PBS and resuspended in 1 mL PBS. 50 µL bacteria suspension were added in each well of 96-well ELISA plate and dried at 56°C. 200 µL cold methanol were added to incubate at room temperature for 15 min. The plates were washed three times with PBST (PBS containing 0.05% Tween 20) and blocked with 1% BSA for 2 h at 37°C. Then 100 µL of serially diluted serum from immunized mouse was added into each well of the plate and incubated for 1 h at 37°C. Each well was washed three times with PBST, followed by addition of 100 µL diluted HRP-conjugated goat anti-mouse IgG antibody and incubation at 37°C for 1 h. Then, each well was washed three times with PBST. 200 µL horseradish peroxidase color development solution (Beyotime) was then added into each well and incubated at room temperature. 50 µL 2 M H
+      <sub>
+       2
+      </sub>
+      SO
+      <sub>
+       4
+      </sub>
+      was added to end the reaction, and OD
+      <sub>
+       450
+      </sub>
+      were measured using spectrophotometer.
+     </p>
+    </sec>
+    <sec id="S2-11">
+     <title>
+      Phagocytosis Assay
+     </title>
+     <p>
+      The phagocytic uptake by bone marrow-derived macrophage (BMDM) was performed as previously described (
+      –
+      ). BMDMs were differentiated as previously described (
+      ). 2 × 10
+      BMDMs were seeded into each well of a 24-well plate 24 h before incubation with bacteria. Wild-type PA14 or the Δ
+      <italic>
+       oprH
+      </italic>
+      mutant was grown to an OD
+      <sub>
+       600
+      </sub>
+      of 0.6–1.0. The bacteria were collected and washed once with HBSS. 5 × 10
+      bacterial cells suspended in 50 µL HBSS were incubated with 20 µL heat-inactivated (56°C for 20 min) mouse serum for 30 min at 25°C. Then the bacteria were washed twice with HBSS and resuspended in 1 mL HBSS, of which 50 µL were added into each well and incubated for 40 min at 37°C. Gentamicin was added to each well at 250 µg/mL and incubated for 10 min to kill the extracellular bacteria. The cells were then washed three times with pre-warmed HBSS and lysed in 1 mL cold sterile water. The intracellular bacteria were numerated by serial dilution and plating.
+     </p>
+     <p>
+      To observe the phagocytosis of bacteria, BMDMs were seeded on poly-
+      <sc>
+       d
+      </sc>
+      -lysine coated cover slips. The cells were incubated with PA14 or Δ
+      <italic>
+       oprH
+      </italic>
+      containing a green fluorescent protein (GFP) overexpression plasmid (pUCP20-GFP). After treatment with gentamicin for 10 min, cells were washed twice with PBS and fixed with 4% paraformaldehyde for 20 min at room temperature. Microscopy slides were covered with cover slips using mounting medium and observed with a fluorescence microscope.
+     </p>
+    </sec>
+    <sec id="S2-12">
+     <title>
+      Statistical Analyses
+     </title>
+     <p>
+      All analyses were performed using Prism software (GraphPad Software, La Jolla, CA, USA). Survival data were analyzed with the log-rank test and the Gehan–Breslow–Wilcoxon test. Parametric data were analyzed by Student’s
+      <italic>
+       t
+      </italic>
+      -test (for two-group comparisons) or ANOVA with Dunnett’s multiple comparison test.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="S3">
+    <title>
+     Results
+    </title>
+    <sec id="S3-1">
+     <title>
+      Expression Profile of
+      <italic>
+       P. aeruginosa
+      </italic>
+      Outer Membrane Proteins During Lung Infection
+     </title>
+     <p>
+      To determine the expression levels of outer membrane proteins during infection, we designed quantitative real-time PCR primers for the 158 outer membrane protein genes in the
+      <italic>
+       P. aeruginosa
+      </italic>
+      PAO1 genome (Table
+      in Supplementary Material). Previously, Howell et al. (
+      ) demonstrated that timely expression of T3SS genes at early stages of infection is essential for bacterial pathogenesis in the acute pneumonia model. And in this model, mice can die as early as 12 h postinfection. Therefore, we focused on early time points in our study. Each mouse was infected with 1 × 10
+      CFU of PAO1 intranasally. 3 or 6 h postinfection, BALF was obtained from at least six mice and pooled together. Bacteria from BALF were isolated, followed by RNA isolation and quantitative real-time PCR with the 16S RNA protein gene
+      <italic>
+       rpsL
+      </italic>
+      as an internal control. In order to identify proteins with common expression patterns in different
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain backgrounds, we performed the infection experiment with another widely used wild-type strain PA14 (5 × 10
+      CFU per mouse), which belongs to a different serogroup and is more virulent than PAO1 (
+      ). The relative expression level of each protein is shown in Figure
+      as a heatmap and also presented as percentage of the internal control in Table
+      in Supplementary Material.
+     </p>
+     <p>
+      To identify genes highly expressed during infection (fold change ≥ 2.0), we performed pair-wise comparisons to determine the relative gene expression levels during infection. Four comparisons, PAO1 or PA14 grown
+      <italic>
+       in vitro
+      </italic>
+      versus the isogenic strain isolated from BALF 3 or 6 h postinfection, were each designated as PAO1 3 h, PAO1 6 h, PA14 3 h, and PA14 6 h, respectively. This led to the identification of 53, 54, 55, and 80 upregulated genes for the PAO1 3 h, PAO1 6 h, PA14 3 h, and PA14 6 h, respectively. To identify genes that were highly expressed commonly in both PAO1 and PA14 during infection, the data of the pair-wise comparisons were plotted using a four-way Venn diagram (Figure
+      ). Of all the genes tested, 46 were found highly expressed in both PAO1 and PA14 during infection, i.e., in all the four conditions (Table
+      in Supplementary Material, highlighted in yellow). Besides, 13 genes were upregulated more than 10-fold at least in one of the four conditions (Table
+      in Supplementary Material, highlighted in red). In combination, 59 genes were selected for further testing in samples from individual mice rather than pooled samples. To confirm the expression levels of the selected genes in individual mice, we performed the infection again and purified the bacterial RNA from BALF from each infected mouse. The expression levels of the 59 genes are listed in Table
+      in Supplementary Material. Of these, 34 genes consistently show high-level expression during infection (Table
+      in Supplementary Material).
+     </p>
+     <p>
+      After the three round of screening, we found that
+      <italic>
+       oprH
+      </italic>
+      is one of the most highly expressed genes at all the conditions (Table
+      in Supplementary Material). Previously, it was reported that
+      <italic>
+       oprH
+      </italic>
+      is highly induced when
+      <italic>
+       P. aeruginosa
+      </italic>
+      interacts with epithelia cells (
+      ). Recent studies demonstrated that OprH is a binding target of mammalian surfactant protein A (
+      ) and C3 complement (
+      ), indicating accessibility by host factors. In addition, high levels of antibodies against OprH were identified in young children with cystic fibrosis (
+      ), indicating its high immunogenicity. These results suggest that immunization with OprH might elicit opsonic antibodies. Therefore, based on its expression level, accessibility, and immunogenicity, we selected OprH as a vaccine candidate.
+     </p>
+    </sec>
+    <sec id="S3-2">
+     <title>
+      Further Identification of Potential Vaccine Candidates by Studying the Roles of Highly Expressed Outer Membrane Proteins in
+      <italic>
+       P. aeruginosa
+      </italic>
+      Virulence
+     </title>
+     <p>
+      As antibodies that block the function of critical virulence factors might confer protection against bacterial pathogens (
+      ), we evaluated the roles of the 34 highly expressed genes in bacterial virulence to identify more vaccine candidates. Transposon (Tn) mutants for each of the genes were picked from a nonredundant Tn insertion mutant library in the PA14 background (
+      ). Among the 34 selected genes, three were associated with the T3SS, including
+      <italic>
+       popN, pscC
+      </italic>
+      , and
+      <italic>
+       pscJ
+      </italic>
+      . It has been well established that the T3SS plays an essential role in
+      <italic>
+       P. aeruginosa
+      </italic>
+      virulence in the acute pneumonia model (
+      –
+      ). Thus, we utilized a
+      <italic>
+       pscC
+      </italic>
+      :Tn mutant as a control for attenuated virulence. Since OprF has been shown to contribute to bacterial virulence (
+      ) and used in vaccine construction, we did not include it in our further testing. The
+      <italic>
+       algE
+      </italic>
+      mutant was not available in the library. In total, 30 Tn insertion mutants were tested for colonization in the murine acute pneumonia model. Consistent with previous studies (
+      ), the
+      <italic>
+       pscC
+      </italic>
+      :Tn mutant was highly attenuated (Figure
+      in Supplementary Material). Mutation in the iron acquisition receptor genes (
+      ), including
+      <italic>
+       fpvA, foxA
+      </italic>
+      , and
+      <italic>
+       hasR
+      </italic>
+      , significantly reduced bacterial loads (Figure
+      ). No drastic reductions in bacterial loads were observed in the other Tn insertion mutants (Figure
+      in Supplementary Material). Based on these observations, we suspected that antibodies against FpvA, FoxA, and HasR might block the functions of these proteins, thus reducing bacterial virulence. Overall, FpvA, FoxA, HasR, and OprH were chosen for vaccine construction.
+     </p>
+    </sec>
+    <sec id="S3-3">
+     <title>
+      Protective Efficacy of the Vaccine Based on Iron Uptake Proteins
+     </title>
+     <p>
+      Previously, we found that FpvA could elicite Th17 response in mice (
+      ). To examine the protective efficacies of vaccines based on the iron acquisition receptor proteins, 6× His-tagged FpvA, HasR, or FoxA was individually overexpressed in
+      <italic>
+       E. coli
+      </italic>
+      and purified under denatured condition with Ni-NTA (Figure
+      A in Supplementary Material). Each protein was further purified by molecular sieve. Each of the purified FpvA, HasR, and FoxA was mixed with curdlan (20 mg/mL), which has been shown to increase IgG titers (
+      ,
+      ). The final concentrations of FpvA, HasR, and FoxA were 0.1, 0.1, and 0.25 mg/mL, respectively. Each mouse was immunized intranasally with 20 µL of the individual proteins. Compared with curdlan along, FpvA, HasR, and FoxA immunization did not show protective efficacy in the murine acute pneumonia model (Figure
+      A).
+     </p>
+     <p>
+      We suspected that the individual protein might not elicit sufficient antibodies. Therefore, we constructed a trivalent vaccine by combining FpvA, HasR, and FoxA. Equal amount of His-FpvA, His-HasR, and His-FoxA were mixed together and dialyzed into PBS, resulting in a final concentration of 0.9 mg/mL. The proteins were mixed with same volume of curdlan. Each mouse was immunized intranasally with 20 µL of the mixture. Compared with curdlan along, the trivalent vaccine did not protect mice in the acute pneumonia model (Figure
+      B).
+     </p>
+    </sec>
+    <sec id="S3-4">
+     <title>
+      Protective Efficacy of OprH Vaccination
+     </title>
+     <p>
+      The His-OprH was purified under denatured condition with Ni-NTA (Figure
+      B in Supplementary Material), followed by sequential dialysis in PBS with reducing concentrations of urea. Afterward, OprH at 1 mg/mL was mixed with equal volume of curdlan (20 mg/mL) and each mouse was immunized intranasally with 20 µL of the mixture, resulting in 10 µg of OprH per mouse. Compared with curdlan alone, the OprH vaccine did not show significantly protective efficacy in the acute pneumonia model (Figure
+      C).
+     </p>
+     <p>
+      Previously, Edrington et al. (
+      ) revealed the structure of OprH by refolding the purified protein in DHPC micelles. Refolding of OprH greatly increased its solubility. More importantly, outer membrane proteins with their natural conformation, as would be expected in DHPC micelles, may be more likely to elicit opsonic antibodies. Therefore, we utilized refolded His-OprH in DHPC micelles with curdlan in vaccination. As reported previously, the efficiency of OprH refolding could be monitored by SDS-PAGE (
+      ). The apparent molecular mass of OprH on the SDS-PAGE gel would change when the proteins were transferred from an unfolded to a folded form. The refolded protein runs at 18 kDa but shifts to 21 kDa after boiling in SDS-PAGE loading buffer (Figure
+      in Supplementary Material). This reversible “heat modifiability” indicated that the OprH was refolded successfully.
+     </p>
+     <p>
+      The highest soluble concentration of the refolded OprH was 7 mg/mL. The protein suspension was mixed with equal volume of curdlan and 20 µL of the mixture was used to immunize each mouse, resulting in 70 µg refolded OprH per mouse. Vaccination with OprH resulted in 40% survival after lung challenge with PA14 (serogroup O19), whereas vaccination with DHPC resulted in 10% survival (Figure
+      D). PA103 (serogroup O11) is a highly virulent clinical isolate. As shown in Figure
+      E, mice immunized with OprH had more than 40% survival after challenge with PA103, compared with 10% survival of those immunized with DHPC alone. To confirm that the protection was due to OprH-specific antibodies, the immunized mice were challenged with an
+      <italic>
+       oprH
+      </italic>
+      deletion mutant of PA14. As shown in Figure
+      F, immunization with the refolded OprH was unable to confer protection against the Δ
+      <italic>
+       oprH
+      </italic>
+      mutant.
+     </p>
+    </sec>
+    <sec id="S3-5">
+     <title>
+      Subtype of Induced Immunoglobulin in Lungs of OprH Immunized Mice
+     </title>
+     <p>
+      To the subtype of immunoglobulin induced by the OprH immunization in the lungs, BALF was obtained from mice 3 weeks after the final immunization, followed by ELISAs. The plates were coated with purified His-OprH fusion protein. BALF from immunized mice was used as the primary antibody, and goat anti-mouse IgG antibody or goat anti-mouse IgA antibody was used as the secondary antibody (Figure
+      in Supplementary Material). OprH-specific IgG was detected in the BALFs of OprH immunized mice, whereas no IgA antibody was detected.
+     </p>
+    </sec>
+    <sec id="S3-6">
+     <title>
+      Antigen-Specific Serum Antibodies From Iron Uptake Proteins and OprH Immunized Mice
+     </title>
+     <p>
+      To test the humoral immune responses elicited by immunization with iron uptake proteins and OprH, sera from immunized mice were collected 3 weeks after the third immunization and the antigen-specific IgG titers were determined by ELISA. Plates were coated with the purified FpvA, FoxA, and HasR, the mixture of these three proteins or the OprH without refolding. Then sera from immunized mice were used as the primary antibody. Immunization with FpvA, FoxA, HasR, and the combination of the three proteins elicited minimal antigen-specific IgG (Figures
+      A–D), whereas immunization with the refolded OprH elicited a high level of antigen-specific IgG (Figure
+      E). ELISA of whole bacterial cells was also conducted to investigate if the elicited antibodies toward OprH can bind with the OprH on the bacterial surface. As shown in Figure
+      F, the antibodies from OprH immunized mice bound with wild-type PA14, but not the Δ
+      <italic>
+       oprH
+      </italic>
+      mutant. These results indicate that immunization with the refolded OprH elicited antibodies that recognize the OprH exposed on the bacterial surface.
+     </p>
+    </sec>
+    <sec id="S3-7">
+     <title>
+      Antibody-Mediated Phagocytosis of Bacteria by BMDM
+     </title>
+     <p>
+      We next performed phagocytosis assay with BMDM in the presence of sera from mice immunized with refolded His-OprH, DHPC, uninfected mice, and those infected with PA14. The highest capture of PA14 cells was observed in the presence of sera from PA14 infected mice. The sera from His-OprH immunized mice enabled more uptake than those from DHPC-immunized mice (Figure
+      A). The difference was abolished when a Δ
+      <italic>
+       oprH
+      </italic>
+      mutant was used in the assay, indicating a specificity of the antibodies from His-OprH immunized mice (Figure
+      A).
+     </p>
+     <p>
+      To visualize the phagocytic uptake, BMDMs were incubated with PA14 and the Δ
+      <italic>
+       oprH
+      </italic>
+      mutant overexpressing GFP. The presence of sera from His-OprH-immunized mice induced more phagocytosis of PA14 than those from DHPC-immunized mice, whereas no difference was observed on the Δ
+      <italic>
+       oprH
+      </italic>
+      mutant (Figures
+      B,C). However, the sera from mice immunized with the mixture of FpvA, FoxA, and HasR were unable to promote phagocytosis (Figure
+      in Supplementary Material). Overall, these results indicate that immunization with the refolded His-OprH induced phagocytic antibodies that specifically targeting bacterial surface OprH.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="S4" sec-type="discussion">
+    <title>
+     Discussion
+    </title>
+    <p>
+     Lipopolysaccharide O antigen-based vaccines have been found to confer effective protection against
+     <italic>
+      P. aeruginosa
+     </italic>
+     in animal models (
+     ), which might be due to the high abundance and accessibility by antibodies. However, the narrow protection spectrum (same LPS serogroup) impedes the application of this type of vaccine (
+     ,
+     ). Compared to the highly variable O antigens, outer membrane proteins are relatively more conserved. Therefore, vaccines based on these proteins may induce antibodies against a broad range of
+     <italic>
+      P. aeruginosa
+     </italic>
+     serotypes.
+    </p>
+    <p>
+     Antibodies recognizing the surface protein or structures might promote opsonophagocytic killing by phagocytes, which plays an important role in the protection against bacterial infection (
+     ). In addition, it has been demonstrated that antibodies against the T3SS needle protein PcrV were able to protect cells from T3SS-mediated cytotoxicity (
+     ). And the F(ab′)2 fragment of the PcrV antibody was able to neutralized the T3SS and protect mice against
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection in an Fc fragment-independent manner (
+     ). These results demonstrate that an antibody targeting a virulence factor might confer protection by blocking the function of the virulence factor independent of the Fc-mediated phagocytosis.
+    </p>
+    <p>
+     Besides humoral immune responses, Th17 responses have been shown to play an important role in host defense against a variety of pathogens (
+     ). Previously, we found that immunization with the T3SS component PopB conferred protection in mice in a Th17-dependent manner (
+     ). However, the elicited antibodies could not mediate opsonophagocytic killing or block T3SS-mediated cytotoxicity. Ideally, a combination of Th17 responses and protective antibodies will likely confer the broadest and most potent protection.
+    </p>
+    <p>
+     In order to identify novel antigens to construct mono- or multi-valent vaccines, here we examined the expression profiles of all the
+     <italic>
+      P. aeruginosa
+     </italic>
+     outer membrane proteins during infection. We found that the expression of OprH was highly induced during infection (Table
+     in Supplementary Material). Initially, purified OprH was directly used in immunization. However, no significant protection was observed in the murine acute pneumonia model. We suspected that one of the major causes is that the membrane localized OprH without its natural conformation might not be able to elicit effective opsonic antibody. To regain the natural conformation of OprH on bacterial surface, we took advantage of the DHPC refolding method, which had been used to solve the structure of OprH (
+     ). In addition, the refolding increased the concentration of soluble OprH, enabling higher amount of protein used in immunization. Antibodies elicited by the refolded OprH induced phagocytic uptake by BMDM (Figure
+     ), indicating recognition of the surface exposed domains of OprH, which was further confirmed by ELISA with whole bacterial cells (Figure
+     F). In our study, intranasal immunization might elicit specific IgA, which might protect the mucosal surface. However, the IgA level was low in the OprH immunized mice (Figure
+     in Supplementary Material). Since the elicited IgG binds to the bacterial surface OprH and promote phagocytosis of the bacteria, the refolded OprH might be a potential vaccine candidate. Other adjuvants and immunization routes, such as aluminum adjuvant and subcutaneous injection might increase the antibody titer and protective efficacy. Further studies are needed to evaluate the effects. In addition, vaccination with multiple
+     <italic>
+      P. aeruginosa
+     </italic>
+     proteins has been demonstrated to confer protection in various mouse infection models (
+     ,
+     ,
+     ,
+     ,
+     ), including OprF, OprI, flagellin, PcrV, PopB, etc. OprF, OprI, and flagellin elicit opsonic antibodies. And antibodies against PcrV protect cells from T3SS-mediated cytotoxicity. Therefore, fusion proteins of OprH with these above proteins might induce antibodies against multiple targets thus increase the protective efficacy. Since immunization with PopB elicits Th17 response, which has been shown to be important in the protection against
+     <italic>
+      P. aeruginosa
+     </italic>
+     (
+     ), an OprH and PopB fusion protein might also increase the protective efficacy.
+    </p>
+    <p>
+     Previous studies and our results here demonstrated that FpvA was highly upregulated during infection (Table
+     in Supplementary Material) (
+     ). FpvA is the receptor of pyoverdine, which is a major iron acquisition molecule secreted by
+     <italic>
+      P. aeruginosa
+     </italic>
+     under iron-limiting conditions (
+     ). In addition, FpvA is involved in the regulation of multiple virulence factors, such as pyoverdine, exotoxin A, and PrpL endoprotease (
+     ). Another two iron acquisition proteins HasR and FoxA are also required for the bacterial virulence [(
+     ) and our study here]. Therefore, antibodies against FpvA, HasR, and FoxA might promote opsonic phagocytosis, block iron acquisition, and repress bacterial virulence, which makes them promising vaccine candidates. However, immunization with FpvA, HasR, and FoxA did not confer protection against lung infection. After immunization of mice, iron uptake proteins did not elicit protective antibodies (Figures
+     A–D), which might be due to the poor immunogenicity of the denatured proteins or insufficient amount of antigens. Refolding these proteins in liposomes might elicit antibodies recognizing the exposed portion of them. Numerous detergents and lipids have been used in protein refolding, such as dodecylphoshocholine, 1-myristoyl-2-hydroxy-
+     <italic>
+      sn
+     </italic>
+     -glycero-3-phosphocholine,
+     <italic>
+      N,N
+     </italic>
+     -dimethyldodecylamine-
+     <italic>
+      N
+     </italic>
+     -oxide, DHPC, etc. Further studies are required to find out the optimum
+     <italic>
+      in vitro
+     </italic>
+     refolding conditions and biochemical analysis and NMR examinations are required to test whether the proteins are folded in the natural structure (
+     ). Another option is to overexpress the proteins in attenuated
+     <italic>
+      P. aeruginosa
+     </italic>
+     or
+     <italic>
+      Salmonella
+     </italic>
+     .
+    </p>
+    <p>
+     Overall, we developed a strategy to identify potential vaccine candidates and demonstrated protection against
+     <italic>
+      P. aeruginosa
+     </italic>
+     lung infection by intranasal immunization with refolded OprH. Combination of OprH with other antigens might further increase the protective efficacy and thus warrants further study.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="S5">
+    <title>
+     Ethics Statement
+    </title>
+    <p>
+     All animal studies complied with National and Nankai University guidelines regarding the use of animals in research. All animal experiment protocols have been approved by the institutional animal care and use committee of the College of Life Sciences of Nankai University (permit number NK-04-2012).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="S6">
+    <title>
+     Author Contributions
+    </title>
+    <p>
+     Conceived and designed the experiments: WW, CL, SJ, and GP. Performed the experiments: CL, XP, BX, and FC. Analyzed the data: CL, WW, SJ, YJ, FB, ZC, and GP. Wrote the paper: CL, WW, and SJ.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="S7">
+    <title>
+     Conflict of Interest Statement
+    </title>
+    <p>
+     The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

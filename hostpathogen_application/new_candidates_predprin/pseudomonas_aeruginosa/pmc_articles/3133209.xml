@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Interactions and Predicted Host Membrane Topology of the Enteropathogenic
+ </title>
+ <abstract>
+  <p>
+   Type 3 secretion systems (T3SSs) are critical for the virulence of numerous deadly Gram-negative pathogens. T3SS translocator proteins are required for effector proteins to traverse the host cell membrane and perturb cell function. Translocator proteins include two hydrophobic proteins, represented in enteropathogenic
+   <named-content content-type="genus-species">
+    Escherichia coli
+   </named-content>
+   (EPEC) by EspB and EspD, which are thought to interact and form a pore in the host membrane. Here we adapted a sequence motif recognized by a host kinase to demonstrate that residues on the carboxyl-terminal side of the EspB transmembrane domain are localized to the host cell cytoplasm. Using functional internal polyhistidine tags, we confirm an interaction between EspD and EspB, and we demonstrate, for the first time, an interaction between EspD and the hydrophilic translocator protein EspA. Using a panel of
+   <named-content content-type="genus-species">
+    espB
+   </named-content>
+   insertion mutations, we describe two regions on either side of a putative transmembrane domain that are required for the binding of EspB to EspD. Finally, we demonstrate that EspB variants incapable of binding EspD fail to adopt the proper host cell membrane topology. These results provide new insights into interactions between translocator proteins critical for virulence.
+  </p>
+ </abstract>
+ <sentences/>
+</article>

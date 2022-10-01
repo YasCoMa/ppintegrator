@@ -1,0 +1,1754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Genetic evidence that two independent
+ </title>
+ <abstract>
+  <p>
+   The self-incompatibility mechanism that reduces inbreeding in many plants of the Rosaceae is attributed to a multi-allelic
+   <italic>
+    S
+   </italic>
+   locus which, in the Prunoideae and Maloideae subfamilies, comprises two complementary genes, a stylar-expressed
+   <italic>
+    S-RNase
+   </italic>
+   and a pollen-expressed
+   <italic>
+    SFB
+   </italic>
+   . To elucidate incompatibility in the subfamily Rosoideae, stylar-specific RNases and self-(in)compatibility status were analysed in various diploid strawberries, especially
+   <italic>
+    Fragaria nubicola
+   </italic>
+   and
+   <italic>
+    F
+   </italic>
+   .
+   <italic>
+    viridis
+   </italic>
+   , both self-incompatible, and
+   <italic>
+    F
+   </italic>
+   .
+   <italic>
+    vesca
+   </italic>
+   , self-compatible, and in various progenies derived from them. Unexpectedly, two unlinked RNase loci,
+   <italic>
+    S
+   </italic>
+   and
+   <italic>
+    T
+   </italic>
+   , were found, encoding peptides distinct from Prunoideae and Maloideae
+   <italic>
+    S
+   </italic>
+   -RNases; the presence of a single active allele at either is sufficient to confer self-incompatibility. By contrast, in diploid Maloideae and Prunoideae a single locus encodes
+   <italic>
+    S
+   </italic>
+   -RNases that share several conserved regions and two active alleles are required for self-incompatibility. Our evidence implicates the
+   <italic>
+    S
+   </italic>
+   locus in unilateral inter-specific incompatibility and shows that
+   <italic>
+    S
+   </italic>
+   and
+   <italic>
+    T
+   </italic>
+   RNases can, remarkably, confer not only allele-specific rejection of cognate pollen but also unspecific rejection of
+   <italic>
+    Sn Tn
+   </italic>
+   pollen, where
+   <italic>
+    n
+   </italic>
+   indicates a null allele, consistent with the the presence of the pollen component, SFB, activating the cognitive function of these RNases. Comparison of relevant linkage groups between
+   <italic>
+    Fragaria
+   </italic>
+   and
+   <italic>
+    Prunus
+   </italic>
+   suggests that
+   <italic>
+    Prunus S
+   </italic>
+   -RNases, unique in having two introns, may have resulted from gene conversion in an ancestor of
+   <italic>
+    Prunus
+   </italic>
+   . In addition, it is shown that there is a non-
+   <italic>
+    S
+   </italic>
+   locus that is essential for self-incompatibility in diploid
+   <italic>
+    Fragaria
+   </italic>
+   .
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec sec-type="intro">
+    <title>
+     Introduction
+    </title>
+    <p>
+     Self-incompatibility prevents fertile hermaphrodite plants from self-fertilizing, and promotes heterozygosity and the long-term adaptability of populations in the wild (De Nettancourt, 1977). In various members of the Rosaceae, especially economically important fruit crops, self-incompatibility has been attributed to the gametophytic multi-allelic locus
+     <italic>
+      S
+     </italic>
+     (
+     ;
+     ), as in the Solanaceae (
+     ). The high polymorphism of the
+     <italic>
+      S
+     </italic>
+     locus is a consequence of balancing selection favouring pollinations by pollen carrying rarer
+     <italic>
+      S
+     </italic>
+     -alleles (
+     ). Studies in rosaceous species belonging to the subfamilies Prunoideae, such as
+     <italic>
+      Prunus avium
+     </italic>
+     L., sweet cherry, and Maloideae, such as
+     <italic>
+      Malus pumila
+     </italic>
+     Mill., apple, have shown that there are at least two genes at the rosaceous
+     <italic>
+      S
+     </italic>
+     -locus, one encoding a stylar glycoprotein with ribonuclease activity (
+     <italic>
+      S
+     </italic>
+     -RNase) (
+     ;
+     ) which seems to be essential for pollen rejection in related species (
+     ;
+     ), and the other encoding a pollen-specific F-Box protein (SFB or SLF) (
+     ;
+     ). These components complement each other and the interaction of cognate alleles prevents successful pollen growth in the style and self-fertilization. Lack of expression of either component confers self-compatibility, at least in
+     <italic>
+      Prunus
+     </italic>
+     (
+     ;
+     ). Incompatibility in Solanaceae is also RNase-based (
+     ;
+     ) and, in addition to the two-part
+     <italic>
+      S
+     </italic>
+     locus, various modifier loci have been proposed to explain some examples of self-compatibility (
+     ). Rosaceous and solanaceous
+     <italic>
+      S
+     </italic>
+     -RNases share several structural features including five conserved regions (
+     ) although
+     <italic>
+      S-RNases
+     </italic>
+     of
+     <italic>
+      Prunus
+     </italic>
+     differ from those of the Maloideae and the Solanaceae in having two introns rather than one (
+     ). RNase-based self-incompatibility is regarded as the ancestral state in the majority of eudicots (
+     ), implying that self-compatibility is a derived character resulting from a loss of function. Phylogenetic analysis shows that
+     <italic>
+      S
+     </italic>
+     -RNases of the Prunoideae and Maloideae form two separate clades within which are trans-specific rather than species-specific clusters, a consequence of balancing selection and the longevity of alleles (
+     ;
+     ). In contrast to Maloideae and Solanaceae, the
+     <italic>
+      S
+     </italic>
+     -RNase genealogies of Prunoideae show very little phylogenetic structure, consistent with reduced diversity, and perhaps indicating an increased level of intragenic recombination (
+     ).
+    </p>
+    <p>
+     <italic>
+      Fragaria
+     </italic>
+     , the strawberries, belong to another subfamily, the Rosoideae. It was established through selfing and intercrossing of several diploid species (2
+     <italic>
+      n
+     </italic>
+     =2
+     <italic>
+      x
+     </italic>
+     =14) that
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      daltoniana
+     </italic>
+     J. Gay,
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      nilgerrensis
+     </italic>
+     Schltdl. ex J. Gay and
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      vesca
+     </italic>
+     L. are self-compatible (SC), whereas
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      nipponica
+     </italic>
+     Makino,
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      nubicola
+     </italic>
+     (Hook. f.) Lindl. ex Lacaita,
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      pentaphylla
+     </italic>
+     Losinsk.,
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      sp
+     </italic>
+     .
+     <italic>
+      nova
+     </italic>
+     301, and
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      viridis
+     </italic>
+     Weston are self-incompatible (SI) (
+     ;
+     ;
+     ). Moreover, the SC species failed to pollinate the SI species, indicating that SC pollen fails on SI styles, whereas reciprocal crosses resulted in viable seed (
+     ), an example of unilateral interspecific incompatibility (
+     ). The F
+     <sub>
+      1
+     </sub>
+     hybrids from SC by SI crosses were SI and rejected the pollen of SC, but not SI, species (
+     ). Involvement of
+     <italic>
+      S
+     </italic>
+     -RNases in mediation of SI in the Rosoideae has not been demonstrated.
+    </p>
+    <p>
+     The
+     <italic>
+      S
+     </italic>
+     -locus in
+     <italic>
+      Prunus
+     </italic>
+     maps to linkage group PG6 (
+     ) and in
+     <italic>
+      Malus
+     </italic>
+     to MG17 (
+     ). However, the
+     <italic>
+      S
+     </italic>
+     -bearing section of MG17 is not syntenic to PG6, but to PG3 (
+     ). PG6 showed synteny with FG1 and FG6 of diploid
+     <italic>
+      Fragaria
+     </italic>
+     (
+     ).
+    </p>
+    <p>
+     To test whether
+     <italic>
+      S
+     </italic>
+     -RNases mediate incompatibility in Rosoideae and to clarify genetic control, stylar-specific RNases and self-(in)compatibility status were first analysed in accessions of SC and SI diploid strawberry species and then several available interspecific F
+     <sub>
+      1
+     </sub>
+     , F
+     <sub>
+      2
+     </sub>
+     or BC (back-cross) progenies raised from SC and SI species were analysed and various test pollinations performed. In addition, the genes encoding the
+     <italic>
+      Fragaria S
+     </italic>
+     -RNases were mapped and their protein products were sequenced. Preliminary genetic evidence for a non-
+     <italic>
+      S
+     </italic>
+     locus that is essential for mediation of SI in diploid
+     <italic>
+      Fragaria
+     </italic>
+     is also presented.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="materials|methods">
+    <title>
+     Materials and methods
+    </title>
+    <p>
+     To investigate the association between stylar ribonucleases and (in)compatibility status in diploid
+     <italic>
+      Fragaria
+     </italic>
+     , stylar ribonucleases were analysed in accessions of eight species maintained at East Malling Research:
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      daltoniana
+     </italic>
+     ,
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      nilgerrensis
+     </italic>
+     ,
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      vesca
+     </italic>
+     , SC, and
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      nipponica
+     </italic>
+     ,
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      nubicola
+     </italic>
+     ,
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      pentaphylla
+     </italic>
+     ,
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      sp
+     </italic>
+     .
+     <italic>
+      nova
+     </italic>
+     301, and
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      viridis
+     </italic>
+     , SI. To elucidate the genetic control of stylar ribonucleases and their relationship with (in)compatibility status, stylar ribonucleases and (in)compatibility status were analysed in four available interspecific progenies (
+     ). These were: the F
+     <sub>
+      1
+     </sub>
+     of
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      vesca
+     </italic>
+     801 by
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      nubicola
+     </italic>
+     601 (FV×FN); the F
+     <sub>
+      2
+     </sub>
+     of
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      vesca
+     </italic>
+     815 by
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      nubicola
+     </italic>
+     601 (FV×FN)
+     (
+     ); the F
+     <sub>
+      1
+     </sub>
+     of
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      vesca
+     </italic>
+     815 by
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      viridis
+     </italic>
+     903 (FVe×FVi); and the back-cross of
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      vesca
+     </italic>
+     815 by FVe×FVi F
+     <sub>
+      1
+     </sub>
+     seedling 4 [FVe×(FVe×FVi)] (
+     ). Chi
+     tests were used to compare single locus segregations to Mendelian ratios and appropriate annotations are provided for the observed ratios differing from expectation at the probabilities 0.001 (***), 0.01 (**) or 0.05 (*).
+    </p>
+    <p>
+     For protein extraction for stylar ribonuclease analysis of the species accessions and progenies, whole receptacles (4–8 per plant) with carpels from newly opened flowers were snap-frozen in liquid nitrogen in a 2 ml microcentrifuge tube, ground to a fine powder, and washed with 1.8 ml acetone containing 0.07% (v/v) β-mercaptoethanol until the samples were colourless. The acetone was removed and the samples were dried overnight. Resultant powders were resuspended in 1 ml of extraction buffer containing 10% (v/v) dimethyl sulphoxide, 3% (w/v) sucrose, 0.1% (w/v) sodium metabisulphite, and 0.2% (v/v) Pharmalyte 3-10 and incubated on ice for 2 h. After centrifugation, supernatants containing the stylar native protein extract were stored at −80 °C until required. Isoelectric focusing (IEF) of the proteins and staining for ribonuclease activity were conducted in accordance with published methods (
+     ).
+    </p>
+    <p>
+     To determine the self-(in)compatibility status of seedlings of the four progenies, potted plants grown in an insect-proof greenhouse were self-pollinated with a fine brush or a finger and monitored for fruit set.
+    </p>
+    <p>
+     For mapping the loci in the (FV×FN)
+     mapping population, anodal and cathodal RNases were scored as present or absent in 62 seedlings and assigned to loci
+     <italic>
+      S
+     </italic>
+     and
+     <italic>
+      T
+     </italic>
+     , respectively. The data were integrated with available marker data (
+     ) and a map was constructed with JOINMAP software (
+     ).
+    </p>
+    <p>
+     To clarify the patterns of cross-compatibility relationships and to check fertility, test-crosses among various SI hybrids of progeny FV×FN (detailed later) were effected by using flowers of the male parents as brushes to dust pollen directly onto the styles of the female parents.
+    </p>
+    <p>
+     As consensus primers developed from conserved regions of rosaceous
+     <italic>
+      S
+     </italic>
+     -RNases failed to amplify
+     <italic>
+      RNases
+     </italic>
+     from
+     <italic>
+      Fragaria
+     </italic>
+     genomic and stylar cDNA (data not shown) samples of ribonucleases from
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      nubicola
+     </italic>
+     and
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      viridis
+     </italic>
+     were prepared for tandem mass spectrometric (MS–MS) sequencing. The acetone powders described above were resuspended in 1% Pharmalyte 3-10 and 5 mM DTT. After 2 h, proteins were precipitated using trichloracetic acid and deoxycholate with final concentrations of 20% and 0.1%, respectively, and then resolubilized for electrophoresis on an 8–18% density-gradient SDS-PAGE gel (
+     ), together with a marker track of native protein extract prepared as described above. The gel was stained for RNase activity (
+     ) and bands of activity in the native sample were marked with a scalpel. The gel was destained, fixed, and restained with Colloidal Coomassie Blue. Bands corresponding to marked bands were excised and submitted for MS–MS sequencing (BSAU Nottingham University).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="results">
+    <title>
+     Results
+    </title>
+    <sec>
+     <title>
+      Stylar RNases in SC and SI diploid
+      <italic>
+       Fragaria
+      </italic>
+      species
+     </title>
+     <p>
+      The analysis of the ribonucleases in a range of accessions of diploid
+      <italic>
+       Fragaria
+      </italic>
+      species of known status allowed the relationship between stylar RNases and (in)compatibility status to be investigated.
+      shows the resulting zymograms. The several uniform bands observed in all accessions in the anodal (acidic) region of the gel are not style-specific (data not shown). In the cathodal region, to which
+      <italic>
+       S
+      </italic>
+      -RNases, which are basic, should migrate, no activity was observed in accessions of two of the SC species,
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nilgerrensis
+      </italic>
+      401 and 405 and
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       vesca
+      </italic>
+      801, 805, and 815, whereas a single band was seen in
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       daltoniana
+      </italic>
+      001. In three of the SI accessions
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       sp
+      </italic>
+      .
+      <italic>
+       nova
+      </italic>
+      301,
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nubicola
+      </italic>
+      601, and
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       pentaphylla
+      </italic>
+      702, two bands were seen while a complex pattern of three or four bands was revealed in the other SI accessions,
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nipponica
+      </italic>
+      501,
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nubicola
+      </italic>
+      603 and 604, and
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       viridis
+      </italic>
+      901, 902, and 903. These RNases showed high polymorphism within and between the species. Thus, the SC species lacked stylar RNases, or in one case showed a single band, but the SI species showed two to four bands. This pattern indicates possible involvement of stylar RNases in mediation of self-incompatibility in diploid
+      <italic>
+       Fragaria
+      </italic>
+      and the existence of more than one
+      <italic>
+       RNase
+      </italic>
+      locus. The rest of this paper investigates the nature of (in)compatibility in accessions and progenies of
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nubicola
+      </italic>
+      and
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       viridis
+      </italic>
+      , both SI, and of
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       vesca
+      </italic>
+      , SC.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      <italic>
+       S
+      </italic>
+      and
+      <italic>
+       T RNase
+      </italic>
+      loci and non-
+      <italic>
+       S
+      </italic>
+      locus in
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nubicola
+      </italic>
+     </title>
+     <p>
+      The analysis of the F
+      <sub>
+       1
+      </sub>
+      progeny FV×FN (
+      ) for RNases and for self-(in)compatibility helped elucidate the genetic control of the RNase bands in
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nubicola
+      </italic>
+      and their possible involvement in the self-incompatibility response. The female parent
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       vesca
+      </italic>
+      801 is SC and has no RNases and the male parent
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nubicola
+      </italic>
+      601 is SI and has RNases A and B (
+      ). The seedling zymograms showed four RNase classes (
+      ), 11 seedlings with the A band only, 6 with B only, 4 with neither, and 9 with both. This segregation cannot be explained by a single locus, as A and B are not allelic, but is consistent with control by two independent loci each segregating approximately 1:1, i.e. 20 A:10 non-A (Chi
+      =3.72) and 15 B:15 non-B, (Chi
+      =0) (
+      ). As expected, the four seedlings with no bands – i.e. with the RNase phenotype of
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       vesca
+      </italic>
+      – were all SC but in each of the three remaining classes both SC and SI seedlings occurred: A only, 6 SC and 5 SI; B only, 1 SC and 5 SI; and AB, 5 SC and 4 SI. In all, 14 of the 26 seedlings with one or other or both RNases were SI. This self-incompatibility indicates that, with the right genetic background, RNases A and B from
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nubicola
+      </italic>
+      601 are each associated with self-incompatibility function, even when a single allele is expressed. Indeed, this correlation, along with the differential pattern of RNases in SI and SC
+      <italic>
+       Fragaria
+      </italic>
+      species already described and the role of RNases established in the SI Prunoideae and Maloideae, indicates that A and B can be proposed as incompatibility RNases. In the light of this, locus
+      <italic>
+       A
+      </italic>
+      was labelled as
+      <italic>
+       S
+      </italic>
+      and locus
+      <italic>
+       B
+      </italic>
+      as
+      <italic>
+       T
+      </italic>
+      , using the next letter of the alphabet. This avoids the
+      <italic>
+       S
+      </italic>
+      and
+      <italic>
+       Z
+      </italic>
+      notation used for the non-RNase-based complementary two locus system in the Graminae (
+      ;
+      ). So the genotype of
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       vesca
+      </italic>
+      801 is
+      <italic>
+       SnSn TnTn
+      </italic>
+      and that of
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nubicola
+      </italic>
+      F601 is
+      <italic>
+       SaSn TbTn
+      </italic>
+      where
+      <italic>
+       Sn
+      </italic>
+      and
+      <italic>
+       Tn
+      </italic>
+      are null alleles. As some of the SI seedlings have two active RNases, there appears to be no ‘competitive interaction’ (
+      ) in the pollen between the corresponding pollen-
+      <italic>
+       S
+      </italic>
+      and pollen-
+      <italic>
+       T
+      </italic>
+      factors that would lead to the loss of their SI function. Thus the loci act independently. As amphidiploid
+      <italic>
+       Fragaria
+      </italic>
+      produced by chromosome doubling of SI hybrids are SC (
+      ), it appears that competitive interaction does operate between alleles of the same loci in diploid pollen.
+     </p>
+     <p>
+      That nearly half of the seedlings having one or both RNases are SC may indicate the involvement of an additional, non-
+      <italic>
+       S
+      </italic>
+      , locus in the expression of the SI response, which was arbitrarily labelled
+      <italic>
+       M
+      </italic>
+      . This would be an example of complementary action or duplicate recessive epistasis.
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nubicola
+      </italic>
+      601 would be heterozygous
+      <italic>
+       Mm
+      </italic>
+      and
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       vesca
+      </italic>
+      801 would be homozygous recessive
+      <italic>
+       mm
+      </italic>
+      with the observed segregation of 14 SI:12 SC seedlings in the FV×FN F
+      <sub>
+       1
+      </sub>
+      progeny being in accord with the 1:1 expected of
+      <italic>
+       Mm
+      </italic>
+      versus
+      <italic>
+       mm
+      </italic>
+      (Chi
+      =0.14). As the proposed non-RNase factor appears to support self-incompatibility when heterozygous
+      <italic>
+       Mm
+      </italic>
+      , it should be expressed in the style rather than the pollen since heterozygosity for a pollen factor essential for self-incompatibility would result in self-compatibility, as it would be transmitted to only half the pollen grains. The F
+      <sub>
+       1
+      </sub>
+      seedlings from
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       vesca
+      </italic>
+      ×
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nubicola
+      </italic>
+      reported by
+      were all SI, presumably because that accession of
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nubicola
+      </italic>
+      was homozygous
+      <italic>
+       MM
+      </italic>
+      .
+     </p>
+     <p>
+      The various sib-crosses attempted among SI F
+      <sub>
+       1
+      </sub>
+      hybrids from the different RNase classes allowed the SI function of RNases A and B to be tested. If two hybrids had the same RNase pattern, the cross failed; thus hybrid F
+      <sub>
+       1
+      </sub>
+      -14×hybrid F
+      <sub>
+       1
+      </sub>
+      -3 (both BN) and F
+      <sub>
+       1
+      </sub>
+      -20×F
+      <sub>
+       1
+      </sub>
+      -4 (both AN) each set no fruit from five flowers pollinated. However, if the hybrids had different single RNases, the cross succeeded; F
+      <sub>
+       1
+      </sub>
+      -20 (AN)×F
+      <sub>
+       1
+      </sub>
+      -3 (BN) and F
+      <sub>
+       1
+      </sub>
+      -3 (BN)×F
+      <sub>
+       1
+      </sub>
+      -4 (AN) set four and five fruit, respectively, from five flowers. Crosses of one-banded hybrids by two-banded succeeded; thus F
+      <sub>
+       1
+      </sub>
+      -23 (AN)×F
+      <sub>
+       1
+      </sub>
+      -10 (AB) and F
+      <sub>
+       1
+      </sub>
+      -27 (AN)×F
+      <sub>
+       1
+      </sub>
+      -10 (AB) set three and five fruit, respectively. In contrast, the reciprocals failed, F
+      <sub>
+       1
+      </sub>
+      -10 (AB)×F
+      <sub>
+       1
+      </sub>
+      -23 (AN) setting no fruit. The failure of crosses between seedlings with RNases in common supports the conclusion that the RNases are products of incompatibility loci that act independently.
+     </p>
+     <p>
+      Analysis of the mapping progeny (FV×FN)
+      (
+      ) confirmed the genetic control of the RNase bands in
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nubicola
+      </italic>
+      by two independent loci. As mentioned, analysis of the stylar RNases of the two grandparents had revealed no stylar-specific RNase bands in SC
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       vesca
+      </italic>
+      815 and two bands, A and B, in SI
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nubicola
+      </italic>
+      601 (
+      ); and the F
+      <sub>
+       1
+      </sub>
+      plants from which the F
+      <sub>
+       2
+      </sub>
+      progeny had been raised inherited both RNases from
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nubicola
+      </italic>
+      601 and being SC were presumably homozygous recessive
+      <italic>
+       mm
+      </italic>
+      for the non-
+      <italic>
+       S
+      </italic>
+      factor. Analysis of the F
+      <sub>
+       2
+      </sub>
+      progeny revealed four classes of seedlings: 17 with only the A band, 14 with only B, 12 with neither, and 19 with both. The range of phenotypes is consistent with the control by the two independent loci already proposed, although the segregations do not fit the expected ratio of 3:1 well, namely 36 A:26 non-A (Chi
+      =11.63***) and 33 B:29 non-B (Chi
+      =16.51***) (
+      ).
+      reported distorted ratios for many loci in this interspecific F
+      <sub>
+       2
+      </sub>
+      progeny and so there is no reason to attribute the aberrant ratios of A and B to incompatibility. A random subset of 14 seedlings tested for self-(in)compatibility all set fruit after selfing and were thus self-compatible, irrespective of their RNase pattern and even when having the AB pattern of the SI grandparent
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nubicola
+      </italic>
+      601; this indicates that they are homozygous recessive
+      <italic>
+       mm
+      </italic>
+      for the non-
+      <italic>
+       S
+      </italic>
+      factor, as are the F
+      <sub>
+       1
+      </sub>
+      plants from which they derive.
+     </p>
+     <p>
+      Comparing the segregations of the RNases with those of the markers on the map published for (FV×FN)
+      (
+      ) located
+      <italic>
+       RNase A
+      </italic>
+      (locus
+      <italic>
+       S
+      </italic>
+      ) and
+      <italic>
+       RNase B
+      </italic>
+      (locus
+      <italic>
+       T
+      </italic>
+      ) loci on two different linkage groups (
+      ). Locus
+      <italic>
+       A
+      </italic>
+      was located on linkage group FG1 flanked by markers F3H and TSA3 and
+      <italic>
+       B
+      </italic>
+      on FG6 flanked by markers ARSFL007 and EMFn228. As might be expected from the recently reported syntenies between
+      <italic>
+       Fragaria
+      </italic>
+      and
+      <italic>
+       Prunus
+      </italic>
+      (
+      ), in
+      <italic>
+       Fragaria
+      </italic>
+      locus
+      <italic>
+       A
+      </italic>
+      was linked with markers PC21 and AC8 and
+      <italic>
+       B
+      </italic>
+      was linked with EPpCU1830 and Pgl1, but in
+      <italic>
+       Prunus
+      </italic>
+      these four anchor loci all have homologues on PG6. Regarding
+      <italic>
+       Prunus S
+      </italic>
+      and
+      <italic>
+       Fragaria A
+      </italic>
+      and
+      <italic>
+       B
+      </italic>
+      and the anchor loci, PG6 can be arrived at by inserting the group Pgl1–EPpCU1830–
+      <italic>
+       RNase B
+      </italic>
+      of FG6 between
+      <italic>
+       RNase A
+      </italic>
+      and PC21–AC8 of FG1 and coalescing
+      <italic>
+       A
+      </italic>
+      and
+      <italic>
+       B
+      </italic>
+      ; or, alternatively, FG1 and FG6 can be arrived at by the reverse rearrangement.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      <italic>
+       S
+      </italic>
+      and
+      <italic>
+       T
+      </italic>
+      RNase loci and non-S locus in
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       viridis
+      </italic>
+     </title>
+     <p>
+      Analysis of two more progenies indicated the existence of a duplicate
+      <italic>
+       RNase
+      </italic>
+      system and a non-
+      <italic>
+       S
+      </italic>
+      locus in a different SI
+      <italic>
+       Fragaria
+      </italic>
+      species.
+     </p>
+     <p>
+      Progeny FVe×FVi (
+      ) comes from the cross of
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       vesca
+      </italic>
+      815, SC and lacking RNase and, though not pointed out earlier, homozygous
+      <italic>
+       pgpg
+      </italic>
+      for yellow leaves, by
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       viridis
+      </italic>
+      903, SI and with three stylar ribonucleases C, D, and E (
+      ). The zymograms of the seedlings revealed three RNase phenotypes, C (five seedlings), CE (3), and D (3). This is consistent with there being two independent loci segregating 1:1 in
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       viridis
+      </italic>
+      , with C being allelic to D at one locus and E to a null allele at the other (both Chi
+      =0.98) (
+      ). The absence of phenotype DE is not unexpected in view of the small progeny size. All the seedlings, whether having one or two RNases, failed to set fruit on selfing (data not shown) and, since a subset proved fertile when interpollinated, were SI rather than infertile. This contrasts with the F
+      <sub>
+       1
+      </sub>
+      progeny of
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       vesca
+      </italic>
+      801 by
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nubicola
+      </italic>
+      601 which segregated SI:SC 1:1 and it suggests that
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       viridis
+      </italic>
+      903 is homozygous for the non-
+      <italic>
+       S
+      </italic>
+      factor,
+      <italic>
+       MM
+      </italic>
+      , and the F
+      <sub>
+       1
+      </sub>
+      seedlings are heterozygous.
+     </p>
+     <p>
+      Progeny FVe×(FVe×FVi) (
+      ) comes from back-crossing SC
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       vesca
+      </italic>
+      with a SI seedling from the F
+      <sub>
+       1
+      </sub>
+      that inherited the single RNase C and that is heterozygous
+      <italic>
+       Pgpg
+      </italic>
+      for yellow leaves. Analysis of this backcross progeny showed that the seedlings segregated for the presence or absence of RNase C (
+      ), 23 with C, all of which had green leaves, and 32 without C, all of which were yellow. This approximates to a 1:1 segregation at locus
+      <italic>
+       T
+      </italic>
+      (Chi
+      =1.19), locus
+      <italic>
+       S
+      </italic>
+      being monomorphic null (
+      ). Strikingly, all green plants inherited RNase C whereas all yellow plants were null. This co-segregation of RNase phenotype and leaf colour is consistent with the tight coupling of
+      <italic>
+       RNase
+      </italic>
+      C with the allele
+      <italic>
+       Pg
+      </italic>
+      which is known to lie on FG6 (
+      ). Thus we can conclude that RNase C, and its allele D, belong to locus
+      <italic>
+       T
+      </italic>
+      and that E is likely to belong to locus
+      <italic>
+       S
+      </italic>
+      . The yellow seedlings, which had no RNase, i.e. were
+      <italic>
+       SnSn TnTn
+      </italic>
+      , were all SC whereas the green plants, with RNase C, i.e.
+      <italic>
+       SnSn TcTn
+      </italic>
+      , segregated 16 SI, which are presumably heterozygous
+      <italic>
+       Mm
+      </italic>
+      , versus 7 SC, presumably homozygous
+      <italic>
+       mm
+      </italic>
+      . This approximates to the expected 1:1 segregation (Chi
+      =3.52). Thus it appears that the single RNase allele
+      <italic>
+       Tc
+      </italic>
+      , which is coupled to
+      <italic>
+       Pg
+      </italic>
+      , confers self-incompatibility in an appropriate background and that a non-RNase factor, which segregates independently, is necessary for the self-incompatibility reaction.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      <italic>
+       S
+      </italic>
+      -RNase protein sequences
+     </title>
+     <p>
+      MS–MS sequencing of the two stylar protein bands separated by electrophoresis that corresponded to RNase activity in SI species, at around 21 kDa and 30 kDa (
+      ), provided partial sequences of the
+      <italic>
+       Fragaria
+      </italic>
+      incompatibility RNases. For
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       viridis
+      </italic>
+      901, the 21 kDa band yielded the peptide sequences AFDL/IVSVL/IGVEAPK, DPFGL/IVWTL/IVGNK, and VFFDL/IL/IL/IGR and the 30 kDa band FL/IL/IYDTTSK, L/ISDL/IDSL/IL/I, and FDL/IVSV. The 21 kDa band of
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nubicola
+      </italic>
+      601 yielded FDL/IVSVL/IGV and that of
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       nubicola
+      </italic>
+      603 AFDL/IVSVL/IGVEAPK, FGL/IVWTL/IVGNK, and AL/ITAL/ITVTL/IGL/IL/IK. None of the peptide sequences matched sequences in the databases. Only one showed some similarity with
+      <italic>
+       Prunus S
+      </italic>
+      -RNases, namely
+      <italic>
+       Fragaria
+      </italic>
+      ISDIDSII, if I is assumed instead of L in ambiguous positions, versus
+      <italic>
+       Prunus
+      </italic>
+      YSDIV/ESPI. Intriguingly, another sequence contained the motif FDLL that is highly conserved in the C4 region of solanaceous
+      <italic>
+       S
+      </italic>
+      -RNases (
+      ). The occurrence of peptides common to bands of both sizes indicates differences in glycosylation. As both peptide sizes are not always present on SDS gels, these differences are most likely attributable to the laboratory procedures. The bands at 21 kDa and 30 kDa were absent from
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       vesca
+      </italic>
+      801 (
+      ), and also from
+      <italic>
+       F
+      </italic>
+      .
+      <italic>
+       vesca
+      </italic>
+      804, 805, and 815 (data not shown), all of which are SC.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="discussion">
+    <title>
+     Discussion
+    </title>
+    <p>
+     The correlation of RNase phenotypes and self-(in)compatibility status found in species and progenies shows that, in
+     <italic>
+      Fragaria
+     </italic>
+     , as in other Rosaceae, RNases mediate self-incompatibility. However, in contrast to the single locus control of
+     <italic>
+      S
+     </italic>
+     -RNases of Maloideae and Prunoideae, the
+     <italic>
+      Fragaria
+     </italic>
+     RNases are encoded by two genes,
+     <italic>
+      S
+     </italic>
+     and
+     <italic>
+      T
+     </italic>
+     , mapping respectively to FG1 and FG6, and both showing elements of synteny with the PG6 on which the
+     <italic>
+      S
+     </italic>
+     gene lies in
+     <italic>
+      Prunus
+     </italic>
+     . Surprisingly, a single active allele at either of the two loci is sufficient to confer self-incompatibility. The null alleles of the
+     <italic>
+      S
+     </italic>
+     and
+     <italic>
+      T
+     </italic>
+     loci present in SC and SI species are associated with a lack of RNase activity and confer self-compatibility only when homozygous at both loci. Partial protein sequences of
+     <italic>
+      S
+     </italic>
+     and
+     <italic>
+      T
+     </italic>
+     RNases showed very little similarity with
+     <italic>
+      Prunus S
+     </italic>
+     -RNases. The observed self-incompatibility of the F
+     <sub>
+      1
+     </sub>
+     plants, raised between SC
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      vesca
+     </italic>
+     and SI
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      viridis
+     </italic>
+     accords with the report of
+     . That half of the F
+     <sub>
+      1
+     </sub>
+     plants from crosses of SC
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      vesca
+     </italic>
+     and SI
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      nubicola
+     </italic>
+     were SC, in contrast to the findings of
+     , suggests our accession of
+     <italic>
+      F
+     </italic>
+     .
+     <italic>
+      nubicola
+     </italic>
+     , but not theirs, is heterozygous for a non-functional allele at the non-
+     <italic>
+      S
+     </italic>
+     locus that is essential for the self-incompatibility response. This discovery of
+     <italic>
+      S
+     </italic>
+     and
+     <italic>
+      T
+     </italic>
+     loci in a diploid plant reveals additional diversity of RNase-based incompatibility systems and has important implications for the understanding of the self-incompatibility mechanism and its evolution in Rosaceae. The information provided is a useful basis for population studies and should facilitate cloning of
+     <italic>
+      S
+     </italic>
+     and
+     <italic>
+      T
+     </italic>
+     RNases.
+    </p>
+    <p>
+     The self-incompatibility of some seedlings having one or two RNase bands and, presumably, the non-
+     <italic>
+      S
+     </italic>
+     factor indicates that
+     <italic>
+      Sn
+     </italic>
+     <italic>
+      Tn
+     </italic>
+     pollen is rejected by the self styles. By contrast,
+     <italic>
+      S-RNase
+     </italic>
+     and
+     <italic>
+      SFB
+     </italic>
+     null alleles in
+     <italic>
+      Prunus
+     </italic>
+     succeed on self styles (
+     ;
+     ). It is remarkable that this SI response, i.e. the failure of the
+     <italic>
+      Sn Tn
+     </italic>
+     pollen, does not require the active RNases to be cognate; the rejection of the non-cognate pollen indicates the RNases can have unspecific non-cognitive action. As the null allele at one locus is transmissible in a pollen grain if present with an active allele at the other, it seems that the presence of the pollen component suppresses unspecific non-cognitive action by activating cognitive function. The failure of the
+     <italic>
+      Sn Tn
+     </italic>
+     pollen is sufficient to explain the reported unilateral failure of pollen from SC species on SI species (
+     ;
+     ) – implicating
+     <italic>
+      S
+     </italic>
+     -RNases in interspecific unilateral incompatibility in Rosaceae. In the Solanaceae, the
+     <italic>
+      S
+     </italic>
+     locus has been implicated in unilateral incompatibility (
+     ) and the lethality/failure of SC pollen explained by lack of the pollen component (
+     ).
+    </p>
+    <p>
+     The finding of a duplicate incompatibility RNase system in two diploid SI
+     <italic>
+      Fragaria
+     </italic>
+     species of the Rosoideae was unexpected. Establishing that the loci were individually sufficient for the SI response depended on the existence of the null alleles at each locus that occurred in our SC×SI interspecific progenies. The nature of these null alleles should become easier to study once
+     <italic>
+      S
+     </italic>
+     and
+     <italic>
+      T
+     </italic>
+     are fully sequenced. The apparent rejection of
+     <italic>
+      Sn Tn
+     </italic>
+     pollen on styles expressing a single active allele at one locus and the lack of intergenic competitive interaction are fundamental to maintaining the self-incompatibility system in
+     <italic>
+      Fragaria
+     </italic>
+     . Presumably, a fully compatible cross between individuals lacking null alleles would result in 16 genotypic classes, but, assuming all are
+     <italic>
+      MM
+     </italic>
+     or
+     <italic>
+      Mm
+     </italic>
+     , a particular class would be compatible, fully or partially, with only nine other classes, whereas the single locus system gives four, intercompatible, classes. In other diploid Rosaceae, incompatibility is attributed to a single locus, but, as already noted, some other diploid
+     <italic>
+      Fragaria
+     </italic>
+     have complex patterns of stylar ribonucleases, as do some members of other important genera of the Rosoideae, e.g.
+     <italic>
+      Rosa
+     </italic>
+     and
+     <italic>
+      Rubus
+     </italic>
+     (R Bošković
+     <italic>
+      et al.
+     </italic>
+     , unpublished data).
+    </p>
+    <p>
+     The lack of intergenic competitive interaction of
+     <italic>
+      S
+     </italic>
+     and
+     <italic>
+      T
+     </italic>
+     alleles in the pollen might be due to their divergence preventing the formation of the heterotetramers proposed by the modified inhibitor model (
+     ) so that each pollen component binds to its cognate RNase and protects it from a general inhibitor. However, neither this model nor the sequestration model (
+     ) can explain the failure of
+     <italic>
+      Sn Tn
+     </italic>
+     pollen on any SI style. In the modified inhibitor model, lack of the cognate pollen component would leave RNases unprotected from the general inhibitor. In the sequestration model, lack of the cognate pollen component would leave RNases sequestered in the vacuole. Thus in both models, contrary to the experimental evidence just presented,
+     <italic>
+      Sn Tn
+     </italic>
+     pollen tubes should be protected from their cytotoxic action. The ‘universal’ failure of
+     <italic>
+      Sn Tn
+     </italic>
+     pollen on SI styles could be explained only by the recently proposed RNase degradation model (
+     ). In this, lack of expression of the pollen component would leave non-self
+     <italic>
+      S
+     </italic>
+     -RNases untargeted for ubiquitination and degradation. Further comparative mapping together with sequence information may indicate how the two locus RNase system arose. The
+     <italic>
+      S
+     </italic>
+     and
+     <italic>
+      T
+     </italic>
+     loci may be paralogues resulting from duplication in an ancestor not just of
+     <italic>
+      Fragaria
+     </italic>
+     but of
+     <italic>
+      Prunus
+     </italic>
+     too. Pseudogenization is the usual fate of duplicated genes, but in the presence of gene conversion and the balancing selection that would operate at both loci, the probability of fixation and the longevity of duplicated genes increases (
+     ), so that the original function may be partitioned across both copies. In
+     <italic>
+      Fragaria
+     </italic>
+     and other members of the Rosoideae, comparison of full-length amino acid sequences of
+     <italic>
+      S
+     </italic>
+     and
+     <italic>
+      T
+     </italic>
+     RNases should reveal the regions most exposed to diversifying selection acting at both of these loci. In the light of the apparent coalescence in
+     <italic>
+      Prunus
+     </italic>
+     PG6 of the single copy markers from
+     <italic>
+      Fragaria
+     </italic>
+     FG1 and FG6,
+     <italic>
+      S
+     </italic>
+     and
+     <italic>
+      T
+     </italic>
+     could have become combined within the same chromosome in the rosaceous lineage leading to
+     <italic>
+      Prunus
+     </italic>
+     ; in this line, it may be that an increased rate of gene conversion, relative to the rate of point mutations, led to reduced diversity between the copies and to the loss of one gene. This is consistent with the distinctive shape, flat and unstructured, of the phylogenetic tree of
+     <italic>
+      Prunus S
+     </italic>
+     -RNases, attributed to a population bottleneck (
+     ), and with the sharing by phylogenetically unrelated alleles of motifs up to 19 residues long from polymorphic regions of
+     <italic>
+      Prunus S-RNases
+     </italic>
+     (
+     ). As introns can spread between paralogues via gene conversion (
+     ), it may be the additional intron in
+     <italic>
+      Prunus S
+     </italic>
+     -
+     <italic>
+      RNases
+     </italic>
+     , an autapomorphy (
+     ), resulted from gene conversion between
+     <italic>
+      S
+     </italic>
+     and
+     <italic>
+      T
+     </italic>
+     in an ancestor of
+     <italic>
+      Prunus
+     </italic>
+     . Thus, as in the mammalian major histocompatibility complex (MHC) system (
+     ), gene conversion may have played a role in determining allelic diversity of RNase-based incompatibility systems.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  ExoS Controls the Cell Contact-Mediated Switch to Effector Secretion in
+ </title>
+ <abstract>
+  <p>
+   Type III secretion is used by many gram-negative bacterial pathogens to directly deliver protein toxins (effectors) into targeted host cells. In all cases, secretion of effectors is triggered by host cell contact, although the mechanism is unclear. In
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   , expression of all type III secretion-related genes is up-regulated when secretion is triggered. We were able to visualize this process using a green fluorescent protein reporter system and to use it to monitor the ability of bacteria to trigger effector secretion on cell contact. Surprisingly, the action of one of the major type III secreted effectors, ExoS, prevented triggering of type III secretion by bacteria that subsequently attached to cells, suggesting that triggering of secretion is feedback regulated. Evidence is presented that translocation (secretion of effectors across the host cell plasma membrane) of ExoS is indeed self-regulated and that this inhibition of translocation can be achieved by either of its two enzymatic activities. The translocator proteins PopB, PopD, and PcrV are secreted via the type III secretion system and are required for pore formation and translocation of effectors across the host cell plasma membrane. Here we present data that secretion of translocators is in fact not controlled by calcium, implying that triggering of effector secretion on cell contact represents a switch in secretion specificity, rather than a triggering of secretion per se. The requirement for a host cell cofactor to control effector secretion may help explain the recently observed phenomenon of target cell specificity in both the
+   <italic>
+    Yersinia
+   </italic>
+   and
+   <italic>
+    P. aeruginosa
+   </italic>
+   type III secretion systems.
+  </p>
+ </abstract>
+ <sentences/>
+</article>

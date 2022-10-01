@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Dynamic Adaptive Response of
+ </title>
+ <abstract>
+  <p>
+   Pseudomonas aeruginosa is the most common Gram-negative pathogen causing nosocomial multidrug resistant infections. It is a good biofilm producer and has the potential for contaminating medical devices. Despite the widespread use of antibacterial-impregnated catheters, little is known about the impacts of antibacterial coating on the pathogenesis of
+   <italic>
+    P. aeruginosa
+   </italic>
+   . In this study, we investigated the adaptive resistance potential of
+   <italic>
+    P. aeruginosa
+   </italic>
+   strain PAO1 in response to continuous antibiotic exposure from clindamycin/rifampicin-impregnated catheters (CR-IC). During exposure for 144 h to clindamycin and rifampicin released from CR-IC, strain PAO1 formed biofilms featuring elongated and swollen cells. There were 545 and 372 differentially expressed proteins (DEPs) identified in the planktonic and biofilm cells, respectively, by ultra-high performance liquid chromatography-tandem mass spectrometry (UHPLC-MS/MS). Both Cluster of Orthologous Groups (COG) and Kyoto Encyclopedia of Genes and Genomes (KEGG) analyses showed that the planktonic cells responded to the released antibiotics more actively than the biofilm cells, with metabolism and ribosomal biosynthesis-associated proteins being significantly over-expressed. Exposure to CR-IC increased the invasion capability of
+   <italic>
+    P. aeruginosa
+   </italic>
+   for Hela cells and upregulated the expression of certain groups of virulence proteins in both planktonic and biofilm cells, including the outer membrane associated (flagella, type IV pili and type III secretion system) and extracellular (pyoverdine) virulence proteins. Continuous exposure of
+   <italic>
+    P. aeruginosa
+   </italic>
+   to CR-IC also induced the overexpression of antibiotic resistance proteins, including porins, efflux pumps, translation and transcription proteins. However, these upregulations did not change phenotypic minimum inhibitory concentration (MIC) during the experimental timeframe. The concerning association between CR-IC and overexpression of virulence factors in
+   <italic>
+    P. aeruginosa
+   </italic>
+   suggests the need for additional investigation to determine if it results in adverse clinical outcomes.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="sec1-antibiotics-10-00752" sec-type="intro">
+    <title>
+     1. Introduction
+    </title>
+    <p>
+     More than 30 million urinary tract catheters and five million central venous catheters are annually used in the US [
+     ]. Although medical devices are widely used for therapeutic treatments, infections associated with the presence of a device result in significant morbidity and mortality for patients [
+     ]. Nosocomial bacteria can contaminate the surgical site surrounding implants and adhere to their surface to form biofilm, resulting in the evasion of the host immune response and strong resistance to many antimicrobials [
+     ]. If antibacterial therapy is discontinued, persister cells can detach from the biofilm and cause recurrent infections [
+     ]. Host factors and material surface characteristics influence biofilm formation [
+     ,
+     ]. Biofilm can also prevent devices from functioning properly [
+     ]. Biofilms formed on intravascular catheters or central lines are recognized to be the most common cause of hospital acquired bloodstream infections [
+     ].
+    </p>
+    <p>
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     is responsible for more than two million nosocomial infections, especially in immunocompromised patients, and about 90,000 deaths each year [
+     ].
+     <italic>
+      P. aeruginosa
+     </italic>
+     biofilm is found in the lungs of cystic fibrosis patients, surgical sites, chronic wounds, mechanical heart valves, central venous catheters and Foley catheters [
+     ].
+     <italic>
+      P. aeruginosa
+     </italic>
+     is capable of building biofilm not only on biotic or abiotic surfaces but also on air–liquid interfaces [
+     ]. Antibiotic treatment for
+     <italic>
+      P. aeruginosa
+     </italic>
+     infections is a matter of concern because it is not susceptible to many antibiotics [
+     ]. The imprudent or excessive use of antibiotics exacerbates the emergence of multidrug resistant
+     <italic>
+      P. aeruginosa
+     </italic>
+     [
+     ].
+    </p>
+    <p>
+     Intrinsic and acquired resistances of
+     <italic>
+      P. aeruginosa
+     </italic>
+     are stable and result from irreversible genetic changes [
+     ]. By contrast, adaptive antibacterial resistance is temporary and result in gene or protein expression changes due to exposures to sub-lethal doses of antibiotics [
+     ,
+     ].
+     <italic>
+      P. aeruginosa
+     </italic>
+     treated with sub-inhibitory concentrations of antibacterial agents for extended time periods resulted in alterations of gene expression profiles, which allowed the microorganisms to survive following exposure to normally efficacious doses of antibiotics [
+     ]. The induction of adaptive resistance through prolonged courses with antibiotics reduced antibiotic effectiveness, resulting in the failure of antibacterial therapy [
+     ].
+    </p>
+    <p>
+     In order to control biofilm colonization, the internal and external surfaces of venous catheters may be coated with antibiotics [
+     ,
+     ,
+     ]. Two commercially available catheters impregnated with combinations of clindamycin/rifampicin and minocycline/rifampicin have been approved by the US Food and Drug Administration (FDA) [
+     ,
+     ]. It has been reported that clindamycin/rifampicin-coated and minocycline/rifampicin-coated catheters had no effect on the growth of
+     <italic>
+      P. aeruginosa
+     </italic>
+     [
+     ,
+     ,
+     ]. These results have increased concern over the possible contamination of
+     <italic>
+      P. aeruginosa
+     </italic>
+     and the development of microbial resistance to the antibiotics-impregnated in the catheters. Therefore, it is important to understand how
+     <italic>
+      P. aeruginosa
+     </italic>
+     may overcome these antibiotic-impregnated catheters and whether the presence of the antimicrobial in devices can enable antibacterial resistance.
+    </p>
+    <p>
+     To the best of our knowledge, no studies have been conducted to investigate the potential of adaptive resistance and cross-resistance to antibiotics after exposure of
+     <italic>
+      P. aeruginosa
+     </italic>
+     to the antibiotic-coated catheters. In this study, we investigated the response of
+     <italic>
+      P. aeruginosa
+     </italic>
+     PAO1 to the antibiotics eluted from clindamycin/rifampicin-impregnated catheters (CR-IC) by using genetic, minimum inhibitory concentration (MIC) and proteomic analyses to evaluate the potential development of adaptive-resistance and cross-resistance.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec2-antibiotics-10-00752">
+    <title>
+     2. Materials and Methods
+    </title>
+    <sec id="sec2dot1-antibiotics-10-00752">
+     <title>
+      2.1. In Vitro Continuous Culture
+     </title>
+     <p>
+      Overnight-grown
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PAO1,
+      <italic>
+       Staphylococcus aureus
+      </italic>
+      strains ATCC 25923 and ATCC BAA-1717 were inoculated into fresh tryptic soy broth (TSB) (Thermo Fisher Scientific, Waltham, MA, USA) and grown at 37 °C for 7 h. The bacterial culture was centrifuged (Eppendorf, Framingham, MA, USA) at 10,000 rpm at 4 °C for 10 min and washed three times with phosphate-buffered saline (PBS) (Thermo Fisher Scientific). The bacterial cell density was adjusted to 1.3 × 10
+      CFU/mL and inoculated into a CDC biofilm bioreactor (BioSurface Technologies, Bozeman, MT, USA) containing clindamycin/rifampicin-impregnated catheters (CR-IC, Integra LifeSciences, Plainsboro, NJ, USA) or control catheters (without antibiotic impregnation). The culture was stirred at 150 rpm at 37 °C for 144 h and the fresh medium continuously flowed through the reactor at 15 mL/min.
+     </p>
+     <p>
+      Following the completion of the continuous culture, cells were taken for proteomic and phenotypic analyses. For the bacterial count, 10 mm catheter segments were washed with PBS three times, sonicated for 5 min at 40 kHz and vigorously vortexed for 5 min before and after sonication. Then, the bacterial suspension was serially diluted and plated in triplicate onto tryptic soy agar (TSA) plates and the number of CFU was counted. The bacterial contamination was verified by colony morphology, VITEK 2 GN I card (bioMerieux, Durham, NC, USA) and MALDI Biotyper CA System (Bruker Daltonics, Billerica, MA, USA).
+     </p>
+    </sec>
+    <sec id="sec2dot2-antibiotics-10-00752">
+     <title>
+      2.2. Measurement of Growth Curves
+     </title>
+     <p>
+      Strain PAO1 culture was suspended in PBS after overnight growth and adjusted to an optical density at 600 nm of 0.1. This suspension was diluted 1:100 in TSB (control) or TSB containing various mixtures of clindamycin and rifampicin (3.2 and 0.4, 6.4 and 0.8, 12.8 and 1.6 and 25.6 and 3.2 µg/mL, respectively) in a 96-well plate. The 96-well plate was incubated in a Synergy 2 Multi-Mode Microplate Reader (BIOTEK Instruments, Winooski, VT, USA) at 37 °C and then shaken continuously. Bacterial growth was monitored by reading an absorbance of 600 nm every 30 min for 24 h. All experiments were performed in triplicate.
+     </p>
+    </sec>
+    <sec id="sec2dot3-antibiotics-10-00752">
+     <title>
+      2.3. Antimicrobial Susceptibility Testing
+     </title>
+     <p>
+      At the end of the continuous culture in the CDC biofilm bioreactor,
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PAO1 was harvested and inoculated on Mueller-Hinton agar (MHA, Hardy Diagnostics, Santa Maria, CA, USA) plates. After 24 h incubation at 37 °C, the colonies were suspended in 0.45% sterile sodium chloride solution and the turbidity was adjusted to a McFarland 0.5 standard by using the Densichek system (bioMérieux). VITEK 2 AST-GN69 and AST-XN06 antimicrobial susceptibility cards (bioMérieux) were placed in the VITEK 2 instrument and read by fluorescence measurement. Antimicrobial susceptibility of clindamycin and rifampicin was measured by the broth dilution method described by Shakir et al. [
+      ].
+     </p>
+    </sec>
+    <sec id="sec2dot4-antibiotics-10-00752">
+     <title>
+      2.4. Detection of Mutations
+     </title>
+     <p>
+      The target genes, such as
+      <italic>
+       ampC
+      </italic>
+      (positions and amplicon sizes: 921,961–921,147, 815 bp and 920,537–921,331, 795 bp),
+      <italic>
+       gyrB
+      </italic>
+      (position and amplicon size: 5321–5831, 511 bp),
+      <italic>
+       oprD
+      </italic>
+      (positions and amplicon sizes: 4,469,794–4,470,534, 741 bp and 4,470,514–4,471,184, 671 bp) and
+      <italic>
+       rpoB
+      </italic>
+      (position and amplicon size: 736,499–737,288, 790 bp), associated with avibactam, ceftazidime, ceftolozane, fluoroquinolones, imipenem, meropenem, rifampicin and tazobactam resistance were amplified by PCR and purified by the QIAquick PCR purification kit (Qiagen, Germantown, MD, USA). Both strands of the purified PCR amplicons were sequenced and the mutations were analyzed using EditSeq, MegAlign and SeqMan programs from the DNASTAR Lasergene 12 package (DNASTAR, Madison, WI, USA). Mutations of the protein sequences were compared to strain PAO1 reference protein sequences by BLASTx (
+      <uri ns0:href="http://blast.ncbi.nlm.nih.gov/Blast.cgi">
+       http://blast.ncbi.nlm.nih.gov/Blast.cgi
+      </uri>
+      ).
+     </p>
+    </sec>
+    <sec id="sec2dot5-antibiotics-10-00752">
+     <title>
+      2.5. Determination of Efflux Pump Activity
+     </title>
+     <p>
+      Accumulation of ethidium bromide was assayed as described previously [
+      ]. Strain PAO1 was grown in TSB overnight and washed with 50 mM sodium phosphate buffer (pH 7.0). In order to measure the presence of active efflux, ethidium bromide (10 µg/mL) was added to control (TSB only) and antibiotic-containing wells (6.4 µg/mL clindamycin and 0.8 µg/mL rifampicin) and fluorescence was read every 5 min at excitation 500 nm and emission 590 nm for 60 min in a fluorescence microplate reader using SoftMax Pro software (Molecular Devices, San Jose, CA, USA). All experiments were performed in triplicate. Error bars indicate standard deviation from the mean.
+     </p>
+    </sec>
+    <sec id="sec2dot6-antibiotics-10-00752">
+     <title>
+      2.6. Invasion Assay
+     </title>
+     <p>
+      HeLa cells (ATCC CCL-2) were grown to approximately 5 × 10
+      cells in a 24-well plate at 37 °C with 5% CO
+      <sub>
+       2
+      </sub>
+      . Strain PAO1 harvested from the continuous culture was inoculated into TSB and grown to mid-logarithmic phase. After centrifugation and washing, strain PAO1 was added to a monolayer of epithelial cells at a multiplicity of infection (MOI) of 100:1. Bacterial numbers spiked to HeLa cells were confirmed by a plate count method. The human cells were incubated for 2 h and washed with PBS. Thereafter, 300 μg/mL of gentamicin (Sigma-Aldrich, St. Louis, MO, USA) was added to the growth medium and incubated for another 2 h. Triton X-100 (0.25%, Sigma-Aldrich) was employed to lyse the monolayers and the released intracellular bacteria were counted. The invasion percentage was calculated by dividing the number of invading cells of strain PAO1 by the initial number of inoculated bacteria. The assays were performed in quadruplicate and data were represented as mean ± standard deviation.
+     </p>
+    </sec>
+    <sec id="sec2dot7-antibiotics-10-00752">
+     <title>
+      2.7. Field Emission Scanning Electron Microscope (FESEM)
+     </title>
+     <p>
+      Harvested planktonic and biofilm cells were rinsed three times with PBS for 10 min and dehydrated using 15%, 50%, 90% and 95% ethanol for 10 min and 100% ethanol for 30 min. The cells were dried in an Autosamdri-815 Series A automatic critical point drier (Tousimis Research Corporation, Rockville, MD, USA) and sputter-coated using gold (Denton Vacuum, Moorestown, NJ, USA). FESEM images were obtained by a Zeiss-Merlin FESEM (Carl Zeiss Microscopy, Thornwood, NY, USA).
+     </p>
+    </sec>
+    <sec id="sec2dot8-antibiotics-10-00752">
+     <title>
+      2.8. Protein Extraction and Liquid Chromatography-Tandem Mass Spectrometry
+     </title>
+     <p>
+      Planktonic and biofilm cells were harvested after in vitro continuous culture. Cells were placed in Lysing Matrix B tubes (MP Biomedicals, Santa Ana, CA, USA) containing 100 µL of BugBuster Plus Lysonase kit (Millipore Sigma, Burlington, MA, USA). Using an FP120 reciprocator (MP Biomedicals), cells were broken down by bead beating and boiling. The concentration of extracted protein was quantified by a Micro BCA Protein Assay Kit (Thermo Fisher Scientific). Reconstitution of the protein sample was performed in 5% SDS, 50 mM Tris-HCl (pH 8.0), 5 mM Tris (2-carboxyethyl) phosphine and 20 mM 2-chloroacetamide. Then, the sample was digested by the single-pot solid-phase-enhanced sample preparation method and analyzed by ultra-high performance liquid chromatography-tandem mass spectrometry (UHPLC-MS/MS) (Thermo Fisher Scientific) [
+      ]. LC was carried out on an EASY-nLC 1200 (Thermo Fisher Scientific) connected to a Q-Exactive HF-X quadrupole-Orbitrap mass spectrometer (Thermo Fisher Scientific). MS was set to perform with the top 12 ions and a scan range of 350–1400
+      <italic>
+       m
+      </italic>
+      /
+      <italic>
+       z
+      </italic>
+      . Normalized collision energy was set at 27, automatic gain control to 3 × 10
+      , maximum fill MS to 45 ms and maximum fill MS/MS to 22 ms. Data processing and library searching were performed as described by Jean-Toussaint et al. [
+      ]. MS1-based isotopic features were detected and peptide peak areas were calculated using OpenMS (
+      <uri ns0:href="http://dx.doi.org/10.1186/1471-2105-9-163">
+       http://dx.doi.org/10.1186/1471-2105-9-163
+      </uri>
+      ). Proteins were required to have one or more unique peptides across the analyzed samples with E-value scores of 0.0001 or less. If a fold ratio between the control and treated groups was ≥2.0 (up) and ≤0.5 (down), they were considered to be differentially expressed. The Cluster of Orthologous Groups (COG) was employed to classify the function of proteins [
+      ] and the Kyoto Encyclopedia of Genes and Genomes (KEGG) database was used to map the potential pathway [
+      ]. Protein interaction network analysis was performed using STRING version 11.0 (
+      <uri ns0:href="http://string-db.org/">
+       http://string-db.org/
+      </uri>
+      ) [
+      ]. The heatmap function in R (
+      <uri ns0:href="https://www.r-project.org/">
+       https://www.r-project.org/
+      </uri>
+      ) was used to build a heatmap of the proteomic data.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec3-antibiotics-10-00752" sec-type="results">
+    <title>
+     3. Results and Discussion
+    </title>
+    <sec id="sec3dot1-antibiotics-10-00752">
+     <title>
+      3.1. Cell Morphology and Antimicrobial Susceptibility of P. aeruginosa PAO1
+     </title>
+     <p>
+      <italic>
+       P. aeruginosa
+      </italic>
+      PAO1 survived well when it was grown with CR-IC in the continuous culture but
+      <italic>
+       S. aureus
+      </italic>
+      strains ATCC 25923 and ATCC BAA-1717 did not. After 144 h of culture, the average counts of strain PAO1 biofilm cells per control segment and CR-IC segment were 7.31 ± 0.23 and 7.33 ± 0.42 log CFU, respectively. Morphologies of strain PAO1 biofilm cells grown on catheter sections and the air–liquid interface were compared (
+      A–D). The biofilm cells grown with CR-IC were elongated up to approximately 25 µm, showing swollen and filamentous growth. Moreover, the biofilm cells formed on CR-IC were more elongated than those on the air–liquid interface. Elongation of biofilm cells has been observed when Gram negative bacteria, including
+      <italic>
+       Escherichia coli
+      </italic>
+      and
+      <italic>
+       P. aeruginosa,
+      </italic>
+      were exposed to antibacterial agents [
+      ,
+      ]. By modifying its cell morphology, strain PAO1 probably responded to stress caused by the antibiotics released from CR-IC.
+     </p>
+     <p>
+      The MICs of aminoglycosides (amikacin, gentamicin and tobramycin), cephalosporins (cefazolin, cefepime, cefotaxime and ceftazidime), carbapenems (doripenem, imipenem and meropenem), penicillin (piperacillin), fluoroquinolones (ciprofloxacin, levofloxacin and norfloxacin) and glycylcycline (tigecycline), including clindamycin and rifampicin against strain PAO1 cultivated in the presence of control catheters and CR-IC, were not significantly different (
+      ). Although antibiotics eluted from CR-IC could not change the MICs of
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      strain PAO1, they exhibited an antibacterial effect with large inhibition zone diameters (10–15 mm) against
+      <italic>
+       S
+      </italic>
+      .
+      <italic>
+       aureus
+      </italic>
+      ATCC 25923 over 144 h. This indicates that antibiotics eluted from CR-IC do not possess the antibacterial potency to increase the MICs against
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      but can sustain antibacterial activity against
+      <italic>
+       S
+      </italic>
+      .
+      <italic>
+       aureus
+      </italic>
+      . Mutations in
+      <italic>
+       ampC
+      </italic>
+      ,
+      <italic>
+       gyrB
+      </italic>
+      ,
+      <italic>
+       oprD
+      </italic>
+      and
+      <italic>
+       rpoB
+      </italic>
+      were not found. These genes were known to have mutations when
+      <italic>
+       P. aeruginosa
+      </italic>
+      was exposed to avibactam, ceftazidime, ceftolozane, fluoroquinolones, imipenem, meropenem, rifampicin and tazobactam [
+      ].
+     </p>
+    </sec>
+    <sec id="sec3dot2-antibiotics-10-00752">
+     <title>
+      3.2. Proteomic Insights into the Global Cellular Response to Clindamycin/Rifampicin
+     </title>
+     <sec id="sec3dot2dot1-antibiotics-10-00752">
+      <title>
+       3.2.1. Global Overview of the Proteome Data
+      </title>
+      <p>
+       From the proteomic data analysis, 694 and 556 proteins were identified from the planktonic (CP) and biofilm (CB) cells, respectively, grown with control catheters and 652 and 467 proteins from the planktonic (AP) and biofilm (AB) cells, respectively, grown with CR-IC (
+       A). A Venn diagram indicated that 364 proteins were commonly identified in all comparison groups, whereas 62, 119, 26 and 13 proteins were uniquely detected in CP, AP, CB and AB, respectively. The heatmap showed that proteins identified from the planktonic and the biofilm cells were clustered into each single branch, respectively (
+       B). Differentially regulated proteins of 545 in planktonic cells were identified, 326 of which displayed upregulation and 219 displayed downregulation (
+       ). On the other hand, 372 proteins were differentially expressed in biofilm cells containing 137 that were upregulated and 235 that were downregulated (
+       ).
+      </p>
+      <p>
+       According to COG functional category analysis [
+       ], the differentially expressed proteins (DEPs) were classified into four main functional categories: (1) Cellular processes and signaling; (2) Information storage and processing; (3) Metabolism; and (4) Poorly characterized (
+       A,B). There were more proteins in each COG category that were upregulated than downregulated in AP/CP (
+       A); however, in the COG analysis of AB/CB, more proteins were repressed (
+       B). The predominant COGs of upregulated proteins in AP/CP were energy production and conversion (C, 78); amino acid transport and metabolism (E, 72); and translation, ribosomal structure and biogenesis (J, 56), while those in under-expressed proteins were cell motility (N, 40); intracellular trafficking; secretion and vesicular transport (U, 35); and function unknown (S, 27). The main COGs of downregulated proteins in AB/CB included signal transduction mechanisms (T, 39); general function prediction only (R, 34); and carbohydrate transport and metabolism (G, 30), while the most upregulated proteins were found in energy production and conversion (C, 49).
+      </p>
+      <p>
+       While upregulated and downregulated proteins of AP/CP were mapped into 99 and 64 KEGG pathways, respectively, AB/CB revealed 68 upregulated and 65 downregulated pathways (
+       ). Among five main KEGG categories including “metabolism”, “cellular processes”, “environmental information processing”, “genetic information processing” and “human diseases”, the “metabolism” pathway accounted for the majority of DEPs. Within the metabolism group, in addition to “global and overview map” category, the “carbohydrate metabolism” and “amino acid metabolism” categories were the most populated. In general, more proteins were enriched in upregulated proteins of AP/CP than AB/CB KEGG pathways, showing elevated dynamic responses of the planktonic cells than the biofilm cells to the released antibiotics from CR-IC, as shown in the COG data. Interestingly, cell motility (bacterial secretion system and flagellar assembly), membrane transport (bacterial secretion system, ATP-binding cassette (ABC) transporters and phosphotransferase system) and cellular community (quorum sensing and biofilm formation) pathways had more downregulated proteins than upregulated proteins in both AP/CP and AB/CB (
+       A,B). Clindamycin and rifampicin eluted from CR-IC promoted the pathways associated with metabolism and genetic information processing in the planktonic cells, but repressed the pathways associated with environmental information processing and cellular processes in the biofilm cells. A mixture of clindamycin (3.2 µg/mL) and rifampicin (0.4 µg/mL) inhibited the planktonic growth of strain PAO1 and this phenomenon was significant as the concentration increased (
+       A). This result supports the observation that the sublethal pressure of clindamycin and rifampicin eluted from CR-IC results in changes in the proteome profile mentioned above.
+      </p>
+     </sec>
+     <sec id="sec3dot2dot2-antibiotics-10-00752">
+      <title>
+       3.2.2. Antibiotic Resistance Proteins of CR-IC-Treated Planktonic Cells
+      </title>
+      <p>
+       From the planktonic cells of strain PAO1, 21 antibacterial resistance proteins were identified, including 14 upregulated and 2 downregulated proteins (
+       ) [
+       ]. These DEPs primarily belonged to porins, efflux pumps, translation and transcription. Porins are outer membrane proteins that mediate cellular permeability and antibiotic resistance [
+       ,
+       ,
+       ].
+       <italic>
+        P. aeruginosa
+       </italic>
+       has four different classes of porins: nonspecific (OprF), specific (OprB, OprD, OprE, OprO and OprP), gated (OprC, OprH and FpvA) and efflux porins (OprM, OprN and OprJ) [
+       ]. FpvA, OprB, PA2291 (encoding OprB2) and OprH were only expressed in the planktonic cells challenged with CR-IC. OprB and PA2291 are outer membrane channel porins that play essential roles in glucose uptake and tobramycin resistance in
+       <italic>
+        P. aeruginosa
+       </italic>
+       [
+       ,
+       ]. FpvA, a ferripyoverdine receptor, and OprH, a low Mg
+       inducible porin, have been reported to be involved in resistance to a thiopeptide antibiotic, thiostrepton, polymyxin B and gentamicin [
+       ]. OprD, which is a specific porin for translocating amino acids, peptides and carbapenem [
+       ], was highly upregulated at a fold ratio of 13.2. However, OprE (OccK8), a channel-forming outer membrane porin related to cefepime, ceftazidime and chromate resistance, which is induced under oxygen-depleted conditions, was downregulated [
+       ]. In our study, the presence of CR-IC led to the differential expression of specific and gated porin groups, such as OprB, OprB2, OprD, OprE, OprH and FpvA, which have been reported to cause resistance to a variety of antibiotics [
+       ,
+       ,
+       ,
+       ,
+       ]. Although OprF is known as the major porin in
+       <italic>
+        P. aeruginosa
+       </italic>
+       [
+       ], it was not significantly expressed (fold ratio 1.41). Treatment of
+       <italic>
+        E. coli
+       </italic>
+       ,
+       <italic>
+        Aeromonas hydrophila
+       </italic>
+       and
+       <italic>
+        Acinetobacter baumannii
+       </italic>
+       strains with low concentrations of chloramphenicol and tetracycline to inhibit protein synthesis changed the expression of porin proteins and contributed to an increase in antibacterial resistance [
+       ,
+       ,
+       ].
+      </p>
+      <p>
+       Multidrug efflux systems for pumping antibacterial molecules out of the bacterial cell reduce accumulation of antimicrobials within the cell [
+       ]. MexAB-OprM and MexXY-OprM efflux pump operons of
+       <italic>
+        P. aeruginosa
+       </italic>
+       have been reported to export incoming antibacterial compounds across the membranes and contribute to the resistance against macrolides, β-lactams, tetracycline and chloramphenicol [
+       ,
+       ]. In this study, expression of OprM was significantly increased at a fold ratio of 18.4. Prior work demonstrated that
+       <italic>
+        P. aeruginosa
+       </italic>
+       cultivated under azithromycin, colistin and tobramycin over-expressed OprM [
+       ,
+       ]. However, MexA, MexB, MexX and MexY were either not differentially regulated (fold ratio 0.71) or not identified. Expression of OpmB, which is an outer membrane efflux protein that confers resistance to ampicillin, aztreonam, carbenicillin, macrolides, novobiocin and tetracycline [
+       ], was suppressed at the highest fold ratio. Collectively, the antibiotics eluted from CR-IC, despite the low concentrations of clindamycin (0.2–24.58 µg/µL) and rifampicin (0.01–3.25 µg/µL) [
+       ], are considered to selectively influence various porin and efflux pump proteins, which is consistent with the high efflux activities of strain PAO1 under the antibiotic pressure (
+       B).
+      </p>
+      <p>
+       Ribosomes are central components of protein biosynthesis and versatile targets for macrolides [
+       ]. The 30S (RpsJ) and 50S (RplF) ribosomal proteins, as well as translation elongation factor proteins (TufB and FusA1), were abundantly increased under antibiotic stress, which implies the induction of the translational process by the binding of the released clindamycin of CR-IC to the ribosomal subunits. These results are in agreement with Ding et al. [
+       ], who found that the same ribosomal proteins of strain PAO1 were up-regulated following sublethal azithromycin treatment. Moreover, many ribosomal proteins, including 30S, 50S and the translation elongation factor, were over-expressed in tetracycline-exposed
+       <italic>
+        A. hydrophila
+       </italic>
+       [
+       ].
+      </p>
+      <p>
+       RpoB and RpoC are β subunits of DNA-directed RNA polymerase, which is the pivotal enzyme for transcription regulation [
+       ]. Rifampicin binds to RpoB and hinders mRNA elongation [
+       ]. We found that exposure of CR-IC, including clindamycin and rifampicin, to
+       <italic>
+        P. aeruginosa
+       </italic>
+       resulted in a significant up-expression of RpoB (fold ratio 13.15) and RpoC (fold ratio 6.81), but no mutation was detected. Similarly, when
+       <italic>
+        Mycobacterium tuberculosis
+       </italic>
+       or
+       <italic>
+        M. smegmatis
+       </italic>
+       was treated with sub-inhibitory doses of rifampicin, the expression levels of RpoB and RpoC were significantly increased [
+       ,
+       ]. In our results, the eluted rifampicin concentration was not high enough to cause mutations but influenced the transcription processes by targeting RpoB and RpoC proteins.
+      </p>
+      <p>
+       Construction of a functional protein–protein network using STRING in DEPs [
+       ] revealed two distinct clusters (
+       A). The proteins of the two clusters were grouped into porin and efflux pump and transcription and translation proteins, respectively. Notably, strong upregulation (fold ratio 6.6) of FabV, which is an enoyl-acyl-carrier-protein reductase that is responsible for triclosan resistance [
+       ], was observed, although not linked to any STRING cluster.
+      </p>
+     </sec>
+     <sec id="sec3dot2dot3-antibiotics-10-00752">
+      <title>
+       3.2.3. Virulence Proteins of CR-IC-Treated Planktonic Cells
+      </title>
+      <p>
+       A total of 46 virulence proteins, including 15 upregulated and 22 downregulated proteins from 244
+       <italic>
+        P. aeruginosa
+       </italic>
+       PAO1 virulence protein database [
+       ], were found from the control and treated planktonic cells (
+       ). STRING network analysis of differentially expressed virulence proteins upon the prolonged exposure of CR-IC to the planktonic cells found that three major protein clusters, containing flagella, alginate production and pyoverdine production, were connected to one another (
+       B). However, types II and III secretion systems and type IV pili formed independent clusters. MucA, which is an anti-sigma factor [
+       ], was found to be the most interactive protein connecting the three clusters. It is involved in alginate biosynthesis and flagella motility in
+       <italic>
+        P. aeruginosa
+       </italic>
+       [
+       ] and STRING network analysis clearly demonstrated its functional role. Flagella are pivotal virulence factors because they facilitate adherence of bacteria to host cell tissues and bacterial movement toward nutrients [
+       ]. By the type III secretion system, flagellar proteins are pumped from the inside of the cell to the outside [
+       ]. Early investigations showed that the exposure of bacteria to sub-inhibitory concentrations of antibacterial agents repressed flagellar expression [
+       ,
+       ]. Furthermore, sub-lethal concentrations of rifampicin or macrolides interfered with the production of flagellar proteins in
+       <italic>
+        P. aeruginosa, Proteus mirabilis
+       </italic>
+       and
+       <italic>
+        Salmonella
+       </italic>
+       Typhimurium [
+       ,
+       ]. Consistent with these previous reports, most flagellar proteins, including flagella transcriptional regulator (FleQ), flagella biosynthesis (FliO and FlgM) and flagella basal body (FliD, FliF, FliH, FliI, FlgK and FlgL) proteins, were downregulated.
+      </p>
+      <p>
+       The type III secretion system of
+       <italic>
+        P. aeruginosa
+       </italic>
+       is reported to antagonize flagellar biosynthesis [
+       ], which is in agreement with our result that type III regulatory (PcrH) and type III translocator outer membrane (PopD) proteins were only expressed in the CR-IC-treated planktonic cells. Type I through VI secretion systems of
+       <italic>
+        P. aeruginosa
+       </italic>
+       play a role in delivering the proteins into the host or bacterial cells [
+       ]. Both type II and VI secretion proteins, such as XcpP, XcpT, TagQ1 and TssB1, were suppressed when the planktonic cells were continuously adapted to the eluted antimicrobials of CR-IC. Our results are in contrast to the previous reports of other investigators who reported an over-expression of proteins related to type II and VI secretion systems in other Gram-negative bacteria after treatment with antibacterial compounds [
+       ,
+       ,
+       ,
+       ]. Although many type IV pili proteins such as ChpA, PilA, PilF, PilG, PilH, PilJ, PilO and FimV were identified, they were neither mapped in the STRING network nor differentially regulated (fold ratios 0.56–1.21). Interference with the assembly of type IV pili on the surface of
+       <italic>
+        P. aeruginosa
+       </italic>
+       treated with a sub-lethal concentration of macrolide has been reported and some researchers have noted an over-expression of PilA, PilH and PilY1 [
+       ,
+       ,
+       ].
+      </p>
+      <p>
+       Alginate has been shown to be involved in the resistance to antibiotics, the host immune system and biofilm formation in
+       <italic>
+        P. aeruginosa
+       </italic>
+       [
+       ]. Previous reports revealed that, following exposure to macrolides and epigallocatechin gallate, alginate biosynthesis genes were under-expressed [
+       ,
+       ]. However, our results were unique in the sense that we observed a downregulation of alginate regulatory proteins (AlgP and MucB) but an upregulation of an alginate structural protein (AlgC) and alginate regulatory proteins (AlgQ and MucA). Phenazine (PhzB1 and PhzB2) and pyoverdine (PvdL, PvdO, PvdP and PvdQ) biosynthesis proteins were differentially expressed with varied fold changes.
+      </p>
+      <p>
+       Invasion into human cervical epithelial adenocarcinoma cells by strain PAO1 cells harvested from the control and CR-IC-treated cultures was compared (
+       C). CR-IC-treated planktonic and biofilm cells had levels of invasion significantly higher than the control (
+       <italic>
+        p
+       </italic>
+       &lt; 0.05). Taken together, our results indicate that the antibiotics released from CR-IC not only altered the phenotypic invasion potential to the HeLa epithelial cell lines but also selectively influenced cell-associated and secreted virulence proteins, including type IV pili, flagella, alginate, pyoverdine, phenazine and protein secretion systems.
+      </p>
+     </sec>
+     <sec id="sec3dot2dot4-antibiotics-10-00752">
+      <title>
+       3.2.4. Antibiotic Resistance Proteins of CR-IC-Treated Biofilm Cells
+      </title>
+      <p>
+       Compared to the planktonic cells, fewer antibacterial resistance proteins (11 proteins) were identified from the biofilm cells that were cultured with CR-IC (
+       ). Among seven DEPs, six were upregulated. Even though most proteins were identified in the biofilm cells, except RpsL which were commonly found in the planktonic cells, many proteins found in the planktonic cells such as FabV, FusA2, MexA, OpmB, OprB, OprB2, OprD, OprE and RpoB were not identified in the biofilm cells. These outcomes suggest that the biofilm cells responded in different manners compared to how the planktonic cells responded to the antibiotic pressure from CR-IC.
+      </p>
+      <p>
+       STRING network analysis of seven differentially expressed antibacterial resistance proteins in the biofilm showed a single cluster composed of six proteins associated with transcription (Rho and RpoC), translation (FusA1 and TufB) and ribosomal proteins (RpsJ and RpsL) (
+       C). RpsL and OprM were expressed only in the biofilm cells under the given antibiotic stress, suggesting that they are the key proteins responding to the antibiotics released from the catheters. It is interesting that RpsL, upon conferring resistance to streptomycin, was highly over-expressed under macrolide and rifampicin stresses [
+       ]. In contrast to the planktonic cells, where many porin proteins were over-expressed, only OprM was upregulated in the biofilm cells. However, OprM did not interact with the cluster. We noticed that fold ratios of several proteins between the planktonic and the biofilm cells were generally decreased in RpoC (fold ratio from 6.8 to 2.7), RpsJ (fold ratio from 19.1 to 2.2), TufB (fold ratio from 3.5 to 2.1), RplF (fold ratio from 3.2 to 1.7) and Rho (fold ratio from 6.6 to 0.08). The reduced expression of these transcriptional and translational proteins may imply the slow adaptation of the biofilm cells with reduced protein synthesis to the antibiotic stress caused by CR-IC.
+      </p>
+     </sec>
+     <sec id="sec3dot2dot5-antibiotics-10-00752">
+      <title>
+       3.2.5. Virulence Proteins of CR-IC-Treated Biofilm Cells
+      </title>
+      <p>
+       From the strain PAO1 biofilm cells adapted to clindamycin and rifampicin released from CR-IC, 45 virulence proteins were identified and contained 9 upregulated and 15 downregulated proteins (
+       ). Although more antibiotic resistance proteins were identified in the planktonic cells than compared to the biofilm cells, there were no significant differences between the total number of identified virulence proteins in the planktonic and the biofilm cells. The most remarkable difference in virulence proteins between the planktonic and the biofilm cells was the smaller number of proteins (PvdF and PA2393) related to alginate and pyoverdine biosynthesis found in the biofilm cells. Likewise, in the proteomic study of Park et al. that compared planktonic and biofilm cells, various virulence-associated proteins were found less during biofilm growth [
+       ].
+      </p>
+      <p>
+       STRING network analysis revealed three independent clusters that consisted of 21 proteins (
+       D). The first two clusters are primarily composed of 11 proteins linked to type IV pili or fimbriae (FimU, PilA, PilF, PilO and PilX) and flagella (FlgK, FliF, FliN and MotB) proteins. Most of them exhibited decreased expression in CR-IC-adapted biofilm cells compared to those in the unadapted cells, as the planktonic cells showed. ChpA interacted with the highest number of proteins, including FlgK, FliF, FliN, MotB, PilA, PilO and XcpP, suggesting that it may play a paramount role in virulence upon the antibiotic adaptation of the biofilm cells. The production, assembly and twitching motility in type IV pili are controlled by various signal transduction systems, including a chemosensory (Chp) system, in
+       <italic>
+        P. aeruginosa
+       </italic>
+       and one of the central signaling components of the Chp system is ChpA [
+       ]. Therefore, it indicates that the downregulation of ChpA is closely associated with the suppression of type IV pili proteins. Major protein components of the second cluster in STRING network are type III secretion system (ExoT, PcrH, PopB, PopD and PscI), which are differentially expressed. Interestingly, we observed that ExoT and PscI proteins were not identified in the proteome analysis of the planktonic cells, but they were tremendously over-expressed in the biofilm cells. Moreover, the proteins PopD and PcrH that over-expressed in the planktonic cells at the highest fold ratio were also identified in the biofilm cells but with the decreased fold ratios of 0.41 and 2.5, respectively. There were conflicting reports regarding the alteration of type III secretion proteins following the treatment of antibacterial agents [
+       ,
+       ]. Most type III secretion proteins were repressed following the treatment of
+       <italic>
+        P. aeruginosa
+       </italic>
+       biofilm with coumarin [
+       ], but exhibited the opposite result after azithromycin exposure [
+       ].
+      </p>
+     </sec>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec4-antibiotics-10-00752" sec-type="conclusions">
+    <title>
+     4. Conclusions
+    </title>
+    <p>
+     Phenotypic feedback of
+     <italic>
+      P. aeruginosa
+     </italic>
+     PAO1 after an exposure to antibiotics included morphological changes and increased invasion potency. Virulence proteins including flagella, pili, alginate, pyoverdine, phenazine and protein secretion pathways were distinctly over-expressed in both planktonic and biofilm cells. The invasion capability for human cervical cancer cells was also increased, suggesting a potential risk in the clinical use of CR-IC. CR-IC-treated cells changed their protein expression related to antibiotic resistance but not their phenotypic MICs. This difference between gene/protein expression and antibacterial resistance phenotype should be further studied to better understand the relationship between epigenetic factors and MIC.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

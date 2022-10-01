@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  None
+ </title>
+ <abstract>
+  <p id="P3">
+   During infection, some bacterial pathogens invade the eukaryotic cytosol and spread between cells of an epithelial monolayer. Intercellular spread occurs when these pathogens push against the plasma membrane, forming protrusions that are engulfed by adjacent cells. Here, we show that IpaC, a
+   <italic>
+    Shigella flexneri
+   </italic>
+   type 3 secretion system protein, binds the host cell-adhesion protein β-catenin and facilitates efficient protrusion formation.
+   <italic>
+    S. flexneri
+   </italic>
+   producing a point mutant of IpaC that cannot interact with β-catenin is defective in protrusion formation and spread. Spread is restored by chemical reduction of intercellular tension or genetic depletion of β-catenin, and the magnitude of the protrusion defect correlates with membrane tension, indicating that IpaC reduces membrane tension, which facilitates protrusion formation. IpaC stabilizes adherens junctions and does not alter β-catenin localization at the membrane. Thus,
+   <italic>
+    Shigella
+   </italic>
+   , like other bacterial pathogens, reduces intercellular tension to efficiently spread between cells.
+  </p>
+  <p id="P4">
+   <graphic ns0:href="nihms-1649679-f0006.jpg" orientation="portrait" position="anchor"/>
+  </p>
+  <p id="P5">
+   Duncan-Lowey et al. show that the intracellular pathogen
+   <italic>
+    Shigella flexneri
+   </italic>
+   overcomes membrane tension during cell-to-cell spread by the type 3 secreted protein IpaC. The binding of IpaC to the host cell-adhesion protein β-catenin promotes the initiation of plasma membrane protrusions that enable the movement of bacteria into adjacent cells.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="S1">
+    <title>
+     INTRODUCTION
+    </title>
+    <p id="P6">
+     Many cytosol-dwelling bacterial pathogens have evolved mechanisms of spreading directly from the cytosol of an infected cell (donor) into an uninfected adjacent cell (recipient). Intercellular spread enables pathogens to access new nutrients while avoiding immune clearance (
+     ;
+     ).
+     <italic>
+      Shigella flexneri
+     </italic>
+     , an intracellular Gram-negative bacterial pathogen, infects colonic epithelial cells, replicates, and subsequently spreads between cells of the epithelium (
+     ;
+     ). Intercellular spread is required for
+     <italic>
+      S. flexneri
+     </italic>
+     to cause disease and efficiently colonize the host (
+     ;
+     ;
+     ). Cytosolic
+     <italic>
+      S. flexneri
+     </italic>
+     polymerizes actin and moves in a directed manner to the cell periphery (
+     ;
+     ;
+     ), where it remodels the plasma membrane into pathogen-containing protrusions (
+     ;
+     ). Bacterium-containing protrusions are engulfed into a vacuole by recipient cells in a clathrin-dependent process (
+     ). Bacteria escape this vacuole into the cytosol of the donor cell (
+     ;
+     ;
+     ;
+     ), which enables repeated cycles of intercellular spread through the epithelial monolayer. The forces derived from actin-based motility are necessary for protrusion formation (
+     ), whereas other pathogen and host factors, including the type 3 secretion translocon pore proteins IpaB and IpaC and the type 3 effectors OspE1/2, IcsB, and VirA, are required for efficient intercellular spread (
+     ;
+     ,
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ). Understanding the molecular mechanisms by which these proteins contribute to spread will define the parameters necessary for bacterial spread.
+    </p>
+    <p id="P7">
+     Here, we show that the efficient formation of plasma membrane protrusions and intercellular spread by
+     <italic>
+      S. flexneri
+     </italic>
+     is dependent upon IpaC. We show that IpaC binds to the cell-cell adhesion protein β-catenin and that the IpaC-β-catenin interaction enabled the efficient formation of membrane protrusions. Substitution of an arginine residue in the C-terminal tail of IpaC abrogated the interaction of IpaC with b-catenin and consequently diminished protrusion formation and spread.
+     <italic>
+      Shigella
+     </italic>
+     infection perturbed cell junctional configurations in a manner that depended upon IpaC binding to β-catenin. Chemical reduction of membrane tension or β-catenin depletion rescued
+     <italic>
+      Shigella
+     </italic>
+     spread. The efficiency of protrusion formation correlated with membrane tension, indicating that the interaction of IpaC with β-catenin enables the generation of protrusions by reducing cell-cell tension at sites of spread.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="S2">
+    <title>
+     RESULTS
+    </title>
+    <sec id="S3">
+     <title>
+      The IpaC C-Terminal Tail Is Required for Efficient Intercellular Spread of
+      <italic>
+       S. flexneri
+      </italic>
+     </title>
+     <p id="P8">
+      During invasion by
+      <italic>
+       S. flexneri
+      </italic>
+      , the type 3 secreted protein IpaC interacts with intermediate filaments; this interaction is necessary for efficient bacterial docking onto host cells and for efficient translocation of effectors into the host cell cytosol (
+      ). Because the type 3 secretion system (T3SS) and the secreted protein IpaC are also required for
+      <italic>
+       S. flexneri
+      </italic>
+      to spread between cells (
+      ;
+      ;
+      ), we hypothesized that the interaction between IpaC and intermediate filaments might be required during spread. We tested the efficiency of spread for
+      <italic>
+       S. flexneri
+      </italic>
+      Δ
+      <italic>
+       ipaC
+      </italic>
+      -producing wild-type (WT) IpaC or an IpaC derivative that is unable to interact with intermediate filaments (IpaC R362W) (
+      ;
+      ;
+      ). IpaC R362W is efficiently secreted and, during invasion, forms normal-sized pores in the plasma membrane (
+      ,
+      ). Bacterial plaques formed in monolayers of mouse embryonic fibroblasts (MEFs) were smaller for
+      <italic>
+       S. flexneri
+      </italic>
+      Δ
+      <italic>
+       ipaC
+      </italic>
+      -producing IpaC R362W than for
+      <italic>
+       S. flexneri
+      </italic>
+      Δ
+      <italic>
+       ipaC
+      </italic>
+      -producing WT IpaC (
+      and
+      ). The number of plaques is a function of the efficiency of bacterial invasion, whereas the size of plaques is a function of the efficiency of bacterial spread. Surprisingly, the absence of intermediate filaments did not affect plaque size (
+      and
+      ), and the sizes of plaques formed by WT
+      <italic>
+       S. flexneri
+      </italic>
+      in Vim
+      and Vim
+      MEFs were not different (
+      ). Vimentin is the only intermediate filament expressed in these cells (
+      ;
+      ). Bacteria producing WT IpaC or IpaC R362W replicate at similar efficiencies in broth culture (
+      ) and inside cells (
+      and
+      ), indicating that the reduction in plaque size is not attributable to differences in bacterial growth rate.
+     </p>
+     <p id="P9">
+      <italic>
+       S. flexneri
+      </italic>
+      infects epithelial cells of the intestine, in which the predominant intermediate filaments are keratins rather than vimentin. As with MEFs (
+      –
+      ), the plaques formed in monolayers of Caco-2 cells, which express keratins, were smaller for bacteria producing IpaC R362W than for bacteria producing WT IpaC (
+      –
+      ). Also, as in MEFs, spread in Caco-2 cells occurred independent of intermediate filaments (
+      –
+      ). Altogether, these data show that the spread of
+      <italic>
+       S. flexneri
+      </italic>
+      is independent of intermediate filaments and dependent upon the presence of the IpaC R362.
+     </p>
+    </sec>
+    <sec id="S4">
+     <title>
+      IpaC Is Necessary for Efficient Formation of Plasma Membrane Protrusions
+     </title>
+     <p id="P10">
+      We assessed the efficiency of
+      <italic>
+       S. flexneri
+      </italic>
+      Δ
+      <italic>
+       ipaC
+      </italic>
+      -producing IpaC variants to form plasma membrane protrusions, an early step in intercellular spread. In HeLa cells, the percentage of intracellular bacteria located in membrane protrusions was markedly decreased for bacteria producing IpaC R362W, as compared to bacteria producing WT IpaC (
+      and
+      ), which demonstrates that IpaC is required for the formation of bacterium-containing membrane protrusions and that IpaC R362W is defective in this process. Given that forces derived from actin-based motility are required for the formation of membrane protrusions and, under heterologous experimental conditions, can be sufficient (
+      ;
+      ), we hypothesized that bacteria producing IpaC R362W might be defective in actin-based motility. To evaluate the efficiency of actin-based motility, we tracked intracellular bacteria with actin tails by using live microscopy in HeLa cells stably producing GFP-tagged actin (LifeAct). There was no difference in the speed of
+      <italic>
+       Shigella
+      </italic>
+      -producing IpaC R362W and
+      <italic>
+       Shigella
+      </italic>
+      -producing WT IpaC (
+      and
+      ). Moreover, the percentage of bacteria producing IpaC R362W with an actin tail was not different from that of bacteria producing WT IpaC (
+      –
+      ).
+     </p>
+     <p id="P11">
+      In addition, defects in other early postentry processes were not observed (
+      ). Bacteria producing IpaC R362W efficiently escaped from the vacuole into the cytosol (
+      ). They regulated effector secretion through the T3SS in a manner that is similar to WT IpaC both in the timing of effector secretion (
+      and
+      ) and in the magnitude of secretion activation (
+      and
+      ). Unlike an
+      <italic>
+       icsB
+      </italic>
+      mutant, they avoided recruitment of autophagy components similarly to bacteria producing WT IpaC (
+      ). Altogether, these data indicate that IpaC is required for the formation of plasma membrane protrusions and that
+      <italic>
+       S. flexneri
+      </italic>
+      Δ
+      <italic>
+       ipaC
+      </italic>
+      -producing IpaC R362W is impaired in spread due to a defect in its ability to form protrusions.
+     </p>
+    </sec>
+    <sec id="S5">
+     <title>
+      Cell-Cell Tension Is Reduced by
+      <italic>
+       S. flexneri
+      </italic>
+      in an IpaC-Dependent Manner
+     </title>
+     <p id="P12">
+      During infection by
+      <italic>
+       Listeria monocytogenes
+      </italic>
+      and
+      <italic>
+       Rickettsia parkeri
+      </italic>
+      , the secreted proteins Internalin C (
+      <italic>
+       L. monocytogenes
+      </italic>
+      ) and Sca4 (
+      <italic>
+       R. parkeri
+      </italic>
+      ) decrease cell-cell tension and enable the formation or resolution of protrusions (
+      ;
+      ). We hypothesized that IpaC may similarly facilitate protrusion formation by decreasing intercellular tension. To test this hypothesis, we measured junctional linearity of the plasma membrane during infection, as previously described (
+      ). Cells with normal membrane tension have straight membranes between adjacent cell-cell vertices, whereas cells in which cell-cell membrane tension is decreased have membranes that are both more curved and longer between points of cell contact. This assay is sensitive to multiple parameters, including cell density; to control for experimental variability, we infected WT Caco-2 cells seeded at the same density and maintained under identical conditions. Caco-2 cells infected with bacteria producing WT IpaC had membranes that curved more than membranes of cells infected with bacteria producing IpaC R362W or uninfected cells (
+      and
+      ), indicating that
+      <italic>
+       S. flexneri
+      </italic>
+      decreases cell-cell tension in an IpaC-dependent fashion.
+     </p>
+     <p id="P13">
+      Because cell-cell tension at the adherens junction is maintained by the cortical actomyosin network , we tested whether the IpaC-mediated reduction of actomyosin-mediated tension is required for protrusion formation. To do so, we inhibited myosin II, which causes cell-cell tension to be relieved (
+      ;
+      ). In HeLa cells, treatment with the myosin II inhibitor blebbistatin fully rescued protrusion formation of
+      <italic>
+       S. flexneri
+      </italic>
+      that produces IpaC R362W (
+      and
+      ) but did not affect protrusion formation by bacteria producing WT IpaC, demonstrating that protrusion formation requires IpaC-mediated reduction in membrane tension.
+     </p>
+     <p id="P14">
+      The membrane tension of cells is inversely proportional to their density in a monolayer (
+      ). We therefore hypothesized that the role of IpaC R362 in protrusion formation might be more pronounced in sub-confluent cells than in confluent cells. As with HeLa cells (
+      and
+      ) and MEFs (
+      ), protrusion formation in Caco-2 monolayers was more efficient for bacteria producing WT IpaC than for bacteria producing IpaC R362W (
+      and
+      ). Consistent with our hypothesis, bacteria were present in protrusions at higher rates in confluent cells (
+      ) than in sub-confluent cells (
+      ), and the relative defect in protrusion formation for bacteria producing IpaC R362W was less in confluent cells than in sub-confluent cells (
+      and
+      ). Altogether, these data indicate that IpaC reduces membrane tension in a manner that promotes protrusion formation.
+     </p>
+    </sec>
+    <sec id="S6">
+     <title>
+      <italic>
+       S. flexneri
+      </italic>
+      Spread Requires an Interaction of IpaC with β-Catenin
+     </title>
+     <p id="P15">
+      Catenin-cadherin networks maintain cell-cell tension and are integral for protecting against membrane stress (
+      ). Because IpaC interacts with the cell-cell adhesion protein β-catenin (
+      ), a component of these catenin-cadherin networks, we hypothesized that the disruption of cell-cell tension by IpaC may depend on its interaction with β-catenin and that IpaC R362 may be required for this interaction. To assess the efficiency of β-catenin binding to IpaC variants, we used a yeast-based protein-protein interaction assay (
+      ;
+      ;
+      ;
+      ). In this assay, a prey protein is tagged with mCherry and a bait protein is fused to the reovirus scaffold protein μNS, which forms inclusions bodies within the yeast cytosol (
+      ). The protein-protein interaction results in the formation of fluorescent puncta, and in the absence of an interaction, the mCherry signal is generally diffuse throughout the cell (
+      ). Co-expression of IpaC-mCherry and β-catenin-μNS resulted in fluorescent puncta in most yeast, whereas co-expression of IpaC R362W-mCherry and β-catenin-μNS resulted in diffuse mCherry signal with few puncta (
+      and
+      ). As noted previously, some yeast display background fluorescent foci in the absence of an interacting partner (
+      ;
+      ). IpaC folds normally in yeast, as puncta formation is observed when IpaC-mCherry is expressed with μNS fused to IpaC’s chaperone IpgC but not with μNS alone (
+      ). Thus, IpaC interacts with β-catenin, and this interaction requires IpaC R362.
+     </p>
+     <p id="P16">
+      We tested the impact of β-catenin depletion on the efficiency of
+      <italic>
+       S. flexneri
+      </italic>
+      spread in both HeLa and Caco-2 cells. In both cell types, β-catenin is predominantly localized to the membrane (
+      ), consistent with its role in adherens junctions. Knockdown of β-catenin in both HeLa cells and Caco-2 cells rescued the spread of
+      <italic>
+       S. flexneri
+      </italic>
+      Δ
+      <italic>
+       ipaC
+      </italic>
+      -producing IpaC R362W (
+      and
+      ;
+      –
+      ). As expected, in cells expressing a scrambled short hairpin RNA (shRNA),
+      <italic>
+       S. flexneri
+      </italic>
+      Δ
+      <italic>
+       ipaC
+      </italic>
+      -producing IpaC R362W spread less efficiently than bacteria producing WT IpaC (
+      and
+      ;
+      ). Consistent with previous findings (
+      ), knockdown of β-catenin on its own is not sufficient to alter membrane linearity (
+      ), indicating that additional stresses associated with bacterial infection or other bacterial proteins are likely required to reduce membrane tension. Previous work has shown that γ-catenin, also known as plakoglobin, has some functional redundancy with β-catenin and, under conditions in which cells experience relatively little stress, can compensate for knockdown of β-catenin (
+      ;
+      ). These data demonstrate that β-catenin is a negative regulator of
+      <italic>
+       S. flexneri
+      </italic>
+      intercellular spread and that the interaction of IpaC with β-catenin disrupts β-catenin function in membrane tension.
+     </p>
+    </sec>
+    <sec id="S7">
+     <title>
+      IpaC Stabilizes Adherens Junctions at the Membrane
+     </title>
+     <p id="P17">
+      At membranes, β-catenin interacts with type I cadherins (N-, M-, and E-cadherin), which links α-catenin and cortical actin to the membrane (
+      ). The type of cadherin expressed varies by cell type; Caco-2 cells express E-cadherin, whereas fibroblasts and HeLa cells express N-cadherin (
+      ). IpaC and E-cadherin interact with the same region of β-catenin (
+      ;
+      ;
+      ). The cytoplasmic tails of N- and E-cadherin are similar (
+      ), and both cadherins interact with β-catenin. We hypothesized that the interaction of IpaC with β-catenin might disrupt the interaction of β-catenin with cadherin, thereby uncoupling the connection to the actin cytoskeleton. To test this hypothesis, we visualized the localization of β-catenin during infection with
+      <italic>
+       S. flexneri
+      </italic>
+      Δ
+      <italic>
+       ipaC
+      </italic>
+      -producing WT IpaC or IpaC R362W in Caco-2 cells. β-catenin remained localized to the membrane during infection; it was not observed to be recruited to cytoplasm-dwelling bacteria, and it did not accumulate in cell nuclei (
+      ). Previous reports showed that β-catenin localized with bacterial protrusions and actin tails (
+      ); in our assays, β-catenin localized at approximately 90% of protrusions (
+      –
+      ), and β-catenin localization to protrusions was similar for bacteria producing WT IpaC and bacteria producing IpaC R362W. β-catenin recruitment was similar for protrusions from confluent and sub-confluent cells (
+      and
+      ). β-Catenin localization in the membrane fraction was unaltered by infection, with minimal amounts of β-catenin present in either the nucleus or cytoplasm (
+      ). Other components of the adherens junction, α-catenin and N-cadherin, also remained localized to the membrane during infection (
+      ). The subcellular distribution of these molecules was similar for HeLa cells infected with bacteria producing WT IpaC, those infected with bacteria producing IpaC R362W, and uninfected cells (
+      ). Vinculin was predominantly in the cytoplasm, with or without infection (
+      ).
+     </p>
+     <p id="P18">
+      To further explore the influence of IpaC on the interaction of cadherins with β-catenin, we examined these interactions in the yeast-based protein interaction assay (
+      ). The interaction of β-catenin with cadherin was increased in the presence of WT IpaC and, yet, was not altered by the presence of IpaC R362W (
+      and
+      ). Expression of IpaC R362W had no impact on the efficiency of the cadherin-β-catenin interaction, as the interaction was similar to that of no IpaC (
+      and
+      ). Together, these data show that IpaC alters the β-catenin-cadherin interaction without causing β-catenin to delocalize from the membrane.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="S8">
+    <title>
+     DISCUSSION
+    </title>
+    <p id="P19">
+     For cytosol-dwelling bacterial pathogens, direct spread from an initially infected cell into an adjacent cell is essential for dissemination and disease pathogenesis. To traverse the plasma membranes, bacteria remodel the cellular cortical cytoskeleton. Here, we show that the
+     <italic>
+      S. flexneri
+     </italic>
+     protein IpaC decreases cell-cell tension, promotes the formation of plasma membrane protrusions, and enables intercellular spread. Membrane tension was dissipated by the binding of IpaC to the cell-cell adhesion protein β-catenin.
+    </p>
+    <p id="P20">
+     For efficient spread,
+     <italic>
+      S. flexneri
+     </italic>
+     must simultaneously maintain cell-cell contacts but release membrane tension. Several cell-cell adhesion proteins, including cadherin, tricellulin, and occludin, are required for efficient intercellular spread by
+     <italic>
+      S. flexneri
+     </italic>
+     (
+     ;
+     ); these proteins contribute to the maintenance of intercellular connections during the process of spread. Our finding that β-catenin restricts bacterial spread appears to oppose the role of E-cadherin in promoting spread. We speculate that the interaction of IpaC with β-catenin generates slack membranes while maintaining sufficient homotypic interactions of E-cadherin molecules to maintain cell-cell contact. The stabilization of β-catenin with E-cadherin could maintain E-cadherin at the membrane and tether the membrane closer to the bacteria, which might enable more efficient and directed actin-based propulsion. Thus, by targeting catenin-cadherin interactions by β-catenin, IpaC may selectively alter the activity of the cadherin complex while not disrupting cadherin-dependent cell-cell contact.
+    </p>
+    <p id="P21">
+     One possibility is that the IpaC interaction with β-catenin could alter the composition of adherens junctions in a manner that alters membrane tension and facilitates
+     <italic>
+      Shigella
+     </italic>
+     intercellular spread. To regulate membrane tension, the cellular adhesion protein α-catenin rapidly switches between binding to β-catenin and to cortical actin. The increased affinity of β-catenin for E-cadherin in the presence of IpaC could regulate β-catenin/α-catenin interactions and thus alter membrane tension.
+    </p>
+    <p id="P22">
+     The adherens junction component α-catenin regulates the polymerization of actin, which could modify the motility of actively spreading bacteria. It was previously found that actin within the tails of motile cytosolic
+     <italic>
+      Shigella
+     </italic>
+     is polymerized by Arp2/3 but that in the protrusion, bacterial actin polymerization switches to a formin-dependent process (
+     ). α-Catenin acts as a molecular switch that regulates the switch to formin-dependent polymerization (
+     ). If IpaC-β-catenin complexes were to increase the concentration of membrane-bound α-catenin, then this could facilitate the switch to formin-dependent actin polymerization near the bacteria.
+    </p>
+    <p id="P23">
+     At different stages of
+     <italic>
+      S. flexneri
+     </italic>
+     infection, the arginine immediately adjacent to the C terminus of IpaC (R362) is required for interactions with two distinct cellular proteins where it participates in two distinct functions. In addition to being required for the formation of protrusions during intercellular spread, IpaC R362 is required for interactions with intermediate filaments to support docking during bacterial entry (
+     ). Whether the binding preference of IpaC is determined by the distinct subcellular niche of the bacterium at these two stages of infection or by other factors is at present unclear. Of note, other
+     <italic>
+      S. flexneri
+     </italic>
+     type 3 secreted proteins have domains that bind more than one host protein; for example, during entry, vinculin binding site 3 of IpaA separately binds talin and vinculin (
+     ).
+    </p>
+    <p id="P24">
+     Like
+     <italic>
+      S. flexneri, R. parkeri
+     </italic>
+     and
+     <italic>
+      L. monocytogenes
+     </italic>
+     reduce cell-cell tension but do so by targeting host proteins distinct from those bound by
+     <italic>
+      S. flexneri
+     </italic>
+     IpaC.
+     <italic>
+      R. parkeri
+     </italic>
+     prevents vinculin-mediated cell tension by the type 4 secretion system effector protein Sca4, whereas the secreted
+     <italic>
+      L. monocytogenes
+     </italic>
+     protein Internalin C decreases cell-cell tension by binding the focal adhesion protein Tuba (
+     ;
+     ). These findings provide evidence of convergent evolution by a cadre of pathogens upon mechanisms to decrease membrane tension and underscore that the plasma membrane is a critical barrier that must be subverted for successful bacterial infection.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="S9">
+    <title>
+     STAR★METHODS
+    </title>
+    <sec id="S10">
+     <title>
+      RESOURCE AVAILABILITY
+     </title>
+     <sec id="S11">
+      <title>
+       Lead Contact
+      </title>
+      <p id="P25">
+       Further information and requests for resources and reagents should be directed to and will be fulfilled by the Lead Contact, Brian Russo (
+       <email>
+        brian.russo@cuanschutz.edu
+       </email>
+       ).
+      </p>
+     </sec>
+     <sec id="S12">
+      <title>
+       Materials Availability
+      </title>
+      <p id="P26">
+       Materials, including plasmids and strains, are available from the authors upon request.
+      </p>
+     </sec>
+     <sec id="S13" sec-type="data-availability">
+      <title>
+       Data and Code Availability
+      </title>
+      <p id="P27">
+       The published article includes the data generated in this study, no unique software or code were generated for this study.
+      </p>
+     </sec>
+    </sec>
+    <sec id="S14">
+     <title>
+      EXPERIMENTAL MODEL AND SUBJECT DETAILS
+     </title>
+     <sec id="S15">
+      <title>
+       Bacterial Culture
+      </title>
+      <p id="P28">
+       The wild-type
+       <italic>
+        S. flexneri
+       </italic>
+       strain used in this study is
+       <italic>
+        S. flexneri
+       </italic>
+       2457T (
+       ), and all mutants were isogenic derivatives of it.
+       <italic>
+        S. flexneri
+       </italic>
+       strains were cultured in trypticase soy broth at 37°C.
+       <italic>
+        ipaC
+       </italic>
+       derivatives were cloned into the plasmid pBAD33, and their expression was driven from the pBAD promoter, induced with 1.2% arabinose.
+      </p>
+     </sec>
+     <sec id="S16">
+      <title>
+       Cell Lines
+      </title>
+      <p id="P29">
+       HeLa, Caco-2, and MEFs were maintained at 37°C in 5% CO
+       <sub>
+        2
+       </sub>
+       . All cells were grown in Dulbecco’s modified Eagle’s medium (DMEM) supplemented with 10% fetal bovine serum (FBS). Wild-type and vimentin knock-out MEFs were previously described (
+       ). Caco-2 cells producing membrane-YFP (gift of Hervé Agaisse) and HeLa cell lines stably expressing t-farnesyl-RFP (gift of Rebecca Lamason), as well as Caco-2 and HeLa cells producing shRNAs targeting β-catenin [Broad Institute; TRCN000314921 andTRCN000314991(
+       )], or a control (Addgene, Cat# 10879; (
+       ) were generated using retroviral transduction with selection with 10 μg/ml puromycin.
+      </p>
+     </sec>
+    </sec>
+    <sec id="S17">
+     <title>
+      METHOD DETAILS
+     </title>
+     <sec id="S18">
+      <title>
+       Analysis of bacterial growth in broth
+      </title>
+      <p id="P30">
+       Overnight cultures of bacteria were diluted to an OD
+       <sub>
+        600
+       </sub>
+       of 0.03 in TCS broth with appropriate antibiotics and 1.2% arabinose. 185 μL of diluted bacteria or media alone were added to a 96-well flat bottom plate. Six technical replicates were performed for each condition. Absorbance at 600nm was monitored every 10 min using a BioTeK Epoc2 plate reader with the chamber heated to 37°C and the plate shaken between readings.
+      </p>
+     </sec>
+     <sec id="S19">
+      <title>
+       Plaque Assays
+      </title>
+      <p id="P31">
+       For confluent monolayers, 8×10
+       (Caco-2) or 6×10
+       (MEF) cells per well were seeded in six-well plates. The next day, monolayers were infected with bacteria in mid-exponential phase at a multiplicity of infection (MOI) of 0.002 for MEFs and a MOI of 0.02 for Caco-2 cells in DMEM. In
+       , the multiplicity of infection (MOI) was adjusted to compensate for the known decrease in efficiency of invasion by
+       <italic>
+        S. flexneri
+       </italic>
+       in the absence of interaction of IpaC with intermediate filaments. Bacteria were centrifuged onto cells at 800 ×
+       <italic>
+        g
+       </italic>
+       for 10 minutes and incubated at 37°C in 5% CO
+       <sub>
+        2
+       </sub>
+       for 50 minutes. Media was replaced with 0.5% agarose in DMEM with 25 μg/mL gentamicin, 10% FBS, 1.2% arabinose (for
+       <italic>
+        ipaC
+       </italic>
+       expression from the arabinose promoter), and 0.45% glucose and incubated an additional two days. An additional overlay was added, formulated as before but with 0.7% agarose and 0.1% neutral red. Following incubation for at least 4h, the plates were imaged with an Epson Perfection 4990 photo scanner. ImageJ was used to quantify plaque area. Within an experiment, plaques were thresholded to remove background, pixel intensity was saturated, and the images were segmented into objects. Objects matching plaques on an unmodified image were selected and their area was quantified by ImageJ.
+      </p>
+     </sec>
+     <sec id="S20">
+      <title>
+       Quantification of intracellular bacteria
+      </title>
+      <p id="P32">
+       HeLa cells were seeded at 4×10
+       cells per well in a 6-well plate. The next day they were infected at a MOI of 100. The bacteria were centrifuged onto the cells at 800 ×
+       <italic>
+        g
+       </italic>
+       for 10 min at room temperature. The culture was incubated at 37°C with 5% CO
+       <sub>
+        2
+       </sub>
+       for 50 min. Excess bacteria were removed by three successive washed with HBSS. Any remaining extracellular bacteria were killed by incubation of the infection in DMEM supplemented with 25 μg/mL gentamicin, in addition to 10% FBS, 1.2% arabinose. The infection was incubated for an additional 1, 2 or 3 hours. The cells were washed 3 times with HBSS, and then the HeLa cells were lysed with 0.02% SDS in HBSS. The HeLa cells lysates with intact bacteria were serially diluted and plated to determine the intracellular CFU.
+      </p>
+     </sec>
+     <sec id="S21">
+      <title>
+       Protrusion Assays
+      </title>
+      <p id="P33">
+       MEFs were seeded at 2×10
+       cells per well on coverslips or HeLa cells expressing t-farnesyl-RFP were seeded at 6×10
+       cells per well on coverslips and were infected the following day. Caco-2 cells expressing membrane-YFP were seeded at 4×10
+       cells per well and cultured for at least 3 days on glass coverslips prior to infection. Cells were infected at an MOI of 100, as above, with designated strains expressing pROEX-Aqua [Addgene; plasmid #42889, (
+       )]. At 30 minutes of infection, media was replaced with DMEM supplemented with 0.45% glucose, 1.2% arabinose, 25 μg/mL gentamicin, 20 mM IPTG, and 10% FBS. After an additional 3 hours, cells were fixed with 3.7% paraformaldehyde in PBS and stained with for 5 minutes with 1:10,000 Hoechst 33342 in PBS. Coverslips were mounted with Prolong Diamond Antifade Mountant and imaged the next day.
+      </p>
+     </sec>
+     <sec id="S22">
+      <title>
+       Live-cell Imaging Analysis
+      </title>
+      <p id="P34">
+       HeLa cells expressing
+       <italic>
+        LifeAct-GFP
+       </italic>
+       were seeded at 6×10
+       cells per well on 20 mm MatTek glass bottom dishes. The next day cells were infected at a MOI of 100, as above, with
+       <italic>
+        S. flexneri
+       </italic>
+       expressing a constitutive RFP and a GFP reporter of T3SS activity (pTSAR). At 30 minutes of infection, media was replaced with DMEM supplemented with 0.45% glucose, 1.2% arabinose, 25 μg/mL gentamicin, 50 mM HEPES, and 10% FBS. Samples were imaged with a Nikon Eclipse TE-300 at 37°C at 5 s intervals for 5 minutes. To calculate actin-tail mediated velocities, the ImageJ plugin particle tracker was used to track in-frame bacteria over the course of the video. Speed was determined for each bacterium by measuring the distance traveled over the duration of time the bacteria was in focus.
+      </p>
+     </sec>
+     <sec id="S23">
+      <title>
+       Membrane Linearity Assay
+      </title>
+      <p id="P35">
+       Membrane linearity was performed as previously described (
+       ). Caco-2 cells were seeded onto fibronectin treated coverslips at a density of 8×10
+       cells per well and grown for 7 days to polarize the cells. After 4 days, the media was changed daily. Cells were infected as above with
+       <italic>
+        S. flexneri
+       </italic>
+       strains expressing the uropathogenic
+       <italic>
+        E. coli
+       </italic>
+       Afa-1 pilus (
+       ), which binds to decay accelerating factor (CD55) on the surface of human cells (
+       ) and enhanced infection at a MOI of 10. At 30 minutes of infection, media was replaced with DMEM, supplemented with 0.45% glucose, 1.2% arabinose, 25 μg/mL gentamicin, and 10% FBS. After an additional 3 hours, cells were fixed with 3.7% paraformaldehyde in PBS, permeabilized with 0.5% Triton X-100 in PBS, and stained with mouse anti-ZO-1 antibody (Invitrogen, cat# 339100; 1:100 dilution) and Alexa Fluor 568 conjugated secondary, with anti-
+       <italic>
+        Shigella
+       </italic>
+       antibody (ViroStat cat# 0903; 1:100 dilution), and with Hoechst 33342. Coverslips were mounted with Prolong Diamond Antifade Mountant and imaged the next day. The junction length was determined by measuring with ImageJ the linear distance between cell vertices and the actual length of the plasma membrane between the same vertices. Junction length was expressed as a ratio of the actual length of the membrane divided by the linear inter-vertex distance.
+      </p>
+     </sec>
+     <sec id="S24">
+      <title>
+       Yeast Protein-Protein Interaction Assay
+      </title>
+      <p id="P36">
+       Yeast protein interaction assays were performed as previously described (
+       ). To test the interaction of IpaC with β-catenin, yeast carried plasmids encoding mCherry-tagged IpaC variants and μNS alone (negative control) or μNS-tagged β-catenin. To test effect of IpaC on interaction of E-cadherin with β-catenin, yeast carried plasmids encoding IpaC variants, mNS-tagged β-catenin, and GFP tagged E-cadherin. As controls the empty vectors were also included. Yeast were cultured overnight in complete synthetic media lacking histidine and leucine supplemented with 2% raffinose. The next morning, strains were back diluted to OD
+       <sub>
+        600
+       </sub>
+       0.5 and grown for 2h at 30°C with 2% raffinose. Then, to induce protein synthesis, the media was changed to 2% galactose, and growth was allowed to proceed for 4 hours at 30°C. Yeast were wet mounted and imaged. The percentage of fluorescent yeast displaying a punctum was quantified.
+      </p>
+     </sec>
+     <sec id="S25">
+      <title>
+       Infectious Foci Assay
+      </title>
+      <p id="P37">
+       HeLa cells were seeded at a density of 6×10
+       cells per well on coverslips in 6 well plates. The next day, cells were infected as above at a MOI of 0.05 with designated strains. At 50 minutes of infection, media was replaced with DMEM supplemented with 0.45% glucose, 1.2% arabinose, 25 μg/mL gentamicin, and 10% FBS. Cells were incubated at 37°C with 5% CO
+       <sub>
+        2
+       </sub>
+       for 18 hours at which point they were rinsed once and fixed with 3.7% paraformaldehyde in PBS for 20 minutes. Cells were washed three times with PBS, incubated with 1 M glycine in PBS for 15 minutes, washed three additional times with PBS and then permeabilized with 0.5% Triton X-100 for 20 minutes. Cells were washed five times with PBS and incubated overnight at 4°C with Alexa Fluor 488 conjugated anti-
+       <italic>
+        Shigella
+       </italic>
+       antibody (ViroStat, 1:1000 dilution). Cells were washed three times with PBS, stained with Hoechst 33342, washed twice with PBS and mounted with Prolong Diamond Antifade Mountant. Foci were randomly imaged across the coverslip, and the number of infected cells within each focus was determined by counting nuclei that co-localized with bacteria.
+      </p>
+     </sec>
+     <sec id="S26">
+      <title>
+       Vacuolar Escape
+      </title>
+      <p id="P38">
+       The resistance of intracellular bacteria to chloroquine, which accumulates within vacuoles and kills intra-vacuolar bacteria but remains at sub-bactericidal concentrations within the cytosol, was tested as previously described (
+       ). Notably, IpaC is an important factor in vacuolar escape (
+       ), Briefly, 1×10
+       Vim
+       MEFs were seeded into wells of a 96-well plate. The next day, cells were infected as above at a MOI of 100 with designated strains. At 50 minutes of infection, media was replaced with DMEM supplemented with 0.45% glucose, 1.2% arabinose, 25 μg/mL gentamicin, 10% FBS ± 200 μg/mL chloroquine. After 1 hour, cells were washed three times and lysed with 1% Triton X-100 in PBS. Bacteria were serially diluted 1:5 and the number of intracellular bacteria were enumerated by plating dilutions. Percent cytosolic bacteria were the ratio of colony forming units (CFU) in the presence of gentamicin and chloroquine to CFU in the presence of gentamicin without chloroquine multiplied by 100.
+      </p>
+     </sec>
+     <sec id="S27">
+      <title>
+       LC3 Co-localization
+      </title>
+      <p id="P39">
+       To quantify intracellular bacteria associated with LC3, HeLa cells stably expressing a GFP-LC3 construct were seeded at a density of 4×10
+       cells per well in a 6-well plate on coverslips (
+       ). The next day, cells were infected as above at a MOI of 100 with indicated strains. At 50 minutes of infection, media was replaced with DMEM supplemented with 0.45% glucose, 1.2% arabinose, 25 μg/mL gentamicin, and 10% FBS. After an additional 3 hours, cells were washed once with PBS, fixed with 3.7% paraformaldehyde and stained with Hoechst 33342. Coverslips were mounted with Prolong Diamond Antifade Mountant, and cells were imaged randomly across the coverslip. LC3-positive bacteria were counted as those that co-localized with strong GFP signal.
+      </p>
+     </sec>
+     <sec id="S28">
+      <title>
+       Type 3 Secretion System Activity
+      </title>
+      <p id="P40">
+       To measure type 3 secretion system activity, Vim
+       MEFs were seeded at a density of 4×10
+       cells per well in 6-well plates on coverslips. The next day, cells were infected, as above, with indicated strains carrying the plasmid pTSAR [GFP expression is driven by the mxiE box, which requires type 3-mediated secretion of the effector OspD1, and mCherry is driven by the constitutive rpsM promoter (
+       ;
+       ). At 20 minutes of infection, media was replaced with DMEM supplemented with 0.45% glucose, 1.2% arabinose, 25 μg/mL gentamicin, and 10% FBS. At indicated time points, cells were washed once with PBS, fixed with 3.7% paraformaldehyde, and stained with Hoechst 33342. Cells were washed twice and mounted with Prolong Diamond Antifade Mountant. Cells were randomly imaged across the coverslip, and the percent of bacteria with active type 3 secretion systems was determined by enumerating the ratio of GFP-positive bacteria (T3SS active) to RFP-positive bacteria (total). To determine the intensity of GFP signal, bacteria were identified by an RFP signal, and the intensity of GFP signal was measured with imageJ (
+       ).
+      </p>
+     </sec>
+     <sec id="S29">
+      <title>
+       Actin Tail Formation
+      </title>
+      <p id="P41">
+       To quantify actin-tail formation, Vim
+       MEFs were seeded at a density of 4×10
+       cells per well in 6-well plates on coverslips. The next day, cells were infected as above with indicated strains. At 50 minutes of infection, media was replaced with DMEM supplemented with 0.45% glucose, 1.2% arabinose, 25 μg/mL gentamicin, and 10% FBS. After an additional 3 hours, cells were washed once with PBS, fixed with 3.7% paraformaldehyde, and stained with anti-
+       <italic>
+        Shigella
+       </italic>
+       antibody conjugated to Alexa Fluor 488 (ViroStat, 1:1000 dilution). The next day, cells were washed three times with PBS and stained with phalloidin conjugated to Alexa Fluor 568 (Invitrogen, cat# A12380). Cells were washed three times with PBS and stained with Hoechst 33342. Cells were washed twice more with PBS and mounted with Prolong Diamond Antifade Mountant. The percentage of bacteria with actin-tails was determined by counting the number of total bacteria (Alexa Fluor 488-positive) to the number of bacteria with actin-tails.
+      </p>
+     </sec>
+     <sec id="S30">
+      <title>
+       β-catenin localization
+      </title>
+      <p id="P42">
+       For immunofluorescent localization of β-catenin, HeLa cells or Caco-2 cells were seeded at 4×10
+       cells per well and cultured for 48 hours (HeLa) or 72 hours (Caco-2). Following fixation with PFA, the cells were permeabilized with 1% Triton X-100 for 30 minutes at room temperature. The cells were washed five times with PBS, blocked for 30 minutes at room temperature with 10% goat serum in PBS, and then incubated overnight at 1:500 of mouse anti-β-catenin in 10% goat serum in PBS. The cells were washed with PBS, incubated with 1:750 goat anti-mouse conjugated with either Alexa Fluor 568 or Alexa Fluor 488 for 2 hours at room temperature and washed with PBS. The DNA was stained with Hoechst 33342, the cells were washed twice with PBS, and the coverslips were mounted with ProLong Diamond Antifade Mountant.
+      </p>
+      <p id="P43">
+       For subcellular localization of β-catenin by cellular fractionation, we used a detergent fraction method as has been done previously (
+       ,
+       ,
+       ;
+       ). Briefly, 4×10
+       cells were seeded in 6 well plates, four wells per condition. After 48 hours, cells were infected with a MOI of 100. The bacteria were centrifuged onto the cells at 800 ×
+       <italic>
+        g
+       </italic>
+       at room temperature and incubated at 37°C for 50 min. The cells were washed with HBSS, the media was changed to DMEM supplemented with 0.45% glucose, 1.2% arabinose, 25 μg/mL gentamicin, and 10% FBS, and the cells were incubated for an additional 2 hours at 37C. The cells were washed three times with 50 mM Tris, pH 7.5. 0.5 mL per well of 50 mM Tris, pH 7.5 supplemented with protease inhibitors (Roche) was added to each well and the cells were scraped. The recovered cells were pelleted at 3,000 ×
+       <italic>
+        g
+       </italic>
+       for 3 min at room temperature, the pellets from each well were pooled and washed with 50 mM Tris, pH 7.5. The pellet was incubated for 20 min in cold 0.2% saponin in 50 mM Tris, pH 7.5 150 mM NaCl and protease inhibitors. The cells were pelleted at 21,000 ×
+       <italic>
+        g
+       </italic>
+       for 30 min at 4°C. The supernatant (the cytosol) was collected and the pellet was resuspended in cold 0.5% Triton X-100 in 50 mM Tris, pH 7.5 150 mM NaCl and protease inhibitors (Roche, Cat# 11836170001) and incubated for 30 min on ice. Samples were pelleted at 21,000 x
+       <italic>
+        g
+       </italic>
+       for 15 min at 4°C. The supernatant (the membrane fraction) was collected and the pellet contained cellular debris, intact bacteria, and intact nuclei. β-catenin abundance in the cellular fractions was determined by western blot.
+      </p>
+     </sec>
+     <sec id="S31">
+      <title>
+       Western Blots
+      </title>
+      <p id="P44">
+       Western blots were performed using 1:10,000 mouse anti-β-catenin (BD Biosciences, 610153), 1:1000 mouse anti-vinculin (Sigma, SAB4200729), or 1:1000 rat anti-N-cadherin [Developmental Studies Hybridoma Bank, MNCD2, (
+       )], 1:1000 rat anti-E-cadherin (Thermo, 14-3249-82) incubating overnight at 4°C, or 1:500 rabbit anti-α-catenin (Thermo, 71-1200), 1:1000 rabbit anti-caveolin 1 (Sigma, C4490), 1:1,000,000 rabbit anti-GroEL (Sigma, G6532), 1:1000 mouse anti-GAPDH (Developmental Studies Hybridoma Bank, DSHB-hGAPDH-2G7), 1:40,000 rabbit anti-keratin 8 (Abcam, Ab53280), 1:10,000 rabbit anti-keratin 18 (Abcam, ab668) 1:5000 goat anti-rabbit HRP (JacksonImmuno, 111-035-144), 1:5000 goat anti-rat HRP (JacksonImmuno, 112-035-003), and 1:5000 goat anti-mouse HRP (JacksonImmuno, 115035003) for 2 hours at room temperature. Western blots were developed, and signal was acquired by exposure to film. To determine band density, film was digitized using an Epson Perfection 4990 photo scanner and band intensity was measured using ImageJ.
+      </p>
+     </sec>
+     <sec id="S32">
+      <title>
+       Microscopy
+      </title>
+      <p id="P45">
+       Fluorescent images were acquired on either a Nikon TE300 or a Nikon TE-2000. Both are equipped with Chroma Technology filters, Q-imaging EXI Blue cameras, and use IVision 4.5 software (BioVision Technologies). Microscopic images were pseudo colored and assembled using Adobe Photoshop or ImageJ. Unless otherwise noted, images were collected in a random manner across the coverslip. For analysis of protrusions in Caco-2 cells, areas with bacteria were identified in the CFP channel and the edge of monolayers was determined by Hoechst staining. A minimum of five Z stacks was collected per region on each coverslip with a 0.25 μM distance between slices. All bacteria in a stack were analyzed. To display representative images with protrusions, all slices within a stack containing the protrusion were collapsed into a single image based upon the maximum intensity of the pixels in each slice using ImageJ.
+      </p>
+     </sec>
+    </sec>
+    <sec id="S33">
+     <title>
+      QUANTIFICATION AND STATISTICAL ANALYSIS
+     </title>
+     <p id="P46">
+      Statistical differences between means was determined with GraphPad Prism. Statistical differences between two means was tested by unpaired Student’s t test. Differences between the means of three or more groups was tested by either two-way ANOVA with Sidak post hoc test or a one-way ANOVA with Tukey post hoc test or Dunnet’s post hoc test.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="SM1" sec-type="supplementary-material">
+    <title>
+     Supplementary Material
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

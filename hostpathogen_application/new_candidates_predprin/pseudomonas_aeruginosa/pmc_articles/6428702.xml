@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Prediction of Host-Specific Genes by Pan-Genome Analyses of the Korean
+ </title>
+ <abstract>
+  <p>
+   The soil-borne pathogenic
+   <italic>
+    Ralstonia solanacearum
+   </italic>
+   species complex (RSSC) is a group of plant pathogens that is economically destructive worldwide and has a broad host range, including various solanaceae plants, banana, ginger, sesame, and clove. Previously, Korean RSSC strains isolated from samples of potato bacterial wilt were grouped into four pathotypes based on virulence tests against potato, tomato, eggplant, and pepper. In this study, we sequenced the genomes of 25 Korean RSSC strains selected based on these pathotypes. The newly sequenced genomes were analyzed to determine the phylogenetic relationships between the strains with average nucleotide identity values, and structurally compared via multiple genome alignment using Mauve software. To identify candidate genes responsible for the host specificity of the pathotypes, functional genome comparisons were conducted by analyzing pan-genome orthologous group (POG) and type III secretion system effectors (T3es). POG analyses revealed that a total of 128 genes were shared only in tomato-non-pathogenic strains, 8 genes in tomato-pathogenic strains, 5 genes in eggplant-non-pathogenic strains, 7 genes in eggplant-pathogenic strains, 1 gene in pepper-non-pathogenic strains, and 34 genes in pepper-pathogenic strains. When we analyzed T3es, three host-specific effectors were predicted: RipS3 (SKWP3) and RipH3 (HLK3) were found only in tomato-pathogenic strains, and RipAC (PopC) were found only in eggplant-pathogenic strains. Overall, we identified host-specific genes and effectors that may be responsible for virulence functions in RSSC
+   <italic>
+    in silico
+   </italic>
+   . The expected characters of those genes suggest that the host range of RSSC is determined by the comprehensive actions of various virulence factors, including effectors, secretion systems, and metabolic enzymes.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec>
+    <title>
+     Introduction
+    </title>
+    <p>
+     The
+     <italic>
+      Ralstonia solanacearum
+     </italic>
+     species complex (RSSC) is a group of rod-shaped Gram-negative bacteria with polar flagella belonging to the Burkholderiaceae family of the Betaproteobacteria class. RSSC are soil-borne pathogens and can live for several years without a host. The bacteria invade host vascular tissues through injured roots or natural openings. Then, colonization and production of exopolysaccharide (EPS) in the stem block water transport in the xylem, resulting in wilting and death of the host plant (
+     ).
+    </p>
+    <p>
+     <italic>
+      Ralstonia solanacearum
+     </italic>
+     has an uncommonly broad host range, infecting more than 450 plant species that belong to more than 50 families, encompassing monocots and dicots and herbaceous and woody plants (
+     ;
+     ;
+     ).
+     <italic>
+      R. solanacearum
+     </italic>
+     are found in distinct geographical regions, which include tropical, subtropical, and warm and cool temperate areas across the six continents of Asia, Africa, Europe, and North and South America, and Oceania (
+     ;
+     ). With their broad host range and wide geographical distribution,
+     <italic>
+      R. solanacearum
+     </italic>
+     have demonstrated great diversity in their genetic and phenotypic properties, and thus strains of this species have been designated as a species complex, the RSSC (
+     ;
+     ). The RSSC group has been expanded to include
+     <italic>
+      Ralstonia syzygii
+     </italic>
+     and blood disease bacteria (BDB), which are closely related organisms (
+     ).
+    </p>
+    <p>
+     The investigation of the genome of
+     <italic>
+      R. solanacearum
+     </italic>
+     began with the complete genome sequencing of strain GMI1000, which significantly advanced the study of pathogenicity by characterizing the molecular complexity of the organism (
+     ). Subsequently, the complete or draft genomes of many
+     <italic>
+      R. solanacearum
+     </italic>
+     strains with various host ranges became available. To date, there are 86 genomes of RSSC deposited in the National Center for Biotechnology Information (NCBI database in Aug 2018
+     ). RSSC usually have a bipartite genome, with one chromosome and one megaplasmid; however, some strains (i.e., CMR15 and PSI07) carry an additional plasmid (
+     ). Whole-genome comparisons of sequenced genomes have confirmed the phylotype classification scheme of RSSC: phylotype I (GMI1000, FQY_4, EP1, and Y45), phylotype II (CFBP2957, IPO1609, K60, MolK2, Po82, and UW551), phylotype III (CMR15), and phylotype IV (PSI07,
+     <italic>
+      R. syzygii
+     </italic>
+     R24 and BDB R229). RSSC have been reclassified into three species, based on analyses of various biochemical properties and genomic comparisons, as follows:
+     <italic>
+      R. solanacearum
+     </italic>
+     (phylotype II strains),
+     <italic>
+      Ralstonia pseudosolanacearum
+     </italic>
+     (phylotype I and III strains), and
+     <italic>
+      R. syzygii
+     </italic>
+     (phylotype IV strains, including
+     <italic>
+      R. syzygii
+     </italic>
+     R24 and BDB R229) (
+     ). RSSC is also divided into five biovars based on carbohydrate utilization, i.e. the ability to oxidize 3 disaccharides (lactose, maltose, and cellobiose) and 3 hexose alcohols (mannitol, dulcitol, and sorbitol) (
+     ).
+    </p>
+    <p>
+     A number of factors are responsible for the pathogenesis of RSSC: global regulatory transcription factors, EPS, plant hormones, host cell wall-degrading enzymes, adhesion/surface proteins, toxins, and oxidative stress resistance. Many of them are secreted in RSSC, and the bacterial pathogen mainly use type II (T2SS) and type III secretion systems (T3SS). Three types of T2SS, one orthodox system and two unorthodox systems, have been found in seven reference genomes, including those of phylotypes I, II, III, and IV (
+     ). T3SS is also crucial for bacterial virulence as the plant-inducible secretion machinery, which is encoded by the highly conserved
+     <italic>
+      hrp
+     </italic>
+     gene cluster in strains of phylotypes I, II, III, and IV (
+     ).
+    </p>
+    <p>
+     Type III secretion systems exports virulence factors directly into the host cells, and these injected proteins are called type III effector proteins (T3e) (
+     ;
+     ). T3es of RSSC have been designated as Rip (
+     <italic>
+      Ralstonia
+     </italic>
+     -injected proteins), which include the Pop/AWR/Gala families (
+     ). These proteins have various functions in the invasion of host plants. For instance, the GALA family has F-box and leucine-rich repeat (LRR) domains that are required for full virulence (
+     ;
+     ;
+     ). PopP family proteins work as avirulence proteins with acetyl transferase activity (PopP2) (
+     ), and some AWR family effectors induce necrotic cell death in host plants (
+     ). Likewise, T3e disrupts the homeostasis of host plants by disturbing signal transduction. Their defense system falters, leading to bacterial infection and death by wilting (
+     ). In a previous study, pan-genome analyses of 11 representative RSSC strains identified 94 Rips (
+     ). Individual RSSC strains possess around 60–75 effectors, and effector repertoire comparisons have revealed 32 core effectors in 10 strains. Most
+     <italic>
+      rip
+     </italic>
+     genes have a feature in their promoter region called a plant-inducible promoter (PIP) box, which is responsive to the T3SS transcriptional regulator HrpB (
+     ).
+    </p>
+    <p>
+     A number of studies have investigated the host specificity of this highly vulnerable pathogen; however, because of the indefinite host range and bacterial nomenclature related to virulence, few systematic studies have clearly defined host specificity (
+     ;
+     ;
+     ;
+     ). Nonetheless, the
+     <italic>
+      rsa1
+     </italic>
+     gene from strain SL2029 (phylotype IV biovar 2) has been described as a pepper-specific avirulence gene. The Rsa1 protein from strain SL2029 is specifically avirulent for pepper infection, and when this gene is introduced into the pepper pathogenic strain SL341 (phylotype I biovar 4), the SL341 with the
+     <italic>
+      rsa1
+     </italic>
+     gene becomes avirulent for pepper (
+     ).
+    </p>
+    <p>
+     In our previous study of the pathogenicity against potato, tomato, eggplant, and pepper, Korean RSSC were divided into four pathotypes. Since pathotypes reflect genetic traits of RSSC, we attempted to identify bacterial genes for host specificity of RSSC by adopting pan-genome analysis. In this study, we sequenced whole genome of 25 Korean RSSC strains and performed comparative genome analyses to present the candidate genes responsible for host specificity including T3es and pathogenesis related genes.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s1" sec-type="materials|methods">
+    <title>
+     Materials and Methods
+    </title>
+    <sec>
+     <title>
+      Strain Selection
+     </title>
+     <p>
+      We previously analyzed the genetic and pathogenic diversity of Korean RSSC using 93 strains isolated from samples of potato bacterial wilt throughout the country. To conduct in-depth analyses of the genetic relationships between RSSC and hosts, 25 isolates were selected based on their host range on solanaceous crop plants, with typical representative characters for each of the individual phylotypes (
+      ).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Genome Sequencing
+     </title>
+     <p>
+      For genomic DNA preparation, high-molecular-weight genomic DNA was prepared as previously described (
+      ). Each bacterial genome was sequenced using the Pacific Biosciences’ Single Molecule Real Time (SMRT) Sequencing Technology with a 20 kb library, P6/C4 chemistry, and one SMRT cell running (
+      DNAlink, South Korea).
+      <italic>
+       De novo
+      </italic>
+      assembly was conducted using the hierarchical genome assembly process (HGAP ver. 2.3) workflow (
+      ), including consensus polishing with Quiver, and the default parameters (Minimum Subread Length 500 bp, Minimum Polymerase Read Quality 0.8, and Minimum Polymerase Read Length 100 bp). After error correction based on the longest seed reads with shorter reads, sequences were assembled with error-corrected reads. Gene prediction was carried out using the Glimmer3 to predict coding sequences (CDSs), and RNAmmer-1.2 and tRNAscan-SE were used to identify rRNA and tRNA sequences in the assembled genome. The annotation of each CDS was performed using homology search against Blastall ver. 2.2.26.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Genome Comparisons
+     </title>
+     <p>
+      For comparison with reference strains, the genome sequences of GMI1000, FQY_4, CMR15, PO82, and PSI07 were retrieved from the National Center for Biotechnology Information (NCBI) database and those of
+      <italic>
+       R. syzygii
+      </italic>
+      R24 and BDB R229 were obtained from the EMBL database (
+      ). To analyze the overall genome sequence similarity, the Orthologous Average Nucleotide Identity (OrthoANI) tool was used (
+      ). Multiple genome alignments were performed using the Mauve software
+      .
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Analysis of Clusters of Orthologous Groups and Pan-Genome Orthologous Groups
+     </title>
+     <p>
+      For comparative genome analyses, clusters of orthologous group (COG) and pan-genome orthologous group (POG) analyses were performed using the Chunlab pipeline (
+      South Korea) (
+      ). Gene prediction and annotation were analyzed using the Server for Rapid Annotations using Subsystem Technology (RAST) (
+      ). The annotation of each CDS was conducted by homology search against the Swiss-Prot, EggNOG 4.1, SEED (the database and infrastructure for comparative genomics), and Kyoto Encyclopedia of Genes and Genomes (KEGG) databases.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Effectors Prediction
+     </title>
+     <p>
+      The effectors of T3es of the Korean RSSC strains were identified using the RalstoT3E server
+      (
+      ).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Genome Submission
+     </title>
+     <p>
+      The genome sequences of 25 Korean RSSC strains were deposited in the NCBI database and the accession numbers are listed in
+      .
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Results
+    </title>
+    <sec>
+     <title>
+      General Genomic Features of the RSSC Strains
+     </title>
+     <p>
+      High-quality genomes of the Korean RSSC strains were constructed using PacBio long read sequencing data. The general genomic features of the RSSC strains used in this study are summarized in
+      . The newly sequenced 25 Korean RSSC genomes were complete and contained two contigs: one for the chromosome and another for a megaplasmid, except for T78 strain, which contained one chromosome, one megaplasmid, and one small plasmid.
+     </p>
+     <p>
+      All 25 strains analyzed in this study belong to phylotype I and IV, the assembled genome sizes were 5.4–6.15 Mbp and the GC contents were 66.4–66.9%. The number of predicted genes was 5,071–6,811, that of rRNA genes was 9 or 12, and that of tRNA genes was 54–59. The genome comparison revealed several differences between the genomes of phylotype I and phylotype IV, as follows: the average genome sizes of phylotype I and IV were 5.8 and 5.5 Mbp, the average GC contents were 66.91 and 66.39%, the average number of predicted CDSs was 5,551 and 5,152, the number of rRNA genes was 12 and 9, and the average number of tRNA genes was 58 and 55, respectively. All genomic features (genome size, GC content, and number of CDSs, rRNAs, and tRNAs) of the phylotype I strains were larger than those of the phylotype IV strains, except for the T42 strain, which was similar in genome size and CDS number to the phylotype IV strains.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Comparative Genomics: OrthoANI Analyses and Multiple Genome Alignments
+     </title>
+     <p>
+      To compare the overall similarity of the 25 Korean genomes and 9 reference genomes, the OrthoANI values were calculated (
+      ) and are presented with the phylogenetic tree in
+      . In this tree, all Korean phylotype I strains clustered with the phylotype I reference strains GMI1000 (biovar 3, isolated from tomato in French Guyana) and FQY_4 (biovar 4, isolated from bacterial wilt in a nursery in China) (
+      ;
+      ). Among the Korean phylotype I strains, four biovar 3 isolates (SL2330, SL3755, T25, and T110) clustered more closely with GMI1000, and ten other biovar 4 isolates (SL2729, SL3103, SL3300, SL3730, SL3822, SL3882, T42, T60, T78, and T117) clustered more closely with FQY_4. Eleven Korean phylotype IV strains (SL2064, SL2312, SL3022, SL3175, T11, T12, T51, T82, T95, T98, and T101) clustered with the phylotype IV strains of PSI07 (from tomato in Indonesia), BDB R229 (from banana in Indonesia), and
+      <italic>
+       R. syzygii
+      </italic>
+      R24 (from clove in Indonesia), which originated from the Indonesian region. Among the Korean phylotype IV strains, SL3175 and T98 were closer to reference strains PSI07 and BDB R229.
+     </p>
+     <p>
+      To demonstrate the consistency or variation among the Korean RSSC genomes, multiple genome alignment was performed using the Mauve tool (
+      ). This alignment revealed that eleven phylotype IV-biovar 2 (hereafter, IV-2) strains were co-linear along the chromosomes and the megaplasmids. For phylotype I strains, the phylotype I-biovar 3 (I-3) and phylotype I-biovar 4 (I-4) strains were generally similar to each other with respect to their genome organization; however, some strains had a genetic inversion, i.e., SL3300 and T117 had an inversion in the middle of the chromosome, and T25 and SL3822 had a large inversion in the megaplasmid. Between the phylotype I and IV strains, the gene organization revealed many rearrangements, particularly in the megaplasmid.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      COG Distribution Between RSSC Strains
+     </title>
+     <p>
+      To compare the distribution of functional genes between the RSSC strains in relation to bacterial virulence and potential host specificity, the functional categories of COG were analyzed (
+      and
+      ). Among the predicted CDSs, about 70% of the genes were classified into one of the 22 COG categories and about 30% were of unknown function. Aside from the genes of unknown function (S), the largest functional group was the amino acid transport and metabolism group (E), which contained an average of 367 genes, followed by the transcription group (K), which contained an average of 330 genes, and the energy production and conversion group (C), which contained an average of 286 genes. COGs were distributed differently between the phylotype I and IV strains. The phylotype I strains had more genes than the phylotype IV strains in the categories of transcription (K); replication; recombination and repair (L); intracellular trafficking, secretion, and vesicular transport (U); carbohydrate transport and metabolism (G); and secondary metabolite biosynthesis, transport, and catabolism (Q). The phylotype IV strains had more genes than the phylotype I strains in the categories of signal transduction mechanisms (T) and inorganic ion transport and metabolism (P).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Candidate Host-Specific Genes for Bacterial Virulence
+     </title>
+     <p>
+      To identify genes responsible for host specificity, comparative genome analyses were performed by comparing functional genes among the four pathotypes. Previously, Korean RSSC strains isolated from samples of potato bacterial wilt were divided into four different pathotypes based on tests against four
+      <italic>
+       solanaceae
+      </italic>
+      plants: potato, tomato, eggplant, and pepper. The classifications were only pathogenic on potato (P); pathogenic on potato and tomato (PT); pathogenic on potato, tomato, and eggplant (PTE); and pathogenic on potato, tomato, eggplant, and pepper (PTEPe) (
+      ).
+     </p>
+     <p>
+      Using pan-genome analyses of the Korean isolates, we identified a number of candidate genes expected to contribute to host specificity (
+      ) and the POGs are listed in
+      –
+      . A total of 128 genes were only found in four tomato-non-pathogenic strains. Most of these genes encoded proteins with hypothetical functions and a few of the functionally designated genes were related to mobile elements, such as bacteriophage infection or insertional elements (
+      ). Three genes revealed homology with a gene encoding the clustered regularly interspaced short palindromic repeat (CRISPR) proteins, Cas9, Cas1, and Cas2 (
+      ). CRISPR is an adaptive immune system in prokaryotes that provides protection against mobile genetic elements (viruses, transposable elements, and conjugative plasmids). Four genes showed homology with a gene encoding Mu-like prophage proteins (
+      ), and one capsid protein and another Mu-like virus tape-measure protein were identified by the analyses. In addition, two copies of insertional element IS476 were also identified in the analyses (
+      ). In the tomato-pathogenic group, these bacteria shared 8 genes. Among them, three genes encoded components of the type II secretion system (T2SS) and next one gene encoded RhsB (rearrangement hotspot), which is a probable deoxyribonuclease (
+      ,
+      , and
+      ).
+     </p>
+     <p>
+      Regarding eggplant, seven eggplant-non-pathogenic strains shared 5 genes (
+      ). Four of them encoded hypothetical proteins and one was similar to a gene encoding a putative RipA, which is a transcriptional regulator for type III secretion with a helix-turn-helix DNA binding motif (
+      ). For eggplant infection, it was predicted that 7 genes were shared. None of these genes were similar to genes of known function.
+     </p>
+     <p>
+      For pepper, the phylotype I strain SL3103 belonged to the pepper-non-pathogenic group, unlike other phylotype I strains, all of which were pathogenic on pepper plants. As a result, we were able to determine the candidate genes related to organic metabolisms rather than effectors. Twelve pepper-non-pathogenic strains (eleven phylotype IV and one phylotype I strains) shared 1 gene, whose function was unknown, and thirteen pepper-pathogenic strains (all phylotype I strains) shared 34 genes, including genes involved in aromatic compound metabolism (
+      and
+      ). Among them, 12 genes (from POG_2330_01480 to POG_2330_01491) produced a cluster related to aromatic compound metabolism (
+      ). This cluster was highly homologous with the
+      <italic>
+       dhb
+      </italic>
+      gene cluster from
+      <italic>
+       Pseudomonas reinekei
+      </italic>
+      MT1:
+      <italic>
+       dhbA
+      </italic>
+      (67% identity with POG_2330_01480),
+      <italic>
+       dhbB
+      </italic>
+      (64% identity with POG_2330_01481),
+      <italic>
+       dhbC
+      </italic>
+      (65% identity with POG_2330_01482),
+      <italic>
+       dhbD
+      </italic>
+      (47% identity with POG_2330_01483),
+      <italic>
+       dhbE
+      </italic>
+      (42% identity with POG_2330_01484),
+      <italic>
+       dhbF
+      </italic>
+      (60% identity with POG_2330_01485),
+      <italic>
+       dhbG
+      </italic>
+      (66% identity with POG_2330_01486),
+      <italic>
+       dhbH
+      </italic>
+      (83% identity with POG_2330_01487). This
+      <italic>
+       dhb
+      </italic>
+      cluster encodes genes that participate in 2,3-dihyroxybenzoate (2,3-DHB) aromatic ring degradation via the
+      <italic>
+       meta
+      </italic>
+      -cleavage pathway (
+      ).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      T3SS Effectors
+     </title>
+     <p>
+      Type III secretion systems is deeply involved in pathogenicity and RSSC carries abundant T3es that are secreted through the T3SS (
+      ). Therefore, we predicted the T3es of the Korean RSSC using the RalstoT3E annotation server and analyzed effectors related to host range on four Solanaceae plants (
+      ). Of a total of 94 T3e repertoires of RSSC, 82 effectors were identified as full or partial forms and 12 effectors were absent (
+      ). While a total of 30 effectors were present in all sequenced Korean strains, 8 were present only in phylotype I and 6 were found only in phylotype IV (
+      ). Regarding the sharing of effectors, it was shared 68 effectors in four I-3 strains, 70 in ten I-4 strains, and 70 in eleven IV-2 strains. In general, phylotype I strains had more effectors than phylotype IV strains and the distributions of each effector revealed a more conserved patterns in phylotype I strains than in phylotype IV strains. In the case of SL3175 and T98 of phylotype IV, revealed different distribution pattern compared to the other phylotype IV strains, which this clustering was consistent with the genomic phylogenetic tree (
+      ).
+     </p>
+     <p>
+      Next, we investigated the presence of effectors related to host specificity for tomato, eggplant, or pepper plant infections. Among them, we identified three host-specific effectors: two for tomato (RipH3 and RipS3) and one for eggplant (RipAC). The genetic loci of the genes encoding these proteins are depicted in
+      . The gene
+      <italic>
+       ripS3
+      </italic>
+      (also known as SKWP3) was present in all 21 tomato-pathogenic strains, but was absent in the four tomato-non-pathogenic strains (SL2312, T12, T82, and T101). The function of RipS3 is unknown; however, it contains the nucleotidyl transferase (NT) domain of the RelA- and Spo-like protein (
+      ). The gene
+      <italic>
+       ripH3
+      </italic>
+      (HLK3) was present as a partial form with a truncated N-terminal or C-terminal region in the tomato-non-pathogenic strains, whereas it was present in a complete form in tomato-pathogenic strains. The
+      <italic>
+       ripH3
+      </italic>
+      gene contained a PIP box in the promoter region, but did not exhibit any known functional domain. In the case of RipAC (PopC) in strains pathogenic for eggplant, the gene was different from that of non-pathogenic strains, which had another type of
+      <italic>
+       ripAC
+      </italic>
+      (
+      ). In the
+      <italic>
+       ripAC
+      </italic>
+      gene, it was difficult to find DNA sequence similarity between eggplant-pathogenic and non-pathogenic strains; however, there was 34% homology in the amino acid sequences, which had 17 LRR motifs and 10 LRRs in common with each other.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Discussion
+    </title>
+    <p>
+     <italic>
+      Ralstonia solanacearum
+     </italic>
+     species complex is a sophisticated complex of plant pathogens with an unusually broad host range and wide geographical distribution. We identified genes that are relevant to host specificity by analyzing whole genomes of 25 Korean RSSC strains isolated from potato bacterial wilt and performing
+     <italic>
+      in silico
+     </italic>
+     genome-wide comparison of four different pathotypes of RSSC strains.
+    </p>
+    <p>
+     The isolated Korean potato bacterial wilt strains belonged to phylotypes I or IV, and phylotype I strains showed destructive pathogenicity, not only on potato, but also on tomato, eggplant, and pepper plants (
+     ). Previously, it had been suggested that phylotype I strains may have evolved from phylotype IV strains (
+     ;
+     ). The genomes of phylotype I strains possess distinctive features compared to those of the other representative phylotype II (Po82, IPO1609), III (CMR15), and IV strains (PSI07, R24, and R229): large genome size, high GC content, and larger numbers of rRNA and tRNA genes. From these genomic features, we suppose the possibility that phylotype I strains have accepted foreign DNA fragments to adapt to various environments resulting in increased GC content and genome size, and among the imported fragments, there might be various virulence factors that enable these strains to infect new hosts.
+    </p>
+    <p>
+     When we compared the genomes to identify genes responsible for host specificity, we found specific genes from the tomato pathogenic strains: two T3es (
+     <italic>
+      ripS3
+     </italic>
+     and
+     <italic>
+      ripH3
+     </italic>
+     ), a set of T2SS, and an adjacent
+     <italic>
+      rhsB
+     </italic>
+     (
+     ). The function of RipS3 has not been reported; however, RipS3 has the nucleotidyl transferase domain of RelA- and SpoT-like ppGpp synthetases and hydrolases, and belongs to the PRK09169 superfamily (
+     ). The ppGpp works as an alarmone, which integrates general stress responses, such as starvation, heat shock, and oxidative stress in bacteria and plants (
+     ;
+     ;
+     ). We speculate that effector RipS3 is translocated into host plant cells and may disturb the host stress response mediated by the ppGpp. The other effector, RipH3, possesses a PIP box but no known functional motif. The
+     <italic>
+      ripH3
+     </italic>
+     gene was partially present in the tomato-non-pathogenic strains (
+     ), and this feature is consistent with a previous report that a triple deletion mutant of
+     <italic>
+      ripH1
+     </italic>
+     -
+     <italic>
+      H3
+     </italic>
+     (HLK1–3) was significantly impaired with respect to tomato infection (
+     ).
+    </p>
+    <p>
+     Type II secretion systems (T2SSs) have been identified in bacteria belonging to the alpha, beta, gamma, and delta-proteobacteria, and are encoded by 12 to 16 genes, of which the core components are named as
+     <italic>
+      gsp
+     </italic>
+     (general secretory proteins) (
+     ). Substrates of T2SS are recruited and transported as fully folded and often oligomeric proteins (
+     ). It has been reported that RSSC possessed three types of T2SS: one is the orthodox system constructed out of 12 components, and the others are the unorthodox systems, possessing 7 core genes (
+     ). In our study, the tomato-non-pathogenic strains were lacking one set of unorthodox T2SS and the adjacent
+     <italic>
+      rhsB
+     </italic>
+     gene (
+     ). Because T2SS mutants were impaired in colonization and proliferation
+     <italic>
+      in planta
+     </italic>
+     (
+     ), this feature appears to relate one set of the T2SS deficiency with the tomato-non-pathogenic trait. In addition, the
+     <italic>
+      rhsB
+     </italic>
+     gene, which was located next to the T2SS-encoding gene cluster, was also absent in the tomato-non-pathogenic strains. Rhs protein possesses YD-peptide repeats, which play a role in the bacterial-eukaryotic host cell interaction, and it also carries nuclease domain to degrade target cell DNA (
+     ). In
+     <italic>
+      Dickeya dadantii
+     </italic>
+     3937, Rhs protein worked as a DNase toxin to inhibit neighboring cell growth in a contact-dependent manner, and its translocation to host cells provided evidence that Rhs may be exported through a type VI secretion system (T6SS) (
+     ). Although it is a distinctive genetic feature of tomato-pathogenic strains, further experiments are required to define the mechanisms of T2SS and RhsB in tomato infection.
+    </p>
+    <p>
+     Our pan-genome analyses to identify host-specific genes for bacterial virulence revealed that a number of genes encoding hypothetical protein with unknown function and mobile element or phage-related genes are present in four pathotypes of Korean RSSC (
+     –
+     ). Functional studies of each gene identified by
+     <italic>
+      in silico
+     </italic>
+     analysis should be performed to define their involvement in bacterial virulence in a host-specific infection and virulence. It would be also interesting to investigate if mobile element or prophages can contribute to host specific virulence of each pathotypes by disrupting certain avirulence- or virulence-related function of RSSC strains.
+    </p>
+    <p>
+     In analyses using the RalstoT3E prediction system, we identified the RipAC for eggplant-specific effector. RipAC was previously called as PopC and has LRR motifs, which are expected to interact with some host proteins (
+     ). The
+     <italic>
+      popC
+     </italic>
+     (
+     <italic>
+      ripAC
+     </italic>
+     ) gene constitutes an operon with
+     <italic>
+      popA
+     </italic>
+     (
+     <italic>
+      ripX
+     </italic>
+     ) and
+     <italic>
+      popB
+     </italic>
+     (
+     <italic>
+      ripAB
+     </italic>
+     ) expressed by a promoter containing a PIP box (
+     ). This
+     <italic>
+      popABC
+     </italic>
+     operon was located next to the
+     <italic>
+      hrp
+     </italic>
+     gene cluster, and the encoded PopA (harpin), PopB (NLS motif), and PopC (LRR motifs) proteins were secreted by T3SS. In the RalstoT3E database, the names of these effectors were assigned as RipX (PopA), RipAB (PopB), and RipAC (PopC) (
+     ). Interestingly, the RNA expressions of these genes were upregulated in tomato plants (
+     ), but Tn5-B20-inserted mutants of these genes were still pathogenic on tomato (
+     ). In general, the Korean RSSC strains carried the similar gene organization with previously reported RSSC strains for
+     <italic>
+      popABC
+     </italic>
+     operon driven by a promoter with a PIP box and adjacent
+     <italic>
+      hrp
+     </italic>
+     cluster. However, while
+     <italic>
+      popA
+     </italic>
+     (
+     <italic>
+      ripX
+     </italic>
+     ) and
+     <italic>
+      popB
+     </italic>
+     (
+     <italic>
+      ripAB
+     </italic>
+     ) were present in all strains,
+     <italic>
+      popC
+     </italic>
+     (
+     <italic>
+      ripAC
+     </italic>
+     ) was not; the
+     <italic>
+      popC
+     </italic>
+     gene of most strains encoded a protein with 17 LRR motifs, like that of the GMI1000 strain, but 7 eggplant-non-pathogenic strains carried a smaller
+     <italic>
+      popC
+     </italic>
+     gene encoding 10 LRR motifs, like that of R24 and BDB 225 (
+     ). These results suggest that
+     <italic>
+      popC
+     </italic>
+     (
+     <italic>
+      ripAC
+     </italic>
+     ) may be involved in eggplant-infection of RSSC.
+    </p>
+    <p>
+     The
+     <italic>
+      dhb
+     </italic>
+     gene cluster homologs were identified as pepper-specific candidate virulence genes. The metabolite 2,3-dihydroxybenzoate (DHB) works as an isochorismate-derived secondary metabolite in plants (
+     ), or a key intermediate of several siderophores: enterobactin (
+     <italic>
+      Salmonella enterica
+     </italic>
+     and
+     <italic>
+      Escherichia coli
+     </italic>
+     ), anguibactin, and vanchrobacin (
+     <italic>
+      Vibrio anguillarum
+     </italic>
+     ) (
+     ;
+     ). Siderophores are low molecular weight iron-chelating molecules that facilitates iron uptake in many gram-negative bacteria. Iron uptake systems are critical for the function of some pathogens to infect host plants to lead to disease (
+     ). In the pepper-non-pathogenic RSSC strains, the
+     <italic>
+      dhb
+     </italic>
+     gene cluster homologs and other related genes were absent. This deficiency appeared to affect the ability of the bacteria to infect pepper.
+    </p>
+    <p>
+     A previous study identified a pepper-specific avirulence gene
+     <italic>
+      rsa1
+     </italic>
+     , which confers avirulence to a pepper-pathogenic strain, from a potato pathogenic SL2029 (
+     ). In our study, this
+     <italic>
+      rsa1
+     </italic>
+     gene was present in the genome of all pepper non-pathogenic phylotype IV strains of Korean RSSC as expected. However, the
+     <italic>
+      rsa1
+     </italic>
+     gene was not identified as a host-specific avirulence gene in comparative analysis. This was because one of phylotype I strains, SL3103, does not carry
+     <italic>
+      rsa1
+     </italic>
+     gene in its genome while this strain was pepper non-pathogenic unlike to other phylotype I strains. It is likely that the strain SL3103 is pepper non-pathogenic due to the absence of
+     <italic>
+      dhb
+     </italic>
+     gene cluster (
+     and
+     ), while other phylotype I strains carry
+     <italic>
+      dhb
+     </italic>
+     gene cluster.
+    </p>
+    <p>
+     Our extensive comparative genomic analyses uncovered several genes associated with the pathogenicity of RSSC on different crops. It is likely that the host-specificity of RSSC will be a function of the comprehensive actions of various virulence factors, effectors, secretion systems, and metabolic enzymes. Although further biological functions of these genes should be determined, these data contribute to expand our understanding on the host specificity of RSSC.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="data-availability">
+    <title>
+     Data Availability
+    </title>
+    <p>
+     The whole genome sequences of 25 Korean RSSC strains can be found in the NCBI GenBank and the accession numbers are listed in
+     .
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Author Contributions
+    </title>
+    <p>
+     HC, E-SS, DP, J-GK, and IH conceived and designed the study. YL, SL, and S-WL provided the RSSC isolates and related information. HC and E-SS carried out the experiments. JB and T-HL assembled and analyzed the genomes. HC and IH analyzed and interpreted the data. HC, SH, and S-WL prepared the manuscript.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Conflict of Interest Statement
+    </title>
+    <p>
+     The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

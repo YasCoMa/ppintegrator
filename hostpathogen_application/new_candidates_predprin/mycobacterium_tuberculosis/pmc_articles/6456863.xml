@@ -1,0 +1,1376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  The Prophages of
+ </title>
+ <abstract>
+  <p>
+   Bacteriophages are obligate intracellular parasites of bacteria. Some bacteriophages can confer novel bacterial phenotypes, including pathogenicity, through horizontal gene transfer (HGT). The pathogenic bacterium
+   <named-content content-type="genus-species">
+    Citrobacter rodentium
+   </named-content>
+   infects mice using mechanisms similar to those employed by human gastrointestinal pathogens, making it an important model organism. Here, we examined the 10 prophages of
+   <named-content content-type="genus-species">
+    C. rodentium
+   </named-content>
+   , investigating their roles in its evolution toward virulence. We characterized ΦNP and ΦSM, two endogenous active temperate bacteriophages likely important for HGT. We showed that the 10 prophages encode predicted virulence factors and are conserved within other intestinal pathogens. Phylogenetic analysis suggested that they represent a conserved family of horizontally acquired enteric-bacterium-associated pathogenic determinants. Consequently, similar analysis of prophage elements in other pathogens might further understanding of their evolution and pathology.
+  </p>
+  <p>
+   Prophage-mediated horizontal gene transfer (HGT) plays a key role in the evolution of bacteria, enabling access to new environmental niches, including pathogenicity.
+   <named-content content-type="genus-species">
+    Citrobacter rodentium
+   </named-content>
+   is a host-adapted intestinal mouse pathogen and important model organism for attaching and effacing (A/E) pathogens, including the clinically significant enterohaemorrhagic and enteropathogenic
+   <named-content content-type="genus-species">
+    Escherichia coli
+   </named-content>
+   (EHEC and EPEC, respectively). Even though
+   <named-content content-type="genus-species">
+    C. rodentium
+   </named-content>
+   contains 10 prophage genomic regions, including an active temperate phage, ΦNP, little was known regarding the nature of
+   <named-content content-type="genus-species">
+    C. rodentium
+   </named-content>
+   prophages in the bacterium’s evolution toward pathogenicity. In this study, our characterization of ΦNP led to the discovery of a second, fully functional temperate phage, named ΦSM. We identify the bacterial host receptor for both phages as lipopolysaccharide (LPS). ΦNP and ΦSM are likely important mediators of HGT in
+   <named-content content-type="genus-species">
+    C. rodentium
+   </named-content>
+   . Bioinformatic analysis of the 10 prophage regions reveals cargo genes encoding known virulence factors, including several type III secretion system (T3SS) effectors.
+   <named-content content-type="genus-species">
+    C. rodentium
+   </named-content>
+   prophages are conserved across a wide range of pathogenic enteric bacteria, including EPEC and EHEC as well as pathogenic strains of
+   <named-content content-type="genus-species">
+    Salmonella enterica
+   </named-content>
+   ,
+   <named-content content-type="genus-species">
+    Shigella boydii
+   </named-content>
+   , and
+   <named-content content-type="genus-species">
+    Klebsiella pneumoniae
+   </named-content>
+   . Phylogenetic analysis of core enteric backbone genes compared against prophage evolutionary models suggests that these prophages represent an important, conserved family of horizontally acquired enteric-bacterium-associated pathogenicity determinants. In addition to highlighting the transformative role of bacteriophage-mediated HGT in
+   <named-content content-type="genus-species">
+    C. rodentium
+   </named-content>
+   ’s evolution toward pathogenicity, these data suggest that the examination of conserved families of prophages in other pathogenic bacteria and disease outbreaks might provide deeper evolutionary and pathological insights otherwise obscured by more classical analysis.
+  </p>
+  <p>
+   <bold>
+    IMPORTANCE
+   </bold>
+   Bacteriophages are obligate intracellular parasites of bacteria. Some bacteriophages can confer novel bacterial phenotypes, including pathogenicity, through horizontal gene transfer (HGT). The pathogenic bacterium
+   <named-content content-type="genus-species">
+    Citrobacter rodentium
+   </named-content>
+   infects mice using mechanisms similar to those employed by human gastrointestinal pathogens, making it an important model organism. Here, we examined the 10 prophages of
+   <named-content content-type="genus-species">
+    C. rodentium
+   </named-content>
+   , investigating their roles in its evolution toward virulence. We characterized ΦNP and ΦSM, two endogenous active temperate bacteriophages likely important for HGT. We showed that the 10 prophages encode predicted virulence factors and are conserved within other intestinal pathogens. Phylogenetic analysis suggested that they represent a conserved family of horizontally acquired enteric-bacterium-associated pathogenic determinants. Consequently, similar analysis of prophage elements in other pathogens might further understanding of their evolution and pathology.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="s1" sec-type="intro">
+    <title>
+     INTRODUCTION
+    </title>
+    <p>
+     The nonmotile, Gram-negative, enteric bacterium
+     <named-content content-type="genus-species">
+      Citrobacter rodentium
+     </named-content>
+     is a natural host-adapted intestinal mouse pathogen, the causative agent of transmissible murine colonic hyperplasia, and an important model organism for the study of enteric pathogens of the attaching and effacing (A/E) family (     ).
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     was first isolated in 1972 from an outbreak of diarrhea in Swiss-Webster mice and then “rediscovered” by Schauer and Falkow in 1993 (     ). It was originally classified as
+     <named-content content-type="genus-species">
+      Citrobacter freundii
+     </named-content>
+     biotype 4280 (ATCC 51459). There are two primary reference strains: DBS100 and ICC168 (     ,     ).
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     is a member of the A/E family of gastrointestinal pathogens. A/E members are characterized by the colonization of intestinal mucosa followed by the formation of so-called A/E lesions within the intestinal epithelium. These lesions are typified by the effacement of brush border microvilli and the formation of pedestal-like structures underneath the adherent bacterium. Lesion formation and epithelial distension are facilitated by a type III secretion system (T3SS) which injects effectors into infected epithelial cells, thereby reprogramming cell signaling, reorganizing cytoskeletal structures, and subverting native immune responses (     ,     ).
+    </p>
+    <p>
+     The human enteric pathogens enteropathogenic
+     <named-content content-type="genus-species">
+      Escherichia coli
+     </named-content>
+     (EPEC) and enterohaemorrhagic
+     <named-content content-type="genus-species">
+      E. coli
+     </named-content>
+     (EHEC) are also members of the A/E family. EPEC is a major cause of infantile diarrhea, a leading source of high morbidity and mortality rates in developing countries (     ). EHEC strains, notably serovar O157:H7, express the highly potent Shiga toxin (Stx), a causative agent of kidney failure, and are prevalent worldwide (     ). Despite their clinical relevance, EPEC and EHEC have been difficult to study primarily due to their inability to infect mouse models. Importantly, it has been shown that EPEC and EHEC share a large portion of their genomes as well as their characterized proteomes with
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     , including the locus of enterocyte effacement (LEE) pathogenicity island, which encodes several effector proteins and the T3SS required for A/E virulence (     ,     ). Consequently,
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     has become the standard for modeling human intestinal disease and A/E member pathogens such as EPEC and EHEC (     ,     ).
+    </p>
+    <p>
+     The whole-genome sequencing of
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     ICC168, the most widely studied reference strain, revealed that the bacterium’s genome is unstable as a result of repeat-mediated, large-scale genomic recombination due to the active transposition of mobile genetic elements such as prophages and that the bacterium probably represents a recently evolved pathogen of mice, possibly having emerged concurrently with the use of mouse models for human enteric diseases (     ). In addition, the study of Petty et al. first identified a novel, active temperate bacteriophage, ΦNP, spontaneously released by
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     (     ).
+    </p>
+    <p>
+     With an estimated global 10     phage particles, bacteriophages are thought to be the most abundant biological entities on Earth and are important drivers of bacterial evolution (     ). The injected genomic DNA (gDNA) of some temperate phages can integrate into a specific locus of the host chromosome. This incorporated phage gDNA (termed a prophage) can then propagate through bacterial replication into populations of lysogen daughter cells until environmental cues stimulate excision and replication of the prophage element, directing the phages into the lytic cycle (     ,     ). Prophage regions often act as mobile elements, and so the acquisition, alteration, and exchange of prophage-encoded traits through lysogeny represents a major source of horizontally mediated genomic flux within microbial populations. This mode of horizontal gene transfer (HGT) is often the primary step in the evolution of a bacterial species toward a pathogenic lifestyle, with several notable pathogens possessing key virulence traits encoded within prophage elements (     ). In some instances, strains of EHEC have been shown to rely entirely on prophage induction to initiate host infection and renal disease (     ). Genomic integration of foreign prophage elements can also impact the expression of native coding regions, altering phenotype and adaptively driving bacteria toward niches previously inaccessible or unfavorable (     ,     ). Prophages can also serve as loci allowing incorporation and genetic exchange of so-called “fitness factors” (     ). Fitness factors can enhance bacterial adaptation to environmental burdens, thereby allowing access to novel niches without necessarily contributing directly to pathogenesis. However, while prophages are known to be important for virulence phenotypes in other bacteria, they have not been studied in detail in
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     .
+    </p>
+    <p>
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     genetics and mechanisms of LEE-facilitated host infection and interaction are well characterized (     ). A recent study examined the spatiotemporal relationship of
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     infection and the host microbiome, demonstrating a reliance on commensal gut microbiota for successful colonization of colonic mucosa (     ). However, there is a paucity of information on the nature and importance of
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     prophage-associated non-LEE virulence traits and genetic exchange in relation to host infection and the microbiome of the murine gut. Here, we present a detailed investigation of the prophages of
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     ICC168, examining their biology and possible impact on the evolution of this A/E model organism toward pathogenicity. In addition to further examining the biology of ΦNP, we isolated and characterized a second, spontaneously released, functional temperate phage, ΦSM. We examined both ΦNP and ΦSM lysogen fitness and found evidence for nondeleterious prophage chromosomal integration and widely conserved prophage insertion site sequences across bacteria for both phages. We also identified the ΦNP and ΦSM bacterial surface receptors as lipopolysaccharide (LPS) residues, GlcII and GlcIII, respectively, common extracellular surface components in Gram-negative bacteria. We suggest that these temperate phages are likely key facilitators of HGT within
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     and the enteric environment. We also provide evidence for functional gene loss and cargo gene acquisition, including several T3SS effectors, due to prophage integration possibly associated with
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     ’s virulence. Furthermore, we demonstrate the conservation of similar prophage regions in other known enteric pathogens and show that these conserved prophage loci are horizontally acquired, candidate virulence effector-containing elements and, conversely, not components of an ancestral enteric pathogen backbone. These observations provide new avenues for investigation of the non-LEE-associated pathogenesis determinants of
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     and suggest that similar, systematic examination of prophage elements in other pathogenic bacteria, including strains associated with human disease outbreaks, might provide deeper evolutionary and pathological insights otherwise obscured by more classical backbone or 16S rRNA analysis.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s2" sec-type="results">
+    <title>
+     RESULTS
+    </title>
+    <sec id="s2.1">
+     <title>
+      <named-content content-type="genus-species">
+       Citrobacter rodentium
+      </named-content>
+      spontaneously releases two temperate bacteriophages.
+     </title>
+     <p>
+      The genomes of
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      ICC168 and DBS100 both contain 10 prophage regions, with 5 intact regions and 5 remnants of various degrees: ΦNP (44,907 bp), CRP28 (40,425 bp), CRP38 (36,759 bp), CRP49 (40,460 bp), CRP99 (37,185 bp), CRPr11 (7,975 bp), lambdoid remnant CRPr13 (10,555 bp), lambdoid remnant CRPr17 (6,476 bp), CRPr20 (19,000 bp), and CRPr33 (3,912 bp) (see Data Set S1 in the supplemental material). Despite evidence of induction and excision of CRP28, CRP38, CRP48, and CRP99 under standard LB growth conditions, only ΦNP had been previously reported to spontaneously generate viable temperate phage particles (      ). That initial study characterized ΦNP as a member of the
+      <italic>
+       Myoviridae
+      </italic>
+      , identified its integration site as a 25-bp region corresponding to the 3′ terminal region of the tmRNA-encoding
+      <italic>
+       ssrA
+      </italic>
+      gene, and noted that the host range of ΦNP includes derivatives of
+      <named-content content-type="genus-species">
+       Escherichia coli
+      </named-content>
+      K-12, from which ΦNP lysogens could be isolated. This temperate phage may play a role in the natural genomic flux of
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      and has potential for use in host strain engineering through synthetic biology methods. Consequently, we first reexamined the host range of ΦNP.
+     </p>
+     <p>
+      To investigate ΦNP host range, we titrated single plaque-purified ΦNP
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      K-12 strain ER2507 lysates on a variety of
+      <italic>
+       Gammaproteobacteria
+      </italic>
+      , including six derivatives of
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      K-12 representing commonly utilized laboratory strains (BW25113 and DH5α), well-studied wild-type (WT) strains (MG1655 and W3110), and strains shown to be highly permissive for phage ΦNP replication in earlier studies (ER2507 and LE392) (      ) as well as on several strains of
+      <named-content content-type="genus-species">
+       Serratia marcescens
+      </named-content>
+      ,
+      <italic>
+       Serratia
+      </italic>
+      sp. strain ATTC 39006,
+      <named-content content-type="genus-species">
+       Salmonella enterica
+      </named-content>
+      serovar Typhimurium 5383,
+      <named-content content-type="genus-species">
+       Pantoea agglomerans
+      </named-content>
+      10Bp14,
+      <named-content content-type="genus-species">
+       Citrobacter freundii
+      </named-content>
+      Ballerup 7851,
+      <named-content content-type="genus-species">
+       Pseudomonas aeruginosa
+      </named-content>
+      PAO1,
+      <named-content content-type="genus-species">
+       Kluyvera cryocrescens
+      </named-content>
+      2Kr27,
+      <named-content content-type="genus-species">
+       Dickeya solani
+      </named-content>
+      MK10,
+      <named-content content-type="genus-species">
+       Yersinia enterocolitica
+      </named-content>
+      ,
+      <named-content content-type="genus-species">
+       Pectobacterium atrosepticum
+      </named-content>
+      SCRI-1043, and
+      <named-content content-type="genus-species">
+       Photorhabdus luminescens
+      </named-content>
+      subsp.
+      <italic>
+       laumondii
+      </italic>
+      TT01. Visible plaques formed only on K-12 derivatives ER2507, MG1655, W3110, and LE392. In contrast to the previous report (      ), ΦNP did not form plaques on DH5α. To verify these observations and to exclude the possibility that restriction-modification was preventing infection, we conducted a two-round efficiency of plating (EOP) assay utilizing four derivatives of K-12 with chloroform-treated supernatant of an overnight
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      culture instead of phages isolated from K-12 isolates (      ). The presence of restriction-modification would be marked by an increase of apparent titer when phages isolated from an initial host screen was used to reinfect the same host strain. In addition, decreases in apparent titers might be observed when other non-phage-derived K-12 host strains were infected.
+     </p>
+     <p>
+      Interestingly, we observed that plaques could form across all the
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      strains tested, including DH5α, albeit at far lower efficiency (with an initial apparent titer of ∼10      PFU/ml) (      ). Despite intact restriction-modification, the
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      K-12 strain MG1655 displayed a 1,000-fold greater susceptibility to plaque formation than DH5α. Phages from each K-12 strain were single-plaque purified and retested on each of the four strains (      to      ). Phages that were isolated from ER2507, LE392, and MG1655 did not form plaques on DH5α (      ,      , and      ). Conversely, phages isolated from DH5α agar top lawns (      ) were capable of forming plaques on all four K-12 strains. Moreover, the apparent reduction in titer first seen from titrating
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      supernatant on DH5α was recovered (      ), while EOPs of phages purified from ER207, LE392, and MG1655 were largely consistent with initial-round efficiencies (      ,      , and      ). Only phages isolated from MG1655 demonstrated a possible restriction-modification effect due to a decreased apparent viral titer of MG1655 harboring ΦNP [MG1655(ΦNP)] in ER2507 and LE392 hosts (      , ΦNP*MG1655). These results suggested that the inability of phages isolated from ER2507, LE392, or MG1655 to form plaques on DH5α was not a result of strain-specific mutations or restriction-modification but, more likely, indicated the presence of a second fully functional phage spontaneously released at a low titer into the supernatant by
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      .
+     </p>
+     <p>
+      To test this hypothesis, we first analyzed high-titer phage lysates isolated from single plaques formed by titrating the
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      supernatant on ER2507 and DH5α using phage genomic fingerprinting (      ). Digestion with BamHI revealed two unique cut patterns for phage gDNA extracted from ER2507 lysates with respect to those extracted from DH5α. Virtual fingerprint gels were constructed for each of the intact and (because of its substantially intact nature) CRPr20
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      prophage regions to compare digestion patterns (      and Fig. S1). The fingerprint gDNA isolated from phage lysates propagated on ER2507 corresponded to the predicted digestion pattern of ΦNP. In contrast, the fingerprint of phage isolated from DH5α lysates corresponded to the predicted digestion pattern of prophage CRP38. To verify this identity, primers SM.P67 and SM.P69, corresponding to the 15,000- and 17,250-bp regions of CRP38, were used to amplify both the extracted phage gDNA as well as chromosomal DNA extracted from putative DH5α CRP38 lysogens. These PCR products were sequenced and confirmed to be amplified fragments of CRP38. This further showed that the second phage released by
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      was the product of prophage region CRP38. This newly identified, fully functional temperate phage was named ΦSM.
+     </p>
+     <p>
+      Using transmission electron microscopy (TEM), we examined the morphology of ΦSM (      ). ΦSM virions had long, noncontractile tails even when in a bound state (      ) and isometric heads, placing them within the order
+      <italic>
+       Caudovirales
+      </italic>
+      and family
+      <italic>
+       Siphoviridae
+      </italic>
+      , the same classification as the well-characterized phage λ (      ). TEM of ΦNP lysates revealed the characteristic short, contractile tail associated with order
+      <italic>
+       Caudovirales
+      </italic>
+      and family
+      <italic>
+       Myoviridae
+      </italic>
+      members (      ), such as the well-studied phage T4 (      ). Following reannotation, the genetic organizations of both ΦNP and ΦSM were shown to exhibit functional modularity (      ), common among bacteriophages (      ).
+     </p>
+     <p>
+      While capable of forming plaques across the K-12 strains examined in this study, ΦSM was present in the supernatant of overnight cultures of
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      at a significantly lower titer than ΦNP (∼10      PFU/ml for ΦSM and ∼10      to 10      PFU/ml for ΦNP). Consequently, isolation of pure ΦSM from plaques generated on strains other than DH5α or its morphological characterization via TEM using the supernatant of
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      proved difficult. Moreover, ΦSM was found to produce small, turbid, pinpoint plaques, indistinguishable from those produced by ΦNP (Fig. S2). These observations explained the initial oversight of the presence of ΦSM in earlier studies.
+     </p>
+     <p>
+      Cultures made from colonies of putative lysogens, picked and purified from turbid spots on DH5α agar top lawns, spontaneously released phages into their supernatant and were immune to ΦSM superinfection in top agar spot tests, confirming ΦSM as a temperate phage. Strains lysogenic for ΦSM were isolated from
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      K-12 strains BW25113, W3110, MG1655, LE392, DH5α, and ER2507. ΦNP and ΦSM proved to be heteroimmune, with ΦNP capable of infecting and lysogenizing ΦSM lysogens and
+      <italic>
+       vice versa
+      </italic>
+      . This allowed the construction of both single and dual ΦNP and ΦSM lysogens. DH5α strains lysogenic for ΦNP [DH5α(ΦNP)] could not be constructed by these standard methods. Interestingly, adsorption assays of free ΦNP and ΦSM using
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      K-12 strains ER2507 and DH5α showed similar kinetics (      ), suggesting that the inability of ΦNP to form plaques on DH5α may involve postinfection mechanisms such as issues with prophage induction or replication.
+     </p>
+     <p>
+      ΦNP and ΦSM were also differentiated by hydroxylamine sensitivity, with faster inactivation kinetics seen with ΦSM, consistent with its smaller (∼10 kbp) genome size (      ). Both phages were capable of generating viable phage particles via gDNA transfection of chemically competent
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      K-12 ER2507 cells (      ). Last, the structural proteome of each phage was visualized by SDS-PAGE following polyethylene glycol (PEG) 8000 and CsCl gradient purification, with bands corresponding to the sizes of predicted structural proteins, some of which were verified by matrix-assisted laser desorption ionization (MALDI) fingerprinting (Fig. S3).
+     </p>
+    </sec>
+    <sec id="s2.2">
+     <title>
+      ΦNP and ΦSM chromosomal integration is nondeleterious in
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      K-12 hosts.
+     </title>
+     <p>
+      In addition to enabling horizontal genetic transfer, phages can also regulate bacterial populations through lytic action on prey species and fitness effects on lysogenized hosts (      ,      ). Given
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      ’s adaptation to the murine intestine and the expected spontaneous release of two different temperate phages into the local gut microbiome, we were interested in assessing the effect of prophage integration on the fitness of lysogen and potential prey species, using
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      as an appropriate host candidate.
+     </p>
+     <p>
+      Growth of
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      lysogens ER2507(ΦNP), ER2507(ΦSM), and ER2507 harboring both ΦNP and ΦSM [ER2507(ΦNP+ΦSM)] at 37°C in LB medium was recorded over 360 min with culture samples taken throughout growth for quantification of phage release (      ). Growth of single and dual lysogens demonstrated an initial lag but demonstrated similar growth kinetics to the nonlysogenic ER2507 WT control. Phage release and accumulation were directly proportional to culture density, with phage titer leveling off in late exponential and early stationary phases. This suggested a phage-host equilibrium in which the spontaneous lysis of lysogenic cells reached a steady state with cell density and replication as seen in phage λ models (      ). Next, growth of MG1655(ΦNP) and MG1655(ΦSM) was recorded at 37°C in M9 minimal medium (0.4% glucose) over 15 h (      ). Growth of lysogens was similar to that of the MG1655 WT control. Taken together, these data suggested that ΦNP and ΦSM prophage integration and spontaneous induction had no discernible deleterious impacts in
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      K-12 hosts under these growth conditions.
+     </p>
+     <p>
+      The phage attachment site (
+      <italic>
+       attP
+      </italic>
+      ) of ΦNP DNA is a 25-bp (5′-TGGTGGAGCTGGCGGGAGTTGAACC-3′) sequence corresponding to the chromosomal insertion site (
+      <italic>
+       attB
+      </italic>
+      ) comprising the 3′ terminal region of the
+      <italic>
+       ssrA
+      </italic>
+      gene in
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      K-12 (      ) (      ). The
+      <italic>
+       ssrA
+      </italic>
+      gene encodes a transfer mRNA (tmRNA); this class of molecule can act as an intermediary between transfer RNAs (tRNA) and messenger RNAs (mRNA), serving to release stalled ribosomes from the end of defective mRNA with no stop codon (      ). Integration of ΦNP DNA generates a repeat that reconstitutes an intact
+      <italic>
+       ssrA
+      </italic>
+      gene (      ) (      ). Using random-primed PCR (RP-PCR) and Sanger sequencing, we revalidated the integration site. Sequencing confirmed the same
+      <italic>
+       ssrA
+      </italic>
+      chromosomal insertion site across several lysogens, affirming prior results and demonstrating site conservation across multiple K-12 derivative strains.
+     </p>
+     <p>
+      Using similar methods, we found the
+      <italic>
+       attP
+      </italic>
+      site of ΦSM to be a 17-bp sequence (5′-ATCCTTGTTGATGAAAA-3′), corresponding to an
+      <italic>
+       attB
+      </italic>
+      6 bp within the 5′ terminal start of the
+      <italic>
+       pdxB
+      </italic>
+      gene in
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      K-12 (      ). The gene
+      <italic>
+       pdxB
+      </italic>
+      encodes erythronate-4-phosphate dehydrogenase, the second catalyzing enzyme in the subpathway of pyridoxal 5′-phosphate (PLP) biosynthesis, which is itself part of cofactor vitamin B
+      <sub>
+       6
+      </sub>
+      biosynthesis (      ).
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      contains at least 60 enzymes which utilize PLP, and
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      mutants lacking PdxB are auxotrophic: they are unable to grow on M9 minimal medium with glucose as a sole carbon source (      ). The insertion of the ΦSM phage DNA in
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      K-12 truncates the
+      <italic>
+       pdxB
+      </italic>
+      coding region, generating a loss of the ATG (methionine) start codon and the AAA (lysine) codon and separation of the remaining reading frame from native regulatory elements upstream. No
+      <italic>
+       pdxB
+      </italic>
+      homologue is found within the ΦSM genome. However, further bioinformatic interrogation revealed a possible in-frame TTG (methionine/leucine) rare start codon located within the inserted prophage element 41 bp upstream of the truncated
+      <italic>
+       pdxB
+      </italic>
+      gene. From this TTG site, a near-consensus Shine-Dalgarno sequence (      ) (5′-AAGGAG-3′) was found at the bp −7 position. In addition, utilizing a database of known phage-regulatory genomic regions, phiSITE (      ), a near-consensus Pribnow box (or −10 box) (5′-TAAAGG-3′) was found at the bp −10 position with a second near-consensus promoter sequence (5′-TTGCAA-3′) located at the bp −31 position (      ) (      ). Despite the apparent truncation generated by the ΦSM prophage insertion, MG1655(ΦSM) strains were able to grow on minimal medium (      ). This suggested that the ΦSM prophage insertion into the 5′ end of
+      <italic>
+       pdxB
+      </italic>
+      caused no functional loss of the cognate product.
+     </p>
+     <p>
+      Further analysis revealed that the 25-bp
+      <italic>
+       ssrA
+      </italic>
+      and 17-bp
+      <italic>
+       pdxB
+      </italic>
+      (or
+      <italic>
+       traF
+      </italic>
+      in
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      ; see below) integration sites and corresponding coding regions are widely conserved across bacteria (showing 8,349 unique matches for the ΦNP integration site and 3,668 unique matches for the ΦSM integration site with 100% base pair identity). Most sequence conservation for both ΦNP and ΦSM was found in species of the
+      <named-content content-type="genus-species">
+       Enterobacteriaceae
+      </named-content>
+      (including species of
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      ,
+      <italic>
+       Salmonella, Shigella, Klebsiella,
+      </italic>
+      and
+      <italic>
+       Citrobacter
+      </italic>
+      ); unique taxon matches were also identified for each phage, such as bacteria of
+      <italic>
+       Vibrionaceae
+      </italic>
+      and
+      <italic>
+       Pasteurellaceae
+      </italic>
+      for ΦNP and of
+      <italic>
+       Terrabacteria
+      </italic>
+      and
+      <italic>
+       Bacteroidetes
+      </italic>
+      for ΦSM. In conjunction with nondeleterious phage infection and prophage integration maintaining host fitness, widespread conservation of integration sites (allowing access to a broader range of potential hosts) suggests that these phages evolved in such a way as to better facilitate HGT within the enteric environment.
+     </p>
+    </sec>
+    <sec id="s2.3">
+     <title>
+      The receptor of ΦNP and ΦSM is LPS.
+     </title>
+     <p>
+      Bacteriophage host recognition and binding (adsorption) to a receptor are the first stage of phage infection and the primary limiting factor of phage propagation and host range. Receptors exploited by phages can be any component of the bacterial surface ranging from residues of the lipopolysaccharide (LPS) in Gram-negative bacteria (one of the most common receptors) to flagella, pili, or surface membrane proteins (      ,      ). Some phages use a dual-receptor model of adsorption, such as phage T4 which requires both specific LPS residues as well as the outer membrane protein, OmpC, to infect (      ,      ).
+     </p>
+     <p>
+      To provide insight into potential microbiome interactions and host range specificities, we examined the
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      ΦNP and ΦSM host receptors. We constructed a library of randomly inserted transposon mutants of
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      K-12 and screened them against ΦNP and ΦSM. Mutants displaying elevated resistance to infection were screened further, and the corresponding transposon insertion sites were identified. For both phages, sequencing revealed numerous mutants with transposon insertions in genes responsible for the enzymatic steps of core lipopolysaccharide (LPS) biosynthesis.
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      LPS consists of three regions: (i) lipid A, the hydrophobic membrane anchor, (ii) a short core oligosaccharide (core OS, comprised of an inner and outer region), and (iii) a polymer of glycosyl units known as O polysaccharide (O-PS).
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      K-12 lacks an O-PS (also called an O antigen), and the core OS is the outermost layer (      ,      ). Each gene of the biosynthetic cluster is proposed to catalyze a specific glycosylation step of LPS core biosynthesis (Fig. S4).
+     </p>
+     <p>
+      To determine receptor specificity, we employed single in-frame LPS gene knockout mutants to assess EOP against both phages (      ) (      ,      ). For both ΦNP and ΦSM, we noted highly resistant mutants. For both phages, the galactose (Gal) side-chain-deficient JW3603-2 (Δ
+      <italic>
+       waaB
+      </italic>
+      ::
+      <italic>
+       kan
+      </italic>
+      ) mutants showed no discernible resistance. For ΦNP, all other knockouts, except JW3601-3 (Δ
+      <italic>
+       waaR
+      </italic>
+      ::
+      <italic>
+       kan
+      </italic>
+      ), demonstrated total resistance (with EOPs of &lt;10      PFU/ml). This suggested that glucose II (GlcII), the addition of which is catalyzed by the product of
+      <italic>
+       waaO
+      </italic>
+      , is an essential LPS residue for ΦNP infection. Interestingly, JW3601-3 (Δ
+      <italic>
+       waaR
+      </italic>
+      ::
+      <italic>
+       kan
+      </italic>
+      ) mutants demonstrated total resistance to ΦSM, as did all other LPS mutants (except the TY0703 Δ
+      <italic>
+       waaO-waaB
+      </italic>
+      ::
+      <italic>
+       cm
+      </italic>
+      strains). This suggested that ΦSM, like ΦNP, relies on LPS for infection but utilizes a different set of residues, namely, GlcIII or GlcI (with no Gal side chain) for infection.
+     </p>
+     <p>
+      Next, we conducted soft-agar top lawn spot and adsorption assays with complemented
+      <italic>
+       waaO
+      </italic>
+      in JW3602-1 for ΦNP and
+      <italic>
+       waaR
+      </italic>
+      in JW3601-3 for ΦSM (      ). Complementation of
+      <italic>
+       waaO
+      </italic>
+      in JW3602-1 restored ΦNP phage sensitivity, as determined by plaque formation (      to      ). Similarly, rescue of
+      <italic>
+       waaR
+      </italic>
+      in JW3601-3 restored ΦSM phage sensitivity (      to      ). LPS mutant strains exhibited little to no phage adsorption in both cases, with sugar transferase complementation restoring phage binding and kinetics to levels similar to those of the BW25113 WT (      and      ). These data confirmed that ΦNP and ΦSM utilize residue-specific LPS components for adsorption and infection, with ΦNP utilizing the GlcII residue and ΦSM utilizing the GlcIII residue. Interestingly, the alignments of the translated open reading frames (ORFs) performed by tblastx of the genomes of ΦNP and ΦSM revealed little homology, suggesting convergent evolution toward LPS binding specificity (      ).
+     </p>
+     <p>
+      In addition, tests were conducted on in-frame knockout mutants defective for other common phage receptors (Δ
+      <italic>
+       fhuA
+      </italic>
+      ::
+      <italic>
+       kan
+      </italic>
+      , Δ
+      <italic>
+       tsx
+      </italic>
+      ::
+      <italic>
+       kan
+      </italic>
+      , Δ
+      <italic>
+       ompF
+      </italic>
+      ::
+      <italic>
+       kan
+      </italic>
+      , Δ
+      <italic>
+       ompA
+      </italic>
+      ::
+      <italic>
+       kan
+      </italic>
+      , Δ
+      <italic>
+       ompW
+      </italic>
+      ::
+      <italic>
+       kan
+      </italic>
+      , Δ
+      <italic>
+       uidC
+      </italic>
+      ::
+      <italic>
+       kan
+      </italic>
+      , Δ
+      <italic>
+       fadL
+      </italic>
+      ::
+      <italic>
+       kan
+      </italic>
+      , Δ
+      <italic>
+       yicC
+      </italic>
+      ::
+      <italic>
+       kan
+      </italic>
+      , Δ
+      <italic>
+       lamB
+      </italic>
+      ::
+      <italic>
+       kan
+      </italic>
+      , and Δ
+      <italic>
+       ompC
+      </italic>
+      ::
+      <italic>
+       kan
+      </italic>
+      strains) with no drop in EOP observed. ΦNP and ΦSM were also tested against dual Δ
+      <italic>
+       ompC
+      </italic>
+      ::
+      <italic>
+       kan
+      </italic>
+      -LPS::
+      <italic>
+       cm
+      </italic>
+      knockout mutants, showing no deviation of results gathered from single-LPS knockouts (EOPs consistent with those shown in      ).
+     </p>
+    </sec>
+    <sec id="s2.4">
+     <title>
+      ΦSM and reservoir CRPr20: a possible means of overcoming functional gene loss.
+     </title>
+     <p>
+      Previous studies identified functional accessory and core gene loss due to 5 of 10 prophage integrations within the
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      chromosome possibly responsible for evolution toward its pathogenic niche (      ,      ). CRPr20 and CRP28 were identified as inserted within the Flag-1 and -2 flagellar biosynthetic gene clusters, respectively, suggesting a direct relationship between prophage integration and
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      ’s loss of motility. CRP49 was noted to have inserted into
+      <italic>
+       gatD
+      </italic>
+      (encoding galactitol-1-phosphate dehydrogenase), which is essential for the metabolism of galactitol, and
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      was unable to grow with this as a sole carbon source (      ,      ).
+     </p>
+     <p>
+      While the function of the gene disrupted by CRP99 insertion remained unclear, our bioinformatic reassessment of the
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      chromosome suggested a potential function for the previously hypothetical coding domain perturbed by ΦSM prophage integration (      ). Unlike the case in
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      K-12 but utilizing an identical
+      <italic>
+       attB
+      </italic>
+      sequence, in
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      ΦSM integrates into the middle of a gene encoding a 421-amino-acid (aa) putative conjugal transfer protein with a conserved
+      <italic>
+       traF
+      </italic>
+      domain (pfam13729, demonstrating 95% identity to the conjugal transfer proteins of other species of
+      <italic>
+       Citrobacter
+      </italic>
+      and 85% amino acid identity to that of
+      <named-content content-type="genus-species">
+       Salmonella enterica
+      </named-content>
+      ). TraF is a protein involved in the F-plasmid-specific type IV secretion system (T4SS) and is required for pilus assembly (      ). The immediate upstream and downstream genomic regions surrounding
+      <italic>
+       traF
+      </italic>
+      as far as 100 kbp in each direction contain various metabolic and regulatory coding regions with no apparent coding regions associated with mobile genetic elements, F-specific conjugative factors, or integrative conjugative elements. It is unclear if this integration interferes with the capacity for F-specific plasmid conjugal transfer in
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      as T4SS conjugation families can utilize elements from other conjugative pathways (      ). However, any potential perturbation of mechanisms related to genetic transfer might help explain the conservation of 10 prophage regions, at least 2 of which, ΦNP and ΦSM, could functionally facilitate HGT.
+     </p>
+     <p>
+      Genomic alignment of the
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      prophage regions to each other revealed ΦSM and CRPr20 to contain a high degree of sequence similarity, with 80% of CRPr20 sharing 99% nucleotide sequence identity with the 5′ and 3′ ends of ΦSM (with the other 20% of CRPr20 representing novel open reading frames predominantly found in the third quarter of the CRPr20 genome) (      ). This suggested that CRPr20 might be the result of a partial ΦSM translocation or integration event back into the genome of
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      . Notably, the deletion around the center of CRPr20 was found to occur at the juncture of ORF12 (corresponding to ORF12 in ΦSM), a predicted DNA invertase, and ORF13 (corresponding to ORF37 in ΦSM), a predicted recombinase (Data Set S1). The high level of relatedness between the two prophage regions suggests that genetic recombination could occur within the host genome. In this way, the defective CRPr20 might act as a genetic reservoir of ΦSM-facilitated horizontal acquisitions, providing an alternate storage repository for foreign coding domains within the
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      chromosome. Such a mechanism has been described with the temperate phage λ, with relaxed homologous recombination occurring with defective prophage regions in
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      that confer new accessory genes from/to each region (      ). Similarly, in
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      , this might allow for the maintenance of an important vector of horizontal genetic exchange while simultaneously facilitating the continued chromosomal incorporation of new genetic material.
+     </p>
+    </sec>
+    <sec id="s2.5">
+     <title>
+      Reannotation of the
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      prophage regions reveals cargo genes likely associated with evolution toward pathogenicity.
+     </title>
+     <p>
+      Our reannotation of the 10
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      prophages revealed the predicted function of 66 previously uncharacterized, hypothetical coding domains (Data Set S1, highlighted in green). While half of the annotated coding regions corresponded to protein products implicated in phage replication, assembly, or lysis, 32 genes encoded products of predicted function directly implicated in either known A/E virulence pathways or potential fitness-conferring capacities (      ). We identified a number of fitness factors, including such putative metabolic and housekeeping proteins as an oxidoreductase, a sulfate transporter, a serine protease, a member of the multidrug/metabolite transporter (DMT) superfamily, a sialate
+      <italic>
+       O
+      </italic>
+      -acetyltransferase, a nucleoside triphosphate pyrophosphohydrolase, a chromosome/plasmid partitioning protein, and a DNA damage-inducible protein as well as a number of non-phage-associated transcriptional regulators. While not directly linked to known virulence pathways in an obvious way, such functional duplications of native chromosomally encoded proteins might increase
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      fitness within the mouse gut environment. In this way, these potential fitness factors might encourage prophage maintenance and conservation within the
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      chromosome by counterbalancing seemingly nonbeneficial prophage protein products such as lytic enzymes.
+     </p>
+     <p>
+      Bioinformatic interrogation on the predicted protein coding level also revealed several proteins directly linked with known virulence pathways. This included VasI family-type and ClpV family-type ATPases of type VI secretion systems (T6SS). The T6SS is a targeting machinery intended for the delivery of toxins into other bacteria and, as reported in
+      <named-content content-type="genus-species">
+       Pseudomonas aeruginosa
+      </named-content>
+      , eukaryotic host cells (      ,      ). The T6SS of
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      has been shown to confer a fitness advantage within microbial communities, and, indeed, throughout infection a decrease in the abundance of host-beneficial, probiotic
+      <italic>
+       Lactobacillus
+      </italic>
+      species can be seen in addition to other commensal die-off (      ,      ). So, it is possible that the
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      T6SS and these associated protein products are implicated in this step of pathogenesis, if not also in host infection.
+     </p>
+     <p>
+      In addition, we identified nine prophage-associated coding domains as T3SS effector proteins, most closely resembling the EHEC/EPEC-coded Esp- and Nle-type effectors. While multifunctional, acting in the subversion of a variety of host signaling and metabolic pathways, almost all Esp- and Nle-type effectors studied have proven to be essential virulence determinants (      ). EPEC A/E lesion formation is dependent on non-LEE-encoded effectors (      ). Importantly, ∼90% of coding regions within the
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      prophage regions are actively transcribed under standard growth conditions, an observation marked as unusual for the normally tightly regulated expression associated with prophage elements (      ). As such, it seems likely that the cargo genes predicted to be associated with virulence and fitness discussed above represent a collection of active pathogenicity determinants exogenous to the
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      LEE and so may be promising candidates for future molecular and mechanistic study. Furthermore, a recent study showed that an EHEC O157:H7 strain 86-24 Stx-containing inducible prophage possessed a Cro-like transcription factor which activates both the EHEC and
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      T3SS, enhancing virulence (      ). This could suggest that seemingly innocuous non-phage-associated transcription factors and phage-regulatory coding genes might play a significant role in
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      virulence as well.
+     </p>
+    </sec>
+    <sec id="s2.6">
+     <title>
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      prophages are conserved across known human enteric pathogens in a horizontally acquired manner.
+     </title>
+     <p>
+      Last, we examined the prevalence of
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      prophage regions within other bacterial species. If these prophage regions are directly implicated in
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      ’s evolution toward an enteric pathogenic lifestyle, they would likely represent a conserved group of genetic elements found in other bacterial pathogens and could act as possible genetic reservoirs for the evolution of future pathogens.
+     </p>
+     <p>
+      Bioinformatic analysis by nucleotide alignment revealed the conservation of
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      prophage regions across a wide range of
+      <named-content content-type="genus-species">
+       Enterobacteriaceae
+      </named-content>
+      genomes (      ). With the exception of the ΦNP locus, conserved prophage regions showed relatively high rates of DNA sequence identity (∼80% on average). Notably, these conserved prophages maintained high degrees of similarity to the
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      prophage regions encoding possible virulence and fitness factors, with primary differentiations observed around modules regulating phage structure and assembly. In almost all cases, we identified the strains containing similar prophage regions as pathogenic. These included strains of A/E virulent EPEC and EHEC as well as pathogenic strains of
+      <named-content content-type="genus-species">
+       Salmonella enterica
+      </named-content>
+      ,
+      <named-content content-type="genus-species">
+       Shigella boydii
+      </named-content>
+      ,
+      <named-content content-type="genus-species">
+       Shigella sonnei
+      </named-content>
+      , and
+      <named-content content-type="genus-species">
+       Klebsiella pneumoniae
+      </named-content>
+      . Only two of the identified strains were originally isolated from the mouse gut, including
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      strains M8 and M10, with the majority having been isolated from human clinical isolates and most commonly from patients exhibiting diarrheagenic infection. This observation was consistent with the theory that
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      evolved concurrently with the development of mouse models for human diseases (      ) and suggested active cross-transfer between bacteria of human and mouse hosts. Deeper analysis of the previously alluded to EHEC O157:H7 strain 86-24 genome revealed a prophage (genome position, bp 2015661 to 2085889) that shares 40.1% identity to ΦSM. Although this region is not the Cro- and Stx-containing induced prophage region shown to enhance EHEC and
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      virulence (      ), this suggests another notable evolutionary link between
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      and an A/E strain reliant upon genes carried by prophages for T3SS activity and virulence.
+     </p>
+     <p>
+      We also compared the
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      prophage regions to a database of viral genome sequences. Only ΦSM yielded a substantial match, showing 76.8% sequence identity to enterobacterial phage P88 (      ). Phage P88 is a recently isolated P2-like phage generated by chemical induction of a porcine enterotoxigenic
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      K88 prophage region and has been shown to be capable of lysing a wide range of
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      strains (      ). The K88 genome contains 40 genomic islands, totaling 814 kb (15%) in total genome content, and 15 of these islands are prophage-associated loci, including P88 (      ). Studies have found portions of these islands in
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      O157:H7 to be involved in colonization of ligated pig intestine (      ). In this way, ΦSM is representative of a conserved, fully functional temperate phage found across at least two known enteric pathogens. It is likely that conserved ΦSM-like prophages are either spontaneously active, as with ΦSM, or could be induced, as with P88.
+     </p>
+     <p>
+      These data suggest that the
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      prophages represent a set of genetic elements conserved across enteric bacteria that evolved toward pathogenicity. We next examined whether these prophage regions existed as a function of a shared pathogenic enteric backbone or represented horizontally acquired, mobile determinants of enteric pathogen evolution. We conducted a phylogenetic analysis utilizing the whole-genome sequences of
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      and the strains listed in      . First, we generated a multilocus sequence analysis (MLSA) based on the DNA sequences of seven conserved backbone genes (
+      <italic>
+       adk, fumC, gyrB, icd, mdh, purA,
+      </italic>
+      and
+      <italic>
+       recA
+      </italic>
+      ) located in core regions of the genome and a maximum likelihood phylogenetic tree constructed with PhyML (      ) and verified by Bayesian modeling with BEAST2 (      ) (      ). Our results were consistent with previous constructions of the
+      <named-content content-type="genus-species">
+       Enterobacteriaceae
+      </named-content>
+      phylogeny (      ,      ). Next, the matching genomic prophage regions of the strains were determined using PHAST (      ) and aligned to generate maximum likelihood trees corresponding to each
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      prophage region (      to      ). The branch organization of prophage phylogenetic trees diverges significantly from those of the backbones of corresponding prophage host genomes generated by MLSA, with no MLSA-consistent order of
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      prophage lineage emerging from analysis. This observation was consistent with the typically mobile nature of prophage elements and the observed differing GC contents between corresponding prophages and hosts (      ). Moreover, it suggested that the prophages of
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      are not associated with a common pathogenic enteric backbone, but, rather, they represent a family of horizontally acquired, enteric-bacterium-associated, and transferable pathogenicity determinants.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s3" sec-type="discussion">
+    <title>
+     DISCUSSION
+    </title>
+    <p>
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     is a natural host-adapted intestinal mouse pathogen and an important model organism for studying EPEC, EHEC, and A/E pathogenicity as well as a variety of intestinal disorders and diseases (     ,     ). Previous studies focused predominantly on the examination of LEE-associated molecular mechanisms of host-bacterium infection and interaction (     ). Little was known about the nature and importance of
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     prophage-mediated virulence factors or their role in genetic exchange and intermicrobial effects in relation to infection and the murine gut microbiome. In this study, we examine all 10 identified prophage regions of
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     and their potential roles in directing
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     toward a pathogenic lifestyle.
+    </p>
+    <p>
+     An earlier study identified a fully functional active temperate prophage, phage ΦNP, which was spontaneously released by
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     into the extracellular environment (     ). Through characterization of ΦNP, we discovered a second novel and fully functional temperate phage encoded by CRP38, named ΦSM. The host ranges of both ΦNP and ΦSM were
+     <named-content content-type="genus-species">
+      E. coli
+     </named-content>
+     strain dependent with host recognition mediated by LPS in a GlcII and GlcIII residue-specific manner, respectively. It was also found that ΦSM was capable of infecting mutants possessing a GlcI residue lacking a Gal side chain, suggesting that this LPS structure, when lacking the Gal side chain and remaining outer core sugars, possesses similar chemistry to the GlcIII residue as “seen” by the phage. Interestingly, this observation might also suggest an evolved resistance to spontaneous host mutation of the LPS biosynthesis operon which might perturb the immediate and adjacent coding regions of
+     <italic>
+      waaR
+     </italic>
+     (product catalyzes addition of GlcIII), including the directly upstream
+     <italic>
+      waaO
+     </italic>
+     (product catalyzes addition of GlcII) and
+     <italic>
+      waaB
+     </italic>
+     (product catalyzes addition of Gal side chain) coding regions. The residue-specific manner of ΦNP and ΦSM LPS adsorption might also suggest that the
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     phages evolved to allow for dual infection, as consistent with their heteroimmunity. Identification of common extracellular surface elements (LPS residues) as phage receptors, the nondeleterious integration of both ΦNP and ΦSM observed in K-12 lysogens, and the wide conservation of ΦNP and ΦSM
+     <italic>
+      attB
+     </italic>
+     loci suggested that ΦNP and ΦSM are important mediators of HGT in
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     .
+    </p>
+    <p>
+     These observations may be pertinent to a recent model suggesting that
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     relies on commensal gut microbiota for successful colonization of colonic mucosa (     ). Expression of colonization and virulence factors of A/E pathogens is regulated by a variety of external stimuli, including microbiota-derived metabolites (     ,     ). It is possible that
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     prophage integration, viral gene expression, and phage-induced lysis, although nondeleterious in terms of the bacterial population, alter the metabolic profile of commensals, exacerbating enteric infection. Correspondingly, genetic exchange mediated by ΦNP and ΦSM might facilitate the acquisition of commensally encoded colonization determinants. As such, the role of CRPr20 as a likely reservoir of ΦSM-facilitated horizontal acquisitions might be implicated in a wider context than simply as a means of overcoming prophage-induced functional gene loss. It is currently unknown if ΦNP and/or ΦSM play active roles in gene transfer or metabolic interaction between enteric commensals and
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     during colonization. Nevertheless, the characterization presented here of two fully functional prophages of
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     with widely conserved integration sites that can replicate efficiently in
+     <named-content content-type="genus-species">
+      E. coli
+     </named-content>
+     strains provides an obvious and potentially facile route to the development of novel viral vectors for genome engineering and synthetic biology applications in this murine pathogen. This provides opportunities to enhance the value of experimental investigations using this tractable infection model for human enteric pathology.
+    </p>
+    <p>
+     Prophages can also play a direct role in bacterial pathogenicity by encoding virulence and fitness factors promoting access to a niche environment (     ,     ). Our study revealed several
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     prophage-encoded putative metabolic and housekeeping proteins not obviously associated with phage propagation or life cycle. Furthermore, several T6SS assembly pathway factors were identified as well as several T3SS EHEC/EPEC-homologue effector proteins (Esp and Nle type). Given that a previous study found that ∼90% of coding regions within the
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     prophage regions were actively transcribed under standard growth conditions (     ), these prophage-encoded factors are candidate pathogenicity determinants exogenous to the
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     LEE and could be promising for future molecular and mechanistic study. With a recent analysis demonstrating the dependence of EPEC A/E lesion formation on non-LEE-encoded effectors (     ), it is possible that these
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     -encoded prophage effectors represent significant virulence determinants. It seems plausible that acquisition and maintenance of these prophages in
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     were initial steps toward its host-adapted pathogenic lifestyle as these effectors and fitness factors would have helped facilitate access to a previously unfavorable niche, the murine gut. In the context of prophage insertion site location, the bacterium’s nonmotility due to prophage integration into key flagellar genomic sites might have furthered this evolutionary advantage by inhibiting a metabolically costly process (it is estimated that 2.1% of biosynthetic energy is utilized for flagellar biosynthesis processes in
+     <named-content content-type="genus-species">
+      E. coli
+     </named-content>
+     ) (     ). Moreover, the inherent motility provided by physiological peristalsis of the murine intestine and spread through fecal excretion could likely compensate for the loss of movement generated by flagellar biosynthesis disruption. In a similar fashion, prophage conservation and maintenance might have further been supported by the insertion of prophage elements, like ΦSM, into sites associated with forms of natively encoded HGT mechanisms, possibly increasing reliance on prophage-facilitated HGT for genetic diversification and adaptation in new environments.
+    </p>
+    <p>
+     Importantly, we observed conservation of these prophages across a wide range of
+     <named-content content-type="genus-species">
+      Enterobacteriaceae
+     </named-content>
+     genomes, with almost all strains examined identified as pathogenic, primarily to humans. We identified only three nonpathogenic bacterial genomes containing conserved prophage regions, two of which (
+     <named-content content-type="genus-species">
+      E. coli
+     </named-content>
+     M8 and M10) were murine isolates. This suggests that the
+     <named-content content-type="genus-species">
+      C. rodentium
+     </named-content>
+     prophages were predominantly representative of a family of genetic elements conserved across enteric bacteria that evolved toward pathogenicity. Phylogenetic analysis revealed that these conserved genetic regions were unlikely to be part of a common pathogenic enteric backbone but, rather, may represent a family of horizontally acquired enteric-bacterium-associated pathogenic determinants. While the acquisition of ΦNP- and ΦSM-like conserved prophages can be explained by their functional nature, it is less clear by which means the other prophage regions have propagated. However, as previously noted, the nonfunctional but intact prophages CRP28, CRP38, CRP48, and CRP99 had been shown to be induced and excised under standard LB growth conditions; this study also noted the presence variable genomic regions intermingled with these prophage elements, suggesting illegitimate excision if not active transposition (     ). This could be a means by which horizontal transfer of these virulence determinant-associated prophages might have been facilitated. Alternatively, imprecise integration events could have rendered once-active phages incapable of forming functional virions. An earlier prokaryotic-wide phylogenetic study concluded that horizontal transfer, not duplication, drives the expansion of protein families and functionality in prokaryotes (     ). As evidenced here, this model can be expanded to the evolution of enteric pathogens. Accordingly, similar systematic examinations of prophage elements in other pathogenic bacteria, including strains associated with outbreaks of human disease, might provide deeper evolutionary and pathological insights.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s4" sec-type="materials|methods">
+    <title>
+     MATERIALS AND METHODS
+    </title>
+    <sec id="s4.1">
+     <title>
+      Bacterial strains and culture conditions.
+     </title>
+     <p>
+      The bacterial strains used in this study are listed in      . Strains of
+      <italic>
+       Citrobacter
+      </italic>
+      ,
+      <named-content content-type="genus-species">
+       Escherichia coli
+      </named-content>
+      ,
+      <italic>
+       Salmonella,
+      </italic>
+      and
+      <italic>
+       Pseudomonas
+      </italic>
+      were grown at 37°C; all other strains listed were grown at 30°C. Overnight cultures were grown in 5 ml of Luria broth (LB) in sterile 25-ml culture tubes placed on a rotary wheel. Bacterial growth was determined by measuring the optical density of the culture at a wavelength of 600 nm (OD
+      <sub>
+       600
+      </sub>
+      ) using a Unicam Heλios spectrophotometer and cuvettes with a 1-cm path length. Solid medium contained 1.5% (wt/vol) agar with soft-medium overlay (top agar) using 0.35% agar; both were made with LB unless otherwise noted. For long-term storage, 800 μl of overnight cultures was mixed with 200 μl of 80% (wt/vol) vacuum-sterilized glycerol. Samples were briefly vortexed, appropriately labeled, and stored at −80°C. Phage buffer was composed of 10 mM Tris-HCl, pH 7.4, 10 mM MgSO
+      <sub>
+       4
+      </sub>
+      , and 0.01% gelatin. Phages used in this study are listed in      .
+     </p>
+    </sec>
+    <sec id="s4.2">
+     <title>
+      Phage and lysogen isolation.
+     </title>
+     <p>
+      ΦNP and ΦSM were isolated by titration of chloroform-treated supernatants of
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      overnight cultures on appropriate K-12 host strain top lawns grown at 37°C. Single plaques were then picked with a sterile toothpick into 1.5-ml Eppendorf tubes containing 120 μl of phage buffer and 20 μl of chloroform, vortexed, spun down, and then titrated on LB agar (LBA) top lawns at 37°C. Lysogen strains were isolated by spotting 10 μl of high-titer phage lysates on LBA plates containing top agar overlays of the relevant bacterial host at 37°C. A sterile toothpick was then used to pick cells from turbid spots, and cells were then struck out onto LBA plates and allowed to grow overnight at 37°C. Lysogen identity was then confirmed by resistance to viral superinfection and spontaneous release of phages into the supernatant.
+     </p>
+    </sec>
+    <sec id="s4.3">
+     <title>
+      Phage host range determination and effectiveness of plating.
+     </title>
+     <p>
+      Top agar overlays on LBA plates of the bacterial strain to be tested were spotted with a 10-μl sample of a high-titer lysate of the relevant phage, allowed to dry, and grown overnight at the temperature optimal for the bacterial strain. As a dilution control, 10-μl spots of only phage buffer were also added. Bacterial strains showing turbid clearance were then titrated in serial dilution in top agar overlays to achieve single, isolated plaques to confirm permissive host range. Efficiency of plating (EOP) was calculated as a ratio of the apparent titer of phage on the control strain to the observed phage titer on the test strain.
+     </p>
+    </sec>
+    <sec id="s4.4">
+     <title>
+      Phage genomic DNA extraction.
+     </title>
+     <p>
+      Phage DNA was extracted using a phenol-chloroform protocol. In a phase-lock gel (PLG) tube, 450 μl of high-titer phage lysate was incubated with 4.5 μl of 1 mg/ml DNase I and 2.5 μl of 10 mg/ml RNase A and incubated at 37°C for 30 min. The mixture was then added to 11.5 μl of 20% SDS and 4.5 μl of 10 mg/ml proteinase K and incubated for another 30 min. DNA was extracted by adding 500 μl of a phenol-chloroform-isoamyl alcohol 25:24:1 mix and centrifuged at 1,500 ×
+      <italic>
+       g
+      </italic>
+      for 5 min. The supernatant was transferred to a new PLG tube, and the previous step was repeated. In a new PLG tube, the supernatant was supplemented with 500 μl of chloroform-isoamyl alcohol at 24:1 and centrifuged at 1,500 ×
+      <italic>
+       g
+      </italic>
+      for 5 min. The aqueous phase at the top was then incubated with 45 μl of sodium acetate (3 mol/liter, pH 5.2) and 500 μl of 100% isopropanol at room temperature for 45 min. The mixture was then subjected to centrifugation at 12,000 ×
+      <italic>
+       g
+      </italic>
+      for 20 min, after which the pellet was washed at least twice with 70% ethanol and then resuspended in distilled H
+      <sub>
+       2
+      </sub>
+      O (dH
+      <sub>
+       2
+      </sub>
+      O).
+     </p>
+    </sec>
+    <sec id="s4.5">
+     <title>
+      Transmission electron microscopy.
+     </title>
+     <p>
+      Glow-discharged, carbon-coated copper grids (obtained from the Multi-imaging Center, Department of Anatomy, University of Cambridge) were placed on 5-μl drops of high-titer phage to be imaged for 5 min. They were then washed briefly with water droplets three times before being blotted dry with sterile filter paper and placed on 5 μl of either 2% (wt/vol) phosphotungstic acid (PTA) for 10 min or uranyl acetate (UA) for 1 min. Grids were blotted to remove excess liquid, allowed to air dry, and visualized in a Phillips Tecnai G2 80- to 200-kV transmission electron microscope.
+     </p>
+    </sec>
+    <sec id="s4.6">
+     <title>
+      Phage chemical mutagenesis.
+     </title>
+     <p>
+      Chemical mutagenesis was conducted utilizing hydroxylamine containing phosphate-EDTA buffer as previously described (      ).
+     </p>
+    </sec>
+    <sec id="s4.7">
+     <title>
+      Transfection of phage gDNA.
+     </title>
+     <p>
+      Transfection of viral gDNA into chemically competent cells was performed as previously described (      ). As a control, λ
+      <italic>
+       vir
+      </italic>
+      gDNA was used. Transfected cells were examined for virus production by spinning down the transfectant recovery culture and removing 100 μl of the supernatant, treating it with chloroform, and titrating the crude supernatant lysate on top lawns of the relevant host species. This was repeated every hour for 3 h. Single plaques were counted and the number of PFU/(milliliter ·microgram of DNA) was determined.
+     </p>
+    </sec>
+    <sec id="s4.8">
+     <title>
+      Structural phage proteome analysis.
+     </title>
+     <p>
+      Following purification by PEG 8000 and CsCl gradient, phage particles were analyzed by SDS-PAGE as previously described (      ). Mass spectrometry was carried out at the University of Cambridge, Department of Biochemistry, according to the protocol noted on the departmental website (
+      <ext-link ext-link-type="uri" ns0:href="http://www3.bioc.cam.ac.uk/pnac/proteomics.html">
+       http://www3.bioc.cam.ac.uk/pnac/proteomics.html
+      </ext-link>
+      ).
+     </p>
+    </sec>
+    <sec id="s4.9">
+     <title>
+      Lysogen growth and phage release.
+     </title>
+     <p>
+      Overnight bacterial cultures to be tested were diluted to an OD
+      <sub>
+       600
+      </sub>
+      of 0.05 in 25 ml of prewarmed LB or M9 minimal medium in 250-ml conical flasks and incubated at 37°C in a water bath with shaking at 185 rpm. Samples (1 ml) were taken every 30 min, and bacterial growth (optical density) was measured. Concurrently, 100-μl samples were collected into 1.5-ml Eppendorf tubes containing 900 μl of phage buffer and 30 μl of chloroform, vortexed, and stored at 4°C. Each time point sample was then titrated on two bacterial top lawns, containing either
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      DH5α or ER2507 (as ΦNP can form plaques only onto ER2507, DH5α served to differentiate viral titer in the dual lysogen and served as a control for single-lysogen species). Plates with single plaques were then assessed, and the number of PFU/milliliter was recorded as a function of time.
+     </p>
+    </sec>
+    <sec id="s4.10">
+     <title>
+      DNA manipulations, oligonucleotides, and sequencing.
+     </title>
+     <p>
+      Unless otherwise stated, standard molecular biological methods were used for all DNA manipulations. Genomic and plasmid DNA were purified using a GeneJET Genomic DNA purification kit (Thermo Scientific) and GeneJET Plasmid Miniprep kit (Thermo Scientific) according to manufacturer’s instructions. All restriction enzymes used were obtained from New England Biolabs and used according to the manufacturer’s protocols. DNA fragments were ligated using T4 DNA ligase (NEB). Oligonucleotides were obtained from Sigma-Aldrich and are listed in      . DNA sequencing of PCR and plasmid products was performed by GATC Biotech utilizing their LightRun Tube barcodes for Sanger equencing.
+     </p>
+    </sec>
+    <sec id="s4.11">
+     <title>
+      Random-primed PCR.
+     </title>
+     <p>
+      The random-primed PCR (RP-PCR) protocol was based on that previously described (      ). In brief, colony or standard PCR was performed using the random primers PF106, PF107, and PF108 together with a phage-specific primer (      ). The reaction mix and PCR program used for the first round are described below. A second round of PCR amplification using the product of the first round as the template was performed under the same RP-PCR conditions using the primers PF109 and the nested phage-specific primer.
+     </p>
+    </sec>
+    <sec id="s4.12">
+     <title>
+      Generation of plasmids used in this study.
+     </title>
+     <p>
+      The plasmids used in this study are listed in      . LPS genes for complementation assays were amplified from
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      K-12 gDNA using primers (      ) designed with 19 to 22 bp of complement and containing flanking regions holding either the SacI cut site and ribosomal binding site (RBS) or the SalI cut site. pBAD33 and these fragments were then digested with SacI and SalI, ligated, and used to transform the relevant K-12 strain. Successful transformants were then selected using appropriate antibiotic selection, sequence verified using primers SM.P22 and SM.P23, and moved into appropriate mutant background.
+     </p>
+    </sec>
+    <sec id="s4.13">
+     <title>
+      Generation and screening of random transposon mutants.
+     </title>
+     <p>
+      Using
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      β2165 (pDS1028) as a donor strain and ER2507 as a recipient strain, generation of a random transposon insertion mutant library was carried out as previously described (      ). In brief, a 30-μl conjugation mix of 1:3 donor/recipient cells was spotted onto a plate containing LBA plus 2,6,-diaminopimelic acid (DAP), allowed to dry, and grown overnight. The mating patch was then harvested in 1 ml of LB, washed twice to remove residual DAP, and plated on LBA-Cm plates. Single colonies were then picked into 96-well plates containing 200 μl of LB-Cm and screened for phage resistance.
+     </p>
+     <p>
+      Mutant ER2507 cells were first screened for phage resistance in a mini-top-lawn format. Using a Corning 12-well tissue culture flat-bottom plate, 2 ml of LBA-Cm was added to each well. After this, mini-top lawns containing 10 μl of the phage to be tested (of the appropriate titer to see single plaques), 20 μl of the mutant to be tested, and 400 μl of top agar were overlaid onto each well containing LBA-Cm, and cultures were grown overnight. Mutant strains demonstrating resistance to plaque formation were then noted and further assessed with full-size plate assays in serial dilution. Those demonstrating full resistance or partial resistance were subjected to replicon cloning.
+     </p>
+    </sec>
+    <sec id="s4.14">
+     <title>
+      Replicon cloning of transposon mutants.
+     </title>
+     <p>
+      Replicon cloning of pDS1028 ER2057 transposon insertion mutants was carried out as previously described (      ). In brief, gDNA extractions of mutants to be sequenced were digested with restriction enzymes that were unable to cut within the transposed region (typically, XmnI and StuI were used [NEB]), ligated, and cloned into
+      <named-content content-type="genus-species">
+       E. coli
+      </named-content>
+      cc118 λ
+      <italic>
+       pir
+      </italic>
+      -containing cells. Transformants were then streaked out for purification and grown in liquid culture with the appropriate antibiotic; the plasmid was then extracted and sequenced using primer oREM7 (      ).
+     </p>
+    </sec>
+    <sec id="s4.15">
+     <title>
+      Adsorption test.
+     </title>
+     <p>
+      Triplicate overnight cultures of strains to be tested were grown up in 5 ml of LB on a tube roller at 37°C. Premade Eppendorf tubes containing 900 μl of phage buffer and 30 μl of chloroform were labeled and set out for each sample and time point to be collected. To each sample of 5 ml of overnight bacterial culture of a high-titer phage was added to obtain a multiplicity of infection (MOI) of 0.01 and mixed immediately. From these mixtures 100 μl was removed for time point 0 min and added to the premade sample tubes and quickly vortexed for 5 s. Sample collection occurred in a similar fashion for the next 55 min every 5 to 10 min. Vortexed samples were then spun down, and supernatant was removed. These supernatants were then titrated in serial dilution on bacterial top lawns. The final adsorption curve was plotted by calculating the percentage of free phages in the culture against time. An LB-only sample was infected with phages as a negative control. In instances of complementation, all samples were induced with 0.1% arabinose at mid-log phase and allowed to grow for 3 h or until they reached an OD
+      <sub>
+       600
+      </sub>
+      of 1.0 before use in adsorption studies.
+     </p>
+    </sec>
+    <sec id="s4.16">
+     <title>
+      Bioinformatic analysis.
+     </title>
+     <p>
+      Coding sequences and ORFs were determined by a combination of prior annotations and the Geneious R7 predictive ORF function on known
+      <named-content content-type="genus-species">
+       C. rodentium
+      </named-content>
+      IIC168 genome and prophage sequences (GenBank accession number
+      <ext-link assigning-authority="genbank" ext-link-type="uri" ns0:href="https://www.ncbi.nlm.nih.gov/nuccore/NC_013716">
+       NC_013716
+      </ext-link>
+      ) (      ). Protein functionality and homology were predicted using BLASTP (
+      <ext-link ext-link-type="uri" ns0:href="https://blast.ncbi.nlm.nih.gov/Blast.cgi">
+       https://blast.ncbi.nlm.nih.gov/Blast.cgi
+      </ext-link>
+      ). Genome comparisons were generated by the Artemis Comparison Tool (ACT) (      ) and EasyFig (      ). Prophage regions were determined using PHAST (      ), and PhiSITE (      ) was used to determine bacteriophage regulatory units.
+     </p>
+    </sec>
+    <sec id="s4.17">
+     <title>
+      Phylogenetic analysis.
+     </title>
+     <p>
+      Multiple-locus sequence analysis was conducted by individually extracting seven core housekeeping genes (
+      <italic>
+       adk, fumC, gyrB, icd, mdh, purA,
+      </italic>
+      and
+      <italic>
+       recA
+      </italic>
+      ) from bacterial genomes of interest, including
+      <italic>
+       Yersinia
+      </italic>
+      ,
+      <italic>
+       Dickeya
+      </italic>
+      , and
+      <italic>
+       Serratia
+      </italic>
+      outgroups. These genes were then individually aligned using ClustalW (      ), and the alignments were concatenated and cured using Gblock (      ). Phylogenetic trees were constructed by the maximum likelihood method using the general time reversible (GTR) model with gamma distribution in PhyML (      ) and verified using Bayesian likelihood using the GTR model plus gamma with BEAST2 (      ). Branch support was tested using an approximate likelihood ratio test (aLRT) based on the Shimodaira-Hasegawa-like (SH-like) procedures and retested using 1,000 bootstrap replicates. Assessment of conserved prophage regions was conducted using a similar workflow. Root positions of both MLSA and prophage were verified using Bayesian modeling.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="supplementary-material">
+    <title>
+     Supplementary Material
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

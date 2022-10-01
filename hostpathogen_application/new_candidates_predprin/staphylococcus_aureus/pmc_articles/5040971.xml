@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Epithelial Intermediate Filaments: Guardians against Microbial Infection?
+ </title>
+ <abstract>
+  <p>
+   Intermediate filaments are abundant cytoskeletal components of epithelial tissues. They have been implicated in overall stress protection. A hitherto poorly investigated area of research is the function of intermediate filaments as a barrier to microbial infection. This review summarizes the accumulating knowledge about this interaction. It first emphasizes the unique spatial organization of the keratin intermediate filament cytoskeleton in different epithelial tissues to protect the organism against microbial insults. We then present examples of direct interaction between viral, bacterial, and parasitic proteins and the intermediate filament system and describe how this affects the microbe-host interaction by modulating the epithelial cytoskeleton, the progression of infection, and host response. These observations not only provide novel insights into the dynamics and function of intermediate filaments but also indicate future avenues to combat microbial infection.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="sec1-cells-05-00029">
+    <title>
+     1. Intermediate Filaments: Organization and Function
+    </title>
+    <p>
+     Intermediate filaments (IFs) together with actin filaments and microtubules are major components of the cytoskeleton. They provide mechanical tissue stability and contribute to many cellular processes such as vesicle trafficking, organelle positioning, cell cycle regulation, differentiation, and cell motility [
+     ,
+     ,
+     ,
+     ]. Although IFs are not essential for any of these functions, they provide an abundant buffering system protecting against various types of stress, be it physical, chemical, or microbial. This property is most relevant in epithelia, which are exposed to multiple environmental stressors.
+    </p>
+    <p>
+     The cytoplasmic IF cytoskeleton of mammalian epithelial cells consists of equal amounts of type I and type II keratin polypeptides. Type I and type II keratins form stable heterodimers that are arranged in parallel and are tightly attached through hydrophobic coiled-coil interactions between their α-helical central rod domains, which are flanked by variable amino- and carboxyterminal end domains [
+     ,
+     ,
+     ,
+     ]. The mechanisms of subsequent tetramer assembly and integration into mature IFs are only partly understood. In vitro observations revealed that they involve certain intermediate steps starting with two dimers associating in an antiparallel and partially staggered fashion to form the symmetric non-polar tetramer, which constitutes the main soluble keratin pool in living cells [
+     ,
+     ]. Tetramers associate laterally into unit length filaments that assemble longitudinally into the 8–12 nm keratin filaments [
+     ]. These filaments form complex three-dimensional networks in vivo with cell type-specific subcellular arrangements such as the subapical enrichment in the polarized epithelial cells of the intestine, the predominant localization underneath the cell cortex in glandular epithelia and the pancytoplasmic accumulation of dense bundles in epidermal keratinocytes ([
+     ,
+     ]; see also
+     ). A major tenet of this review is that this cell type-specific arrangement determines epithelial resilience against environmental insults. This notion is supported by multiple studies in cell culture systems and transgenic animals demonstrating that the presence and spatial organization of keratin IFs is a crucial prerequisite to protect epithelial cells against different kinds of mechanical and non-mechanical stress [
+     ,
+     ,
+     ,
+     ,
+     ,
+     ,
+     ,
+     ]. Furthermore, multiple human diseases attest to the important function of keratins in maintaining epithelial tissue integrity [
+     ,
+     ]. For example, mutations of the epidermal keratins K5 and K14 have been identified in the human skin disease
+     <italic>
+      Epidermolysis bullosa simplex
+     </italic>
+     , which is characterized by excessive blister formation upon minor mechanical trauma [
+     ,
+     ]. This goes along with the formation of large cytoplasmic aggregates containing hyperphosphorylated keratins [
+     ,
+     ,
+     ]. Furthermore, it has been suggested that keratin polymorphisms render epithelial tissues more susceptible to environmental stressors [
+     ,
+     ,
+     ].
+    </p>
+    <p>
+     This review extends previous reviews on related topics (e.g., [
+     ,
+     ,
+     ]) and reviews dealing with interactions of other types of IFs with microbes (e.g., [
+     ]). In this review, we will elaborate on the overall barrier function of keratins in stratified and simple epithelia and how this relates to specific interactions with microbial pathogens.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec2-cells-05-00029">
+    <title>
+     2. Barrier Function of Intermediate Filaments in Stratified Epithelia
+    </title>
+    <p>
+     Epithelial cell fragility and lysis as a consequence of compromised mechanical stability are observed in a large number of epidermal keratinopathies that are caused by single point mutations in keratin-encoding genes [
+     ,
+     ,
+     ]. The histological phenotypes include blister formation and hyperkeratosis [
+     ,
+     ,
+     ,
+     ,
+     ]. Corresponding phenotypes were also described in keratin-mutant mice [
+     ]. Consequently, dramatically increased transepidermal water loss and increased toluidine blue permeability were reported in keratin-deficient epidermis [
+     ,
+     ].
+    </p>
+    <p>
+     Besides providing a mechanical barrier, keratins have been shown to actively contribute to barrier formation in the epidermis. Thus, keratin K10-deficient mice present reduced sphingomyelinase activity, which generates ceramides that are a major component of the extracellular lipid lamellae in the epidermal
+     <italic>
+      stratum corneum
+     </italic>
+     [
+     ]. Furthermore, complete absence of keratins perturbs the formation of the cornified envelope in suprabasal keratinocytes [
+     ]. In addition, keratin depletion and presence of mutant keratins lead to reduction in junctional proteins affecting junction formation and dynamics [
+     ,
+     ,
+     ,
+     ].
+    </p>
+    <p>
+     Interestingly, gene expression signatures in human patients with the skin disease
+     <italic>
+      Pachyonychia congenita
+     </italic>
+     carrying mutations in K16 or its partner K6 as well as K16 null mice reveal an enrichment of genes involved in inflammation and innate immunity which may be a consequence of the perturbed skin barrier [
+     ]. Furthermore, deletion of the suprabasal keratin K1 in transgenic mice resulted in inflammasome activation and IL-18 processing [
+     ]. The observed skin pathology presenting erosions, hyperkeratosis, and barrier defects could be partially rescued by IL-18 depletion in these mice [
+     ]. A different role has been assigned to keratin K17, whose expression is induced in epidermal keratinocytes upon environmental stress [
+     ]. K17 appears to stimulate inflammatory responses by cytokine induction through signaling pathways and possibly even direct modulation of gene transcription [
+     ,
+     ,
+     ,
+     ].
+    </p>
+    <p>
+     Taken together, we posit that keratins have an overall protective function against microbial infection. This function is not limited to providing a structural barrier but includes active mechanisms that trigger complex responses.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec3-cells-05-00029">
+    <title>
+     3. Keratin-Microbe Interactions in Stratified Epithelia
+    </title>
+    <p>
+     In the following paragraphs, we will focus on specific host-pathogen interactions that have been described for stratified epithelia.
+     lists examples of pathogen-keratin interaction that utilize and disrupt the keratin-dependent barrier.
+    </p>
+    <sec id="sec3dot1-cells-05-00029">
+     <title>
+      3.1. Epithelial Colonization
+     </title>
+     <p>
+      The commensal
+      <italic>
+       Staphylococcus aureus
+      </italic>
+      permanently colonizes the anterior part of the nasal cavity. The staphylococcal surface receptor clumping factor B (ClfB) plays a pivotal role in this process. It was shown that ClfB binds to epidermal K10 [
+      ,
+      ,
+      ], which is typically found in cornified stratified epithelia [
+      ,
+      ]. The interaction between ClfB and K10 enhanced adherence of
+      <italic>
+       Staphylococcus aureus
+      </italic>
+      to epithelial cells and thereby supported epithelial colonization, notably in the squamous epithelial cells of the nasal epithelium [
+      ]. In yeast two-hybrid binding assays ClfB also interacted with K8, which is predominantly expressed in simple epithelia [
+      ], the physiological relevance of which remains to be assessed.
+     </p>
+     <p>
+      In another study, binding was detected between K4 and the surface serine-rich repeat protein Srr-1 of
+      <italic>
+       Streptococcus agalactiae
+      </italic>
+      , a commensal bacterium of the human gastrointestinal and female vaginal tract [
+      ]. K4 is prominent in non-cornified stratified epithelia lining the oral mucosa, esophagus, and vagina [
+      ,
+      ]. Binding of Srr-1 was localized to the carboxyterminal 255 amino acids of K4 and was shown to be needed for adherence of
+      <italic>
+       Streptococcus agalactiae
+      </italic>
+      to epithelial cells in a dose-dependent fashion [
+      ].
+     </p>
+     <p>
+      Interactions between keratins and bacterial surface proteins may be a rather wide-spread and common phenomenon as suggested by Tamura and Nittayajarn [
+      ]. These authors found that soluble K8 bound to all of six group B streptococci strains that they tested as well as to four other gram-positive cocci, i.e.,
+      <italic>
+       Staphylococcus aureus
+      </italic>
+      ,
+      <italic>
+       Lactococcus lactis
+      </italic>
+      ,
+      <italic>
+       Enterococcus faecalis
+      </italic>
+      , and
+      <italic>
+       Streptococcus pyogenes
+      </italic>
+      . An unresolved conundrum is whether keratins are exposed at the cell surface physiologically or need to be set free from their cytoplasmic compartment, for example by bacterial proteases.
+     </p>
+    </sec>
+    <sec id="sec3dot2-cells-05-00029">
+     <title>
+      3.2. Keratin Network Disruption
+     </title>
+     <p>
+      A very well examined situation of pathogen-keratin interaction in stratified epithelia is human papilloma virus (HPV) type 16 infection. During the infection cycle the viral E1^E4 protein accumulates in the upper layers of infected epithelia such as the stratified cervical epithelium comprising up to 30% of total cell protein in some lesions [
+      ,
+      ]. The E1^E4 protein forms amyloid-like fibers after cleavage of its aminoterminal 17 amino acids by the cytoplasmic cysteine protease calpain [
+      ]. E1^E4 protein-containing amyloid fibers are initially detected in the suprabasal cells, which contain active calpain [
+      ]. The multimeric E1^E4 protein-derived aggregates associate with keratin filaments containing K10, K13, K14, and K18 [
+      ]. Based on co-localization, co-immunoprecipitation, and in vitro binding assays a direct interaction was described for K18 and the aminoterminus of E1^E4 protein [
+      ]. Of note, keratin network dynamics were reduced in the presence of E1^E4 protein in cultured SiHa cervical epithelial cells [
+      ]. The interaction between E1^E4 protein and keratin was favored by phosphorylation of T57 in E1^E4 protein through extracellular signal regulated kinase ERK [
+      ]. In addition, other kinases such as cyclin-dependent kinase, protein kinase A and protein kinase Cα may be implicated [
+      ,
+      ]. The importance of E1^E4 protein activity for keratin network modification was further underscored by the exclusive detection of T57-phosphorylation of E1^E4 protein in the intermediate cell layers of epidermal raft cultures, i.e., within the cell layers in which productive infection occurs [
+      ]. Furthermore, keratins become hyperphosphorylated and are ubiquitinylated in HPV-infected cells [
+      ]. Remarkably, microtubules and actin filaments as well as the nuclear lamin IFs were unaffected [
+      ]. A likely consequence of the selective keratin network collapse is enhanced release of viral particles which are then available for further infection of epithelial cells.
+     </p>
+     <p>
+      Herpes simplex virus type 2 (HSV-2) infects preferentially the skin and genital mucous membranes. It synthesizes the cytoplasmic ubiquitin-interacting US2 protein during the late phase of infection [
+      ]. US2 has been implicated in the release of viral particles [
+      ]. K18 was identified as a binding partner of US2 in a yeast two-hybrid screen [
+      ]. This interaction was confirmed by co-immunoprecipitation experiments and co-localization studies of infected cultured cells. The keratin network in these cells was considerably altered presenting thickened and clumped keratin filaments, preferentially in the cell periphery. Later on, Murata et al. [
+      ] observed that expression of the HSV-2 protein kinase US3, which is involved in cell morphology alterations and disruption of the actin cytoskeleton [
+      ], enhanced K17 phosphorylation and ubiquitination. This was also accompanied by appearance of thicker keratin filaments and keratin network disruption. These authors [
+      ] further presented evidence that the US3 kinase directly phosphorylated K17 and showed that this interaction elicits distinct cytopathic effects.
+     </p>
+    </sec>
+    <sec id="sec3dot3-cells-05-00029">
+     <title>
+      3.3. Induction of Inflammation
+     </title>
+     <p>
+      <italic>
+       Porphyromonas gingivalis
+      </italic>
+      is a major etiological bacterium of periodontal disease. It secretes the lysine-specific protease gingipain [
+      ,
+      ]. Among multiple targets, keratins were described as potential substrates for this protease by Tancharoen and co-workers [
+      ]. They detected a novel K6 fragment in the gingival crevicular fluid of periodontal disease patients. This 19 amino acid-long fragment was shown to be generated by lysine-specific gingipain treatment of cultured cells [
+      ]. Interestingly, this peptide induced gingival fibroblast migration, secretion of interleukins 6 and 8, and production of monocyte chemoattractant protein 1 [
+      ]. This example illustrates nicely how a pathogen destroys the keratin-based barrier and simultaneously initiates an inflammatory response.
+     </p>
+    </sec>
+    <sec id="sec3dot4-cells-05-00029">
+     <title>
+      3.4. Bacteriotoxicity
+     </title>
+     <p>
+      An extracellular protective function of keratins was recently described for the cornea. Peptide fragments derived from the carboxyterminus of keratin K6a were identified in a crude extract from differentiated cultured corneal epithelial cells [
+      ]. These peptides exhibited strong antibacterial activity against
+      <italic>
+       Pseudomonas aeruginosa
+      </italic>
+      and, more importantly, against the ocular pathogens
+      <italic>
+       Staphylococcus aureus
+      </italic>
+      and
+      <italic>
+       Streptococcus pyogenes
+      </italic>
+      [
+      ]. Detailed analysis of an amphipathic 19-mer peptide rapidly killed cytotoxic
+      <italic>
+       Pseudomonas aeruginosa
+      </italic>
+      in either water or at physiological ionic conditions. This was mediated through specific binding to the bacterial cytoplasmic membrane causing subsequent leakage [
+      ]. These observations may explain how the corneal epithelium is protected from microbes such as
+      <italic>
+       Staphylococcus aureus
+      </italic>
+      that are resistant to lysozymes in tear fluid but populate the upper airway ([
+      ] and
+      B). Since the expression of K6a is not restricted to the cornea [
+      ,
+      ], it may have similar functions in other epithelia such as the epidermis and various mucosal surfaces.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec4-cells-05-00029">
+    <title>
+     4. Intermediate Filaments Mediating Barrier Function in Simple Epithelia
+    </title>
+    <p>
+     Keratin IFs in simple epithelia are mostly concentrated underneath the plasma membrane with different degrees of polarization and cytoplasmic localization [
+     ,
+     ,
+     ]. The most extreme distribution has been reported for enterocytes, in which keratin IFs are subapically enriched in a dense filamentous network just below the actin-rich terminal web, which anchors the apical microvilli ([
+     ,
+     ,
+     ] and
+     A). High resolution imaging of vital intestinal mucosa of knock-in mice producing K8-yellow fluorescent protein showed nicely the subapical concentration of keratins together with submembraneous localization at the lateral membrane domains but no detectable cytoplasmic fluorescence [
+     ] in contrast to fixed tissue samples [
+     ,
+     ]. Whether this arrangement performs the same structural reinforcing role as the pan-cytoplasmic keratin network in stratified epithelia is not so clear [
+     ]. It is generally accepted, however, that keratins also play a crucial role in the stress response of simple epithelia [
+     ,
+     ,
+     ]. In accordance, increased susceptibility to toxic liver damage was observed in Krt18
+     mice [
+     ]. These mice deposit K8 aggregates in hepatocytes which share features with Mallory bodies that are observed in alcoholic liver cirrhosis. In contrast, loss of K8 or relative excess of K18 over K8 prevent Mallory body formation although increased sensitivity to toxic liver damage is still detectable in these situations. Accordingly, defects in K8 and K18 were described in human liver disorders [
+     ,
+     ,
+     ] and were also reported in chronic pancreatitis [
+     ] and inflammatory bowel disease [
+     ], while others have reported no predisposition of K8/K18/K19 variants to pancreatitis and inflammatory bowel disease [
+     ,
+     ,
+     ]. Although the identified mutations are not lethal, they appear to negatively affect epithelial resilience, predisposing affected patients to a breakdown of the epithelial barrier, especially in the presence of physiological stress such as osmotic challenges and mechanical strain and, even more so, in pathological stress situations such as microbial insults [
+     ,
+     ]. In support, colonic hyperplasia colitis and rectal prolapse are observed in K8
+     mice [
+     ]. This phenotype is characterized by a marked increase in TCRβ-positive and CD4-positive T cells infiltrating the
+     <italic>
+      lamina propria
+     </italic>
+     of the colon mucosa which is coupled to enhanced Th2 cytokine (IL-4, IL-5 and IL-13) production [
+     ]. Consistent with this observation it was recently shown that K8/K18 are able to bind to the inflammasome to regulate the IL-22 inflammatory response through IL-18 and maintain the barrier function of the intestinal epithelium, while K8
+     mice display increased inflammation, barrier defects, and tumorigenesis through inflammasome activation [
+     ]. Antibiotic treatment markedly decreased colonic inflammation [
+     ]. Later on, Habtezion, et al. [
+     ] demonstrated differential regulation of genes involved in apoptosis in K8
+     vs. K8
+     murine colonocytes resulting in apoptosis resistance in a microflora-dependent manner. Even heterozygous K8
+     animals presented longer colonic crypts but did not exhibit increased apoptosis and inflammation. Yet, they displayed higher sensitivity to dextran sulphate sodium in a colitis disease model [
+     ].
+    </p>
+    <p>
+     It was further shown by different groups that simple epithelial keratins protect cells in vitro against TNFα- and Fas ligand-mediated apoptosis [
+     ,
+     ,
+     ]. Interestingly, K8/K18 co-localize with the cytoplasmic domain of TNF receptor 2 and moderate TNF-induced JNK intracellular signaling and NFκB activation [
+     ]. In inflammatory bowel disease it was observed that the induced inflammatory response, in turn, leads to the release of damaging oxidants such as H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     , HOCl, and OH
+     <sub>
+      2
+     </sub>
+     [
+     ], which induce mucosal injury [
+     ] and cause impaired epithelial barrier function by perturbing the actin and microtubule cytoskeleton [
+     ]. Oxidative stress is also known to induce K8 homodimer formation, which efficiently prevents filament assembly [
+     ,
+     ]. Homodimer formation has also been observed upon oxidative stress in liver explants and cultured intestinal cells expressing K8 mutants that have been identified in patients with inflammatory bowel disease [
+     ,
+     ]. The reported massive decrease of K8, K18, K19, and vimentin in concert with reduced phosphorylation of K8 in the mucosa of inflammatory bowel disease patients can be taken as additional indication that inflammatory response triggers keratin dysfunction as part of a mutually enhancing vicious cycle [
+     ]. Remarkably, K8 levels and phosphorylation are restored or even elevated in intestinal bowel disease patients with clinical and endoscopic remission [
+     ].
+    </p>
+    <p>
+     Another interesting link between inflammatory cytokine production and keratins has been described by Wang and colleagues [
+     ]. They showed that IL-6 induces upregulation of the mRNA and protein levels of K8 and K18 in colon adenocarcinoma-derived Caco-2 BBE cells. K8 and K18 localize in a reticular pattern to the subapical region of these cells upon IL-6 treatment coincident with a decrease of paracellular flux. This response was abolished by K8 silencing. Furthermore, administration of dextran sodium sulfate (DSS) significantly increased intestinal permeability in IL-6 knockout mice compared to the wildtype suggesting that IL-6 mediates intestinal barrier protection via K8/K18 overexpression [
+     ]. On the other hand, high IL-6 levels are also known to perpetuate the inflammatory state and tissue destruction in inflammatory bowel diseases, in part through induction of Th17 cells [
+     ,
+     ].
+    </p>
+    <p>
+     Abnormalities in transport of ions, protein mistargeting, and diarrhea have been noted in the colon upon keratin depletion even before the development of inflammation [
+     ]. A likely reason is that keratins fulfil a general scaffolding function for membrane proteins [
+     ]. Very recently Asghar and co-workers [
+     ] observed a complete loss of the apical localizing chloride transporter (DRA) explaining the strong diarrhea phenotype occurring in patients with inflammatory bowel disease. Furthermore, a direct connection between higher levels of microbiota-produced short chain fatty acids in stool and decreased levels of the monocarboxylate transporter 1 (MCT1) was shown in K8
+     colon [
+     ]. Even more, keratins have been shown to bind directly to membrane proteins such as polycystin-1 and CFTR [
+     ,
+     ,
+     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec5-cells-05-00029">
+    <title>
+     5. Pathogens Interfering with Barrier Function in Simple Epithelia
+    </title>
+    <p>
+     In the following paragraphs, we briefly summarize observations of specific microbe-host interactions in simple epithelia that involve keratins.
+    </p>
+    <sec id="sec5dot1-cells-05-00029">
+     <title>
+      5.1. Pathogen Docking
+     </title>
+     <p>
+      Enteropathogenic
+      <italic>
+       Escherichia coli
+      </italic>
+      (EPEC) are major pathogens causing severe gastroenteritis in humans [
+      ] by causing attaching and effacing (A/E) lesions that are characterized by microvilli destruction [
+      ] and subsequent disappearance of the terminal web [
+      ]. Electron-dense zones are formed underneath the bacterial attachment sites that are rich in F-actin, myosin-II, villin, fodrin, and tubulin [
+      ,
+      ]. The attachment of EPEC was shown to involve the binding of the translocated intimin receptor (Tir) to the host adaptor protein Nck [
+      ]. This interaction induced the recruitment of the neural Wiskott-Aldrich syndrome protein (N-WASP) and the actin-related protein (Arp2/3) complex which then led to the formation of an actin filament-rich pedestal. These studies were further extended by Batchelor and co-workers [
+      ] showing that K18 is involved in this process. Evidence was presented that Tir interacts with K18, which in turn induced pedestal formation by actin accretion and cytoskeletal reorganization. In this way, a transmembrane bridge is formed connecting the cytoskeleton of the intestinal epithelial cell and the pathogen ([
+      ] and
+      b).
+     </p>
+     <p>
+      Similarily, involvement of keratins as mediators for pathogen docking and uptake was also noted in intestinal
+      <italic>
+       Salmonella enterica serovar typhimurium
+      </italic>
+      infection [
+      ,
+      ]. This bacterium is responsible for worldwide epidemics because of increasing multi-drug resistance [
+      ].
+      <italic>
+       Salmonella
+      </italic>
+      pathogen invasion involves dramatic rearrangements of the host cytoskeleton and actin polymerization ([
+      ,
+      ,
+      ,
+      ,
+      ] and
+      b). One of the essential proteins for invasion is the secreted invasion protein SipC [
+      ]. Using a yeast two-hybrid system, Carlson and colleagues [
+      ] identified an interaction between SipC and K18. Interestingly, expression of the dominant negative K18 mutant K18-R89C was shown to inhibit
+      <italic>
+       Salmonella
+      </italic>
+      invasion. It is also noteworthy that K18 is present in M-cells of the intestine [
+      ] which are the major in vivo entry site of this pathogen [
+      ]. Another interaction was described for K8 and the
+      <italic>
+       Salmonella
+      </italic>
+      type III secretion translocon protein SspC. The insertion of SspC into the host cytoplasm is required for
+      <italic>
+       Salmonella
+      </italic>
+      invasion and effector molecule translocation [
+      ]. The type III secretion systems are used by more than 30 other bacterial pathogens, most notably by
+      <italic>
+       Shigella
+      </italic>
+      spp. [
+      ], to establish infection though the delivery of effector proteins to the host cell.
+      <italic>
+       Shigella flexneri
+      </italic>
+      causes bacterial dysentery by invading colonic and rectal epithelium and causing severe mucosal inflammation and tissue damage resulting in abscesses and ulceration [
+      ,
+      ]. Very recently, Russo and co-workers [
+      ] showed that K18 and vimentin interact with the carboxyterminus of the
+      <italic>
+       Shigella
+      </italic>
+      translocon pore protein IpaC.
+     </p>
+     <p>
+      Taken together, these examples elucidate how pathogens use the mechanically stable keratin barrier as an anchor to bind to the cell membrane in order to fulfill host invasion (
+      b,c).
+     </p>
+    </sec>
+    <sec id="sec5dot2-cells-05-00029">
+     <title>
+      5.2. Induction of Cytotoxic Effects
+     </title>
+     <p>
+      Cytotoxic serine protease autotransporters of
+      <italic>
+       Enterobacteriaceae
+      </italic>
+      (SPATE) are implicated in cytotoxic effects. They promote their own secretion into the extracellular space through the type V secretion system [
+      ] representing the most common mechanism used to release virulence factors by Gram-negative bacteria [
+      ]. The class 1 SPATE Pet is a common toxin that was recently found to bind K8 [
+      ]. It was further shown that the cytopathic effects of Pet are dependent on the presence/availability of K8. It was suggested that these effects were mediated through a keratin-dependent modulation of the clathrin-mediated endocytosis of Pet.
+     </p>
+    </sec>
+    <sec id="sec5dot3-cells-05-00029">
+     <title>
+      5.3. Keratin Network Disruption
+     </title>
+     <p>
+      As described above for microbial infection of stratified epithelia, increased keratin phosphorylation was also observed in infected simple epithelia. Thus, Rotavirus infection, which is the most common cause of severe diarrhea in humans, was shown to increase hyperphosphorylated K8 [
+      ]. This change was accompanied by reorganization and partial disruption of the keratin filament network without visible changes in the actin filament and microtubule networks (
+      d). At the same time, the soluble keratin pool was considerably increased. Subsequently, increased K8 and K18 phosphorylation has been shown to correlate with the progression of hepatitis B and C ([
+      ,
+      ] and
+      d,e). Another example of network disruption was described by Toivola et al. [
+      ] using coxsackievirus B4 variants CVB4-V and CVB4-P, which induce acute/chronic pancreatitis and chronic pancreatitis, respectively. Infection with CVB4-V was shown to lead to an increase of mortality by 40% in K8
+      mice compared to either wildtype or K18
+      mice. Yet all animals displayed reorganization of the apicolateral K8/K18 network (
+      d,e) and loss of acini. The surviving K8
+      mice also displayed enhanced signs of inflammation. In contrast, K8
+      mice were less susceptible to CVB4-P infection compared to control animals and exhibited more efficient acinar repair. The network disruption observed during CVB4-P infection was shown to go along with phosphorylation of K8-S438 and K18-S35. Studies on keratin phosphorylation during CVB4-V infection have not been performed so far.
+     </p>
+     <p>
+      Another mechanism to disrupt the keratin network is proteolysis. This mechanism has been demonstrated for adenovirus. The adenovirus late-acting L3 23-kDa proteinase cleaves the aminoterminal head domain of K18 in different cell culture systems [
+      ,
+      ]. In conjunction with shut down of host translation this was shown to result in keratin network disruption with formation of cytoplasmic granular aggregates thereby favoring cell lysis and release of mature virus particles ([
+      ,
+      ] and
+      d,e). Similarly, it was reported that 2A proteinase cleaves K8 during a late stage of the infection cycle with human rhinovirus serotype 2 in HeLa cells [
+      ]. This enzyme is also produced by other rhinoviruses and enteroviruses including coxsackievirus B4 [
+      ].
+     </p>
+     <p>
+      Another example of microbial proteolytic effects is provided by the Gram-
+      <italic>
+       negative Chlamydia trachomatis
+      </italic>
+      , which is the leading cause of sexually transmitted bacterial disease worldwide. The intracellular pathogen proliferates in cytoplasmic vacuoles that are surrounded by a stabilizing dense coat of F-actin and IFs ([
+      ] and
+      c).
+      <italic>
+       Chlamydia trachomatis
+      </italic>
+      secretes a protease that is referred to as chlamydial protease-like activity factor (CPAF) and was shown to cleave K8 and K18 [
+      ,
+      ]. This processing did not prevent keratin filament formation but presumably modified the structural scaffolding properties of the keratin filament network [
+      ]. Similarly, CPAF of the related
+      <italic>
+       Chlamydia
+      </italic>
+      <italic>
+       pneumoniae
+      </italic>
+      cleaves K8 and probably also K18 [
+      ]. It is assumed that these proteolytic activities alter the cytoskeletal actin- and IF-based envelope of the vacuole to support vacuolar expansion and thereby enhance intravacuolar chlamydial replication ([
+      ] and
+      c–e).
+     </p>
+    </sec>
+    <sec id="sec5dot4-cells-05-00029">
+     <title>
+      5.4. Pathogen Proliferation and Survival
+     </title>
+     <p>
+      Chagas’ disease is caused by the protozoan parasite
+      <italic>
+       Trypanosoma cruzi
+      </italic>
+      . The
+      <italic>
+       Trypanosoma
+      </italic>
+      glycoprotein gp85 has been implicated in cell invasion [
+      ]. The gp85-derived nonapeptide TS9 has significant cell binding capacity and was found to bind keratins and vimentin in in vitro binding assays [
+      ]. Using LLC-MK
+      <sub>
+       2
+      </sub>
+      kidney epithelial cells, it was further demonstrated that
+      <italic>
+       Trypanosoma cruzi
+      </italic>
+      adhesion and cell infection can be reduced by TS9 peptide resulting in a reduced number of parasites per cell.
+     </p>
+     <p>
+      Examination of the spore stage of the microsporidian nerve parasite
+      <italic>
+       Spraguea lophii
+      </italic>
+      suggested a mechanism by which a pathogen may utilize the keratin filament network for survival [
+      ]. It was shown that these spores are stabilized by K4 and K13 on their outer envelope thereby preventing spore activation in Hepes-buffered conditions at pH 7.0. Changes to more basic conditions by adding polyanionic mucins led to increased keratin phosphorylation, which resulted in keratin dissociation and disassembly of the outer envelope followed by polar tube release. The polar tube pierces cell membranes to act as a conduit for the sporoplasm into a new host cell.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec6-cells-05-00029">
+    <title>
+     6. The
+     <italic>
+      C. elegans
+     </italic>
+     Intestine as a Model System for Investigating Intermediate Filament-Microbe Interactions
+    </title>
+    <p>
+     The striking arrangement of IFs in a dense fibrous layer just below the apical terminal web is conserved in vertebrates including fish [
+     ], amphibians [
+     ], and mammals [
+     ] as well as in the nematode
+     <italic>
+      Caenorhabditis elegans
+     </italic>
+     , where IFs localize to the prominent electron-dense endotube [
+     ,
+     ,
+     ]. Using transgene strains expressing a fluorescent IF reporter [
+     ] in a mutagenesis screen, the intestinal filament organizer IFO-1 was identified [
+     ]. It acts as a structural component to localize the IF-rich endotube to the periluminal subapical region of intestinal cells [
+     ]. Animals lacking IFO-1 showed a complete loss of the endotube and a dilated lumen. They presented severe growth and development defects, which are most likely caused by impaired nutrient uptake [our unpublished results and 159]. We propose that these and other recently characterized mutants may exhibit increased sensitivity against microbial and toxic insults. This notion is supported by the identification of IFO-1 as a bacterial pore forming toxin-regulated target of MAP kinase [
+     ]. Furthermore, similar alterations of the endotube concurrent with cytoplasmic invaginations and luminal dilation have been described in the intestine of worms that were infected with the microsporidian parasite
+     <italic>
+      Nematocida parisii
+     </italic>
+     [
+     ]. The infection caused rearrangements of the apically restricted actin and IF cytoskeleton, resulting in gaps which are presumably used for the non-lytic exit of intracellularly synthesized spores. Similar luminal alterations were observed by Stutz and colleagues [
+     ] using fungal
+     <italic>
+      Coprinopsis cinerea
+     </italic>
+     lectin 2 (CCL2), a non-immunoglobulin carbohydrate-binding protein without enzymatic activity. This phenotype resulted in developmental delay and premature death. Ultrastructural analyses revealed highly damaged intestinal cells with loss of microvilli, actin depolymerization, and striking invaginations of the apical plasma membrane [
+     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec7-cells-05-00029">
+    <title>
+     7. Conclusions and Outlook
+    </title>
+    <p>
+     Given the crucial function of the keratin cytoskeleton as a barrier to protect the body from environmental insults, microbes have developed ingenious mechanisms to break down this barrier for local colonization and subsequent proliferation and spreading. Strengthening the keratin-based barrier may therefore protect the organism from microbial challenges. In agreement, it has been shown that the probiotic bacterial strain
+     <italic>
+      Bifidobacterium breve
+     </italic>
+     increases the expression of K8 in infected colon carcinoma-derived HT29 cells [
+     ]. A mechanistic understanding of the manifold molecular interactions between microbes and the epithelial IF cytoskeleton is still in its infancy.
+     illustrates some of the processes that may occur during microbe-intermediate filament interaction in a simple epithelium. Key questions that need to be addressed in the future are: (1) What are the precise structural and functional consequences of microbe-induced post-translational IF modifications? (2) How do the post-translational IF modifications affect microbial infection and propagation? (3) How do the unique mechanical properties of the IF system affect microbe-host interaction? (4) How do microbe-induced IF alterations affect the innate immune response? (5) How are IFs interlaced in microbe-related tumorigenesis (see, for example [
+     ])?
+    </p>
+    <p>
+     The elucidation of these mechanisms will help to increase our functional understanding of the keratin cytoskeleton and will provide novel strategies for interfering with microbial infections.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

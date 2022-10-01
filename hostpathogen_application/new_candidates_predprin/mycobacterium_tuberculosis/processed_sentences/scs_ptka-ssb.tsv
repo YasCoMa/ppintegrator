@@ -1,0 +1,2 @@
+id_pmc	sentence location	highlighted phrase	interacting verbs	number of interacting verbs	experimental methods found	number of experimental methods	protein entities found	number of protein entities
+4304235	body	a number of substrates phosphorylated and activated by ptka are involved in single - stranded dna - metabolism ; these include the ssdna - binding proteins ssba ( ssb ) and ssbb ( ywph ; ) and the ssdna - specific exonuclease york ( ) .	bind	1		0	ptka|ssba|ssb|ssbb|ssdna|-|binding|proteins	8

@@ -1,0 +1,5 @@
+{
+    "evidences": [ 
+			{ "name": "general_score", "description": "score assumed 1 because they are high quality pairs", "type_": "combination", "literature_support": true }
+		]
+}

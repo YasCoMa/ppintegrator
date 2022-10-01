@@ -1,0 +1,1508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Correlation of PhenotypicProfiles Using Targeted ProteomicsIdentifies MycobacterialEsx-1 Substrates
+ </title>
+ <abstract>
+  <p content-type="toc-graphic">
+   <graphic id="ab-tgr1" ns0:href="pr-2014-00484w_0005"/>
+  </p>
+  <p>
+   TheEsx/WXG-100 (ESAT-6/Wss) exporters are multiprotein complexesthat promote protein translocation across the cytoplasmic membranein a diverse range of pathogenic and nonpathogenic bacterial species.The Esx-1 (ESAT-6 System-1) system mediates virulence factor translocationin mycobacterial pathogens, including the human pathogen
+   <italic>
+    Mycobacteriumtuberculosis
+   </italic>
+   . Although several genes have been associatedwith Esx-1-mediated transport and virulence, the contribution of individualEsx-1 genes to export is largely undefined. A unique aspect of Esx-1export is that several substrates require each other for export/stability.We exploited substrate “codependency” to identify Esx-1substrates. We simultaneously quantified changes in the levels of13 Esx-1 proteins from both secreted and cytosolic protein fractionsgenerated from 16 Esx-1-deficient
+   <italic>
+    Mycobacterium marinum
+   </italic>
+   strains in a single experiment using MRM/SRM targeted mass spectrometry.This expansion of measurable Esx-1 proteins allowed us to define statisticalrules for assigning novel substrates using phenotypic profiles ofknown Esx-1 substrates. Using this approach, we identified three additionalEsx-1 substrates encoded by the
+   <italic>
+    esx-1
+   </italic>
+   region. Ourstudies begin to address how disruption of specific genes affectsseveral proteins in the Esx-1 complex. Overall, our findings illuminaterelationships between Esx-1 proteins and create a framework for theidentification of secreted substrates applicable to other proteinexporters and pathways.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="sec1" sec-type="intro">
+    <title>
+     Introduction
+    </title>
+    <p>
+     <italic>
+      Mycobacteriumtuberculosis
+     </italic>
+     is the etiologicalagent of human tuberculosis (TB). Despite efforts aimed at the treatmentand prevention of TB, the disease remains a global health problem.TB is particularly associated with individuals with compromised immunefunction, including people co-infected with HIV and those with diabetes.As the diabetes epidemic expands in the coming decades,
+     <italic>
+      M.tuberculosis
+     </italic>
+     poses an ongoing threat.
+    </p>
+    <p>
+     The Esx/WXG-100(Wss) protein exporters directly promote virulenceof both mycobacterial and Gram-positive pathogens.     The genomes of pathogenic mycobacteria can encodeup to four or five independent Esx exporters (Esx-1–5).     The Esx/Wss exporters are also conserved and functional in severalnonpathogenic bacteria.     In mycobacterial pathogens, the Esx-1 system promotes the exportof several small protein substrates to both the cell surface and thebacteriological media
+     <italic>
+      in vitro
+     </italic>
+     .
+     <italic>
+      In vivo,
+     </italic>
+     the Esx-1 system permeabilizes the macrophagephagosomal membrane and engages the human immune response to promoteboth mycobacterial infection and host resistance.
+    </p>
+    <p>
+     The Esx-1 system is of particular interestbecause it is lackingfrom the genome of the
+     <italic>
+      M. bovis
+     </italic>
+     Bacillus Calmette-Guérin(BCG) vaccine strain, which is the only TB vaccine currently in use.     The BCG strain is not efficacious at preventingadult pulmonary TB.     Understanding how the Esx-1 systemfunctions at the molecular level and defining secreted virulence factorsthat are poised to interface with the human immune response may provideinsight into why the vaccine is not protective.
+    </p>
+    <p>
+     In
+     <italic>
+      M.tuberculosis,
+     </italic>
+     three genomic regions arerequired for Esx-1-mediated export. These include the
+     <italic>
+      esx-1
+     </italic>
+     locus (including the RD1,
+     <underline>
+      R
+     </underline>
+     egion of
+     <underline>
+      D
+     </underline>
+     ifference-
+     <underline>
+      1,
+     </underline>
+     deletion missingfrom the BCG strain), the
+     <italic>
+      espACD
+     </italic>
+     (
+     <underline>
+      Esx
+     </underline>
+     <underline>
+      s
+     </underline>
+     ecretion-associated
+     <underline>
+      p
+     </underline>
+     rotein-A etc.)     locus, and the
+     <italic>
+      espR
+     </italic>
+     gene.     Orthologous loci are conservedin the genome of the mycobacterial pathogen
+     <italic>
+      Mycobacteriummarinum
+     </italic>
+     , which is an established model for mycobacterialEsx-1 export.     In
+     <italic>
+      M. marinum
+     </italic>
+     , the major
+     <italic>
+      esx-1
+     </italic>
+     locus includes the
+     <italic>
+      espE (MMAR_5439)
+     </italic>
+     through
+     <italic>
+      mycP3_1
+     </italic>
+     (
+     <italic>
+      MMAR_5459
+     </italic>
+     ) genes (Figure     ).     Five protein substratesare encoded within the
+     <italic>
+      esx-1
+     </italic>
+     locus, including EsxA(ESAT-6;
+     <underline>
+      E
+     </underline>
+     arly
+     <underline>
+      S
+     </underline>
+     ecreted
+     <underline>
+      A
+     </underline>
+     ntigenic
+     <underline>
+      T
+     </underline>
+     arget, 6 kDa), EsxB(CFP-10;
+     <underline>
+      C
+     </underline>
+     ulture
+     <underline>
+      F
+     </underline>
+     iltrate
+     <underline>
+      P
+     </underline>
+     rotein, 10 kDa), EspE, EspF, and EspB. Proteins arecharacterized as substrates if disruption of the Esx-1-associatedgenes results in retention in the mycobacterial cell
+     <italic>
+      in vitro
+     </italic>
+     .     Accordingly, all five substrates areexported across the
+     <italic>
+      M. marinum
+     </italic>
+     cytoplasmic membraneeither to the cell wall or cell surface or into the bacteriologicalmedia
+     <italic>
+      in vitro
+     </italic>
+     in an Esx-1-dependent manner (Figure     ).     Two additional substrates, PE35and PPE68_1 (
+     <italic>
+      MMAR_0186
+     </italic>
+     ), are encoded at another genomiclocus but are not known to be required for Esx-1 substrate export.     In
+     <italic>
+      M. tuberculosis
+     </italic>
+     , EspA
+     <sub>
+      <italic>
+       mt
+      </italic>
+     </sub>
+     and EspC
+     <sub>
+      <italic>
+       mt
+      </italic>
+     </sub>
+     (subscript“
+     <italic>
+      mt
+     </italic>
+     ” indicates the proteins are from
+     <italic>
+      M. tuberculosis
+     </italic>
+     , and “
+     <italic>
+      mm
+     </italic>
+     ”indicates
+     <italic>
+      M. marinum
+     </italic>
+     ) are also exported by Esx-1,but this has not been confirmed for the
+     <italic>
+      M. marinum
+     </italic>
+     EspA
+     <sub>
+      <italic>
+       mm
+      </italic>
+     </sub>
+     and EspC
+     <sub>
+      <italic>
+       mm
+      </italic>
+     </sub>
+     proteins.     However, when the EspA
+     <sub>
+      <italic>
+       mt
+      </italic>
+     </sub>
+     and EspC
+     <sub>
+      <italic>
+       mt
+      </italic>
+     </sub>
+     proteins were expressed in
+     <italic>
+      M. marinum
+     </italic>
+     , they were exported in an Esx-1-dependent manner demonstrating thatthe mechanisms of substrate recognition are conserved between thetwo species.
+    </p>
+    <p>
+     Additional proteins encoded by genes within the
+     <italic>
+      esx-1
+     </italic>
+     locus likely form part of the Esx-1 apparatus based on conservationacross Esx systems and predicted cellular localization.     The “components” include two predicted chaperones,EspG
+     <sub>
+      1
+     </sub>
+     and EccA
+     <sub>
+      1
+     </sub>
+     (
+     <underline>
+      E
+     </underline>
+     sx
+     <underline>
+      c
+     </underline>
+     onserved
+     <underline>
+      c
+     </underline>
+     omponents     ); two FtsK-SpoIIIE-like AAA ATPases, EccCa andEccCb; and two predicted membrane-associated proteins, EccB
+     <sub>
+      1
+     </sub>
+     and EccD
+     <sub>
+      1
+     </sub>
+     .
+    </p>
+    <p>
+     Several additional proteins encodedby the
+     <italic>
+      esx-1
+     </italic>
+     locus (EspK, EspH, EspL, EspJ, and EspI)are required for substrateexport. It is unclear if these proteins are Esx-1 components or substrates(or both).     We have recentlyidentified a second genomic region (
+     <italic>
+      MMAR_1663–1668
+     </italic>
+     ) in
+     <italic>
+      M. marinum
+     </italic>
+     that is required for Esx-1 exportand virulence.
+    </p>
+    <p>
+     In both mycobacterialspecies, disruption of genes within Esx-1-associatedloci generally results in the loss of Esx-1 substrate export
+     <italic>
+      in vitro
+     </italic>
+     and attenuation of virulence in cell culture andanimal models of infection.     However, recent studies have identified both attenuated
+     <italic>
+      M. tuberculosis
+     </italic>
+     strains that still secrete Esx-1 substratesand virulent
+     <italic>
+      M. tuberculosis
+     </italic>
+     strains that do notsecrete Esx-1 substrates into the bacteriological media
+     <italic>
+      invitro
+     </italic>
+     .     We found that in
+     <italic>
+      M. marinum
+     </italic>
+     substrates localizedto the cell surface, and not necessarily the culture supernatant,correlate with virulence.     Therefore,the complex relationship between Esx-1 export and virulence requiresfurther investigation.
+    </p>
+    <p>
+     Further confounding our understandingof this relationship arelimitations with how we measure the export of Esx substrates;
+     <italic>
+      in vitro
+     </italic>
+     Esx-1 export and secretion assays measuring thepresence of substrates in the bacteriological media are generallyperformed using Western blot analysis. It has been difficult to preciselyquantitate change in Esx protein secretion using this approach inpart because of antibodies that are of poor quality or lacking altogetherfor most proteins associated with the mycobacterial Esx-1 system.     Multiple reaction monitoring (MRM) has emerged as the proteomicstool to target and precisely determine protein levels directly fromcomplex biological mixtures.     In practicalterms MRM functions as a replacement for Western blot analysis, allowinghighly parallel stacking of targets (proteins). For microbes in particular,MRM data is also largely portable, and online databases to collectand curate these targets are available.
+    </p>
+    <p>
+     TheEsx-1 export apparatus is a multiprotein complex, spanningat least the mycobacterial cytoplasmic membrane. It is not yet knownhow or if the Esx-1 system promotes translocation of substrates acrossthe mycolate outer membrane (MOM) and out of the cell.     It is also not well-defined how or if individual Esx-1-associatedproteins affect the levels and stability of other Esx-1 proteins inthe export complex. A lack of understanding of how each Esx-1-associatedprotein contributes to protein export makes it difficult to establishhow the Esx-1 system works at the molecular level. Elucidating Esx-1protein translocation at the molecular level will advance our understandingof mycobacterial virulence mechanisms and potential courses of treatmentand prevention of human TB.
+    </p>
+    <p>
+     It has been reported several timesthat Esx-1 substrates requireeach other for export.     This phenomenonis referred to as “codependent secretion”.     The basis for this codependency is not understood.Direct interaction between substrates or shared genetic requirementsfor export could underlie this observation.     We hypothesized that the quantification of substrate codependencycould define rules for identifying novel Esx-1 substrates. In a singleexperiment, we simultaneously examined the changes in the levels of13 Esx-1-associated proteins. We employed targeted mass spectrometryto differentially quantify changes in the levels and export of theseEsx-1-associated proteins from both secreted and cytosolic proteinfractions across the 16 Esx-1-deficient
+     <italic>
+      M. marinum
+     </italic>
+     strains as compared to the wild-type (WT)
+     <italic>
+      M. marinum
+     </italic>
+     M strain.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec2" sec-type="methods">
+    <title>
+     Experimental Procedures
+    </title>
+    <sec id="sec2.1">
+     <title>
+      Growth of
+      <italic>
+       M. marinum
+      </italic>
+      Strains
+     </title>
+     <p>
+      <italic>
+       M. marinum
+      </italic>
+      strains were grown at 30 °C andmaintainedon Middlebrook 7H11 agar (Accumedia, Lansing, MI) or in 7H9 broth(Accumedia, Lansing, MI) supplemented with 0.1% Tween-80 and kanamycin(20 μg/mL; IBI, Poesta, IL) when appropriate.
+      <italic>
+       M. marinum
+      </italic>
+      strains used in this study are in      . All strains were derived from the parent
+      <italic>
+       M. marinum
+      </italic>
+      M strain. The majority of the strains in thisstudy were obtained from the laboratory of Eric J. Brown; these strainsare Esx-1-deficient and attenuated for virulence.      Strains bearing transposon (Tn) insertions in the
+      <italic>
+       eccB
+      </italic>
+      <sub>
+       1
+      </sub>
+      (F11),
+      <italic>
+       eccD
+      </italic>
+      <sub>
+       1
+      </sub>
+      (17), and
+      <italic>
+       espL
+      </italic>
+      (2) genes were identified from a nonsaturating
+      <italic>
+       M. marinum
+      </italic>
+      Tn-insertion library.      The Tn-insertions were mapped by extracting and digesting genomicDNA from each strain and generating a plasmid library in pBluescriptas previously explained.      The plasmid bearingthe Tn-insertion was selected for kanamycin resistance in
+      <italic>
+       E. coli
+      </italic>
+      , and the precise site of each insertion was mappedby sequencing analysis using the 821A and 822A primers.      The loss of Esx-1 secretion
+      <italic>
+       in vitro
+      </italic>
+      was confirmed using Western blot analysis and nLC–MRM(see      for Westernblot analysis).
+     </p>
+    </sec>
+    <sec id="sec2.2">
+     <title>
+      Esx-1-mediated Secretion Assays
+     </title>
+     <p>
+      Esx-1-mediated secretionassays were performed essentially as described.      Briefly,
+      <italic>
+       M. marinum
+      </italic>
+      strains were grownin 7H9 broth to saturation and diluted to an OD
+      <sub>
+       600
+      </sub>
+      of 0.8in 50 mL of Sauton’s defined broth with 0.05% Tween-80. After48 h of growth, the cells were harvested by centrifugation, and thesupernatant was filtered to generate culture filtrates (CF). The celllysate (CL) fractions were generated using a Mini-Bead-Beater-24 (BioSpec,Bartlesville, OK). Culture filtrates were concentrated ∼100-foldusing Amicon Ultra-4 Centrifugal Filter Units (EMD Millipore, Temecula,CA). Protein concentrations were determined using the MicroBCA ProteinAssay according to the manufacturer’s instructions (ThermoScientific Pierce). Western blot analysis was performed as describedpreviously with the following changes.      A 10 μg portion of cell lysates and cell filtrates was separatedusing 4–20% Mini PROTEAN TGX Tris-Glycine Polyacrylamide Gels(Bio-Rad). Nitrocellulose membranes were incubated with antibodiesagainst ESAT-6 (EsxA) (1:3000, Abcam ab26246), CFP-10 (EsxB) (1:5000,Pierce PA1-19445), MPT32 (1:5000, NR-13807; BEI Resources), or GroEL(1:5000, Assay Designs SPS-875) as described previously.      Immunoblots for EsxA, EsxB, and MPT32 were incubated with goat anti-mouseIgG (1:5000, HRP-conjugate) or goat anti-rabbit IgG (1:5000; HRP-conjugate,Millipore). The immunoblots were imaged using the LumiGLO ChemiluminescentSubstrate Kit (KPL, Gaithersburg, MD). The immunoblot for GroEL wasincubated with DyLight anti-rabbit IgG (1:10000, 680 conjugate) (CellSignaling Technologies, Danvers, MA). The immunoblot was imaged usinga LI-COR Odyssey Imager and analyzed with LI-COR Odyssey Software.      Bands resulting from the Western blot analysiswere quantified using ImageJ as described here:
+      <uri ns0:href="http://www.di.uq.edu.au/sparqimagejblots">
+       http://www.di.uq.edu.au/sparqimagejblots
+      </uri>
+      .
+     </p>
+    </sec>
+    <sec id="sec3">
+     <title>
+      Proteomics
+     </title>
+     <sec id="sec3.1">
+      <title>
+       Protein Preparation and Digestion
+      </title>
+      <p>
+       A 50 μg portionof protein as determined by Micro BCA (Pierce) from either culturefiltrate or whole cell lysate was prepared and digested with trypsinas previously described       with the exceptionthat samples were resuspended in 0.2% trifluoroacetic acid (TFA) toa final concentration of 500 ng/μL, and 5 μg aliquotswere desalted using a C18 zip tip (Millipore) according to manufacturer’sinstructions and then dried. Samples were resuspended for LC–MS/MSas described below.
+      </p>
+     </sec>
+     <sec id="sec3.2">
+      <title>
+       MRM/SRM Generation
+      </title>
+      <p>
+       We utilized twoempirical data sourcesto determine and develop our MRM/SRM transitions: existing LC–MRMresults and LC–MS/MS identifications similar to that described.       We maintainan in-house database of identified
+       <italic>
+        M. marinum
+       </italic>
+       proteinsfrom culture filtrates and whole cell lysates and an in-house atlasof MRM transitions derived from these protein identifications, manyof which have been previously used in other publications and validatedwith synthetic stable-isotope analogues of the peptides.       In general, our available proteomewas collected by triplicate analysis of
+       <italic>
+        M. marinum
+       </italic>
+       cell lysates and culture filtrates by LC–MS/MS as describedin Li et al., using nano UHPLC–MS/MS.       mgf (Matrix Science) peak lists from the LTQ-Velos Orbitrap datawere searched against the current
+       <italic>
+        M. marinum
+       </italic>
+       M strainFASTA database using the Paragon algorithm in ‘Rapid searchmode’. FDR rates were determined using the target-decoy methodof Elias et al.,       and FDR rates were &lt;0.001%for all proteins used in this study. MRM transitions were determinedfrom these data using Skyline software from the MacCoss lab (Universityof Washington) and MRM Pilot (AB Sciex, Framingham, MA). Peptide andprotein validation was performed using a procedure nearly identicalto that described for empirical LC–MS/MS data from the Aebersoldgroup.       Cross validation was made using independentWestern blot analysis (       ) as well as the unique aspect here of the availability of mutantstrains for most of the monitored proteins. Two independent mutantEccA
+       <sub>
+        1
+       </sub>
+       and EccB
+       <sub>
+        1
+       </sub>
+       strains were analyzed for verificationof phenotypes, clustering, and statistical reproducibility. IndividualMRM transitions were tested to ensure peptide profiles degeneratedin the presence of strains with genes disrupted for the respectiveprotein product. These bioinformatics approaches yielded a final MRM-transitionlist containing 166 transitions. Stable heavy-isotope analogues ofseveral Esx-1 proteins, to validate the normalization and lysis controls,were used as in Kennedy et al. for further correction.       The list of endogenous transitions used in therelative method are included as       .
+      </p>
+     </sec>
+     <sec id="sec3.3">
+      <title>
+       nLC–MRM
+      </title>
+      <p>
+       Nano-UHPLC–MS/MSwas performedessentially identically to our previous publications.       Protein samples (5 μg)were resuspended in 0.3% TFA (20 μL). Then 2 μL (500 ng)was injected onto a 100 mm × 100 μm C18BEH column (Waters,Milford, MA) and separated over a 90 min gradient from 2% to 40% B(A = 0.1% formic acid in water) (B = acetonitrile, 0.1% FA) on anNano Ultra2D UHPLC (Eksigent, Dublin, CA) running at 650 nL/min. HPLCsolvents were of the highest grade available (Burdick and Jackson).MRM-based MS/MS acquisition was performed on a QTRAP 5500 (AB Sciex)running in triple-quadrupole mode. Each sample was analyzed in-triplicatewith biological duplicates. In total &gt;200 LC–MS/MS runswerecollected, including blanks and standards.
+      </p>
+     </sec>
+     <sec id="sec3.4">
+      <title>
+       Data Processing
+      </title>
+      <p>
+       MRM data were integrated, normalized,and corrected for lysis as described.       Peaks were integratedusing MultiQuant 2.0 (AB Sciex) using Intelliquan integration witha 3 point Gaussian smooth with no baseline correction. The apex transitionwas used for quantification (Quantifier), and the remaining transitionswere used as qualifiers to determine relative peptide levels and ensuretransition ratios. Multiple peptides (1–4) were averaged togetherto arrive at the average peak area for the protein.       In several cases, the low-molecular weight substrates yieldedone well-integrated peptide, which passed all other criteria. Statisticalanalysis for protein quantitation was done using propagation of errors.[(CV % 1)       + (CV % 2)       + (CV %
+       <italic>
+        n
+       </italic>
+       )       )       ].
+      </p>
+      <p>
+       The peak area of the proteotypicpeptides from each protein was converted to an area response/ratioagainst the GroES or GroEL2 cytosolic protein standards to controlfor lysis. Area ratios of each protein were averaged and normalizedto the peptide response from the WT strain to allow direct comparisonamong proteins between strains. Direct comparisons in protein levelsbetween CL (cell lysate) and CF (culture filtrate) were largely notperformed because the sample complexity and dynamic range vastly differ.       This approach is sensitive to low levels ofautolysis and can detect proteins in the secreted fraction that arenot necessarily secreted.       We exploitedcoincidental detection to normalize sample amounts and correct forcytosolic contamination of the CF.       Further validation of the stability of differentialarea-ratio analysis was performed by selected nUHPLC–MS injectionsusing stable heavy-isotope (AQUA) versions of peptides correspondingto EsxA and GroES       (New England Peptide,Gardner, MA). Data from these selected absolute quantitative standardsare in excellent agreement with the ratios observed by the differentialanalysis described here.
+      </p>
+     </sec>
+     <sec id="sec3.5">
+      <title>
+       StatisticalAnalysis and Hierarchical Clustering
+      </title>
+      <p>
+       Pearson’scorrelation coefficients of the proteins were calculated independentlyfrom normalized area ratios of each protein compared to the peptideresponse found in wild-type
+       <italic>
+        M. marinum
+       </italic>
+       for the cellpellet and cell lysate data sets, and their
+       <italic>
+        p
+       </italic>
+       valueswere computed by fitting a linear model using R, an open source statisticalanalysis environment.       The R code andthe raw data files used to calculate the correlation and its significanceare included in the       (Supplemental Figure S6 and Supplemental files). Hierarchical clusteringwas performed using HCE 3.5 software (Schneiderman Lab) using normalizedpeak area MRM data as cell input with peptide (column) and mutant/strain(row) for consistency. Data were normalized by Row (Protein) acrossstrains using (
+       <italic>
+        X
+       </italic>
+       –
+       <italic>
+        m
+       </italic>
+       )/σto normalize the response ratio between high and low abundance proteinsrelative to the internal standards. Hierarchical aggregate clusteringwas employed to cluster the data for both
+       <italic>
+        M. marinum
+       </italic>
+       strains and Esx-1-associated proteins as described in Seo et al.       Thresholds were set at approximately 1SD forcolor graphing.
+      </p>
+      <p>
+       Our results were further statistically analyzedat each level of experimental reporting. First, we determined calculatedprotein ratios from the MRM-peptide measurements, their respective% CV, and then the propagated error to determine the analytical robustness.A paired two-tailed Student’s
+       <italic>
+        t
+       </italic>
+       test was usedto compare the protein ratios for each protein between the WT
+       <italic>
+        M. marinum
+       </italic>
+       and Esx-1-deficient strains (Microsoft Excel).
+       <italic>
+        p
+       </italic>
+       values ≤0.05 were considered significant. Thiswas performed for both cell lysate and culture filtrate fractionsseparately.
+      </p>
+     </sec>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec4">
+    <title>
+     Results and Discussion
+    </title>
+    <sec id="sec4.1">
+     <title>
+      Development and Validationof a Targeted MS Esx-1 SecretionAssay
+     </title>
+     <p>
+      Targeted proteomics (MRM)-based assays are well-suitedfor the analysis of proteins from microbial systems and particularlywell-suited for the analysis of
+      <italic>
+       Mycobacterium
+      </italic>
+      spp.      We previously used targeted proteomicson nano-HPLC-separated peptide digests of bacterial proteins (nLC–MRM-MS)to detect the secretion of individual Esx-1 substrates, includingthose that were largely undetectable by Western blot analysis.      Moreover, nLC–MRM has recently been used to determine thegenetic requirements for export of the EsxH and EsxG substrates ofthe Esx-3 system in
+      <italic>
+       Mycobacterium smegmatis
+      </italic>
+      .      MRM-based analysis is suited to generate relativedetection of numerous substrates simultaneously. MRM-based approachescan also be made specific to domains of proteins and facilitate asubstantially larger potential set of controls. Contamination, cellularlysis, gene duplications,
+      <italic>
+       actual changes in secretion
+      </italic>
+      , and protein loading can greatly affect the denominator used tonormalize secreted/compartmented proteomics.      Targeted multiplexed MRM allows development of appropriate normalizationproteins and schemes simultaneously, including the use of multiplenormalization proteins such as MMAR_2929, GroEL2, GroES, MPT64, andMPT32 used here and in numerous mycobacterial studies.
+     </p>
+     <p>
+      We hypothesizedthat by using nLC–MRM-MS on a larger scale to measure Esx-1-associatedproteins in a collection of isogenic
+      <italic>
+       M. marinum
+      </italic>
+      strainsbearing Tn insertions or deletions in the
+      <italic>
+       esx-1
+      </italic>
+      locus,we could both identify Esx-1 substrates and gain a deeper insightinto the molecular mechanisms of Esx-1 export. To address this hypothesis,we induced Esx-1 export in
+      <italic>
+       M. marinum
+      </italic>
+      by growth inSauton’s defined medium and generated cell lysate (CL) andculture filtrate (CF) protein fractions from each strain (      ). The protein fractionswere digested with trypsin to generate proteotypic peptides for detectionand quantitation. We quantified changes in Esx-1 protein levels withinand secreted from each Esx-1-deficient
+      <italic>
+       M. marinum
+      </italic>
+      strain normalized to levels in the WT
+      <italic>
+       M. marinum
+      </italic>
+      using nLC–MRM in a single experiment (see      for MRM transitions monitored in thisstudy). The peak area for each peptide was normalized for total quantityand autolysis (false-secretion) to stable cytoplasmic proteins, chieflyGroEL2 and GroES. The area ratio for each protein-derived peptidewas then compared directly with the exact same peptide response fromthe WT
+      <italic>
+       M. marinum
+      </italic>
+      to allow direct comparison amongstrains and proteins (see      ).
+     </p>
+     <p>
+      To test our approach, we selected the proteomics data describingthe relative levels of the best-characterized and most abundant Esx-1substrates, EsxA and EsxB. The data from this study are presentedas Figure      A and B (Log
+      <sub>
+       2
+      </sub>
+      transformeddata in      ). In parallel,we also separately conducted Western blot analysis followed by quantitationby densitometry, which is presented as      . For EsxA and EsxB, the
+      <italic>
+       M. marinum
+      </italic>
+      ΔRD1, Δ
+      <italic>
+       esxA
+      </italic>
+      , and Δ
+      <italic>
+       esxBA
+      </italic>
+      strains, which lack the
+      <italic>
+       esxA
+      </italic>
+      and/or the
+      <italic>
+       esxB
+      </italic>
+      genes, served as controls for specificity for bothnLC–MRM and Western blot analysis. In these strains, EsxA andEsxB were not detected in the CL and CF fractions, indicating thatboth detection methods were specific for the EsxA and EsxB proteins(Figure      A and B and      ). The Western blot analysis using the same samples(      ) contained 10 μgof protein from
+      <italic>
+       M. marinum
+      </italic>
+      fractions to detect 1–2protein bands per analysis with virtually no dynamic range or quantification.Here, each proteomic analysis utilized 20-fold less material, withmultiplexing of target proteins and controls simultaneously. Furtherdilution experiments and the inherent linearity of triple-quadrupoleinstrumentation gave at least 3.5 orders of magnitude in linear dynamicrange for all substrates and sensitivities &lt;100 amol on columnper protein (confirmed by selected AQUA peptides, data not shown).The dynamic range of Western blots for EsxB and EsxA for which wehave reliable antibodies was &lt;2–2.5 orders of magnitude(      ). Absolute peakintensities for EsxB often exceed 5 × 10      cps, andwe can typically detect these peptides down to ca. 300 cps (
+      <italic>
+       s
+      </italic>
+      /
+      <italic>
+       n
+      </italic>
+      &gt; 5:1). This is nearly 5-ordersoflinear dynamic range and represents a potential reduction in startingmaterial to detect EsxB from less than 0.5 ng of trypsin-digestedCF (&lt;0.005 % of what was loaded for Western blot analysis). Thereproducibility of the measurements here (CV ≈ 10%) furtherdemonstrates the superior precision of our approach.
+     </p>
+     <p>
+      Relative to WT
+      <italic>
+       M. marinum
+      </italic>
+      , the levels of EsxAand EsxB in the CL were significantly reduced in the majority of Esx-1-deficient
+      <italic>
+       M. marinum
+      </italic>
+      strains. The levels of EsxA were comparable toWT
+      <italic>
+       M. marinum
+      </italic>
+      in strains bearing transposon insertionsin the
+      <italic>
+       eccD
+      </italic>
+      <sub>
+       1
+      </sub>
+      ,
+      <italic>
+       espJ
+      </italic>
+      , and
+      <italic>
+       espK
+      </italic>
+      genes. The decreased level of EsxA in the
+      <italic>
+       espI
+      </italic>
+      ::Tn strain was not significantly different from that in WT
+      <italic>
+       M. marinum
+      </italic>
+      (
+      <italic>
+       p
+      </italic>
+      = 0.0777). The levels ofEsxB in the
+      <italic>
+       eccCb
+      </italic>
+      ::Tn,
+      <italic>
+       espJ
+      </italic>
+      ::Tn,and
+      <italic>
+       espK
+      </italic>
+      ::Tn strains were not significantly differentfrom that in WT
+      <italic>
+       M. marinum
+      </italic>
+      . EsxB, but not EsxA, significantlyaccumulated in the
+      <italic>
+       eccD
+      </italic>
+      <sub>
+       1
+      </sub>
+      ::Tn strain relativeto the wild-type strain (
+      <italic>
+       p
+      </italic>
+      = 0.0014 and 0.9782 forEsxB and EsxA, respectively, as compared to WT
+      <italic>
+       M. marinum
+      </italic>
+      ). We conclude from this subset of the data that for detecting relativelevels of EsxA and EsxB in the CL, the nLC–MRM-MS analysiswas more robust at measuring changes in protein levels than Westernblot analysis. Moreover, to our knowledge, this is the first reportof accumulation of the EsxB substrate in the absence of Esx-1 export.
+     </p>
+     <p>
+      Esx-1 substrates are defined as proteins that are present in theCF in an Esx-1-dependent manner.      We expectedto measure decreased levels of substrates in the CF fractions generatedfrom the Esx-1-deficient strains. Consistent with previous reports,we found that the levels of EsxA and EsxB from
+      <italic>
+       M. marinum
+      </italic>
+      were significantly decreased in the CF protein fractions from theEsx-1-deficient strains as compared to those generated from WT
+      <italic>
+       M. marinum
+      </italic>
+      (Figure      A and B; EsxB
+      <italic>
+       p
+      </italic>
+      ≤ 0.0007, EsxA
+      <italic>
+       p
+      </italic>
+      ≤ 0.0277;      ). Specific disruption ofthe
+      <italic>
+       eccD
+      </italic>
+      <sub>
+       1
+      </sub>
+      gene by transposon insertionabrogated the export of both EsxB and EsxA. We conclude from thesedata that, as in
+      <italic>
+       M. tuberculosis
+      </italic>
+      , the
+      <italic>
+       eccD
+      </italic>
+      <sub>
+       1
+      </sub>
+      gene in
+      <italic>
+       M. marinum
+      </italic>
+      is required forEsx-1 secretion.
+     </p>
+     <p>
+      It was previously reported by Western blotanalysis that disruptionof
+      <italic>
+       espK
+      </italic>
+      did not affect the secretion of EsxB.      The levels of EsxA and EsxB secretion from the
+      <italic>
+       espJ
+      </italic>
+      and
+      <italic>
+       espK
+      </italic>
+      Tn-insertion strains wereintermediate and significantly different from the levels of EsxA andEsxB in the CFs generated from both WT
+      <italic>
+       M. marinum
+      </italic>
+      and the
+      <italic>
+       eccD
+      </italic>
+      <sub>
+       1
+      </sub>
+      ::Tn strains (for EsxB,
+      <italic>
+       eccD
+      </italic>
+      <sub>
+       1
+      </sub>
+      vs
+      <italic>
+       espK
+      </italic>
+      <italic>
+       p
+      </italic>
+      = 0.0011;
+      <italic>
+       eccD
+      </italic>
+      <sub>
+       1
+      </sub>
+      vs
+      <italic>
+       espJ
+      </italic>
+      <italic>
+       p
+      </italic>
+      = 0.0045). Note that transposon insertions inthe
+      <italic>
+       espK
+      </italic>
+      and
+      <italic>
+       espJ
+      </italic>
+      genes resultedin a loss of EspK and EspJ proteins, respectively (Figure      ). The intermediate secretion phenotype cannot beattributed to intermediate or residual levels of functional EspK orEspJ proteins in the
+      <italic>
+       M. marinum
+      </italic>
+      strains. To our knowledgethis is the first report of an intermediate secretion phenotype forthe export of EsxA and EsxB into the bacteriological media duringmycobacterial growth
+      <italic>
+       in vitro
+      </italic>
+      . The biological significanceof intermediate secretion is not completely known. However, all ofthe Esx-1-deficient strains used in this study, including the
+      <italic>
+       espK
+      </italic>
+      strain,      are attenuatedfor virulence. Thus, it is interesting to consider that ∼2-foldreductions in the levels of known Esx-1 substrates in the CF may reflectattenuation of
+      <italic>
+       M. marinum
+      </italic>
+      strains.
+     </p>
+     <p>
+      Two additional Esx-1 substrates encoded by the
+      <italic>
+       esx-1
+      </italic>
+      locus in
+      <italic>
+       M. marinum
+      </italic>
+      include EspB and EspF.      We conducted a similar analysis of the relative levels across Esx-1-deficientstrains and WT
+      <italic>
+       M. marinum
+      </italic>
+      for the EspB and EspF substrates(Figure      C and D,      ). EspB was absent from the CL and CF fractions generatedfrom the
+      <italic>
+       espB
+      </italic>
+      ::Tn strain, strengthening the specificityof our approach. The levels of EspB in the CL generated from the Esx-1-deficientstrains were generally comparable to the WT
+      <italic>
+       M. marinum
+      </italic>
+      , with the exception of the strains with disruptions in
+      <italic>
+       espG
+      </italic>
+      <sub>
+       1
+      </sub>
+      ,
+      <italic>
+       eccA
+      </italic>
+      <sub>
+       1
+      </sub>
+      , and
+      <italic>
+       espI
+      </italic>
+      , and the ΔRD1 strain (Figure      C; forthese strains,
+      <italic>
+       p
+      </italic>
+      ≤ 0.0203;      ). EspB required EccCb and EspK for exportinto the CF as previously reported.      We found thatdisruption of
+      <italic>
+       eccB
+      </italic>
+      <sub>
+       1
+      </sub>
+      ,
+      <italic>
+       eccD
+      </italic>
+      <sub>
+       1
+      </sub>
+      , and
+      <italic>
+       espL
+      </italic>
+      also prevented the exportof EspB into the CF, expanding the requirements for EspB export. Forthe strains with insertions in
+      <italic>
+       espG
+      </italic>
+      <sub>
+       1
+      </sub>
+      ,
+      <italic>
+       espJ
+      </italic>
+      , and
+      <italic>
+       espI
+      </italic>
+      , intermediate levels ofEspB were detected in the CF. Interestingly, in previous reports,EspB was not detectable in the CL or CF generated from the
+      <italic>
+       eccA
+      </italic>
+      <sub>
+       1
+      </sub>
+      ::Tn strains using Western blot analysis.      Here we observed reduced but detectable levelsof EspB in the CL generated from the
+      <italic>
+       eccA
+      </italic>
+      <sub>
+       1
+      </sub>
+      ::Tn strains, reflecting the sensitivity of this approach. Finally,we found that deletions in the
+      <italic>
+       esxA
+      </italic>
+      and
+      <italic>
+       esxB
+      </italic>
+      genes resulted in a loss of EspB export into the CF. These findingsagree with those published by Chen et al., which indicate that theexport of EsxBA is required for the export of EspB.
+     </p>
+     <p>
+      EspF is actively exported from
+      <italic>
+       M. marinum
+      </italic>
+      .      The levels of EspF were significantly reducedin the CL and CF fractionsgenerated from every Esx-1-deficient strain as compared to the WT
+      <italic>
+       M. marinum
+      </italic>
+      (Figure      D,
+      <italic>
+       p
+      </italic>
+      ≤ 0.0093 for CF and
+      <italic>
+       p
+      </italic>
+      ≤ 0.0024;      ). These data indicate thatEspF is distinct from the other known substrates in that it is decreasedin the absence of a functional Esx-1 system. These results were consistentwith our original finding of reduced EspF stability in multiple Esx-1-deficientstrains.
+     </p>
+     <p>
+      To control the above experimentfor changes in general secretion,we next compared the relative levels of MMAR_2929, a secreted proteinwith a Sec signal sequence, and EsxN, a substrate of the Esx-5 exportsystem, across the WT and Esx-1-deficient
+      <italic>
+       M. marinum
+      </italic>
+      strains. The Sec secretion system and the Esx-5 system are thoughtto be independent of the Esx-1 secretion system.      The data from MMAR_2929 and EsxN are shownin Figure      E and F, respectively. We measuredsignificant changes (both increases and decreases) in the levels ofMMAR_2929 in the CL and CF fractions generated across the Esx-1-deficientstrains as compared to the WT strain (Figure      E,      ). However, comparedto EsxA and EsxB (Figure      A and B), the levelsof MMAR_2929 in the CF were decreased only in strains where the levelsin the CL were also decreased. Significantly lower levels of EsxNwere secreted into the CF when transposon insertion or deletion disruptedthe
+      <italic>
+       esx-1
+      </italic>
+      in several cases (Figure      D,      ). However,as compared to EsxA and EsxB, none of the disruptions within the
+      <italic>
+       esx-1
+      </italic>
+      locus completely abrogated EsxN secretion into theCF. One possible interpretation is that the Esx-1 and Esx-5 systemsshare genes not included in this study. If the two systems were linkedby as of yet-undefined genes, disruption of Esx-1 secretion couldlead to decreased EsxN secretion. Alternatively, these results maybe statistically significant due to the sensitive nature of our approach,but not biologically relevant. In support of this idea, the exportof MMAR_2929 and EsxN do not correlate with the known and additionalEsx-1 substrates presented here, as we illustrate below.
+     </p>
+     <p>
+      Fromthese data, we conclude that we have established a novel assaythat accurately and sensitively measures Esx-1-mediated substratesecretion into the bacteriological media
+      <italic>
+       in vitro
+      </italic>
+      . We found that the nLC–MRM assay recapitulates most of thepublished observations about Esx-1 substrate stability, as well asthe independence of Esx-1 on the general Sec pathway. In doing so,we identified several intermediate Esx-1 secretion defects as a resultof disruption of the
+      <italic>
+       esx-1
+      </italic>
+      locus. The intermediatesecretion defects were widely missed using standard Western blot analysisbut commonly observed using the nLC–MRM-MS approach. Importantly,this assay is scalable based on the design of the normalization controls.As new Esx-1-deficient strains are identified, the levels of the proteinsof the existing target list can be measured and compared to the datapresented here without regenerating the entire data set. Finally,we contribute the first single-data-set quantitative assessment ofthe changes in both the levels and secretion of the Esx-1 substratesinto the bacteriological media
+      <italic>
+       in vitro
+      </italic>
+      .
+     </p>
+    </sec>
+    <sec id="sec4.1.1">
+     <title>
+      PhenotypicProfiling and Correlation Predict Potential Esx-1Substrates
+     </title>
+     <p>
+      We postulated that the levels of Esx-1 substratesshould statistically correlate across CL and CF fractions generatedfrom the strain collection in this study because they all requirethe Esx-1 system for export. To test this idea, we calculated thePearson’s correlation and measured the significance by fittingthe data to a linear model to determine if the levels of Esx-1-associatedproteins in the CL and CF fractions significantly correlated acrossthe collection of
+      <italic>
+       M. marinum
+      </italic>
+      strains. The data fromthis analysis are presented as Table      . Accordingly,we found that the known substrates, EspF, EspB, EsxA, and EsxB, allsignificantly correlated with each other in the CF (Table      ,
+      <italic>
+       r
+      </italic>
+      ≥ 0.9275). Conversely,proteins in the CF as a result of lysis or the active secretion bya non-Esx-1 system did not significantly correlate with Esx-1 substrates.Rather, proteins secreted independently of Esx-1, including MMAR_2929and EsxN, correlated with the presence of known cytoplasmic or membranecomponents of the Esx-1 system (for example, EccA
+      <sub>
+       1
+      </sub>
+      ) inthe CF, which were detected due to a combination of cell lysis andthe high sensitivity of this approach.
+     </p>
+     <p>
+      We further reasonedthat statistical correlation with known substratesin CF could identify Esx-1 substrates based on correlation-clustering.In the CF, three additional Esx-1-associated proteins, EspJ, EspKand PPE68, significantly correlated with the known Esx-1 substratesbut not with the Esx-1-independent controls, MMAR_2929 and EsxN.
+     </p>
+     <p>
+      To confirm that EspK, EspJ, and PPE68 were Esx-1 substrates, wemined the nLC–MRM-MS experiment to determine the relative levelsof EspK, EspJ and PPE68 in and secreted from WT
+      <italic>
+       M. marinum
+      </italic>
+      as compared to the Esx-1-deficient strains. The results of thisanalysis are shown in Figure      . The ΔRD1 strain and the
+      <italic>
+       espK
+      </italic>
+      ::Tnstrain should be deficient for EspK and served as controls for specificity.On the basis of the absence of detectable EspK levels in these twostrains, we validated the EspK measurements. EspK was also absentfrom the strain bearing the transposon insertion in
+      <italic>
+       espL
+      </italic>
+      , the gene transcribed immediately upstream of
+      <italic>
+       espK
+      </italic>
+      , indicating the two could be operonic (Figure      ). EspK was clearly detected in the CL and CF fractions generatedfrom WT
+      <italic>
+       M. marinum
+      </italic>
+      (Figure      A and      ). EspK levelswere significantly reduced in CL generated from all Esx-1-deficientstrains except the
+      <italic>
+       espG
+      </italic>
+      <sub>
+       1
+      </sub>
+      ::Tn strain (forall strains except
+      <italic>
+       espG
+      </italic>
+      <sub>
+       1
+      </sub>
+      ::Tn,
+      <italic>
+       p
+      </italic>
+      ≤ 0.0005 in the CL; for
+      <italic>
+       espG
+      </italic>
+      <sub>
+       1
+      </sub>
+      ::Tn,
+      <italic>
+       p
+      </italic>
+      = 0.6519). EspK levels in the CFwere significantly reduced in all of the strains tested as comparedto WT
+      <italic>
+       M. marinum
+      </italic>
+      (
+      <italic>
+       p
+      </italic>
+      ≤ 0.0001).From these results we conclude that the presence of EspK in the CFfraction was dependent upon Esx-1-associated genes, indicating thatEspK is indeed an Esx-1 substrate. These findings expand upon Saniet al., who demonstrated that EspK was found in the capsule of
+      <italic>
+       M. marinum
+      </italic>
+      in an Esx-1-dependent manner.      It is likely that in the study reported by McLaughlin etal. the addition of N- and C-terminal protein tags to EspK abrogatedsecretion by Esx-1.      Our findings supportthe necessity of analyzing EspK and other Esx components without epitopetags or indirect reporters.
+     </p>
+     <p>
+      We readily detected EspJ in bothCLs and CFs generated from WT
+      <italic>
+       M. marinum
+      </italic>
+      (Figure      B). The
+      <italic>
+       espJ
+      </italic>
+      gene is absent inthe ΔRD1 strain. As such, EspJwas not detectable in the CL from the ΔRD1 strain, indicatingthat we were specifically detecting EspJ by nLC–MRM. We reporthere extremely low levels of EspJ peptides in the
+      <italic>
+       espJ
+      </italic>
+      ::Tn strain. The EspJ peptide was observed at &lt;0.5% of the EspJlevels in the
+      <italic>
+       espB
+      </italic>
+      ::Tn and &lt;0.2% of the EspJ levelsin the WT strain. This low false-positive signal was inconsistentwith the genetics and was found due to the large EspJ signal observedspecifically in the
+      <italic>
+       espB
+      </italic>
+      ::Tn strain, which arbitrarilywas the prior nLC injection on the mass spectrometer. This was theonly case of measurable carryover we observed in the entire experiment(see Figure      legend for more detail). Thelevels of EspJ were otherwise significantly altered in all of theCL fractions for all Esx-1-deficient strains tested (
+      <italic>
+       p
+      </italic>
+      ≤ 0.0114) even considering this level of background. We interestinglyobserved a significant increase in the levels of EspJ in several strainsindicating accumulation of EspJ in the mycobacterial cell (
+      <italic>
+       eccCb
+      </italic>
+      ::Tn, Δ
+      <italic>
+       esxBA
+      </italic>
+      , Δ
+      <italic>
+       esxA
+      </italic>
+      and
+      <italic>
+       eccD
+      </italic>
+      <sub>
+       1
+      </sub>
+      ::Tn). For allmutant strains tested, the levels of EspJ were significantly decreasedin the CF (
+      <italic>
+       p
+      </italic>
+      ≤ 0.0001). We have experimentallyconfirmed that EspJ is a substrate of the Esx-1 system, as predictedby Daleke et al. on the basis of the YXXXD/E motif.
+     </p>
+     <p>
+      PPE68 was detected in the CL and CF from the
+      <italic>
+       M. marinum
+      </italic>
+      M strain (Figure      C).The
+      <italic>
+       ppe68
+      </italic>
+      gene is absent in the ΔRD1 strain(Figure      ). Accordingly, we did not detectthe PPE68 protein in theCL or CF generated from the ΔRD1 strain, indicating that wewere indeed measuring PPE68. PPE68 levels were significantly reducedin the CL derived from all of the Esx-1-deficient strains tested (
+      <italic>
+       p
+      </italic>
+      ≤ 0.0059) except the
+      <italic>
+       espJ
+      </italic>
+      ::Tnstrain (
+      <italic>
+       p
+      </italic>
+      = 0.3475). Interestingly, the levels ofPPE68 in the CF were significantly reduced from all Esx-1-deficientstrains (
+      <italic>
+       p
+      </italic>
+      ≤ 0.0393) as compared to the WTstrain, except for the
+      <italic>
+       espK
+      </italic>
+      ::Tn strain (
+      <italic>
+       p
+      </italic>
+      = 0.7889).
+     </p>
+     <p>
+      Two reports demonstrated that a protein relatedto PPE68 (MMAR_0186,PPE68_1) encoded outside of
+      <italic>
+       the esx-1
+      </italic>
+      locus was anEsx-1 substrate.      Although PPE68 and PPE68_1 arerelated proteins, the peptides used in this study to measure PPE68are not conserved in PPE68_1, allowing us to distinguish between thetwo proteins. Here we demonstrated for the first time that the PPE68protein encoded by the
+      <italic>
+       esx-1
+      </italic>
+      locus was secreted orshed into the CF in an Esx-1-dependent manner.
+     </p>
+     <p>
+      Overall, we demonstratethe development of a proteomics-based workflowthat successfully identified three additional Esx-1 substrates in
+      <italic>
+       M. marinum
+      </italic>
+      , whose genes are conserved in the human pathogen
+      <italic>
+       M. tuberculosis
+      </italic>
+      . We demonstrate that identifying proteinsthat significantly correlate with known Esx-1 substrates in the culturefiltrate can identify novel Esx-1 substrates, which are key virulencefactors in disease caused by mycobacterial and Gram-positive pathogens.This approach, while applied here to the Esx-1 system, is broadlyapplicable to any protein secretion system, many of which play directroles in bacterial pathogenesis.
+     </p>
+    </sec>
+    <sec id="sec4.1.2">
+     <title>
+      Effects of Esx-1 Deficiencyon Substrate Export and ProteinLevels
+     </title>
+     <p>
+      To further interpret the data we generated by thisapproach and to elucidate relationships between substrates, substratecodependency, and differences between Esx-1-deficient strains, wesummarized our findings in two ways. First, we plotted the relativelevels of the Esx-1 substrates in the CF from each strain to comparethe genetic requirements for Esx-1 substrate export (Figure      ). Second, we performeda hierarchical clustering array of Esx-1-associated proteins acrossthe Esx-1-deficient strains (Figure      ). Theclustering of individual peptides (columns) vs strain (rows) as comparedto clustering the average for each protein was performed to highlightpotential differences in peptide clustering. Most Esx-1-associatedpeptides cluster together as a protein, such as EsxN, but some suchas EspH and EspJ exhibit differential clustering depending on wherein the protein (N- or C-terminus) the tryptic peptide was derived.One explanation for this is that the dynamic range of Esx-1 exportmagnifies the apparent clustering differences; however, there is someevidence of proteoforms of Esx-1 that may be biological or sample-handling-associated.      Preserving the peptide-centric clustering of these substrates presentsthe possibility of teasing apart what, if any, contribution proteoformfragments play in the underlying biology.
+     </p>
+     <p>
+      All of the substratestested had an absolute requirement for EccCb,EccB
+      <sub>
+       1
+      </sub>
+      , EsxA, EsxB, and EspL for export (Figure      , marked with an asterisk; see      for a model). The CF levels of Esx-1substrates generated from these strains all resembled the CF levelsof Esx-1 substrates generated from the ΔRD1 strain, which isdeficient for the production of several Esx-1-associated proteins.Cluster analysis performed of the CF fraction at the protein and strainlevel indicated a relationship among all of these strains with theexception of the
+      <italic>
+       eccCb
+      </italic>
+      ::Tn strain (Figure      A). In the
+      <italic>
+       espL-
+      </italic>
+      deficient strain,all of the Esx-1-associated proteins measured in this study were alsodecreased in the CL as compared to WT
+      <italic>
+       M. marinum
+      </italic>
+      (Figure      B). These proteins, including EsxA and EsxB, mayform a core part of the Esx-1 apparatus that actively exports theknown Esx-1 substrates.      Alternatively,if there is a temporal order to Esx-1 substrate export, EsxA and EsxBmay be required for the export of the other substrates because theyare exported prior to other substrates.
+     </p>
+     <p>
+      Our findings indicate,consistent with previous findings, thatEsxA and EsxB share export requirements.      The levels of EsxA and EsxB significantly and substantiallycorrelated across all
+      <italic>
+       M. marinum
+      </italic>
+      strains in the CF(
+      <italic>
+       r
+      </italic>
+      = 0.9865,
+      <italic>
+       p
+      </italic>
+      = 2.132 × 10      ). Both proteins were absent from the CF if
+      <italic>
+       any
+      </italic>
+      gene in the
+      <italic>
+       esx-1
+      </italic>
+      region was disruptedor deleted (Figure      , Figure      A) with the exceptions of the
+      <italic>
+       espK
+      </italic>
+      and
+      <italic>
+       espJ
+      </italic>
+      genes. Likewise, both proteins were exported to intermediatelevels in strains with disruptions in the
+      <italic>
+       espK
+      </italic>
+      or
+      <italic>
+       espJ
+      </italic>
+      genes (Figure      , Figure      A). This highly significant correlation likely reflectsthe molecular relationship between EsxA and EsxB; the two are encodedin an operon, directly interact and form a 1:1 dimer, and requireeach other for stability.
+     </p>
+     <p>
+      Interestingly, the EspJ and EspK substrates shared geneticrequirementsfor export into the CF. Both EspJ and EspK were absent from CFs generatedfrom the majority of the strains in this study (Figures      and      A). Disruption of the
+      <italic>
+       espG
+      </italic>
+      <sub>
+       1
+      </sub>
+      ,
+      <italic>
+       espB
+      </italic>
+      , and
+      <italic>
+       espI
+      </italic>
+      genes resulted in intermediate secretion phenotypes for both proteins.Consistent with the shared export requirements, the levels of EspJin the CF highly and significantly correlated with EspK (
+      <italic>
+       r
+      </italic>
+      = 0.9854,
+      <italic>
+       p
+      </italic>
+      = 3.704 × 10      ; Table      ,      ). The correlation between EspJ and EspK was comparableto those measured for the EsxA and EsxB pair, indicating that thereis likely a molecular relationship between EspJ and EspK that is yetundefined. The export requirements for the EspJ and EspK proteinsdiffered from the EsxA and EsxB proteins, indicating that these substratesare not absolutely dependent upon each other for export. EspJ andEspK are not encoded by genes that can form an operon, so the sharedrequirements for export cannot simply be due to co-transcription (Figure      ). EspJ and EspK are both proteins of unknown function;EspK is classified as a proline- and alanine-rich protein. Interestingly,bioinformatics analysis revealed that while
+      <italic>
+       M. tuberculosis
+      </italic>
+      H37Rv has a single gene encoding
+      <italic>
+       espK
+      </italic>
+      and
+      <italic>
+       espJ
+      </italic>
+      , the
+      <italic>
+       M. marinum
+      </italic>
+      genome contains 3additional
+      <italic>
+       espJ
+      </italic>
+      paralogs and 5 additional
+      <italic>
+       espK
+      </italic>
+      paralogs (      ). The paralogs vary with respect to conservation with each otherand with the
+      <italic>
+       M. tuberculosis
+      </italic>
+      orthologs. Moreover,for all of the
+      <italic>
+       espJ
+      </italic>
+      paralogs there are
+      <italic>
+       espK
+      </italic>
+      paralogs either adjacent or nearby. There is one orphan
+      <italic>
+       espK
+      </italic>
+      paralog. Possible explanations for both of the correlationswe observed and for the genomic organization that require furthertesting include that EspK and EspJ interact or are secreted simultaneously(      ).
+     </p>
+     <p>
+      The EspB,EspF, and PPE68 substrates had distinct genetic requirementsfor export from the other Esx-1 substrates measured here (Figures      and      A). Based on thesecomparisons, the PPE68 substrate was clearly divergent as comparedto the other monitored substrates. For example, PPE68 did not requirethe EspK, EspJ, or EspB substrates for export (Figure      ). Instead, PPE68 levels were significantly increased in theCF protein fraction generated from the
+      <italic>
+       espJ
+      </italic>
+      ::Tn strain(
+      <italic>
+       p
+      </italic>
+      = 0.0123). PPE68 levels correlated significantlywith a subset of Esx-1 substrates in the CF, including EsxB, EsxA,and EspF (Table      ). The relative levels ofEspF and PPE68 in the Esx-1-deficient strains were very similar inthe CL across the strains tested in this study (
+      <italic>
+       r
+      </italic>
+      = 0.9456,
+      <italic>
+       p
+      </italic>
+      = 9.48 × 10      ), which likely represents a molecular relationship between the EspFand PPE68 proteins. Consistent with this idea, both EspF and PPE68directly interact with the component EccA
+      <sub>
+       1
+      </sub>
+      (      ).
+     </p>
+     <p>
+      Our findings indicate that the codependency in both secretionandstability of Esx-1 substrates are not absolute. Indeed, several reportshave indicated exceptions to codependent export. For example, EspF
+      <sub>
+       <italic>
+        mt
+       </italic>
+      </sub>
+      is not required for the secretion of EsxA
+      <sub>
+       <italic>
+        mt
+       </italic>
+      </sub>
+      and EsxB
+      <sub>
+       <italic>
+        mt
+       </italic>
+      </sub>
+      .      Likewise, EspC
+      <sub>
+       <italic>
+        mt
+       </italic>
+      </sub>
+      is not required for the export of EspB
+      <sub>
+       <italic>
+        mt
+       </italic>
+      </sub>
+      .      One possibility is that the different groupsof substrates represent components that are not strictly necessaryfor secretion
+      <italic>
+       in vitro
+      </italic>
+      or are needed at later pointsin apparatus assembly or function. As the number of Esx-1 substratesgrows, it is likely that the dependency on other substrates will beresolved.
+     </p>
+     <p>
+      Across all of our analyses, accumulation of Esx-1substrates inthe absence of Esx-1 function was rare. We uncovered only two examplesof significant substrate accumulation (EsxB in the CL of the
+      <italic>
+       eccD
+      </italic>
+      <sub>
+       1
+      </sub>
+      ::Tn strain and EspJ in the CL of the
+      <italic>
+       eccCb
+      </italic>
+      ::Tn, Δ
+      <italic>
+       esxBA and eccD
+      </italic>
+      <sub>
+       1
+      </sub>
+      ::Tn strains). In a recent report using nLC–MRM to study theEsx-3 substrates, EsxG and EsxH, these proteins failed to accumulatein the CL fractions generated from Esx-3-deficient
+      <italic>
+       M. smegmatis
+      </italic>
+      strains.      These findings indicate thatthe levels of Esx substrates are likely regulated, and stability inthe absence of export is rare.
+     </p>
+     <p>
+      Although the substrate secretionprofile generated from some Esx-1-deficientstrains mirrored that from the ΔRD1 strain (
+      <italic>
+       eccCb
+      </italic>
+      ::Tn,
+      <italic>
+       eccB
+      </italic>
+      <sub>
+       1
+      </sub>
+      ::Tn, Δ
+      <italic>
+       esxBA
+      </italic>
+      , and
+      <italic>
+       espL
+      </italic>
+      ::Tn, discussed above), Tn-insertionsin other genes within the deletion in the ΔRD1 strain (
+      <italic>
+       espI
+      </italic>
+      ,
+      <italic>
+       eccD
+      </italic>
+      <sub>
+       1
+      </sub>
+      ,
+      <italic>
+       espJ
+      </italic>
+      , and
+      <italic>
+       espK
+      </italic>
+      ) and others in the
+      <italic>
+       esx-1
+      </italic>
+      locus resulted in different substrate profiles in the CF (Figures      and      A). These findingsdemonstrate that all genetic disruptions of the Esx-1 apparatus arenot equal; disruption of a single gene or operon is not the same asdeleting several Esx-1-associated genes. One possible interpretationof these data is that the Tn-insertions in
+      <underline>
+       some
+      </underline>
+      Esx-1-deficient strains result in an Esx-1 system that is largelyintact, while others result in a lack of stability or assembly ofthe apparatus. Note that the
+      <italic>
+       espJ
+      </italic>
+      ,
+      <italic>
+       espK
+      </italic>
+      , and
+      <italic>
+       eccD
+      </italic>
+      <sub>
+       1
+      </sub>
+      strains cluster closest tothe WT strain when comparing levels of Esx-1-associated proteins inthe cell lysate (Figure      B). Moreover, themajority of the Esx-1-associated proteins measured from these strainswere present at levels comparable to those of WT
+      <italic>
+       M. marinum
+      </italic>
+      (Figure      B). In contrast, disruption of theseveral other Esx-1-associated genes resulted in a decrease in therelative levels in Esx-1 proteins in the cell (Figure      B). The decreased levels of Esx-1 proteins were linked todisruption of several Esx-1 components (EccA
+      <sub>
+       1
+      </sub>
+      , EspL, EspG
+      <sub>
+       1
+      </sub>
+      , EspI, and EccB
+      <sub>
+       1
+      </sub>
+      ) as well as the EspB substrate.EspL and EccB
+      <sub>
+       1
+      </sub>
+      have been localized to or associated withthe membrane.      One possibilityis that in the absence of EspL and EccB
+      <sub>
+       1
+      </sub>
+      , the Esx-1 membranecomplex does not form or is destabilized. This has not been reportedpreviously, as there has never before been an approach that couldsimultaneously quantitate changes to Esx-1 proteins at this scale.
+     </p>
+     <p>
+      EspG
+      <sub>
+       1
+      </sub>
+      , EccA
+      <sub>
+       1
+      </sub>
+      , EspI, and EspB were requiredfor the export of some but not all of the substrates. It was recentlyreported that EspG
+      <sub>
+       1
+      </sub>
+      functions as a chaperone for Esx-1.      Indeed, disruption of
+      <italic>
+       espG
+      </italic>
+      <sub>
+       1
+      </sub>
+      led to decreased levels of all of the Esx-1 proteins measuredin this study. By this analogy, several Esx-1 proteins may functionas chaperones (      ).For example, EccA
+      <sub>
+       1
+      </sub>
+      directly interacts with at least threeknown Esx-1 substrates, EspC, EspF, and PPE68,      and shares AAA+ domains with chaperones.      EccA
+      <sub>
+       1
+      </sub>
+      may function to keep Esx-1 substrates in the properlyfolded or unfolded state for export. Because EspB is secreted, itis not a true chaperone. However, upon export EspB is digested bythe MycP protease.      It may be that in the absenceof EspB the apparatus is unstable or that EspB is a secreted partof the apparatus.
+     </p>
+     <p>
+      Overall, the present study and subsequentanalysis allowed us toexpand the genetic requirements for export of four known Esx-1 substratesand identified three additional substrates encoded by the
+      <italic>
+       esx-1
+      </italic>
+      locus. These findings set the stage for a future workaimed at understanding how these additional substrates promote virulencein
+      <italic>
+       M. marinum
+      </italic>
+      and
+      <italic>
+       M. tuberculosis
+      </italic>
+      . We defined rules of assigning new substrates to the Esx-1 systemusing this approach, which can be expanded as new Esx-1-deficientstrains are isolated. Surprisingly, we identified several intermediatephenotypes of Esx-1 secretion that correlated with attenuation ofvirulence. Importantly, while the application of this approach wasdirected at Esx-1 export in
+      <italic>
+       M. marinum
+      </italic>
+      , these findingscan directly be tested in the human pathogen
+      <italic>
+       M. tuberculosis.
+      </italic>
+      This method creates a framework that can be readily applied to studyingprotein secretion or any complex molecular pathway.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

@@ -1,0 +1,15 @@
+{
+	"name": "Protein interaction data from STRING",
+	"description": "",
+	"owner": "Yasmmin",
+	"email": "yasmmin.c.martins@gmail.com",
+	"datasets": [
+		{ "organism": "Arabidopsis Thaliana", "name": "string_thaliana", "prefix": "string_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/string/a_thaliana/", "description": "" },
+		{ "organism": "Caenorhabditis Elegans", "name": "string_elegans", "prefix": "string_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/string/c_elegans/", "description": "" },
+		{ "organism": "Drosophila Melanogaster", "name": "string_melanogaster", "prefix": "string_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/string/d_melanogaster/", "description": "" },
+		{ "organism": "Escherichia Coli", "name": "string_coli", "prefix": "string_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/string/e_coli/", "description": "" },
+		{ "organism": "Homo Sapiens", "name": "string_sapiens", "prefix": "string_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/string/h_sapiens/", "description": "" },
+		{ "organism": "Mus Musculus", "name": "string_musculus", "prefix": "string_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/string/m_musculus/", "description": "" },
+		{ "organism": "Saccharomyces Cerevisiae", "name": "string_cerevisiae", "prefix": "string_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/string/s_cerevisiae/", "description": "" }
+    ]
+}

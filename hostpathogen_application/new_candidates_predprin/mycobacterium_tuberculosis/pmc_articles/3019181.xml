@@ -1,0 +1,1382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Regulation of Polar Peptidoglycan Biosynthesis by Wag31 Phosphorylation in Mycobacteria
+ </title>
+ <abstract>
+  <p>
+   Sensing and responding to environmental changes is a central aspect of cell division regulation.
+   <italic>
+    Mycobacterium tuberculosis
+   </italic>
+   contains eleven Ser/Thr kinases, two of which, PknA and PknB, are key signaling molecules that regulate cell division/morphology. One substrate of these kinases is Wag31, and we previously showed that partial depletion of Wag31 caused morphological changes indicative of cell wall defects, and that the phosphorylation state of Wag31 affected cell growth in mycobacteria. In the present study, we further characterized the role of the Wag31 phosphorylation in polar peptidoglycan biosynthesis.
+  </p>
+  <p>
+   We demonstrate that the differential growth among cells expressing different
+   <italic>
+    wag31
+   </italic>
+   alleles (wild-type, phosphoablative, or phosphomimetic) is caused by, at least in part, dissimilar nascent peptidoglycan biosynthesis. The phosphorylation state of Wag31 is found to be important for protein-protein interactions between the Wag31 molecules, and thus, for its polar localization. Consistent with these results, cells expressing a phosphomimetic
+   <italic>
+    wag31
+   </italic>
+   allele have a higher enzymatic activity in the peptidoglycan biosynthetic pathway.
+  </p>
+  <p>
+   The Wag31
+   <sub>
+    Mtb
+   </sub>
+   phosphorylation is a novel molecular mechanism by which Wag31
+   <sub>
+    Mtb
+   </sub>
+   regulates peptidoglycan synthesis and thus, optimal growth in mycobacteria.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec>
+    <title>
+     Background
+    </title>
+    <p>
+     Tuberculosis (TB) is a major health problem with a high mortality worldwide [
+     ]. During the infection,
+     <italic>
+      Mycobacterium tuberculosis
+     </italic>
+     is able to remain dormant in the human host without causing active disease for prolonged periods. Despite the importance of latency in the epidemiology and pathology of TB, it is not clear how
+     <italic>
+      M. tuberculosis
+     </italic>
+     controls the latent state in human host. However, to achieve, maintain, or escape from the latent state,
+     <italic>
+      M. tuberculosis
+     </italic>
+     must carefully regulate cell division by sensing and responding to specific signals in the host environment. To successfully complete this essential process, the
+     <italic>
+      M. tuberculosis
+     </italic>
+     genome contains a wide variety of transcription regulators, surface receptors, and signaling molecules including eleven "eukaryotic-type" Ser/Thr protein kinases (STPKs) [
+     ]. We previously showed that two of these kinases, PknA and PknB, are key components of a signal transduction pathway that regulates cell morphology [
+     ]. One substrate of these kinases we identified is Wag31, a homolog of the cell-division protein DivIVA in other Gram-positive bacteria [
+     ,
+     ].
+    </p>
+    <p>
+     DivIVA functions in cell division in many Gram-positive bacteria, but the specific roles it plays vary in a species-specific manner. For instance,
+     <italic>
+      Bacillus subtilis
+     </italic>
+     DivIVA has dual functions in this microorganism: it is required for appropriate septum placement by confining the MinCD cell division inhibitory complex at the cell poles in vegetative cells, and it facilitates chromosome segregation by interacting with the
+     <italic>
+      oriC
+     </italic>
+     complex in sporulating cells [
+     -
+     ]. In contrast, DivIVA in
+     <italic>
+      Streptomyces coelicolor
+     </italic>
+     is essential for hyphal tip growth, and DivIVA homologs in
+     <italic>
+      Corynebacterium glutamicum
+     </italic>
+     and
+     <italic>
+      Brevibacterium lactofermentum
+     </italic>
+     are localized to the cell poles and are required for their polar growth [
+     ,
+     ,
+     ].
+    </p>
+    <p>
+     We, and others, recently demonstrated that
+     <italic>
+      wag31
+     </italic>
+     is an essential gene, and that Wag31 is localized at the cell poles in mycobacterial cells [
+     ,
+     ]. We further showed that the partial depletion of Wag31 causes dramatic morphological changes indicative of defects in polar peptidoglycan biosynthesis, and that Wag31 and nascent peptidoglycan biosynthesis co-localize at the cell poles, suggesting an important role of Wag31 in polar peptidoglycan biosynthesis in
+     <italic>
+      Mycobacterium smegmatis
+     </italic>
+     [
+     ]. Finally, expression of phosphomimetic
+     <italic>
+      M. tuberculosis wag31
+     </italic>
+     (
+     <italic>
+      wag31T73E
+      <sub>
+       Mtb
+      </sub>
+     </italic>
+     ) in the
+     <italic>
+      wag31
+      <sub>
+       Msm
+      </sub>
+     </italic>
+     deletion mutant of
+     <italic>
+      M. smegmatis
+     </italic>
+     showed higher growth rate than cells expressing wild-type
+     <italic>
+      wag31
+      <sub>
+       Mtb
+      </sub>
+     </italic>
+     or phosphoablative
+     <italic>
+      wag31T73A
+      <sub>
+       Mtb
+      </sub>
+     </italic>
+     [
+     ]. While Wag31
+     <sub>
+      Mtb
+     </sub>
+     appears to have a role in the protection of mycobacterial cells under stress conditions [
+     ], these observations strongly suggested that Wag31 and its phosphorylation plays a critical role in modulating cell growth through regulating peptidoglycan biosynthesis in mycobacteria.
+    </p>
+    <p>
+     In the present report, we further characterize the role of Wag31 phosphorylation. We show that the differential growth caused by the expression of different
+     <italic>
+      wag31
+      <sub>
+       Mtb
+      </sub>
+     </italic>
+     alleles (wild-type
+     <italic>
+      wag31
+      <sub>
+       Mtb
+      </sub>
+     </italic>
+     ,
+     <italic>
+      wag31T73A
+      <sub>
+       Mtb
+      </sub>
+     </italic>
+     , and
+     <italic>
+      wag31T73E
+      <sub>
+       Mtb
+      </sub>
+     </italic>
+     ) is due to, at least in part, dissimilar nascent peptidoglycan biosynthesis. We further show that the phosphorylation state of Wag31 is important for protein-protein interaction between the Wag31
+     <sub>
+      Mtb
+     </sub>
+     molecules, and thus, for its polar localization. In line with these findings, we observe a higher enzymatic activity (MraY and MurG) of peptidoglycan biosynthetic pathway in cells expressing phosphomimetic
+     <italic>
+      wag31T73E
+      <sub>
+       Mtb
+      </sub>
+     </italic>
+     than cells expressing wild-type
+     <italic>
+      wag31
+      <sub>
+       Mtb
+      </sub>
+     </italic>
+     or phosphoablative
+     <italic>
+      wag31T73A
+      <sub>
+       Mtb
+      </sub>
+     </italic>
+     .
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Results
+    </title>
+    <sec>
+     <title>
+      Phosphorylation of Wag31 affects the polar peptidoglycan biosynthesis in mycobacteria
+     </title>
+     <p>
+      Previously, we constructed a conditional
+      <italic>
+       wag31
+       <sub>
+        Msm
+       </sub>
+      </italic>
+      mutant of
+      <italic>
+       M. smegmatis
+      </italic>
+      to demonstrate that
+      <italic>
+       wag31
+      </italic>
+      is an essential gene [
+      ]. When the phosphomimetic
+      <italic>
+       wag31
+      </italic>
+      allele of
+      <italic>
+       M. tuberculosis
+      </italic>
+      (
+      <italic>
+       wag31T73E
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      ), as a sole source of Wag31, was expressed in this mutant, a higher growth rate (mean doubling time,
+      <italic>
+       g
+      </italic>
+      = 4.30 h) was observed than cells expressing wild-type
+      <italic>
+       wag31
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      (
+      <italic>
+       g
+      </italic>
+      = 4.95 h), and cells expressing the phosphoablative
+      <italic>
+       wag31T73A
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      allele showed the lowest growth rate (
+      <italic>
+       g
+      </italic>
+      = 5.75 h) [
+      ]. Since Wag31 had been suggested to play a role in polar peptidoglycan biosynthesis [
+      ,
+      ], we tested whether the differential growth phenotype among these strains was due to, at least in part, a difference in peptidoglycan biosynthesis. To investigate this, we cultured those
+      <italic>
+       M. smegmatis wag31
+       <sub>
+        Msm
+       </sub>
+      </italic>
+      deletion mutants expressing
+      <italic>
+       wag31
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      (KMS41 in Additional file
+      (Table A1),
+      <italic>
+       wag31T73A
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      (KMS42) or
+      <italic>
+       wag31T73E
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      (KMS43) until mid-log phase, and stained with Vancomycin-Alexa568 conjugate (Van-Alexa568) to examine by fluorescence microscopy with fixed exposure time and diaphragm aperture settings. Fluorescent vancomycin binds to the terminal D-Ala-D-Ala portion of unincorporated, or incorporated but uncross-linked, peptidoglycan precursors on the cell surface, and thus has been used to identify the sites of nascent peptidoglycan biosynthesis in Gram-positive bacteria [
+      ]. Van-Alexa568 signals from the polar regions of the cells expressing
+      <italic>
+       wag31T73E
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      was approximately four-fold higher than those expressing
+      <italic>
+       wag31T73A
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      (Figure
+      ). Cells expressing the wild-type
+      <italic>
+       wag31
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      allele showed an intermediate intensity of Van-Alexa568 signals, consistent with its growth phenotype [
+      ]. Thus, this result suggests that the phosphorylation state of Wag31 either regulates polar peptidoglycan biosynthesis, possibly by directly or indirectly affecting enzyme(s) in the peptidoglycan biosynthetic pathway, or affects the level of cross-linking of peptidoglycan leaving non-crosslinked D-Ala-D-Ala.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Protein-protein interactions and polar localization of Wag31 molecules are affected by phosphorylation
+     </title>
+     <p>
+      The DivIVA protein from
+      <italic>
+       B. subtilis
+      </italic>
+      forms oligomers that assemble into a highly ordered two-dimensional network, which is proposed to create the cell polarity needed for sporulation or tip extension [
+      ]. More recently,
+      <italic>
+       in vivo
+      </italic>
+      and
+      <italic>
+       in vitro
+      </italic>
+      cross-linking experiments showed that Wag31 also forms homo-oligomers in
+      <italic>
+       M. bovis
+      </italic>
+      BCG [
+      ]. Because our previous and current findings suggest that the phosphorylation of Wag31 play a regulatory role in polar peptidoglycan biosynthesis [
+      ,
+      ], we hypothesized that the phosphorylation state of Wag31 may affect its oligomerization at the cell poles by modulating interactions between Wag31 molecules, which in turn influence the peptidoglycan biosynthesis at the polar location.
+     </p>
+     <p>
+      To address this hypothesis, we first determined whether the phosphorylation of Wag31 affects the protein-protein interaction between Wag31 molecules using the yeast two-hybrid system [
+      ]. Wild-type Wag31
+      <sub>
+       Mtb
+      </sub>
+      showed interaction with itself, compatible with the finding of the Wag31 oligomerization in
+      <italic>
+       M. bovis
+      </italic>
+      BCG by Nguyen
+      <italic>
+       et al
+      </italic>
+      . (2007) (Figure
+      ). Interestingly, interaction between phosphomimetic Wag31T73E
+      <sub>
+       Mtb
+      </sub>
+      molecules was approximately two-fold stronger than the one between wild-type Wag31
+      <sub>
+       Mtb
+      </sub>
+      molecules or between phosphoablative Wag31T73A
+      <sub>
+       Mtb
+      </sub>
+      molecules, supporting a role of the phosphorylation in stimulating the interaction between Wag31 molecules. Interaction between wild-type Wag31 molecules was similar to that of Wag31T73A molecules, which is likely the result from lack of phosphorylation of wild-type Wag31 in the absence of the cognate Pkn\s in
+      <italic>
+       Saccharomyces cerevisiae
+      </italic>
+      .
+     </p>
+     <p>
+      Based on the yeast two-hybrid result, we predicted that the stronger interaction between the phosphorylated Wag31 molecules would lead to the enhanced localization of Wag31 to the polar regions. This prediction was tested by comparing the localization of GFP fused to Wag31
+      <sub>
+       Mtb
+      </sub>
+      , Wag31T73A
+      <sub>
+       Mtb
+      </sub>
+      , or Wag31T73E
+      <sub>
+       Mtb
+      </sub>
+      in the deletion mutants of
+      <italic>
+       wag31
+       <sub>
+        Msm
+       </sub>
+      </italic>
+      expressing the corresponding
+      <italic>
+       wag31
+      </italic>
+      allele (strains KMS69, KMS70, and KMS71). Quantification of polar GFP signals revealed that cells with Wag31T73E
+      <sub>
+       Mtb
+      </sub>
+      have 2.8-fold higher, and cells with wild-type Wag31
+      <sub>
+       Mtb
+      </sub>
+      have 1.7-fold higher GFP signals than cells with Wag31T73A
+      <sub>
+       Mtb
+      </sub>
+      (Figure
+      ), while this increase in polar localization of wild-type Wag31 and Wag31T73E could be, in part, due to altered association of Wag31 with other unknown molecules. This difference in polar Wag31-GFP signals was not due to difference in the expression levels of Wag31
+      <sub>
+       Mtb
+      </sub>
+      because approximately equal levels of Wag31
+      <sub>
+       Mtb
+      </sub>
+      (sum of GFP-fused Wag31
+      <sub>
+       Mtb
+      </sub>
+      and non-tagged Wag31
+      <sub>
+       Mtb
+      </sub>
+      ) relative to the levels of housekeeping SigA
+      <sub>
+       Msm
+      </sub>
+      were found from these stains (Figure
+      ). In addition, such localization was not seen when GFP alone was expressed, indicating that the GFP-Wag31 localizations are not a GFP artifact (Additional file
+      (Fig. A1)).
+     </p>
+     <p>
+      To further confirm the effect of the Wag31 phosphorylation on its polar localization, we examined the localization of wild-type Wag31
+      <sub>
+       Mtb
+      </sub>
+      in the presence or absence of
+      <italic>
+       pknA
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      - or
+      <italic>
+       pknB
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      -overexpression. We previously showed that Wag31 was weakly phosphorylated by PknA
+      <sub>
+       Mtb
+      </sub>
+      , which was significantly enhanced by the addition of PknB
+      <sub>
+       Mtb
+      </sub>
+      <italic>
+       in vitro
+      </italic>
+      [
+      ]. Consistent with this,
+      <italic>
+       pknA
+      </italic>
+      -overexpression only slightly increased the polar localization of Wag31 and polar peptidoglycan biosynthesis (Additional file
+      (Fig. A2)). However, overexpression of
+      <italic>
+       pknB
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      , which dramatically increased the phosphorylation of GFP-Wag31 (Figure
+      bottom panel), elevated the polar localization of Wag31 (two-fold, upper panel) and nascent peptidoglycan biosynthesis (1.8-fold, middle panel) compared to cells without
+      <italic>
+       pknB
+       <sub>
+        Mtb
+       </sub>
+       -
+      </italic>
+      overexpression. These data further support that the phosphorylation of Wag31 enhances its polar localization, which in turn heightens polar peptidoglycan biosynthesis.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Phosphorylation of Wag31 affects the enzymatic activity of the peptidoglycan biosynthetic pathway
+     </title>
+     <p>
+      Bacterial peptidoglycan synthesis is a complex process involving many different cytoplasmic and membrane steps [
+      ]. In
+      <italic>
+       Escherichia coli
+      </italic>
+      , the cytoplasmic steps culminate in the formation of the UDP-MurNAc-(pentapeptide) catalyzed by a series of enzymatic activities of Mur proteins (MurA, MurB, MurC, MurD, MurE and MurF). The membrane-associated steps are then initiated with the formation of MurNAc-(pentapeptide)-diphosphoryl-undecaprenol (lipid I), a reaction catalyzed by MraY [
+      ]. In a subsequent step by MurG, one GlcNAc residue is added to lipid I to form GlcNAc-MurNAc-(pentapeptide)-diphosphoryl-undecaprenol (lipid II), which is flipped to the outer surface of the membrane to be incorporated into the preexisting peptidoglycan by penicillin binding proteins. The structure of mycobacterial peptidoglycan is believed to be similar to that of
+      <italic>
+       E. coli
+      </italic>
+      , although it has a few differences [
+      ]. The same appears to be true for its biosynthesis because
+      <italic>
+       M. tuberculosis
+      </italic>
+      possesses all eight
+      <italic>
+       mur
+      </italic>
+      genes that are present in
+      <italic>
+       E. coli
+      </italic>
+      [
+      ].
+     </p>
+     <p>
+      Our results described so far suggest that the phosphorylation of Wag31 has an influence on cell growth, at least in part, by regulating its polar localization and possibly the biosynthesis of peptidoglycan precursors. These data led us to hypothesize that Wag31 phosphorylation regulates polar peptidoglycan synthesis by affecting, directly or indirectly, the peptidoglycan synthetic machinery. To address this, the activity of Mur enzymes was determined among the
+      <italic>
+       wag31
+       <sub>
+        Msm
+       </sub>
+      </italic>
+      deletion mutant strains expressing different
+      <italic>
+       wag31
+      </italic>
+      alleles. We began with measuring the combined activity of MraY and MurG because these enzymes produce the final membrane-bound disaccharide-pentapeptide product. Briefly, a cell envelope-enriched fraction (P60) was purified from the
+      <italic>
+       wag31
+      </italic>
+      deletion mutant cells expressing
+      <italic>
+       wag31
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      ,
+      <italic>
+       wag31T73A
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      , or
+      <italic>
+       wag31T73E
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      (strains KMS 41, KMS42, and KMS43), incubated with UDP-MurNAc-pentapeptide (substrate of MraY), ATP and UDP-[
+      C]GlcNAc, and then the reaction product of MurG ([
+      C]GlcNAc-MurNAc-(pentapeptide)-diphosphoryl-undecaprenol, lipid II) was analyzed by TLC [
+      ,
+      ]. Figure
+      shows that the P60 fraction from cells expressing
+      <italic>
+       wag31T73E
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      produced 7.5-fold more
+      C-labeled lipid II, but cells with
+      <italic>
+       wag31T73A
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      yielded 30% less of this product than cells expressing wild-type
+      <italic>
+       wag31
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      . In a repeated experiment with independently purified P60 fractions, a similar result was observed (the ratio of reaction product from cells with wild-type
+      <italic>
+       wag31
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      :
+      <italic>
+       wag31T73A
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      :
+      <italic>
+       wag31T73E
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      were 1 : 0.65 : 5.3) (data not shown). These data suggested that the Wag31 phosphorylation, directly or indirectly, regulates the combined activity of MraY and MurG.
+     </p>
+     <p>
+      Consistent with this finding, we recently found in a Raman spectroscopic analyses that cells containing
+      <italic>
+       wag31T73E
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      allele had increased intensity of the Raman peaks that have previously been attributed to D-glutamic acid, D-alanine, and
+      <italic>
+       N
+      </italic>
+      -acetylglucosamine components of peptidoglycan [
+      ,
+      ] than cells expressing wild-type
+      <italic>
+       wag31
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      , which in turn showed higher intensity of the these peaks than cells with
+      <italic>
+       wag31T73A
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      [
+      ]. An increase in the intensity of these peaks suggests an increase in the quantity of these molecules, thus peptidoglycan in the cell. A corresponding pattern in the intensity of these peaks was also seen in the Raman spectra from the P60 cell envelope-enriched fractions, indicating that the increase of these molecules is localized in the membrane.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Discussion
+    </title>
+    <p>
+     Our current results provide insights into a novel mechanism for the regulation of polar peptidoglycan synthesis in mycobacteria via differential polar localization of Wag31 depending on its phosphorylation status. This mechanism of the signal transduction system involving the Wag31 phosphorylation may be widespread among Gram-positive bacteria containing DivIVA because recent studies demonstrated that DivIVA in
+     <italic>
+      Streptococcus agalactiae
+     </italic>
+     and
+     <italic>
+      Streptococcus pneumoniae
+     </italic>
+     is also phosphorylated even though its function is yet to be discovered [
+     ,
+     ]. Since some bacteria such as
+     <italic>
+      Mycobacterium
+     </italic>
+     and
+     <italic>
+      Corynebacterium
+     </italic>
+     species lack MreB [
+     ,
+     ] but have a rod-like shape, and insert peptidoglycan at the cell poles instead of the helical pattern that uses actin-like MreB homologues, our data also suggest that Wag31 could serve as a determinant that directs peptidoglycan synthesis to the poles in mycobacterial cells. Interestingly, a recent study in
+     <italic>
+      C. glutamicum
+     </italic>
+     found that PknA
+     <sub>
+      Cglu
+     </sub>
+     phosphorylates, and thereby regulates, the activity of MurC [
+     ]. In addition, in
+     <italic>
+      M. tuberculosis
+     </italic>
+     , GlmU, which catalyzes the formation of UDP-GlcNAc (the substrate of MurA), is phosphorylated by PknA
+     <sub>
+      Mtb
+     </sub>
+     and PknB
+     <sub>
+      Mtb
+     </sub>
+     <italic>
+      in vitro
+     </italic>
+     [
+     ], and another enzyme, MurD, is phosphorylated by PknA
+     <sub>
+      Mtb
+     </sub>
+     [
+     ]. These findings suggest that PknA
+     <sub>
+      Mtb
+     </sub>
+     and PknB
+     <sub>
+      Mtb
+     </sub>
+     kinases are key regulatory components that modulate peptidoglycan biosynthesis and cell growth in mycobacteria via many targets including Wag31 and Mur enzymes.
+    </p>
+    <p>
+     What is the molecular mechanism by which Wag31 and its phosphorylation regulate the activity of peptidoglycan synthetic enzymes? Protein sequence alignments of Wag31 with DivIVA homologs revealed two conserved coiled-coil regions at the N- and C-termini, which are interrupted by a highly variable sequence, which includes the phosphorylation site of Wag31 [
+     ]. Coiled-coil domains are known to function in protein-protein interactions [
+     ], and the two coiled-coil regions in Wag31 may be responsible for the formation of oligomers of Wag31
+     <italic>
+      in vitro
+     </italic>
+     and the potential superstructure
+     <italic>
+      in vivo
+     </italic>
+     as proposed [
+     ,
+     ]. These facts, taken together with our current finding of the phosphorylation-dependent localization of Wag31 thus tempted us to propose that the recruitment of Wag31 to the cell poles, which is mediated by interactions between coiled-coil regions of Wag31 molecules and is enhanced by the phosphorylation, modulates, directly or indirectly, the activity of peptidoglycan synthetic enzymes such as MraY and MurG. It is not clear, however, whether Wag31 affects these enzymes through direct interactions since we failed to detect the interactions between Mur enzymes and Wag31 (wild-type and phospho-mutants) in the yeast two-hybrid or mycobacterial protein fragment complementation system [
+     ]. In addition, we were not able to reconstitute an assay system to test the effect of the Wag31 phosphorylation on the enzymatic activity of MraY and MurG
+     <italic>
+      in vitro
+     </italic>
+     because we could not purify these enzymes in
+     <italic>
+      E. coli
+     </italic>
+     , due to the toxicity of these enzymes when overexpressed. These negative results, however, suggested that the localization, and thus the activity, of Wag31
+     <italic>
+      in vivo
+     </italic>
+     in
+     <italic>
+      M. tuberculosis
+     </italic>
+     is probably under tight regulation that involves multiple players.
+    </p>
+    <p>
+     In our previous studies, we showed that Wag31 is mainly phosphorylated during exponential phase where transcription of the
+     <italic>
+      pknA/B
+      <sub>
+       Mtb
+      </sub>
+     </italic>
+     operon is high, and remains non- or lowly-phosphorylated during stationary phase as transcription of the
+     <italic>
+      pknA
+     </italic>
+     /
+     <italic>
+      B
+      <sub>
+       Mtb
+      </sub>
+     </italic>
+     operon drops [
+     ,
+     ]. Thus, our current data support the following model. When mycobacterial cells are growing rapidly as in exponential phase, Wag31 is phosphorylated by the PknA/B
+     <sub>
+      Mtb
+     </sub>
+     kinases and strongly recruited to the cell poles to facilitate peptidoglycan biosynthesis so that enough peptidoglycan is produced to meet the demands of fast growth. It is possible that PknB
+     <sub>
+      Mtb
+     </sub>
+     senses this favorable external condition by detecting muropeptides through its PASTA repeats and regulates peptidoglycan biosynthesis through Wag31, because, in
+     <italic>
+      B. subtilis
+     </italic>
+     , the PrkC kinase, a homolog of PknB
+     <sub>
+      Mtb
+     </sub>
+     with three PASTA domains, induces germination in response to muropeptide fragments released by surrounding growing bacteria [
+     ]. In stationary phase, however, Wag31 remains non- or lowly-phosphorylated but can still be recruited to the cell poles and lead to polar peptidoglycan synthesis. This idea is consistent with our observation that the phosphoablative Wag31T73A does localize at the cell poles (Figure
+     ), and that wild-type GFP-Wag31 shows clear localization and peptidoglycan biosynthesis at cell poles at late stationary phase, albeit lower than in exponential phase (data not shown). This model is also consistent with previous reports that a fairly high capacity for peptidoglycan biosynthesis is maintained in slow-growing and stationary phase bacterial cells [
+     ]. Either way, Wag31 itself is essential for mycobacterial survival as we observed in our previous report [
+     ] because Wag31 must be present and localized to the cell poles for polar peptidoglycan synthesis.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Conclusions
+    </title>
+    <p>
+     This study demonstrated that Wag31
+     <sub>
+      Mtb
+     </sub>
+     phosphorylation, which is unique among DivIVA homologues, regulates polar peptidoglycan biosynthesis and optimal growth of mycobacterial cells through modulating the localization of Wag31 and the activity of peptidoglycan biosynthetic enzymes.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="methods">
+    <title>
+     Methods
+    </title>
+    <sec>
+     <title>
+      Bacterial growth condition, media and strains
+     </title>
+     <p>
+      <italic>
+       M. smegmatis
+      </italic>
+      mc
+      155 cultures were grown at 37°C in Middlebrook 7H9 liquid medium (Difco) supplemented with 10% ADC (5% (W/V) BSA fraction V, 2% (W/V) glucose and 0.85% (W/V) NaCl) and 0.05% (W/V) Tween-80, or on Middlebrook 7H9-ADC agar plates. Kanamycin (50 μg ml
+      ), hygromycin (50 μg ml
+      ) or apramycin (50 μg ml
+      ) was added to culture media as indicated.
+      <italic>
+       E. coli
+      </italic>
+      TOP10 strain (Life Technologies) was used as host strain for cloning experiments, and was grown in LB broth or solid medium with kanamycin (20 μg ml
+      ).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Plasmid construction
+     </title>
+     <p>
+      All plasmid constructs and primers are shown in Additional file
+      and
+      (Table A1 and A2). For localization of different forms of Wag31
+      <sub>
+       Mtb
+      </sub>
+      , wild-type
+      <italic>
+       gfp-wag31
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      ,
+      <italic>
+       gfp-wag31T73A
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      or
+      <italic>
+       gfp-wag31T73E
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      was cloned under the acetamide-inducible promoter (P
+      <sub>
+       acet
+      </sub>
+      ) in a replicating plasmid pMV261 (Km
+      ) to make pCK174, pCK175, and pCK176, respectively. The
+      <italic>
+       gfp
+      </italic>
+      gene was amplified from pTracerCMV plasmid (Invitrogen) using Ngfp-wag-1 and Ngfp-wag-2 primers. Genes for Wag31
+      <sub>
+       Mtb
+      </sub>
+      , Wag31T73A
+      <sub>
+       Mtb
+      </sub>
+      and Wag31T73E
+      <sub>
+       Mtb
+      </sub>
+      were amplified from plasmids pCK89, pCK90, and pCK91 using Ngfp-TBwag-3 and Ngfp-TBwag-4 primers. Second overlap PCR to fuse
+      <italic>
+       gfp
+      </italic>
+      and each
+      <italic>
+       wag31
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      gene was conducted by using Ngfp-wag-1 and Ngfp-TBwag-4 primers. To test localization of Wag31 in the presence of
+      <italic>
+       pknA
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      - or
+      <italic>
+       pknB
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      -overexpression in
+      <italic>
+       M. smegmatis
+      </italic>
+      , wild-type
+      <italic>
+       gfp
+      </italic>
+      -
+      <italic>
+       wag31
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      was cloned under tetracycline-inducible promoter (P
+      <sub>
+       tet
+      </sub>
+      ) in a replicating plasmid pMV261 (Hyg
+      ) to make pCK314 by using primers GFPWag-Bam-5 and GFPWag-Cla-Spe-3 [
+      ]. For the yeast two-hybrid study, each
+      <italic>
+       wag31
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      allele was cloned in frame into both pJZ4-G (pCK145, pCK143, and pCK142) and pHZ5-NRT vectors (pCK146, pCK147, and pCK148) [
+      ]. Each
+      <italic>
+       wag31
+      </italic>
+      allele was amplified by PCR using the WagYTHF and WagYTHR primers, and pCK89, pCK90, and pCK91 as the templates.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Nascent peptidoglycan biosynthesis and localization of Wag31
+     </title>
+     <p>
+      For observation of nascent peptidoglycan biosynthesis, the
+      <italic>
+       wag31
+       <sub>
+        Msm
+       </sub>
+      </italic>
+      deletion mutant cells of
+      <italic>
+       M. smegmatis
+      </italic>
+      containing P
+      <sub>
+       tet
+      </sub>
+      -
+      <italic>
+       wag31
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      (pCK89), P
+      <sub>
+       tet
+      </sub>
+      -
+      <italic>
+       wag31T73A
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      (pCK90), or P
+      <sub>
+       tet
+      </sub>
+      -
+      <italic>
+       wag31T73E
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      (pCK91) or cells containing pMV261-P
+      <sub>
+       tet
+      </sub>
+      -
+      <italic>
+       wag31
+      </italic>
+      (pCK314) with or without
+      <italic>
+       pknA
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      - (KMS 2) or
+      <italic>
+       pknB
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      -overexpression (KMS 4) were stained with Van-Alexa568 [
+      ]. A stock solution of Van-alexa568 (5 mg ml
+      ) was prepared according to the manufacturer\s manual (Molecular Probes). Each strain was cultured in 7H9 liquid medium with tetracycline (20 ng ml
+      ) overnight and was then inoculated into fresh 7H9 liquid medium containing 20 ng ml
+      of tetracycline. Cells from each strain were taken during mid-log phase (approximate OD
+      <sub>
+       600
+      </sub>
+      = 0.4) and incubated with Van-alexa568 (5 μg ml
+      ) for 20 min at 37°C. For microscopic analysis, cells were washed with PBS buffer and examined by an Olympus BX51 microscope. Pictures were taken with an Olympus DP30BW high sensitivity cooled CCD camera, acquired with DP-BSW software and processed with Adobe Photoshop CS2. To minimize possible errors during the sampling process and fluorescence examination, the staining procedure was conducted in the dark, and microscopy conditions such as exposure time and opening of the aperture diaphragm were fixed for all samples. For quantification of average fluorescence intensity at the cell poles, DIC and fluorescence images were superimposed to align cells and fluorescence signals, and fluorescence density from the poles of approximately 300 cells was measured and background-corrected by using the ImageJ software.
+     </p>
+     <p>
+      For localization of different forms of Wag31, pMV261 containing P
+      <sub>
+       acet
+      </sub>
+      -
+      <italic>
+       gfp
+      </italic>
+      -
+      <italic>
+       wag31
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      (pCK174), P
+      <sub>
+       acet
+      </sub>
+      -
+      <italic>
+       gfp-wag31T73A
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      (pCK175) or P
+      <sub>
+       acet
+      </sub>
+      -
+      <italic>
+       gfp-wag31T73E
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      (pCK176) was electroporated into the
+      <italic>
+       wag31
+       <sub>
+        Msm
+       </sub>
+      </italic>
+      deletion mutant expressing
+      <italic>
+       wag31
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      (KMS41),
+      <italic>
+       wag31T73A
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      (KMS42) or
+      <italic>
+       wag31T73E
+      </italic>
+      <sub>
+       <italic>
+        Mtb
+       </italic>
+      </sub>
+      (KMS43) under a tetracycline-inducible P
+      <sub>
+       tet
+      </sub>
+      promoter [
+      ] at the chromosomal L5
+      <italic>
+       attB
+      </italic>
+      locus, respectively. The resulting strains (KMS69, KMS70, and KMS71) were grown in 7H9 liquid medium containing 20 ng tetracycline, and at early-log phase (approximate OD
+      <sub>
+       600
+      </sub>
+      = 0.2) cells were induced with 0.1% of acetamide for 3 hr before being transferred onto a glass slide and observed using an Olympus BX51 florescence microscope. Quantification of GFP signals at the cell poles of approximately 300 cells was conducted with ImageJ software similar to the one for Van-Alexa568. Examination of the Wag31 (both GFP-Wag31 and non-tagged Wag31) and SigA
+      <sub>
+       Msm
+      </sub>
+      protein levels at the end of acetamide induction was conducted using 20 μg of total protein and Western blots with the anti-Wag31 mAb [
+      ] and a monoclonal antibody against the Sig70 subunit of
+      <italic>
+       E. coli
+      </italic>
+      RNA polymerase (Abcam), which also recognizes SigA of
+      <italic>
+       M. smegmatis
+      </italic>
+      [
+      ]. Western signals were quantified by using the Quantity One software (Bio-Rad). To test the localization of wild-type Wag31 in the presence or absence of
+      <italic>
+       pknA
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      - or
+      <italic>
+       pknB
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      -overexpression, pCK314 was transformed into a
+      <italic>
+       M. smegmatis
+      </italic>
+      strain KMS2 or KMS4. Transformants were grown in 7H9 liquid medium until early-log phase (approximate OD
+      <sub>
+       600
+      </sub>
+      = 0.2), split into two flasks, and 0.1% acetamide was added to express
+      <italic>
+       pknA
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      or
+      <italic>
+       pknB
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      for 2 hr. Both cultures were further incubated with tetracycline (20 ng ml
+      ) for 2 hr to express
+      <italic>
+       gfp-wag31
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      . For Van-Alexa568 staining, 5 μg ml
+      of Van-Alexa568 was added to both cultures, and incubated for 20 min at 37°C before microscopic examination. To examine the phosphorylation of wild-type Wag31
+      <sub>
+       Mtb
+      </sub>
+      under
+      <italic>
+       pknB
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      -overexpression, total protein was purified and cleaned up with the ReadyPrep 2 D Cleanup Kit (Bio-Rad). 200 μg of total protein from each sample was rehydrated into isoelectric focusing strips with a pH range of 4 to 7 (Bio-Rad). Isoelectric focusing was performed for 35,000 V-h in a PROTEAN IEF Cell (Bio-Rad). 2-D SDS-PAGE was performed using 10% Tris-HCl gels (Bio-Rad), and immunoblot blot analysis was performed using a phospho-(S/T)Q polyclonal antibody (Cell Signaling Technology), stripped, and then re-probed with anti-GFP antibody (Sigma).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Yeast two-hybrid analysis
+     </title>
+     <p>
+      Constructs of pJZ4-G-
+      <italic>
+       wag31
+      </italic>
+      (pCK145), pJZ4-G-
+      <italic>
+       wag31T73A
+      </italic>
+      (pCK143) and pJZ4-G-
+      <italic>
+       wag31T73E
+      </italic>
+      (pCK142) were individually transformed into the yeast strain RFY231 by plating on agar minimal media lacking tryptophan [
+      ]. Each of pHZ5-NRT-
+      <italic>
+       wag31
+      </italic>
+      (pCK146), pHZ5-NRT-
+      <italic>
+       wag31T73A
+      </italic>
+      (pCK147) and pHZ5-NRT-
+      <italic>
+       wag31T73E
+      </italic>
+      (pCK148) was also transformed into another yeast strain Y309 by plating on agar minimal media lacking histidine and uracil. Four independent colonies from each transformation were mated on YPD plates, re-streaked onto minimal media lacking uracil, histidine, and tryptophan. As negative controls, mated cells containing empty vectors alone or cells containing pHZ5-NRT-
+      <italic>
+       wag31
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      (pCK146) and pJZ4-G vector were included. Mated cells that we recently showed the interaction between Rv1102c and Rv1103c (with pCK227 and pCK228) [
+      ] were included as a positive control. Quantitative measurements (β-galactosidase activity in Miller unit) of interactions were conducted by using the Yeast β-Galactosidase Assay Kit (Pierce).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Enzymatic assay for peptidoglycan synthetic enzymes
+     </title>
+     <p>
+      The
+      <italic>
+       wag31
+       <sub>
+        Msm
+       </sub>
+      </italic>
+      deletion mutants containing each
+      <italic>
+       wag31
+       <sub>
+        Mtb
+       </sub>
+      </italic>
+      allele behind the P
+      <sub>
+       tet
+      </sub>
+      promoter (KMS41, KMS42, and KMS43) were cultured to mid-log phase (approximate OD
+      <sub>
+       600
+      </sub>
+      = 0.4), and a cell-wall enriched envelope fraction (P60) was prepared as previously described [
+      ]. Briefly, 8 g of harvested cells were resuspended in 30 ml of buffer A (50 mM MOPS (pH 8.0), 10 mM MgCl
+      <sub>
+       2
+      </sub>
+      , and 5 mM β-mercaptoethanol), and subjected to probe sonication using 10 cycles of 60 sec with 90 sec cooling on ice between the cycles. After centrifugation at 23,000 × g for 30 min at 4°C, the pellet was resuspended in buffer A with 60% Percoll (GE Healthcare), followed by centrifugation at 23,000 × g for 60 min at 4°C. The upper, flocculent band was recovered and washed with buffer A three times, to remove residual Percoll. The cell wall enriched pellet containing cell wall and some residual membrane was then resuspended in buffer A using a Dounce homogenizer. These P60 fractions were used as the sources of lipid (polyprenyl phosphate) and enzymes (MraY and MurG).
+     </p>
+     <p>
+      For enzymatic assay, reaction mixtures containing 2 mg of P60 protein from each strain, 50 μM UDP-MurNAc-pentapeptide and 100 μM ATP in a reaction volume of 300 μl with buffer A were incubated for 5 min at 28°C. Reactions were initiated by adding 1 μCi of UDP-[
+      C]GlcNAc (Perkin Elmer Life Sciences) and incubated at 28°C. After 1 hr, reactions were terminated by addition of 20 volumes of CHCl
+      <sub>
+       3
+      </sub>
+      /CH
+      <sub>
+       3
+      </sub>
+      OH (2:1), centrifuged at 3,000 × g for 10 min at room temperature, and the supernatant was mixed with 0.6 ml of dH
+      <sub>
+       2
+      </sub>
+      O in a new tube. The resulting biphasic solution was centrifuged again and the upper, aqueous phase was discarded. The bottom, organic phase was washed with 1.5 ml of CHCl
+      <sub>
+       3
+      </sub>
+      /CH
+      <sub>
+       3
+      </sub>
+      OH/H
+      <sub>
+       2
+      </sub>
+      O (3:47:48), dried under a stream of N
+      <sub>
+       2
+      </sub>
+      and re-dissolved in CHCl
+      <sub>
+       3
+      </sub>
+      /CH
+      <sub>
+       3
+      </sub>
+      OH/H
+      <sub>
+       2
+      </sub>
+      O/NH
+      <sub>
+       4
+      </sub>
+      OH (65:25:3.6:0.5). The recovered radioactive materials were applied to a silica gel TLC plate, which was developed with CHCl
+      <sub>
+       3
+      </sub>
+      /CH
+      <sub>
+       3
+      </sub>
+      OH/H
+      <sub>
+       2
+      </sub>
+      O/NH
+      <sub>
+       4
+      </sub>
+      OH (5.6:4.2:0.68:0.27). The location and quantity of radiolabeled lipid II ([
+      C]GlcNAc-MurNAc-(pentapeptide)-diphosphoryl-undecaprenol) on the TLC plate was determined by using a Molecular Dynamics Typhoon 8600 Phosphoimager (Molecular Dynamics).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Abbreviations
+    </title>
+    <p>
+     Mtb:
+     <italic>
+      Mycobacterium tuberculosis
+     </italic>
+     ; Msm:
+     <italic>
+      Mycobacterium smegmatis
+     </italic>
+     ; MurNAc-(pentapeptide):
+     <italic>
+      N
+     </italic>
+     -acetylmuramyl-(pentapeptide); GlcNAc:
+     <italic>
+      N
+     </italic>
+     -acetylglucosamine; DIC: Differential interference contrast
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Authors\ contributions
+    </title>
+    <p>
+     CJ, HE, and JJL participated in the design and conduct of the study, data analysis, and drafting of manuscript. In particular, CJ conducted Van-Alexa568 staining and localization of Wag31 in cells expressing different mutant form of Wag31. HE conducted the enzymatic assay of Mur proteins. JJL performed the yeast two-hybrid experiments and Van-Alexa568 and localization of wild-type Wag31 in the presence of kinase overexpression. KH and MBS participated in culture and isolation of P60 samples for Mur enzyme assays and Raman spectrometry. JSH, SN and JYL constructed plasmids for localization and yeast two-hybrid assay. JWS, SHL, and SJR participated in the data analysis, and drafting and revision of the manuscript. DCC participated in the conception and design of the study, general supervision of the Mur enzyme assays. CMK participated in the design of the study, general supervision of the research, and critical revision of the manuscript. All authors read and approved the final version of the manuscript.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="supplementary-material">
+    <title>
+     Supplementary Material
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

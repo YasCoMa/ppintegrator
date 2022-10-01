@@ -1,0 +1,5 @@
+id_pmc	sentence location	highlighted phrase	interacting verbs	number of interacting verbs	experimental methods found	number of experimental methods	protein entities found	number of protein entities
+7408181	body	here , we revealthat tsc1 ( 302–420 amino acids ) interacts with dnak ( hsp70homologue in e. coli ) even at a lowexpression temperature ( 18 °c ) .	interact	1		0	tsc1|dnak	2
+7408181	body	2.6 stimulationof dnak atpase activity by tsc1 dnak on interaction withthe substrate tends to have increasedatp - adp exchange rates .	interact	1		0	dnak|tsc1	2
+7408181	body	we speculate that the eevd terminal motif inhspa1a may have a role to play in the interaction of tsc1 ( 302–420aa ) as well as the absence of eevd motif in dnak led to a contrastingincrease in atpase activity upon tsc1 interaction .	interact|interact	2		0	tsc1|dnak|eevd|motif|atpase	5
+7408181	body	to testthe interaction between the dnak and tsc1 , the proteins were separated.washing the bound gst - tsc1 with 50 mm tris , 2 mm atp , and 10 mm mgso 4 for 30 min in room temperature ( rt ) did not remove the dnakentirely .	interact	1		0	dnak|tsc1|dnakentirely|gst	4

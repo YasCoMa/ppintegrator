@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  The Type III Secretion System-Related CPn0809 from
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    Chlamydia pneumoniae
+   </italic>
+   is an intracellular Gram-negative bacterium that possesses a type III secretion system (T3SS), which enables the pathogen to deliver, in a single step, effector proteins for modulation of host-cell functions into the human host cell cytosol to establish a unique intracellular niche for replication. The translocon proteins located at the top of the T3SS needle filament are essential for its function, as they form pores in the host-cell membrane. Interestingly, unlike other Gram-negative bacteria,
+   <italic>
+    C
+   </italic>
+   .
+   <italic>
+    pneumoniae
+   </italic>
+   has two putative translocon operons, named LcrH_1 and LcrH_2. However, little is known about chlamydial translocon proteins. In this study, we analyzed CPn0809, one of the putative hydrophobic translocators encoded by the LcrH_1 operon, and identified an ‘SseC-like family’ domain characteristic of T3S translocators. Using bright-field and confocal microscopy, we found that CPn0809 is associated with EBs during early and very late phases of a
+   <italic>
+    C
+   </italic>
+   .
+   <italic>
+    pneumoniae
+   </italic>
+   infection. Furthermore, CPn0809 forms oligomers, and interacts with the T3SS chaperone LcrH_1, via its N-terminal segment. Moreover, expression of full-length CPn0809 in the heterologous host
+   <italic>
+    Escherichia coli
+   </italic>
+   causes a grave cytotoxic effect that leads to cell death. Taken together, our data indicate that CPn0809 likely represents one of the translocon proteins of the
+   <italic>
+    C
+   </italic>
+   .
+   <italic>
+    pneumoniae
+   </italic>
+   T3SS, and possibly plays a role in the translocation of effector proteins in the early stages of infection.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="sec001" sec-type="intro">
+    <title>
+     Introduction
+    </title>
+    <p>
+     <italic>
+      Chlamydia pneumoniae
+     </italic>
+     is an obligate intracellular Gram-negative pathogen that causes a wide range of pulmonary diseases. Because these are often mild and atypical in character, it is thought that the bacterium’s contribution to the incidence of respiratory illness is significantly underestimated [
+     ]. In addition,
+     <italic>
+      C
+     </italic>
+     .
+     <italic>
+      pneumoniae
+     </italic>
+     can induce persistent infections and has been implicated as a subsidiary factor in other severe respiratory diseases, including asthma, chronic obstructive pulmonary disease (COPD) and lung cancer, and is suspected of playing a role in other pathologies such as atherosclerosis, Alzheimer’s disease and multiple sclerosis [
+     –
+     ]. Like all
+     <italic>
+      Chlamydiae
+     </italic>
+     ,
+     <italic>
+      C
+     </italic>
+     .
+     <italic>
+      pneumoniae
+     </italic>
+     is an obligate intracellular parasite with a unique biphasic life cycle, alternating between a metabolically inert infectious form called an elementary body (EB), which is adapted to survive in the hostile extracellular environment, and an intracellular form called the reticulate body (RB) that replicates by binary fission [
+     ,
+     ]. The intracellular life cycle of
+     <italic>
+      Chlamydia
+     </italic>
+     depends on the eukaryotic host cell and is initiated by the binding of EBs to the cell surface. The EB is subsequently internalized into a membrane-bound vesicle called an inclusion, in which differentiation and replication of RBs occurs. The inclusion membrane is heavily modified by the bacteria, equipping it for nutrient acquisition and as an intracellular niche for the replication of RBs [
+     ]. After several rounds of replication, the RBs re-differentiate asynchronously back into EBs. Between approximately 48 and 72 h post infection the EBs exit the host cell via lysis or extrusion to invade new cells [
+     ,
+     ].
+    </p>
+    <p>
+     During invasion and the establishment and maintenance of the intracellular niche,
+     <italic>
+      C
+     </italic>
+     .
+     <italic>
+      pneumoniae
+     </italic>
+     interacts with its eukaryotic host cell via secreted effector proteins. Like other Gram-negative pathogenic bacteria, such as
+     <italic>
+      Yersinia
+     </italic>
+     ,
+     <italic>
+      Salmonella
+     </italic>
+     ,
+     <italic>
+      Shigella
+     </italic>
+     and pathogenic
+     <italic>
+      E
+     </italic>
+     .
+     <italic>
+      coli
+     </italic>
+     , the
+     <italic>
+      Chlamydiae
+     </italic>
+     utilize Type III secretion systems (T3SS) to export effector proteins [
+     ,
+     ]. The T3SS is a syringe-like nanomachine composed of 20 to 25 proteins, which enables the bacterial cell to translocate proteins in a single step across its own inner and outer membranes and through the plasma membrane of a targeted host cell or, in the case of
+     <italic>
+      Chlamydiae
+     </italic>
+     , into the inclusion membrane [
+     ]. The structure that penetrates the plasma membrane of the host cell is called the needle-tip complex, or translocon, and is composed of three proteins [
+     ]. The needle-tip protein or hydrophilic translocator belongs to the LcrV family of proteins, while the two hydrophobic translocators are members of the YopB and YopD families of translocon proteins and are often referred to as the major and minor translocator, respectively. The translocon proteins are themselves secreted via the T3S machinery following contact of the needle with the targeted cell, and are assembled to form a pore in the plasma membrane [
+     ,
+     ].
+    </p>
+    <p>
+     Chaperones that bind T3S substrates and maintain them in a secretion-competent state are crucial for the correct function of T3S systems, and might also be involved in determining the sequence of secretion of their substrates [
+     ,
+     ]. T3SS-associated chaperones are divided into three classes, with the class II chaperones binding to one or both hydrophobic translocators of the T3SS. An archetypal class II chaperone is LcrH/SycD from the well characterized
+     <italic>
+      Yersinia
+     </italic>
+     T3SS, which binds to the hydrophobic translocators and prevents premature folding and homo- or hetero-oligomerization of their substrates in the cytosol of the bacterial cell [
+     ].
+    </p>
+    <p>
+     Two putative T3SS class II chaperones were previously identified in
+     <italic>
+      C
+     </italic>
+     .
+     <italic>
+      pneumoniae
+     </italic>
+     by their sequence homology to the
+     <italic>
+      Yersinia
+     </italic>
+     class II chaperone LcrH, and were named LcrH_1 and LcrH_2 [
+     ]. Typically, class II chaperone-coding genes localize next to genes encoding the hydrophobic translocons and the needle-tip proteins, and are expressed from one operon [
+     ,
+     ]. LcrH_1 is expressed together with CPn0809, CPn0808 and CPn0810, while LcrH_2 is co-expressed with the CPn1019, CPn1020 and CPn1022 proteins (
+     ) [
+     ]. Interestingly, the two translocon operons are expressed at different stages of infection. The proteins of the LcrH_1 operon are expressed as “tardy” proteins, suggesting that they are stored in the EBs for the next round of infection, while proteins of the LcrH_2 operon are expressed as “mid” class proteins, supporting the idea that both operons function at distinct phases of the developmental cycle [
+     ,
+     ]. The two putative translocon protein sets are poorly characterized. Based on their hydrophobicity profiles, they can be grouped into pairs of hydrophobic translocators (CPn0808 and CPn0809 in the first operon; CPn1019 and CPn1020 in the second operon) and the corresponding hydrophilic needle-tip proteins (CPn0810 and CPn1022, respectively) (
+     ). Very recently CPn0808 was found to be essential for successful infection by
+     <italic>
+      C
+     </italic>
+     .
+     <italic>
+      pneumoniae
+     </italic>
+     [
+     ]. So far, CPn0809 has not been characterized in detail. An early study localized the protein as a secreted effector in the host-cell cytosol during infection [
+     ]. Recently, human interaction partner candidates for CPn0809 were identified in a yeast two-hybrid assay [
+     ]. These data suggest that CPn0809 is a soluble effector protein which interacts with host proteins in the host cytosol, in contrast to early bioinformatics analyses suggesting CPn0808 and CPn0809 to be translocator proteins [
+     ].
+    </p>
+    <p>
+     In this study, we characterize CPn0809 bioinformatically and by determining its expression pattern and subcellular localization during the chlamydial life cycle. We found that CPn0809 co-localizes with chlamydial EBs at the target-cell membrane and during the first several hours of infection, and again becomes associated with progeny EBs late in infection. Furthermore, using genetic and biochemical assays, we show that CPn0809 interacts with itself and with the class II chaperone LcrH_1. These results, and the strong growth inhibition phenotype observed upon expression in
+     <italic>
+      E
+     </italic>
+     .
+     <italic>
+      coli
+     </italic>
+     , are consistent with the assumption that CPn0809 is the major translocator of a
+     <italic>
+      C
+     </italic>
+     .
+     <italic>
+      pneumoniae
+     </italic>
+     T3SS translocon, with a function during target-cell attachment and invasion.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec002" sec-type="materials|methods">
+    <title>
+     Methods and Materials
+    </title>
+    <sec id="sec003">
+     <title>
+      Ethic statement
+     </title>
+     <p>
+      For the immunization, the rabbits were handled in strict accordance to the good animal practice as defined by the Belgian national animal welfare regulations, and all animal work was approved by the ethics committee of the Centre d\Economie Rurale (CER Groupe, Marloie, Belgium). All rabbit handlings were performed at Eurogentec SA, Seraing, Belgium, under permit number LA 1800104.
+     </p>
+     <p>
+      Please find hereafter regulations followed by Eurogentec animal facility regarding animal care, housing and transportation: Welfare Legislation for laboratory animals c 2010/63/EU Animal Transportation c 01/2005/EU Pharmacy c RD29/06/199 c RD23/05/2000 c RD19/12/2002 Others c Agreement STE123 c Scientific procedures: Animals Act 1986 c 2004/21/EU Identification of ovine and caprine species.
+     </p>
+    </sec>
+    <sec id="sec004">
+     <title>
+      Culture conditions and organisms
+     </title>
+     <p>
+      <italic>
+       Escherichia coli
+      </italic>
+      strain XL1-Blue (Stratagene) was used for protein expression and plasmid amplification.
+      <italic>
+       Chlamydia pneumoniae
+      </italic>
+      GiD [
+      ] was grown in HEp-2 cells in the presence of 1.2 μg/ml cycloheximide as described previously [
+      ]. Chlamydial EBs were purified using a 30% gastrographin gradient (Bayer).
+     </p>
+     <p>
+      The
+      <italic>
+       Saccharomyces cerevisiae
+      </italic>
+      strain CEN.PK2
+      <italic>
+       MAT
+      </italic>
+      <bold>
+       a
+      </bold>
+      /α
+      <italic>
+       leu
+      </italic>
+      2-3_112/
+      <italic>
+       leu
+      </italic>
+      2-3_112
+      <italic>
+       ura
+      </italic>
+      3-52/
+      <italic>
+       ura
+      </italic>
+      3-52
+      <italic>
+       trp
+      </italic>
+      1-289/
+      <italic>
+       trp
+      </italic>
+      1-289
+      <italic>
+       his
+      </italic>
+      3-D1/
+      <italic>
+       his3
+      </italic>
+      -D1
+      <italic>
+       MAL
+      </italic>
+      2-8C/
+      <italic>
+       MAL
+      </italic>
+      2-8C
+      <italic>
+       SUC
+      </italic>
+      2/
+      <italic>
+       SUC
+      </italic>
+      2 [
+      ] was used for cloning, and strain AH109 (Matchmaker
+      Gold Clontech)
+      <italic>
+       MAT
+      </italic>
+      <bold>
+       a
+      </bold>
+      <italic>
+       trp1-901 leu2-3_112 ura3-52 his3-200 gal4Δ gal80Δ LYS2
+      </italic>
+      ::
+      <italic>
+       GAL1
+      </italic>
+      <sub>
+       <italic>
+        UAS
+       </italic>
+      </sub>
+      <italic>
+       -GAL1
+      </italic>
+      <sub>
+       <italic>
+        TATA
+       </italic>
+      </sub>
+      <italic>
+       -His3 GAL2
+      </italic>
+      <sub>
+       <italic>
+        UAS
+       </italic>
+      </sub>
+      <italic>
+       -GAL2
+      </italic>
+      <sub>
+       <italic>
+        TATA
+       </italic>
+      </sub>
+      <italic>
+       -Ade2 URA3
+      </italic>
+      ::
+      <italic>
+       MEL1
+      </italic>
+      <sub>
+       <italic>
+        UAS
+       </italic>
+      </sub>
+      <italic>
+       -MEL1
+      </italic>
+      <sub>
+       <italic>
+        TATA
+       </italic>
+      </sub>
+      <italic>
+       LacZ MEL1
+      </italic>
+      for Y2H experiments. Both were routinely grown either on YPD or on plasmid-selective synthetic medium containing 2% glucose (SD) [
+      ].
+     </p>
+     <p>
+      The epithelial larynx carcinoma cell line HEp-2 (ATCC
+      #: CCL-23™) was cultivated in Dulbecco’s modified Eagle medium (DMEM) GlutaMax™ (Life Technologies) supplemented with 10% fetal calf serum (FCS), vitamins, nonessential amino acids, amphothericin B (2.5 μg/ml) and gentamicin (50 μg/ml).
+     </p>
+    </sec>
+    <sec id="sec005">
+     <title>
+      Bioinformatic analyses
+     </title>
+     <p>
+      Protein sequences were aligned using BLASTp (
+      <ext-link ext-link-type="uri" ns0:href="http://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&amp;PAGE_TYPE=BlastSearch&amp;LINK_LOC=blasthome">
+       http://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&amp;PAGE_TYPE=BlastSearch&amp;LINK_LOC=blasthome
+      </ext-link>
+      ) with default parameters [
+      ]. Protein family comparisons were performed with the full-length proteins using Pfam (
+      <ext-link ext-link-type="uri" ns0:href="http://pfam.xfam.org/">
+       http://pfam.xfam.org/
+      </ext-link>
+      ) [
+      ]. TMHMM 2.0 (
+      <ext-link ext-link-type="uri" ns0:href="http://www.cbs.dtu.dk/services/TMHMM/">
+       http://www.cbs.dtu.dk/services/TMHMM/
+      </ext-link>
+      ) and Phobius (
+      <ext-link ext-link-type="uri" ns0:href="http://phobius.sbc.su.se/">
+       http://phobius.sbc.su.se/
+      </ext-link>
+      ) were used to locate hydrophobic domains and Marcoil (
+      <ext-link ext-link-type="uri" ns0:href="http://bcf.isb-sib.ch/webmarcoil/webmarcoilC1.html">
+       http://bcf.isb-sib.ch/webmarcoil/webmarcoilC1.html
+      </ext-link>
+      ) was used to detect coiled-coil domains in full-length proteins [
+      –
+      ].
+     </p>
+    </sec>
+    <sec id="sec006">
+     <title>
+      DNA manipulation and plasmid constructions
+     </title>
+     <p>
+      Recombinant plasmids were generated by homologous recombination in
+      <italic>
+       S
+      </italic>
+      .
+      <italic>
+       cerevisiae
+      </italic>
+      . DNA fragments were amplified by PCR from
+      <italic>
+       C
+      </italic>
+      .
+      <italic>
+       pneumoniae
+      </italic>
+      GiD genomic DNA using oligonucleotides with 40 nucleotides of homology to the targeted vector and 20 nucleotides of homology to the inserted DNA. All PCR products were integrated into linearized plasmids (Tables
+      and
+      ). The recombinant plasmids were rescued as described previously [
+      ].
+     </p>
+    </sec>
+    <sec id="sec007">
+     <title>
+      Protein expression and purification
+     </title>
+     <p>
+      For expression of recombinant proteins,
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      cells harboring the plasmid construct pAF75 (GST-CPn0809N-His
+      <sub>
+       6
+      </sub>
+      ), pAF94 (His
+      <sub>
+       6
+      </sub>
+      -CPn0809N), pAE15 (His
+      <sub>
+       6
+      </sub>
+      -LcrH_1), pFT8 (His
+      <sub>
+       6
+      </sub>
+      -GST) or pFT34 (CPn0473- His
+      <sub>
+       10
+      </sub>
+      ) were grown in lysogeny broth (LB) medium containing ampicillin (50 mg/l) and harvested 4 h after induction with 1 mM IPTG. Lysis of GST-expressing
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      cells was performed under native conditions in phosphate-buffered saline (PBS; 137 mM NaCl, 2.7 mM KCl, 10 mM Na
+      <sub>
+       2
+      </sub>
+      HPO
+      <sub>
+       4
+      </sub>
+      , 1.8 mM KH
+      <sub>
+       2
+      </sub>
+      PO
+      <sub>
+       4
+      </sub>
+      with 1 mM phenylmethanesulfonylfluoride (PMSF), 0.5 mg/ml lysozyme, 1% Triton X-100, 1 mM dithiothreitol (DTT) and protease inhibitor cocktail (Roche)) overnight at 4°C. The lysate was cleared by centrifugation at 18 400 x g and 4°C for 20 min. Purification of the protein was performed using glutathione-agarose (Sigma-Aldrich) at 4°C. Reduced glutathione was removed by dialysis against PBS at 4°C overnight. For isolation of the His
+      <sub>
+       6
+      </sub>
+      -constructs, lysis of
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      cells was performed under denaturing conditions in 8 M urea, 0.1 M NaH
+      <sub>
+       2
+      </sub>
+      PO
+      <sub>
+       4
+      </sub>
+      , 10 mM Tris-HCl (pH 8.0) overnight at room temperature. The lysate was cleared by centrifugation as described above. Purification of the protein was performed on Ni-NTA-agarose (Qiagen) at room temperature. Imidazole was removed and renaturation was performed by dialysis against PBS at 4°C. SDS-PAGE and immunoblot analysis were performed as described previously [
+      ]. Purified protein was probed by immunoblot analysis with anti-His antibody (Qiagen), followed by anti-mouse antibody conjugated with alkaline phosphatase (Promega).
+     </p>
+    </sec>
+    <sec id="sec008">
+     <title>
+      Antibody generation and purification
+     </title>
+     <p>
+      For generation of a polyclonal anti-CPn0809 antibody, purified recombinant His
+      <sub>
+       6
+      </sub>
+      -CPn0809 (aa 1–253) protein was used to immunize two rabbits. Immunization was performed first with purified protein cut from a SDS gel and subsequently with native soluble protein. Immunizations were carried out by Eurogentec (Belgium).
+     </p>
+     <p>
+      The polyclonal anti-CPn0809 antibody was antigen-purified against GST-CPn0809N-His
+      <sub>
+       6
+      </sub>
+      protein coupled to NHS-activated Sepharose (GE Healthcare Life Sciences) following the manufacturer’s instructions and a standard protocol [
+      ].
+     </p>
+    </sec>
+    <sec id="sec009">
+     <title>
+      Yeast-2-Hybrid (Y2H) analyses
+     </title>
+     <p>
+      Two-hybrid analyses were performed using the Matchmaker™ Gold System (Clontech). Combinations of plasmids were transformed into
+      <italic>
+       S
+      </italic>
+      .
+      <italic>
+       cerevisiae
+      </italic>
+      strain AH109, and interaction was tested by serial dilution patch tests on selective medium (Leu
+      , Trp
+      ; growth control) and low-stringency medium (Leu
+      , Trp
+      , His
+      ). Expression of the constructs was monitored by immunoblot analyses using either an anti-HA antibody (Santa Cruz) or an anti-His antibody (Qiagen). As a positive control the plasmids pGBKT7-53 (human protein p53) and pGADT7-T (large T-antigen of SV40) and as the negative control pGBKT7-Lam (lamin C) and pGADT7-T were co-transformed into yeast cells.
+     </p>
+    </sec>
+    <sec id="sec010">
+     <title>
+      Far Western Analysis
+     </title>
+     <p>
+      Recombinant proteins were expressed and lysed under native conditions. After centrifugation, a 50-μg aliquot of protein solution was fractionated via SDS-PAGE and transferred to a PVDF membrane. The immobilized prey proteins were renatured gradually by incubating the membrane successively for 30 min each in 6 M, 3 M, 1 M guanidine HCl at room temperature, 0.1 M guanidine at 4°C and finally without guanidine at 4°C overnight. Sulfo-NHS-Biotin (Pierce) was added to the bait protein with a 20-fold molar excess. The reaction was incubated on ice for two hours and stopped by adding Tris-HCl (pH 8.0) to a final concentration of 50 mM. The biotinylated protein was dialyzed overnight against PBS to remove excess biotin. Biotinylated bait protein (2 mg/ml) was added to the renatured, immobilized prey proteins for 2 h at room temperature. The prey proteins were visualized with anti-His antibody (Qiagen), followed by anti-mouse antibody conjugated with alkaline phosphatase (Promega), and the complex formed between bait and prey was detected with alkaline phosphatase-conjugated streptavidin.
+     </p>
+    </sec>
+    <sec id="sec011">
+     <title>
+      Immunoblot analysis of CPn0809 during the
+      <italic>
+       C
+      </italic>
+      .
+      <italic>
+       pneumoniae
+      </italic>
+      life cycle
+     </title>
+     <p>
+      HEp-2 cells grown in 25 cm² cell culture flasks were infected with
+      <italic>
+       C
+      </italic>
+      .
+      <italic>
+       pneumoniae
+      </italic>
+      GiD (MOI 10). At each time point chosen, the cell culture medium was discarded and the cells were harvested with a cell scraper, resuspended in 10 ml of Hanks’ Balanced Salt Solution (HBSS) and sedimented for 20 min at 2 540 x g at 4°C. The supernatant was discarded and the cell pellet lysed in 300 μl lysis buffer (2% SDS, 2% Sarkosyl, 1% IGEPAL CA-630, 1% Triton X-100, 140 mM NaCl, 20 mM Tris-HCl pH 7.5, 2 mM EDTA, 1 mM Na
+      <sub>
+       2
+      </sub>
+      VO
+      <sub>
+       4
+      </sub>
+      ).
+     </p>
+     <p>
+      Equal volumes of lysate were analyzed for each time point using antibodies against β-actin (Sigma-Aldrich), chlamydial DnaK (kindly provided by the Christiansen laboratory [
+      ]) and CPn0809, respectively. Secondary antibodies conjugated with alkaline phosphatase (Promega) were used for visualization.
+     </p>
+    </sec>
+    <sec id="sec012">
+     <title>
+      Detergent treatment
+     </title>
+     <p>
+      Gradient-purified
+      <italic>
+       C
+      </italic>
+      .
+      <italic>
+       pneumoniae
+      </italic>
+      GiD EBs were treated with detergents to determine if specific proteins can be solubilized from the chlamydial surface. Aliquots (75μl) of purified EBs (~10
+      IFU/ml) were pelleted for 30 min at 21 800 x g and 4°C. The pellet was resuspended either in 150 μl PBS with 1% Triton X-100, PBS with 2% Sarkosyl or PBS alone, and incubated for 1 h at 37°C. Subsequently, the sample was centrifuged for 1 h at 4°C and 100 000 x g. Pellet and supernatant were analyzed on immunoblots with antibodies against MOMP [
+      ], GroEL1 [
+      ], EF-Tu (Stallmann, unpublished) or CPn0809.
+     </p>
+    </sec>
+    <sec id="sec013">
+     <title>
+      Microscopy
+     </title>
+     <p>
+      HEp-2 cells were grown on glass cover slips (12 mm diameter) and infected for different periods of time. Cells were then fixed with cold (-20°C) methanol for 5 min.
+     </p>
+     <p>
+      For indirect immunofluorescence analyses, antibodies against IncA (kindly provided by the Zhong laboratory [
+      ]), LPS (Bio-Rad), DnaK (see above) and CPn0809 were visualized with specific secondary antibodies conjugated to Alexa-488 or Alexa-594 (Life Technologies). Wheat germ agglutinin (WGA) (Life Technologies) directly conjugated to Alexa-594 was used to stain the plasma membrane of the host cell. DNA was visualized using 4\,6-diamidino-2-phenylindole (DAPI).
+     </p>
+     <p>
+      Vital staining of
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      cells with propidium iodide was performed as follows:
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      cells harboring plasmid constructs for expression of His
+      <sub>
+       6
+      </sub>
+      -CPn0809 (pAE41), His
+      <sub>
+       6
+      </sub>
+      -CPn0811 (pAE15), or bearing the empty vector (pKM32), were grown in liquid LB medium with ampicillin (50 mg/l). Cells from an overnight culture were used to inoculate 50 ml of ampicillin-containing (50 mg/l) LB medium to an OD
+      <sub>
+       600
+      </sub>
+      of 0.05. Protein expression was induced with 1 mM IPTG at an OD
+      <sub>
+       600
+      </sub>
+      of 0.6 for 2 h at 37°C.
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      cells equivalent to 1 OD
+      <sub>
+       600
+      </sub>
+      unit were harvested and washed twice with 1 ml 10 mM Tris-HCl pH 7.5 and centrifuged for 3 min at 7 400 x g. The supernatant was discarded and cells were stained for 3 min with propidium iodide (5 μg/ml) in 10 mM Tris-HCl pH 7.5. Propidium iodide was removed by washing the cells twice with 1 ml 10 mM Tris-HCl pH 7.5. Immediately after staining, the cells were analyzed by fluorescence microscopy.
+     </p>
+     <p>
+      Images were acquired using either a Zeiss fluorescence microscope Axioskop 50 equipped with a 12-bit monochrome charge-coupled device (CCD) camera (CHROMOPHOR Analysetechnik GmbH, Germany) or a Nikon confocal microscope C2 and Nikon NIS-Elements AR imaging software (Nikon). All images were processed using Canvas 14 (ACD Systems of America, Inc.).
+     </p>
+    </sec>
+    <sec id="sec014">
+     <title>
+      Antibody pre-adsorption assay
+     </title>
+     <p>
+      To check the antibody specificity antigen-purified polyclonal anti-CPn0809 antibody was pre-adsorbed against immobilized recombinant GST-CPn0809N-His
+      <sub>
+       6
+      </sub>
+      protein. Green fluorescent latex beads (1 x 10
+      , ø 1.1 μm, Polyscience) were coupled with 100 μl of the recombinant protein dissolved at 400 μg/ml in coupling buffer (0.2 M NaHCO
+      <sub>
+       3
+      </sub>
+      , 0.5 M NaCl2, pH 8.6) as described before [
+      ] or just blocked by incubation with 500 μl BSA (40 mg/ml) as a control. Anti-CPn0809 antibody (100 μl) was incubated with protein-coated beads overnight at 4°C under agitation. The suspension was centrifuged for 5 min at 13 900 x g and the supernatant was used for immunofluorescence staining of methanol-fixed, infected HEp-2 cells. As a control, beads were resuspended in PBS and incubated with a secondary Alexa-594-conjugated antibody to show adsorption of anti-CPn0809 antibody.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec015" sec-type="results">
+    <title>
+     Results
+    </title>
+    <sec id="sec016">
+     <title>
+      CPn0809 possesses an ‘SseC-like family’ domain characteristic of T3S translocators
+     </title>
+     <p>
+      As shown in
+      , the translocon operons of different bacterial species generally encode two hydrophobic and one hydrophilic translocon proteins, which are co-expressed together with a class II chaperone and, in some cases, other regulatory proteins. In
+      <italic>
+       C
+      </italic>
+      .
+      <italic>
+       pneumoniae
+      </italic>
+      CPn0809 is co-expressed with LcrH_1 and with CPn0808 and CPn0810 from one operon [
+      ]. Bioinformatic analysis suggests that CPn0809 harbors three hydrophobic domains (HD) in its C-terminal half (aa 253–488), which are flanked by two coiled-coil domains (CC), while a third CC domain is located in the N-terminal segment (
+      ). Thus CPn0809 exhibits structural similarities to members of the YopB family of translocators, also known as major hydrophobic translocators [
+      ,
+      ]. In addition, an ‘SseC-like family’ domain was identified in the C-terminal portion of CPn0809 (aa 203–487). This domain is found in all major hydrophobic translocators of other T3SS-expressing bacteria examined (
+      ). In general the SseC domains of the translocon proteins display common features, including two or more hydrophobic domains (HD) combined with one or more coiled-coil domains (CC). In most cases, the SseC and hydrophobic domains encompass the C-terminal end of the protein (see
+      ).
+     </p>
+     <p>
+      CPn0809 and its
+      <italic>
+       C
+      </italic>
+      .
+      <italic>
+       trachomatis
+      </italic>
+      homolog CT_578/CopB were compared to other SseC domain-containing translocon proteins from other species. In other bacteria only the major hydrophobic translocator contains a predicted SseC domain. Intriguingly, an SseC domain is predicted in both hydrophobic translocators encoded by the
+      <italic>
+       C
+      </italic>
+      .
+      <italic>
+       pneumoniae
+      </italic>
+      LcrH_1 operon but not in either of those of the LcrH_2 operon (
+      ). A similar situation is found for the hydrophobic translocators of
+      <italic>
+       C
+      </italic>
+      .
+      <italic>
+       trachomatis
+      </italic>
+      . Taken together, these findings reveal differences between chlamydia and other Gram-negative bacteria. Thus the bioinformatic data suggest that CPn0809 might function as a major translocon protein, very much like other polypeptides harboring an ‘SseC-like family’ domain.
+     </p>
+    </sec>
+    <sec id="sec017">
+     <title>
+      CPn0809 is associated with EBs
+     </title>
+     <p>
+      First we characterized the expression of CPn0809 during the
+      <italic>
+       C
+      </italic>
+      .
+      <italic>
+       pneumoniae
+      </italic>
+      infection cycle by immunoblot analysis. Using an antibody directed against the CPn0809 N-terminal half (aa 1–253) we were able to detect CPn0809 throughout the entire developmental cycle (
+      ). Significant amounts of CPn0809 were found to be present at early time points in infection (0–6 hpi). Subsequently the signal intensity decreased, reaching a minimum at 24 hpi. At this point most bacteria begin to replicate, as indicated by the increased signal for the DnaK protein. From 42 hpi on, CPn0809 levels show a marked rise. During this phase of the infection cycle, the
+      <italic>
+       C
+      </italic>
+      .
+      <italic>
+       pneumoniae
+      </italic>
+      RBs re-differentiate asynchronously into EBs [
+      ].
+     </p>
+     <p>
+      Before proceeding to determine the subcellular localization of CPn0809 during the developmental cycle, we analyzed the specificity of our CPn0809 antibody. After incubation of anti-CPn0809 antibodies with beads coated with the recombinant CPn0809N (aa 1–253), the pre-adsorbed serum failed to recognize CPn0809 during infection, as expected (
+      ). We therefore concluded that the punctate CPn0809 signals within the inclusion are specific. At early time points during infection, CPn0809 signals that co-localized with the bacterial DNA were observed (
+      ). However, due to the asynchronous
+      <italic>
+       C
+      </italic>
+      .
+      <italic>
+       pneumoniae
+      </italic>
+      infection cycle, at 0.5 hpi only 26% (+/- 11%) of the DNA particles were associated with a CPn0809 signal, and this had not changed significantly by 1 hpi. In contrast, between 12 and 36 hpi no signals were obtained. At 48 hpi scattered punctate staining was again observed within the inclusion, although at this point larger inclusions with, and smaller inclusions without CPn0809 signals (arrowhead) could be detected in the same cell. The latter observation probably reflects the asynchronous nature of development at this stage, as the number of CPn0809 signals increased with time until most inclusions seemed to be filled with the protein. At 60 hpi and 72 hpi almost all chlamydial particles within all inclusions exhibited CPn0809 signals.
+     </p>
+     <p>
+      In contrast to previous reports, we found no evidence that CPn0809 exits the inclusion. The expression and localization pattern indicate that CPn0809 is produced in the second half of the infection cycle and is stored in EBs, suggesting that the protein could be required for the late phase of infection and/or in the early stages of the next round of infection.
+     </p>
+    </sec>
+    <sec id="sec018">
+     <title>
+      CPn0809 is detectable on the host-cell membrane early in infection
+     </title>
+     <p>
+      In order to gain further insight into the subcellular localization of CPn0809, infectious EBs were exposed to ionic and non-ionic detergents in aqueous buffer (
+      ). The PBS buffer extracted neither intracellular EF-Tu nor the surface-located MOMP, while it leached out some GroEL1 and CPn0809. However, neither 1% Triton X-100 nor 2% Sarkosyl extraction solubilized all of CPn0809, indicating that about half of the protein remained in the Sarkosyl-insoluble chlamydia outer membrane complex (cOMC) fraction. Thus, a fraction of CPn0809 is easily accessible, while the rest is membrane associated.
+     </p>
+     <p>
+      In order to learn more about CPn0809 function, we next analyzed the localization of CPn0809 at different time points by confocal microscopy. At 48 hpi and 80 hpi CPn0809 was found to localize exclusively within the inclusion, as defined by the IncA signal that delineates the boundary of the inclusion membrane (
+      ). Notably, punctate CPn0809 signals are sometimes detected in gaps within the IncA signal. However, no CPn0809 signals were detected beyond the limits of the IncA-labeled inclusion membrane.
+     </p>
+     <p>
+      The abundance of EB-associated signals in inclusions at 80 hpi suggested that CPn0809 might be located on infectious EBs. Therefore, we studied the localization of CPn0809 at the earliest phase of infection under conditions that permit adhesion but not invasion. Quantification revealed that at this time point (0 min pi) 8% +/- 4% of the CPn0809 signals co-localized with the bacterial DNA signals and with the WGA-stained host-cell membrane (
+      ). No CPn0809 signals could be detected within the host-cell cytosol. The relatively low percentage of CPn0809-positive DAPI signals at time point 0 very likely reflects the asynchronous nature of the infection.
+     </p>
+     <p>
+      To further investigate CPn0809 localization during adhesion/internalization we shifted cells to 37°C to allow secretion of effectors and internalization of the EBs, and fixed cells with methanol 2 min after media exchange (
+      ). The co-localization of CPn0809 and LPS at 2 min pi is shown in the enlarged views of CPn0809- and LPS-positive particles marked in the overview panels. At this time point 6% +/- 2% of the DAPI signals co-localized with CPn0809 signals, again reflecting the asynchronous nature of the early infection. Thus it can be concluded that CPn0809 co-localizes with chlamydial EBs during adhesion and internalization.
+     </p>
+    </sec>
+    <sec id="sec019">
+     <title>
+      Y2H analysis shows translocon-specific interaction of CPn0809 via its N-terminal domain
+     </title>
+     <p>
+      Our bioinformatic data suggested that CPn0809 might be the major hydrophobic translocator protein of the
+      <italic>
+       C
+      </italic>
+      .
+      <italic>
+       pneumoniae
+      </italic>
+      LcrH_1 T3SS. To find out if CPn0809 shows functional features shared by T3SS translocon proteins from other species, such as oligomerization or chaperone binding, we performed yeast two-hybrid analyses. The hydrophobic translocon proteins of other pathogenic bacteria exhibit self-interaction and possess binding domains for interaction with the corresponding T3S chaperone in their N-terminal segments [
+      ,
+      –
+      ]. For this reason, and because the full-length CPn0809 protein was found to be toxic to yeast cells (not shown), we performed these interaction experiments exclusively with the N-terminal half of CPn0809 (aa 1–253), which harbors two predicted coiled-coil domains.
+     </p>
+     <p>
+      Yeast strain AH109 co-expressing CPn0809N-BD and CPn0809N-AD grew on plasmid selective medium as well as low-stringency selective medium (
+      ). Their interaction activates expression of the Y2H reporter gene, albeit not as strongly as in the positive control (pGBKT7-p53 and pGADT7-T). We next tested whether CPn0809 can interact with its chaperone LcrH_1 (
+      ). Again, yeast cells co-expressing both proteins grew on selective media, indicating activation of the Y2H reporter gene by interaction of the proteins. Next, we wanted to confirm the genetic interaction data by means of a biochemical assay. Using Far Western experiments, we were able to confirm the observed interactions of recombinant CPn0809 with itself and with recombinant LcrH_1 via its N-terminal segment, but not with recombinant GST or the recombinant
+      <italic>
+       C
+      </italic>
+      .
+      <italic>
+       pneumoniae
+      </italic>
+      protein CPn0473, a novel chlamydial cell-surface protein (unpublished) (
+      ). Taken together, these data thus showed that CPn0809 is able to interact with the putative T3S-related class II chaperone LcrH_1 and with itself via its N-terminal domain.
+     </p>
+    </sec>
+    <sec id="sec020">
+     <title>
+      Expression of recombinant CPn0809 is toxic for
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+     </title>
+     <p>
+      When we cloned a
+      <italic>
+       his
+      </italic>
+      <sub>
+       <italic>
+        6
+       </italic>
+      </sub>
+      -
+      <italic>
+       cpn0809
+      </italic>
+      full-length construct to produce recombinant protein in the heterologous host
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      for further biochemical studies, we found that the transformed strain could be cultured only if we repressed the basal activity of the
+      <italic>
+       lac
+      </italic>
+      promoter by adding glucose (1%) to the medium. After protein expression was induced, the optical density of the cultures, as well as the number of cells per milliliter, showed no further increase over time, in contrast to cells expressing the N-terminal segment of CPn0809 or the empty vector (
+      ,
+      ) and only small amounts of protein could be detected by immunoblot analysis. These data suggested that expression of CPn0809 in
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      might be harmful to the cells, as in the case of the
+      <italic>
+       Yersinia
+      </italic>
+      major translocator YopB [
+      ].
+     </p>
+     <p>
+      To determine whether CPn0809 has a growth-inhibiting effect, we performed viability assays using propidium iodide (PI), to which living cells are impermeable. Intercalation of PI into DNA in dead cells, on the other hand, gives rise to red fluorescence.
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      was transformed with plasmids expressing either His
+      <sub>
+       6
+      </sub>
+      -CPn0809, His
+      <sub>
+       6
+      </sub>
+      -LcrH_1, or the empty vector control and the cultures were analyzed after incubation for 2 h under inducing conditions (
+      ). Bacteria carrying the empty vector control or the His
+      <sub>
+       6
+      </sub>
+      -LcrH_1 expressing plasmid showed viable normal-sized
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      cells with only a few cells appearing red indicating cell death. In contrast, staining with PI revealed that most cells carrying the His
+      <sub>
+       6
+      </sub>
+      -CPn0809 expression plasmid were inviable, indicating that expression of CPn0809 is indeed toxic to
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      .
+     </p>
+     <p>
+      For the CPn0809 homolog YopB from
+      <italic>
+       Yersinia
+      </italic>
+      it was proposed that the toxic effect of expression in
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      was due to the presence of predicted hydrophobic domains (HD) within protein [
+      ]. Thus, we generated N-terminal (aa 1–253) and C-terminal (aa 406–488) CPn0809 expression clones excluding the HD (see
+      ) and tested them in comparison to the full-length clone in a time-course experiment. Under non-inducing conditions, the growth rates of the three expression cultures were almost identical (
+      ). Upon induction of protein expression, cultures expressing either the N-terminal or the C-terminal part of CPn0809 continued to grow, albeit somewhat more slowly, suggesting a possible cytotoxic effect on
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      growth. However, cell counts performed 2 h post induction of the CPn0809N-expressing culture were indistinguishable from those of cultures inoculated with cells carrying the empty vector control pKM32, thus excluding a cytotoxic effect (
+      ). In contrast, cultures expressing the full-length CPn0809 protein stopped growing, indicating that expression of the chlamydial protein, unlike that of CPn0809N- and CPn0809C, results in complete inhibition of the growth of
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      cells (
+      ,
+      ). To find out whether CPn0809 expression causes growth arrest or actually kills the cells, we spotted cells from cultures after 1 h of protein expression, and cells from non-induced control cultures, in different dilutions on solid medium containing 1% glucose to completely repress protein expression, in order to determine the numbers of colony-forming units left after 1 h of Cpn0809 expression (
+      ). Cells from the three non-induced cultures showed an identical regular growth pattern on plates. In contrast,
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      cells that had been induced to express full-length CPn0809 showed no growth at all when patched on the non-inducing medium, while growth was not restricted in samples harboring the CPn0809N- and CPn0809C-expressing cells.
+     </p>
+     <p>
+      Taken together, our findings show a massive cytotoxic effect of full-length CPn0809 on
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      cells. CPn0809N and CPn0809C do not show a toxic effect when expressed in
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      cells leading us to the assumption that the toxicity of CPn0809 is indeed dependent on the predicted hydrophobic domains and/or on the presence of N- and C-terminus.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec021" sec-type="conclusions">
+    <title>
+     Discussion
+    </title>
+    <p>
+     The Type III secretion system constitutes a highly sophisticated nanomachine with which pathogenic bacteria deliver effector proteins directly into the cytosol of targeted eukaryotic cells. T3S systems thus play an essential role in enabling intracellular parasites to invade, and replicate in, host cells. The translocon is a protein complex composed of three proteins at the tip of the T3SS needle that forms a pore in the plasma membrane of the target cell. The translocon proteins of
+     <italic>
+      Chlamydia
+     </italic>
+     are poorly understood, although the two predicted translocon operons LcrH_1/2 were identified more than a decade ago [
+     ]. On the other hand, several translocons of T3SS have been investigated extensively in other bacteria and show diversity in composition and function, indicating that each translocon is adapted to the specific niche colonized by the pathogen [
+     ,
+     ].
+    </p>
+    <p>
+     In this study, we characterized the putative translocon protein CPn0809, which is encoded within the LcrH_1 operon of
+     <italic>
+      C
+     </italic>
+     .
+     <italic>
+      pneumoniae
+     </italic>
+     [
+     ]. Our bioinformatic analysis indicate that common structural features of major translocon proteins, such as hydrophobic domains surrounded by coiled-coil structures, are present in CPn0809. CPn0809 contains three predicted transmembrane domains (aa 254–275, aa 280–302 and aa 383–405) and three coiled-coil domains (aa 121–140, aa 210–247 and aa 411–436) and their numbers and relative positions within the protein are reminiscent of the domain structure of the major translocators of other bacteria (
+     ). Direct comparison of the full-length sequences of CPn0809 and other major translocator proteins using BLASTp identified moderate homology to the major translocators SipB (identity 29%; homology 52% with a coverage of 38%) encoded in pathogenicity island I of
+     <italic>
+      Salmonella enterica
+     </italic>
+     and IpaB (identity 30%; homology 49% with a coverage of 38%) of
+     <italic>
+      Shigella flexneri
+     </italic>
+     . Additionally, an ‘SseC-like family’ domain was identified in the C-terminal portion of CPn0809 (aa 203–487). SseC domains are found in the major hydrophobic translocator proteins of all bacterial T3SS considered in this study, while most minor hydrophobic translocators lack them (see
+     ). However, an ‘SseC-like family’ domain also occurs in the minor hydrophobic translocator specified by the
+     <italic>
+      C
+     </italic>
+     .
+     <italic>
+      pneumoniae
+     </italic>
+     LcrH_1 operon. Moreover, neither of the hydrophobic translocators encoded by the LcrH_2 operon possesses such a domain, implying that, in this respect,
+     <italic>
+      Chlamydiae
+     </italic>
+     differ from other bacteria. Never the less, both putative translocator proteins encoded by the LcrH_2 operon display the other prominent features of hydrophobic translocon proteins, e.g. hydrophobic domains and coiled-coil domains (not shown). Thus, the proteins encoded by the LcrH_1 and LcrH_2 operons might possibly help secreting different classes of effectors during the infection cycle.
+    </p>
+    <p>
+     By monitoring the expression of CPn0809 throughout the
+     <italic>
+      C
+     </italic>
+     .
+     <italic>
+      pneumoniae
+     </italic>
+     life cycle by means of immunoblot analyses, we found that CPn0809 is readily detectable in the very early stages of infection (0–6 hpi) when the bacteria are still in the EB state. Subcellular localization studies revealed that CPn0809 can be detected on, and is associated with EBs from 0 min pi until 1 hpi. However, only a fraction of DNA signals are associated with a CPn0809 signal and this varies depending on the batch of purified EBs. It is well known that the chlamydial infection cycle does not proceed synchronously, even after prolonged growth [
+     ,
+     ]. This is particularly relevant for
+     <italic>
+      C
+     </italic>
+     .
+     <italic>
+      pneumoniae
+     </italic>
+     , for which it was recently shown by cryo-EM that at 72 hpi, less than 30% of the bacteria within the inclusion are EBs [
+     ]. Thus the majority of chlamydial particles within the chlamydia pool used for infection experiments is non-infectious. Moreover, even the initial infection step does not proceed in a synchronous manner. In order to maximize synchronization, a short, gentle centrifugation step after EB addition is performed. However, this is only partially successful. Furthermore, the EB purification routine involves different experimental steps, and it has been reported that these methods can deleteriously affect components of the T3SS and alter the physiological form of the bacteria by mechanical stress [
+     ]. This point is particularly relevant here, as we believe CPn0809 to be a translocator of the T3SS needle tip. Thus, in conclusion, the fact that the number of infectious
+     <italic>
+      C
+     </italic>
+     .
+     <italic>
+      pneumoniae
+     </italic>
+     particles in the EB pools is low, and the asynchronicity of the infection process, can together account for the small fraction of chlamydial particles with associated CPn0809 signals observed at every time point analyzed.
+    </p>
+    <p>
+     During the differentiation of EBs to RBs and the subsequent replication of the latter, CPn0809 was no longer detectable microscopically. The signal reappeared at 48 hpi, when cell division ceases and the asynchronous re-differentiation of RBs into EBs begins. Thus, immunoblot analysis and immunofluorescence microscopy showed that CPn0809 is a late expressed protein. This is consistent with mRNA transcription data, which suggested that CPn0809 is a “tardily” expressed protein that is stored in the EBs, presumably because its function is required in the earliest stages of the subsequent infection process [
+     ,
+     ].
+    </p>
+    <p>
+     Subcellular localization studies further revealed that, from 48 hpi on, punctate CPn0809 signals appear within the inclusion, and increase in number until the end of the developmental cycle. At no time point examined was CPn0809 secreted into the cytosol of the host cell. Thus, our study offers no support for the contention that CPn0809 is localized in the inclusion
+     <italic>
+      and
+     </italic>
+     in the surrounding host cell cytosol [
+     ]. Interestingly, the minor hydrophobic translocator CPn0808 of
+     <italic>
+      C
+     </italic>
+     .
+     <italic>
+      pneumoniae
+     </italic>
+     TW183 also localizes within the inclusion and is not secreted into the inclusion membrane or the host-cell cytosol [
+     ]. Additionally, the CPn0808 expression pattern resembles that of CPn0809 [
+     ]. Interestingly, the localization pattern observed for CPn0809 differs from that reported for its
+     <italic>
+      C
+     </italic>
+     .
+     <italic>
+      trachomatis
+     </italic>
+     homolog CopB, which was found to be associated with the inclusion membrane at 20 hpi [
+     ]. These differences may point to species-specific functional differentiation of CPn0809/CopB.
+    </p>
+    <p>
+     Interestingly, our analyses show that CPn0809 is associated with infectious EBs and that a fraction of it can be readily detached from infectious EBs (
+     ). Because the hydrophobic translocators are in most cases not secreted until contact is established with the potential target cell [
+     ], this leads to the suggestion that some CPn0809 might be preloaded into the T3S needle, and ready for secretion upon detection of host-cell contact within the first minutes of infection. In addition, CPn0809 signals are associated with the chlamydial LPS during adhesion and internalization. Thus CPn0809 could participate in translocation pore formation during attachment and might be important for the secretion of early effector proteins such as TARP, which is an important prerequisite for EB uptake, as it re-organizes the actin cytoskeleton.
+    </p>
+    <p>
+     For its predicted function as a translocation-pore protein it is crucial that CPn0809 be able to form homo- and/or hetero-oligomers. Importantly, we found that the N-terminal part of CPn0809 (aa 1–253) alone mediates both self-interaction and interaction with its proposed chaperone LcrH_1
+     <italic>
+      in vivo
+     </italic>
+     and
+     <italic>
+      in vitro
+     </italic>
+     , as is true of well characterized major translocators in other bacteria [
+     –
+     ,
+     ]. Interaction with their chaperone is an essential characteristic of both hydrophobic translocators. Binding of the chaperone keeps the translocators unfolded, protects them from degradation and prevents premature oligomerization, which is toxic for bacterial cells [
+     ,
+     ,
+     ]. Following secretion, the translocon proteins form oligomers to build up the translocon within the plasma membrane of the targeted cell. Other translocon proteins are also capable of assembling into homo-oligomers [
+     ].
+    </p>
+    <p>
+     Finally, we analyzed the growth-inhibiting effect of CPn0809 in
+     <italic>
+      E
+     </italic>
+     .
+     <italic>
+      coli
+     </italic>
+     in more detail, and found that while expression of the CPn0809 full-length protein leads to cell death, synthesis of CPn0809N or CPn0809C, both of which lack the hydrophobic domains, does not. This implies that the transmembrane domains and/or the N- and C-terminal domains together are responsible for the growth inhibition phenotype observed here. For other translocon proteins it has been shown that heterologous expression in
+     <italic>
+      E
+     </italic>
+     .
+     <italic>
+      coli
+     </italic>
+     leads to cell lysis, which is also dependent on the presence of the transmembrane domains [
+     ]. Transmembrane domains play a crucial role in anchoring proteins into membranes. The CPn0809 fragments used here lack predicted transmembrane domains, are probably not inserted into membranes and are thus unable to form pores. Induction of heterologous expression of other chlamydial proteins that are capable of pore formation, such as MOMP and Pom proteins, also provokes a drop in optical density in
+     <italic>
+      E
+     </italic>
+     .
+     <italic>
+      coli
+     </italic>
+     expression culture, implying cell lysis [
+     ,
+     ]. One could speculate that, in our case, the amount of CPn0809 protein produced upon induction of expression is too low to induce cell lysis, but results in cell death.
+    </p>
+    <p>
+     Recently, the Mahony group demonstrated that the minor translocator of
+     <italic>
+      C
+     </italic>
+     .
+     <italic>
+      pneumoniae
+     </italic>
+     , CPn0808 (now re-named CopD), displays characteristics which are compatible with the assumption that it acts as one of the
+     <italic>
+      C
+     </italic>
+     .
+     <italic>
+      pneumoniae
+     </italic>
+     translocators [
+     ]. They identified the CopD chaperone interaction motif PxLxxP (aa 120–125), which is essential for binding of LcrH_1. A similar motif was found in CPn0809 (aa 166–171) [
+     ], which lies within the N-terminal domain of CPn0809 examined in our yeast two-hybrid analysis. Furthermore, it was shown that CopD also forms oligomers in solution. In future studies, it would be interesting to analyze the interaction between
+     <italic>
+      C
+     </italic>
+     .
+     <italic>
+      pneumoniae
+     </italic>
+     CPn0809 and CopD in more detail.
+    </p>
+    <p>
+     Interestingly, CopD is essential for infection, as it has been reported that treatment of EBs with an anti-CopD peptide antibody prior to infection reduces infection by up to 98% [
+     ]. This strong neutralization phenotype suggests the presence of CopD at the T3SS needle tip of infectious EBs, a location that is uncommon for hydrophobic translocators prior to host-cell contact [
+     ]. Thus far, only one example has been reported of a hydrophobic translocator that is already present at the tip of the T3SS needle prior to contact with the host cell: The
+     <italic>
+      Shigella
+     </italic>
+     IpaB protein, which together with the hydrophilic IpaD forms the tip complex and is assumed to be involved in host cell sensing [
+     ]. The accessibility of CopD to antibodies and their subsequent inhibitory effect on the infection seem to be specific for this chlamydial protein, as CPn0809 could not be detected on the EB surface during the first minutes of infection, in the absence of permeabilization. However, we cannot exclude the possibility that our antibody, which was raised against the N-terminal 253 amino acids, detects an epitope that is not exposed prior to insertion into the host cell membrane and is therefore not accessible on purified EBs.
+    </p>
+    <p>
+     In summary, in this report we show that CPn0809 exhibits key features of T3SS translocator proteins. Our data provide strong evidence that support the previously proposed function of CPn0809 as a translocon protein of the T3S apparatus of
+     <italic>
+      Chlamydia pneumoniae
+     </italic>
+     . Consequently, we recommend that CPn0809 be renamed CopB by analogy to the major translocator protein of
+     <italic>
+      Yersinia
+     </italic>
+     YopB, as initially proposed [
+     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec022" sec-type="supplementary-material">
+    <title>
+     Supporting Information
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

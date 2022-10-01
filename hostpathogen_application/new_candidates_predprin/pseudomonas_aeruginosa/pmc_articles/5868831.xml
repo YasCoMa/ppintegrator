@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Enhanced differentiation of human pluripotent stem cells into cardiomyocytes by bacteria-mediated transcription factors delivery
+ </title>
+ <abstract>
+  <p>
+   Virus-mediated expression of defined transcription factor (TF) genes can effectively induce cellular reprogramming. However, sustained expression of the TFs often hinders pluripotent stem cell (PSC) differentiation into specific cell types, as each TF exerts its effect on PSCs for a defined period of time during differentiation. Here, we applied a bacterial type III secretion system (T3SS)-based protein delivery tool to directly translocate TFs in the form of protein into human PSCs. This transient protein delivery technique showed high delivery efficiency for hPSCs, and it avoids potential genetic alterations caused by the introduction of transgenes. In an established cardiomyocyte
+   <italic>
+    de novo
+   </italic>
+   differentiation procedure, five transcriptional factors, namely GATA4, MEF2C, TBX5, ESRRG and MESP1 (abbreviated as GMTEM), were translocated at various time points. By detecting the expression of cardiac marker genes (
+   <italic>
+    Nkx2
+   </italic>
+   .
+   <italic>
+    5
+   </italic>
+   and
+   <italic>
+    cTnT
+   </italic>
+   ), we found that GMTEM proteins delivered on mesoderm stage of the cardiomyocytes lineage differentiation significantly enhanced both the human ESC and iPSC differentiation into cardiomyocytes, while earlier or later delivery diminished the enhancing effect. Furthermore, all of the five factors were required to enhance the cardiac differentiation. This work provides a virus-free strategy of transient transcription factors delivery for directing human stem cell fate without jeopardizing genome integrity, thus safe for biomedical applications.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="sec001" sec-type="intro">
+    <title>
+     Introduction
+    </title>
+    <p>
+     Cardiovascular disease is a leading cause of human death worldwide [
+     ,
+     ]. The limited capability of heart tissue to regenerate has prompted the development of methodologies to generate cardiomyocytes (CMs), both
+     <italic>
+      in vitro
+     </italic>
+     and
+     <italic>
+      in vivo
+     </italic>
+     [
+     ]. Human pluripotent stem cells (hPSCs), including embryonic stem cells (ESCs) and induced pluripotent stem cells (iPSCs), have nearly unlimited self-renewal capability and have the ability to differentiate into all cell types of the human body in principle [
+     ]. These features make PSCs attractive as the source for large-scale production of CMs
+     <italic>
+      in vitro
+     </italic>
+     . Furthermore, patient-specific cardiomyocytes can not only be used in cell replacement therapy, it may also find applications in pharmaceutical drug testing and disease modeling for pathological studies.
+    </p>
+    <p>
+     With the advent of iPSCs generated a decade ago, transcription factors (TF) showed their powerful capability to direct cell fate [
+     –
+     ]. Currently, virus-mediated transfection or called viral transduction, such as adenovirus, lentivirus, retrovirus and sendai virus, are widely used for forced expression of TFs in eukaryotic cells [
+     –
+     ]. These DNA-based approaches, however, pose the potential for insertional-/recombination-mediated chromosomal disruptions and often result in incomplete silencing of exogenous gene expression, thus the cells derived by these methods have limited clinical applicability [
+     ,
+     ]. Here, we employed a transient protein delivery tool, bacterial type III secretion system (T3SS), to translocate TFs in the form of protein directly inside mammalian cells. The T3SS is encoded by certain Gram-negative bacteria, forming a nanosyringe-like structure on the bacterial surfaces [
+     ]. Bacterial pathogens utilize the T3SS to inject (translocate) virulence proteins into eukaryotic host cells, which facilitate the survival and reproduction of the bacterial cells inside the host environment [
+     ]. All T3S-dependant effectors harbor a short N-terminal secretion signal which binds to chaperones that stabilize them inside the bacterial cells, facilitating their interaction with secretion machinery for secretion [
+     ,
+     ]. This process of secretion is powered by the ATPase associated with the type III secretion machinery inside the bacterial cells [
+     ].
+    </p>
+    <p>
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     is a well-studied opportunistic human pathogen which injects proteinous exotoxins (ExoS, ExoT, ExoY, and ExoU) directly into host cells via the T3SS [
+     ,
+     ]. Since this naturally occurring protein injection machinery does not involve bacteria entering the host cells, attenuated
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     strain is ideal for the expression and delivery of exogenous TFs via its T3SS. By fusing with the T3SS secretion signal (N-terminal 54 amino acids) of ExoS, many functional proteins, such as nucleases, tumor-associated antigens and transcription factor, have been successfully delivered into various mammalian cells [
+     –
+     ]. Recently, a study of human cardiomyocyte reprogramming has demonstrated that five transcriptional factors, GATA4, MEF2C, TBX5, ESRRG and MESP1 (abbreviated as GMTEM), were required for cardiac gene-expression and phenotypic shifts from human fibroblasts [
+     ]. However, fibroblasts are not a proper source for large-scale production of cardiomyocytes owing to theirs limit proliferation capacity when cultured
+     <italic>
+      in vitro
+     </italic>
+     . In this study, the GMTEM transcription factor cocktail was delivered inside hPSC-derived cells via the bacterial T3SS and a significant enhancement of the
+     <italic>
+      de novo
+     </italic>
+     cardiomyocytes differentiation from human PSCs has been observed, paving the ground for the future application of the T3SS mediated TF delivery technology for various biomedical applications.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec002" sec-type="materials|methods">
+    <title>
+     Materials and methods
+    </title>
+    <sec id="sec003">
+     <title>
+      Bacterial strains and plasmids
+     </title>
+     <p>
+      The bacterial strains and plasmids used in the present study are listed in
+      . All
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      strains were grown in Luria broth (LB) or on L-agar (LA) plates at 37°C. Carbenicillin was used at a final concentration of 150 μg per mL to maintain selection for the plasmid.
+     </p>
+    </sec>
+    <sec id="sec004">
+     <title>
+      Generation of transcription factors delivery constructs
+     </title>
+     <p>
+      An expression vector, pExoS
+      <sub>
+       54
+      </sub>
+      F, contains the promoter of T3SS effector ExoS and its N-terminal 54 amino acids of ExoS (ExoS
+      <sub>
+       54
+      </sub>
+      ), followed by a Flag-tag in the multiple cloning site (MCS) of
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli-Pseudomonas
+      </italic>
+      shuttle vector pUCP19 (
+      ). Five human transcriptional factor genes,
+      <italic>
+       gata4
+      </italic>
+      ,
+      <italic>
+       mef2c
+      </italic>
+      ,
+      <italic>
+       tbx5
+      </italic>
+      ,
+      <italic>
+       esrrg
+      </italic>
+      , and
+      <italic>
+       mesp1
+      </italic>
+      were each cloned into the pExoS
+      <sub>
+       54
+      </sub>
+      F following PCR amplification and restriction enzyme digests, generating in-frame fusions behind the ExoS
+      <sub>
+       54
+      </sub>
+      -Flag fragment, resulting in pExoS
+      <sub>
+       54
+      </sub>
+      F-GATA4, pExoS
+      <sub>
+       54
+      </sub>
+      F-MEF2c, pExoS
+      <sub>
+       54
+      </sub>
+      F-TBX5, pExoS
+      <sub>
+       54
+      </sub>
+      F-ESRRG, and pExoS
+      <sub>
+       54
+      </sub>
+      F-MESP1, respectively.
+     </p>
+    </sec>
+    <sec id="sec005">
+     <title>
+      Cell culture and cardiomyocyte differentiation
+     </title>
+     <p>
+      A human ESC line (RUES2) and a human iPSC line (iPS-3) were grown on Vitronectin coated plates (Life Technologies, Carlsbad, CA) in Essential 8 medium (Life Technologies) and passaged after dissociation by 0.5 mM EDTA (Life Technologies). The hESC RUES2 was purchased from WiCell Research Institute (Madison, WI,
+      <ext-link ext-link-type="uri" ns0:href="http://www.wicell.org">
+       http://www.wicell.org
+      </ext-link>
+      ); and iPS-3 was generated from foreskin fibroblasts of a healthy individual (catalog no. CRL-2522; American Type Culture Collection, Manassas, VA,
+      <ext-link ext-link-type="uri" ns0:href="http://www.atcc.org">
+       http://www.atcc.org
+      </ext-link>
+      ) using Sendai virus SsVdp(KOSM)302L kindly provided by Dr. Mahito Nakanish in accordance with a published protocol [
+      ]. The iPS-3 was generated under an approved University of Florida Environmental Health and Safety biosafety approval number RD-3933. All PSCs were cultured at 37°C with 5% CO
+      <sub>
+       2
+      </sub>
+      . Ciprofloxacin was used at a final concentration of 20 μg/mL to clear the
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      cells. Human PSC-derived cardiomyocytes were generated following the protocol as described previously [
+      ]. In brief, Essential 8 medium was replaced with RPMI-B27 medium (Invitrogen) supplemented with the following cytokines: 100 ng/mL human recombinant activin A (R&amp;D Systems) for 24 h, followed by 10 ng/mL human recombinant BMP4 (R&amp;D Systems) for 4 days. The medium was then changed for RPMI-B27 without supplementary cytokines; cultures were refed every 2 days for 2–3 additional weeks. Widespread spontaneous contraction was typically observed by day-14.
+     </p>
+    </sec>
+    <sec id="sec006">
+     <title>
+      Cytotoxicity assays
+     </title>
+     <p>
+      Human ESCs was co-cultured with
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      strains for various period of time at indicated multiplicity of infection (MOI). After the co-culture, 50-μL cell culture supernatant per sample was used for lactate dehydrogenase (LDH) release assay by CytoTox96 (Promega) following the manufacturer’s instruction. For crystal violet staining, bacteria and floating PSCs were removed by washing three times in phosphate-buffered saline (PBS) and adhered cells were stained with 0.25% crystal violet.
+     </p>
+    </sec>
+    <sec id="sec007">
+     <title>
+      Protein translocation assay
+     </title>
+     <p>
+      Human ES cells were seeded at approximately 70–80% confluence in antibiotic-free medium.
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      strains were grown at 37°C in Luria broth containing carbenicillin until reaching an optical density (OD
+      <sub>
+       600
+      </sub>
+      ) of 0.8. hESCs were co-cultured with bacteria at an MOI of 30 or 150 for 3 hours. Co-culture was terminated by washing cells 3 times with PBS to remove the vast majority of bacterial cells. For Western Blot analysis, cells were collected by digestion with TrypLE (Gibco) and centrifuged at 200 × g for 5 min. For continuing the culture, cells were grown on Essential 8 medium containing 20 μg per mL ciprofloxacin to eliminate the residual
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      cells.
+     </p>
+    </sec>
+    <sec id="sec008">
+     <title>
+      Western blot assay
+     </title>
+     <p>
+      For Western blot analysis of the injected proteins, the cells were collected right after bacterial infection (see above). The cell pellets were lysed with 40 μL PBS containing 0.2% Triton-X (bacterial cells do not get lysed) on ice for 10 minutes. The nuclear protein extracts were prepared using an extraction kit from Beyotime Biotechnology (Shanghai, China) and followed the manufacturer’s instruction. The soluble fraction was collected, mixed with an equal volume of 2 × sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE) loading buffer and boiled for 15 minutes. Protein samples were separated on 4–20% gradient SDS-PAGE gels (Bio-Rad), transferred onto polyvinylidene fluoride (PVDF) membrane, and then probed with anti-Flag antibody (mouse M2 monoclonal Ab; Sigma) for translocated fusion proteins and anti-β-Actin (Santa Cruz) for internal control.
+     </p>
+    </sec>
+    <sec id="sec009">
+     <title>
+      Immunocytochemistry
+     </title>
+     <p>
+      For ExoS
+      <sub>
+       54
+      </sub>
+      -Flag-TFs fusion staining, the hESCs were co-incubated with indicated bacterial strains for 3 h. The infection was stopped by washing cells with PBS, then the hES cells were treated with 20 μg per mL ciprofloxacin for another 1–2 h, then fixed for immunostaining. For cardiomyocyte-specific protein staining, the hESC-CMs on differentiation day-14 were used to conduct the
+      <italic>
+       in situ
+      </italic>
+      staining. Cells were fixed with 4% paraformaldehyde in PBS for 20 min at room temperature, then permeabilized with 0.1–0.2% Triton X-100 in PBS and blocked with 10% goat serum in PBST (1 × PBS with 0.05% Triton X-100) for 1 h. Cells were incubated with primary anti-Flag monoclonal antibody (Sigma) diluted 1:1000 or anti-α-actinin (Sarcomeric) monoclonal antibody (Sigma) diluted 1:800, for 2 hours at room temperature, then washed 3 times in PBST. Cells were then incubated with secondary antibody (Alexa Flour 488-conjugated anti-mouse IgG, 1:200) for 1 hour at room temperature, washed with PBST for 3–4 times, then mounted and stained nucleus with DAPI and examined under fluorescence microscope.
+     </p>
+    </sec>
+    <sec id="sec010">
+     <title>
+      Flow cytometry
+     </title>
+     <p>
+      Single cells of hPSC-CM culture were dissociated on day-14 using TrypLE (Gibco) and fixed with 4% paraformaldehyde (Sigma-Aldrich) for 20 min at room temperature. Cells were permeabilized in 0.1% saponin/PSB solution and stained with anti-Flag antibody (Sigma), or anti-troponin T cardiac isoform monoclonal antibody (Thermofisher) labeled with Alexa-488 using Zenon technology (Molecular Probes/Invitrogen). Stained cells were analyzed on a FACS Calibur flow cytometer (BD-Biosciences).
+     </p>
+    </sec>
+    <sec id="sec011">
+     <title>
+      Quantitative real-time PCR
+     </title>
+     <p>
+      Total RNA was isolated from PSCs-derived cells collected on day-14 of differentiation protocol with the use of the RNeasy mini kit (Qiagen). DNAse I (Turbo DNA-free, Ambion) was used to eliminate contaminating genomic DNA. The first-strand cDNA was synthesized with High Capacity cDNA Reverse Transcriptase Kit (Applied Biosystems). The Power SYBR Green PCR Master Mix (Applied Biosystems) was used to perform real-time PCR reaction, according to the manufacturer’s instructions. Data were analyzed using the 2
+      method [
+      ], using a stable reference gene (
+      <italic>
+       gapdh
+      </italic>
+      ) as the normalization control. The fold changes in mRNA expression were relative to the hPSC-derived cells (day-14) without bacterial infection.
+     </p>
+    </sec>
+    <sec id="sec012">
+     <title>
+      Statistical analysis
+     </title>
+     <p>
+      Statistical analysis was carried out using GraphPad Prism software. Data were presented as the mean of the biological replicates and error bars represented standard deviations. Student’s
+      <italic>
+       t
+      </italic>
+      -test (two-tailed) was performed to assess the statistical significance of the data analysis.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec013" sec-type="results">
+    <title>
+     Results
+    </title>
+    <sec id="sec014">
+     <title>
+      Cytotoxicity of attenuated
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      strain
+     </title>
+     <p>
+      To use
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      as a protein delivery vehicle on hPSCs, the bacterial virulence needs to be minimized. Total 8 genes implicated in the bacterial cytotoxicity were deleted from the
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      PAK-J, resulting in an attenuated strain Δ8 (
+      ). To assess the cytotoxicity of this strain on human PSCs, human ES cell line RUES2 was infected by the Δ8 at various MOI for different length of time and the lactate dehydrogenase (LDH) released from hESCs was detected. As the results shown in
+      , the bacterial cytotoxicity increased gradually along with the increase of MOI or co-culture time. Comparing with uninfected control, Δ8 showed no significant cytotoxicity within 3 h of co-culture, while the wild-type strain PAK-J showed significant cytotoxicity at MOI as low as 10 for 3 h. Furthermore, the viable hES cells that remain adhered to tissue culture plates after 3 h of co-culture at MOI of 150 were stained with crystal violet (
+      ). The hESCs remained adhered to the plate following co-incubation with strain Δ8, whereas co-incubation with the wild-type strain PAK-J resulted in a complete loss of the adhering cells.
+     </p>
+    </sec>
+    <sec id="sec015">
+     <title>
+      T3SS mediated delivery of transcription factors into hESCs
+     </title>
+     <p>
+      Experimental data from the above studies demonstrated that the engineered
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      Δ8 strain has no detectable cytotoxicity to hESCs within 3 hours of co-culture at MOI≤150. Next, we tested if the delivery of transcription factors can be achieved within 3 hours by using the Δ8 strain. Genes encoding transcriptional factors GATA4, MEF2c, TBX5, ESRRG and MESP1 were each cloned into an expression vector pExoS
+      <sub>
+       54
+      </sub>
+      F, generating in-frame fusions behind the T3SS secretion signal ExoS
+      <sub>
+       54
+      </sub>
+      and with a Flag-tag in the middle (
+      ). The resulting expression vectors pExoS
+      <sub>
+       54
+      </sub>
+      F-GATA4, pExoS
+      <sub>
+       54
+      </sub>
+      F-MEF2c, pExoS
+      <sub>
+       54
+      </sub>
+      F-TBX5, pExoS
+      <sub>
+       54
+      </sub>
+      F-ESRRG and pExoS
+      <sub>
+       54
+      </sub>
+      F-MESP1 (
+      ) were each introduced into the Δ8 strain as well as a T3SS deficient strain Δ
+      <italic>
+       exsA
+      </italic>
+      by electroporation. The resulting strains were then individually co-cultured with hESCs at an MOI of 30 or 150 for 3 hours. Free-floating bacterial cells were subsequently removed by successive washes with PBS, and the hESCs were examined for intracellular fusion proteins by both Western blot and immunohistochemistry using anti-Flag antibody. As the results shown in
+      , all of the TF fusion proteins could be translocated into hESCs by the Δ8 strain in a dose-dependent manner, as higher level of intracellular fusion proteins were observed when the MOI increased from 30 to 150; while T3SS deficient strain Δ
+      <italic>
+       exsA
+      </italic>
+      failed to deliver the TFs into the hESCs, indicating that the TF delivery was T3SS dependent and the delivery amounts can be fine-tuned by MOI. The fluorescence-assisted cell sorting (FACS) assay of hESCs showed that the efficiency of T3SS-mediated TFs delivery was &gt; 90% at an MOI of 30 for 3 hours (
+      ). The above results demonstrate that
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      strain Δ8 is competent for high-efficiency TFs delivery into hESCs with negligible cytotoxicity.
+     </p>
+     <p>
+      Following 3 h of co-culture with Δ8 at MOI 150, the majority of the bacterial cells (~95%) can easily be removed by a washing step, leaving about 5% of the residual bacterial cells remain attached to the ES cells (
+      ). To eliminate the residual bacterial cells thoroughly, the hES cells were sub-cultured in medium containing ciprofloxacin which is a potent antibiotic against
+      <italic>
+       P
+      </italic>
+      .
+      <italic>
+       aeruginosa
+      </italic>
+      . hESCs were scraped off from the plate at various time points and viable bacterial cells were enumerated by plating on L-agar medium. The number of viable bacterial cells rapidly decreased in the ciprofloxacin-treated hESC samples, with no detectable bacterial cells by 4 hours of the antibiotic treatment (
+      ).
+     </p>
+    </sec>
+    <sec id="sec016">
+     <title>
+      Optimal time point for TFs delivery during cardiomyocyte differentiation
+     </title>
+     <p>
+      To examine whether GMTEM can exert their cardiomyogenic effect in
+      <italic>
+       de novo
+      </italic>
+      human cardiomyocytes differentiation, we delivered GMTEM to a feeder-free hESC monolayer for differentiation, following a protocol described by Laflamme
+      <italic>
+       et al
+      </italic>
+      . [
+      ]. Briefly, a 70–80% confluence human ESC culture was first treated with a high dose of activin A in a BPMI-B27 medium for 24 h, followed by 4 days of treatment with bone morphogenetic protein 4 (BMP4) to induce mesodermal cells. Then, the cells were cultured in BPMI-B27 medium without any supplementary factor and contracting cardiomyocytes are typically observable by day-14 (
+      ). This robust protocol resulted in consistent cardiomyocyte differentiation efficiency (20–30%) that is low enough to address the contribution of GMTEM to the differentiation process.
+     </p>
+     <p>
+      The GMTEM five factors were delivered once with MOI = 30 per strain (total MOI of 150) from day-1 to day-8 during the above cardiomyocyte differentiation process. On day-14, total RNA of the hESC-CMs was extracted and the expression levels of cardiac marker genes
+      <italic>
+       Nkx2
+      </italic>
+      .
+      <italic>
+       5
+      </italic>
+      and
+      <italic>
+       cTnT
+      </italic>
+      were determined by quantitative real-time PCR (qRT-PCR). As shown in
+      , comparing to the cells infected by strain Δ8 without any expression vector (vehicle), GMTEM delivery on the first 3 days of differentiation showed no promoting effect on the
+      <italic>
+       Nkx2
+      </italic>
+      .
+      <italic>
+       5
+      </italic>
+      and
+      <italic>
+       cTnT
+      </italic>
+      gene expression; GMTEM injection on day 5 to 6 resulted in the most significant increase of both
+      <italic>
+       Nkx2
+      </italic>
+      .
+      <italic>
+       5
+      </italic>
+      and
+      <italic>
+       cTnT
+      </italic>
+      expression levels; nevertheless, after this time window, GMTEM showed incompetent in upregulating the expression of
+      <italic>
+       Nkx2
+      </italic>
+      .
+      <italic>
+       5
+      </italic>
+      and
+      <italic>
+       cTnT
+      </italic>
+      . Accordingly, day-5 was chosen as the optimal GMTEM delivery time point for the most effective promotion of cardiomyocyte-like cells differentiation. At this day, all of the five factors were required for the enhanced cardiac differentiation, withdraw of any one factor resulted in a loss of the promotion (
+      ). The expression of mesodermal marker
+      <italic>
+       brachyury
+      </italic>
+      during hESCs-CMs differentiation was also determined by qRT-PCR and immunocytochemistry. As shown in
+      , hESCs derived cells showed the highest
+      <italic>
+       brachyury
+      </italic>
+      expression level on day-5 of the differentiation protocol. Indeed, most hESC derived cells expressed detectable Brachyury in the nucleus on day-5 (
+      ). These results demonstrated that GMTEM exert their effects most optimally on mesodermal cells for cardiac specification.
+     </p>
+    </sec>
+    <sec id="sec017">
+     <title>
+      GMTEM promote hESCs differentiation into cardiomyocytes
+     </title>
+     <p>
+      We delivered GMTEM together into hESC derived mesodermal cells by bacterial T3SS. After 14 days of differentiation, the hESC-CMs displayed spontaneous rhythmic contractile movements (
+      ). The cTNT positive cell population was determined by FACS, average 21% of the cTnT
+      cells appeared in the uninfected control, while GMTEM delivery on day-5 resulted in average 55% of cTnT
+      cells (
+      ). We also analyzed the cardiac marker protein expression of sarcomeric α-actinin using immunocytochemistry and observed that the proportion of actinin positive cells was obviously higher in the GMTEM induced culture than that of uninfected control, and the hESC-CMs were revealed of well-organized cross-striations (
+      ). Using qRT-PCR analysis, we evaluate the effect of exogenous GMTEM delivery on the expression of selected cardiac genes in hESC-CMs (
+      ). The gene expression of the sarcomeric proteins MHCα (
+      <italic>
+       MYH6
+      </italic>
+      ) and MLC2a (
+      <italic>
+       MYL7
+      </italic>
+      ), the transcription factor TBX20, the ion channel proteins Nav1.5 (
+      <italic>
+       SCN5A
+      </italic>
+      ) and CX40 (
+      <italic>
+       GJA5
+      </italic>
+      ) was significantly higher in the GMTEM delivered group. These results demonstrated that transient GMTEM proteins delivery induced cardiac gene-expression and enhanced the hESC-CMs differentiation.
+     </p>
+    </sec>
+    <sec id="sec018">
+     <title>
+      GMTEM promote hiPSCs differentiation into cardiomyocytes
+     </title>
+     <p>
+      The breakthroughs in the field of iPS cell technology enlisted human iPSCs as an additional source for
+      <italic>
+       in vitro
+      </italic>
+      differentiated cardiomyocytes, sharing similarities with their hESC-derived counterparts [
+      ,
+      ]. Moreover, patient-specific iPSCs can faithfully recapitulate disease phenotypes
+      <italic>
+       in vitro
+      </italic>
+      when differentiated into disease-relevant cell types, opening the doors for its use in disease modeling and drug discovery [
+      ]. Here, we asked if a combined delivery of the GMTEM could also enhance the efficiency of human iPSC-CMs differentiation. Using the same differentiation procedure as described above for the hESC-CMs, GMTEM were delivered on day-5 using bacterial T3SS. After 14 days of differentiation, the hiPSC-CMs culture displayed widespread spontaneous contraction (
+      ). Average 34% of the cTnT
+      cells appeared in the uninfected control, while GMTEM delivery resulted in average 62% of cTnT
+      cells (
+      ). Immunocytochemistry demonstrated that the proportion of sarcomeric α-actinin positive cells was higher in the GMTEM induced cultures, and the hiPSC-CMs were also revealed of well-organized cross-striations (
+      ). Meanwhile, GMTEM delivery leads to significant increase in the expression of cardiac-specific markers cTnT, MHCα, MLC2a, NKx2.5, TBX20, Nav1.5 and CX40 (
+      ). All of these data clearly indicated that GMTEM cocktail effectively enhances the iPSC-CMs differentiation.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec019" sec-type="conclusions">
+    <title>
+     Discussion
+    </title>
+    <p>
+     In this study, we demonstrated that a bacterial type III secretion system (T3SS)-mediated protein delivery method could be utilized to deliver TFs into human PSCs to promote cardiomyocytes differentiation. By expressing in-frame fusions of T3SS secretion signal ExoS
+     <sub>
+      54
+     </sub>
+     and TF genes inside
+     <italic>
+      P
+     </italic>
+     .
+     <italic>
+      aeruginosa
+     </italic>
+     cells, TF proteins could effectively be translocated into host cell cytosol when bacteria make contact with PSCs, a condition known to activate T3SS. The translocated TFs are targeted to nucleus with their own nuclear localization signals [
+     ] and exert their biological functions (
+     ). Using this protein delivery method, TFs could efficiently be injected into the PSCs directly, avoiding the introduction of foreign genetic materials. Also, due to the simplicity of manipulation and limited intracellular half-lives of the injected proteins, TFs can be delivered for a desired period of time with variable doses, therefore, it is suitable for large-scale preparation of cardiomyocytes.
+    </p>
+    <p>
+     Using the T3SS based protein injection tool, five transcriptional factors relevant to heart development, GATA4, MEF2C, TBX5, ESRRG, and MESP1, were injected into hPSC derived cells and observed an enhanced cardiomyocytes differentiation. Interestingly, our data showed that GMTEM delivery on a narrow time window of day-5 to 6 can significantly upregulate the cardiac marker genes expression and improve the ultimate differentiation of hPSC-CMs. As the expression of mesodermal marker gene
+     <italic>
+      brachyury
+     </italic>
+     peaked at day-5, our results indicated that GMTEM delivery right after the mesodermal induction stage enhanced the cardiomyocyte differentiation, while earlier or later delivery diminished the enhancing effect. One explanation of this time-dependent event might be that the dynamic chromatin remodeling on specific loci plays an important role during pluripotent cells differentiation. Mammalian DNA is highly compacted into chromatin which must be locally remodeled to permit transcription [
+     ]. At its essence, cell type-specific transcription is achieved through the selective remodeling of chromatin at discrete loci to allow the productive engagement of polymerase II. During the PSC differentiation in this study, the GMTEM’s target loci are likely transiently remodeled to permit transcription and permissive for a cardiac lineage-specific commitment on day-5 to 6, while they are inaccessible outside of this narrow time window.
+    </p>
+    <p>
+     The recent application of genome-wide techniques to human ESCs has started to shed light on the epigenetic dynamics that regulate ‘‘localized” chromatin remodeling and accessibility to transcription factors in different cell types, including cardiomyocytes [
+     ,
+     ]. Of note, a cardiac-specific subunit of BAF chromatin-remodeling complexes, BAF60c (also called SMARCD3), was described to directly interact with cardiac transcriptional activators [
+     ] and involved in regulation of mesodermal lineage commitment [
+     ]. The cardiogenic role of BAF60c depends on an interaction with cardiac transcription factor GATA4 and a supporting role of Tbx5 [
+     ]. Together, these factors promote differentiation of early mouse mesoderm into heart [
+     ], suggesting the ability to direct uncommitted mesoderm to the cardiac fate. In the future, T3SS-based protein delivery system could be used to deliver BAF60c together with the minimal set of TFs during PSC differentiation to enhance the cardiomyocytes differentiation.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec020" sec-type="conclusions">
+    <title>
+     Conclusions
+    </title>
+    <p>
+     Here, we have utilized bacterial type III secretion system (T3SS) to deliver transcription factors in the form of protein directly into human PSCs. The delivery efficiencies of transcription factors were &gt; 90% in a short infection time (3 hours). Simple antibiotic treatment could completely eliminate the residual bacterial delivery strain. Delivery of five transcriptional factor cocktail (GATA4, MEF2c, TBX5, ESRRG, and MESP1) relevant to early heart development was shown to promote both the human ESC and iPSC differentiation into functional cardiomyocytes. Of interest, a specific narrow window of time (day-5 to 6 of differentiation protocol) is required for the maximal effect of the delivered transcriptional factors. We expect that this efficient and transgene-free transcription factor delivery approach is applicable to a variety of other cell differentiation and reprogramming procedures.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec021" sec-type="supplementary-material">
+    <title>
+     Supporting information
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

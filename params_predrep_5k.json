@@ -1,0 +1,15 @@
+{
+	"name": "Protein interaction prediction for 6 organisms with 5k pairs each",
+	"description": "The main goal of this experiment is evaluate the PredRep workflow against large data from 6 different species.",
+	"owner": "Yasmmin",
+	"email": "yasmmin.c.martins@gmail.com",
+	"datasets": [
+		{ "organism": "Arabidopsis Thaliana", "name": "predrep_thaliana", "prefix": "random_ds_5000_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/predrep/a_thaliana/", "description": "5k pairs, 50% from HINT and String with 800 to 1000 as confidence score and 50% from string from 100 to 200 as confidence score for a_thaliana" },
+		{ "organism": "Caenorhabditis Elegans", "name": "predrep_elegans", "prefix": "random_ds_5000_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/predrep/c_elegans/", "description": "5k pairs, 50% from HINT and String with 800 to 1000 as confidence score and 50% from string from 100 to 200 as confidence score for c_elegans" },
+		{ "organism": "Drosophila Melanogaster", "name": "predrep_melanogaster", "prefix": "random_ds_5000_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/predrep/d_melanogaster/", "description": "5k pairs, 50% from HINT and String with 800 to 1000 as confidence score and 50% from string from 100 to 200 as confidence score for d_melanogaster" },
+		{ "organism": "Escherichia Coli", "name": "predrep_coli", "prefix": "random_ds_5000_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/predrep/e_coli/", "description": "5k pairs, 50% from HINT and String with 800 to 1000 as confidence score and 50% from string from 100 to 200 as confidence score for e_coli" },
+		{ "organism": "Homo Sapiens", "name": "predrep_sapiens", "prefix": "random_ds_5000_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/predrep/h_sapiens/", "description": "5k pairs, 50% from HINT and String with 800 to 1000 as confidence score and 50% from string from 100 to 200 as confidence score for h_sapiens " },
+		{ "organism": "Mus Musculus", "name": "predrep_musculus", "prefix": "random_ds_5000_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/predrep/m_musculus/", "description": "5k pairs, 50% from HINT and String with 800 to 1000 as confidence score and 50% from string from 100 to 200 as confidence score for m_musculus" },
+		{ "organism": "Saccharomyces Cerevisiae", "name": "predrep_cerevisiae", "prefix": "random_ds_5000_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/predrep/s_cerevisiae/", "description": "5k pairs, 50% from HINT and String with 800 to 1000 as confidence score and 50% from string from 100 to 200 as confidence score for s_cerevisiae" }
+    ]
+}

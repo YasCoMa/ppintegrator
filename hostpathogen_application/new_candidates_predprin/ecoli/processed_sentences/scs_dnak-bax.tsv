@@ -1,0 +1,2 @@
+id_pmc	sentence location	highlighted phrase	interacting verbs	number of interacting verbs	experimental methods found	number of experimental methods	protein entities found	number of protein entities
+6304983	body	reduced levels of p21 , bax , and puma were observed when dnak - transfected hct116 cells were treated with nutlin , as compared with control cells ( ) , indicating that mycoplasma dnak was impairing p53 functions .	impair	1		0	bax|dnak|p21|puma|nutlin|mycoplasma|p53	7

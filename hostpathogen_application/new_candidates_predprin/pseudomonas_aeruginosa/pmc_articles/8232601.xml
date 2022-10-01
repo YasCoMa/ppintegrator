@@ -1,0 +1,2719 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Secretory System Components as Potential Prophylactic Targets for Bacterial Pathogens
+ </title>
+ <abstract>
+  <p>
+   Bacterial secretory systems are essential for virulence in human pathogens. The systems have become a target of alternative antibacterial strategies based on small molecules and antibodies. Strategies to use components of the systems to design prophylactics have been less publicized despite vaccines being the preferred solution to dealing with bacterial infections. In the current review, strategies to design vaccines against selected pathogens are presented and connected to the biology of the system. The examples are given for
+   <italic>
+    Y. pestis
+   </italic>
+   ,
+   <italic>
+    S. enterica
+   </italic>
+   ,
+   <italic>
+    B. anthracis
+   </italic>
+   ,
+   <italic>
+    S. flexneri
+   </italic>
+   , and other human pathogens, and discussed in terms of effectiveness and long-term protection.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="sec1-biomolecules-11-00892" sec-type="intro">
+    <title>
+     1. Introduction
+    </title>
+    <p>
+     Strategies to deal with bacterial infections can be divided into two major groups: therapeutics, and prophylactics. The former relies on antibiotics, mostly, while the latter- predominantly on vaccines. Antibiotics-based strategies are becoming a major problem as the pathogens acquire resistance faster than the typical approval process for new drugs [
+     ]. The situation is caused by economical disadvantages for the pharmaceutical companies to invest in new drugs when the typical therapy lasts only a week [
+     ,
+     ,
+     ]. To remedy low revenues in this area, the strategy uses existing targets with minimal modifications of the basic drug scaffold [
+     ]. Predictably, resistance generation among bacteria is also shortened and frequently involves small modifications of the same bacterial targets.
+    </p>
+    <p>
+     The existing antibiotic pipelines are based on 2 major targets: peptidoglycan biosynthesis and DNA replication as proven over time [
+     ,
+     ]. While the first target generates relatively small side effects, the second one is frequently problematic and not recommended in many cases [
+     ,
+     ]. The selection of new targets and drugs is encouraged and funded by the public-private partnerships [
+     ] but the speed at which it progresses is slow due to the inadequate funding, the economic viability of antibiotic research for pharmaceutical companies, legal requirements connected to the approval of new drugs, and the rapid rise of resistance fueled by massive and indiscriminate, frequently, antibiotics use in humans and farming [
+     ,
+     ]. The situation is critical and the corrective actions undertaken are not sufficient to prevent major drug resistance epidemics in the future [
+     ]. Therefore, approaches favoring alternatives [
+     ,
+     ], including indirect strategies relying on blocking bacterial virulence systems [
+     ], are becoming more prominent and receiving increased funding from the same public-private partnerships [
+     ,
+     ].
+    </p>
+    <p>
+     Preventive strategies for bacterial infections are favored in the long term as it is easier and cheaper to prevent the disease than to treat it in many cases. Vaccine design and selection are typically based on attenuated strains, inactivated pathogens (disfavored due to the complications), and acellular approaches relying frequently on selected bacterial proteins fused to bacterial lipopolysaccharides as adjuvants [
+     ]. However, the selection process is a trial-and-error approach with the majority of candidates failing in the clinical trials [
+     ]. For many prophylactics, the vaccine design strategies did not account for the complexity of the infection process of the pathogen and did not always select animal models capable of fully reproducing the interaction process with the human host [
+     ,
+     ]. The strategy for bacterial pathogens should be optimized in the future. The recent response to the COVID-19 viral pandemic demonstrated a clear focus on functional vaccine delivery by combining funding, scientific knowledge, animal models, manufacturing, and logistics to deliver a set of viable candidates for human use, possibly making it an example of future work on bacterial prophylactics.
+    </p>
+    <p>
+     Bacterial pathogens all have specialized protein transport systems and they are cataloged at the Kyoto Encyclopedias of Genes and Genomes (KEGG) database (
+     <uri ns0:href="https://www.genome.jp/kegg/">
+      https://www.genome.jp/kegg/
+     </uri>
+     ). The infection process requires not only finding a receptor on the human host but also the ability to secrete protein components in a coordinated process to overcome the immune defenses of the host and establish a suitable niche to replicate after infection. Theoretically, blocking the bacterial transport by virulence systems would block the infection and render the bacterial pathogens defenseless [
+     ,
+     ,
+     ]. Since the bacterial transport systems are required for bacterial pathogens to start and continue an infection process and can be easily identified bioinformatically from the DNA sequences [
+     ], there is an alternative vaccine design strategy that could be used to prevent bacterial infections. In the current work, such strategies involving bacterial secretory systems as targets are presented for selected pathogens and discussed based on experimental data.
+    </p>
+    <p>
+     The review concentrates on components of virulence systems as building blocks of vaccines (
+     ). Therefore, information on other vaccine candidates not based on components of virulence systems is substantially shortened.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     2. Results
+    </title>
+    <p>
+     The approaches dealing with vaccine strategies for different bacterial pathogens depend on the biology of the organism. It involves its mechanism of infection and the roles of identified protein transport systems in the process.
+    </p>
+    <sec id="sec2dot1-biomolecules-11-00892">
+     <title>
+      2.1. Acinetobacter baumannii
+     </title>
+     <p>
+      <italic>
+       Acinetobacter
+      </italic>
+      is an opportunistic Gram-negative pathogen genus. While most strains are non-pathogenic, the
+      <italic>
+       baumannii
+      </italic>
+      species are becoming drug-resistant and problematic under hospital settings. There is no commercial vaccine against this pathogen available despite many years of research [
+      ]. The only therapy is with antibiotics.
+     </p>
+     <sec id="sec2dot1dot1-biomolecules-11-00892">
+      <title>
+       2.1.1. Virulence Systems
+      </title>
+      <p>
+       The
+       <italic>
+        Acinetobacter baumannii
+       </italic>
+       has a type I, II, and type VI secretion system. However, the last system is present only in selected strains and many hospital isolates do not have it [
+       ]. Despite its known target of other bacteria, the system is also important for virulence as its deletion affected the pathogen’s lethality in mice [
+       ].
+      </p>
+     </sec>
+     <sec id="sec2dot1dot2-biomolecules-11-00892">
+      <title>
+       2.1.2. Vaccines
+      </title>
+      <p>
+       Existing vaccine candidates range from live attenuated/engineered pathogens [
+       ] to recombinant proteins conjugated to bacterial capsular antigens (review in Gellings et al. [
+       ]). An alternative strategy, relying on the pan-genomic analysis of sequenced genomes, was proposed by Hassan et al., 2016 [
+       ]. The approach used bioinformatics analysis to identify targets based on the conserved core proteins that were further divided into virulence, essential and non-host homolog proteins. Prediction of localization, biological function, potential epitopes, and interaction partners identified 12 candidates, of which only 5 were from secretory systems: pilus assembly protein porin PapC and a pilus assembly chaperone, general secretion pathway protein D (2 candidates), and the type VI secretion system OmpA/MotB protein. The rest of the candidates were membrane proteins involved in transport or cellular structure assembly mostly. The findings will have to be tested in animals to confirm potential applicability in human vaccine designs.
+      </p>
+     </sec>
+    </sec>
+    <sec id="sec2dot2-biomolecules-11-00892">
+     <title>
+      2.2. Bacillus anthracis
+     </title>
+     <p>
+      The pathogen is a Gram-positive bacterium infecting mainly herbivores. Humans are accidental hosts through contact with animals or their products. Due to its destructive potential, the pathogen is classified as the Class A Select Agent by the Center for Disease Control (CDC).
+     </p>
+     <sec id="sec2dot2dot1-biomolecules-11-00892">
+      <title>
+       2.2.1. Virulence Systems
+      </title>
+      <p>
+       The bacterium has 2 main virulence factors, the tripartite toxin Protective Antigen (PA) produced on the plasmid pXO1 [
+       ] and the capsule composed of poly-γ-D-glutamic acid (PDGA) produced on the plasmid pXO2 [
+       ]. The PA forms oligomers, hepta- or octamers when cleaved by furin protease, and forms a pore in cellular membranes for delivery of 2 other toxins: metalloprotease Edema Factor (EF) [
+       ,
+       ] and adenylate cyclase Lethal Factor (LF) [
+       ].
+      </p>
+     </sec>
+     <sec id="sec2dot2dot2-biomolecules-11-00892">
+      <title>
+       2.2.2. Vaccines
+      </title>
+      <p>
+       There are 2 vaccines available commercially against the pathogen: the acellular Anthrax Vaccine Precipitated (AVP) consisting of alum-precipitated
+       <italic>
+        B. anthracis
+       </italic>
+       Sterne strain crude culture filtrates [
+       ] and the Anthrax Vaccine Adsorbed (AVA) aluminum hydroxide-adsorbed product consisting mainly of PA from the
+       <italic>
+        B. anthracis
+       </italic>
+       strain V770-NP1-R. Both vaccines have to be given intramuscularly and the injection repeated after a year to maintain their effectiveness.
+      </p>
+      <p>
+       Cellular vaccines have many side effects and there is a trend to transition towards acellular antigens. Accordingly, Kachura et al. [
+       ] used nanoparticles composed of Ficoll conjugated to CpG oligonucleotides and recombinant PA protein as an antigen. The particles also contained Toll-like receptor 9 (TLR9) ligand DV230 on its surface. The challenge study was performed in non-human primates Cynomolgus monkeys. Animals were immunized with 10 μg of rPA, 250 or 1000 μg of Ficoll-DV230-rPA antigens via i.m. route with a booster on day 29 and challenged with 200 LD50 of aerosolized dose of
+       <italic>
+        B. anthracis
+       </italic>
+       Ames on days 69, 70 and 71. Immunization with the Ficoll-DV230-rPA construct fully protected Cynomolgus macaques from
+       <italic>
+        B. anthracis
+       </italic>
+       infection-induced death after a single (1000 μg) or double (250 μg and 1000 μg) immunization. The result is very promising but the typical background level in vaccine testing is 100–200 LD50.
+      </p>
+      <p>
+       In a different attempt, a live vaccine was constructed based on a non-pathogenic
+       <italic>
+        B. subtilus
+       </italic>
+       strain displaying PA on its surface [
+       ]. Mice were immunized via i.g. lavage repeatedly (7× in 35 days) with 5 × 10
+       spores/100 μL in PBS and other routes: i.n., i.p., and s.l., 3× over 28 days using approximately 1 × 10
+       spores per immunization. The preparations were combined with cholera toxin B subunit as a mucosal delivery vehicle. Animals were challenged with 6 × 10
+       CFU
+       <italic>
+        B. anthracis
+       </italic>
+       Ames strain (Tox + Cap−) which corresponded to 100 MLD50. Only the animals immunized via the i.p. route were fully protected while immunization via oral and intranasal routes had protection rates of 80% and 90%, respectively, judging by survival rates. The rest of the animals had protection rates of 30% or below.
+      </p>
+     </sec>
+    </sec>
+    <sec id="sec2dot3-biomolecules-11-00892">
+     <title>
+      2.3. Bordetella bronchiseptica
+     </title>
+     <p>
+      The pathogen is a Gram-negative bacterium infecting mainly dogs and pigs. Humans are accidental hosts.
+     </p>
+     <sec id="sec2dot3dot1-biomolecules-11-00892">
+      <title>
+       2.3.1. Secretory Systems
+      </title>
+      <p>
+       The bacterium has type I, II, III, twin-arginine targeting (Tat), and type VI secretion systems according to a KEGG database (
+       <uri ns0:href="https://www.kegg.jp/kegg-bin/show_pathway?bbm03070">
+        https://www.kegg.jp/kegg-bin/show_pathway?bbm03070
+       </uri>
+       ). Recognized virulence factors include haemagglutinins which are typically expressed on the surface of bacteria and secreted [
+       ,
+       ,
+       ,
+       ].
+      </p>
+     </sec>
+     <sec id="sec2dot3dot2-biomolecules-11-00892">
+      <title>
+       2.3.2. Vaccines
+      </title>
+      <p>
+       Commercial vaccines for dogs include many products but their efficacy is mainly left in the realm of conjecture due to the lack of a systematic study for larger cohorts [
+       ]. There is, however, a trend to use live strains, mainly
+       <italic>
+        Salmonella
+       </italic>
+       , as an engineered display vector for antigens from the
+       <italic>
+        B. bronchiseptica
+       </italic>
+       bacterium. There are 2 instances described in the review.
+      </p>
+      <p>
+       In the first one, Hur et al. [
+       ] used an engineered attenuated
+       <italic>
+        Salmonella
+       </italic>
+       vector expressing a fusion of filamentous haemagglutinin (FHA) fragment from
+       <italic>
+        B. bronchiseptica
+       </italic>
+       with pertactin to evaluate its effectiveness in a mouse model of progressive atrophic rhinitis (PAR) caused by
+       <italic>
+        Pasteurella multocida
+       </italic>
+       . The former is commonly observed in infections with the latter. The BALB/c mice were inoculated intranasally with approximately 0.2 × 10
+       CFU of the vaccine strain. In the work of Hur et al., the animals were partially protected against
+       <italic>
+        P. multocida
+       </italic>
+       infection but the data was too spread to draw more conclusions.
+      </p>
+      <p>
+       In the second instance, Zhao et al. [
+       ] used a recombinant fusion protein of the same fragments displayed by an attenuated
+       <italic>
+        Salmonella enterica
+       </italic>
+       Cholerasius strain in a mouse model of
+       <italic>
+        B. bronchiseptica
+       </italic>
+       and
+       <italic>
+        S. enterica
+       </italic>
+       infections. Ther BALB/c mice were immunized with 2.1 × 10
+       CFU (s.c.) or 2.1 × 10
+       CFU (oral) of the engineered strain twice over the 2 weeks and challenged 30 days later with 5.2 × 10
+       CFU of the
+       <italic>
+        B. bronchiseptica
+       </italic>
+       HH0809 strain. The s.c. route was the best and all animals survived as opposed to the oral route that rendered only 20% protection. The used challenge dose was equal to approximately 4 LD50 which is much below the 100–200 LD50 level seen as a background in vaccine work.
+      </p>
+     </sec>
+    </sec>
+    <sec id="sec2dot4-biomolecules-11-00892">
+     <title>
+      2.4. Bordetella pertussis
+     </title>
+     <p>
+      The pathogen is a Gram-negative, aerobic bacterium infecting predominantly humans.
+     </p>
+     <sec id="sec2dot4dot1-biomolecules-11-00892">
+      <title>
+       2.4.1. Secretory Systems
+      </title>
+      <p>
+       The species has type I, II (general), III, and Tat secretory systems according to the KEGG database (
+       <uri ns0:href="https://www.kegg.jp/kegg-bin/show_pathway?bpet03070">
+        https://www.kegg.jp/kegg-bin/show_pathway?bpet03070
+       </uri>
+       ), of which type I and III are involved in virulence [
+       ]. The type I secretion system secretes adenylate cyclase CyaA which is critical in establishing pathogen infection [
+       ]. Other important virulence factors are pertussis toxin (PT), type III secretion effectors BopB, BopD, and Bsp22 [
+       ], and filamentous haemagglutinin (FHA) [
+       ].
+      </p>
+     </sec>
+     <sec id="sec2dot4dot2-biomolecules-11-00892">
+      <title>
+       2.4.2. Vaccines
+      </title>
+      <p>
+       There is an acellular commercial vaccine DTaP against the pathogen which replaced the whole cell-based DTwP vaccine (review in [
+       ]). The vaccine consists of 3–5 epitopes as opposed to all epitopes in the DTwP. Analysis of immune responses to DTwP and DTaP vaccines [
+       ] showed that the acellular version had a weak Th1 response while having good Th2 and Th17 responses. However, the whole cell-based DTwP had strong immune responses from Th1 and Th17 cells. To correct the immune response bias, the inclusion of CpG as an adjuvant in the DTaP was shown as a viable solution [
+       ]. However, the adjuvant for the DTaP was chosen as alum-based which normally does not have a good Th1 response. The polarized immune response from the DTaP could likely be one of the problems associated with a resurgence of
+       <italic>
+        B. pertussis
+       </italic>
+       in the population. The other reason for the resurgence may be the limited antigen repertoire of the DTaP vaccine.
+      </p>
+      <p>
+       To overcome the poor efficacy of the DTaP vaccine, many groups started pursuing live vaccines or outer membrane vesicles (OMVs) strategies as the basis of new vaccine formulations. In the first category, a Swedish group tested clinically [
+       ] the BPZE1 vaccine based on the genetically engineered
+       <italic>
+        B. pertussis
+       </italic>
+       strain in which the major toxins were replaced by enzymatically inactive analogs [
+       ]. A single dose of 10
+       CFU of the attenuated strain was administered intranasally and analyzed for up 12 months for the type of immune response and the ability to maintain it over time. The live vaccine could elicit a Th1-type response as opposed to the predominantly Th2-type for the acellular vaccine. The antibody repertoire induced by the live strain was also broad as opposed to the narrow one of the acellular vaccine that was limited to the vaccine antigens.
+      </p>
+      <p>
+       The phenomenon of extracellular vesicles being formed by bacteria has been known [
+       ] but the technology to harvest it is becoming more available only recently. In the work of Gaillard et al. [
+       ], the OMVs from
+       <italic>
+        B. pertussis
+       </italic>
+       mutant expressing the lipid A deacetylase PagL were conjugated to DTaP toxoids and used to immunize BALB/c mice. The used dose was 1.75 ug of total OMV protein/animal in a 2-dose intraperitoneal protocol over 2 weeks and challenged intranasally with a sublethal dose (10
+       –10
+       CFU/40 μL) of
+       <italic>
+        B. pertussis
+       </italic>
+       Tohama phase I, Bp18323 or Bp106 clinical isolate. The immunization could reduce bacterial load by 5 logs in the lungs compared to the placebo and the immunity was maintained for 5 months with a substantial reduction after 9 months as judged by the bacterial count in the lungs. However, the protection from infection was not determined and the data has to be provided to evaluate the construct in full.
+      </p>
+      <p>
+       Another strategy, based on nanoparticles, was used by Najminejad et al. [
+       ]. The nanoparticles were encapsulated and contained FHA and PT as a novel vaccine candidate in a mouse model of vaccination. The BALB/c mice were immunized intranasally or intraperitoneally twice over 28 days using a 6 μg of PT and 6 μg FHA combination. The efficacy was evaluated by ELISA of sera antibodies and cytokine profiles but not in an infection model. The response showed that the strategy produced a significant immune response in animals.
+      </p>
+     </sec>
+    </sec>
+    <sec id="sec2dot5-biomolecules-11-00892">
+     <title>
+      2.5. Brucella abortus
+     </title>
+     <p>
+      The pathogen is a Gram-negative bacterium encountered mainly in animals and one of the causative agents of brucellosis. The disease is highly contagious and of significant concern to farmers due to potential economic losses. Treatment of animals is not recommended while humans are treated with different antibiotics combinations [
+      ].
+     </p>
+     <sec>
+      <title>
+       Vaccines
+      </title>
+      <p>
+       There is a live vaccine based on an attenuated S19 strain [
+       ] and it is licensed for animal use. The vaccine, however, can cause abortion in cattle and is not always preferred for this reason [
+       ,
+       ]. A search for a better and acellular vaccine is in progress but no acellular vaccine for
+       <italic>
+        B. pertussis
+       </italic>
+       has been approved for animal use.
+      </p>
+      <p>
+       Acellular vaccine candidate development was tested by Pollak et al. [
+       ]. The group used VirB7 and VirB9 proteins from the type IV secretion system as antigens in a mouse model of brucellosis. The immunization was performed via the i.p. route with 30 μg of antigen and included a booster shot 15 days post-immunization using the BALB/c mouse strain. The challenge was with the fully virulent
+       <italic>
+        B. abortus
+       </italic>
+       544 strain (4 × 10
+       CFU). Protection was quantified by bacterial count in spleens of infected animals. Both VirB7 and VirB9 proteins offered only small protection by reducing bacterial spleen load by a log of magnitude as compared to the placebo, while the attenuated S19 strain offered a reduction by 2 logs of magnitude.
+      </p>
+      <p>
+       An alternative strategy used interference with the virulence regulatory network Two-Component Regulatory System (TCS) [
+       ] by utilizing a live vaccine
+       <italic>
+        B. abortus
+       </italic>
+       2308 strain with 2 of the critical genes
+       <italic>
+        nodV
+       </italic>
+       and
+       <italic>
+        nodW
+       </italic>
+       deleted, alone or together [
+       ]. The mutants were highly attenuated and offered protection against the fully virulent 2308 strain in a mouse model of brucellosis. Bacterial spleen counts were reduced by 3 logs and the vaccinated animals could survive the challenge with the fully virulent strain. The animals were cleared of the pathogen by week 10 when using either of the live vaccine strains by counting bacterial spleen loads.
+      </p>
+     </sec>
+    </sec>
+    <sec id="sec2dot6-biomolecules-11-00892">
+     <title>
+      2.6. Brucella melitensis
+     </title>
+     <p>
+      The bacterium is a Gram-negative pathogen and one of the causes of brucellosis in animals. There is a live vaccine licensed for animal use [
+      ] but it still causes abortion in vaccinated animals. Therefore, alternative solutions are sought after. Treatment of animals is not recommended but humans are treated with antibiotics [
+      ].
+     </p>
+     <sec>
+      <title>
+       Vaccines
+      </title>
+      <p>
+       The VirB proteins from the type IV secretion system were not reported tested as potential vaccine candidates against
+       <italic>
+        B. melitensis
+       </italic>
+       infection. Instead, a live mutant defective in LPS biosynthesis,
+       <italic>
+        B. melitensis
+       </italic>
+       16M
+       <italic>
+        Δwzt
+       </italic>
+       , was used as a potential vaccine candidate [
+       ]. The mutant was defective in the critical wzt protein essential for O-type LPS antigen transport to the surface. In a mouse infection model with
+       <italic>
+        B. melitensis
+       </italic>
+       , the BALB/c mice were inoculated with 10
+       CFU of the mutant strain via the i.p. route and challenged with 10
+       CFU of the wt or M5 strain 16 weeks post-inoculation. Vaccination with the mutant reduced spleen bacterial load by 2 logs when challenged with the wt strain. Approximately the same level of reduction was observed for the challenge with
+       <italic>
+        B. melitensis
+       </italic>
+       5M stain. The
+       <italic>
+        Δwzt
+       </italic>
+       mutant could be a future vaccine candidate against
+       <italic>
+        B. melitensis
+       </italic>
+       .
+      </p>
+     </sec>
+    </sec>
+    <sec id="sec2dot7-biomolecules-11-00892">
+     <title>
+      2.7. Chlamydia trachomatis
+     </title>
+     <p>
+      The bacterium is a highly obligate intracellular pathogen and the cause of sexually transmitted diseases in women, often leading to fallopian tube closures and infertility. There are 3 major serovar groups, each responsible for different infections. The first group with serovars A-C infects eyes and is responsible for blindness and conjunctivitis [
+      ]. The second group with serovars D-K is responsible for genital infections [
+      ], and the third one, lymphogranuloma venereum biovar, with serovars L1-3- for urogenital and anorectal infections [
+      ]. There is no commercial vaccine available for the pathogen and the only therapy is with the use of antibiotics.
+     </p>
+     <sec id="sec2dot7dot1-biomolecules-11-00892">
+      <title>
+       2.7.1. Secretory Systems
+      </title>
+      <p>
+       The bacterium has a highly conserved type III, pathogenic type II and a general secretory system (
+       <uri ns0:href="https://www.kegg.jp/kegg-bin/show_pathway?ctr03070">
+        https://www.kegg.jp/kegg-bin/show_pathway?ctr03070
+       </uri>
+       ). The first one is also present in the
+       <italic>
+        Chlamydia muridarum
+       </italic>
+       . The system produces 2 translocators, CopB and CopD, which insert themselves into mammalian membranes and form a receptor for the tip of the needle conduit transporting bacterial effectors. Antibodies to both proteins were detected in the blood of patients infected with
+       <italic>
+        C. trachomatis
+       </italic>
+       [
+       ]. Both
+       <italic>
+        Chlamydia
+       </italic>
+       species also express the highly conserved CT584 protein [
+       ].
+      </p>
+     </sec>
+     <sec id="sec2dot7dot2-biomolecules-11-00892">
+      <title>
+       2.7.2. Vaccines
+      </title>
+      <p>
+       The vaccine candidates for
+       <italic>
+        C. trachomatis
+       </italic>
+       have been studied for a long time. The most promising were based on the Major Outer Membrane Protein (MOMP) as the protein is the most expressed bacterial antigen (Review in [
+       ]). It has been recognized as capable of inducing both humoral and cellular immunity [
+       ,
+       ]. However, the most advanced vaccine design is based on the recombinant CTH522 protein that has reached Phase I clinical trials [
+       ].
+      </p>
+      <p>
+       The use of type III secretion system proteins as antigens in a vaccine study has been reported only once. Bulir et al. [
+       ] used a recombinant fusion of CopB (a.a. 1-100)-CopD (a.a. 1-100)-CT584 as an antigen. C57Bl/6 mice were immunized intranasally with 20 μg of antigen with 10 μg of CpG ODN1826 twice over 3 weeks and then challenged intravaginally with 10
+       IFU of
+       <italic>
+        C. muridanum
+       </italic>
+       . The candidate reduced the infection rate by 80% as judged by the vaginal bacterial load and the pathology of the oviduct by 90% in the mouse model of
+       <italic>
+        Chlamydia
+       </italic>
+       infection. Bacterial shedding was reduced by 95%, a sign of a potential vaccine candidate for future development.
+      </p>
+     </sec>
+    </sec>
+    <sec id="sec2dot8-biomolecules-11-00892">
+     <title>
+      2.8. Pathogenic Eschericchia coli
+     </title>
+     <p>
+      <italic>
+       Escherichia coli
+      </italic>
+      bacteria may cause diarrhea, among other diseases. The pathogenic strains have a variety of virulence markers but are typically classified into 6 groups based on the presence of loci responsible for those properties [
+      ,
+      ].
+     </p>
+     <sec id="sec2dot8dot1-biomolecules-11-00892">
+      <title>
+       2.8.1. Secretory Systems
+      </title>
+      <p>
+       The enteropathogenic group (EPEC) is defined as producing attaching and effacing (A/E) lesions and lacks genes producing Shiga toxin while the enterohaemorrhagic
+       <italic>
+        E. coli
+       </italic>
+       (EHEC) has a gene producing Shiga toxin. Both groups have a type III secretion system that is tightly regulated [
+       ] and sometimes a second system is also present [
+       ,
+       ]. The other 4 groups are enteroaggregative (EAEC), diffusely aggregative (DAEC), enterotoxigenic (ETEC), and enteroinvasive (EIEC)
+       <italic>
+        E. coli
+       </italic>
+       .
+      </p>
+     </sec>
+     <sec id="sec2dot8dot2-biomolecules-11-00892">
+      <title>
+       2.8.2. Vaccines
+      </title>
+      <p>
+       The variety of pathogenic markers and connected with them infection mechanisms [
+       ] make it difficult to have a universal vaccine suitable for all strains. Predictably, there has not been a universal commercial human vaccine available for any of those strains despite many vaccines against individual strains being evaluated clinically [
+       ]. There are, however, commercial vaccines for animals designed to reduce the infection by EHEC [
+       ,
+       ] and other strains [
+       ].
+      </p>
+      <p>
+       There are 2 approaches to vaccines described in this review that used elements of secretory systems as vaccine candidates. In the first one, the development of a human universal vaccine against pathogenic
+       <italic>
+        E. coli
+       </italic>
+       has been proposed for members of the serogroup O111 which includes EPEC, EAEC, and Shiga toxin-producing strains [
+       ]. The system used LPS conjugated to cytochrome or a recombinant secreted toxin LT from ETEC [
+       ]. Rabbits were immunized via s.c. route using 5 µg/mL of protein-LPS conjugate suspended in a proprietary mix of mineral oil and detergents incorporated in Sılica SBA-15 nanoparticles 6 times within a year to generate antibodies. BALB/c mice were immunized orally with 0.2 mL of O111-EtxB conjugate resuspended in the proprietary formulation 3 times over 30 days. The protection was determined by the ability of generated antibodies to prevent cell agglutination by the end-point dilution method and by the ability to prevent cytopathic effect on the Y1 cell line. The endpoint dilution assay showed about 3 logs of difference between the nonvaccinated and vaccinated animal sera antibodies while the cytopathic assay showed about a log of A405 difference for the same sera. Although the animal protection was not shown, the vaccine candidate showed promising data in generating antibody response in mice for the ETEC when the secreted toxin was used in the conjugate.
+      </p>
+      <p>
+       In the second approach, Byrd et al. [
+       ] used an attenuated mutant of rabbit EPEC strain with the
+       <italic>
+        ler
+       </italic>
+       virulence operon regulator deleted as a live vaccine. The deletion silences gene expression and makes it an effective live vaccine strain against the isogenic pathogen [
+       ]. The construct in Byrd et al.’s work contained a fusion of EspP autotransporter with the B subunit of Shiga toxin 1 (Stx-1) replacing its passenger domain and was designed to produce the fusion in the cytoplasm, periplasmic space, on the surface, or be secreted. In a rabbit model of EHEC infection, New Zealand White rabbits were immunized via the orogastric route with 10
+       CFU of the mutants strains and boosted again after 2 weeks. The animals were challenged with 10
+       CFU of the RDEC-H19 strain after 2 weeks via the same route. Protection was estimated by the stool consistency, weight loss of the animals, and the production of anti-Stx-1 antibodies by ELISA. The construct producing the secreted form of the fusion protein was the most protective with 4 out of 5 animals capable of neutralizing half of the secreted Stx-1 and having a substantially improved stool consistency compared to the rest of the constructs.
+      </p>
+     </sec>
+    </sec>
+    <sec id="sec2dot9-biomolecules-11-00892">
+     <title>
+      2.9. Francisella tularensis
+     </title>
+     <p>
+      The bacterium is a Gram-negative zoonotic intracellular pathogen infecting almost any host and the causative agent of tularemia. The pathogen is a Category A Select Agent due to its combination of infectivity and lethality.
+     </p>
+     <sec>
+      <title>
+       Vaccines
+      </title>
+      <p>
+       There is no commercial vaccine available for humans but there is a live attenuated strain
+       <italic>
+        F. tularensis
+       </italic>
+       subsp.
+       <italic>
+        holarctica
+       </italic>
+       LVS strain being used as a live vaccine [
+       ] for special groups. The strain was originally developed in the former Soviet Union and further optimized in the US [
+       ]. Due to its relative toxicity, there have been attempts to reduce toxicity and increase the protection of the resulting strains. Various mutants, including those within the operon coding for the virulence system, have been used as live vaccines [
+       ,
+       ,
+       ] with a different degree of success. The use of recombinant proteins or isolated cellular components as vaccines failed to deliver a candidate with a strong immune response, either [
+       ,
+       ,
+       ,
+       ].
+      </p>
+      <p>
+       The live vaccines were left as a potentially viable option to protect against highly virulent
+       <italic>
+        F. tularensis subsp.
+       </italic>
+       tularensis SCHU S4 or FSC033 variants isolated from different sources [
+       ,
+       ]. Mutations of single genes from the type VI secretion system
+       <italic>
+        ΔiglB
+       </italic>
+       [
+       ,
+       ],
+       <italic>
+        ΔiglB::fljb
+       </italic>
+       [
+       ], Fn iglD [
+       ], or the
+       <italic>
+        Francisella
+       </italic>
+       Pathogenicity Island (FPI) promoter regulator
+       <italic>
+        pmrA
+       </italic>
+       [
+       ] failed to deliver live candidates with protection against challenges with LD50 above 100 of the virulent strains.
+      </p>
+      <p>
+       In an interesting variation of live vaccines, Jia et al. [
+       ] used an attenuated LVS strain with deletion of the capsule protein capB and resupplied with the iglA, B, and C proteins, separate or together, under the control of
+       <italic>
+        F. tularensis bfr
+       </italic>
+       promoter (
+       <italic>
+        ΔcapB/bfr-iglABC
+       </italic>
+       ) to protect against the virulent SHU S4 variant of
+       <italic>
+        F. tularensis
+       </italic>
+       . The BALB/c mice were immunized 2–3 times, 4 weeks apart, with the mutant strains at 10
+       –10
+       CFU and then challenged intranasally with 10 LD50 of the SHU S4 variant. The degree of protection was correlated with the bacterial load used for immunizations and their time. At 10
+       CFU of the mutant used immunizations performed 2 days before challenge, only 20% of animals could survive the challenge up to 20 days post-challenge, twice the number of animals compared to the higher dose. Change of route to i.d. and the extension of time before the challenge to 49 days demonstrated that the LVS vaccine could protect 50% of the animals from the challenge with 16 CFU of the SHU S4 strain for 20 days. An increase of challenge dose to 31 CFU showed that the best variant was the
+       <italic>
+        bfr-iglA
+       </italic>
+       construct that could protect about 30% of the animals at the same time, in contrast to other constructs where all animals died after that time.
+      </p>
+      <p>
+       As an alternative to recombinant proteins, secretory vesicles of bacteria are used as antigens. There is only one report of secretory vesicles encapsulated in a cationic detergent being used as a vaccine candidate against tularemia [
+       ]. The vesicles were prepared from the live attenuated LVS or the fully virulent SHU S4 strains. The BALB/c mice were immunized with 35 μg of protein in vesicles up to 3 times in 2-week intervals via i.p., i.n. or s.c. routes and challenged 14 days after the last dose. The animals were challenged with up to 100,000 CFU of the LVS via the i.p. route or 50 CFU of SHU S4 via i.n. route. Challenge with up to 70,000 CFU of the LVS strain resulted in deaths for the LVS vesicle-immunized animals. Passive immunization with 60 µL of serum/animal via tail vein 1 day before challenge with 100,000 CFU of the LVS strain could protect up to 80% of the animals up to 14 days as judged by survival rates.
+      </p>
+     </sec>
+    </sec>
+    <sec id="sec2dot10-biomolecules-11-00892">
+     <title>
+      2.10. Helicobacter pylori
+     </title>
+     <p>
+      The bacterium is a Gram-negative pathogen infecting about half of the world’s human population [
+      ,
+      ,
+      ]. It is also named the number one carcinogen by the WHO due to its association with gastrointestinal pathology, peptic, and gastric ulcers [
+      ]. An animal model showing a direct association between
+      <italic>
+       H. pylori
+      </italic>
+      infection and gastric cancer was developed in Mongolian gerbils by Tatematsu et al. [
+      ].
+     </p>
+     <sec id="sec2dot10dot1-biomolecules-11-00892">
+      <title>
+       2.10.1. Secretory Systems
+      </title>
+      <p>
+       Analysis of genomic DNA showed that the pathogen has general, type Va, Tat, and type IV secretory systems (
+       <uri ns0:href="https://www.kegg.jp/kegg-bin/show_pathway?hhp03070">
+        https://www.kegg.jp/kegg-bin/show_pathway?hhp03070
+       </uri>
+       ). The last system is associated with pathogenicity and is critical for its virulence in the human host. In prokaryotes, the type IV system is used to transport DNA and large proteins. In
+       <italic>
+        H. pylori
+       </italic>
+       , the pathogen encodes 4 different type IV secretion systems, each with a specific function in infection [
+       ]. The first system, located within the
+       <italic>
+        cag
+       </italic>
+       pathogenicity island (
+       <italic>
+        cag
+       </italic>
+       PAI) and associated with gastric ulcers [
+       ], is used to transport the cytotoxicity-associate gene A (CagA) protein through its pilus (review in [
+       ]). The secreted CagL effector is the pilus receptor that binds to human integrins of the α5β1 family [
+       ], later causing activation of Src tyrosine kinase for CagA phosphorylation. The process leads to multiple changes in the cell, including disruption of adherens and tight junctions, actin depolymerization, changes in membrane dynamics, and pro-inflammatory nuclear transcription. The pathogen also secretes another protein, the vacuolating cytotoxin A (VacA), via an autotransporter mechanism (review in [
+       ]), causing vacuolation of mammalian cells. Protection from stomach acid is rendered by the secreted urease generating ammonia but the pathogen has to quickly migrate into the mucous layer of the stomach for long-term survival [
+       ].
+      </p>
+     </sec>
+     <sec id="sec2dot10dot2-biomolecules-11-00892">
+      <title>
+       2.10.2. Vaccines
+      </title>
+      <p>
+       Initial vaccination strategies were based on antigens derived from secreted proteins like urease [
+       ,
+       ], VacA [
+       ], CagA [
+       ], and catalase [
+       ], that reduced bacterial load upon infection with
+       <italic>
+        H. pylori
+       </italic>
+       . However, there was room for improvement and the review will discuss 3 approaches.
+      </p>
+      <p>
+       In the first approach based on type IV secretion system antigens, Chehelgerdi and Doosti [
+       ] used CagW protein as a probable functional analog of the structural VirB6 protein from the type IV secretion system. In the plasmid-based DNA vaccine strategy, the gene coding CagW protein was delivered in pcDNA-3.1 at 100 µg/mouse of plasmid encapsulated or not in chitosan nanoparticles into mice intramuscularly 5 times within 45 days. Challenge was with 1 × 10
+       CFU of
+       <italic>
+        H. pylori
+       </italic>
+       via p.o. route. Remarkably, the bacterial load in the vaccinated animals was reduced by 8 logs in the liver and gastric tract as determined by bacterial colony counting. Encapsulation of the plasmid improved bacterial load reduction by at least a log as compared to the non-encapsulated plasmid immunization.
+      </p>
+      <p>
+       In the second strategy, a flagellar protein fused with urease was used. Several epitopes of flagellin with
+       <italic>
+        H. pylori
+       </italic>
+       urease were fused to cholera toxin subunit B [
+       ] and used to immunize BALB/c mice. The constructs used were cholera-toxin B-urease fusion (200 μg), and the full cholera toxin B-urease-chimeric flagellin fusion (50–250 μg protein) 4 times at 1-week intervals. The mice were challenged with 1 × 10
+       CFU of
+       <italic>
+        H. pylori
+       </italic>
+       26695 strain orally 7 times over 2 weeks. The full fusion constructs given at the highest dose reduced gastric load of
+       <italic>
+        H. pylori
+       </italic>
+       by 2 orders of magnitude as judged by PCR. However, histopathological examination of the tissue showed that the pathogen was able to exert damage in the gastric tract despite vaccination.
+      </p>
+      <p>
+       In the third strategy, the approach used nanoparticles. The antigen described previously was encapsulated in acid-resistant nanoparticles based on D,L-lactate-co-glycolic acid polymer and used to immunize BALB/c mice at 100 µg protein/animal 4 times with 1-week intervals via the oral or intraperitoneal routes [
+       ]. Two weeks after the final immunization, the animals were challenged orally with 0.4 × 10
+       CFU of
+       <italic>
+        H. pylori
+       </italic>
+       SS1 strain via the oral route. The best results were obtained for the oral route of immunization with a certain type of nanoparticle formulation capable of reducing bacterial load in the gastric tissue by 3 logs as compared to the non-immunized animals. The i.p. route did not show any statistically valid bacterial load reduction in animals. As before, the histopathological examination of the gastric tissue revealed that the vaccination did not offer complete protection from
+       <italic>
+        H. pylori
+       </italic>
+       infection.
+      </p>
+     </sec>
+    </sec>
+    <sec id="sec2dot11-biomolecules-11-00892">
+     <title>
+      2.11. Legionella pneumophila
+     </title>
+     <p>
+      The bacterium is a Gram-negative aerobic facultative intracellular pathogen of humans and amoebae. It is also an etiological agent of Legionnaires’ disease of humans. There is no commercial vaccine available and the therapy relies on antibiotics.
+     </p>
+     <sec>
+      <title>
+       Vaccines
+      </title>
+      <p>
+       The development of vaccines including antigens from the icm/Dot type IV secretion system had not been reported in the literature. Instead, the strategies used different elements of the pathogen and vaccine designs are shown for 2 representative studies based on known virulence factors.
+      </p>
+      <p>
+       In the first one, 2 recognized virulence factors, the major outer membrane protein encoded by the
+       <italic>
+        ip
+       </italic>
+       gene [
+       ,
+       ] and type IV pilin E [
+       ], were used separately and as a fusion in a mouse A/J model of infection [
+       ]. The animals were injected i.m. with 50 μg of pCDNA3.1 plasmid with cloned separate genes or their fusion and challenged with 2 × 10
+       CFU of
+       <italic>
+        L. pneumophila
+       </italic>
+       . The fusion construct could protect all animals from death for at least 10 days while the separate proteins protected 30–40% of the animals. The fusion could be a good candidate for
+       <italic>
+        L. pneumophila
+       </italic>
+       vaccine design.
+      </p>
+      <p>
+       In the second strategy, the inclusion of peptidoglycan-associated lipoprotein (PAL) specific for
+       <italic>
+        L. pneumophila
+       </italic>
+       , type IV pilin E (PilE), and a key component of flagella FlaA into a plasmid-based DNA vaccine [
+       ] as a fusion PAL-PilE-FlaA was tested in a BALB/c model of infection. The genes coding for the fusion were cloned into the pcDNA3.1 plasmid and animals were immunized with 50 μg of the plasmid/animal 3 times with 2-week intervals. Challenge was performed with 2 × 10
+       CFU of
+       <italic>
+        L. pneumophila
+       </italic>
+       serogroup 1 (American Type Culture Collection, Manassas, WV, USA; no. 35133) via the i.v. route. The fusion construct could completely protect mice from the lethal dose of the bacterium for 10 days. Histopathological examination of lung tissue showed that there was an injury to the lung tissue upon challenge despite the vaccination.
+      </p>
+     </sec>
+    </sec>
+    <sec id="sec2dot12-biomolecules-11-00892">
+     <title>
+      2.12. Mycobacterium tuberculosis
+     </title>
+     <p>
+      The bacterium is an aerobic human pathogen and the aetiological agent of tuberculosis. The disease is fatal if left untreated with antibiotics. It is estimated that about a third of the human population is infected with the bacterium (
+      <uri ns0:href="https://www.who.int/teams/global-tuberculosis-programme/tb-reports">
+       https://www.who.int/teams/global-tuberculosis-programme/tb-reports
+      </uri>
+      ). There is an FDA-licensed human live vaccine based on the attenuated bovine strain of
+      <italic>
+       M. bovis
+      </italic>
+      BCG [
+      ]. However, some countries do not carry out vaccination with this strain [
+      ].
+     </p>
+     <sec id="sec2dot12dot1-biomolecules-11-00892">
+      <title>
+       2.12.1. Secretory Systems
+      </title>
+      <p>
+       The pathogen has a general, Tat, and the type VII (EXS) secretion systems. The last one is critical for its virulence and deletions in it are found in the attenuated
+       <italic>
+        M. bovis
+       </italic>
+       BCG strain [
+       ,
+       ,
+       ].
+       <italic>
+        M. tuberculosis
+       </italic>
+       has 5 EXS systems [
+       ] of which the first one, EXS-1, is the most important for its virulence [
+       ,
+       ], in addition to the EXS-2 and EXS-3 systems [
+       ]. The EXS-1 system uses EccA1 ATPase to drive the secretion across bacterial membranes of, among other effectors, ExsA1 with help of ExsB1 as a probable chaperone. The secretion also requires EspA1/EspC1 complex presence. The EccA1 is critical for secretion and its deletion abolishes the transport [
+       ], leading to attenuation of virulence.
+      </p>
+      <p>
+       Analysis of bacterial secretions showed that ExsA1 is critical for
+       <italic>
+        M. tuberculosis
+       </italic>
+       virulence and it contributes to mammalian-like membranes lysis activity under low pH conditions [
+       ]. The phagosome lysis is contact-dependent and requires phthiocerol dimycocerosates [
+       ,
+       ].
+      </p>
+      <p>
+       It has been shown that
+       <italic>
+        M. tuberculosis
+       </italic>
+       infection results in the secretion of large (up to 20% of total secreted protein) amounts of antigen 85 B (Ag85B) [
+       ]. The protein was shown to be a good immune target for the host [
+       ].
+      </p>
+     </sec>
+     <sec id="sec2dot12dot2-biomolecules-11-00892">
+      <title>
+       2.12.2. Vaccines
+      </title>
+      <p>
+       Recombinant protein-based
+       <italic>
+        M. tuberculosis
+       </italic>
+       vaccines based on the ESAT-6 and Ag85 antigens were used in many vaccine constructs [
+       ,
+       ,
+       ,
+       ,
+       ,
+       ]. However, a candidate better than the BCG live vaccine has been demonstrated only once. A fusion with the attenuated latency-associated protein Rv2660c (fusion Ag85B-ESAT6-Rv2660c) was used as a vaccine H56 [
+       ]. The CB6F1 mice were immunized 3 times with the fusion in doses 0.01–10 μg/animal and challenged intranasally with the
+       <italic>
+        M. tuberculosis
+       </italic>
+       Erdman strain after 6 weeks. Bacterial load in lungs was found to be the smallest for the 5 μg dose and was about a log smaller than for the BCG vaccine. Boosting the BCG vaccination twice with the H56 fusion construct 3 months after the vaccination showed a log-reduced bacterial load in mice lungs 12 weeks post-boost. The system could be used pre- and post-exposure but the latter offered only a 1–2 log reduction of bacterial load in the lungs. The H56 recombinant vaccine could be a potential additional candidate for a hybrid vaccination strategy.
+      </p>
+     </sec>
+    </sec>
+    <sec id="sec2dot13-biomolecules-11-00892">
+     <title>
+      2.13. Proteus mirabilis
+     </title>
+     <p>
+      The bacterium is a Gram-negative facultative anaerobic pathogen infecting predominantly humans. It is frequently associated with urinary tract infections connected to catheters. There is no commercial vaccine available and the only therapy is with antibiotics.
+     </p>
+     <p>
+      The pathogen secretes urease to help it survive in the urinary tract [
+      ]. The released ammonia is a source of nitrogen for bacteria and raises pH that in turn leads to the formation of stones inside the urinary tract or on catheters [
+      ,
+      ,
+      ,
+      ,
+      ,
+      ].
+     </p>
+     <p>
+      Infection of bladder epithelial cells by
+      <italic>
+       P. mirabilis
+      </italic>
+      requires specialized fimbriae, the uroepithelial cellular adhesion (UCA), one of 17 types possessed by the pathogen [
+      ], and AipA protein, an autotransporter, for internalization [
+      ,
+      ]. Potential lysis requires secreted hemolysin HmpA, activated and transported with the help of HmpB [
+      ,
+      ], and a toxic agglutinin Pta [
+      ].
+     </p>
+     <p>
+      The pathogen can establish infection 30 min post-inoculation in a mouse model [
+      ] and cell culture [
+      ]. The speed is essential for initial escape from infiltrating neutrophils from which it is also later protected by forming extracellular clusters in the urinary tract [
+      ]. The formation requires urease activity and mannose-resistant
+      <italic>
+       Proteus
+      </italic>
+      -like (MR/P) fimbriae [
+      ].
+     </p>
+     <sec id="sec2dot13dot1-biomolecules-11-00892">
+      <title>
+       2.13.1. Secretory Systems
+      </title>
+      <p>
+       Analysis of
+       <italic>
+        P. mirabilis
+       </italic>
+       genomes showed that the bacterium has type I, II, III, V, and VI secretion systems.
+      </p>
+      <p>
+       <italic>
+        P. mirabilis
+       </italic>
+       secretes proteases with gelatinolytic activity [
+       ]. However, the specific secretion system responsible for their secretion has not been identified. It is known, however, that the ZapA protease is essential for infection in a mouse model as deletion of the gene resulted in a significant reduction of bacterial loads in a mouse model of UTI [
+       ] and a decrease in histopathology of prostate tissue in a rat model of prostatitis [
+       ].
+      </p>
+      <p>
+       The type III secretion system present in the
+       <italic>
+        P. mirabilis
+       </italic>
+       HI4320 strain is expressed in this strain [
+       ]. However, deletion of the essential ATPase or a negative regulator did not influence virulence in the ascending urinary tract infection (UTI) [
+       ]. Therefore, the system is likely not important in the overall virulence of the pathogen.
+      </p>
+      <p>
+       The
+       <italic>
+        P. mirabilis
+       </italic>
+       HI4320 strain has 3 subclasses of type V secretion systems: Va, Vb, and Vc. The Va, a classical autotransporter system, likely secretes the toxic Proteus agglutinin Pta [
+       ]. The hemolysin HpmA and its partner HpmB are secreted most likely by the two-partner secretion system type Vb [
+       ]. The type Vc is responsible for the secretion of trimeric autotransporters, of which the
+       <italic>
+        P. mirabilis
+       </italic>
+       HI4320 has three [
+       ]: the “adhesin-like” AipA, the “agglutinating adhesin-like” TaaP, and another one.
+      </p>
+      <p>
+       The type VI system is used to kill other bacteria, including other strains of
+       <italic>
+        P. mirabilis
+       </italic>
+       . Transposon mutagenesis of
+       <italic>
+        P. mirabilis
+       </italic>
+       HI4320 strain showed that the type VI secretion system has no role in virulence in a mouse model of ascending urinary tract infection (UTI) [
+       ].
+      </p>
+     </sec>
+     <sec id="sec2dot13dot2-biomolecules-11-00892">
+      <title>
+       2.13.2. Vaccines
+      </title>
+      <p>
+       Early attempts to develop a vaccine relied upon a continuous passaging of the pathogen through animals and using the attenuated strain as a vaccine again the starting parental strain. The strategy was used successfully by Jones via the oral route [
+       ]. Later strategies used recombinant proteins, alone or fused with cholera toxin B (CTB) subunit or expressed on the surface of an attenuated different pathogen.
+      </p>
+      <p>
+       The OmpA outer surface protein was used by Zhang et al. [
+       ] and Cui et al. [
+       ]. In the work by Zhang et al. [
+       ], natural adjuvant Taishan
+       <italic>
+        Pinus massoniana
+       </italic>
+       pollen polysaccharide (TPPPS) was used together with recombinant OmpA to immunize chicken. The SPF chickens were immunized via the s.c. route with increasing amounts of OmpA (50–150 μg) in adjuvant 3 times within 9 days and challenged orally with 100 LD50 of
+       <italic>
+        P. mirabilis
+       </italic>
+       Q1 strain a week after the last booster. The mortality of vaccinated chicken was reduced to 10% with the use of TPPPS adjuvant as opposed to around 60% when using the protein alone.
+      </p>
+      <p>
+       The protective efficacy of natural OmpA in protection against
+       <italic>
+        P. mirabilis
+       </italic>
+       infection was investigated by Cui et al.’s group [
+       ]. The immunization was performed as described previously but the amount of protein was increased (0.5–2 mg) and the challenge was as described previously [
+       ]. The inclusion of TPPPS adjuvant reduced the mortality rate to below 10% as opposed to under 30% when using the OmpA protein alone.
+      </p>
+      <p>
+       Vaccines using mannose-resistant fimbriae (MR/P) fusion with type I fimbriae from uropathogenic
+       <italic>
+        E. coli
+       </italic>
+       (UPEC) were used by Habibi et al. [
+       ]. The group used monolauryl phosphate (MPL) adjuvant with 25 μg of protein total/animal injected via nasal route and boosted twice with a week’s interval into BALB/c mice. The immunization could reduce bacterial load in a mouse bladder by 5 orders of magnitude while the unfused combination reduced the load by only 3 orders.
+      </p>
+      <p>
+       A similar reduction was observed when flagellar FliC and
+       <italic>
+        P. mirabilis
+       </italic>
+       MrpA from the mannose-resistant fimbriae (MR/P) were used [
+       ]. BALB/c mice were immunized with 30 μg protein/animal intranasally and challenged transurethrally into the bladder with 1 × 10
+       CFU of
+       <italic>
+        P. mirabilis
+       </italic>
+       HI4320 strain 1 week past the immunization. Combination of proteins, addition or fusion, could reduce bacterial load in the bladder by 4 logs while separate proteins could reduce the load in the bladder by 2–3 logs only. Reduction in the kidney was 3 logs for the combination and 2 logs for the separate proteins.
+      </p>
+      <p>
+       Habibi et al. [
+       ] used FimH from UPEC and MrpH from MR/P fimbriae from
+       <italic>
+        P. mirabilis
+       </italic>
+       to evaluate as potential vaccine candidates against uropathogenic infection (UPI). BALB/c animals were immunized with 25 μg/animal of proteins and their combinations via the s.c. route twice with 2-week intervals and challenged transurethrally with 1 × 10
+       CFU of
+       <italic>
+        P. mirabilis
+       </italic>
+       or UPEC two (UPEC) or seven (
+       <italic>
+        P. mirabilis
+       </italic>
+       ) days post-inoculation. Immunization with the fusion protein could reduce bladder bacterial load by 5 logs in the bladder and 4 in the kidney for the UPEC, and 6 and 5 in the bladder and kidney, respectively, for the
+       <italic>
+        P. mirabilis
+       </italic>
+       infection.
+      </p>
+      <p>
+       Change or immunization route to intranasal for the proteins gave worse effects than for the transurethral route as reported by Li et al. [
+       ]. CBA mice were immunized intranasally, transurethrally, or orally with 1 × 10
+       CFU formalin-killed
+       <italic>
+        P. mirabilis
+       </italic>
+       HI4320 strain or 100–200 μg MR/P fimbriae coupled to cholera toxin with complete Freund’s adjuvant and boosted twice with week intervals using incomplete Freund’s adjuvant. Mice were challenged on day 21 with 5 × 10
+       CFU
+       <italic>
+        P. mirabilis
+       </italic>
+       HI4320 strain via the transurethral route. The intranasal immunization with the major subunit MrpH of MR/P fimbriae was mildly effective (2 logs) in reducing bladder load and much better at reduction of the kidney load (4 orders) of
+       <italic>
+        P. mirabilis
+       </italic>
+       in a mouse model of infection.
+      </p>
+      <p>
+       However, the fusion of MrpH with cholera toxin chimeric fusion of A2 and B subunits was much more effective in reducing the bacterial load (4.5+ for bladder and 3+ for kidney) via the intranasal route in the same model [
+       ]. CBA mice were immunized as described above using the cholera toxin chimera A2 and B subunits as a mucosal adjuvant and challenged identically.
+      </p>
+      <p>
+       In another study on
+       <italic>
+        P. mirabilis
+       </italic>
+       vaccines, Bameri et al. [
+       ] used a fusion of MrpH (
+       <italic>
+        P. mirabilis
+       </italic>
+       ) and FliC (
+       <italic>
+        E. coli
+       </italic>
+       ). BALB/c mice were injected s.c. with 25 µg of proteins or their fusion and boosted twice every 2 weeks. Animals were challenged 1-week post-booster with 1 × 10
+       –10
+       CFU of
+       <italic>
+        P. mirabilis
+       </italic>
+       transurethrally. The fusion protein was very effective in reducing the bacterial count of
+       <italic>
+        P. mirabilis
+       </italic>
+       in the bladder (5 orders) and kidney (3 orders).
+      </p>
+      <p>
+       Many studies routinely included flagellin components as adjuvants acting on TLR receptors. However, Scavone et al. [
+       ] showed that such inclusion decreased the protective effect of
+       <italic>
+        P. mirabilis
+       </italic>
+       MrpA subunit of MR/P fimbriae. CD-1 mice were immunized intranasally with 30 μg (MrpA) or 7 μg (flagellin) and their combination per animal and boosted 4 times over 24 days. One week after the last booster, the animals were challenged with 1 × 10
+       CFU
+       <italic>
+        P. mirabilis
+       </italic>
+       Pr2921 transurethrally via a catheter.
+      </p>
+      <p>
+       The cancellation effect was reported only for the MrpA-FliC fusion but not for other fusions reported earlier. Therefore, the result may be connected to the particular combination of these two proteins.
+      </p>
+      <p>
+       A live vaccine approach was used by Scavone et al. [
+       ]. The group showed that a live vaccine based on
+       <italic>
+        Salmonella
+       </italic>
+       Typhimurium expressing
+       <italic>
+        P. mirabilis
+       </italic>
+       MrpA subunit fused to tetanus toxin TetC was effective. BALB/c mice were immunized intranasally with 1 × 10
+       CFU of
+       <italic>
+        S.
+       </italic>
+       Typhimurium expressing the fusion protein and boosted after 28 days. Mice were challenged with 2 × 10
+       CFU of
+       <italic>
+        P. mirabilis
+       </italic>
+       Pr2921 transurethrally 28 days past the booster. The live vaccine could reduce colonization of the urinary tract in mice by at least 3 orders of magnitude in kidneys and the bladder when using the intranasal vaccination route.
+      </p>
+      <p>
+       A different strategy designed to select B- and T-cell epitopes by the immune system was used by Choubini et al. [
+       ]. The group used MrpA, uroepithelial cell adhesin (UcaA), and Pta fragments from
+       <italic>
+        P. mirabilis
+       </italic>
+       selected for optimal B- and T-cell epitopes. BALB/c mice were immunized with 50 μg of total protein, separate or combinations, mixed with AdaVax adjuvant, boosted twice every 2 weeks, and challenged with 1 × 10
+       CFU/mL of
+       <italic>
+        P. mirabilis
+       </italic>
+       HI4320 strain 1 week after the last booster. The squalene-like adjuvant AddaVax was used to elicit Th1- and Th2-type immune responses. Immunization with the PtA-MrpA-UcaA fusion protein of all fragments was able to reduce the bacterial load of
+       <italic>
+        P. mirabilis
+       </italic>
+       by 6 orders in the bladder and 5 in kidneys in a UTI model of infection. It is the most effective vaccine construct against
+       <italic>
+        P. mirabilis
+       </italic>
+       reported in the literature to date.
+      </p>
+     </sec>
+    </sec>
+    <sec id="sec2dot14-biomolecules-11-00892">
+     <title>
+      2.14. Pseudomonas aeruginosa
+     </title>
+     <p>
+      The bacterium is a Gram-negative opportunistic pathogen infecting humans and animals. It is a part of human commensal flora but in cases of weakened immunity, the pathogen can be deadly if left uncontrolled. The situation is specifically problematic in the hospital settings in Intensive Care Units (ICUs) due to its broad drug resistance and ease of transmission. The bacterium is on the list of ESKAPE pathogens designated as a public health problem. An approved therapy relies on antibiotics. Indirect approaches, including virulence blockers, have not been available commercially despite excellent work by many groups [
+      ,
+      ,
+      ,
+      ,
+      ,
+      ,
+      ,
+      ,
+      ].
+     </p>
+     <sec id="sec2dot14dot1-biomolecules-11-00892">
+      <title>
+       2.14.1. Virulence Systems
+      </title>
+      <p>
+       The pathogen has multiple virulence systems according to the KEGG database (
+       <uri ns0:href="https://www.genome.jp/kegg-bin/show_pathway?pae03070">
+        https://www.genome.jp/kegg-bin/show_pathway?pae03070
+       </uri>
+       ): type I, II pathogenic and general, type III, Tat and type VI. Type II and III are targeting mostly host cells while type VI- bacterial flora, including that of the host [
+       ].
+       <italic>
+        P. aeruginosa
+       </italic>
+       has 3 types of type VI secretion systems [
+       ] and their roles in infection are beginning to emerge [
+       ]. The most studied system is encoded by the H1 locus [
+       ,
+       ].
+      </p>
+      <p>
+       Overall architecture and function of the type III secretion system in the pathogen have been described in detail [
+       ,
+       ,
+       ] and type II has been detailed in
+       <italic>
+        P. aeruginosa
+       </italic>
+       as well [
+       ,
+       ,
+       ,
+       ,
+       ]. In an animal model of infection, the type III system is the most important one for virulence with type II providing a minor role [
+       ]. The first system secretes 4 effectors: bifunctional ExoS and ExoT enzymes with GTPase-activating protein and ADP-ribosyltransferase activities [
+       ,
+       ], ExoY, an adenylate cyclase [
+       ], and ExoU, a potent cytotoxin with a phospholipase A2 activity [
+       ,
+       ]. The ExoU effector is the most important for virulence in a mouse model of infection [
+       ]. The second system secretes, among others, guanylate cyclase ExoA, proteases lasA/B, and many other factors [
+       ].
+      </p>
+      <p>
+       In some clinical strains lacking a type III secretion system, the pathogen uses a two-partner secretion (TPS) system to deliver a pore-forming exolysin (ExlA) [
+       ].
+      </p>
+      <p>
+       The fimbriae have been also recognized as virulence factors [
+       ,
+       ,
+       ]. Accordingly, they have been part of vaccine designs for other pathogens described previously and
+       <italic>
+        Pseudomonas aeruginosa
+       </italic>
+       .
+      </p>
+      <p>
+       The pathogen is known to express 3 kinds of type IV pili. The system is very much conserved and present in many bacteria. In
+       <italic>
+        P. aeruginosa
+       </italic>
+       , the system provides flagellum-independent motility [
+       ,
+       ].
+      </p>
+     </sec>
+     <sec id="sec2dot14dot2-biomolecules-11-00892">
+      <title>
+       2.14.2. Vaccines
+      </title>
+      <p>
+       There is no commercial available despite many years of research. Published vaccine strategies relied on different principles, ranging from inactivated whole cells to single recombinant proteins coupled with a carrier or alone.
+      </p>
+      <sec>
+       <title>
+        Flagellins
+       </title>
+       <p>
+        <italic>
+         P. aeruginosa
+        </italic>
+        expresses 2 types of flagellins: type a and type b based on the serotype [
+        ]. Type b is conserved among pathogens while type a is very variable except for one epitope a0 [
+        ]. Behrouz et al. [
+        ] used bivalent flagellin composed of both types to immunize mice in a pneumonia model of infection. The BALB/c mice were immunized intranasally with 2 μg of total flagellin at weekly intervals and challenged with 2 × 10
+        CFU of
+        <italic>
+         P. aeruginosa
+        </italic>
+        PAK and PAO1 strains via the same route. The immune response was predominantly through CD4
+        T lymphocytes and the strategy could protect animals against the fatal dose of pathogen up to 90% when immunized with both flagellins. The immunization with recombinant flagellins would increase survival rates up to 90% while reducing liver and spleen bacterial loads by 3 orders of magnitude. However, blood loads were reduced only by 2 orders while skin bacterial loads were unaffected.
+       </p>
+       <p>
+        Hegerle et al. [
+        ] coupled recombinant flagellins from
+        <italic>
+         P. aeruginosa
+        </italic>
+        with a purified outer polysaccharide (OPS) and used it for immunization of mice in a wound infection model. The Crl:CD-1 mice were injected i.m. into the right gastrocnemius with 2.5 μg or 5 μg of OPS conjugate 3 times over 28 days. Passive protection with post-immunization antibodies would increase the survival rate up to 50% for animals challenged via the i.p. route with 2.5–10 LD50
+        <italic>
+         P. aeruginosa
+        </italic>
+        strains MA, PA, and PAO1.
+       </p>
+       <p>
+        Inclusion of type IV pilin into a vaccination strategy with type a and type b flagellins was used by Hashemi et al. [
+        ] in a burn wound model. The animals were immunized via the s.c. route with proteins, 5 μg/protein, 3 times over 28 days and challenged s.c. under the created burn area on day 42 with 3–5 × 10
+        CFU of
+        <italic>
+         P. aeruginosa
+        </italic>
+        PAK or PAO1 strains. At least 90% of the animals survived the challenge with either strain when immunized with the trivalent vaccine. Removal of one component could decrease survival rates to 50%, depending on the component and the strain.
+       </p>
+       <p>
+        Using the same burn model, Korpi et al. [
+        ] tested a combination of flagellin b and pilin A against clinical isolate. The BALB/c mice were immunized with 10 μg of each protein/animal and challenged with 3–5 × 10
+        CFU of
+        <italic>
+         P. aeruginosa
+        </italic>
+        PAO1 and clinical isolate strains as described previously [
+        ]. The use of only recombinant flagellin b could protect at least 70% of animals while immunization with the pilin A protein would drop protection to 50% against the clinical isolate.
+       </p>
+      </sec>
+      <sec>
+       <title>
+        Porins
+       </title>
+       <p>
+        The proteins are outer surface antigens present on the surface of bacteria. Their function is frequently a transport of other small molecules, including β-lactam antibiotics [
+        ]. An analog of OmpA, the PA0883 protein identified by reverse vaccinology, was used as a vaccine candidate in an animal model of pneumonia [
+        ]. BALB/c mice were immunized i.m. with 30 μg protein/animal 3 times over 28 days and were challenged on day 35 with 5.0 × 10
+        CFUs of PAO1 intratracheally (pneumonia model) or 3.5 × 10
+        CFUs of PAO1 intravenously (sepsis model). Immunization with the recombinant protein could protect up to 70% of animals from death in the sepsis model and 50% in the pneumonia model.
+       </p>
+       <p>
+        Yu et al. [
+        ] used a fusion of Outer membrane protein F (OmpF) with a VP22 peptide in a DNA vaccine to facilitate the cellular spreading of antigen after immunization [
+        ]. The BALB/c mice were immunized via the i.m. route with 20 μg of plasmid and boosted 2 times with 2-week intervals and then challenged with 5 × 10
+        CFUs of
+        <italic>
+         P. aeruginosa
+        </italic>
+        PAO1 strain. The immunized mice had about a 50% survival rate after immunization with the C-terminal fusion of VP22 and none for the unfused and N-terminally-fused constructs after 10 days.
+       </p>
+       <p>
+        The strategy to use the fusion of OprF with OprI fragments from
+        <italic>
+         P. aeruginosa
+        </italic>
+        was tested in a human trial of non-surgical ICU patients [
+        ]. Patients were immunized via the i.m. route with 100 μg of protein twice with a 1-week interval. Unfortunately, the trial showed no clinical benefit of the vaccination in protection against
+        <italic>
+         P. aeruginosa
+        </italic>
+        -induced mortality. The data is in strong contrast with the work of Hasan et al. [
+        ] that showed significant protection of a mixture of OprF/OprI in a mouse model of infection.
+       </p>
+       <p>
+        Zhang et al. [
+        ] also tested a fusion of OprF/OprI on the surface of attenuated
+        <italic>
+         Salmonella
+        </italic>
+        Typhimurium. BALB/c mice were immunized with 2 × 10
+        CFU of recombinant
+        <italic>
+         S.
+        </italic>
+        Typhimurium orally or 2 × 10
+        CFU subcutaneously and boosted with the same doses after 2 weeks and then challenged with 5 × 10
+        CFUs of
+        <italic>
+         P. aeruginosa
+        </italic>
+        ZHDL9 virulent strain. The immunization could provide up to 80% survival rate in a mouse model of intranasal
+        <italic>
+         P. aeruginosa
+        </italic>
+        infection for the s.c.-immunized animals and only 40% for the orally immunized mice over 15 days.
+       </p>
+       <p>
+        In another use of the OprF/OprI construct, fusion to a heptameric hemolysin (Hla) from
+        <italic>
+         S. aureus
+        </italic>
+        was used to immunize BALB/c mice (40 μg/animal, i.m. route) and boosted twice within 21 days. One week after the last booster, mice were challenged intratracheally with 1 × 10
+        CFU of
+        <italic>
+         P. aeruginosa
+        </italic>
+        PAO1 strain. The oligomerized fusion construct increased the survival rate of animals from 30% to 80% in a mouse model of pneumonia
+        <italic>
+         P. aeruginosa
+        </italic>
+        infection when compared to the protein alone [
+        ]. In previously described human trials for the protein alone, immunization with the protein alone did not offer any improvement in mortality rates for the ICU patients [
+        ].
+       </p>
+       <p>
+        To improve the survival rate for the OprF/OprI fusion protein, a PcrV fragment was added [
+        ]. The OprF-OprI-PcrV fusion and separate components were injected via the s.c. route into BALB/c mice (10 μg/animal) and boosted twice over 28 days. The animals were challenged via the s.c. route with 2–10 LD50 of
+        <italic>
+         P. aeruginosa
+        </italic>
+        strains PAO1, PAK, and R5 using a burnt wound infection model. At least 75% of animals were protected up to 10 LD50 challenge doses against all strains for 10 days when using the complete fusion protein. Bacterial loads were reduced by at least 4 logs when examining skin and liver or spleen and kidney of the animals immunized with the full fusion protein.
+       </p>
+       <p>
+        To find peptides from
+        <italic>
+         P. aeruginosa
+        </italic>
+        stimulating Th-17 immune response, Wu et al. [
+        ] used a small peptide library to identify OprL as stimulating IL-17 secretion upon immunization. The mutated version, reOprL, was designed and used as a vaccine candidate. Testing was performed in a mouse model of
+        <italic>
+         P. aeruginosa
+        </italic>
+        infection [
+        ]. The C57BL/6 mice were immunized intranasally with 50 μg of protein and curdlan combinations and boosted 2 times over 28 days. The animals were challenged intratracheally with
+        <italic>
+         P. aeruginosa
+        </italic>
+        strains PA XN-1, PA01, PAK, PA27313, and PA27315 at 1.0 × 10
+        , 5.0 × 10
+        , 2.0 × 10
+        , 2.0 × 10
+        , and 2.5 × 10
+        CFU, respectively. As predicted, the Th-17 response was independent of the tested pathogen strain but the survival rates after vaccination were at best 60% 7 days post-challenge.
+       </p>
+       <p>
+        The use of another porin, OprH, in a mouse model of
+        <italic>
+         P. aeruginosa
+        </italic>
+        infection was also tested. BALB/c mice were immunized intranasally 3 times at weekly intervals with 10 μg of refolded OprH protein and curdlan as an adjuvant and later challenged with PA14 (2 × 10
+        CFU per mouse) or PA103 (2 × 10
+        CFU per mouse) virulent strains. Immunization with a refolded OprH protein with curdlan could protect up to 50% of the animals in the best case [
+        ].
+       </p>
+      </sec>
+      <sec>
+       <title>
+        Type III Secretion System Effectors
+       </title>
+       <p>
+        The strategies are based around the tip protein, PcrV, as it is essential for effector delivery and is typically exposed to antibodies on the pathogen’s surface. Immunization with the rPcrV and then challenge with a fully virulent strain administered with the antiPcrV antibodies could completely protect the mice from a lethal dose of
+        <italic>
+         P. aeruginosa
+        </italic>
+        in a lung model of infection [
+        ]. Removal of the preimmunization with PcrV or change of the preimmunization antigen to ExoU or PopD decreased the survival rates substantially. The data agree with other studies where administration of PcrV during vaccination was not sufficient to protect the animals completely based on the survival rates [
+        ,
+        ,
+        ,
+        ,
+        ,
+        ].
+       </p>
+       <p>
+        To help remedy the situation, a chimeric construct based on PopB/PcrH proteins mixed with curdlan and encapsulated in poly-lactic-co-glycolic acid (PLGA) to control delivery of vaccine candidate was tested in mice [
+        ]. The FVB/N mice were immunized intranasally with 20 μg of PopB/PcrH and their fusion per animal weekly for 3 weeks and challenged intranasally with 1 × 10
+        CFU of
+        <italic>
+         P. aeruginosa
+        </italic>
+        strain ExoU+ PAO1 three weeks after the last immunization. Encapsulation of antigens in PGLA improved protection from death from 50% to 70% when compared to the nonencapsulated antigen for at least 6 days. Bacterial burden in lungs was also reduced by 5 logs for the encapsulated version. However, the IL-17 secretion stimulation upon vaccination was inferior to the stimulation observed for curdlan.
+       </p>
+       <p>
+        The translocator proteins as vaccine antigens were used also by Das et al. [
+        ]. The group used a self adjuvating construct composed of a fusion of PcrV-PopB, LT1-PcrV-PopB, or separate proteins with a separate addition of mutated heat-labile enterotoxin (dmLT). BALB/c mice were immunized intranasally with different amounts of proteins (1–20 μg/animal) 3 times over 28 days and challenged 28 days after the last immunization with 2.5 × 10
+        CFU/30 µL of the PA15808959 strain. The exact challenge dose per animal was not given by the authors. The immunized animals showed at least a 5-log reduction in bacterial load in the lungs and a strong IgA and IgG induction. The load reduction of bacteria in the lungs for the animals immunized with A subunit of the heat-labile enterotoxin fused to LcrV and PopBV was 6 logs when the immunization was performed with 20 μg of the protein. The mortality rates were not listed in the work.
+       </p>
+       <p>
+        Search for the most immunogenic proteins was performed by Xu et al. [
+        ]. The group used a random screen of genomic library constructs of
+        <italic>
+         P. aeruginosa
+        </italic>
+        strains isolated from convalescent patients fused with maltose-binding protein (MBP) to select the most immunogenic proteins. Not surprisingly, the type III secretion system needle protein PscF was the only protein from the type III secretion system selected for the group of 13 proteins and later tested for protection against the fully virulent
+        <italic>
+         P. aeruginosa
+        </italic>
+        strain in a mouse model of lung infection. Purified MBP fusions were injected into BALB/c mice at 50 μg/animal and boosted twice over 21 days. Animals were challenged intranasally with 1 × 10
+        CFU of
+        <italic>
+         P. aeruginosa
+        </italic>
+        XN-1 strain 10 days after the last immunization. The PscF-based construct was the best vaccine candidate and protected 90% of the animals from the pathogen based on the survival ratio for 6 days.
+       </p>
+      </sec>
+      <sec>
+       <title>
+        Pilins
+       </title>
+       <p>
+        Investigation into the role of pilin A (pilA) in immune protection against
+        <italic>
+         P. aeruginosa
+        </italic>
+        was reported by Banadkoki et al. [
+        ]. BALB/c mice were immunized with recombinant pilin A (6 μg/animal) with or without naloxone (6 μg/g body weight) subcutaneously 3 times over 28 days and challenged intranasally with 3–5 × 10
+        CFU of
+        <italic>
+         P. aeruginosa
+        </italic>
+        two weeks after the last booster. Immunization with pilA protected at least 70% of animals from death in an intranasal model of
+        <italic>
+         P. aeruginosa
+        </italic>
+        PAO1 strain infection in mice when used with naloxone and only 40% when the opioid was not used. The same result was seen for a clinical isolate of
+        <italic>
+         P. aeruginosa
+        </italic>
+        .
+       </p>
+      </sec>
+      <sec>
+       <title>
+        O-Type Antigen
+       </title>
+       <p>
+        The approach used an engineered strain of
+        <italic>
+         Salmonella
+        </italic>
+        Typhimurium
+        <italic>
+         ΔwecA
+        </italic>
+        mutant [
+        ]. The strain expressed the heterologous O-antigen from
+        <italic>
+         P. aeruginosa
+        </italic>
+        . BALB/c mice were immunized orally with 1.3 × 10
+        CFU or intraperitoneally with 8 × 10
+        CFU of mutant
+        <italic>
+         Salmonella
+        </italic>
+        and challenged intranasally with 2.6 × 10
+        to 3.4 × 10
+        CFU of
+        <italic>
+         P. aeruginosa
+        </italic>
+        PA103 strain. For the orally-immunized animals, none survived the challenge but for the i.p.-immunized animals, the survival ranged from 20% to 90% for the lower doses. An increase of the challenge dose to 6.0 × 10
+        CFU showed that none of the animals survived the challenge.
+       </p>
+      </sec>
+      <sec>
+       <title>
+        Outer Membrane Vesicles
+       </title>
+       <p>
+        The vesicles are normally released by
+        <italic>
+         P. aeruginosa
+        </italic>
+        and other pathogens. They are composed of lipopolysaccharide and other outer membrane proteins while the inside contains nucleic acids and many cytoplasmic proteins [
+        ,
+        ]. Zhang et al. [
+        ] used
+        <italic>
+         P. aeruginosa
+        </italic>
+        vesicles to immunize mice and later challenge with the original or other
+        <italic>
+         P. aeruginosa
+        </italic>
+        strains in a mouse model of acute lung infection. BALB/c mice were immunized via the i.m. route with 30 μg of OMVs per animal and boosted twice within 21 days. Challenge was performed intratracheally with 5.0 × 10
+        CFUs of PAO1 strain one week after the last booster. The animals were protected from the lethal dose of the PAO1 strain up to 90% based on the survival rates after 10 days. However, protection against 3 clinical strains: XN-01, BJ-16, and KM-9, ranged from 60% to 90%.
+       </p>
+      </sec>
+      <sec>
+       <title>
+        Auxotrophs
+       </title>
+       <p>
+        Strategies based on auxotrophic vaccines have been known for a long time. However, there have not been many reported with a high success ratio. In the approach by Cabral et al. [
+        ], the genes responsible for conversion of L-glutamate into D-glutamate,
+        <italic>
+         murI
+        </italic>
+        , and the potential rescue gene
+        <italic>
+         dat
+        </italic>
+        coding for D-alanine aminotransferase, have been removed. The resulting strain cannot make a full peptidoglycan structure due to the lack of D-glutamate. The mutations were stable and the strain was used as a live vaccine against fully virulent
+        <italic>
+         P. aeruginosa
+        </italic>
+        strains in a mouse model of infection. BALB/c or C57BL/6 mice were immunized intravenously with 2 × 10
+        CFU of the mutant strain and boosted after 2 weeks. The animals were challenged with 2 × 10
+        CFU of PAO1 strain on day 25, 4 × 10
+        CFU of the same strain on day 28 (C57BL/6 strain), or 4 × 10
+        CFU of PA28562 strain on day 25 (C57BL/6 mice). The vaccination almost completely protected the animals from death and reduced bacterial loads in the liver, spleen, and lungs by at least 4 logs. To improve protection, an extra booster on day 28 and a challenge on day 35 were used. In that case, all animals were protected for at least 7 days. In the pneumonic model of infection with
+        <italic>
+         P. aeruginosa
+        </italic>
+        in mice, the strategy based on a single gene deletion,
+        <italic>
+         murI
+        </italic>
+        , was only partially successful after different immunizations [
+        ]. BALB/c mice were immunized with 2 × 10
+        CFU of mutant and boosted on days 8 and 15. Challenge was performed on day 42 with different strains and amounts using the intranasal route. The PAO1 strain was fully protected against for 7 days when the 5 × 10
+        CFU challenge was used but only 20% when the 4–10
+        CFU of the pathogen was applied. Reduction of booster shots to one and application at day 14 had mixed effects on different PA strains. Challenge with PAO1 ExoU+ (7 × 10
+        CFU), PA14 (1 × 10
+        CFU), ST235 (3 × 10
+        CFU), and PAO1 (2 × 10
+        CFU) offered at least 90% protection over 7 days except for the ST235 strain where the immunization was protective for only 30% of the animals.
+       </p>
+      </sec>
+     </sec>
+    </sec>
+    <sec id="sec2dot15-biomolecules-11-00892">
+     <title>
+      2.15. Salmonella enterica
+     </title>
+     <p>
+      The bacterium is a facultative anaerobic Gram-negative pathogen, frequently infecting humans. It is frequently associated with food poisoning, specifically raw eggs [
+      ,
+      ]. In developing countries, the pathogen is an etiological agent of enteric fevers, caused predominantly by 2 serovars, Typhi and Paratyphi. There are 3 vaccines recommended for Typhi serovar: (i) typhoid conjugate vaccine (TCV); (ii) unconjugated Vi polysaccharide (ViPS) vaccine, and (iii) live attenuated Ty21a vaccine, but no recommendation exists for the Paratyphi serovar [
+      ].
+     </p>
+     <p>
+      Recognized virulence factors include effectors secreted by the virulence systems, fimbriae, and the capsular polysaccharide Vi. Serovar Typhi also encodes a cytolethal distending toxin Cdt [
+      ]. The toxin is composed of 2 subunits, A and B.
+     </p>
+     <sec id="sec2dot15dot1-biomolecules-11-00892">
+      <title>
+       2.15.1. Virulence Systems
+      </title>
+      <p>
+       The bacterium has type I, general, type III, Tat, and type VI virulence systems (
+       <uri ns0:href="https://www.genome.jp/kegg-bin/show_pathway?sty03070">
+        https://www.genome.jp/kegg-bin/show_pathway?sty03070
+       </uri>
+       ). There are 2 main types of III secretion systems coded on separate
+       <italic>
+        Salmonella
+       </italic>
+       Pathogenicity Islands (SPI): SPI-1 [
+       ] and SPI-2 [
+       ]. Both systems cooperate in killing macrophages and subsequent escape of pathogen from them. However, the first one is responsible for the cellular invasion of host epithelial cells while the second one- for the establishment of intracellular replication [
+       ,
+       ,
+       ]. Type VI is necessary for the establishment of colonization in the intestines [
+       ] and cytotoxicity to human epithelial cells [
+       ].
+      </p>
+     </sec>
+     <sec id="sec2dot15dot2-biomolecules-11-00892">
+      <title>
+       2.15.2. Vaccines
+      </title>
+      <sec>
+       <title>
+        Cytolethal Distending Toxin B
+       </title>
+       <p>
+        There is only 1 report on the use of Cdt as a vaccine candidate. Thakur et al. [
+        ] used the B subunit of Cdt to immunize mice against
+        <italic>
+         S. enterica
+        </italic>
+        <italic>
+         S.
+        </italic>
+        Typhi. BALB/c mice were immunized via the i.p. route using 50 μg protein/animal incomplete Freund’s adjuvant and boosted with 25 μg of protein in Freund’s incomplete adjuvant 3 times within a month. The animals were challenged with 10
+        CFU of
+        <italic>
+         S.
+        </italic>
+        Typhi per animal via the same route. Surprisingly, 80% of animals survived the challenge for 30 days and histopathological examination showed tissue restoration within the liver and spleen of the immunized animals after 7 days post-challenge.
+       </p>
+      </sec>
+      <sec>
+       <title>
+        Secreted Effectors
+       </title>
+       <p>
+        There are 5 reported cases of using T3SS effectors as vaccine candidates in this review. In the first one, Hu et al. [
+        ] used a fusion of
+        <italic>
+         S. enterica
+        </italic>
+        T3SS-2 effector SspH2 (E3 ubiquitin ligase) with
+        <italic>
+         E. coli
+        </italic>
+        EscI protein as a live
+        <italic>
+         Salmonella
+        </italic>
+        vaccine candidate in a mouse model of i.v. infection with
+        <italic>
+         S. enterica
+        </italic>
+        . C57BL/6 mice were immunized via the i.v. route with 10
+        CFU of engineered
+        <italic>
+         Salmonella
+        </italic>
+        and challenged with 1 × 10
+        CFU via the i.p. route with
+        <italic>
+         S. enterica
+        </italic>
+        D6 fully virulent strain 1-week post-immunization. Surprisingly, the addition of the EscI protein enhanced the survival rate to 100% vs. 40% for the construct lacking the EscI part. Bacterial loads in the spleen and liver were only 1.5 logs reduced upon vaccination with the SspH2-EscI construct while no statistical difference was seen for the SspH2 construct alone.
+       </p>
+       <p>
+        In the second case, Martinez-Becerra et al. [
+        ] used effectors from T3SS-1 and T3SS-2 to test as vaccine candidates in a mouse model of
+        <italic>
+         Salmonella
+        </italic>
+        Enteritidis infection. They used tip and first translocator fusions from T3SS-1 (SipD-SipB) or T3SS-2 (SseB-SseC) and their combination in an oral gavage model. BALB/c mice were immunized with recombinant proteins (20 μg/animal) via the i.m. route and boosted twice within 28 days. Challenge was performed via the oral route with 2 × 10
+        CFU of
+        <italic>
+         S.
+        </italic>
+        Typhimurium SL1344 or 5 × 10
+        CFU of
+        <italic>
+         S.
+        </italic>
+        Enteritidis 125109 strains 28 days after the last booster. The combination formulation was the most protective and could increase the survival rate to 60% vs.10% for either construct alone for 20 days.
+       </p>
+       <p>
+        In the third case, Jneid et al. [
+        ] used PrgI (needle) and SipD (tip) from T3SS-1 as antigens to immunize mice against
+        <italic>
+         S.
+        </italic>
+        Typhimurium in an oral gavage model of infection. BALB/c mice were inoculated via the s.c. or i.n. routes and boosted twice with 21-day intervals. In the s.c. route, the proteins (20 μg) were mixed with alum as adjuvant while in the intranasal route- 10 μg of protein was used with 1.5 μg of cholera toxin as an adjuvant. For the oral route, 300 μg of protein with 10 μg of cholera toxin was used and animals were boosted 2 or 3 times with 21-day intervals. Animals were challenged with 100 LD50 (~10
+        CFU) of
+        <italic>
+         S.
+        </italic>
+        Typhimurium orally 42 days past the last booster. The best protection (60%) was observed for the oral immunization protocol with a triple booster for the SipD protein. Removal of the third booster decreased protection to 40% for the SipD antigen in the oral immunization protocol. A combination of both antigens could afford only 40% protection for the oral immunization protocol regardless of the extra booster. Intranasal immunization showed that the SipD antigen could offer 50% protection while the combination- only 40%.
+       </p>
+       <p>
+        In the fourth work, the IpaD (
+        <italic>
+         Shigella
+        </italic>
+        ) and SipD (
+        <italic>
+         Salmonella
+        </italic>
+        ) antigens were used in cross-protection from
+        <italic>
+         Shigella flexneri
+        </italic>
+        and
+        <italic>
+         S.
+        </italic>
+        Typhimurium [
+        ]. BALB/c mice were immunized via oral route with 300 μg recombinant proteins mixed with 10 μg of cholera toxin and boosted twice with 21-day intervals or via the intranasal route with 10 μg of protein mixed with 1.5 μg of cholera toxin using the same schedule. The orally-immunized animals were challenged with 100 LD50 of virulent
+        <italic>
+         S.
+        </italic>
+        Typhimurium (~10
+        CFU/mL) orally or with 100 LD50 of virulent
+        <italic>
+         S. flexneri 2a
+        </italic>
+        (~5 × 10
+        CFU/mL) intranasally for the i.n.-immunized animals 42 days after the last booster. In the homologous protection from
+        <italic>
+         Salmonella
+        </italic>
+        , the SipD antigens offered 40–50% protection over 21 days while in the heterologous protection- the IpaD offered only 30% protection in the same period regardless of the immunization route. In the homologous protection from
+        <italic>
+         Shigella
+        </italic>
+        , the IpaD antigen delivered orally offered 60% protection while the intranasal delivery reduced the protection to 30%. In the heterologous protection from
+        <italic>
+         Shigella
+        </italic>
+        , the SipD antigen could protect 70% of the animals when delivered orally but only 50% when the route was changed to intranasal.
+       </p>
+       <p>
+        In the last reviewed case, Lee et al. [
+        ] used a combination of SseB and flagellin to immunize mice against
+        <italic>
+         Salmonella
+        </italic>
+        via an oral route. C57BL/6 mice were immunized with a recombinant SseB (100 μg/animal),
+        <italic>
+         Salmonella
+        </italic>
+        -purified flagellin (100 μg protein +10 μg LPS), or their combination via i.v. route and boosted after 4 weeks. Challenge was performed with 1000 CFU of
+        <italic>
+         Salmonella
+        </italic>
+        SL1344 via the i.v. route or 5 × 10
+        CFU
+        <italic>
+         Salmonella
+        </italic>
+        SL1344 orally 4 weeks after the last booster. Each protein did not protect the animals but a combination of both could protect the animal up to 20% based on survival rates for 100 days post-infection. Bacterial loads in the spleen and liver were reduced by 4 logs for the combination delivered intravenously but only by 1–2 logs when separate proteins were used. Change of the immunization route to oral reduced bacterial loads in spleen and liver by only 3 logs for the combination of antigens.
+       </p>
+      </sec>
+      <sec>
+       <title>
+        Invasin
+       </title>
+       <p>
+        To address the gap in vaccines against
+        <italic>
+         S.
+        </italic>
+        Paratyphi, a different protein antigen was used. The strategy was based on the fact that
+        <italic>
+         S.
+        </italic>
+        Typhi invasin is always present on the surface of bacteria, and its removal decreases the pathogen’s virulence [
+        ,
+        ]. In the mouse model of
+        <italic>
+         S.
+        </italic>
+        Paratyphi intragastric infection by Das et al. [
+        ], BALB/c mice were immunized with 5 μg/animal of recombinant
+        <italic>
+         Salmonella
+        </italic>
+        Typhi Invasin (rSTIV) via the s.c. route and boosted 3 times every week. Challenge was performed with 5 × 10
+        CFU of
+        <italic>
+         S. Typhi
+        </italic>
+        or 5 × 10
+        CFU of
+        <italic>
+         S.
+        </italic>
+        Paratyphi via the oral route 8 days after the last booster. The rSTIV antigen offered 90% protection from the pathogen for 5 days, better than the 50% protection observed for the standard vaccine Vi-TT in the experiment. Bacterial load reduction in spleen and liver was less than 1 log, unfortunately. Challenge with
+        <italic>
+         S.
+        </italic>
+        Paratyphi showed that the rSTIV antigen could protect 70% of animals for 5 days. However, the challenge dose was equal to 10 LD50, about 10 times lower than the background cutoff for vaccines.
+       </p>
+      </sec>
+      <sec>
+       <title>
+        Porins
+       </title>
+       <p>
+        The proteins are Outer membrane protein F (OmpF) and OmpC present in
+        <italic>
+         Salmonella
+        </italic>
+        and, due to their conservation, frequently used as universal vaccine candidates for a given strain. The serovar Enteritidis is frequently present in poultry farms and a combination of those 2 proteins plus a total extract of outer membrane proteins (OMV) were used by Li et al. [
+        ] as a candidate vaccine. Hyline White Chickens were immunized via the i.m. route with a total of 60 μg of a combination of rOmpF, rOmpC, and OMV with adjuvants with a booster after a week. Animals were challenged with 2 × 10
+        CFU of
+        <italic>
+         S.
+        </italic>
+        Enteritidis LQSE171 strain via an unspecified route. The best combination included OMVs with recombinant OmpF which could fully protect the chicken from the pathogen as judged by survival rates after 14 days. The addition of rOmpC decreased the protection by about 10%. In general, the protection was at least 60% for the tested combinations. Bacterial loads of organs showed that the pathogen was mostly eliminated by day 14 and completely by day 21 when examining the spleen, ileum, and liver. Elimination from cecum was not possible, either.
+       </p>
+       <p>
+        In a variation of OMV-based antigens, encapsulation of OMVs with chitosan sulfate and the addition of flagellin was used as a vaccine candidate against
+        <italic>
+         S.
+        </italic>
+        Enteritidis. Chicken eggs were immunized with 1000 μg of chitosan-encapsulated nanoparticle vaccine [
+        ] and flagellin by
+        <italic>
+         in-ovo
+        </italic>
+        vaccination. The animals were challenged at day 7 post-hatching with 1 × 10
+        CFU/bird of
+        <italic>
+         S.
+        </italic>
+        Enteritidis via the oral route. The vaccine could completely protect the chicken from mortality but the bacterial load reduction in ceca was reduced only by a log.
+       </p>
+      </sec>
+      <sec>
+       <title>
+        Flagellins
+       </title>
+       <p>
+        Flagellins are frequently used as vaccine candidates as they are recognized by the innate immune system receptors. There are 2 examples described in the review.
+       </p>
+       <p>
+        Baliban et al. [
+        ] conjugated the FliC flagellin protein to the core of normal O-deacetylated lipopolysaccharide from
+        <italic>
+         S.
+        </italic>
+        Enteritidis or the FliC deletion mutant and used it as a vaccine candidate. CD-1 mice were immunized with 2.5 μg of FliC or the conjugate via the i.m. route and challenged with 1 × 10
+        CFU of
+        <italic>
+         S.
+        </italic>
+        Enteritidis via the i.p. route and boosted twice with 28-day intervals. Four weeks after the last booster, the animals were challenged with
+        <italic>
+         S.
+        </italic>
+        Typhimurium D65 strain 1–5 × 10
+        CFU via the i.p. route. The normal LPS fraction fused with the FliC protein could protect at least 90% of mice in the challenge while the O-deacetylated LPS fraction could reach only 60% protection in the mouse model of infection. The results were obtained for the 5–10 LD50 challenge dose which is below the background 100 LD50 level encountered in vaccine studies.
+       </p>
+       <p>
+        An increase of immunization load with the FliC-LPS core fusion to 3× could protect 80% of mice from death when challenged with approximately 40 LD50 of the virulent strain [
+        ]. CD-1 mice were immunized with 5 μg/animal of FliC alone or coupled with the core LPS and challenged with 1 × 10
+        CFU of
+        <italic>
+         S.
+        </italic>
+        Enteritidis R11 strain via the i.p. route. When the alum or MPL adjuvant was used during immunization protocol, the survival rate was 80% for the adult mice but only 70% for the infants. An increase in the antigen dose to 3× during immunization and the use of MPL for the core LPS-FliC conjugate could boost protection to 90% for the adult-primed and 70% for the infant-primed animals. Removal of the
+        <italic>
+         fliC
+        </italic>
+        gene from the challenge strain also reduced animal protection as compared to the wt strain.
+       </p>
+      </sec>
+      <sec>
+       <title>
+        Live Pathogens
+       </title>
+       <p>
+        Strategies for creating live vaccines of
+        <italic>
+         Salmonella
+        </italic>
+        are varied. Classic deletion of amino acid biosynthesis genes surprisingly led to increased virulence in
+        <italic>
+         Salmonella enterica
+        </italic>
+        [
+        ]. However, the aro- mutant has been used in chicken as a live vaccine (Vaxsafet ST
+        in Australia) [
+        ].
+       </p>
+       <p>
+        In China, the
+        <italic>
+         S.
+        </italic>
+        Paratyphi-based C500 live vaccine has been used to protect swine [
+        ]. Its immune mechanism is not known, however.
+       </p>
+       <p>
+        Metabolic interference in essential pathways was tried by Datey et al. [
+        ]. A replacement of folate biosynthesis pathway gene
+        <italic>
+         folD
+        </italic>
+        encoding methylenetetrahydrofolate dehydrogenasecyclohydrolase with a heterologous
+        <italic>
+         fhs
+        </italic>
+        gene encoding formyltetrahydrofolate synthetase in
+        <italic>
+         trans
+        </italic>
+        in
+        <italic>
+         S.
+        </italic>
+        Typhimurium strain was constructed. BALB/c or C57BL/6 mice were orally inoculated with 1 mL of 10
+        CFU of TM
+        <italic>
+         ΔfolD
+        </italic>
+        /pACDH-
+        <italic>
+         fhs
+        </italic>
+        strain and boosted with 10
+        CFU of the same strain after 7 days. Challenge was performed with 10
+        CFU of STM-WT 7 days post booster. The immunization could protect mice against approximately 100 LD50 of the virulent strain in an oral model of mouse infection. The strategy could offer long-term protection but the clearance of bacteria from intestines was only 2–3 logs.
+       </p>
+       <p>
+        In another study of interference with essential metabolism, the pathway leading to cobalamine was altered [
+        ]. Cobalamine biosynthesis-deficient mutants
+        <italic>
+         ΔcobSΔcbiA
+        </italic>
+        of
+        <italic>
+         S.
+        </italic>
+        Gallinarum were used in a chicken infection model. Brown-layer hens were inoculated with 10
+        CFU of the mutant orally and challenged with 10
+        CFU of the SG287/91 strain 20 days post-inoculation. The vaccine completely protected chicken from the fully virulent strain as judged by mortality rates. The protection was tested against 100 LD50 of the fully virulent strain, a background level in vaccine development.
+       </p>
+       <p>
+        Removal of part of the phosphotransferase system (
+        <italic>
+         ΔptsI Δcrr
+        </italic>
+        ) necessary for carbohydrate transport from the medium into the cytoplasm of the pathogen was tested by Zhi et al. [
+        ]. The protection was complete in the intraperitoneal (i.p.) and oral routes of immunization and could clear mice of the pathogen from mesenteric lymph nodes, spleen, caecum, and blood.
+       </p>
+       <p>
+        A search for virulence attenuation in
+        <italic>
+         S.
+        </italic>
+        Enteritidis was performed by transposon scan mutagenesis [
+        ] and many targets were identified. Guo et al. [
+        ] used an
+        <italic>
+         ΔsptP
+        </italic>
+        mutant of
+        <italic>
+         S.
+        </italic>
+        Enteritidis strain C50336 as a live vaccine candidate. SPF chickens were immunized with 10
+        –10
+        CFU of the mutant via the i.m. route and challenged with 1 × 10
+        CFU of the fully virulent Z-11 strain via the same route. Immunization with the mutant strain could protect against approximately 1000 LD50 of the fully virulent wild type pathogen. Bacteria were also cleared completely from the spleen and liver by day 14 post-infection in the vaccinated chicken.
+       </p>
+       <p>
+        Protein synthesis pathways interference was used in another attempt at live vaccine. Park et al. [
+        ] used a
+        <italic>
+         ΔyjeK
+        </italic>
+        mutant deficient in the protein synthesis elongation step. BALB/c mice were injected with 10
+        CFU/dose of the
+        <italic>
+         S. enterica
+        </italic>
+        Typhimurium 1120 strain via the i.p. route and challenged with ST2173 strain at 10
+        CFU/dose (protection assay) or 10
+        CFU/dose (survival assay) orally 28 days post-immunization. At the 100 LD50 challenge dose of the pathogen, all immunized animals survived. However, bacterial load reduction in the spleen was only 1 log as compared to the unvaccinated animals.
+       </p>
+       <p>
+        Direct interference with the virulence secretion system was tried for the type III secretion system by Yin et al. [
+        ] where the full SPI-2 operon in
+        <italic>
+         S.
+        </italic>
+        Paratyphi A strain SPA017 was removed. BALB/c mice were inoculated with the SPA017ΔSPI2 mutant at 5 × 10
+        CFU and challenged with 10
+        CFU of the wt strain via the same route at unspecified time post-immunization. Immunization via the i.p. route of mice with the mutant could completely protect animals from at least 10
+        CFU of fully virulent strain. Unfortunately, the challenge dose was only 10 LD50 which is below the background level for vaccine testing.
+       </p>
+       <p>
+        Double interference with aromatic amino acid biosynthesis and virulence system was tested for the double mutant
+        <italic>
+         ΔaroC ΔSsaV
+        </italic>
+        (SPI-2) of
+        <italic>
+         S. enterica
+        </italic>
+        Typhimurium. The construct was used as a potential live vaccine and progressed into Phase I clinical trials [
+        ]. However, the mutant did not progress into commercial development due to poor protection.
+       </p>
+       <p>
+        Triple mutant targeting porin, carbohydrate metabolism, and type III secretion system were used by Li et al. [
+        ]. The construct combined deletion from SPI-2 (
+        <italic>
+         ΔspiC
+        </italic>
+        ) with OmpD porin (
+        <italic>
+         ΔnmpC
+        </italic>
+        ) or rfaL involved in mannitol utilization (
+        <italic>
+         ΔrfaL
+        </italic>
+        ) in a chicken model of
+        <italic>
+         S.
+        </italic>
+        Enteritidis infection. SPF Hyline White chickens were immunized with CZ14-1
+        <italic>
+         ΔspiC∆nmpC
+        </italic>
+        , CZ14-1
+        <italic>
+         ΔspiC∆rfaL
+        </italic>
+        . In a rare study, the animals were challenged with 10
+        LD50 of virulent strain after vaccination with the combinations. At least 75% of chicken survived the challenge and the bacteria were eliminated from the cecum, ileum, spleen, and liver.
+       </p>
+       <p>
+        Another triple mutant as a live vaccine candidate was tried by Zhao et al. [
+        ]. The group used a triple mutant
+        <italic>
+         ΔfliC
+        </italic>
+        (flagellin)
+        <italic>
+         Δfnr
+        </italic>
+        (regulator of fumarate and nitrite reduction)
+        <italic>
+         ΔarcA
+        </italic>
+        (regulator of metabolism in response to oxygen levels) as a live vaccine against
+        <italic>
+         S.
+        </italic>
+        Typhimurium in a mouse model of infection. BALB/c mice were immunized orally with 10
+        or 10
+        CFU of LT39 (Δ
+        <italic>
+         fnr
+        </italic>
+        Δ
+        <italic>
+         arcA
+        </italic>
+        Δ
+        <italic>
+         fliC
+        </italic>
+        ) and boosted after 28 days. The animals were challenged orally with 100 LD50 of ATCC1402 strain 1 month after the booster. The animals were fully protected against challenge with 100 LD50 of the virulent strain when immunized with 10
+        CFU of the mutant but only 90% when 10
+        CFU of the mutant was used for immunization. Bacterial organ load in the spleen and liver could also be reduced up to 4 orders upon vaccination with 10
+        or 10
+        CFU of the mutant.
+       </p>
+       <p>
+        The use of LPS components was studied as a live vaccine strategy. Transfer of the whole O-antigene synthetic cluster (
+        <italic>
+         wzx-wbaZ
+        </italic>
+        ) from
+        <italic>
+         Salmonella
+        </italic>
+        Newport was tested by Zhang et al. [
+        ] in an
+        <italic>
+         S.
+        </italic>
+        Typhimurium strain. Four combinations were created with a homo- or heterologous expression of the O-antigen on the surface of the recipient
+        <italic>
+         Samonella
+        </italic>
+        Typhimurium strain. BALB/c mice were immunized orally with 1 × 10
+        CFU of each mutant strain and boosted with the same strain after 4 weeks. One month after the booster, the animals were challenged orally with 100 LD50 of
+        <italic>
+         S.
+        </italic>
+        Typhimurium ATCC14028 or
+        <italic>
+         S.
+        </italic>
+        Newport SLN06 strain. Each of the constructs could protect against challenge with the donor strain when tested at 100 LD50 level. Bacterial load decrease in organs after vaccination was 3–5 orders of magnitude.
+       </p>
+      </sec>
+     </sec>
+    </sec>
+    <sec id="sec2dot16-biomolecules-11-00892">
+     <title>
+      2.16. Shigella
+     </title>
+     <p>
+      <italic>
+       Shigella
+      </italic>
+      is a genus of bacteria that is Gram-negative and facultatively anaerobic. There are 4 species:
+      <italic>
+       dysenteriae
+      </italic>
+      ,
+      <italic>
+       flexneri
+      </italic>
+      ,
+      <italic>
+       boydii
+      </italic>
+      , and
+      <italic>
+       sonnei
+      </italic>
+      . All except the
+      <italic>
+       boydii
+      </italic>
+      species can cause severe dysenteric human disease shigellosis. The bacteria are transmitted via the fecal-oral route and most episodes are associated with poor sanitation and contaminated water. There is no commercial vaccine available [
+      ] despite intensive efforts [
+      ,
+      ] and the only therapy is with antibiotics.
+     </p>
+     <p>
+      The pathogens have a type III secretion system encoded extrachromosomally on a plasmid. The overall structure of the system is conserved functionally and the system has been a target of different therapeutic approaches [
+      ,
+      ,
+      ,
+      ] due to its role in the infection process [
+      ,
+      ,
+      ,
+      ].
+     </p>
+     <sec>
+      <title>
+       Vaccines
+      </title>
+      <p>
+       The main target in the group is the type III secretion system and 2 of such strategies will be described in the present review. In the first strategy, translocator proteins IpaD-IpaB were used as a vaccine candidate by Chen et al. [
+       ]. The recombinant IpaD-IpaB proteins, separate and a fusion, were purified from
+       <italic>
+        E. coli
+       </italic>
+       , solubilized in a detergent (LDAO or OPOE), and used as antigens in a mouse model of infection with
+       <italic>
+        S. flexneri
+       </italic>
+       . Mice (unspecified) were immunized intranasally with 2.5 μg protein/animal with a double mutant heat-labile enterotoxin (dmLT) and boosted twice over 28 days with the same antigen. Challenge was performed with 1.6 × 10
+       CFU of
+       <italic>
+        S. flexneri
+       </italic>
+       2457T strain via intranasal route 28 days after the last booster. The fusion protein could protect up to 90% of the mice from 10
+       CFU of pathogen delivered intranasally when the LDAO detergent was used for its solubilization during purification and only 50% when the OPOE detergent was used.
+      </p>
+      <p>
+       In a different approach, Heine et al. [
+       ] used IpaB and IpaD displayed on the surface of
+       <italic>
+        Lactobacillus lactis
+       </italic>
+       bacterial-like particles (BLPs) to immunize mice. The attachment of BLPs was needed to avoid adding detergents to purified proteins for solubilization. BALB/c mice were immunized intranasally with increasing amounts (2.5–53 μg/animal) of proteins alone or coupled to BLPs via the intranasal route and boosted twice over 28 days. Animals were challenged with 6 × 10
+       CFU of virulent
+       <italic>
+        S. flexneri 2a
+       </italic>
+       2457T (~11 MLD50) or 1.3 × 10
+       CFU of S. sonnei 53G (~6 MLD50) orally. The construct protected up to 90% and 80% of animals against the
+       <italic>
+        S. flexneri
+       </italic>
+       and
+       <italic>
+        S. sonnei
+       </italic>
+       challenge, respectively, when immunization was performed with BLPs at the highest dose of antigen. Removal of the BLPs reduced the numbers to 40% and 20% for
+       <italic>
+        S. flexneri
+       </italic>
+       and
+       <italic>
+        S. sonnei
+       </italic>
+       , respectively, for the highest amount of protein used.
+      </p>
+     </sec>
+    </sec>
+    <sec id="sec2dot17-biomolecules-11-00892">
+     <title>
+      2.17. Yersinia pestis
+     </title>
+     <p>
+      <italic>
+       Yersinia pestis
+      </italic>
+      is a Gram-negative facultative anaerobe. The pathogen is the most lethal bacterium known to humans and LD50 for mice in an s.c. model is 1–2 CFU [
+      ]. The pathogen was responsible for the epidemic of the Black Death in medieval Europe and the bacterium is still endemic in Africa, mainly Madagascar, Asia (China, India, Pakistan), South America, and the Western United States [
+      ,
+      ]. There is no vaccine recommended by the WHO despite intensive research [
+      ] and the only treatment is with antibiotics [
+      ].
+     </p>
+     <p>
+      Genetic analysis of
+      <italic>
+       Y. pestis
+      </italic>
+      genomes identified that the pathogen has a type III secretion system that is important for virulence [
+      ,
+      ]. The system targets macrophages predominantly [
+      ,
+      ] and LcrV plays an important part in this process [
+      ]. There are 2 types of plague: bubonic and pneumonic, the first one transmitted through flea bites [
+      ] and the second—through aerosol. A third form, the septicemic plague, has also been recognized despite being contracted through flea bites like the bubonic plague [
+      ,
+      ]. Clinically, the septicemic plague is the stage where the pathogen is spread systemically and causing sepsis. In a pulmonary model of infection in mice, targeting the tip of the injectisome with anti-LcrV antibodies could efficiently block effector secretion into the cytosol of the host [
+      ].
+     </p>
+     <p>
+      The capsule protein F1 is also important for phagocytosis [
+      ] and antibodies to it could be detected in sera of convalescent patients [
+      ,
+      ,
+      ]. The most promising vaccine candidates are based on the fusion LcrV-F1 and their combinations [
+      ]. Moore et al. [
+      ] succeded in the stabilization of the F1/V proteins-based formulation for the oral and intradermal delivery, each with a different adjuvant and relatively stable. However, the F1-V combination could be questionable for the F1- mutants of the pathogen [
+      ] and the polymorphism in the LcrV protein that could defeat the F1-V fusion [
+      ,
+      ,
+      ]. Therefore, alternative strategies are being developed (review in [
+      ]).
+     </p>
+     <sec id="sec2dot17dot1-biomolecules-11-00892">
+      <title>
+       2.17.1. Secretory System Proteins
+      </title>
+      <p>
+       The approach is used typically with the F1 capsule protein as it is important for protection. However, separate proteins have been used as well. Swietnicki et al. [
+       ] used purified recombinant YscF needle protein in an s.c. model of
+       <italic>
+        Y. pestis
+       </italic>
+       infection of mice. Swiss Webster mice were inoculated with 20 μg of recombinant protein absorbed with the Ribi adjuvant system via the s.c. route and boosted with the same amount after 30 days. The animals were challenged with 130 LD50 of
+       <italic>
+        Y. pestis
+       </italic>
+       CO92 strain via the same route. Immunization with the recombinant protein could protect 60% of the animals against 130 LD50 of the
+       <italic>
+        Y. pestis
+       </italic>
+       CO
+       <sub>
+        2
+       </sub>
+       strain.
+      </p>
+      <p>
+       The YscF protein was also used in protection against a different strain of pathogen that is less virulent. Matson et al. [
+       ] used the recombinant YscF protein to evaluate protection in a mouse model of
+       <italic>
+        Y. pestis
+       </italic>
+       KIM5 strain deficient in the pigmentation locus. Swiss Webster mice were immunized with 40 μg/mouse of emulsified (complete Freund’s adjuvant) antigen via the i.p. route, boosted with the same after 2 weeks using incomplete Freund’s adjuvant and half of the amount after 4 weeks using the incomplete Freund’s adjuvant again. Challenge was performed intravenously via the retro-orbital sinus with 10
+       to 10
+       CFU
+       <italic>
+        Y. pestis
+       </italic>
+       KIM5 (
+       <italic>
+        pgm
+       </italic>
+       -) 2 weeks after the last booster. Immunization with the protein could protect against the infection with the attenuated strain as judged by a 130-fold increase in LD50 of the immunized animals versus placebo.
+      </p>
+      <p>
+       The YopE secreted effector was used in a different vaccine design. Lin et al. [
+       ] used a cholera toxin (CT) fusion with YopE effector fragment (a.a. 69–77) to immunize intranasally mice and then challenge with attenuated
+       <italic>
+        Y. pestis
+       </italic>
+       strains lacking the pigmentation locus (
+       <italic>
+        pgm
+       </italic>
+       ) or the virulence plasmid pCD1 (pCD1
+       ). C57BL/6 mice were immunized with 1 or 10 μg peptide and 1 μg cholera toxin mix via intranasal route, boosted twice within 21 days, and challenged with 1 × 10
+       CFU of the D27 strain of
+       <italic>
+        Y. pestis
+       </italic>
+       on days 37 or 56. The protection was proportional to the amount of antigen delivered and could reach 80% as judged by the survival rates. Bacterial loads in the lungs and liver were reduced by 4 logs compared to the placebo.
+      </p>
+     </sec>
+     <sec id="sec2dot17dot2-biomolecules-11-00892">
+      <title>
+       2.17.2. Live Vaccines
+      </title>
+      <p>
+       The early attempts to use live vaccines included LcrV antigen delivered by vectors or live attenuated bacteria.
+      </p>
+      <p>
+       The use of an attenuated strain of
+       <italic>
+        Y. pseudotuberculosis
+       </italic>
+       as a delivery vehicle was described by Singh et al. [
+       ]. The group engineered attenuated
+       <italic>
+        Y. pseudotuberculosis
+       </italic>
+       strains to deliver
+       <italic>
+        Y. pestis
+       </italic>
+       YopE a.a.1-138-LrcV fusion protein. BALB/c mice were immunized orally with ~10
+       CFU of engineered
+       <italic>
+        Y. pseudotuberculosis
+       </italic>
+       strain and challenged with 10
+       –10
+       CFU of
+       <italic>
+        Y. pestis
+       </italic>
+       KIM6(pCD1Ap) intranasally (pneumonic plague model) or 2.6 × 10
+       CFU of the same strain subcutaneously (bubonic plague model) 42 days past the last booster. The strains could protect mice against s.c. challenge with
+       <italic>
+        Y. pestis
+       </italic>
+       strain KIM6 supplemented with
+       <italic>
+        Y. pestis
+       </italic>
+       T3SS-encoding pCD1 selectable plasmid to maintain its stability. The live vaccine could protect up to 60% of mice against 10
+       CFU of the
+       <italic>
+        Y. pestis
+       </italic>
+       KIM6+ (pCD1Ap) virulent strain in an s.c. model of infection. Intranasal challenge mimicking pneumonic plaque with 10
+       CFU of the virulent
+       <italic>
+        Y. pestis
+       </italic>
+       KIM6+ (pCD1Ap) was more challenging and the protection varied between 10% and 70% for 2 different constructs. The attenuated strain of
+       <italic>
+        Y. pseudotuberculosis
+       </italic>
+       could also protect mice in an oral model of infection with wt
+       <italic>
+        Y. pseudotuberculosis
+       </italic>
+       PB1+ (1.05 × 10
+       CFU) and
+       <italic>
+        Y. enterocolitica
+       </italic>
+       WA (2.4 × 10
+       CFU) strains. The protection was complete for the challenge with 10
+       CFU of the pathogens.
+      </p>
+      <p>
+       In another attempt at live vaccine, the capsular antigen caf1(F1) from
+       <italic>
+        Y. pestis
+       </italic>
+       was used. Derbise et al. [
+       ] engineered an attenuated
+       <italic>
+        Y. pseudotuberculosis
+       </italic>
+       VTnF1 strain to deliver caf1 protein from
+       <italic>
+        Y. pestis
+       </italic>
+       into hosts. OF1 or C57BL/6 mice were immunized with the
+       <italic>
+        Y. pseudotuberculosis
+       </italic>
+       VTnF1 strain orally with 10
+       CFU and challenged intranasally (pneumonic plague) or subcutaneously (bubonic plague) with different amounts of
+       <italic>
+        Y. pestis
+       </italic>
+       4 weeks or 6 months after immunization. The live vaccine could protect mice from 10
+       LD50 or more virulent
+       <italic>
+        Y. pestis
+       </italic>
+       CO92 in bubonic (s.c.) or pneumonic (i.n.) challenge. The protection was maintained for 6 months at least although the survival rate would drop to 50% upon challenge.
+      </p>
+      <p>
+       Delivery of F1-V fusion to the host as a live vaccine was shown by Galen et al. [
+       ]. The group engineered the
+       <italic>
+        Salmonella
+       </italic>
+       Typhi strain to deliver F1-V fusion. The
+       <italic>
+        lcrV
+       </italic>
+       gene was under the control of the OmpC promoter while the
+       <italic>
+        caf1
+       </italic>
+       gene was under the control of the
+       <italic>
+        Salmonella
+       </italic>
+       Pathogenicity Island-2 (SPI-2) promoter. In an animal model of
+       <italic>
+        Y. pestis
+       </italic>
+       CO92 Δ
+       <italic>
+        pgm
+       </italic>
+       attenuated strain i.n. infection, the animals were primed intranasally with 1–2 × 10
+       CFU of
+       <italic>
+        S.
+       </italic>
+       Typhi vaccines on days 0 and 28, boosted intramuscularly with 0.5 μg on day 42 with recombinant LcrV, and then challenged intranasally with 37 LD50 of the attenuated strain on day 78. The vaccines expressing the F1- LcrV fusion protein with the
+       <italic>
+        caf1M-caf1A-calf1
+       </italic>
+       gene region or only F1 with the stabilization fragment ssb included could offer complete protection of animals as judged by the survival ratios. The protection level dropped to 80% or 50% when LcrV only was used.
+      </p>
+      <p>
+       Deletion of another secretory system as an attempt to create a live vaccine was used by Bozue et al. [
+       ]. The group deleted the
+       <italic>
+        tatA
+       </italic>
+       gene from the Tat transport system in the
+       <italic>
+        Y. pestis
+       </italic>
+       CO92 strain. Swiss Webster mice were immunized with the deletion strain via intranasal, small particle aerosol, or subcutaneous routes using various amounts of bacteria and observed for survival for 21 days. The survival was generally poor for the i.n. and small particle aerosol challenge but much better for the sub-Q immunization. Attempts for protection from the wt strain infection after mutant immunization were not shown, most likely due to the very weak attenuation of
+       <italic>
+        ΔtatA
+       </italic>
+       mutant in animals.
+      </p>
+      <p>
+       The importance of the T3SS for
+       <italic>
+        Y. pestis
+       </italic>
+       virulence was demonstrated previously by Swietnicki et al. [
+       ]. Accordingly, Bozue et al. [
+       ] evaluated the live plague vaccine based on the
+       <italic>
+        ΔyscN
+       </italic>
+       gene deletion mutant of
+       <italic>
+        Y. pestis
+       </italic>
+       . Swiss Webster mice were inoculated s.c. with
+       <italic>
+        ΔyscN
+       </italic>
+       mutant at 10
+       –10
+       CFU per animal and boosted with the same amount after 30 days. Two weeks after the last boost, the animals were challenged with 180 CFU (~90 LD50) of the wt
+       <italic>
+        Y. pestis
+       </italic>
+       CO92. The survival ratio was directly related to the number of mutant bacteria used for immunization and reached 90% for the 10
+       CFU of the mutant pathogen. The challenge was only with 180 LD50 of the fully virulent
+       <italic>
+        Y. pestis
+       </italic>
+       CO92 strain in the s.c. model of infection in mice.
+      </p>
+      <p>
+       Deletion of virulence system components was tested in another approach at live vaccine design. Cote et al. [
+       ] removed the T3SS ATPase YscN and compared the mutant to those with the
+       <italic>
+        pgm
+       </italic>
+       locus and the pPst (pPCP1 plasmid) genes removed in the aerosol and s.c. models of mouse infection. Swiss Webster or CD-1 mice were injected via the s.c. route with a single dose of the mutant strain and challenged with a virulent strain via s.c. or aerosol routes after 28 days. In a variation, some animals were vaccinated twice with the pathogen via the s.c. route and challenged with the virulent strain after 28–30 days. For the CD-1 mice, vaccination with 9.4 × 10
+       CFU of the
+       <italic>
+        Y. pestis
+       </italic>
+       CO92
+       <italic>
+        ΔyscN
+       </italic>
+       mutant could protect all animals from 478 LD50 of
+       <italic>
+        Y. pestis
+       </italic>
+       CO92 (2.5 × 10
+       CFU) in the s.c. challenge. In the aerosol challenge, the animals were vaccinated with 1 × 10
+       CFU of mutant strain and exposed to 26 LD50 of
+       <italic>
+        Y. pestis
+       </italic>
+       CO92 (8.71 × 10
+       CFU). The protection was only 20% as judged by the survival rates.
+      </p>
+      <p>
+       Testing on Swiss Webster mice showed that double vaccination with the mutant strain (1.03 × 10
+       CFU in the first immunization and 0.85 × 10
+       CFU in the booster) could protect all animals from 316 LD50 (505 CFU) of the
+       <italic>
+        Y. pestis
+       </italic>
+       CO92 strain in the s.c. challenge and 7 LD50 (4.78 × 10
+       CFU) in the aerosol challenge. However, vaccination with the
+       <italic>
+        Y. pestis
+       </italic>
+       C12
+       <italic>
+        ΔyscN
+       </italic>
+       mutant lacking the yscN gene and capsule antigen F1 was less successful. In the s.c. challenge model, animals were vaccinated 1.27 × 10
+       CFU of the C12 mutant and boosted with 0.93 × 10
+       CFU, and challenged with 316 LD50 (505 CFU) of
+       <italic>
+        Y. pestis
+       </italic>
+       CO92. Double vaccination could protect 40% of the animals while a single vaccination (booster dose) protected only 30% of the animals. In the aerosol challenge mode, even the double vaccination protocol with the C12 mutant could not protect any animals from the challenge.
+      </p>
+     </sec>
+     <sec id="sec2dot17dot3-biomolecules-11-00892">
+      <title>
+       2.17.3. Outer Membrane Proteins
+      </title>
+      <p>
+       The use of general bacterial secretions as delivered in outer membrane vesicles for vaccine design was evaluated by Erova et al. [
+       ]. The group evaluated outer membrane proteins Ail (adhesin), Pla (plasminogen activator), and OmpA (porin) versus the F1-V fusion as potential vaccine candidates in the subcutaneous (s.c.) and intranasal (i.n.) models of
+       <italic>
+        Y. pestis
+       </italic>
+       infection in mice. Swiss Webster mice or Brown Norway rats were immunized with 20 μg of antigen via the i.m. route and boosted twice with the same amount every 2 weeks. One week after the last booster, mice were challenged via the s.c. route with 500 LD50 (2.5 × 10
+       CFU) of the
+       <italic>
+        Y. pestis
+       </italic>
+       <italic>
+        Δcaf1
+       </italic>
+       [
+       ] mutant (Ail, Omp, and Pla antigens) or 15 LD50 (i.n., 7500 CFU) of the same mutant in the pneumonic plague model. Rats were immunized with 20 μg of F1-V antigen and challenged intranasally with 5 × 10
+       CFU (10,000 LD50) of the wt strain. For the Ail, Omp, and Pla antigens, rats were immunized with 20 μg of the antigen and challenged via the i.n. route with 4 × 10
+       to 5 × 10
+       CFU (8 to 10 LD50) or via the s.c. route with 7 × 10
+       to 8 × 10
+       (7 to 8 LD50) of the wt strain.
+      </p>
+      <p>
+       The OmpA and Ail immunization could protect around half the mice against 500 LD50 of
+       <italic>
+        caf1
+       </italic>
+       mutant in the s.c. model while F1-V could protect all the animals from death. The Pla protein was tested in the i.n. model against only 15 LD50 of the same mutant, showing protection for 60% of animals while the immunization with F1-V fusion could protect all the animals from death. The
+       <italic>
+        calf1
+       </italic>
+       mutation attenuated the pathogen 10
+       –10
+       times in mice to enable measurements of antibody response to weakly protective antigens in the proposed models. The F1-V protein generated a strong antibody response in both models, while in the i.n. model-the Pla protein was strongly immunogenic. The s.c. model generated a strong antibody response for the Ail protein.
+      </p>
+     </sec>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec3-biomolecules-11-00892" sec-type="discussion">
+    <title>
+     3. Discussion
+    </title>
+    <p>
+     The ability to design a vaccine for any bacterial pathogen
+     <italic>
+      a priori
+     </italic>
+     is still elusive. The methodology to predict putative targets exists but the quality of predictions has to be verified experimentally. In some cases, however, the required targets are known and verified but the vaccine constructs still show a poor performance in terms of protection.
+    </p>
+    <p>
+     In general, live vaccines could present the full antigenic spectrum of the pathogen and stimulate both parts of the immune system: humoral and cellular. The approach typically offers a long-lasting immunity and is not prone to mutations inactivating the effectiveness of vaccines based on 1–2 antigens or their epitopes. The drawback of such an approach is side effects connected with the use of whole-cell products or live viruses.
+    </p>
+    <p>
+     Vaccines based on live viruses offer the option of stimulating both parts of the immune system but the limited antigenic repertoire caused by structural limitations of modified viral proteins is their weak point as the vaccines can be easily rendered ineffective by mutations in the pathogen. The other drawbacks associated with live viruses are their side effects connected to the recognition of viral nucleic acids by the innate immune system and the replication cycle. The last feature is also an advantage due to the constant and prolonged stimulation of the immune system by the replicating virus.
+    </p>
+    <p>
+     Vaccines based on recombinant antigens stimulate the immune system strongly and selectively for a short time but the immune response is frequently biased towards the humoral part. To correct the problem, different adjuvants are used to have the cellular part also engaged and create a long-lasting immunity. The drawback of vaccines based on recombinant antigens is their limited antigenic repertoire that is easily bypassed by mutations in the pathogen. To overcome this limitation, multiple antigens are used which, for practical reasons, are limited to no more than 3 different components in a given vaccine.
+    </p>
+    <p>
+     The use of Outer Membrane Vesicles is a new technology that offers a broad antigenic repertoire but the quality of preparations may be problematic due to the heterogeneous mix of components. The strategy offers the possibility to bypass mutations in the pathogens inactivating vaccines based on a single component but the technology has not reached a commercial stage.
+    </p>
+    <p>
+     Approaches based on the carbohydrate coats, LPS and its components, have been in use for a long time. They are typically based on the O-antigen or the whole LPS conjugated to a carrier, a diphtheria toxin or similar, to increase their antigenicity. The vaccines are highly specific and frequently very effective against a given serotype. The drawback of such an approach is the variability of the O-antigen and the LPS outer core necessitating a constant addition of new components specific to a given serotype. The carbohydrate components require isolation from natural sources, frequently biohazardous materials, on a large scale as the technology to make in vivo recombinant O-antigens coupled to the carrier has not reached a commercial stage.
+    </p>
+    <p>
+     Vaccines based on nucleic acids can be divided into 2 groups: DNA-based and RNA-based. The first group uses plasmids replicating in the host as they are more stable than linear DNA, easier and cheaper to produce than recombinant proteins, and can be used by the host’s machinery directly. The drawback of such an approach is the limited amount of antigen produced, relatively fast elimination of the plasmid by the host, and a limited antigenic repertoire. The RNA-based vaccines use encapsulated RNA delivered locally. The approach allows for engaging the host’s machinery in the production of proteins without the necessity of going through an mRNA intermediate as for the DNA-based vaccines. The vaccines are easy to design and manufacture but are unstable due to the rapid degradation of the RNA component. Therefore, the vaccines require a deep-freeze (−70 °C) storage and offer a limited shelf life, making them difficult to deploy on a large scale without a preexisting logistical network. The vaccines offer a limited antigenic repertoire due to the limitations on the length of the used RNA and can be easily bypassed by mutations in the pathogens. However, they can be very effective as demonstrated for the COVID-19 vaccines.
+    </p>
+    <p>
+     In the presented review of vaccines for selected bacterial pathogens, most of the published data is focused on constructs offering protection to bacterial challenges not exceeding 100–200 LD50, a level typically assumed to be background when designing commercial vaccines. An increase in the protection level as demonstrated for discussed vaccines was observed for constructs combining other components of the system not belonging to the secretory systems with the knowledge of its vulnerable points (F1-V vaccine for
+     <italic>
+      Y. pestis
+     </italic>
+     ) or simply by using engineered/attenuated organisms (Select Agents vaccines against
+     <italic>
+      F. tularensis
+     </italic>
+     and
+     <italic>
+      Y. pestis,
+     </italic>
+     whole cell-based DTwP against
+     <italic>
+      B. pertussis
+     </italic>
+     , live attenuated Ty21
+     <italic>
+      S.
+     </italic>
+     Typhimurium vaccine, BCG vaccine against
+     <italic>
+      M. tuberculosis
+     </italic>
+     ). The strategy to use the full antigen spectrum of the pathogen is far superior to that based on a combination of a few antigens as clearly demonstrated for the emerging cases of whooping cough in the population vaccinated with the acellular DTaP. Since the transition to acellular prophylactics based on potential side effects connected to the engineered live vaccines has been enforced by the regulatory bodies [
+     ], the effectiveness of future vaccines has been degraded and is likely to stay so when using the same products in mass vaccination efforts over a long period. A correction of the biased immune responsible for part of the observed results has been demonstrated [
+     ] but the DTaP vaccine is still administered without the potential correction.
+    </p>
+    <p>
+     The virulence systems are an attractive target for vaccines but the use of their components only has not been very successful except for the
+     <italic>
+      S. flexneri
+     </italic>
+     vaccine candidate based on translocator proteins IpaB-IpaD attached to bacteria-like particles [
+     ] and the F1-LcrV construct for
+     <italic>
+      Y. pestis
+     </italic>
+     vaccine candidate [
+     ]. The opposite strategy, engineering pathogens to remove virulence systems, was only modestly successful [
+     ,
+     ]. It is possible that combining virulence system components with other bacterial antigens could be a strategy to develop new and effective vaccines. The constructs, however, will offer limited antigenic repertoire when only recombinant proteins are used and could be easily bypassed by mutated pathogens. A much better option would be to use carriers containing empty bacterial shells to increase antigenic repertoire but the cellular components may give rise to undesirable side effects.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

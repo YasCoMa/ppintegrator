@@ -1,0 +1,3 @@
+id_pmc	sentence location	highlighted phrase	interacting verbs	number of interacting verbs	experimental methods found	number of experimental methods	protein entities found	number of protein entities
+7814154	body	in complex with the co - chaperonin hspe1 ( the human groes homolog ) , hspd1 single and double ring assemblies have been shown to coexist .	complex	1		0	groes|hspd1|human|homolog	4
+7814154	body	relative to the half - football , the apical domains of apo hspd1 undergo a large rigid body motion , resulting in an overall ~66° rotation ( a ) , which is comparable to structural changes in groel between adp / groes - bound and  - unbound states and required to allow hspe1 binding in the half - football state .	bind	1		0	hspd1|groes|apical|domains|apo|adp|hspe1	7

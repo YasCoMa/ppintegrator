@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Identification of Mammalian Proteins That Collaborate with Type III Secretion System Function: Involvement of a Chemokine Receptor in Supporting Translocon Activity
+ </title>
+ <abstract>
+  <p>
+   The type III secretion system (T3SS) is a highly conserved protein delivery system found in multiple Gram-negative pathogens, including
+   <named-content content-type="genus-species">
+    Yersinia pseudotuberculosis
+   </named-content>
+   . Most studies of
+   <named-content content-type="genus-species">
+    Yersinia
+   </named-content>
+   species type III intoxication of host cells have focused on the bacterial determinants that promote assembly and function of the secretion system. In this study, we performed a pooled RNA interference (RNAi) screen to identify mammalian host proteins required for the cytotoxic effects associated with the
+   <named-content content-type="genus-species">
+    Yersinia
+   </named-content>
+   translocated substrate YopE, a GTPase-activating protein (GAP) that inactivates the small Rho GTPases. Cell populations were positively selected for short hairpin RNAs (shRNAs) that interfere with YopE activity using a combination of fluorescence resonance energy transfer (FRET) and flow cytometry, and the degree of enrichment was determined by deep sequencing. Analysis of the candidates identified by the enrichment process revealed that many were important for the initial step of
+   <named-content content-type="genus-species">
+    Y. pseudotuberculosis
+   </named-content>
+   T3SS function, YopB/D pore formation. These candidates included shRNA that depleted downstream effectors of RhoA signaling, coated pit formation, and receptors involved in cell signaling, including the chemokine receptor CCR5 (chemokine [C-C motif] receptor 5). Depletion of CCR5 in 293T cells yielded a defect in YopB/D pore formation and effector translocation, while both phenotypes could be complemented by overexpression of CCR5 protein. Yop effector translocation was also decreased in isolated primary phagocytic cells from a
+   <italic>
+    Ccr5
+   </italic>
+   knockout mouse. We postulate that CCR5 acts to promote translocation by modulating cytoskeletal activities necessary for proper assembly of the YopB/D translocation pore. Overall, this study presents a new approach to investigating the contribution of the host cell to T3SS in
+   <named-content content-type="genus-species">
+    Y. pseudotuberculosis
+   </named-content>
+   .
+  </p>
+  <p>
+   Many Gram-negative bacteria require type III secretion systems (T3SS) for host survival, making these highly specialized secretion systems good targets for antimicrobial agents. After the bacterium binds to host cells, T3SS deposit proteins into the cytosol of host cells through a needle-like appendage and a protein translocon channel. Translocation of proteins via this system is highly regulated, and the contribution of the host cell in promoting assembly and insertion of the channel into the plasma membrane, folding of the bacterial proteins, and trafficking of these substrates are all poorly characterized events. In this study, we identified host cell proteins important for activity of YopE, a
+   <named-content content-type="genus-species">
+    Yersinia pseudotuberculosis
+   </named-content>
+   T3SS-delivered protein. The results demonstrate that insertion and assembly of the translocon are complex processes, requiring a variety of membrane trafficking and cytoskeletal processes, as well as a surprising role for cell surface signaling molecules in supporting proper function.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="h0.0" sec-type="intro">
+    <title>
+     INTRODUCTION
+    </title>
+    <p>
+     Type III secretion systems (T3SS) are critical determinants of virulence for a large number of Gram-negative pathogens (     ,     ). Upon encountering a host cell, these highly conserved macromolecular complexes deliver unfolded substrate proteins from the bacterial cytosol through a needle-like apparatus into target eukaryotic host cells, allowing the pathogen to control a variety of host cell processes (     ). The T3SS complex is comprised of three protein subgroups: the structural proteins that form the needle-like injectisome, substrate proteins that pass through the injectisome, and translocon proteins, which form a channel in the plasma membrane, allowing final passage into the host cell (     ). Among the different Gram-negative pathogens possessing T3SS, there is high conservation in the structural proteins and translocator proteins. In contrast, although there is some sharing of individual translocated substrate proteins among pathogens, in general, these proteins have distinct catalytic activities to suit the respective pathogens encoding them (     ). For example,
+     <named-content content-type="genus-species">
+      Salmonella
+     </named-content>
+     and
+     <named-content content-type="genus-species">
+      Shigella
+     </named-content>
+     species use T3S to inject proteins in order to promote their own uptake into nonphagocytic cells followed by establishing an intracellular replicative niche (     ,     ). Conversely,
+     <named-content content-type="genus-species">
+      Pseudomonas
+     </named-content>
+     and
+     <named-content content-type="genus-species">
+      Yersinia
+     </named-content>
+     inject effectors by T3S in order to avoid phagocytosis by innate immune cells, thus impairing their function and promoting survival and persistence of bacteria in an extracellular locale (     ).
+    </p>
+    <p>
+     All three
+     <named-content content-type="genus-species">
+      Yersinia
+     </named-content>
+     species that are pathogenic to humans,
+     <named-content content-type="genus-species">
+      Y. pestis
+     </named-content>
+     ,
+     <named-content content-type="genus-species">
+      Y. pseudotuberculosis
+     </named-content>
+     , and
+     <named-content content-type="genus-species">
+      Y. enterocolitica
+     </named-content>
+     , carry genes on a 70-kb virulence plasmid that encode a T3SS (     ). The
+     <named-content content-type="genus-species">
+      Yersinia
+     </named-content>
+     secretion apparatus is comprised of approximately 29 Ysc proteins that make up the export machinery as well as the needle-like injectisome (     ). The needle is composed of YscF monomers with the scaffolding protein LcrV at the tip which forms a complex with the translocator Yops (
+     <named-content content-type="genus-species">
+      Yersinia
+     </named-content>
+     outer membrane proteins) YopB and YopD (     ). YopB/D are then capable of forming pores in the host cell plasma membrane, leading to translocation of proteins into the host cytosol (     ).
+     <named-content content-type="genus-species">
+      Yersinia
+     </named-content>
+     spp. translocate a group of either five or six Yops into the host cytosol to disrupt normal cell processes, including YopJ/YopP, YopM, YopO/YpkA, YopH, YopT, and YopE (     ).
+    </p>
+    <p>
+     The role of the host cell in translocation, cellular trafficking, and subsequent localization of the Yops to the target sites is largely unknown, but evidence supports the hypothesis that host cell factors contribute to the translocation and activation of T3SS substrates. Previous studies of T3S in
+     <named-content content-type="genus-species">
+      Shigella
+     </named-content>
+     ,
+     <italic>
+      Salmonella
+     </italic>
+     ,
+     <named-content content-type="genus-species">
+      Pseudomonas
+     </named-content>
+     , and enteropathogenic
+     <named-content content-type="genus-species">
+      Escherichia coli
+     </named-content>
+     (EPEC) conclude that functional lipid rafts are critical for insertion of the T3SS translocon as well as subsequent translocation of proteins into host cells (     ). Lipid rafts are domains within the plasma membrane, which are thought to coordinate signaling events since they contain a high concentration of protein receptors, signaling proteins, and cytoskeletal components (     ). These highly organized signaling platforms have been shown to be important for G-protein-coupled receptor signaling, including chemokine receptor signaling, immune cell activation, membrane trafficking, and viral, bacterial, and bacterial toxin entry into cells (     ).
+    </p>
+    <p>
+     A recent study of
+     <named-content content-type="genus-species">
+      Pseudomonas
+     </named-content>
+     T3SS concludes that an unidentified eukaryotic factor is responsible for triggering effector secretion, which is subsequently inactivated by the translocated substrate ExoS, a bifunctional protein that exhibits both RhoGAP activity and ADP ribosylation activity in cells (     ). Furthermore, experiments reveal that in
+     <named-content content-type="genus-species">
+      Y. pseudotuberculosis
+     </named-content>
+     , insertion of the YopB/D translocon pore along with engagement of β1 integrins by
+     <named-content content-type="genus-species">
+      Yersinia
+     </named-content>
+     adhesins causes the activation of the Rho GTPases, stimulating accumulation of Yops within target cells. Consistent with ExoS, YopE and YopT activity downmodulates translocation by inactivating Rho family members (     ). Last, experimental evidence investigating the EPEC T3SS demonstrated that there was a requirement for host cell factors in triggering secretion, translocation, and activation of the translocated Tir protein in cytoplasmic extracts (     ).
+    </p>
+    <p>
+     In this study, an RNA interference (RNAi) knockdown screen was performed in order to investigate the contribution of the host cell during type III secretion. Combining fluorescence resonance energy transfer (FRET) of a Rho GTPase biosensor with flow cytometry, we were able to positively select short hairpin RNAs (shRNAs) that inhibit YopE inactivation to identify host proteins important for T3SS function. Validation of the shRNA candidates revealed that the chemokine receptor CCR5 (chemokine [C-C motif] receptor 5) is important for YopB/D translocon function. Overall, we have developed a unique screen to elucidate the role of host cell factors in T3S of
+     <named-content content-type="genus-species">
+      Y. pseudotuberculosis
+     </named-content>
+     . The results obtained from this screen provide critical new information on the molecular mechanism of T3SS protein translocation in
+     <named-content content-type="genus-species">
+      Yersinia
+     </named-content>
+     spp., which can also be extrapolated to T3SS in many other bacteria.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="h1" sec-type="results">
+    <title>
+     RESULTS
+    </title>
+    <sec id="s1.1">
+     <title>
+      Flow cytometric assay for YopE GAP activity using a FRET readout.
+     </title>
+     <p>
+      We previously developed fluorescence resonance energy transfer (FRET) assays that allow image analyses of
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      YopE GTPase-activating protein (GAP) action on the host Rho family members Rac1, Cdc42, and RhoG (      ,      ). These previous assays used dual-plasmid systems with FRET donors and acceptors on separate plasmids to measure loss of GTP binding by the Rho family members. To perform a pooled shRNA screen, we adapted the microscopy assay to a population-based flow cytometry strategy, measuring YopE activity with a single-plasmid FRET system. To this end, a previously constructed plasmid encoding a single-chain four-protein fusion consisting of a Rho binding domain (RBD) fused upstream of cyan fluorescent protein (CFP), yellow fluorescent protein (YFP), and membrane-targeted RhoA (in order from the N to C terminus) (      ). When activated, the GTP-loaded RhoA moiety binds the RBD, bringing CFP in close proximity to YFP. This results in FRET emission from YFP after excitation of CFP (      ). Due to the fact that the RhoA/RBD FRET binding partners are physically linked in this biosensor, FRET can be accurately measured using flow cytometry in every transfected cell. When RhoA is in an inactive GDP-bound conformation, the fusion protein produces low YFP emission that fails to respond upon CFP excitation. In contrast, when RhoA is in the active GTP-bound conformation, the biosensor will produce a high FRET signal following excitation of CFP.
+     </p>
+     <p>
+      Analyses using flow cytometry indicate that FRET emission in this system results from GTP loading of RhoA. The majority of cells that transiently expressed the wild-type RhoA biosensor (RBS WT) exhibited higher CFP→YFP FRET than cells transfected with a RhoA N19 mutant biosensor (RBS N19) that is defective in GTP binding (      ). Similarly, cells that harbor RBS WT challenged with
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      <italic>
+       yopE
+      </italic>
+      resulted in low FRET emission levels, similar to that observed with the RBS N19 (      ). These results predict that shRNA knockdown of host genes important for YopE function should prevent the inactivation of RhoA caused by active YopE and retain the FRET signal that is observed in uninfected cells. Furthermore, distinct populations can be positively selected, allowing cells with shRNA that interfere with YopE function to be isolated.
+     </p>
+     <p>
+      A proof-of-principle experiment was performed to demonstrate that a small population with detectable FRET emission could be enriched from the total population. Cells coexpressing the RBS WT and mCherry plasmids in order to mark the FRET-positive (FRET      ) cells were mixed with cells expressing the GTP-loading defective RhoA N19 biosensor (FRET      ) at a 1:20 ratio (mCherry-positive [mCherry      ] RBS/RBS N19 ratio;      ). Gates corresponding to FRET-positive and FRET-negative cells were established in order to collect cells by fluorescence-activated cell sorting (FACS), and the relative enrichment of the cells in the collected FRET      population having mCherry was determined. The RBS WT (mCherry      ) cells were enriched approximately 25-fold from the mixed population (      ), which corresponded with a 15-fold enrichment of mCherry-expressing cells collected in the FRET-positive FACS gate. For further validation, cells coexpressing the RBS WT and mCherry were mixed at a 1:20 ratio with cells expressing the RBS WT incubated with
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      <italic>
+       yopE
+      </italic>
+      and sorted as described above (      ). On the basis of the increase in the fraction of cells harboring mCherry, the FRET      population was enriched approximately 7-fold. Overall, these data indicate that cells resistant to YopE activity should be found in the population having increased FRET emission and can be enriched from the total population in a pooled shRNA screen.
+     </p>
+    </sec>
+    <sec id="s1.2">
+     <title>
+      A genome-scale screen for host cell factors important for type 3-mediated YopE delivery.
+     </title>
+     <p>
+      A FACS-based pooled shRNA screen was carried out in 293T cells in order to identify host cell proteins that contribute to the translocation and activity of the
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      type III secretion system substrate YopE. To perform the screen, plasmid libraries having 8 × 10      to 10 × 10      shRNAs were lentiviral packaged for delivery into 293T cells (      ; also see Materials and Methods). The RBS WT was then transfected into shRNA-depleted cells 48 h after viral delivery, and approximately 24 h after transfection, the cells were incubated at a multiplicity of infection (MOI) of 50 with
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      <italic>
+       yopE
+      </italic>
+      for 1 h. To identify candidate shRNAs that interfere with YopE action, cells showing the highest levels of FRET emission were then positively selected by FACS. To identify the cell populations that should be collected, cells that harbor the RhoA biosensor without the shRNA bank were left uninfected or were incubated with
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      <italic>
+       yopE
+      </italic>
+      to identify the FRET      (      , RBS) and FRET      (      , YPIII ΔHMOJ) sorting gates, respectively. Based on this information, FRET      and FRET      sorting gates were set to allow collection of either population (      )
+      <italic>
+       .
+      </italic>
+      shRNA depletion did not markedly change the distribution of FRET      RhoA biosensor cells compared to cells expressing the RBS alone (      ; compare RBS to RBS RNAi Library). Using these sorting gates, we found that the isolated FRET      population was generally enriched approximately 10- to 20-fold for each individual experiment (      , FRET      ).
+     </p>
+     <p>
+      Genomic DNA (gDNA) was then extracted from three populations: (i) the collected FRET      population; (ii) the population showing low levels of FRET emission (FRET      ); and (iii) the unsorted input control (      ). The shRNA sequences were PCR amplified from gDNA obtained from each of these three populations, subjected to deep sequencing, and aligned to the human genome hg_17 database to identify shRNA targets. The number of reads was normalized for each individual population before generating ratios of the FRET      /unsorted and FRET      /FRET      populations (      ) for each shRNA (Materials and Methods). shRNAs that interfered with the action of YopE were defined either as shRNAs that were overrepresented in the FRET      population compared to both the unsorted population and the FRET      population or shRNAs that were overrepresented in the FRET      population compared to just the unsorted population. Using data from at least three independently performed enrichments,
+      <italic>
+       Z
+      </italic>
+      <sub>
+       MAD
+      </sub>
+      values, indicating how many median absolute deviations (MAD) from the median, were calculated for both the FRET      /unsorted and FRET      /FRET      ratios for each shRNA (      ). shRNAs were considered of interest for further analysis if they had a
+      <italic>
+       Z
+      </italic>
+      <sub>
+       MAD
+      </sub>
+      of &gt;2 in two independent experiments.
+     </p>
+     <p>
+      Overall, a total of 10,146 shRNAs that target 5,447 genes were screened at least twice. There were 389 identified shRNAs that were classified above the set threshold of
+      <italic>
+       Z
+      </italic>
+      <sub>
+       MAD
+      </sub>
+      of &gt;2 for both FRET      /unsorted and FRET      /FRET      (see      in the supplemental material). Increasing this threshold to an
+      <italic>
+       Z
+      </italic>
+      <sub>
+       MAD
+      </sub>
+      of &gt;5 or &gt;10 reduced the number of shRNA candidates that passed this criterion to 121 or 69 for these ratios, respectively. Pathway analysis was performed using the Panther database to identify any statistically overrepresented biological processes among the genes identified in the screen, using 360 of the 389 shRNAs which mapped to the database (      ;      ) (      ). Overrepresented pathways identified included cellular communication, cellular adhesion, complement activation, and intracellular protein transport.
+     </p>
+    </sec>
+    <sec id="s1.3">
+     <title>
+      Candidate shRNAs caused defective YopB/D pore formation.
+     </title>
+     <p>
+      Since inhibition of YopE activity was the readout for the RNAi screen, candidate shRNAs identified may contribute to various aspects of T3SS function. Transfectants harboring shRNAs identified in the screen were analyzed to determine their effects on YopE function. We initially focused on insertion of the YopB/YopD translocon pore into the plasma membrane, which is the first step in movement of YopE into host cells. Pore formation by YopB/D requires activation of the GTPase RhoA. Subsequent delivery of YopE inactivates the Rho GTPase, resulting in closing of the translocon pore and cessation of translocation (      ,      ). In the absence of YopE, YopB/D pores accumulate, leading to a compromised host cell membrane, as detected by release of lactate dehydrogenase (LDH) into the culture medium (      ). As an alternative method to measure YopB/D pore formation, 293T cells were labeled with a membrane-impermeant amine-reactive fluorescent probe, allowing measurement of membrane integrity defects observed by increased fluorescence intensity relative to controls using FACS analysis. Cells probed after incubation with
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      ΔyopHMOJE, which lacks all the effectors but can form YopB/D pores, caused a large shift in fluorescence intensity relative to the translocon-defective strain (YPIII Δ
+      <italic>
+       yopB
+      </italic>
+      ) or the strain that has active YopE protein (YPIII Δ
+      <italic>
+       yopHMOJ
+      </italic>
+      ) (      ). This method, which is effective at detecting loss of membrane integrity at an MOI of 25 and allowed subpopulations to be analyzed, showed a higher sensitivity than that of the previously published LDH release assay, which used an MOI of 100 (24; data not shown).
+     </p>
+     <p>
+      To analyze the effect on YopB/D pore formation of shRNAs identified in the screen, oligonucleotides were chosen based upon the shRNA sequence information obtained in the screen and introduced into an mCherry-expressing plasmid prior to transfection into 293T cells. After allowing 72-h knockdown, cells were challenged with
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      ΔyopHMOJE to assess YopB/D pore formation. An shRNA designed against RhoA, which is required for pore formation, served as a control for reduced pore formation. As expected, cells expressing an shRNA for RhoA showed a decrease in fluorescence intensity by FACS, indicating that a large population of cells resist pore formation by YopB/D compared to cells expressing the empty shRNA vector control (      ).
+     </p>
+     <p>
+      YopB/D pore formation was next assayed for selected shRNAs predicted to have a variety of phenotypes based on their
+      <italic>
+       Z
+      </italic>
+      <sub>
+       MAD
+      </sub>
+      values obtained from the screen. The 35 shRNAs were chosen as follows: 23 shRNAs that were enriched in both the FRET      /FRET      (
+      <italic>
+       Z
+      </italic>
+      <sub>
+       MAD
+      </sub>
+      &gt; 2) and FRET      /unsorted populations (
+      <italic>
+       Z
+      </italic>
+      <sub>
+       MAD
+      </sub>
+      &gt; 2), 7 shRNAs that showed enrichment only in the FRET      /unsorted population, and 5 that were predicted to have no phenotype (
+      <italic>
+       Z
+      </italic>
+      <sub>
+       MAD
+      </sub>
+      &lt; 2 for both ratios) (      ). An shRNA directed against the RhoA downstream effector Rock2 interfered with YopB/D pore formation to a level similar to that of cells expressing the shRNA directed against RhoA (      ;      ). Expression of candidate shRNAs directed toward either a member of the vesicle-tethering synaptotagmin family (SYT16) or the cell adhesion protein protocadherin 2 (PCDHA2) reduced YopB/D pore formation to levels indistinguishable from that of the RhoA control. Also, an shRNA directed against the calmodulin spectrin associated protein (CAMSAP) important for microtubule stablization, which was enriched only in the FRET      sort compared to the unsorted pool (      ), also showed strong reduction. An shRNA directed toward a calmodulin-like signaling protein (CALML5), which was a clear candidate for lowering T3SS function (      ), had no observed defect in pore formation (      ), indicating that it may be contributing to events downstream of pore formation. Overall, YopB/D pore formation was strongly reduced in cells expressing shRNAs for 22 of the 30 candidates predicted to reduce YopE activity, including 6 of the 7 shRNAs tested that showed enrichment only in the FRET      /unsorted ratio from the original screen (      ). As expected, expression of the majority of the shRNAs predicted to have no phenotype had no effect on YopB/D pore formation, with just 1 of the 5 shRNAs exhibiting a detectable defect (      ).
+     </p>
+    </sec>
+    <sec id="s1.4">
+     <title>
+      Roles of membrane trafficking pathways in YopB/D pore formation.
+     </title>
+     <p>
+      Intracellular membrane trafficking proteins, encompassing the intracellular protein transport, protein transport, and transport categories, were overrepresented among the candidate shRNAs identified in the screen, based on the Panther database (      ) (      ). Members of membrane trafficking pathways identified in the screen included proteins involved in formation of three major vesicle coat biogenesis pathways, COPI, COPII, and clathrin. COPI vesicles are responsible for retrograde transport through the Golgi apparatus to the endoplasmic reticulum (ER) and contain a distinct coatamer comprised of 7 protein subunits, including the βCop subunit (Copβ1) that was identified in the screen (      ). Previous studies of depletion of the Copβ1 protein revealed that its expression is important for proper formation of the Golgi apparatus (      ) with the consequence that its loss results in severely defective processing, sorting, and localization of proteins destined for membranous compartments. Cells expressing an shRNA that depletes Copβ1 were defective for pore formation when challenged with
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      Δ
+      <italic>
+       HMOJE
+      </italic>
+      (Fig. 4B and C). The Copβ1 protein network in the String database included the 6 protein subunits that make up the COPI coat as well as the small GTPase ADP-ribosylation factor 1 (ARF1) (      ) (      ), which recruits COPI to vesicles budding from the Golgi apparatus (      ). To gain further support that this pathway plays a role in YopB/D pore formation, an shRNA was designed toward ARF1, which was not present in the original shRNA library used in the screen. 293T cells knocked down with Arf1 shRNA also demonstrated reduced YopB/D pore formation compared to the shRNA vector control (      ). Trafficking protein particle C10 (TrappC10), a component of the TRAPPII complex that tethers COPI-coated vesicles, was also a hit in the screen, and cells depleted of TrappC10 similarly exhibited reduced YopB/D-mediated pore formation (      ). Therefore, depletion of a variety of proteins in the COPI pathway reduced YopB/D-mediated cytotoxicity, consistent with disruption of this pathway causing mislocalization of host factors important for T3SS function.
+     </p>
+     <p>
+      Clathrin-coated vesicles are the most predominant cargo vesicles within the cell and can be found budding from the plasma membrane during endocytosis or from the
+      <italic>
+       trans
+      </italic>
+      -Golgi network (TGN) during endocytic recycling. The protein coat of these vesicles is comprised of three clathrin heavy-chain and light-chain subunits (      ). String analysis of the clathrin network identified the host cell chaperones auxilin (DNAJC6) and HSC70 (HSPA8) which are responsible for uncoating clathrin vesicles (      ) (      ,      ). In addition to its role in the COPI vesicle biogenesis, ARF1 also assists in clathrin vesicle formation at the TGN, while ARF6 promotes clathrin vesicle formation at the plasma membrane (      ). Expression of shRNAs directed toward clathrin heavy chain (CLTC) and auxilin (DNAJC6), both identified in the screen, interfered with YopB/D-mediated pore formation (      ). In addition, knockdown of the HSC70 (HSPA8) and ARF6 genes also produced defects in pore formation after bacterial challenge, further supporting the hypothesis that clathrin-dependent membrane trafficking pathways are involved in promoting YopB/D cytotoxicity (      ). COPII vesicles, which include components Sec23 and Sec24 identified in the screen, promote anterograde transport of cargo from the ER to the Golgi apparatus (      ). Although it is clear by FACS analysis that there is a decrease in fluorescein isothiocyanate (FITC) intensity by an shRNA targeting Sec24B (      ), the defect in YopB/D-mediated pore formation in the presence of this shRNA did not show significance based on the statistical test we used (      ; Materials and Methods). These data indicate that intracellular trafficking mediated by multiple vesicle coat complexes is required for the initial steps of YopB/D involved in T3SS-mediated cytotoxicity.
+     </p>
+    </sec>
+    <sec id="s1.5">
+     <title>
+      CCR5 expression stimulates YopB/D-mediated pore formation.
+     </title>
+     <p>
+      Due to the fact that depletion of proteins involved in intracellular membrane trafficking resulted in defective YopB/D pore formation, we hypothesized that improper membrane localization of an important host cell factor necessary for T3SS function could cause this defect. Furthermore, this protein has been hypothesized to play a role in
+      <named-content content-type="genus-species">
+       Yersinia pestis
+      </named-content>
+      pathogenesis, although there is little evidence to support this model (      ,      ). The chemokine receptor CCR5 was investigated as a likely candidate for further analysis because two independent shRNAs were identified in the screen that target this protein (      , CCR5-1 and CCR5-2 shRNAs). 293T cells endogenously express low levels of CCR5 on their surface (      ). Cells expressing either CCR5-1 or CCR5-2 shRNA, identified by mCherry coexpression, had reduced surface expression of CCR5 compared to cells expressing the shRNA vector control, confirming that the shRNA knockdown reduces CCR5 surface expression (      ). The level of YopB/D pore formation in these cells was proportional to the magnitude of CCR5 expression when cells were challenged with
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      ΔyopHMOJE (compare CCR5-1 to CCR5-2;      ). Another chemokine receptor CCR8, which has 40% identity to CCR5, was also identified in the screen. Cells depleted of CCR8 with an shRNA directed against CCR8 showed reduced YopB/D activity compared to the control; however, the magnitude of defect was less severe than observed with CCR5 depletion (      ).
+     </p>
+    </sec>
+    <sec id="s1.6">
+     <title>
+      Depletion of CCR5 results in defective Yop translocation.
+     </title>
+     <p>
+      To ensure that defective YopB/D activity resulted in decreased Yop effector translocation, YopH translocation was assayed based on β-lactamase cleavage of the fluorescent dye CCF2 upon incubation of cells with
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      YopH-TEM (      ). After challenge of shRNA-depleted 293T cells at an MOI of 1 for 1 h, YopH-TEM translocation was quantitated by FACS analysis, determining the mean fluorescence intensity (MFI) of cleaved product (Materials and Methods). Consistent with the data on YopB/D activity (      ), cells expressing an shRNA against Rock2 exhibited an approximately 70% reduction in YopH-TEM translocation compared to cells expressing the shRNA vector control (      ). Expression of either CCR5-1 or CCR5-2 shRNA also resulted in defective translocation, with the reduction of translocation proportional to their relative knockdown efficiencies (      ). Cells transfected with an shRNA toward CCR8 exhibited a minor defect in YopH-TEM translocation, consistent with the small defect observed in YopB/D activity. These results are consistent with our analysis of the majority of the shRNAs tested in this assay, in which less YopB/D pore formation corresponded to a decrease in YopH-TEM translocation (      ).
+     </p>
+    </sec>
+    <sec id="s1.7">
+     <title>
+      Depletion of endogenous CCR5 can be reversed by reintroduction of the gene.
+     </title>
+     <p>
+      In order to ensure that the defects observed for CCR5 knockdown were not due to off-target effects, stable CCR5 transfectants, which overexpress the gene, were created that were resistant to shRNA knockdown (      ) (Materials and Methods). 293T cells were found to be heterozygous for
+      <italic>
+       ccr5
+      </italic>
+      , having both the wild-type copy and a mutation previously characterized in the human population, a 32-bp frameshift deletion (CCR5Δ32) that prevents surface exposure (data not shown). Stable cell lines that express either full-length CCR5 or CCR5Δ32 were cotransfected with CCR5-1 shRNA or the shRNA vector control and challenged with
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      ΔyopHMOJE in order to measure YopB/D activity. Cells expressing CCR5Δ32 were defective in YopB/D activity when transfected with the CCR5-1 shRNA compared to the shRNA vector control (      ). In contrast, overexpression of full-length CCR5 was able to fully restore YopB/D activity in the presence of CCR5-1 shRNA (      ). These results argue that expression of CCR5 rescues the defect in Yop B/D activity observed due to depletion of CCR5.
+     </p>
+     <p>
+      CCR5 was also required for high-efficiency T3SS translocation. Stable cell lines expressing either full-length CCR5 or CCR5Δ32 were subjected to depletion with CCR5-1 shRNA or vector control followed by incubation with
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      YopE-TEM, allowing translocation to be assayed by β-lactamase activity. CCR5-1 depletion of 293T cells that expressed CCR5Δ32 had reduced YopE-TEM translocation compared to the vector shRNA control (      ). In contrast, overexpression of an intact
+      <italic>
+       ccr5
+      </italic>
+      gene insensitive to the CCR5-1 shRNA fully restored YopE-TEM translocation to levels comparable to that of cells transfected with the shRNA vector control (      ). Therefore, the observed defects due to CCR5 shRNA result from depletion of CCR5 and are not due to off-target effects.
+     </p>
+    </sec>
+    <sec id="s1.8">
+     <title>
+      Defective YopE-TEM translocation in cells from
+      <italic>
+       Ccr5
+      </italic>
+      mice.
+     </title>
+     <p>
+      To further confirm that CCR5 contributes to T3SS function, bone marrow-derived macrophages (BMDMs) were isolated from both
+      <italic>
+       Ccr5
+      </italic>
+      and parental C57BL/6 mice (      ). Differentiated macrophages were seeded and challenged with
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      YopE-TEM for 1 h at an MOI of 0.5, 1, 2, or 5, and translocation was assayed by FACS analysis of β-lactamase activity. Wild-type (WT) macrophages displayed a dose-dependent increase in YopE-TEM translocation corresponding to an increase in MOI (      ).
+      <italic>
+       Ccr5
+      </italic>
+      macrophages exhibited a significant defect in YopE-TEM translocation compared to wild-type macrophages (      ). This observed defect was greater at lower MOIs of 1 and 2, but increasing the MOI could not completely rescue the defect (      ). Additionally, analysis of binding of individual bacteria to BMDMs revealed no difference in
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      <italic>
+       gfp
+      </italic>
+      binding to WT and
+      <italic>
+       Ccr5
+      </italic>
+      macrophages (      ), indicating that the observed reduction in YopE-TEM translocation was not due to a decrease in bacterial binding to
+      <italic>
+       Ccr5
+      </italic>
+      macrophages.
+     </p>
+     <p>
+      Previously, it has been shown that
+      <named-content content-type="genus-species">
+       Yersinia
+      </named-content>
+      preferentially targets and translocates effectors into professional phagocytes, including neutrophils, macrophages, and dendritic cells within splenic cell suspensions (      ,      ). In order to investigate whether CCR5 expression was important for translocation in these cell types, spleens were harvested from uninfected wild-type and
+      <italic>
+       Ccr5
+      </italic>
+      mice and homogenized to generate a single-cell suspension. Splenocytes were then challenged with
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      YopE-TEM at an MOI of 0.5 for 45 min followed by incubation with CCF2-AM in the presence of antibiotics to halt translocation. The cells were then fluorescently labeled with antibodies in order to identify specific cell types: neutrophils (Ly6G      ), macrophages (F4/80      ), dendritic cells (CD11c      ), B cells (B220      ), T helper cells (CD4      ), and cytotoxic T cells (CD8      ). This procedure was followed by flow cytometry analysis to measure translocation into different cell types.
+     </p>
+     <p>
+      Splenocytes harvested from wild-type C57BL/6 mice exhibited the same preferential translocation into neutrophils, macrophages, and dendritic cells as previously reported (      ) (      ). In fact, neutrophils, which represent approximately 1% of the population in the spleen had the highest levels of YopE-TEM translocation (      ). In
+      <italic>
+       Ccr5
+      </italic>
+      splenocytes, there was a significant decrease in YopE-TEM translocation in the neutrophil population resulting in an approximately 30% reduction in translocation compared to wild-type splenocytes (      ). A slight reduction in YopE-TEM translocation was also observed in macrophages in
+      <italic>
+       Ccr5
+      </italic>
+      splenocytes, whereas there was no difference in translocation into dendritic cells, B cells, and T cells compared to wild-type splenocytes (      ). Both wild-type and
+      <italic>
+       Ccr5
+      </italic>
+      splenocytes also had similar percentages of each cell type measured within the total splenic population, suggesting that the observed defect in YopE-TEM translocation in neutrophils is specific for the loss of CCR5 and not because there are fewer neutrophils in the population.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="h2" sec-type="discussion">
+    <title>
+     DISCUSSION
+    </title>
+    <p>
+     In this study, a genetic screen was performed that identified host cell factors required for T3SS-mediated intoxication of target cells. This strategy used flow sorting to positively select shRNA-depleted cells that were insensitive to YopE inactivation of Rho biosensor based on retention of a positive FRET signal. Overall, 385 candidate genes were identified among 5,447 open reading frames (ORFs) after screening 10,146 shRNAs. Using inhibition of YopE activity as an endpoint in the screen allowed the identification of host factors that may contribute to several aspects of T3SS function, including insertion of the YopB/D translocon, as well as translocation, localization, and functional activation of YopE.
+    </p>
+    <p>
+     Reconstruction of several shRNAs revealed that the majority of the candidates caused defects in T3SS YopB/D pore formation. The relative abundance of such shRNAs may be a consequence of the strong defects predicted for YopB/D dysfunction, which should severely depress the concentration of YopE within host cells. The screen was not limited to identifying this step; it also identified shRNAs that showed no apparent defect in YopB/D function, as shRNAs targeting DYNC1LI1, Rab27A, Sumo3, and CALML5 revealed little loss of YopB/D activity. Consistent with the screen identifying defects in either step in the pathway, shRNAs directed toward Rab27A and Sumo3 were defective for YopH-TEM translocation, indicating these proteins work downstream of T3SS translocon insertion (     ).
+    </p>
+    <p>
+     Pathway analysis revealed that shRNAs depleting proteins involved in vesicle trafficking were significantly overrepresented among the candidates from the screen. In particular, depletion of proteins involved in controlling the clathrin, COPI, and COPII vesicle coats interfered with the function of the YopB/D translocon. Previous studies have shown that clathrin is required for actin pedestal formation induced by T3SS translocation of the EPEC effector Tir. Not determined, however, was whether depletion of clathrin resulted in a defect in the translocation of Tir (     ,     ). Copβ1, on the other hand, was previously identified as important for T3SS-1 function during
+     <named-content content-type="genus-species">
+      Salmonella enterica
+     </named-content>
+     serovar Typhimurium uptake into cultured cells (     ). The authors of that study showed that depletion of Copβ1 results in defective cholesterol and sphingolipid trafficking as well as an inability of Rac1 and Cdc42 GTPases to localize in the plasma membrane in response to bacterial contact (     ). Our results indicate that inhibition of COPI vesicle trafficking interferes with pore formation and that this coat complex is a critical player in the earliest steps of T3SS-dependent translocon function. Therefore, the clathrin complex may also be a common host factor that supports the function of all T3SS translocons.
+    </p>
+    <p>
+     Two independent shRNAs identified in the screen targeted the gene for chemokine receptor CCR5. CCR5 depletion inhibited YopB/D activity as well as translocation of the YopH-TEM and YopE-TEM fusions (     and 6). Both translocation and pore formation defects were complemented by expression of CCR5 insensitive to knocking down by the shRNA. BMDMs derived from
+     <italic>
+      Ccr5
+     </italic>
+     mice also exhibited reduced translocation (     ). Overall, these data indicate that chemokine receptor function contributes to efficient T3SS-dependent translocon function.
+    </p>
+    <p>
+     The question of how CCR5 supports T3SS function in
+     <named-content content-type="genus-species">
+      Y. pseudotuberculosis
+     </named-content>
+     remains. One possibility is that CCR5 could be a receptor for the YopB/D translocon prior to insertion and pore formation into the plasma membrane. CCR5 was recently identified to be a receptor for the LukED pore-forming toxin from
+     <named-content content-type="genus-species">
+      Staphylococcus aureus
+     </named-content>
+     , whose primary target is neutrophils (     ,     ). These cells are similarly targeted by
+     <named-content content-type="genus-species">
+      Y. pseudotuberculosis
+     </named-content>
+     during growth in deep tissue sites (     ), and neutrophils appeared to be the cells in which loss of CCR5 resulted in the most profound defects in translocation (     ). YopE-TEM translocation was only partially inhibited in
+     <italic>
+      Ccr5
+     </italic>
+     primary cells, so it is possible that other chemokine receptors in addition to CCR5 may contribute to T3SS-mediated cytotoxicity. In fact, LukED can also target other chemokine receptors to intoxicate cells, CXCR1 (chemokine [C-X-C motif] receptor 1) and CXCR2 (     ). Consistent with this model, the chemokine receptor CCR8 was also identified in the screen as depressing YopB/D pore formation. An alternative possibility is that CCR5 could play a role in activating the RhoA signaling pathway (     ). Although it is known that engagement of integrin receptors results in activation of Rho family members, efficient assembly of the translocon channel could require supportive and simultaneous signaling from multiple cell surface molecules, including chemokine receptors.
+    </p>
+    <p>
+     CCR5 is best characterized as one of the coreceptors for HIV. Approximately 10% of northern Europeans are resistant to HIV due to a 32-base-pair deletion within CCR5 (CCR5Δ32), truncating the protein and preventing its localization at the cell surface. Although it is controversial, it has been widely postulated that the CCR5Δ32 mutation assumed prevalence in the northern European population due to a genetic selection event that allowed resistance to infectious diseases, such as bubonic plague or smallpox (     ). Previous
+     <italic>
+      in vitro
+     </italic>
+     experiments revealed reduced uptake of
+     <named-content content-type="genus-species">
+      Y. pestis
+     </named-content>
+     and
+     <named-content content-type="genus-species">
+      Y. pseudotuberculosis
+     </named-content>
+     in
+     <italic>
+      Ccr5
+     </italic>
+     macrophages, which suggests that the CCR5 may play a role in
+     <named-content content-type="genus-species">
+      Yersinia
+     </named-content>
+     pathogenesis (     ). Conversely,
+     <italic>
+      in vivo
+     </italic>
+     experiments exhibited no observable difference in survival of wild-type and
+     <italic>
+      Ccr5
+     </italic>
+     mice after challenge with
+     <named-content content-type="genus-species">
+      Y. pestis
+     </named-content>
+     , as well as similar colonization levels in Peyer’s patches and cecum after oral inoculation with
+     <named-content content-type="genus-species">
+      Y. pseudotuberculosis
+     </named-content>
+     (     ,     ). However,
+     <named-content content-type="genus-species">
+      Y. pseudotuberculosis
+     </named-content>
+     mutants totally lacking a functional T3SS have little defect for colonization of these organs. Experiments have shown that
+     <named-content content-type="genus-species">
+      Y. pseudotuberculosis
+     </named-content>
+     T3SS mutants have the strongest colonization defect in the spleen (     ). When we analyzed isolated splenocytes, we found that CCR5 was primarily involved in supporting translocation into neutrophils, the predominant cell type that
+     <named-content content-type="genus-species">
+      Y. pseudotuberculosis
+     </named-content>
+     targets within this organ site (     ) (     ). Therefore, the defective translocation exhibited by loss of this receptor could be organ or cell type specific.
+    </p>
+    <p>
+     Overall, this study describes a genetic screen that was able to identify a diverse set of host cell factors that are important for T3SS-mediated cytotoxicity. Included among the identified proteins are host factors previously known to contribute to T3SS function in other organisms, as well as new biochemical pathways not known to support the activity of this system. Future studies should elucidate the exact mechanism of these host factors in the
+     <named-content content-type="genus-species">
+      Yersinia
+     </named-content>
+     T3SS which can also be extrapolated to T3SS in a multitude of other bacterial pathogens. Additionally, many other bacterial pathogens commonly target the RhoA GTPase by a variety of different mechanisms during infection, thus broadening the potential applications of this screen to study other host-pathogen interactions in the future as well.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="h3" sec-type="materials|methods">
+    <title>
+     MATERIALS AND METHODS
+    </title>
+    <sec id="s3.1">
+     <title>
+      Cell lines and bacterial strains.
+     </title>
+     <p>
+      293T cells obtained from ATCC were cultured at 37°C with 5% CO
+      <sub>
+       2
+      </sub>
+      in Dulbecco modified Eagle medium (DMEM) supplemented with 10% heat-inactivated fetal bovine serum (FBS) (Invitrogen). The wild-type RhoA FLARE biosensor (RBS WT) and the GTP binding-defective mutant RhoA biosensor N19 (RBS N19) plasmids were obtained from Klaus Hahn (      ). The RBS plasmid encodes a RhoA binding domain from rhotekin fused to cyan fluorescent protein (CFP), a linker region, followed by yellow fluorescent protein (YFP) and RhoA.
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      YPIII strains obtained from Joan Mecsas at Tufts Medical School were previously described: YPIII
+      <italic>
+       gfp
+      </italic>
+      (      ); YPIII Δ
+      <italic>
+       yopB
+      </italic>
+      , YPIII Δ
+      <italic>
+       yopHMOJ
+      </italic>
+      , and YPIII Δ
+      <italic>
+       yopHMOJE
+      </italic>
+      (      ); YPIII HTEM (      ); and YPIII ETEM (      ). All
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      strains were grown overnight at 26°C in 2×YT broth. To induce the
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      T3SS, cultures were grown overnight, back-diluted to an
+      <italic>
+       A
+      </italic>
+      <sub>
+       600
+      </sub>
+      of approximately 0.2 into either Ca      -depleted conditions (2×YT supplemented with 20 mM Na oxalate and 20 mM MgCl
+      <sub>
+       2
+      </sub>
+      ) or Ca      -replete conditions (2×YT supplemented with 5 mM CaCl
+      <sub>
+       2
+      </sub>
+      ) grown at 26°C for 1.5 h and then shifted to 37°C for 1.5 h (      ).
+     </p>
+    </sec>
+    <sec id="s3.2">
+     <title>
+      Rho biosensor flow cytometry analysis.
+     </title>
+     <p>
+      293T cells seeded in a 12-well tissue culture plate were transfected using Lipofectamine 2000 with either the RhoA biosensor WT or N19 plasmid at a 3:1 reagent/DNA ratio in Opti-MEM (Invitrogen). After 24 h of transfection, cells expressing the RhoA biosensor WT plasmid were challenged with a
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      strain YPIII
+      <italic>
+       yopE
+      </italic>
+      Δ
+      <italic>
+       yopHMOJ
+      </italic>
+      at a multiplicity of infection (MOI) of 50 at 37°C in 5% CO
+      <sub>
+       2
+      </sub>
+      for 1 h. Monolayers were then washed with phosphate-buffered saline (PBS), harvested, and resuspended in FACS buffer (PBS supplemented with 1 mM EDTA and 1% FBS). Samples were then analyzed by FACS on the LSRII flow cytometer (BD Biosciences) using a 405-nm excitation laser and 450-nm and 530-nm filters to visualize CFP and YFP emissions, respectively.
+     </p>
+     <p>
+      For reconstruction experiments to determine the efficiency of enriching for a population of cells that has higher levels of FRET (YFP) emission than the rest of the population, cells having high FRET levels that were marked with an mCherry plasmid were mixed with an excess of cells having low FRET levels but lacking the mCherry marker. The RBS WT plasmid was cotransfected with the pmCherry-N1 plasmid (Clontech) at a 9:1 (Rho biosensor/pmCherry) ratio in order to mark this FRET      population. Cells either transfected exclusively with the RBS WT plasmid followed by incubation with
+      <named-content content-type="genus-species">
+       Y. pseudotuberculosis
+      </named-content>
+      strain YPIII
+      <italic>
+       yopE
+      </italic>
+      Δ
+      <italic>
+       yopHMOJ
+      </italic>
+      at an MOI of 50 at 37°C with 5% CO
+      <sub>
+       2
+      </sub>
+      for 1 h or with the RBS N19 plasmid were used to establish the FRET      population. The FRET      mCherry populations was then mixed with either cells expressing RBS N19 or the infected RBS WT cells at a 1:20 ratio (mCherry      FRET      cells/FRET      cells). The cells were then sorted on the Cytopeia Influx flow cytometer using 405-nm excitation laser to separate the FRET      and FRET      populations. Unsorted, FRET      , and FRET      populations were then analyzed on the BD LSRII flow cytometer as described above. Analysis of flow cytometry data was performed using FlowJo software (Tree Star).
+     </p>
+    </sec>
+    <sec id="s3.3">
+     <title>
+      Preparation of shRNA library.
+     </title>
+     <p>
+      The GeneNet human 50,000 (50K) short hairpin RNA (shRNA) library was obtained from System Biosciences (Mountain View, CA), which contains 200,000 shRNAs with coverage of 3 to 5 per annotated open reading frame (ORF) (      ). The library was divided into 10 smaller pools by transforming into
+      <italic>
+       E
+      </italic>
+      .
+      <italic>
+       coli
+      </italic>
+      DH5α, plating out approximately 2 × 10      colonies on LB-carbenicillin plates, which were then scraped and collected in L broth. DNA was then extracted (Qiagen midiprep) from pelleted bacteria for each pool. The pools were packaged into virus by transfecting 3 × 10      293T cells with pooled DNA (4 µg) along with the packaging plasmids pFIV-34N (1.8 µg) and pVSV-G (VSV stands for vesicular stomatitis virus) (0.2 µg) (System Biosciences) using 18 µl Fugene HD (Promega) and incubating in DMEM culture medium in 10-cm dishes. After 48 h of transfection, supernatants were then collected, passed through a 0.45-μm filter, and stored at −80°C.
+     </p>
+    </sec>
+    <sec id="s3.4">
+     <title>
+      shRNA screen to enrich for transfectants insensitive to YopE GAP activity.
+     </title>
+     <p>
+      293T cells were transduced with the viral packaged pools of shRNA library (representing shRNA from 2 × 10      members of the library) at an MOI of 1. In each experiment, approximately 2 × 10      293T cells were challenged with virus in the presence of 10 µg/ml of Polybrene at approximately 80% confluence. After 24 h, the medium was changed to remove virus, and cells were replated at approximately 3 × 10      cells into 10-cm dishes with DMEM supplemented with 10% FBS. On day 3, 10 µg of the RBS WT plasmid was introduced into the cells by transfection using 30 µl of Lipofectamine 2000. After 24 h of further incubation, cells were then challenged with
+      <italic>
+       Y. pseudotuberculosis
+      </italic>
+      YPIII
+      <italic>
+       yopE
+      </italic>
+      Δ
+      <italic>
+       yopHMOJ
+      </italic>
+      at an MOI of 50 for 1 h at 37°C with 5% CO
+      <sub>
+       2
+      </sub>
+      . The cells were then lifted using 0.05% trypsin (Invitrogen), collected, and sorted using a Cytopeia Influx flow cytometer. Approximately 3 × 10      cells were set aside prior to sorting to be used as an unsorted shRNA input control. To determine the appropriate gates to collect cells, non-shRNA-depleted 293T cells expressing the RBS WT plasmid which were either left untreated or incubated with strain YPIII
+      <italic>
+       yopE
+      </italic>
+      Δ
+      <italic>
+       yopHMOJ
+      </italic>
+      at an MOI of 50 for 1 h at 37°C with 5% CO
+      <sub>
+       2
+      </sub>
+      were used to establish the FRET      and FRET      gates, respectively.
+     </p>
+     <p>
+      Genomic DNA (gDNA) was extracted from unsorted cells and cells collected from the gates corresponding to the FRET      and FRET      gates. shRNA antisense sequences were then PCR amplified in two 100-µl reaction mixtures using 1 µg gDNA. The primers used were shRNA-IS F (F stands for forward) (5′-AATGATACGGCGACCACCGACAGGTTCAGAGTTCTACAGTCCGATC
+      <underline>
+       ACACNNNN
+      </underline>
+      <bold>
+       <italic>
+        CTTCCTGTCAGA
+       </italic>
+      </bold>
+      -3′ [the Illumina sequencing primer is shown in italic type, the bar code and random nucleotides are underlined, and the 12-bp shRNA loop is shown in bold italic type]) and shRNA-IS R (R stands for reverse) (5′-ATTTATTGTATCTGTGGGAGCCTC-3′) to amplify an approximately 200-bp fragment. PCR products were purified by gel extraction, concentrated, and subjected to sequencing on an Illumina HiSeq 2500 instrument.
+     </p>
+    </sec>
+    <sec id="s3.5">
+     <title>
+      Sequence analysis of pooled shRNA amplicons.
+     </title>
+     <p>
+      Illumina sequencing reads were sorted by bar codes, trimmed down
+      <italic>
+       in silico
+      </italic>
+      to the 27-bp antisense shRNA sequence (CLC sequence viewer; CLC Bio) and aligned to the human genome hg_17 database (      ). The number of reads for each individual shRNA in a data set was normalized to the total number of reads in that respective data set (unsorted, FRET      , or FRET      ). Any shRNAs that showed a total number of reads that represented less than 0.001% of both the unsorted and FRET      data sets were discarded for each experiment. FRET      /unsorted and FRET      /FRET      ratios were calculated by dividing the normalized number of reads from the respective data sets for each shRNA. For each experiment, the median and the median absolute deviation (MAD) were calculated for both the FRET      /unsorted and FRET      /FRET      ratios. MAD was calculated as Median
+      <sub>
+       i
+      </sub>
+      (|
+      <italic>
+       X
+      </italic>
+      <sub>
+       i
+      </sub>
+      − Median
+      <sub>
+       j
+      </sub>
+      (
+      <italic>
+       X
+      </italic>
+      <sub>
+       j
+      </sub>
+      )|), in which Median
+      <sub>
+       j
+      </sub>
+      is the median of all the deviations and
+      <italic>
+       X
+       <sub>
+        j
+       </sub>
+      </italic>
+      is the deviation of the sample. From these values,
+      <italic>
+       Z
+      </italic>
+      <sub>
+       MAD
+      </sub>
+      was calculated for each shRNA in which
+      <italic>
+       Z
+      </italic>
+      <sub>
+       MAD
+      </sub>
+      = (
+      <italic>
+       X
+      </italic>
+      − median)/MAD (      ). Any shRNA with a
+      <italic>
+       Z
+      </italic>
+      <sub>
+       MAD
+      </sub>
+      of &gt;2 for both the FRET      /unsorted and FRET      /FRET      ratio was classified as a potential hit in the screen and was a candidate for further analysis.
+     </p>
+    </sec>
+    <sec id="s3.6">
+     <title>
+      Analysis of shRNA candidates.
+     </title>
+     <p>
+      To reconstruct shRNA clones, oligonucleotides were designed based on the shRNA sequence information obtained from the sequenced sorted and unsorted pools (see      in the supplemental material). The pSIF-H1 (puro) shRNA vector (System Biosciences) was modified by exchanging the puromycin resistance cassette with mCherry. Oligonucleotides covering both strands of the complete shRNA hairpin were phosphorylated, annealed, and ligated into either one or both the pSIF-H1 (puro) or pSIF-H1 (mCherry) shRNA vectors. Plasmid DNA was sequenced in order to verify sequences. Candidate shRNAs were then transfected into 293T cells using Fugene HD at a 3:1 reagent/DNA ratio, and transfected cells were analyzed 72 h later.
+     </p>
+    </sec>
+    <sec id="s3.7">
+     <title>
+      Assay for YopB/D function.
+     </title>
+     <p>
+      Approximately 2.5 × 10      293T cells that had been transfected with pSIF-H1 (mCherry) shRNA constructions for approximately 48 h were seeded overnight in a 24-well plate. The cells were challenged with
+      <named-content content-type="genus-species">
+       Yersinia pseudotuberculosis
+      </named-content>
+      strains YPIII Δ
+      <italic>
+       yopB
+      </italic>
+      , YPIII
+      <italic>
+       yopE
+      </italic>
+      Δyop
+      <italic>
+       HMOJ
+      </italic>
+      , or YPIII
+      <italic>
+       ΔyopHMOJE
+      </italic>
+      at an MOI of 25 for 2 h at 37°C. The cells were then washed with PBS, stained using the fluorescein isothiocyanate (FITC) LIVE/DEAD cell viability kit (Invitrogen) for 30 min at room temperature in the dark, washed with PBS, and suspended in FACS buffer. The cells were then analyzed cytometrically (LSRII) using a 488-nm excitation laser and a 525-nm emission filter to measure FITC and a 532-nm excitation laser with a 610-nm emission filter for mCherry expression. A minimum of 2 × 10      events was analyzed using FlowJo software (Tree Star). YopB/D function for each shRNA was measured as mean fluorescence intensity (MFI) of FITC fluorescence as a percentage of the vector control. Statistical significance was measured using the appropriate test, either analysis of variance (ANOVA) followed by a Dunnett’s posthoc test (Prism) or unpaired two-tailed
+      <italic>
+       t
+      </italic>
+      test assuming unequal variances as denoted in the figure legends.
+     </p>
+    </sec>
+    <sec id="s3.8">
+     <title>
+      Assay for translocation of β-lactamase fusions.
+     </title>
+     <p>
+      Approximately 2.5 × 10      293T cells were seeded overnight in a 24-well plate. The cells were challenged with
+      <italic>
+       Yersinia
+      </italic>
+      YPIII YopH-TEM or YPIII YopE-TEM at an MOI of 1 for 1 h at 37°C with 5% CO
+      <sub>
+       2
+      </sub>
+      . Incubations were then continued for 30 min in the dark in the same medium containing 1 µg/ml of CCF2-AM and 1.5 mM probenecid (Invitrogen). The cells were then analyzed by FACS on the LSRII flow cytometer, collecting a minimum of 2 × 10      events per sample. FACS data analysis was performed using FlowJo (Tree Star), and translocation was measured as the ratio of MFI at 450-nm emission/MFI at 530-nm emission after 405-nm excitation after background subtraction from CCF2 uninfected control cells (      ,      ,      ,      ,      ). Statistical significance was measured using the appropriate test, either ANOVA followed by a Dunnett’s posthoc test (Prism) or unpaired two-tailed
+      <italic>
+       t
+      </italic>
+      test assuming unequal variances as denoted in the figure legends.
+     </p>
+    </sec>
+    <sec id="s3.9">
+     <title>
+      Assay for bacterial binding.
+     </title>
+     <p>
+      Approximately 2.5 × 10      bone marrow-derived macrophages (BMDMs) were seeded overnight on coverslips in a 24-well plate. The cells were challenged with YPIII
+      <italic>
+       gfp
+      </italic>
+      strain at an MOI of 1, 2, or 5 for 15 min at 37°C with 5% CO
+      <sub>
+       2
+      </sub>
+      . The cells were then washed three times with PBS, fixed with 4% paraformaldehyde and stained with Hoechst (Sigma) at 1 µg/ml for 30 min at room temperature (RT), followed by placing ProLong Gold (Invitrogen) over the coverslips. Bacterial binding was then quantified using fluorescence microscopy by counting the macrophages with green fluorescent protein-positive (GFP      ) bacteria bound. In each biological experiment, all experimental conditions were performed in triplicate counting a minimum of 100 cells per coverslip.
+     </p>
+    </sec>
+    <sec id="s3.10">
+     <title>
+      Construction of CCR5 and CCR5Δ32 stable cell lines.
+     </title>
+     <p>
+      The complete ORFs of CCR5 and the CCR5Δ32 mutant were amplified from the gDNA of 293T cells using the primers CCR5-BamHI F (5′-GAGGATCCGCCACCATGGATTATCAAGTGTCAAGTCC-3′) and CCR5-XbaI R (5′-GATCTAGATCACAAGCCCACAGATATTTCCTGC-3′). PCR products were digested with BamHI and XbaI and cloned into pcDNA3.1/Hygro      (Hygro stands for hygromycin) vector (Invitrogen). Plasmid DNA was sequenced to identify full-length CCR5 and CCR5Δ32 clones. Plasmids linearized with SSP1 were transfected into 293T cells and selected with 100 µg/ml hygromycin (Invitrogen) to establish stable cell lines. Quantitation of CCR5 surface content was performed on cells fixed with 4% paraformaldehyde, probed with 1:100 dilution of human anti-CCR5 clone 2D7 (BD Biosciences), followed by detection with 1:500 dilution of FITC-labeled anti-mouse IgG. Fluorescence was quantitated by flow cytometry on a BD LSRII instrument.
+     </p>
+    </sec>
+    <sec id="s3.11">
+     <title>
+      Production and analysis of
+      <italic>
+       ex vivo
+      </italic>
+      -generated splenocytes and BMDMs.
+     </title>
+     <p>
+      C57BL/6 and C57BL/6
+      <italic>
+       Ccr5
+      </italic>
+      mice were obtained from Jackson Laboratories. Mice were euthanized using CO
+      <sub>
+       2
+      </sub>
+      inhalation, and the spleens and femur and tibia bones were removed to isolate splenocytes or derive macrophages from the bone marrow. Bone marrow was isolated as previously described (      ). Macrophages were differentiated in RPMI 1640 supplemented with FBS, L-cell-conditioned medium, and penicillin-streptomycin for 7 days prior to harvesting. Approximately 4 × 10      cells were seeded into 24-well non-tissue-culture-treated plates in RPMI 1640 with 10% FBS and L-cell-conditioned medium overnight. Macrophages were then challenged with YPIII YopE-TEM at the indicated MOI for 1 h at 37°C with 5% CO
+      <sub>
+       2
+      </sub>
+      , and translocation was measured as described above.
+     </p>
+     <p>
+      To isolate splenocyte populations, spleens were homogenized through a filter and treated with collagenase D (Roche) (1 mg/ml) for 30 min at 37°C, and red blood cells (RBCs) were lysed with 0.83% NH
+      <sub>
+       4
+      </sub>
+      Cl for 2 min at RT. Splenocytes were then resuspended in RPMI 1640 with 10% FBS at a density of 10      cells/ml and challenged for 45 min at an MOI of 0.5 with YPIII YopE-TEM at 37°C with 5% CO
+      <sub>
+       2
+      </sub>
+      . Splenocytes were then incubated in the dark for 30 min in medium containing 1 µg/ml of CCF2-AM, 1.5 mM probenecid (Invitrogen), and 100 µg/ml gentamicin (Sigma). Aliquots of cells (100-μl aliquots) were transferred to a 96-well plate and incubated with 50 µl of PBS supplemented with 1% FBS (PBS-1% FBS) containing a 1:200 dilution of mouse Fc Block (BD Biosciences) for 10 min at 4°C. The cells were then incubated with 50 µl of PBS-1% FBS containing fluorescent antibodies to Ly6G-PE-Cy7 (PE stands for phycoerythrin), F4/80-PE-Cy5, CD11C-APC (APC stands for allophycocyanin), B220-PE-Cy5, CD8-PE-Cy7, and CD4-PE-Cy7 (BD Biosciences) at dilutions of 1:75 (F4/80 dilution ratio of 2:75) for 30 min at 4°C. The probed cells were then washed once with PBS-1% FBS, pelleted at 1,000 rpm, resuspended in 200 µl PBS-1% FBS, and analyzed by flow cytometry on the BD LSRII instrument. A total of 2 × 10      cells were acquired per sample from three replicate biological experiments, and data were analyzed using FlowJo software (Tree Star).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sm1" sec-type="supplementary-material">
+    <title>
+     SUPPLEMENTAL MATERIAL
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

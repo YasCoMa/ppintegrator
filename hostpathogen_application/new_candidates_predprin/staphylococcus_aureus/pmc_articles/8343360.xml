@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  The real-world efficacy and safety of anlotinib in advanced non-small cell lung cancer
+ </title>
+ <abstract>
+  <p id="Par1">
+   Anlotinib is an anti-angiogenetic multi-targeted tyrosine kinase inhibitor. This study aimed to evaluate the efficacy and safety of anlotinib in advanced non-small cell lung cancer (aNSCLC) in the real world.
+  </p>
+  <p id="Par2">
+   Patients with aNSCLC receiving anlotinib were enrolled in two cohorts (treatment naive and previously treated). The endpoints included progression-free survival (PFS), overall survival (OS) and anlotinib-related adverse events (ar-AEs).
+  </p>
+  <p id="Par3">
+   203 patients accrued in the study. In the treatment-naïve cohort (
+   <italic>
+    n
+   </italic>
+   = 80), the PFS was 7.4 (95% confidence interval [CI] 4.1–10.7) and OS was 10.8 (95% CI 5.8–15.8) months of monotherapy group (immature survival for combination group). In previously treated cohort (
+   <italic>
+    n
+   </italic>
+   = 123), the PFS was 8.0 months (95% CI 6.1–9.9) in the combination group and 4.3 months (95% CI 2.1–6.6) in the monotherapy group (hazard ratio [HR] 0.49; 95% CI 0.29–0.83;
+   <italic>
+    p
+   </italic>
+   = 0.007), respectively. The OS was 18.5 months (95% CI 10.5–26.6) in the combination group and 7.8 months (95% CI 7.1–8.4) in the monotherapy group (HR 0.38; 95% CI 0.22–0.66;
+   <italic>
+    p
+   </italic>
+   = 0.001), respectively. The ar-AEs of grade ≥ 3 in the monotherapy and the combination groups were hypertension (9.0 and 8.7%), fatigue (8.1 and 7.6%), hand-foot syndrome (8.1 and 6.5%), diarrhea (5.4 and 8.7%), proteinuria (5.4 and 5.4%), and mucositis oral (6.3 and 8.7%).
+  </p>
+  <p id="Par4">
+   In aNSCLC, anlotinib monotherapy has a promising efficacy in the first-line setting. It may be an option for those who are ineligible for chemotherapy; anlotinib combination therapy in a ≥ second-line setting showed manageable toxicities and encouraging efficacy, indicating a good application prospect.
+  </p>
+  <p id="Par5">
+   This study was retrospectively registered with ISRCTN Registry (ID ISRCTN35543977) on January 26th, 2021 and Chinese Clinical Trial Register (ChiCTR2000032265) on April 4th, 2020.
+  </p>
+  <p>
+   The online version contains supplementary material available at 10.1007/s00432-021-03752-x.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="Sec1">
+    <title>
+     Introduction
+    </title>
+    <p id="Par6">
+     Non-small cell lung cancer (NSCLC) is the commonest type of lung cancer and comprises 83% of all lung cancers (Miller et al.
+     ), with ≥ 50% of cases diagnosed at advanced stages (Siegel et al.
+     ). Following the increased understanding of the molecular and immunologic profiles of lung cancer and advances in targeted therapy and immunotherapy, the treatment of advanced NSCLC (aNSCLC) has greatly advanced in the last 20 years. The 5-year overall survival (OS) of patients with aNSCLC has greatly improved with the use of these agents (Garon et al.
+     ; Gettinger et al.
+     ; Lin et al.
+     ; Mok et al.
+     ; Ramalingam et al.
+     ).
+    </p>
+    <p id="Par7">
+     Anti-angiogenesis therapy remains indispensable in the standard care for aNSCLC since it normalizes the tumor vasculature and suppresses the tumor microenvironment. The standard first-line treatment for aNSCLC without oncogenic driver mutations in China is platinum-based chemotherapy (Barlesi et al.
+     ; Sandler et al.
+     ; Zhou et al.
+     ), or in combination with bevacizumab, if non-squamous (Fossella et al.
+     ; Scagliotti et al.
+     ; Schiller et al.
+     ). Initial chemotherapy combined with a programmed death-ligand 1 (PD-L1) inhibitor has not proven to be more beneficial than a combination with bevacizumab (Socinski et al.
+     ). In patients with epidermal growth factor receptor (EGFR)-mutated aNSCLC, a combination of anti-angiogenesis therapy and EGFR-tyrosine kinase inhibitors (TKIs) has improved patient survival than EGFR–TKI alone (Nakagawa et al.
+     ; Saito et al.
+     ; Zhou et al.
+     ).
+    </p>
+    <p id="Par8">
+     Anlotinib is an oral small molecular multi-targeted TKI with anti-angiogenic (by inhibiting vascular endothelial growth factor receptor 1–3 and fibroblast growth factor receptor 1–4) and anti-tumor proliferation properties (by inhibiting platelet-derived growth factor receptor α and β, RET, and stem cell factor receptor) (Lin et al.
+     ; Sun et al.
+     ; Xie et al.
+     ). It has been approved by the National Medical Products Administration of China for ≥ third-line treatment of aNSCLC (Han et al.
+     ) and advanced small cell lung cancer (Cheng et al.
+     ).
+    </p>
+    <p id="Par9">
+     Notably, substantial differences exist between patients in clinical trials and in the real world, particularly those with poor conditions (e.g., the elderly, patients with a performance status [PS] ≥ 2, brain metastases, and comorbidities) (Nabhan et al.
+     ). However, anlotinib may be preferred in clinical practice for patients with aNSCLC who are not eligible or unwilling to receive standard care. Several preclinical and clinical trials have confirmed the synergy between anti-angiogenesis therapy and chemotherapy, targeted therapy and immunotherapy, providing a rationale for a combination therapy strategy with these regimens (Alshangiti et al.
+     ). Furthermore, oral anlotinib therapy during the coronavirus disease (COVID-19) pandemic has several advantages such as reducing the number of in-person visits or invasive procedures. Therefore, we investigated the efficacy and safety of anlotinib when used alone or with other antineoplastic agents in patients with aNSCLC in a real-world setting. This is the first of such studies.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec2">
+    <title>
+     Materials and methods
+    </title>
+    <sec id="Sec3">
+     <title>
+      Study design and patients
+     </title>
+     <p id="Par10">
+      This was a retrospective observational cohort study conducted at Peking University Shenzhen Hospital, a university-affiliated tertiary hospital located in Guangdong, China.
+     </p>
+     <p id="Par11">
+      Adult (age ≥ 18 years) patients treated with anlotinib or anlotinib-containing regimens between 1 June 2018 and 30 September 2020 were identified through electronic medical order system (EMS). Patients were screened if they had pathologically confirmed stage IIIB to IV or recurrent NSCLC, measurable disease as evaluated based on Response Evaluation Criteria in Solid Tumours (RECIST, version 1.1) (Eisenhauer et al.
+      ), adequate organs function and a performance status of 0–3. Eligible patients were enrolled in treatment-naïve cohort and previously treated cohort. Each cohort was divided into two groups, monotherapy and combination therapy. Exclusion criteria included, incomplete treatment information, local treatment including interventional therapy and radiotherapy for the target lesions during anlotinib treatment, and malignancies other than lung cancer within 5 years (except those treated with curative intent and had negligible risk of death or metastases, according to the discretion of primary investigator).
+     </p>
+    </sec>
+    <sec id="Sec4">
+     <title>
+      Procedure
+     </title>
+     <p id="Par12">
+      Anlotinib was administered orally once daily at an initial dose from 10 to 12 mg on day 1 to day 14 of a 21-day cycle. The initial dose and combined regimen were decided by the physicians. Anlotinib was continued until tumour progression, death, unacceptable toxicity, and could continue beyond radio-imaging progression for as long as clinical benefit was observed in the absence of symptomatic deterioration and unacceptable toxicity, as judged by the physicians. Dose reductions or suspension were allowed if patients had a ≥ grade 3 anlotinib-related adverse events (ar-AEs). If ar-AEs resolved or reverted to ≤ grade 2 within 2 weeks, anlotinib was re-administrated at the same dose or a lower dose. Where ar-AEs persisted after 2-week interruption, anlotinib was discontinued permanently.
+     </p>
+     <p id="Par13">
+      Tumor responses were assessed based on RECIST 1.1 every 6 weeks in the first 6 cycles and every 8 weeks subsequently until confirmed disease progression. Clinical follow-up was done regularly every 6–8 weeks when the patients visited clinic for the prescription of anlotinib. The survival follow-up was performed by telephone every 3 months after disease progression. Ar-AEs were categorised and graded according to the National Cancer Institute-Common Terminology Criteria for Adverse Events (NCI-CTCAE, version 4.03).
+     </p>
+     <p id="Par14">
+      The EMS was used to collect baseline characteristics, laboratory data, AEs and outcomes. Baseline characteristics included gender, age, smoking status, Eastern Cooperative Oncology Group (ECOG) PS, pathological type, date of diagnosis of advanced disease, disease stage, metastases site, comorbidity and complication, medical histology, presence of oncogenic diver mutations (EGFR, ROS-1, RET, ALK, KRAS, BRAF, c-MET, HER2), prior and subsequent systematic treatment, and best tumor response. The biochemical parameter values and blood cell counts were collected at baseline and during anlotinib treatment.
+     </p>
+    </sec>
+    <sec id="Sec5">
+     <title>
+      Outcomes
+     </title>
+     <p id="Par15">
+      The primary endpoint was progression-free survival (PFS) and secondary endpoints included objective response rate (ORR), disease control rate (DCR), time to treatment failure (TTF), overall survival (OS), and toxicity. The exploratory endpoint was potential biomarker analysis for anlotinib first-line monotherapy. The type of combined agents was the major stratification factor used to analyze the efficacy of later-line anlotinib-combined therapy.
+     </p>
+     <p id="Par16">
+      The PFS was defined as the time from the first anlotinib administration to the documented radio-imaging progression or death due to any cause. The ORR and DCR was defined as the percentage of patients with at least one confirmed response and response plus stable disease before any evidence of progression, respectively. TTF was defined as a composite endpoint measuring time from the first anlotinib administration to discontinuation of treatment for any reason, including disease progression, treatment toxicity, and death. OS was defined as the time from the first anlotinib administration to death from any cause or last follow-up. Ar-AEs, including events that led to dose reductions, treatment discontinuation, or death, were collected. Lymphocyte to monocyte ratio (LMR), neutrophil to lymphocyte ratio (NLR), platelet to lymphocyte ratio (PLR), and prognostic nutritional index (PNI, as calculated as 10 × albumin level (g/dl) + 0.005 × total lymphocyte count (per mm
+      ) (Wang et al.
+      ) were calculated based on the baseline laboratory data.
+     </p>
+    </sec>
+    <sec id="Sec6">
+     <title>
+      Statistical analysis
+     </title>
+     <p id="Par17">
+      Patients’ baseline characteristics were reported with descriptive statistics as proportions for categorical variables and medians (range) for continuous variables. Pearson’s Chi-square test or Fisher’s exact test were used to compare categorical variables and tumour responses between two groups. A
+      <italic>
+       p
+      </italic>
+      -value of &lt; 0.05 was considered statistically significant. The median follow-up period was computed based on the reverse Kaplan–Meier method. The median PFS, OS and 95% confidence interval (CI) were estimated using the Kaplan–Meier method, with differences between groups being evaluated using the log-rank test. Cox proportional hazards regression was used for the univariable and multivariable analysis of PFS and OS and to calculate the hazard ratios (HR) with 95% CIs. To assess the predictive accuracy of the biomarkers in the exploratory analysis, time-dependent receiver operating characteristic (ROC) were constructed using R software. All statistical analyses were performed using the statistical package for the social sciences (SPSS) software version 23 (SPSS Inc., Chicago, IL, USA) and R software version 4.0 (The R foundation for statistical computing, Vienna, Austria).
+     </p>
+    </sec>
+    <sec id="Sec7">
+     <title>
+      Ethical approval and informed consent
+     </title>
+     <p id="Par18">
+      The study was approved by the China Ethics Committee of Registering Clinical Trials (No. ChiECRCT20200083) and performed in accordance with Good Clinical Practice and the provisions of the Declaration of Helsinki. Written informed consent was waived given the nature of the study.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec8">
+    <title>
+     Results
+    </title>
+    <sec id="Sec9">
+     <title>
+      Patients and treatment
+     </title>
+     <p id="Par19">
+      From June 1, 2018, to September 30, 2020, 226 patients were screened from the EMS. A total of 203 patients were enrolled: 80 in the treatment-naïve cohort and 123 in the previously treated cohort (Fig.
+      ). The median follow-up duration was 11.0 (range 7.1–14.8) months and 10.0 (range 8.8–11.8) months, respectively.
+     </p>
+     <p id="Par20">
+      Details of the patients’ characteristics are shown in Table
+      . Patients aged ≥ 75 years (22 [27.5%] and 15 [12.2%], respectively), with a PS ≥ 2 (28 [35.0%] and 40 [32.5%], respectively), and with central nervous system metastases (7 [8.8%] and 23 [18.7%], respectively) were also enrolled, although patients with these characteristics are usually under-represented in clinical trials. There were more male patients (84.6% vs. 60.7%,
+      <italic>
+       p
+      </italic>
+      = 0.017) in the treatment-naïve monotherapy group than in the combination group, and more patients with a PS ≥ 2 (44.1% vs. 21.9%,
+      <italic>
+       p
+      </italic>
+      = 0.009) in the previously treated monotherapy group.
+     </p>
+    </sec>
+    <sec id="Sec10">
+     <title>
+      PFS, OS and TTF
+     </title>
+     <p id="Par21">
+      In the treatment-naïve cohort, 22 events of disease progression or death occurred in the monotherapy group and 5 in the combination group, respectively; 35 and 1 deaths occurred in the monotherapy and combination groups, respectively. Given the limited events of the combination group in this cohort, we analyzed the survival of the monotherapy group only. The median PFS was 7.4 (95% confidence interval [CI] 4.1–10.7) months and the median OS was 10.8 (95% CI 5.8–15.8) months in the treatment-naïve monotherapy group (Fig.
+      ). The median TTF was 8.2 (95% CI 4.3–12.0) months (Supplementary Figure 1A).
+     </p>
+     <p id="Par22">
+      In the previously treated cohort, 63 events of disease progression or death occurred. The median PFS was 8.0 (95% CI 6.1–9.9) months in the combination group and 4.3 (95% CI 2.1–6.6) months in the monotherapy group (hazard ratio [HR] 0.49; 95% CI 0.29–0.83;
+      <italic>
+       p
+      </italic>
+      = 0.007), respectively (Fig.
+      A). The HR for PFS was less than 1.00 across almost all subgroups except for the patients with a PS ≥ 2 and harbouring driver mutations (Fig.
+      B). However, the upper boundaries of the 95% CI crossed 1.00 for multiple subgroups. The interaction test showed that the treatment efficacy varied significantly only across the subgroups of histology types (non-squamous vs. squamous,
+      <italic>
+       p
+      </italic>
+      = 0.045) and driver mutations (yes vs. no,
+      <italic>
+       p
+      </italic>
+      = 0.034).
+     </p>
+     <p id="Par23">
+      With 59 deaths, the median OS was 18.5 (95% CI 10.5–26.6) months in the combination group and 7.8 (95% CI 7.1–8.4) months in the monotherapy group (HR 0.38; 95% CI 0.22–0.66;
+      <italic>
+       p
+      </italic>
+      = 0.001), respectively (Fig.
+      A). Consistent with PFS, the OS benefit of the combination was observed in all subgroups (Fig.
+      B), yet with the upper boundaries of the 95% CIs crossing 1.00 in multiple subgroups. No statistical differences in treatment efficacy comparing combination with monotherapy were observed among subgroups in the interaction test. The PFS and OS did not differ among patients who received different anlotinib-combined agents (median PFS, ICIs vs. TKIs vs. chemotherapy: 18.2 vs. 7.6 vs. 8.0 months,
+      <italic>
+       p
+      </italic>
+      = 0.483; median OS, ICIs vs. TKIs vs. chemotherapy: 18.5 vs. not reached [NR] vs. 19.6 months,
+      <italic>
+       p
+      </italic>
+      = 0.348) (Fig.
+      A, B). In the multivariate analysis, the combination (
+      <italic>
+       p
+      </italic>
+      = 0.044) and the prior anti-angiogenesis treatment (
+      <italic>
+       p
+      </italic>
+      = 0.013) were statistically associated with the PFS; whereas only the combination (
+      <italic>
+       p
+      </italic>
+      = 0.010) was statistically associated with the OS (Supplementary Table 1).
+     </p>
+     <p id="Par24">
+      The median TTF was 9.5 (95% CI 6.5–12.5) months in the combination group and 6.3 (95% CI 4.0–8.4) months in the monotherapy group (HR 0.48; 95% CI 0.26–0.89;
+      <italic>
+       p
+      </italic>
+      = 0.019), respectively (Supplementary Figure 1B).
+     </p>
+    </sec>
+    <sec id="Sec11">
+     <title>
+      Tumor response
+     </title>
+     <p id="Par25">
+      In the treatment-naïve cohort, no patient in the monotherapy group and one patient in the combination group achieved a complete response (CR); 7 and 11 achieved a partial response (PR) in the two groups, respectively. The ORR was significantly higher in the combination group than that in the monotherapy group (42.9% vs. 13.5%,
+      <italic>
+       p
+      </italic>
+      = 0.004); while the DCR was only numerically higher without a statistical difference (82.1% vs. 73.1%,
+      <italic>
+       p
+      </italic>
+      = 0.197) (Table
+      ).
+     </p>
+     <p id="Par26">
+      In the previously treated cohort, more patients responded to anlotinib combination therapy, with 1 (1.6%) CR case and 18 (28.1%) PR cases, respectively. There were significant differences in both ORR and DCR between the combination and monotherapy groups (ORR 29.7% vs. 6.8%,
+      <italic>
+       p
+      </italic>
+      = 0.002; DCR 81.4% vs. 59.3%,
+      <italic>
+       p
+      </italic>
+      = 0.025) (Table
+      ).
+     </p>
+    </sec>
+    <sec id="Sec12">
+     <title>
+      Exploratory analysis
+     </title>
+     <p id="Par27">
+      In the treatment-naïve monotherapy group, the potential predictive and prognostic value of patients’ characteristics and several laboratory parameters, including NLR, LMR, PLR, and PNI, were analyzed. No clinical characteristics were significantly associated with PFS or OS in the univariate analysis (Supplementary Table 2). The median baseline values of these parameters (NLR 4.1, LMR 2.2, PLR 188.3, PNI 39.9) were used as cut-off values to distinguish between patients with low and high values. Notably, high baseline LMR was significantly associated with improved PFS (HR 0.37; 95% CI 0.14–0.99;
+      <italic>
+       p
+      </italic>
+      = 0.048), while high PNI was associated with longer OS (HR 0.33; 95% CI 0.14–0.76;
+      <italic>
+       p
+      </italic>
+      = 0.009) (Supplementary Table 2). NLR and PLR were not significantly associated with PFS and OS. Only high PNI was statistically associated with improved OS (HR 0.34; 95% CI 0.13–0.90;
+      <italic>
+       p
+      </italic>
+      = 0.030) in the multivariate analysis using the previous factors (data not shown). The time-dependent ROC curves at 6 and 12 months for PNI in predicting OS and LMR in predicting PFS are shown in Supplementary Figure 2A and B, respectively. The C-index of PNI in predicting OS was 0.649 and LMR in predicting PFS was 0.652, respectively.
+     </p>
+    </sec>
+    <sec id="Sec13">
+     <title>
+      Safety analysis
+     </title>
+     <p id="Par28">
+      The toxicity of monotherapy (
+      <italic>
+       n
+      </italic>
+      = 111) and combination therapy (
+      <italic>
+       n
+      </italic>
+      = 92) was analyzed in all the patients. The toxicities are summarized in Table
+      . The most prevalent anlotinib-related side effects in the monotherapy group were hypertension (51.3%), fatigue (47.7%), anorexia (39.6%), hand–foot syndrome (34.2%), cough (32.4%), diarrhea (30.6%), hypothyroidism (29.7%), proteinuria (29.7%), and oral mucositis (25.2%); whereas those of anlotinib-combined therapy included fatigue (71.7%), anorexia (62.0%), rash (51.1%), hypertension (48.9%), oral mucositis (45.7%), diarrhea (43.5%), hand–foot syndrome (39.1%), and hypothyroidism (39.1%). Most of these toxicities were grade 1–2. At least 5% of the grade ≥ 3 adverse events in the monotherapy and combination groups were hypertension (9.0 and 8.7%), fatigue (8.1 and 7.6%), hand-foot syndrome (8.1 and 6.5%), diarrhea (5.4 and 8.7%), proteinuria (5.4 and 5.4%), and oral mucositis (6.3 and 8.7%, respectively). The only grade ≥ 3 adverse event that was more frequent in the combination group was anorexia (8.7 and 0.9%).
+     </p>
+     <p id="Par29">
+      Dose reductions were required for five (4.5%) patients in the monotherapy group, including four (3.6%) cases of first-level reduction and one (0.9%) case of second-level reduction. Dose reductions occurred in five (5.4%) patients in the combination group (all one-level reductions). The suspension rates were 3.6% (4/111) and 6.5% (6/99) in the two groups, respectively.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec14">
+    <title>
+     Discussion
+    </title>
+    <p id="Par30">
+     In this study, the survival of treatment-naïve patients with aNSCLC who received anlotinib monotherapy was promising. Also, patients with aNSCLC who received a combination of anlotinib and other anti-tumor agents had a significantly improved survival than those treated with anlotinib alone, administered as ˃ second-line therapy. A combination of vascular endothelial growth factor (VEGF) monoclonal antibodies and chemotherapy improved the PFS and OS in first-line (bevacizumab combination) (Patel et al.
+     ; Reck et al.
+     ; Sandler et al.
+     ; Zhou et al.
+     ) and later-line (ramucirumab combination) (Garon et al.
+     ; Shiono et al.
+     ) settings of aNSCLC, respectively. In multiple phase III trials, the combination of anti-VEGF monoclonal antibodies with erlotinib as first-line treatment significantly improved the PFS in patients with EGFR-mutant aNSCLC than erlotinib alone (Nakagawa et al.
+     ; Saito et al.
+     ; Zhou et al.
+     ). However, multi-targeted TKIs that mainly block the VEGF signaling pathway have exhibited mixed clinical activity in aNSCLC. Compared to placebo, these agents (e.g., vandetanib, pazopanib, sunitinib, and sorafenib) failed to improve survival in aNSCLC (Natale et al.
+     ; Paz-Ares et al.
+     ; Scagliotti et al.
+     ; Weiss et al.
+     ). In combination with chemotherapy, unlike anlotinib, none of them had a superior efficacy to chemotherapy alone in aNSCLC (de Boer et al.
+     ; Goss et al.
+     ; Hanna et al.
+     ; Herbst et al.
+     ; Laurie et al.
+     ; Lee et al.
+     ; Paz-Ares et al.
+     ; Reck et al.
+     ; Scagliotti et al.
+     ; Scagliotti et al.
+     ; Scagliotti et al.
+     ). In the ALTER0303 trial, anlotinib greatly prolonged the OS and PFS than placebo. Anlotinib has a wide range of specific targets, including c‐FMS, Aurora B, and discoidin domain receptor 1 (a group of newly identified kinase targets involved in tumor progression) (Sun et al.
+     ), which might explain its positive results in aNSCLC. Likewise, the inhibitory action of these targets is responsible for anlotinib’s anti-tumor and anti-angiogenic properties, which could explain its encouraging efficacy in the treatment-naïve monotherapy group in our study. In previous clinical trials of first-line treatment in aNSCLC, bevacizumab plus chemotherapy significantly prolonged the PFS from 4.5 to 6–6.7 months, and OS from 10.3 to 12.3–13.4 months (Patel et al.
+     ; Reck et al.
+     ; Sandler et al.
+     ). In our study, first-line anlotinib monotherapy demonstrated a comparable PFS (&gt; 7 months) and slightly worse OS (approximate 11 months) than that of bevacizumab plus chemotherapy. These results may be due to the unique mechanism of anlotinib or the study population. Several patients in the treatment-naïve monotherapy group had wild-type mutations and squamous cell carcinomas, which do not respond effectively to first-line targeted therapy. However, no clinical characteristic, including histology and diver mutations, was significantly associated with PFS or OS in this group. This is consistent with the ALTER0303 trial wherein anlotinib was effective for EGFR-mutant and wild-type patients (Han et al.
+     ), with a significant improvement in the PFS, but not OS of patients with squamous cell carcinomas. The fibroblast growth factor (FGF) signaling pathway plays a key role in squamous cell lung cancer by promoting tumor cell proliferation and cancer angiogenesis through several mechanisms (Helsten et al.
+     ; Procopio et al.
+     ; Tiseo et al.
+     ). As against FGF receptor, the efficacy of anlotinib in this population can be explained. Of note, anlotinib was administered to a population with a heavy tumor burden and adverse prognosis in our study (30–40% of patients were ≥ 75-years old, had ECOG PS ≥ 2 or multiple metastases). Thus, the therapeutic effect of anlotinib may be undervalued because of the recipients’ poor conditions and shorter life expectancy. Moreover, the limited rescue treatment in this population might have contributed to the shorter OS than that of standard bevacizumab-containing chemotherapy. Anlotinib monotherapy has less survival benefits as first-line treatment than immunochemotherapy (Gadgeel et al.
+     ; Gandhi et al.
+     ), especially in terms of OS. Nevertheless, according to our findings, anlotinib may still be an appropriate choice for patients with advanced age, poor PS, or reluctance to receive chemotherapy.
+    </p>
+    <p id="Par31">
+     Anti-angiogenesis therapy can normalize abnormal vascularization in tumors, improve delivery of anti-tumor agents (Alshangiti et al.
+     ), modify the immunosuppressive microenvironment, and crosslink with the EGFR signaling pathway (Tian et al.
+     ); and thus play a synergistic anti-tumor role when combined with other treatments including chemotherapy, EGFR/TKIs, and ICIs. Additionally, the good tolerance and non-overlapping toxicity spectrum of anlotinib makes it possible to be combined. In the previously treated cohort in our study, anlotinib combination therapy improved survival and tumor response to monotherapy. The ECOG PS of the enrolled patients was different between the two groups, which may be a cause of bias. However, it did not show significant association with the survival. Prior anti-angiogenesis therapy was also different between the two groups; and it was significantly associated with PFS, but not OS in the multivariate analysis. However, the PFS benefit of the combination was observed in the subgroups with or without previous anti-angiogenic therapy, although the upper limit of the 95% CI exceeded 1. These findings are consistent with those in earlier studies, which showed that previous anti-angiogenic therapy had no influence on PFS and OS of ≥ third-line anlotinib treatment in aNSCLC (Han et al.
+     ; Shao et al.
+     ; Zhang et al.
+     ).
+    </p>
+    <p id="Par32">
+     The patients with squamous cell carcinoma and without driver mutations had a greater chance of improved PFS following combination therapy, with a
+     <italic>
+      p
+     </italic>
+     value for interaction ≤ 0.05. In the ALTER0303 trial, anlotinib had no additional therapeutic advantage in patients with squamous cell carcinoma or without driver mutations; therefore, we assume that the drugs in the combination may explain this difference. A considerable proportion of patients in the two subgroups (non-squamous vs. squamous, 36% vs. 0%; driver mutations yes vs. no, 63% vs. 2.7%) received anlotinib combined with original EGFR–TKIs as rescue therapy, immediately after the treatment failure with front-line EGFR–TKIs, which might only lead to modest survival benefits. In contrast, survival benefits were significant in patients with squamous cell carcinoma and wild-type mutations, most of who switched from later-line therapy to a combination with chemotherapy or immunotherapy. In the survival analysis with combined agents as the stratification factor, patients who received the EGFR–TKI combination had the shortest PFS, but the difference was not statistically significant. Several studies have compared erlotinib plus bevacizumab with erlotinib alone as first-line treatment in EGFR-mutant aNSCLC; PFS was improved, but not OS (Kato et al.
+     ; Maemondo et al.
+     ; Saito et al.
+     ; Zhou et al.
+     ). Consistently, the first-line combination of anlotinib with EGFR–TKIs has been reported to have an extremely high ORR and DCR in patients with EGFR-mutant aNSCLC (Huang et al.
+     ). Although there is no evidence that adding anti-angiogenesis therapy can improve survival after first-line EGFR–TKI resistance, this combination strategy has still been attempted in patients with slow disease progression in clinical practice. A study on the efficacy of anlotinib combined with first-generation (1G) EGFR–TKIs as second-line therapy in patients with secondary resistance to prior 1G EGFR–TKIs and non-T790M mutations in aNSCLC is ongoing (NCT03766490).
+    </p>
+    <p id="Par33">
+     The efficacy of anlotinib combination therapy in aNSCLC was promising in previous studies, with an ORR of 60–92.6% in the first-line setting and 26–37.5% in the second-line setting (Han et al.
+     ; Huang et al.
+     ; Wu et al.
+     ). Due to the short follow-up time, the PFS was about 5 months in the patients who received anlotinib plus chemotherapy as ≥ second-line treatment in only two studies (Wu et al.
+     ; Zhang et al.
+     ). This was consistent with our study wherein anlotinib combination therapy had a better tumor response than monotherapy in both the treatment-naïve and previously treated patients; this effect was successfully translated into survival benefits in previously treated patients (the survival was immature in treatment-naïve patients). Anlotinib plus ICIs yielded the longest PFS among three different combinations in our study, although the differences were not statistically significant due to the small sample size. This finding supports the hypothesis of the synergistic effect of anti-angiogenic therapy and immunotherapy, which is likely through significant improving the migration of antigen-specific T cell by the vascular normalization (Wallin et al.
+     ). This good survival is comparable to those reported in two recent studies on the combination of anlotinib with ICIs, with a PFS of 15 months in patients with untreated wild-type aNSCLC and an OS of 15.97 months in patients with previously treated EGFR-mutant aNSCLC, respectively (Chen et al.
+     ; Chu et al.
+     ).
+    </p>
+    <p id="Par34">
+     Even with imaging findings of disease progression, patients receiving anlotinib were permitted to continue. This was based on the following considerations. First, the RECIST criteria, which were developed from and validated by the data of clinical trials of cytotoxic chemotherapy has certain limitations in evaluating the efficacy of angiogenesis inhibitors (Grothey et al.
+     ; van Klaveren et al.
+     ). Different from cytotoxic chemotherapy that targets tumor cells, anti-angiogenic agents act on tumor vessels and likely induce tumor cavitation and density changes, instead of shrinkage (Chen et al.
+     ; Jiang et al.
+     ). Thus, the activity of anti-angiogenic therapy could be underestimated by the RECIST criteria if the efficacy is assessed simply using the change in tumor diameter. Second, preclinical studies have proven that prolonged exposure to anti-VEGF treatment beyond the discontinuation of cytotoxic agents may improve tumor control by delaying progression (Bagri et al.
+     ). This is consistent with the modest clinical benefits of bevacizumab use after progression in different malignancies including aNSCLC (Bennouna et al.
+     ; Gridelli et al.
+     ; Takeda et al.
+     ; von Minckwitz et al.
+     ). Third, multiple studies have demonstrated that continuing targeted therapy could still improve survival in patients with slow progressive or oligometastatic/oligoprogressive aNSCLC (Le et al.
+     ; Park et al.
+     ). In our study, anlotinib was re-administered only when a minimum of two investigators confirmed that patients could benefit from cumulative anlotinib use after progression without symptomatic deterioration and unacceptable toxicity.
+    </p>
+    <p id="Par35">
+     Generally, the safety profile of anlotinib combination therapy was comparable to that of monotherapy in terms of the frequency of ≥ grade 3 treatment-related adverse events and dose modification. The side effects in our study were in accordance with those in prior studies (Han et al.
+     ; Huang et al.
+     ; Wu et al.
+     ; Zhang et al.
+     ). There were no new safety concerns or anlotinib-related deaths.
+    </p>
+    <p id="Par36">
+     The identification of predictive and prognostic factors of anti-angiogenic treatment is challenging. In our exploratory analysis, the PFS and OS were improved significantly in patients with higher baseline LMRs in the anlotinib monotherapy group, suggesting that LMR might be a predictor of the efficacy of anlotinib in this setting. LMR is a prognostic factor in lung cancer (Chen et al.
+     ; Go et al.
+     ; Hu et al.
+     ; Song et al.
+     ). Decreased LMR was shown to have significantly negative correlation with PFS and OS in bevacizumab treatment in aNSCLC (Li et al.
+     ). The reason for this is unknown. We hypothesized that fewer circulating monocytes may reflect the limited formation or presence of tumor-associated macrophages (Clear et al.
+     ; Lin et al.
+     ); the latter has a positive relationship with extracellular matrix remodeling, angiogenesis, and lymphangiogenesis (Clear et al.
+     ; Lin et al.
+     ). Conversely, lymphocytopenia is an important component of low LMR; it induces fewer tumor-infiltrating lymphocytes for tumor cell eradication, which is associated with worse efficacy and survival in multiple malignancies (Chen et al.
+     ); and it is also correlated with vascular invasion in NSCLC (Kobayashi et al.
+     ). Therefore, a high LMR may reflect less angiogenesis, lymphangiogenesis, and vascular invasion, which may facilitate anlotinib treatment. Consistent with previous studies (Hong et al.
+     ; Li et al.
+     ), PNI was an independent prognostic factor in patients with aNSCLC who received anlotinib first-line monotherapy in our study. A high PNI is associated with an adequate anticancer immunological reaction, and functional and nutritional status of the host, which can enhance the tolerance and compliance to the treatment in patients with cancer (Deme and Telekes
+     ; Fruchtenicht et al.
+     ; Paccagnella et al.
+     ). Although this is an exploratory and post hoc analysis, these markers are readily available and inexpensive in clinical practice; they could help to predict the efficacy of anlotinib and estimate the prognosis once our results are validated in future studies.
+    </p>
+    <p id="Par37">
+     Our study has a few limitations beyond the retrospective design and consequent selection bias. First, as a real-world study, the non-diverse Chinese population and the small sample size might have affected the generalizability of the results; however, a rigorous approach was used to minimize the chances for error and bias, which entailed centralized reviewing of the radiological responses and independent monitoring. A prospective multi-center observational study with a larger sample size is being planned to further confirm the results of the current study. Second, the monotherapy and combination groups were clinically heterogeneous; however, the multivariate Cox regression analysis was used to adjust for confounding factors. Third, we were unable to obtain the survival of the first-line combination group due to the short follow-up duration.
+    </p>
+    <p id="Par38">
+     Nevertheless, our study has several advantages. First, the best strategy for utilizing agents with different mechanisms of action in aNSCLC remains controversial. Our study provides an attractive alternative chemotherapy-free strategy for the first-line treatment of patients with aNSCLC, especially for those who are frail, have a poor performance status, and are unwilling or unable to receive chemotherapy or immunotherapy. Second, in this era when first-line immunotherapy ± chemotherapy is the standard care for patients without driver mutations, our study provides additional evidence for the application of second-line anti-angiogenesis combination therapy. Third, we further explored the potential predictive and prognostic factors of anlotinib monotherapy for untreated aNSCLC, which can serve as baseline data for further studies on biomarkers of anti-angiogenic therapy. Finally, the convenience and feasibility of anlotinib, especially during the COVID-19 pandemic, makes our findings generalizable.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec15">
+    <title>
+     Conclusions
+    </title>
+    <p id="Par39">
+     Anlotinib monotherapy has a promising efficacy in the first-line setting. It may be an option for patients with aNSCLC who are ineligible for chemotherapy in the real world. Anlotinib plus other anti-tumor regimens in a ≥ second-line setting showed manageable toxicities and encouraging efficacy, indicating a good application prospect in aNSCLC. Our conclusion would benefit from the addition of information on the scope for further research on the topic.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="supplementary-material">
+    <title>
+     Supplementary information
+    </title>
+    <sec id="Sec16">
+     <p>
+      Below is the link to the electronic supplementary material.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

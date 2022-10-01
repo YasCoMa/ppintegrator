@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Identification and Characterization of a Candidate
+ </title>
+ <abstract>
+  <p>
+   Many bacteria live as intracellular symbionts, causing persistent infections within insects. One extraordinarily common infection is that of
+   <italic>
+    Wolbachia pipientis
+   </italic>
+   , which infects 40% of insect species and induces reproductive effects. The bacteria are passed from generation to generation both vertically (through the oocyte) and horizontally (by environmental transmission). Maintenance of the infection within
+   <italic>
+    Drosophila melanogaster
+   </italic>
+   is sensitive to the regulation of actin, as
+   <italic>
+    Wolbachia
+   </italic>
+   inefficiently colonizes strains hemizygous for the profilin or villin genes. Therefore, we hypothesized that
+   <italic>
+    Wolbachia
+   </italic>
+   must depend on the host actin cytoskeleton. In this study, we identify and characterize a
+   <italic>
+    Wolbachia
+   </italic>
+   protein (WD0830) that is predicted to be secreted by the bacterial parasite. Expression of WD0830 in a model eukaryote (the yeast
+   <italic>
+    Saccharomyces cerevisiae
+   </italic>
+   ) induces a growth defect associated with the appearance of aberrant, filamentous structures which colocalize with rhodamine-phalloidin-stained actin. Purified WD0830 bundles actin
+   <italic>
+    in vitro
+   </italic>
+   and cosediments with actin filaments, suggesting a direct interaction of the two proteins. We characterized the expression of WD0830 throughout
+   <italic>
+    Drosophila
+   </italic>
+   development and found it to be upregulated in third-instar larvae, peaking in early pupation, during the critical formation of adult tissues, including the reproductive system. In transgenic flies, heterologously expressed WD0830 localizes to the developing oocyte. Additionally, overexpression of WD0830 results in increased
+   <italic>
+    Wolbachia
+   </italic>
+   titers in whole flies, in stage 9 and 10 oocytes, and in embryos, compared to controls, suggesting that the protein may facilitate
+   <italic>
+    Wolbachia
+   </italic>
+   ’s replication or transmission. Therefore, this candidate secreted effector may play a role in
+   <italic>
+    Wolbachia
+   </italic>
+   ’s infection of and persistence within host niches.
+  </p>
+  <p>
+   The obligate intracellular
+   <italic>
+    Wolbachia pipientis
+   </italic>
+   is a ubiquitous alphaproteobacterial symbiont of arthropods and nematodes and is related to the rickettsial pathogens
+   <italic>
+    Ehrlichia
+   </italic>
+   spp. and
+   <italic>
+    Anaplasma
+   </italic>
+   spp. Studies of
+   <italic>
+    Wolbachia
+   </italic>
+   cell biology suggest that this bacterium relies on host actin for efficient proliferation and transmission between generations. Here, we identified and characterized a
+   <italic>
+    Wolbachia
+   </italic>
+   protein that localizes to and manipulates the eukaryotic actin cytoskeleton, is expressed by
+   <italic>
+    Wolbachia
+   </italic>
+   during host development, and alters
+   <italic>
+    Wolbachia
+   </italic>
+   titers and localization in transgenic fruit flies. We hypothesize that WD0830 may be utilized by the bacterium to facilitate replication in or invasion of different niches during host development.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="h0.0" sec-type="intro">
+    <title>
+     INTRODUCTION
+    </title>
+    <p>
+     <italic>
+      Wolbachia pipientis
+     </italic>
+     is a ubiquitous alphaproteobacterium that is related to the rickettsial pathogens
+     <italic>
+      Ehrlichia
+     </italic>
+     spp. and
+     <italic>
+      Anaplasma
+     </italic>
+     spp. and that infects arthropods and nematodes (
+     ).
+     <italic>
+      Wolbachia pipientis
+     </italic>
+     causes a persistent infection within insects, often inducing reproductive effects including sperm-egg incompatibility, male killing, and feminization (
+     ).
+     <italic>
+      Wolbachia
+     </italic>
+     spp. have received attention recently due to their medical relevance, as the bacteria protect insect hosts from RNA virus infection and are currently being implemented to prevent transmission of dengue virus from mosquitoes to humans (
+     ,
+     ). Additionally, drugs that promote
+     <italic>
+      Wolbachia
+     </italic>
+     clearance are being investigated as potential therapeutics for filarial nematode infection (
+     ,
+     ). For example, the antibiotics tetracycline, rifampin, and doxycycline reduce the ability of these nematodes to reproduce (
+     ).
+    </p>
+    <p>
+     Intracellular bacteria share a common need to manipulate the host cell for survival. Many accomplish this through the use of secretion systems, nanomachines that enable the microbes to directly transfer proteins from bacterium into the cytosol of host cells. These proteins, referred to as effectors, often act to manipulate or usurp host cell processes in order to promote bacterial infection (
+     ). While effectors are bacterial in origin, they act within eukaryotic cells and hence often encode domains that share structural and sometimes sequence similarity with eukaryotic proteins (
+     ,
+     ). Based on analyses of the genome sequences of various
+     <italic>
+      Wolbachia
+     </italic>
+     strains, it is known that
+     <italic>
+      Wolbachia
+     </italic>
+     symbionts likely encode a functional type IV secretion system (
+     ) homologous to the type IV-1-A system of
+     <italic>
+      Agrobacterium
+     </italic>
+     spp. (
+     ). Furthermore, there is evidence that the genes encoding this putative secretion system are expressed by
+     <italic>
+      Wolbachia
+     </italic>
+     within its natural host (
+     ). For example, transcripts for the nine type IV
+     <italic>
+      vir
+     </italic>
+     genes are highly expressed by
+     <italic>
+      Wolbachia
+     </italic>
+     throughout host development (
+     ). The results of this transcriptome analysis supported a model in which the type IV machinery is constitutively expressed, while the candidate secreted effectors are differentially regulated during development (
+     ). Therefore, it is likely that
+     <italic>
+      Wolbachia
+     </italic>
+     harbors effectors that are used to manipulate the host cell. Indeed,
+     <italic>
+      Wolbachia
+     </italic>
+     genomes encode many proteins with eukaryotic domains (
+     ). Identification and characterization of
+     <italic>
+      Wolbachia
+     </italic>
+     effectors will allow us to better understand the basic biology of infection, possibly including how
+     <italic>
+      Wolbachia
+     </italic>
+     induces reproductive effects.
+    </p>
+    <p>
+     Important to
+     <italic>
+      Wolbachia
+     </italic>
+     ’s ability to induce reproductive effects generation after generation is its ability to persist within and be passed through the host germ line. In this regard, there is evidence that
+     <italic>
+      Wolbachia
+     </italic>
+     utilizes the host cytoskeleton, both microtubules (
+     ,
+     ) and actin (
+     ), to achieve transmission. Additionally, the bacterium undergoes somatic cell-to-germ line transmission, i.e.,
+     <italic>
+      Wolbachia
+     </italic>
+     injected into the abdominal cavity of
+     <italic>
+      Drosophila melanogaster
+     </italic>
+     transits to the germ line (
+     ). The ability of
+     <italic>
+      Wolbachia
+     </italic>
+     to pass through layers of host tissues as well as into and out of nonphagocytic cells is hypothesized to involve manipulation of the host actin cytoskeleton (
+     ). Consistent with this hypothesis, in nematodes the transit of
+     <italic>
+      Wolbachia
+     </italic>
+     into germ cells is correlated with a weakening of cortical actin (
+     ), and
+     <italic>
+      Wolbachia
+     </italic>
+     transmission in flies is sensitive to the regulation of actin in the host. For example, flies that carry mutations in profilin and villin, two actin regulatory proteins, exhibit low-titer infections and inefficient bacterial transmission to progeny (
+     ,
+     ).
+    </p>
+    <p>
+     Here, we characterize WD0830, a well-conserved
+     <italic>
+      Wolbachia
+     </italic>
+     protein that contains an α-synuclein domain, a eukaryotic domain known to interact with actin. α-Synuclein, the mammalian homolog, colocalizes with actin filaments
+     <italic>
+      in vivo
+     </italic>
+     (
+     ), and in quantitative proteomics assays it has been found to interact with components of the cytoskeleton (such as cofilin and destrin) (
+     ). We observed that when ectopically expressed in
+     <italic>
+      Saccharomyces cerevisiae
+     </italic>
+     , WD0830 localizes to and manipulates the yeast actin cytoskeleton, resulting in growth inhibition. In addition, we demonstrate that purified WD0830 binds to and bundles filamentous (F)-actin in cosedimentation assays
+     <italic>
+      .
+     </italic>
+     During a native infection, WD0830 transcripts are upregulated in adults, larvae, and pupae, with the highest expression in early pupal development. Finally, in female transgenic flies harboring
+     <italic>
+      Wolbachia
+     </italic>
+     and overexpressing WD0830, the
+     <italic>
+      Wolbachia
+     </italic>
+     protein localizes to developing oocytes. In these same flies,
+     <italic>
+      Wolbachia
+     </italic>
+     accumulates to higher titers than genetic controls, with
+     <italic>
+      Wolbachia
+     </italic>
+     localizing more strongly to the developing oocyte. This effect spans generations, as offspring from these transgenic lines lay eggs with increased
+     <italic>
+      Wolbachia
+     </italic>
+     titers compared to controls. Based on these observations, we propose that WD0830 functions to manipulate actin during host development and facilitates
+     <italic>
+      Wolbachia
+     </italic>
+     replication and transit to different niches.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="h1" sec-type="results">
+    <title>
+     RESULTS
+    </title>
+    <sec id="s1.1">
+     <title>
+      Identification of a
+      <italic>
+       Wolbachia
+      </italic>
+      protein with a region showing sequence similarity to α-synuclein.
+     </title>
+     <p>
+      Bacterial pathogens commonly utilize secretion systems to manipulate their hosts through the secretion of effectors into the host cytosol. Although no such effector has yet been described for an obligate intracellular symbiont,
+      <italic>
+       Wolbachia
+      </italic>
+      genomes encode many proteins containing eukaryotic domains and sequence similarities to eukaryotic proteins. We hypothesize that well-conserved
+      <italic>
+       Wolbachia
+      </italic>
+      proteins that share sequence similarities with eukaryotic domains may be secreted effectors. Through similarity searches using Pfam and NCBI’s GenBank, we identified, in genomes from
+      <italic>
+       Wolbachia
+      </italic>
+      types A, B, C, and D, a conserved protein containing an α-synuclein domain (
+      ). This domain is common to proteins found in vertebrates and is known to mediate interactions with actin (
+      ). The sequence similarity between the N terminus of WD0830 and mammalian α-synuclein (GenBank accession number
+      <ext-link ext-link-type="uri" ns0:href="http://www.ncbi.nlm.nih.gov/nuccore/AF253513">
+       AF253513
+      </ext-link>
+      ) is 33% identity across the relevant amino acids, and this particular protein is well conserved within the
+      <italic>
+       Wolbachia
+      </italic>
+      clade. This protein contains no other domain homology and the extent of conservation across the
+      <italic>
+       Wolbachia
+      </italic>
+      phylogeny varies, with
+      <italic>
+       w
+      </italic>
+      Uni (from
+      <italic>
+       Muscidifurax uniraptor
+      </italic>
+      ),
+      <italic>
+       w
+      </italic>
+      VitA (from
+      <italic>
+       Nasonia vitripenis
+      </italic>
+      ), and
+      <italic>
+       w
+      </italic>
+      Mel (from
+      <italic>
+       Drosophila melanogaster
+      </italic>
+      ) sharing nearly 97% identity, in contrast to the most divergent homolog, that from type D
+      <italic>
+       Wolbachia
+      </italic>
+      , which shares ~30% (
+      ). Conservation within the synuclein domain correlates with the overall percent identity between homologs (
+      ). The closest non-
+      <italic>
+       Wolbachia
+      </italic>
+      homolog found (within GenBank’s nr database) is a hypothetical protein from the invasive pathogen
+      <italic>
+       Providencia alcalifaciens
+      </italic>
+      (30% identity, 29% coverage) (
+      ,
+      ). After
+      <italic>
+       Providencia
+      </italic>
+      , the other best top BLAST hits are all eukaryotic organisms (e.g.,
+      <italic>
+       Adienta vaga
+      </italic>
+      ,
+      <italic>
+       Plasmodium falciparum
+      </italic>
+      ,
+      <italic>
+       Caenorhabditis elegans
+      </italic>
+      ,
+      <italic>
+       Dictyostelium discoideum
+      </italic>
+      ).
+     </p>
+    </sec>
+    <sec id="s1.2">
+     <title>
+      The
+      <italic>
+       w
+      </italic>
+      Mel protein WD0830 elicits a growth defect in yeast and colocalizes with actin.
+     </title>
+     <p>
+      When expressed in the yeast
+      <italic>
+       Saccharomyces cerevisiae
+      </italic>
+      , bacterial effectors, but not housekeeping proteins, often result in growth inhibition due to conserved targeting of eukaryotic cellular processes (
+      ). Thus, given the genetic intractability of
+      <italic>
+       Wolbachia
+      </italic>
+      and the lack of any
+      <italic>
+       in vitro
+      </italic>
+      assays to identify secreted proteins, we next investigated how WD0830 behaves when expressed in yeast (see
+      in the supplemental material)
+      <italic>
+       .
+      </italic>
+      The growth of yeast expressing a green fluorescent protein (GFP)-WD0830 fusion protein was markedly suppressed compared to expression of GFP alone, supporting the potential role of WD0830 as a secreted substrate (
+      ). This statistically significant growth defect (
+      <italic>
+       P
+      </italic>
+      &lt; 0.0001) was not observed in yeast that harbored clones encoding two other
+      <italic>
+       Wolbachia
+      </italic>
+      hypothetical proteins (WD0041 or WD0462) (
+      ).
+     </p>
+     <p>
+      Given that effectors often exhibit similar subcellular localization patterns when expressed in yeast and mammalian cells (
+      ,
+      ), using fluorescence microscopy we next investigated the subcellular localization pattern of the GFP-WD0830 fusion protein when expressed in yeast. As shown in
+      , GFP-WD0830 localized to filamentous structures within the yeast cell (
+      ). This localization is reminiscent of actin filaments observed in wild-type yeast expressing the
+      <italic>
+       Salmonella enterica
+      </italic>
+      serovar Typhimurium type III secreted effector SipA, a protein that promotes bundling of actin filaments (
+      ,
+      ). We therefore stained the actin cytoskeleton of yeast that express GFP or GFP-WD0830 with rhodamine-labeled phalloidin. As shown in the GFP-alone panel in
+      , the yeast actin cytoskeleton normally comprises cortical actin patches and, in polarized cells, actin filaments (which can be difficult to visualize). These structures are no longer observed in yeast that express GFP-WD0830. Rather, we observed thick cables that colocalized with the labeled actin, structures similar to those previously observed with expression of a
+      <italic>
+       Salmonella
+      </italic>
+      type III secreted effector, SipA, in yeast (
+      ).
+     </p>
+    </sec>
+    <sec id="s1.3">
+     <title>
+      WD0830 interacts directly with and bundles F-actin.
+     </title>
+     <p>
+      Based on the localization of GFP-WD0830 in yeast, we hypothesized that this
+      <italic>
+       Wolbachia
+      </italic>
+      protein directly binds to F-actin (F for filamentous). To test this hypothesis, we investigated whether WD0830 purified from
+      <italic>
+       Escherichia coli
+      </italic>
+      directly bound purified actin filaments in a sedimentation assay. In this assay, proteins that bind to F-actin will cosediment and thus pellet after ultracentrifugation. We therefore tested and compared the ability of
+      <italic>
+       E. coli
+      </italic>
+      purified WD0830 (see
+      in the supplemental material) and alpha-actinin, a well-characterized action binding protein (
+      ,
+      ), to directly interact with polymerized rabbit skeletal muscle actin (Cytoskeleton, Inc.). As a negative control, we also included bovine serum albumin (BSA), as recommended in the standard protocol (
+      ). In the cosedimentation assay, proteins were incubated with polymerized actin and, after subjecting the proteins to centrifugation at 150,000 ×
+      <italic>
+       g
+      </italic>
+      , both supernatants and pellets were separated by and visualized in a silver-stained SDS-PAGE gel. Proteins that directly interact with actin are found in the pellet fraction only when actin is present. WD0830 and alpha-actinin both cosedimented with actin (P fractions) (
+      ). The amount of
+      <italic>
+       Wolbachia
+      </italic>
+      WD0830 protein detected in the pellet was 24% (±10% [standard deviation];
+      <italic>
+       n
+      </italic>
+      = 3) of the total when actin was present, compared to 3% (±2%;
+      <italic>
+       n
+      </italic>
+      = 3) without actin present (
+      ), consistent with direct binding. This enrichment is in the same range as observed for alpha-actinin, our positive control (28% in the pellet with actin, compared to 4% in the pellet without actin). We did not observe any sedimentation of BSA with actin (
+      ). This result suggests that WD0830 directly interacts with actin.
+     </p>
+     <p>
+      Because GFP-WD0830 in yeast appeared to generate actin filaments similar to those generated by the
+      <italic>
+       Salmonella
+      </italic>
+      effector SipA, an actin-bundling protein, we compared the ability of WD0830 to bundle actin, as assessed in a low-speed sedimentation assay (
+      ). Strikingly, only in the presence of WD0830 did F-actin sediment at low speed (14,000 ×
+      <italic>
+       g
+      </italic>
+      ) (
+      , LSP), consistent with WD0830 bundling actin. We then visualized the state of actin filaments after incubation with WD0830, with BSA or without additional proteins, and compared the results to incubation alone by using fluorescence microscopy. In the presence of WD0830, but not BSA, we observed F-actin bundles (
+      ).
+     </p>
+    </sec>
+    <sec id="s1.4">
+     <title>
+      Characterization of native and ectopic WD0830 expression during
+      <italic>
+       Drosophila
+      </italic>
+      development.
+     </title>
+     <p>
+      Next, to determine the levels of WD0830 expression during a natural infection, we harvested RNA from
+      <italic>
+       Wolbachia
+      </italic>
+      -infected
+      <italic>
+       Drosophila
+      </italic>
+      at seven different time points during fly development: embryos, first to third instar, early and late pupae, and adults (male and female). We quantified WD0830 expression, normalizing levels to those of the
+      <italic>
+       ftsZ
+      </italic>
+      gene by using quantitative reverse transcription-PCR (qRT-PCR). FtsZ is a core conserved bacterial protein involved in cell division and is known to be highly expressed throughout host development (
+      ), making it an appropriate reference for transcription rates relative to bacterial growth. We found that expression of WD0830 relative to that of
+      <italic>
+       ftsZ
+      </italic>
+      was upregulated during pupation, the developmental period during which ovary development begins and larval prepupal ovaries differentiate into the well-characterized adult structures (
+      ), and thus a critical time point during
+      <italic>
+       Drosophila
+      </italic>
+      development (
+      ). Components of secretion systems, including the
+      <italic>
+       inv/spa
+      </italic>
+      genes, which encode the type III machinery, have been shown to be upregulated during host pupal development in other facultative intracellular symbionts (
+      ), although the genes encoding the machinery of the
+      <italic>
+       Wolbachia
+      </italic>
+      type IV components have also been observed to be constitutively expressed throughout the host life cycle (
+      ). Our data indicate that WD0830, relative to bacterial cell division, was most highly expressed during pupal development (
+      <italic>
+       P
+      </italic>
+      &lt; 0.05), coincident with the development and maturation of important adult structures, such as the reproductive system.
+     </p>
+     <p>
+      WD0830 is expressed during a natural infection and during key time points (e.g., in the development of the reproductive organs). Because
+      <italic>
+       Wolbachia
+      </italic>
+      colonizes the reproductive tract and the actin cytoskeleton influences maternal transmission (
+      ), we next investigated if the heterologous expression of WD0830 affected the dynamics of a
+      <italic>
+       Wolbachia
+      </italic>
+      infection.
+      <italic>
+       Drosophila
+      </italic>
+      is an excellent model insect system in which to study
+      <italic>
+       Wolbachia
+      </italic>
+      infection. The primary vertical colonization of flies by the bacterium occurs during oogenesis (
+      ). Development of the oocyte begins in the anterior tip of the ovary, in a region called the germarium, a structure containing the germ line stem cells from which oocytes differentiate (
+      ).
+      <italic>
+       Wolbachia
+      </italic>
+      can be observed throughout progressive stages of oocyte development within a single egg chamber and in the reproductive tissues (
+      ).
+     </p>
+     <p>
+      We overexpressed a red fluorescent protein (RFP)-WD0830 fusion protein in
+      <italic>
+       Wolbachia
+      </italic>
+      -infected transgenic flies by using a variety of drivers (osk-GAL4, MTD-GAL4, matα4-GAL4). For each of these drivers, we observed the same localization of the expressed protein (
+      ; osk-GAL4 and UAS-RFP-WD0830 data are shown as representative). RFP-WD0830 localized to the developing oocyte early and maintained this localization throughout oogenesis (
+      ). Expression of WD0830 in transgenic flies did not result in gross differences in fly fecundity; the number of progeny between osk-GAL4;RFP-WD0830 flies and genetic controls did not significantly differ (
+      <italic>
+       t
+      </italic>
+      test,
+      <italic>
+       t
+      </italic>
+      = 1.486, df =17.076;
+      <italic>
+       P
+      </italic>
+      = 0.155). In addition, we quantified the density of
+      <italic>
+       Wolbachia
+      </italic>
+      in the developing oocyte by using fluorescence
+      <italic>
+       in situ
+      </italic>
+      hybridization (
+      ), and we did not observe a significant difference in
+      <italic>
+       Wolbachia
+      </italic>
+      density in entire stage 9 to 10 egg chambers between control and transgenic flies (
+      <italic>
+       n
+      </italic>
+      ≥ 25 for each background;
+      <italic>
+       P
+      </italic>
+      &gt; 0.05). However, the density of
+      <italic>
+       Wolbachia
+      </italic>
+      found within the developing oocyte was statistically significantly increased in RFP-WD0830-expressing flies compared to genetic controls (
+      <italic>
+       n
+      </italic>
+      ≥ 25 for each background;
+      <italic>
+       t
+      </italic>
+      = 3.565, df =32.055;
+      <italic>
+       P
+      </italic>
+      = 0.001) (
+      and 6A). This higher-titer infection was also observed by utilizing qPCR on whole transgenic female flies overexpressing WD0830 compared to control flies (
+      <italic>
+       wsp/rpl32
+      </italic>
+      ;
+      <italic>
+       t
+      </italic>
+      = 2.65, df =6;
+      <italic>
+       P
+      </italic>
+      = 0.038) (
+      ).
+     </p>
+     <p>
+      Because the localization of WD0830 correlated with increased
+      <italic>
+       Wolbachia
+      </italic>
+      staining in developing oocytes, we next investigated if embryos derived from transgenic females overexpressing WD0830 harbored higher
+      <italic>
+       Wolbachia
+      </italic>
+      titers. Using qPCR (for
+      <italic>
+       wsp/Rpl32
+      </italic>
+      ) on 6-h embryos, we found that when transgenic flies expressed WD0830, their embryos harbored a greater quantity of
+      <italic>
+       Wolbachia
+      </italic>
+      than seen in genetic controls (with an increase between 3.4- and 16.8-fold for comparisons between embryos from three independent, transgenic lines expressing WD0830 and F
+      <sub>
+       1
+      </sub>
+      embryos from control crosses) (
+      ). Therefore, ectopic expression of WD0830 in an infected
+      <italic>
+       Drosophila melanogaster
+      </italic>
+      germ line increases the
+      <italic>
+       Wolbachia
+      </italic>
+      titer in the presumptive oocyte and may increase the copy numbers of
+      <italic>
+       Wolbachia
+      </italic>
+      detected in the next generation (as we showed via qPCR).
+     </p>
+     <p>
+      We found that overexpression of WD0830 in yeast corresponded to a change in the organization of the cortical F-actin cytoskeleton. We therefore sought to characterize changes in the F-actin skeleton in transgenic flies. Nurse cells transfer their cytoplasmic contents, through F-actin-derived structures termed ring canals, into the developing oocyte. This process is called cytoplasmic dumping, and
+      <italic>
+       Wolbachia
+      </italic>
+      is thought to be delivered to the oocyte via this same route (
+      ). We investigated potential changes to the amount of F-actin associated with ring canals (based on fluorescent phalloidin staining) when RFP-WD0830 was overexpressed. We observed RFP-WD0830 accumulating in the cytoplasm of the developing oocyte (
+      ), and in early egg chambers (stages 5 to 9), RFP-WD0830 expression resulted in thicker actin ring canals adjacent to the developing oocyte (
+      ). Overall, expression of RFP-WD0830 resulted in a 30% increase in the amount of F-actin staining in ring canals adjacent to the oocyte (
+      <italic>
+       n
+      </italic>
+      ≥ 24 for each genotype;
+      <italic>
+       t
+      </italic>
+      = 2.8314, df =47;
+      <italic>
+       P
+      </italic>
+      = 0.006) (
+      ). Regardless of the stage examined, RFP-WD0830-expressing flies exhibited more fluorescent phalloidin staining in actin ring canals than did the genetic controls (with an observed maximal 2-fold increase in stage 5 and 6 oocytes). However, and importantly, we did not observe enrichment of RFP-WD0830 on these same actin ring canals. Therefore, although this modest increase in F-actin staining was statistically significant in transgenic animals overexpressing RFP-WD0830, it remains to be determined if this difference is biologically relevant and behind the observed phenotype. Also, although RFP-WD0830 bundles actin
+      <italic>
+       in vitro
+      </italic>
+      , its natural function in the developing oocyte has yet to be determined.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="h2" sec-type="discussion">
+    <title>
+     DISCUSSION
+    </title>
+    <p>
+     Recent cell biological evidence suggests that
+     <italic>
+      Wolbachia
+     </italic>
+     may coopt host actin during infection. The intracellular bacterium is able to enter and exit host cells during the course of development. In both worms and flies,
+     <italic>
+      Wolbachia
+     </italic>
+     undergoes somatic cell-to-germ line transmission (
+     ,
+     ), and in worms, this transmission has been visually correlated with a reduction in the integrity of cortical actin (
+     ). In flies,
+     <italic>
+      Wolbachia
+     </italic>
+     is sensitive to the regulation of actin, such that heterozygous mutants in key regulatory proteins are unable to efficiently transmit the parasite between generations (
+     ,
+     ). In order to identify candidate
+     <italic>
+      Wolbachia
+     </italic>
+     proteins that may be responsible for cell invasion, we focused on a
+     <italic>
+      Wolbachia
+     </italic>
+     protein, WD0830, which contains a eukaryotic α-synuclein domain and which we named
+     <italic>
+      Wolbachia
+     </italic>
+     actin-localizing effector 1 (WalE1).
+    </p>
+    <p>
+     WalE1 is conserved across a diverse range of
+     <italic>
+      Wolbachia
+     </italic>
+     strains, is specific and unique to the genus, and contains a region at the N terminus that has sequence similarity to synuclein (
+     ).
+     <italic>
+      Wolbachia
+     </italic>
+     strains from four major supergroups encode WalE1 homologs: clades A (
+     <italic>
+      w
+     </italic>
+     Uni,
+     <italic>
+      w
+     </italic>
+     Will), B (
+     <italic>
+      w
+     </italic>
+     Pip,
+     <italic>
+      w
+     </italic>
+     AlbB,
+     <italic>
+      w
+     </italic>
+     VitB), C (
+     <italic>
+      w
+     </italic>
+     Onch), and D (
+     <italic>
+      w
+     </italic>
+     Bm). Heterologously expressed WalE1 colocalizes with actin in yeast and induces a growth defect, consistent with the properties of other known bacterium-secreted effectors. WalE1 binds to and bundles actin
+     <italic>
+      in vitro
+     </italic>
+     , pointing to a direct interaction with the host cytoskeleton. During a natural infection,
+     <italic>
+      Wolbachia
+     </italic>
+     expresses WalE1 transcripts at critical stages during fly development, and when overexpressed in transgenic flies, WalE1 localizes to the developing oocyte and increases
+     <italic>
+      Wolbachia
+     </italic>
+     titers in developing oocytes and embryos derived from these flies (
+     and
+     ). In addition, WalE1 is translocated through a surrogate type IV secretion system (P. J. Christie and I. L. G. Newton, unpublished data). Combined, our evidence suggests that
+     <italic>
+      Wolbachia
+     </italic>
+     may utilize WalE1 during development to manipulate host actin and facilitate replication in and infection of important niches, such as the reproductive tissues and the developing oocyte.
+    </p>
+    <sec id="s2.1">
+     <title>
+      Sequence similarities between WalE1 and other bacterial effectors.
+     </title>
+     <p>
+      The manipulation of actin by invading, intracellular bacteria is not uncommon; in order for these bacteria to travel from one cell to another, they must possess the ability to manipulate actin. Many important human pathogens either recruit host actin binding proteins or directly interact with actin (
+      ). For example, toxins that covalently modify actin are produced by a variety of Gram-positive (
+      ) and Gram-negative bacteria (
+      ). Other strategies for altering the host cytoskeleton include indirect methods that either recruit host actin nucleating proteins (such as Arp2/3) (
+      ), alter host actin binding proteins (such as fodrin) (
+      ), or act on the cytoskeleton through other pathways (such as G-protein signaling cascades) (
+      ,
+      ). Bacterial proteins that directly affect actin polymerization include the WH2 domain-containing actin nucleators (TARP proteins in
+      <italic>
+       Chlamydia
+      </italic>
+      [
+      ] and the VopL effector in
+      <italic>
+       Vibrio parahaemolyticus
+      </italic>
+      [
+      ]), the VipA effector in
+      <italic>
+       Legionella
+      </italic>
+      , which also affects organelle trafficking (
+      ), and the SipC/SspC homologs found within some enteric bacteria (such as
+      <italic>
+       Shigella
+      </italic>
+      spp. [
+      ]) and originally identified and characterized in
+      <italic>
+       Salmonella enterica
+      </italic>
+      serovar Typhimurium (
+      ). The
+      <italic>
+       Salmonella
+      </italic>
+      protein SipC nucleates filament formation and increases the rate of F-actin formation (
+      ), while another
+      <italic>
+       Salmonella
+      </italic>
+      -secreted effector, SipA, decreases the critical concentration of actin and inhibits the depolymerization of filaments (
+      ). Importantly, WalE1 does not contain any region homologous to either WH2, the so-called VopL C-terminal domain (VCD),
+      <italic>
+       Legionella
+      </italic>
+      ’s VipA effector, or
+      <italic>
+       Salmonella
+      </italic>
+      ’s SipA or SipC. Additionally, WalE1 does not contain any of the other known domains involved in actin nucleation by bacteria (e.g., FH2) (
+      ). Therefore, WalE1 may represent a novel evolved strategy for bacterium-host interactions.
+     </p>
+    </sec>
+    <sec id="s2.2">
+     <title>
+      Model for WalE1 function during development of the host.
+     </title>
+     <p>
+      During host development,
+      <italic>
+       Wolbachia
+      </italic>
+      has been observed to segregate between host cells during mitotic divisions and to migrate between different tissues and niches in order to achieve the localization observed in adult reproductive tissues (
+      ,
+      ).
+      <italic>
+       Wolbachia
+      </italic>
+      soma-to-germline transmission has been observed in many different systems, including
+      <italic>
+       in vivo
+      </italic>
+      injection of
+      <italic>
+       Wolbachia
+      </italic>
+      into
+      <italic>
+       Drosophila
+      </italic>
+      (
+      ) and
+      <italic>
+       in vitro
+      </italic>
+      infection of
+      <italic>
+       Anopheles gambiae
+      </italic>
+      egg chambers (
+      ). In order to achieve this cell-to-cell transmission,
+      <italic>
+       Wolbachia
+      </italic>
+      likely manipulates host actin. WalE1 is the first
+      <italic>
+       Wolbachia
+      </italic>
+      protein identified to bind to and modify actin
+      <italic>
+       in vitro
+      </italic>
+      and alter infection dynamics
+      <italic>
+       in vivo. walE1
+      </italic>
+      expression is upregulated during critical stages of host development, and WalE1-transgenic flies produce oocytes and embryos with larger quantities of
+      <italic>
+       Wolbachia
+      </italic>
+      . Based on this evidence, we propose a model in which WalE1 is used by
+      <italic>
+       Wolbachia
+      </italic>
+      to manipulate host actin directly. Further work will identify other host targets of WalE1 and characterize the biochemistry of WalE1’s interaction with eukaryotic actin.
+     </p>
+    </sec>
+    <sec id="s2.3">
+     <title>
+      Summary.
+     </title>
+     <p>
+      Evidence presented here suggests that
+      <italic>
+       Wolbachia
+      </italic>
+      encodes a candidate secreted effector which interacts with and manipulates eukaryotic actin. WalE1 is the first putative
+      <italic>
+       Wolbachia
+      </italic>
+      effector characterized and is the only actin-manipulating protein identified from a nonpathogenic bacterium. Our results suggest new avenues of research in
+      <italic>
+       Wolbachia
+      </italic>
+      cell biology for the investigation of actin as a host cytoskeletal element of importance in the context of symbiosis.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="h3" sec-type="materials|methods">
+    <title>
+     MATERIALS AND METHODS
+    </title>
+    <sec id="s3.1">
+     <title>
+      Bioinformatics and evolutionary analyses.
+     </title>
+     <p>
+      The annotated
+      <italic>
+       Wolbachia w
+      </italic>
+      Mel genome (
+      <ext-link ext-link-type="uri" ns0:href="http://www.ncbi.nlm.nih.gov/nuccore/AE017196">
+       AE017196
+      </ext-link>
+      ) was the source of the query sequence of WD0830 used in reciprocal BLAST experiments. Orthologous WD0830 sequences between type A, B, and D
+      <italic>
+       Wolbachia
+      </italic>
+      strains were generated using reciprocal BLAST against the following genomes (
+      <italic>
+       w
+      </italic>
+      VitA,
+      <ext-link ext-link-type="uri" ns0:href="http://www.ncbi.nlm.nih.gov/bioproject/PRJNA213627">
+       PRJNA213627
+      </ext-link>
+      ;
+      <italic>
+       w
+      </italic>
+      Uni, BioProject accession number
+      <ext-link ext-link-type="uri" ns0:href="http://www.ncbi.nlm.nih.gov/nuccore/PRJNA33275">
+       PRJNA33275
+      </ext-link>
+      ; WBM,
+      <ext-link ext-link-type="uri" ns0:href="http://NC_006833.1">
+       NC_006833.1
+      </ext-link>
+      ;
+      <italic>
+       w
+      </italic>
+      Pip-Pel,
+      <ext-link ext-link-type="uri" ns0:href="http://NC_010981.1">
+       NC_010981.1
+      </ext-link>
+      ;
+      <italic>
+       w
+      </italic>
+      AlbB,
+      <ext-link ext-link-type="uri" ns0:href="http://CAGB00000000.1">
+       CAGB00000000.1
+      </ext-link>
+      ). Protein-coding regions of orthologs were then aligned using ClustalW (
+      ), and maximum-likelihood trees were generated using RAxML (
+      ) within PROTGAMMA (BLOSUM62 matrix), generating 1,000 bootstrap replicates.
+     </p>
+    </sec>
+    <sec id="s3.2">
+     <title>
+      Amplification, cloning, and transformation of
+      <italic>
+       w
+      </italic>
+      Mel genes.
+     </title>
+     <p>
+      Genes from the
+      <italic>
+       w
+      </italic>
+      Mel genome were amplified using modified forward primers to facilitate cloning with the Gateway pENTR-D/TOPO system (Invitrogen), following the manufacturer’s instructions, and transformed into One Shot Top10 competent cells (Invitrogen) using standard protocols. Transformations were plated on selective plates, and entry vector constructs generated by this reaction were sequence verified to confirm that protein products generated were in frame and correctly cloned. Correct entry vectors were used in combination with the
+      <italic>
+       Pfu
+      </italic>
+      yeast destination vector (
+      ) in an LR clonase (Invitrogen) reaction as described in the user manual, and these resultant expression vectors were verified by restriction enzyme digests and sequencing.
+     </p>
+    </sec>
+    <sec id="s3.3">
+     <title>
+      Yeast molecular biology, quantitative growth assays, and microscopy.
+     </title>
+     <p>
+      Yeast strain S288C (BY4741;
+      <italic>
+       MAT
+      </italic>
+      <bold>
+       a
+      </bold>
+      ) was transformed with sequence-verified expression vectors generated using the polyethylene glycol-lithium acetate method (
+      ). Yeast transformants were inoculated into selective synthetic medium with 2% (wt/vol) glucose. These cultures were grown overnight to saturation (at 30°C) before transfer into medium containing 2% raffinose. After cultures reached an optical density at 600 nm (OD
+      <sub>
+       600
+      </sub>
+      ) of 0.3 to 0.4, they were pinned into selective synthetic medium containing 2% galactose (to induce expression) or 2% glucose (to repress expression). These growth assays were performed in triplicate. Optical densities of yeast growing under each condition were measured using an Epoch plate reader (Biotek Instruments, VT) after 24, 36, and 48 h of growth at 30°C.
+     </p>
+     <p>
+      Yeast harboring the expression vectors containing
+      <italic>
+       Wolbachia
+      </italic>
+      GFP fusions were grown overnight in selective synthetic medium containing 2% raffinose. Optical density measurements were taken, and the yeast were diluted to an OD
+      <sub>
+       600
+      </sub>
+      of 0.1 in synthetic medium containing 2% galactose to induce expression. Localization of
+      <italic>
+       Wolbachia
+      </italic>
+      proteins was monitored in live yeast at 6 h and 24 h postinduction by live observation on a Nikon E800 fluorescence microscope with a 40× oil objective and processed using Metamorph imaging software (Molecular Devices). To determine colocalization of the GFP fusion protein with either actin or nuclei, yeast were fixed in either 4% paraformaldehyde or Karnovsky fixative for 20 min at room temperature after a 6-h induction and imaged using a 60× objective. Staining with rhodamine-labeled phalloidin (Invitrogen) to visualize the actin cytoskeleton was performed as previously described (
+      ), and staining with 4′,6-diamino-2-phenylindole (DAPI) in mounting medium (SlowFade Gold; Invitrogen) allowed for visualization of nuclei.
+     </p>
+    </sec>
+    <sec id="s3.4">
+     <title>
+      Yeast protein expression and Western blot assays.
+     </title>
+     <p>
+      Yeast harboring expression vectors containing proteins of interest were grown overnight in selective synthetic medium containing 2% glucose. These cultures were diluted to an OD
+      <sub>
+       600
+      </sub>
+      of 1.0 in synthetic medium containing 4% galactose for 6, 16, or 24 h before cells were harvested by centrifugation and frozen at −80°C. Frozen yeast pellets were disrupted using bead beating (lysing matrix C on an MP FastPrep system; 20 s at speed 6) in 750 µl of lysis buffer (150 mM NaCl, 1% Triton X-100, 50 mM Tris-HCl [pH 8]) supplemented with HALT protease inhibitor cocktail and 5 mM EDTA (Thermo Scientific). Lysates were centrifuged at 10,000 ×
+      <italic>
+       g
+      </italic>
+      for 1 min at 4°C to pellet cell debris, and supernatants were used for subsequent Western blot assays.
+     </p>
+     <p>
+      Proteins were separated on 4-to-20% Tris-glycine NB precast gels (NuSep) and transferred to a polyvinylidene difluoride membrane in Tris-glycine transfer buffer with 15% methanol at 40 V on ice for 3 to 4 h. The membrane was blocked for 5 min in starting block T20 blocking buffer (Thermo Scientific), followed by incubation with antibody (for 1 h at room temperature or overnight [O/N] at 4°C) according to standard protocols. SuperSignal West Pico chemiluminescent substrate was used to detect horseradish peroxidase (HRP) on immunoblots. Blots were reprobed after stripping in 100 mM glycine, 0.15 ND-40, 1% SDS, pH 2, for 1 h at room temperature and then O/N at 4°C. A PageRuler prestained protein ladder (Thermo Scientific) was used as a molecular mass marker. Antibodies utilized included anti-actin at 1:1,000 (LMAB-C4; Seven Hills BioReagents), anti-GFP–HRP conjugate at 1:5,000 (Miltenyi Biotec), and anti-phosphoglycerate kinase at 1:10,000 (Invitrogen).
+     </p>
+    </sec>
+    <sec id="s3.5">
+     <title>
+      Actin sedimentation and bundling assays.
+     </title>
+     <p>
+      WD0830 was heterologously expressed in
+      <italic>
+       Escherichia coli
+      </italic>
+      (GenScript) (see
+      in the supplemental material) and centrifuged at high speed (150,000 ×
+      <italic>
+       g
+      </italic>
+      ) for 1 h at 4°C before use. The supernatant was then used in actin sedimentation assays with purified rabbit skeletal actin (Cytoskeleton, Inc.). Actin was stored in G buffer before use (5 mM Tris-HCl [pH 8.0], 0.2 mM CaCl
+      <sub>
+       2
+      </sub>
+      , 0.2 mM ATP, and 0.5 mM dithiothreitol). Polymerization was induced by the addition of 50 mM KCl, 2 mM MgCl
+      <sub>
+       2
+      </sub>
+      , and 1 mM ATP (final concentrations). The total amount of actin used in each assay mixture was kept constant (40 µl of a 1-mg/ml stock added to each reaction mixture). Either WD0830 (at a 40-ng/ml final concentration), the actin binding protein alpha-actinin (Cytoskeleton, Inc.; used as a positive control for F-actin binding and sedimentation), BSA, or nothing additional (negative controls) was added to individual actin samples. These mixtures were first centrifuged at 14,000 ×
+      <italic>
+       g
+      </italic>
+      for 1 h at 24°C (to identify actin-bundling activity) and then centrifuged at 150,000 ×
+      <italic>
+       g
+      </italic>
+      for 1.5 h at 24°C (to identify actin binding). Laemmli buffer was added to the supernatants, and pellets resulting from this centrifugation and these samples were run on an SDS-PAGE gel to visualize the proteins via silver stain. The gel lanes were scanned, and densitometry was measured using ImageJ software. To image actin filaments, F-actin was prepared as described above and, before centrifugation, stained with Acti-stain 555 fluorescent phalloidin (Cytoskeleton Inc.).
+     </p>
+    </sec>
+    <sec id="s3.6">
+     <title>
+      <italic>
+       Drosophila
+      </italic>
+      immunohistochemistry and microscopy.
+     </title>
+     <p>
+      Ovaries for immunolocalization were dissected in phosphate-buffered saline (PBS) solution 4 days after fly eclosion. We used published protocols for fluorescence
+      <italic>
+       in situ
+      </italic>
+      hybridization (
+      ), with the following modifications: postfixation in 4% paraformaldehyde in diethyl pyrocarbonate (DEPC)-treated PBS, and ovaries were dehydrated in methanol and stored overnight at −20°C. In the morning, washes in DEPC–PBS-Tween (PBST) preceded a 5-min proteinase K treatment (0.05 mg/ml) at 37°C before incubation in hybridization buffer (50% formamide, 5× SSC [1× SSC is 0.15 M NaCl plus 0.015 M sodium citrate], 250 mg/liter salmon sperm DNA, 0.5× Denhardt’s solution, 20 mM Tris-HCl, and 0.1% SDS). Universal bacterial probe EUB338 conjugated to Alexa488 (Molecular Probes) was used to detect
+      <italic>
+       Wolbachia
+      </italic>
+      in the ovarioles. For F-actin detection we used rhodamine-labeled phalloidin or Acti-stain 488 fluorescent phalloidin (Cytoskeleton, Inc.), depending on the cross and the wavelengths utilized. Hybridized ovaries were mounted in Slow Fade Gold plus DAPI antifade reagent (Invitrogen).
+     </p>
+     <p>
+      Images were taken as
+      <italic>
+       z
+      </italic>
+      -series stacks at 1.5-µm intervals using a Nikon E800 fluorescence microscope with a 40× oil objective and processed using Metamorph imaging software (Molecular Devices). Care was taken such that exposure times were normalized across all experiments. For quantification of both
+      <italic>
+       Wolbachia
+      </italic>
+      within the developing oocyte and actin ring canal staining intensity, maximum projections from stacks generated were used, and we excluded the peritoneal sheath. The irregular blob tool was used to outline the entire oocyte, using DAPI staining as a guide. For quantification of actin ring canal intensity, the oval tool was used to outline ring canals adjacent to the developing oocyte.
+     </p>
+    </sec>
+    <sec id="s3.7">
+     <title>
+      Transgenic
+      <italic>
+       Drosophila
+      </italic>
+      stocks and staging of flies.
+     </title>
+     <p>
+      Codon-optimized WD0830 constructs were generated using the Gateway pENTR-D/TOPO system (Invitrogen) as described in the user manual and transformed into One Shot Top10 competent cells (Invitrogen) using standard protocols. Correct entry vectors were used in combination with the pPRW destination vector (obtained from T. Murphy,
+      <italic>
+       Drosophila
+      </italic>
+      Genomics Resource Center; plasmid stock 1137; the vector features a Gateway cassette, UASp promoter, N-terminal monomeric RFP [mRFP], and mini-white [complement]) in an LR clonase reaction mixture [Invitrogen] as described in the user manual), and these resultant expression vectors were verified by restriction enzyme digests and sequencing. These constructs result in an N-terminal mRFP tag for WD0830. The purified plasmids were injected into
+      <italic>
+       Drosophila
+      </italic>
+      embryos (BestGene, Inc.). Thirteen independent lines on the X, second, and third chromosomes were recovered. Standard methods were used for all crosses and culturing. The following stocks were obtained from the Bloomington
+      <italic>
+       Drosophila
+      </italic>
+      Stock Center (BDSC) at Indiana University (
+      <ext-link ext-link-type="uri" ns0:href="http://flystocks.bio.indiana.edu">
+       http://flystocks.bio.indiana.edu
+      </ext-link>
+      ). Stock 145, which carries
+      <italic>
+       W
+      </italic>
+      , was used as the
+      <italic>
+       Wolbachia
+      </italic>
+      -infected control line for characterization of WD0830 expression over the course of development. The three
+      <italic>
+       Wolbachia
+      </italic>
+      -containing Gal4 driver stocks from BDSC used were as follows: Oskar driver, w[1118]; P A11/CyO (BDSC 44241); Maternal Triple driver (MTD), P{w[+mC]=otu-GAL4::VP16.R}1, w[*]; P{w[+mC]=GAL4-nos.NGT}40; P{w[+mC]=GAL4::VP16-nos.UTR}CG6325[MVD1] (BDSC 31777); and Maternal Alpha-Tubulin 67C driver, w[*];P{w[+mC]=matα4-GAL-VP16}V37 (BDSC 7063).
+     </p>
+     <p>
+      Of the thirteen insertion stocks carrying pPRW-WD0830 in a
+      <italic>
+       w
+      </italic>
+      [1118],
+      <italic>
+       Wolbachia
+      </italic>
+      -positive background and named P{w[+mC]=UASp-RFP.WalE1} (BestGene, Inc., Chino Hills, CA, USA), homozygous viable insertions P{w[+mC]=UASp-RFP.WalE1}2M (chromosome 2), -4M (chromosome 3), -6M (chromosome 3), and -7M (chromosome 3) were examined most extensively. Oskar-GAL4 driver and P{w[+mC]=UASp-RFP.WalE1}6M stocks were crossed for quantification of actin,
+      <italic>
+       Wolbachia
+      </italic>
+      , and localization of RFP-WD0830.
+      <italic>
+       Wolbachia
+      </italic>
+      infection status for stocks acquired from the BDSC and from BestGene, Inc., was determined via PCR.
+     </p>
+    </sec>
+    <sec id="s3.8">
+     <title>
+      Nucleic acid extraction and quantitative PCR.
+     </title>
+     <p>
+      To identify
+      <italic>
+       Wolbachia
+      </italic>
+      titers within embryos from mothers expressing
+      <italic>
+       walE1
+      </italic>
+      , individual embryos were homogenized in 10 µl of water, and this lysate was diluted 1:100 for quantitative PCR. Additionally, pools of 20 to 30 embryos were subjected to DNA extraction (using the Qiagen DNeasy blood and tissue kit), and nucleic acids were diluted to &lt;20 ng total for qPCR. Quantitative PCR was performed on this DNA to determine the
+      <italic>
+       Wolbachia
+      </italic>
+      titer (with reference to the host) using an Applied Biosystems StepOne real-time PCR system and Sybr green chemistry (Applied Biosystems). We used
+      <italic>
+       w
+      </italic>
+      sp primers for
+      <italic>
+       Wolbachia
+      </italic>
+      (forward, CATTGGTGTTGGTGTTGGTG; reverse, ACCGAAATAACGAGCTCCAG) and Rpl32 primers for the host (forward, CCGCTTCAAGGGACAGTATC; reverse, CAATCTCCTTGCGCTTCTTG) with the following cycling conditions: 95°C for 10 min, then 40 cycles of 95°C for 15 s and 60°C for 1 min. To characterize
+      <italic>
+       walE1
+      </italic>
+      expression throughout fly development, RNA and DNA were extracted from individual flies (stock 145) at different stages of development by using a modified TRIzol extraction protocol. Briefly, 500 µl of TRIzol was added to flies and samples were homogenized using a pestle. After a 5-min incubation at room temperature, a 12,000 relative centrifugal force centrifugation (at 4°C for 10 min) was followed by a chloroform extraction. The aqueous phase containing RNA was extracted a second time with phenol-chloroform before isopropanol precipitation of RNA. This RNA pellet was washed and resuspended in RNA storage solution (Ambion). DNA extraction from the same flies was performed using ethanol precipitation of the organic phase during the first chloroform extraction. To detect the number of
+      <italic>
+       walE1
+      </italic>
+      transcripts, we utilized the RNA extracted from these flies and the SensiFAST Syber Hi-ROX one-step RT mix (Bioline) and the Applied Biosystems StepOne real-time PCR system with the following primer set: WalE1F, TGGGAAGAAAAGGCTCTGAA; WalE1R, TCAATGAGGCGCTTCTAGGT. As a reference for transcription activity of the core
+      <italic>
+       Wolbachia
+      </italic>
+      genome, we utilized the
+      <italic>
+       Wolbachia ftsZ
+      </italic>
+      gene (forward, TTTTGTTGTCGCAAATACCG; reverse, CCATTCCTGCTGTGATGAAA). We did not employ the
+      <italic>
+       w
+      </italic>
+      sp qPCR primer sets, as
+      <italic>
+       w
+      </italic>
+      sp’s function is unclear and we do not know if
+      <italic>
+       w
+      </italic>
+      sp is stably expressed during development or in different tissues. We therefore designed primers to FtsZ, because as a core protein involved in cell division, the quantities of FtsZ would better correlate with bacterial numbers and activity. Reactions were performed in duplicate or triplicate in a 96-well plate, and calibration standards were used to calculate primer efficiencies. These efficiencies, along with the cycle threshold values generated by the machine, were used to calculate the relative amounts of
+      <italic>
+       Wolbachia
+      </italic>
+      , by using the ΔΔ
+      <italic>
+       C
+       <sub>
+        T
+       </sub>
+      </italic>
+      (Livak) and Pfaffl methods (
+      ).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sm1" sec-type="supplementary-material">
+    <title>
+     SUPPLEMENTAL MATERIAL
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

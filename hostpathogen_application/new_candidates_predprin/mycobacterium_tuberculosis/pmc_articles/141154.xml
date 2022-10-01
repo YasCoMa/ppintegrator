@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Direct Kinase-to-Kinase Signaling Mediated by the FHA Phosphoprotein Recognition Domain of the Dun1 DNA Damage Checkpoint Kinase
+ </title>
+ <abstract>
+  <p>
+   The serine-threonine kinase Dun1 contains a forkhead-associated (FHA) domain and functions in the DNA damage checkpoint pathway of
+   <italic>
+    Saccharomyces cerevisiae
+   </italic>
+   . It belongs to the Chk2 family of checkpoint kinases, which includes
+   <italic>
+    S. cerevisiae
+   </italic>
+   Rad53 and Mek1,
+   <italic>
+    Schizosaccharomyces pombe
+   </italic>
+   Cds1, and human Chk2. Dun1 is required for DNA damage-induced transcription of certain target genes, transient G
+   <sub>
+    2
+   </sub>
+   /M arrest after DNA damage, and DNA damage-induced phosphorylation of the DNA repair protein Rad55. Here we report that the FHA phosphoprotein recognition domain of Dun1 is required for direct phosphorylation of Dun1 by Rad53 kinase in vitro and in vivo.
+   <italic>
+    trans
+   </italic>
+   phosphorylation by Rad53 does not require the Dun1 kinase activity and is likely to involve only a transient interaction between the two kinases. The checkpoint functions of Dun1 kinase in DNA damage-induced transcription, G
+   <sub>
+    2
+   </sub>
+   /M cell cycle arrest, and Rad55 phosphorylation are severely compromised in an FHA domain mutant of Dun1. As a consequence, the Dun1 FHA domain mutant displays enhanced sensitivity to genotoxic stress induced by UV, methyl methanesulfonate, and the replication inhibitor hydroxyurea. We show that the Dun1 FHA domain is critical for direct kinase-to-kinase signaling from Rad53 to Dun1 in the DNA damage checkpoint pathway.
+  </p>
+ </abstract>
+ <sentences/>
+</article>

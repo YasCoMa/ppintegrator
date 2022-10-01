@@ -1,0 +1,1478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Species-specific recruitment of transcription factors dictates toxin expression
+ </title>
+ <abstract>
+  <p>
+   Tight and coordinate regulation of virulence determinants is essential for bacterial biology and involves dynamic shaping of transcriptional regulatory networks during evolution. The horizontally transferred two-partner secretion system ExlB–ExlA is instrumental in the virulence of different
+   <italic>
+    Pseudomonas
+   </italic>
+   species, ranging from soil- and plant-dwelling biocontrol agents to the major human pathogen
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   . Here, we identify a Cro/CI-like repressor, named ErfA, which together with Vfr, a CRP-like activator, controls
+   <italic>
+    exlBA
+   </italic>
+   expression in
+   <italic>
+    P. aeruginosa
+   </italic>
+   . The characterization of ErfA regulon across
+   <italic>
+    P. aeruginosa
+   </italic>
+   subfamilies revealed a second conserved target, the
+   <italic>
+    ergAB
+   </italic>
+   operon, with functions unrelated to virulence. To gain insights into this functional dichotomy, we defined the pan-regulon of ErfA in several
+   <italic>
+    Pseudomonas
+   </italic>
+   species and found
+   <italic>
+    ergAB
+   </italic>
+   as the sole conserved target of ErfA. The analysis of 446
+   <italic>
+    exlBA
+   </italic>
+   promoter sequences from all
+   <italic>
+    exlBA
+   </italic>
+   genomes revealed a wide variety of regulatory sequences, as ErfA- and Vfr-binding sites were found to have evolved specifically in
+   <italic>
+    P. aeruginosa
+   </italic>
+   and nearly each species carries different regulatory sequences for this operon. We propose that the emergence of different regulatory
+   <italic>
+    cis
+   </italic>
+   -elements in the promoters of horizontally transferred genes is an example of plasticity of regulatory networks evolving to provide an adapted response in each individual niche.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="SEC1" sec-type="intro">
+    <title>
+     INTRODUCTION
+    </title>
+    <p>
+     Horizontal gene transfer (HGT) is a major mechanism for the evolution of Prokaryotes facilitating their ability to adapt to specific environmental niches. The majority of genes expressed by bacteria are regulated at the transcriptional level through the action of transcription factors (TFs). In many instances, the genes encoding TFs and their target regulated genes are genetically linked; consequently, they are acquired as a single unit during HGT (
+     ). However, the environment of the recipient, whether they are distinct species or even different strains of the same species, may be sufficiently different from that of the donor to make it necessary to rewire the regulation of the acquired structural genes and integrate them into existing regulatory networks. Mutations in the regulatory sequences near the promoters of horizontally acquired genes readily alter the specificity of recognition by the TFs and represent a simple way of placing them under the control of new regulatory elements that respond to input signals of the specific environment.
+    </p>
+    <p>
+     A new taxonomic group of the human pathogen
+     <italic>
+      P. aeruginosa
+     </italic>
+     has recently emerged, characterized by major features in their virulence factor repertoire; namely the absence of several important toxins, including the Type III Secretion System (T3SS) effectors and the associated secretion and regulatory machinery (
+     ). Instead, they express ExlB–ExlA, a Two-Partner Secretion (TPS) system secreting a potent cytotoxin (
+     ). ExlB (PSPA7_4641) is the cognate outer membrane transporter of the 172 kDa pore-forming cytotoxin, the Exolysin ExlA (PSPA7_4642) (
+     ). In strains harboring the
+     <italic>
+      exlBA
+     </italic>
+     operon, apparent genetic scars at the T3SS-encoding locus can be identified, suggesting an unfavorable functional incompatibility between the two secretion systems or their respective exported toxins resulting in the evolutionary selection of a single secretion system (
+     ). Whole-genome-based population studies demonstrated that the
+     <italic>
+      exlBA
+     </italic>
+     operon is present in two distinct phylogenetic groups, one sharing an average nucleotide identity (ANI) of ∼98% with the
+     <italic>
+      T3SS+
+     </italic>
+     major group, and another representing clonal outliers with an ANI of ∼93% (
+     ,
+     ). The current cohort of strains with the
+     <italic>
+      exlBA
+     </italic>
+     operon and lacking the T3SS-encoding genes comprises isolates found in the environment or recovered from both acute and chronic human infections (
+     ,
+     ,
+     ,
+     ).
+    </p>
+    <p>
+     The presence of the
+     <italic>
+      exlBA
+     </italic>
+     operon in specific
+     <italic>
+      P. aeruginosa
+     </italic>
+     phylogenetic groups, as well as in some other
+     <italic>
+      Pseudomonas
+     </italic>
+     species, implies its acquisition by HGT and therefore its expression might be controlled by TFs of the recipients, found at other locations on the chromosome. We recently investigated the
+     <italic>
+      exlBA
+     </italic>
+     regulation in the human urinary tract isolate
+     <italic>
+      P. aeruginosa
+     </italic>
+     IHMA879472 (IHMA87 (
+     )). We showed that the operon is under direct control of the global regulator Vfr, a member of the cyclic AMP receptor (CRP) family, which together with the co-activator cAMP stimulates
+     <italic>
+      exlBA
+     </italic>
+     expression (
+     ). The consensus recognition sites for the CRP proteins in different bacterial species, including the
+     <italic>
+      P. aeruginosa
+     </italic>
+     Vfr (
+     ), are well conserved and can be identified immediately upstream of the
+     <italic>
+      exlBA
+     </italic>
+     core promoter. This sequence is required for the expression of
+     <italic>
+      exlBA
+     </italic>
+     and was shown to specifically bind Vfr (
+     ). Therefore, after the acquisition of the
+     <italic>
+      exlBA
+     </italic>
+     operon by HGT, it became part of the global cAMP/Vfr regulatory network that controls the expression of a number of virulence factors and biofilm determinants in
+     <italic>
+      P. aeruginosa
+     </italic>
+     . Here, we further probed the regulatory mechanisms controlling
+     <italic>
+      exlBA
+     </italic>
+     expression by attempting to identify additional regulators, assess their distribution and function in several
+     <italic>
+      P. aeruginosa
+     </italic>
+     groups and compare these to other
+     <italic>
+      Pseudomonas
+     </italic>
+     species.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="SEC2" sec-type="materials|methods">
+    <title>
+     MATERIALS AND METHODS
+    </title>
+    <sec id="SEC2-1">
+     <title>
+      Bacterial strains
+     </title>
+     <p>
+      The bacterial strains used in this study are listed in
+      .
+      <italic>
+       P. aeruginosa
+      </italic>
+      and
+      <italic>
+       E. coli
+      </italic>
+      strains were grown in Lysogeny Broth (LB) at 37°C under agitation.
+      <italic>
+       P. chlororaphis
+      </italic>
+      ,
+      <italic>
+       P. protegens
+      </italic>
+      and
+      <italic>
+       P. putida
+      </italic>
+      were cultivated at 28°C.
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains were selected on LB plates supplemented with 25 μg/ml irgasan. Antibiotics for
+      <italic>
+       P. aeruginosa
+      </italic>
+      were added when needed at the following concentrations: 75 μg/ml gentamicin and 75 μg/ml tetracycline. For
+      <italic>
+       P. chlororaphis
+      </italic>
+      , 25 μg/ml rifampicin and 25 μg/ml gentamicin were used.
+     </p>
+    </sec>
+    <sec id="SEC2-2">
+     <title>
+      Genome sequencing and assembly
+     </title>
+     <p>
+      The genome of
+      <italic>
+       P. aeruginosa
+      </italic>
+      IHMA87 was sequenced using Illumina HiSeq (
+      ) and completed with PacBio (Base Clear, Leiden, Netherlands) technology. Reads from both platforms were assembled using the hybrid assembler Unicycler version 0.4.0 (
+      ) in normal mode to obtain two circular contigs with an average read depth of 136.5X. Genome annotation was carried out using Prokka version 1.12 (
+      ) and annotation was manually curated to include or correct known gene names. The average nucleotide identity (ANI) between the chromosomes of PA7 and IHMA87 was calculated as the OrthoANIu value (
+      ), while the synteny between the two genomes was identified and visualized using Mauve version snapshot_2015-02-13 by aligning them using the progressive Mauve algorithm with default parameters (
+      ).
+     </p>
+    </sec>
+    <sec id="SEC2-3">
+     <title>
+      Transposon mutagenesis
+     </title>
+     <p>
+      A transposon mutant library was constructed in
+      <italic>
+       P. aeruginosa
+      </italic>
+      IHMA87
+      <italic>
+       exlBA::lacZ
+      </italic>
+      using the Himar-1 mariner transposon on pBTK24 plasmid, which carries an outward-directed P
+      <italic>
+       tac
+      </italic>
+      promoter, making it able to either disrupt or overexpress adjacent genes. The library was generated by triparental mating the
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain with the
+      <italic>
+       E. coli
+      </italic>
+      donor strain carrying pBTK24 and a pRK2013-containing helper strain. After overnight culture on LB agar plates with appropriate antibiotics,
+      <italic>
+       P. aeruginosa
+      </italic>
+      and
+      <italic>
+       E. coli
+      </italic>
+      were resuspended in LB at OD
+      <sub>
+       600
+      </sub>
+      = 1. After incubation of
+      <italic>
+       P. aeruginosa
+      </italic>
+      at 42°C without agitation for 2 h, the three strains were then combined at a 1:2:2 recipient-to-donor/helper ratio, concentrated 30× and spotted for a total of 16 50-μl puddles on LB agar plates. After 4 h of incubation at 37°C (allowing one bacterial doubling, as checked by CFU counting), the puddles were scraped off, pooled and stored at −80°C. The mutant library size was estimated at 100 000 mutants by CFU counting, allowing a complete coverage of the genome (transposon insertions every 65 bp on average). Blue colonies were isolated after plating on LB agar plate containing 25 μg/ml irgasan, 75 μg/ml gentamicin and 40 μg/ml 5-bromo-4-chloro-3-indolyl-β-D-galactopyranoside (X-Gal) and overnight incubation at 37°C followed by 48 h incubation at 4°C. Among 236 mutants selected on plates and re-tested in an ONPG-based β-galactosidase activity assay, 36 displayed at least a 2-fold increase of the reporter activity in comparison to the parental strain. Transposon insertion regions in these candidate mutants were amplified by semi-random PCR and sequenced, leading to the identification of 13 genes potentially involved in
+      <italic>
+       exlBA
+      </italic>
+      regulation (
+      ). All primers are listed in
+      .
+     </p>
+    </sec>
+    <sec id="SEC2-4">
+     <title>
+      Cell culture and cytotoxicity assay
+     </title>
+     <p>
+      A549 epithelial cells (ATCC CCL-185) were grown in Roswell Park Memorial Institute medium (RPMI) 1× supplemented with 10% fetal bovine serum (FBS) at 37°C, 5% CO
+      <sub>
+       2
+      </sub>
+      . Cells were seeded in 96-well plates (50 000 cells/well, 200 μl/well). One hour before infection, the medium was replaced with non-supplemented RPMI medium. Ten minutes before infection, it was supplemented with 0.25 μM Syto24 (Thermofisher) and 0.5 μg/ml Propidium Iodide (PI). In parallel, bacteria were diluted to OD
+      <sub>
+       600
+      </sub>
+      = 0.1 from 16 h-grown liquid cultures and further incubated for 3 h. For the infection, bacterial cultures at OD
+      <sub>
+       600
+      </sub>
+      = 1.0 were diluted and added to monolayers to fit the multiplicity of infection (MOI) of 10. Live-cell microscopy and image analysis were done using an Incucyte S3 Live-cell Imaging System (Essen Bioscience). Total cell population was automatically counted at
+      <italic>
+       T
+      </italic>
+      = 0 in each well by monitoring the Syto24 labeling and further used for the normalization of the PI incorporation data. The number of cells with incorporated PI was counted every 45 min. Areas under the curves were estimated from PI incorporation curves by linear trapezoidal integration.
+     </p>
+     <p>
+      Routine cytotoxicity assays were performed by measuring only the PI fluorescence (excitation 544 nm/emission 590 nm) every 10 min with Fluoroskan Ascent FL2.5 (Thermo Corporation), during 8 h at 37°C. Cell shrinkage assays were performed as described previously (
+      ). Briefly, A549 cells were stained with Dii dye (Life Technologies) for 1 h then washed and placed in RPMI containing 10% FBS before infection. Dii staining detection was done by image acquisition every hour on an Incucyte S3 Live-cell Imaging System. Percent Red Object Confluence in RED channel was measured to quantify cell surface and normalized to
+      <italic>
+       t
+      </italic>
+      <sub>
+       0
+      </sub>
+      to obtain cell shrinkage values.
+     </p>
+    </sec>
+    <sec id="SEC2-5">
+     <title>
+      <italic>
+       Galleria mellonella
+      </italic>
+      infection assay
+     </title>
+     <p>
+      Larvae of
+      <italic>
+       G. mellonella
+      </italic>
+      were obtained from Sud-Est Appâts (Queige, France) and kept in a dark container at room temperature. White larvae of 2.5- to 3-cm size were selected and kept until infection the next day.
+      <italic>
+       Pseudomonas
+      </italic>
+      strains were diluted to OD
+      <sub>
+       600
+      </sub>
+      = 0.1 from overnight cultures and grown in LB under agitation until OD
+      <sub>
+       600
+      </sub>
+      = 1 was reached. Bacteria were then pelleted and resuspended in sterile PBS and diluted to ∼ 5.10
+      bacteria/μl or ∼ 6.10
+      bacterial/μl for
+      <italic>
+       P. aeruginosa
+      </italic>
+      and
+      <italic>
+       P. chlororaphis
+      </italic>
+      , respectively. An insulin pen (HumaPen Luxura, Lilly Nederland) was used to inject 10 μl of bacterial suspension to the last proleg of the larvae. Animals injected with sterile PBS served as a control for physical trauma. CFUs for each dilution were systematically counted from the insulin pen to ensure proper bacterial loads. Forty larvae were injected per condition. Infection development was followed for 24 h at 37 or 30°C for
+      <italic>
+       P. aeruginosa
+      </italic>
+      or
+      <italic>
+       P. chlororaphis
+      </italic>
+      , respectively, and the animals were considered dead when they failed to react to touch. Strains were independently randomized and counting was blinded and done by another person, ensuring no bias in spotting and counting of CFU, as well as in counting dead larvae. Statistical significance was assessed using a Log-rank test.
+     </p>
+    </sec>
+    <sec id="SEC2-6">
+     <title>
+      RNA isolation
+     </title>
+     <p>
+      Total RNA was isolated from liquid cultures at OD
+      <sub>
+       600
+      </sub>
+      = 1 using the hot phenol–chloroform extraction method. Briefly, after cell lysis in hot Lysis-phenol solution (40 mM sodium acetate, 1% SDS, 2 mM EDTA in acid phenol solution), RNA was isolated by sequential phenol–chloroform extractions and ethanol precipitation. Residual DNA was removed by treatment with DNAse following manufacturer’s instructions (Invitrogen). Quantification of RNA was done using a QuBit 3.0 Fluorimeter. RNA sample quality was then assessed on an Agilent Bioanalyzer, yielding RINs of 9 or higher.
+     </p>
+    </sec>
+    <sec id="SEC2-7">
+     <title>
+      Construction of libraries for RNA-seq, sequencing and data analysis
+     </title>
+     <p>
+      After RNA isolation and DNAse treatment, ribosomal RNAs were depleted using the Ribo-Zero rRNA Removal Kit (Illumina) following manufacturer’s instructions. The cDNA libraries were constructed from 50 ng of depleted RNA using the NEBNext Ultra II Directional RNA library prep kit following manufacturer’s instructions (NEB). Libraries were size-selected to 200–700 bp fragments using SPRIselect beads, and quality was assessed on the Agilent Bioanalyzer using High Sensitivity DNA chips. Sequencing was performed at the Biopolymers Facility at Harvard Medical School on an Illumina NextSeq500. Approximately 18 million single-end 50 bp reads per sample were generated on average. More than 90% of reads were uniquely aligned for each sample to the IHMA87 or PAO1 genomes using Bowtie2 (
+      ). Read counts per feature were then obtained with htseq-count (
+      ). Differential gene expression between mutant and wild-type strains was assessed using DESeq2 (
+      ). RNA-seq was performed in biological duplicates for each strain.
+     </p>
+    </sec>
+    <sec id="SEC2-8">
+     <title>
+      Chromatin immuno-precipitation
+     </title>
+     <p>
+      A VSV-G tag-encoding sequence was inserted in the
+      <italic>
+       erfA
+      </italic>
+      gene on the chromosomes of IHMA87 and PAO1 by two-step allelic exchange with the pEXG2-erfA-VSVG and pEXG2-PA0225-VSVG plasmids, respectively. The correct production of C-terminal VSV-G-tagged ErfA proteins in the corresponding IHMA87 ErfA-VSVG and PAO1 ErfA-VSVG strains was assessed by immunoblotting, and the correct activity of the tagged protein was verified by measuring the
+      <italic>
+       exlA::lacZ
+      </italic>
+      transcriptional fusion activity of a strain producing ErfA-VSV-G (
+      ). Each strain was grown in 30 ml LB medium from overnight cultures diluted to OD
+      <sub>
+       600
+      </sub>
+      = 0.1 at 37°C under agitation. At OD
+      <sub>
+       600
+      </sub>
+      = 1, 600 μl of 37% formaldehyde solution was added and samples were incubated for 10 min at 22°C on a rotating wheel. Crosslinking was stopped by the addition of 3 ml of sterile 1.5 M glycine and further incubation for 10 min at 22°C on a rotating wheel. Cells were collected by centrifugation and washed two times with sterile PBS before resuspension in 600 μl of Lysis Buffer (50 mM Tris-HCl, 150 mM NaCl, 1 mM EDTA, 1% Triton X-100, pH 7.4, containing EDTA-free Roche protease inhibitor cocktail). Cell lysis and DNA fragmentation to 100–800 bp were done by sonication in a Qsonica bath sonicator for 8 min at 70% of amplitude. Lysates were cleared by centrifugation. Anti-VSV-G antibodies (Sigma) were bound on magnetic Protein A beads according to manufacturer’s instructions (Dynabeads Protein A, Invitrogen) and further washed in Lysis Buffer. Cleared lysates were first incubated with bare beads only for 30 min at 4°C on a rotating wheel to prevent excess of non-specific binding to the beads in the subsequent steps. After removal of the bare beads, the lysates were incubated overnight at 4°C on a rotating wheel with antibodies bound to the beads. Beads were then washed three times using the provided Washing Buffer (Invitrogen) and transferred into a new tube after the last wash. Supernatants were removed and 70 μl of Elution Buffer (50 mM Tris-HCl, 10 mM EDTA, 1% SDS, pH 7.5) added to the beads and incubated for 10 min at 70°C under vigorous agitation (600 rpm). About 1 μl of 100 mg/ml RNase A was added to the supernatants followed by incubation for 30 min at 65°C, after which 5 μl of 20 mg/ml Proteinase K were added for another 1 h incubation at 50°C. The crosslinks were reversed by incubating the samples for 12 h at 65°C. Sample volumes were then adjusted to 100 μl with nuclease-free water before addition of 3 μl of 3 M sodium acetate (pH 5). DNA was purified on Monarch DNA Clean Up columns (NEB). ChIP was done in biological duplicates for each strain with wild-type strains serving as controls. Before constructing the libraries, each sample was tested for proper ErfA expression by western immunoblotting and DNA fragmentation by purification of DNA after lysis and agarose gel electrophoresis.
+     </p>
+    </sec>
+    <sec id="SEC2-9">
+     <title>
+      ChIP-seq library construction, sequencing and data analysis
+     </title>
+     <p>
+      After ChIP, DNA was quantified on a QuBit 3.0 Fluorimeter and 3.5 ng of DNA was used to construct libraries using the NEBNext Ultra II DNA library prep kit (NEB). The quality of DNA libraries was assessed on an Agilent Bioanalyzer. Sequencing was performed at the Biopolymers Facility at Harvard Medical School on an Illumina NextSeq500, generating an average of 18 million single-end 50 bp reads per sample with &gt;90% of reads from each sample uniquely aligning to the IHMA87 or PAO1 genomes using Bowtie2 (
+      ). Peak calling was done using MACS2 (
+      ) for each duplicate against the two corresponding negative control samples. Peaks found in both replicates were selected using the Intersect tool from BEDTools (
+      ) with a minimum overlap of 50% on each compared peaks. The closest gene and distance from it were identified for each peak using the ClosestBed tool from BEDTools (
+      ). MEME-ChIP (
+      ) was used to find motifs, using the 100 bp DNA regions centered on the summits of all detected peaks.
+     </p>
+    </sec>
+    <sec id="SEC2-10">
+     <title>
+      Electrophoretic mobility shift assay
+     </title>
+     <p>
+      Target DNA regions were amplified by PCR using Cy5-labeled primers and purified on DNA Clean up columns (NEB). The resulting 80-bp DNA probes were incubated at 0.5 nM for 5 min at 37°C in EMSA Buffer (10 mM Tris-HCl, 50 mM KCl, 10 mM MgCl
+      <sub>
+       2
+      </sub>
+      , 10% glycerol, 0.1 mg/ml BSA, pH 8) containing 25 ng/μl poly(dI-dC). For competition assays, 100 nM unlabeled DNA probes (200-fold excess) were incubated with the labeled probes. ErfA protein was added at the indicated concentrations in a final reaction volume of 20 μl and incubated for an additional 15 min at 37°C. Samples were then loaded on a native 5% Tris-borate (TB) polyacrylamide gel and run at 100 V and 4°C in cold 0.5× TB Buffer. Fluorescence imaging was performed using a Chemidoc MP.
+     </p>
+    </sec>
+    <sec id="SEC2-11">
+     <title>
+      RT-qPCR
+     </title>
+     <p>
+      After total RNA isolation and DNase treatment, cDNA synthesis was carried out using 2 μg of RNA with the SuperScript IV first-strand synthesis system (Invitrogen) in the presence or absence of reverse transcriptase to assess the absence of genomic DNA. The CFX96 real-time system (Bio-Rad) was used to PCR amplify the cDNA, and the quantification was based on use of SYBR green fluorescent molecules. About 2 μl of cDNA were incubated with 10 μl of Luna Universal qPCR 2X Master Mix (NEB) and forward and reverse specific primers at final concentrations of 250 nM in a total volume of 20 μl. The real-time PCR was done according to manufacturer’s instructions. To generate standard curves for each pair of primers, serial dilutions of the cDNA were used. The experiments were performed with three biological replicates for each strain, and the relative expression of mRNAs was analyzed with the CFX Manager software (Bio-Rad) using the Pfaffl method relative to
+      <italic>
+       rpoD
+      </italic>
+      reference
+      <italic>
+       C
+      </italic>
+      q values. Statistical analyses were performed by
+      <italic>
+       T
+      </italic>
+      -test. The sequences of primers are listed in
+      .
+     </p>
+    </sec>
+    <sec id="SEC2-12">
+     <title>
+      DAP-seq
+     </title>
+     <p>
+      To construct DNA libraries, genomic DNA (gDNA) was extracted from overnight cultures of
+      <italic>
+       P. aeruginosa
+      </italic>
+      IHMA87 and PAO1,
+      <italic>
+       P. chlororaphis
+      </italic>
+      PA23,
+      <italic>
+       P. putida
+      </italic>
+      KT2440 and
+      <italic>
+       P. protegens
+      </italic>
+      CHA0 using the GenElute Bacterial Genomic DNA kit (Sigma). Purified gDNAs were fragmented to 100–500 bp by sonication in a Qsonica bath sonicator for 6 min at 70% of amplitude. DNA end-repair was performed on 5 μg fragmented DNA using the NEBNext End-Repair Module (NEB). The dA-tailing was then performed using the NEBNext dA-tailing Module (NEB). Truncated Y adaptors were annealed by mixing adaptors A and B (
+      ) in sterile water to a final concentrations of 30 μM each and incubating at 96°C for 2 min before allowing the samples to cool down to room temperature. Ligation of Y adaptors to the dA-tailed libraries was performed using T4 DNA Ligase (NEB) following manufacturer’s instructions. DNA was purified on Monarch Clean Up columns between each of these steps. The quality of the libraries was checked on High Sensitivity DNA chips on an Agilent Bioanalyzer and by PCR tests with primers specific to adaptors A and B before and after adaptors ligation.
+     </p>
+     <p>
+      DAP-seq experiments were conducted in triplicates, and negative controls were performed by not adding any protein to the beads. About 20 μl of Dynabeads His-Tag Isolation and Pulldown magnetic beads (Invitrogen) were washed three times in 500 μl of Binding Buffer (sterile PBS containing 0.01% Tween20). About 500 ng of His-tagged ErfA protein was diluted in 500 μl of Binding Buffer and incubated for 20 min with the washed beads on a rotating wheel at room temperature. After binding, the bead–protein complexes were washed six times in 500 μl of Binding Buffer and then resuspended in 80 μl of Binding Buffer containing 50 ng of adaptor-ligated gDNA libraries and further incubated on a rotating wheel at room temperature for 1 h. The bead–protein–DNA complexes were washed six times in 500 μl of Binding Buffer to eliminate unbound DNA before transferring into a new tube following the final wash. The beads were then resuspended in 25 μl of sterile 10 mM Tris-HCl pH 8.5, and incubated for 10 min at 98°C for elution. After incubation, the samples were placed on ice for 5 min, beads were magnetically removed and the released DNA was used for PCR amplification as previously described (
+      ), using a different indexed pair of primers in each sample to allow pooling for sequencing. PCR products were purified using SPRIselect beads at a 1:1 ratio. Quality of each library was assessed using High Sensitivity DNA chips on an Agilent Bioanalyzer.
+     </p>
+    </sec>
+    <sec id="SEC2-13">
+     <title>
+      DAP-seq sequencing and data analysis
+     </title>
+     <p>
+      Sequencing was performed by the high-throughput sequencing core facility of I2BC (Centre de Recherche de Gif –
+      <ext-link ext-link-type="uri" ns0:href="http://www.i2bc.paris-saclay.fr">
+       http://www.i2bc.paris-saclay.fr
+      </ext-link>
+      ) using an Illumina NextSeq500 instrument. Approximately 5 million single-end 75 bp reads per sample were generated on average with &gt;90% of reads uniquely aligning to the IHMA87, PAO1, PA23, CHA0 or KT2440 genomes using Bowtie2 (
+      ). Peak calling was done using MACS2 (
+      ) for each triplicate against the three corresponding negative control samples. Peaks found in the three replicates were selected using the Intersect tool from BEDTools (
+      ) with a minimum overlap of 50% on each compared peaks. The closest gene and distance from it were identified for each peak using the ClosestBed tool from BEDTools (
+      ).
+     </p>
+    </sec>
+    <sec id="SEC2-14">
+     <title>
+      <italic>
+       exlBA
+      </italic>
+      promoter analysis
+     </title>
+     <p>
+      The ExlA sequence from
+      <italic>
+       P. aeruginosa
+      </italic>
+      PA7 was searched against the 4846
+      <italic>
+       Pseudomonas
+      </italic>
+      genomes from the
+      <italic>
+       Pseudomonas
+      </italic>
+      database version 18.1 (
+      <ext-link ext-link-type="uri" ns0:href="http://pseudomonas.com">
+       http://pseudomonas.com
+      </ext-link>
+      , (
+      )) using a best bi-directional blast hits approach. A total of 446
+      <italic>
+       Pseudomonas
+      </italic>
+      strains were found to possess an
+      <italic>
+       exlA
+      </italic>
+      homolog in their genomes, with BLASTp coverage &gt;95% and sequence identity &gt;30%. In these strains, the presence of an
+      <italic>
+       exlB
+      </italic>
+      -5′ adjacent gene was confirmed and the 200 bp sequence upstream of
+      <italic>
+       exlB
+      </italic>
+      start codon was retrieved using Python scripts. A multiple alignment was done between the 446 obtained sequences using Clustal Omega (
+      ) with 5 guide-tree and HMM iterations. The corresponding phylogenetic tree was visualized and annotated with iTOL (
+      ). The presence of
+      <italic>
+       erfA
+      </italic>
+      ,
+      <italic>
+       ergAB
+      </italic>
+      and
+      <italic>
+       vfr
+      </italic>
+      homologs in the corresponding strains was assessed using
+      <italic>
+       P. aeruginosa
+      </italic>
+      PA7 protein sequences as a query, with coverage &gt;95% and sequence identity &gt;30%. The presence of putative transcription factor binding sites in the 200-bp sequences upstream from the
+      <italic>
+       exlB
+      </italic>
+      start codon was determined using RSAT matrix-scan (
+      ) with default parameters using either Vfr core consensus binding motif (5′-TGNGANNNAGNTCACAT-3′) or ErfA binding motif from ChIP-seq results. Core promoter predictions were performed using BPROM (
+      ). Conservation rates of P
+      <italic>
+       exlBA
+      </italic>
+      ,
+      <italic>
+       exlB
+      </italic>
+      and
+      <italic>
+       exlA
+      </italic>
+      nucleotide sequences were obtained using pairwise alignments on all 446 corresponding sequences with Clustal Omega.
+     </p>
+     <p>
+      See
+      Materials and Methods section on genetic manipulations, β-galactosidase activity assays, proteins purifications and western blot analysis.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="SEC3" sec-type="results">
+    <title>
+     RESULTS
+    </title>
+    <sec id="SEC3-1">
+     <title>
+      <italic>
+       exlBA
+      </italic>
+      promoter sequence shows differences in several
+      <italic>
+       Pseudomonas
+      </italic>
+      species
+     </title>
+     <p>
+      A number of
+      <italic>
+       Pseudomonas
+      </italic>
+      species carry the
+      <italic>
+       exlBA
+      </italic>
+      operon; this provides an opportunity to examine the evolution of regulatory pathways following acquisition of genes by HGT. Toward this goal, we analyzed the 5′ regulatory sequences at the
+      <italic>
+       exlBA
+      </italic>
+      promoters in four representative species carrying
+      <italic>
+       exlBA
+      </italic>
+      . A search of these sequences using Regulatory Sequence Analysis Tools (RSAT) ((
+      );
+      <ext-link ext-link-type="uri" ns0:href="http://embnet.ccg.unam.mx/rsa-tools/">
+       http://embnet.ccg.unam.mx/rsa-tools/
+      </ext-link>
+      ) identified the Vfr-binding site only in the
+      <italic>
+       exlBA
+      </italic>
+      -carrying lineage of
+      <italic>
+       P. aeruginosa
+      </italic>
+      and not in other
+      <italic>
+       Pseudomonas
+      </italic>
+      (Figure
+      ), although orthologues encoding Vfr (CRP) are found in all species. Binding sites for various TFs have been identified in all sequences; however, none is shared by any two species. Therefore it appears that, in these four species, the
+      <italic>
+       exlBA
+      </italic>
+      operon might be regulated differently, reflecting a potential evolution of different regulatory sequences in each of them.
+     </p>
+    </sec>
+    <sec id="SEC3-2">
+     <title>
+      Screen for regulators of
+      <italic>
+       exlBA
+      </italic>
+      identifies a novel repressor
+     </title>
+     <p>
+      To further characterize
+      <italic>
+       exlBA
+      </italic>
+      regulation, we built and screened a comprehensive transposon mutant library in
+      <italic>
+       P. aeruginosa
+      </italic>
+      IHMA87 carrying a
+      <italic>
+       lacZ
+      </italic>
+      gene incorporated into the
+      <italic>
+       exlA
+      </italic>
+      gene, providing a transcriptional readout for mutants with altered expression of the reporter (see ‘Materials and Methods’ section for details). The location of transposon insertions in 13 candidate genes that resulted in an increased expression of the
+      <italic>
+       lacZ
+      </italic>
+      reporter was determined (
+      ). The insertion with the highest effect on expression was in the gene
+      <italic>
+       IHMA87_00215
+      </italic>
+      (
+      <italic>
+       PSPA7_0311
+      </italic>
+      ), encoding an uncharacterized transcriptional regulator containing a Cro/CI-type DNA binding domain, which we named ErfA, for Exolysin Regulatory Factor A. We deleted this gene from the chromosome of
+      <italic>
+       P. aeruginosa
+      </italic>
+      IHMA87 and confirmed that the loss of
+      <italic>
+       erfA
+      </italic>
+      gene product leads to a significant increase in the transcription of the
+      <italic>
+       exlBA
+      </italic>
+      operon and that the various phenotypic changes expected from the rise in ExlA production are correspondingly enhanced. In the Δ
+      <italic>
+       erfA
+      </italic>
+      strain, we observed an approximately 40-fold increase in β-galactosidase activity of the
+      <italic>
+       exlA::lacZ
+      </italic>
+      transcriptional fusion, which was restored to the wild-type levels by trans-complementation (Figure
+      ). The increase in transcription of
+      <italic>
+       exlA
+      </italic>
+      in the
+      <italic>
+       erfA
+      </italic>
+      mutant was accompanied by an increase of both ExlA synthesis and secretion (Figure
+      and
+      ), and consequently of bacterial cytotoxicity during infection of epithelial cells (Figure
+      and
+      ). To assess the impact of de-repression of Exolysin expression
+      <italic>
+       in vivo
+      </italic>
+      , we compared the infectivity of strains in a wax moth
+      <italic>
+       Galleria mellonella
+      </italic>
+      model of infection. Here again, the
+      <italic>
+       erfA
+      </italic>
+      mutant displayed faster killing kinetics of the larvae than the wild-type and complemented strains (Figure
+      ) indicating that ErfA negatively regulates ExlA-dependent virulence of IHMA87
+      <italic>
+       in vivo
+      </italic>
+      . Finally, to test whether ErfA plays the same inhibitory role in the second group of
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains phylogenetically closer to the
+      <italic>
+       T3SS+
+      </italic>
+      groups (
+      ,
+      ), we deleted the
+      <italic>
+       erfA
+      </italic>
+      gene in PA70, a strain isolated from expectoration of a non-CF bronchiectasis patient, and in AL-198, a CF isolate. Both mutants exhibited higher level of
+      <italic>
+       exlB
+      </italic>
+      and
+      <italic>
+       exlA
+      </italic>
+      expression, and even the completely innocuous PA70 strain became cytotoxic when ErfA was absent (Figure
+      –
+      ), showing the conserved function of ErfA on
+      <italic>
+       exlBA
+      </italic>
+      repression across two subgroups of
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains.
+     </p>
+    </sec>
+    <sec id="SEC3-3">
+     <title>
+      The binding repertoire of ErfA in
+      <italic>
+       P. aeruginosa
+      </italic>
+     </title>
+     <p>
+      An ortholog of
+      <italic>
+       erfA
+      </italic>
+      can be identified in the genomes of
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains lacking
+      <italic>
+       exlBA
+      </italic>
+      , including the reference strain PAO1 (PA0225;
+      <ext-link ext-link-type="uri" ns0:href="http://www.pseudomonas.com">
+       www.pseudomonas.com
+      </ext-link>
+      (
+      )). We therefore assumed that ErfA might have other regulatory targets in these strains. In order to apply genome-wide approaches toward the identification of genes under ErfA control, we sequenced and assembled the genome of IHMA87, which represents the third closed genome of the PA7-like clade after PA7 and CR1 (
+      ,
+      ). In addition to a 6.53 Mb chromosome, IHMA87 harbors a 185 kb mega plasmid (
+      ). With an average nucleotide identity of 98.95% between them, the genomes of PA7 and IHMA87 are also generally syntenic (
+      ).
+     </p>
+     <p>
+      To examine the global role of ErfA in IHMA87 (
+      <italic>
+       exlBA
+      </italic>
+      +) and PAO1 (
+      <italic>
+       T3SS
+      </italic>
+      +), we combined RNA-seq and ChIP-seq approaches. A comparison of the transcriptomes of wild-type and
+      <italic>
+       erfA
+      </italic>
+      mutants identified 8 and 2 genes that were differentially expressed (log2(fold change)&gt;2) in IHMA87 and PAO1, respectively (Figure
+      and
+      ;
+      ). ChIP-seq performed with a functional VSV-G-tagged ErfA (
+      ) led to the identification of 2 and 1 regions exhibiting significant enrichment in IHMA87 and PAO1, respectively (Figure
+      –
+      and
+      ). The analysis of all detected peaks allowed us to identify a conserved 17-bp palindromic motif (5′-ATGACACntnGTGTCAT-3′) as a likely ErfA DNA-binding site (EBS) (Figure
+      ). In IHMA87, the second highest peak observed by ChIP-seq was centered on the
+      <italic>
+       exlBA
+      </italic>
+      promoter, showing that ErfA directly exerts its negative control on the operon. In addition to
+      <italic>
+       exlBA
+      </italic>
+      , one additional region was enriched in ChIP-seq in both strains, corresponding to the intergenic region between
+      <italic>
+       erfA
+      </italic>
+      and a two-gene operon transcribed in the opposite direction. These two genes (
+      <italic>
+       PA0224
+      </italic>
+      /
+      <italic>
+       IHMA87_00214
+      </italic>
+      and
+      <italic>
+       PA0223
+      </italic>
+      /
+      <italic>
+       IHMA87_00213
+      </italic>
+      ) were also the most upregulated genes in the
+      <italic>
+       erfA
+      </italic>
+      mutants in RNA-seq, as confirmed by RTqPCR (Figure
+      ,H), and we propose to name them
+      <italic>
+       ergA
+      </italic>
+      and
+      <italic>
+       ergB
+      </italic>
+      for ErfA regulated gene A and B. Mutagenesis experiments showed that ErfA binding on this EBS only slightly diminished
+      <italic>
+       erfA
+      </italic>
+      expression (
+      ), excluding any auto-regulatory mechanism, as suggested by the location of ErfA binding. Overall,
+      <italic>
+       exlBA
+      </italic>
+      and
+      <italic>
+       ergAB
+      </italic>
+      were the only two ErfA targets found in both RNA-seq and ChIP-seq experiments. In addition, genes encoding proteins of the T3SS, including PopB and PopD translocators and exotoxin ExoT, were found slightly downregulated in PAO1
+      <italic>
+       erfA
+      </italic>
+      mutant. The downregulation was confirmed for
+      <italic>
+       popB
+      </italic>
+      by RTqPCR and analysis of a P
+      <italic>
+       popN-lacZ
+      </italic>
+      transcriptional fusion, although it has no impact on cytotoxicity toward epithelial cells (
+      ). This slight regulatory effect seems to be indirect and would need further investigation. Therefore, we conclude that ErfA directly regulates two operons:
+      <italic>
+       exlBA
+      </italic>
+      and
+      <italic>
+       ergAB
+      </italic>
+      .
+     </p>
+     <p>
+      The EBS identified by ChIP-seq was centered at +25 nucleotides downstream of the transcription start site of
+      <italic>
+       exlBA
+      </italic>
+      (
+      ) (Figure
+      ). The direct interaction between ErfA and
+      <italic>
+       exlBA
+      </italic>
+      promoter (P
+      <italic>
+       exlBA
+      </italic>
+      ) as well as specificity to the EBS were confirmed
+      <italic>
+       in vitro
+      </italic>
+      by EMSA, using either wild-type or mutated probes (Figure
+      ,K). The same mutation that abolished ErfA binding
+      <italic>
+       in vitro
+      </italic>
+      , when introduced in the promoter of the IHMA87
+      <italic>
+       exlBA::lacZ
+      </italic>
+      strain, led to increased β-galactosidase activity similar to that measured in the
+      <italic>
+       erfA
+      </italic>
+      mutant (Figure
+      ). This confirmed that the inhibitory effect of ErfA on
+      <italic>
+       exlBA
+      </italic>
+      expression is the consequence of its direct and specific binding to a palindromic DNA motif found on
+      <italic>
+       exlBA
+      </italic>
+      promoter. In addition, ErfA binding to this regulatory site was found to counteract the positive effect of the cAMP-responsive Vfr activator on
+      <italic>
+       exlBA
+      </italic>
+      transcription (
+      ). The configuration of the Vfr- and ErfA-binding sites (VBS and EBS) would allow independent bindings, and thus independent signal integration of both the activator and the repressor, which is reminiscent of what is seen with CRP and LacI regulation of the
+      <italic>
+       lac
+      </italic>
+      operon (
+      ). The EBS situated upstream of
+      <italic>
+       ergAB
+      </italic>
+      overlaps the ‘-10’ box of the putative promoter and is conserved in IHMA87 and PAO1 strains (Figure
+      ). EMSA revealed a much higher affinity of ErfA for the
+      <italic>
+       ergAB
+      </italic>
+      promoter than for the
+      <italic>
+       exlBA
+      </italic>
+      promoter (Figure
+      ), fitting well with the higher effect seen on transcription, and the mutation of the site also prevented the binding of the protein both
+      <italic>
+       in vitro
+      </italic>
+      and
+      <italic>
+       in vivo
+      </italic>
+      (Figure
+      ,P), confirming the direct control of these genes by ErfA.
+     </p>
+    </sec>
+    <sec id="SEC3-4">
+     <title>
+      ErfA regulates two functionally unrelated operons
+     </title>
+     <p>
+      The product of the
+      <italic>
+       ergA
+      </italic>
+      gene is predicted to be a class II aldolase while
+      <italic>
+       ergB
+      </italic>
+      encodes a putative dihydrodipicolinate synthase. However, two independent studies tested ErgB activity as a dihydrodipicolinate synthase without any conclusive results (
+      ,
+      ), leaving both gene products with unknown functions. We investigated whether
+      <italic>
+       ergA
+      </italic>
+      and
+      <italic>
+       ergB
+      </italic>
+      play a role in regulation or function of ExlBA by analyzing the transcription of
+      <italic>
+       exlBA
+      </italic>
+      (Figure
+      ), the cytotoxicity on epithelial cells and the virulence in the
+      <italic>
+       Galleria
+      </italic>
+      model of infection (Figure
+      ,C) of
+      <italic>
+       ergAB
+      </italic>
+      mutant. Collectively, these experiments indicated that ErgA and ErgB have no effect on ExlBA function, at least in the conditions tested herein. Therefore, we conclude that ErfA directly regulates two operons with unrelated functions.
+     </p>
+    </sec>
+    <sec id="SEC3-5">
+     <title>
+      ErfA targets uniquely
+      <italic>
+       ergAB
+      </italic>
+      in other
+      <italic>
+       Pseudomonas
+      </italic>
+      species
+     </title>
+     <p>
+      Orthologues of the
+      <italic>
+       exlBA
+      </italic>
+      operon have been identified in several soil and plant dwelling
+      <italic>
+       Pseudomonas
+      </italic>
+      such as
+      <italic>
+       P. fluorescens
+      </italic>
+      ,
+      <italic>
+       P. protegens
+      </italic>
+      ,
+      <italic>
+       P. putida
+      </italic>
+      and
+      <italic>
+       P. chlororaphis
+      </italic>
+      ((
+      ,
+      ), see later this work). In order to investigate the role of ErfA in these species, we determined the ErfA pan-regulon using an
+      <italic>
+       in vitro
+      </italic>
+      genome-wide binding assay called DAP-seq (
+      ), utilizing a purified recombinant ErfA
+      protein from
+      <italic>
+       P. aeruginosa
+      </italic>
+      IHMA87. We first confirmed that DAP-seq yielded the same profiles of DNA binding as ChIP-seq in both PAO1 (Figure
+      and
+      ) and IHMA87 (Figure
+      and
+      ;
+      ). Indeed, only
+      <italic>
+       exlBA
+      </italic>
+      and
+      <italic>
+       ergAB
+      </italic>
+      promoters were found significantly enriched. Notably, the difference in fold enrichment between
+      <italic>
+       ergAB
+      </italic>
+      and
+      <italic>
+       exlBA
+      </italic>
+      correlated well with
+      <italic>
+       in vitro
+      </italic>
+      affinity for the two sites observed by EMSA and the
+      <italic>
+       in vivo
+      </italic>
+      impact on levels of transcripts measured by RTqPCR, making DAP-seq a convenient and reliable tool to assess ErfA binding. As ErfA proteins from the selected
+      <italic>
+       Pseudomonas
+      </italic>
+      species share between 72 and 76% amino acid identity, we also purified the recombinant ErfA
+      from
+      <italic>
+       P. chlororaphis
+      </italic>
+      PA23, which is 75% identical to ErfA
+      , and carried out DAP-seq with both proteins on
+      <italic>
+       P. aeruginosa
+      </italic>
+      IHMA87 and
+      <italic>
+       P. chlororaphis
+      </italic>
+      PA23 chromosomes to further validate our approach. Both proteins revealed the same binding patterns in the genomes of both of these organisms (Figure
+      –
+      and
+      ), i.e. two promoter regions (
+      <italic>
+       exlBA
+      </italic>
+      and
+      <italic>
+       ergAB
+      </italic>
+      ) in the
+      <italic>
+       P. aeruginosa
+      </italic>
+      genome and exclusively the
+      <italic>
+       ergAB
+      </italic>
+      promoter in
+      <italic>
+       P. chlororaphis
+      </italic>
+      PA23, confirming that differences in their protein sequences did not impact binding specificities. Furthermore, those data showed that the ErfA regulon is restricted to
+      <italic>
+       ergAB
+      </italic>
+      in
+      <italic>
+       P. chlororaphis
+      </italic>
+      PA23. ErfA
+      was then used to determine EBSs on the genomes of
+      <italic>
+       P. chlororaphis
+      </italic>
+      PA23,
+      <italic>
+       P. protegens
+      </italic>
+      CHA0 and
+      <italic>
+       P. putida
+      </italic>
+      KT2440 (Figure
+      –
+      and
+      ). This analysis further revealed the promoter of
+      <italic>
+       ergAB
+      </italic>
+      as the only target in the three species. Interestingly, while the
+      <italic>
+       ergAB
+      </italic>
+      operon is adjacent to
+      <italic>
+       erfA
+      </italic>
+      in
+      <italic>
+       P. aeruginosa
+      </italic>
+      ,
+      <italic>
+       P. chlororaphis
+      </italic>
+      and
+      <italic>
+       P. protegens
+      </italic>
+      , it is 1.2 Mb apart in the chromosome of
+      <italic>
+       P. putida
+      </italic>
+      . This conserved regulation of ErfA stresses the indelible evolutionary conserved link between
+      <italic>
+       erfA
+      </italic>
+      and
+      <italic>
+       ergAB
+      </italic>
+      , and not
+      <italic>
+       exlBA
+      </italic>
+      (Figure
+      and
+      ). In agreement with the DAP-seq data, we confirmed
+      <italic>
+       in vivo
+      </italic>
+      that, in
+      <italic>
+       P. chlororaphis
+      </italic>
+      , ErfA controls the expression of
+      <italic>
+       ergAB
+      </italic>
+      but not of
+      <italic>
+       exlBA
+      </italic>
+      (Figure
+      ). Accordingly, the deletion of
+      <italic>
+       erfA
+      </italic>
+      affect neither cytotoxicity of
+      <italic>
+       P. chlororaphis
+      </italic>
+      on epithelial cells (Figure
+      ) nor its virulence during
+      <italic>
+       G. mellonella
+      </italic>
+      larvae infection (Figure
+      ). Altogether, ErfA represses ExlBA-dependent virulence specifically in
+      <italic>
+       P. aeruginosa
+      </italic>
+      .
+     </p>
+    </sec>
+    <sec id="SEC3-6">
+     <title>
+      <italic>
+       exlBA
+      </italic>
+      promoter shows a wide diversity of regulatory sequences across
+      <italic>
+       Pseudomonas
+      </italic>
+      species
+     </title>
+     <p>
+      Interrogation of public databases showed that the
+      <italic>
+       exlBA
+      </italic>
+      operon is present in nearly 10% of all sequenced
+      <italic>
+       Pseudomonas
+      </italic>
+      genomes (
+      ). In light of the differences observed in
+      <italic>
+       exlBA
+      </italic>
+      regulation between the experimentally tested species (
+      <italic>
+       P. aeruginosa
+      </italic>
+      versus
+      <italic>
+       P. chlororaphis
+      </italic>
+      ,
+      <italic>
+       P. putida
+      </italic>
+      and
+      <italic>
+       P. protegens
+      </italic>
+      ), we performed a phylogenetic analysis and compared
+      <italic>
+       exlBA
+      </italic>
+      promoter sequences (P
+      <italic>
+       exlBA)
+      </italic>
+      in all 446
+      <italic>
+       exlBA
+      </italic>
+      strains (Figure
+      ). First, the analysis of their genomes revealed a strong co-occurrence of the three genes
+      <italic>
+       erfA
+      </italic>
+      ,
+      <italic>
+       ergA
+      </italic>
+      and
+      <italic>
+       ergB
+      </italic>
+      , corroborating the functional relationship between them. In addition, all
+      <italic>
+       erfA
+      </italic>
+      bacteria carry a conserved EBS at the
+      <italic>
+       ergAB
+      </italic>
+      promoter. On the contrary, EBS on
+      <italic>
+       exlBA
+      </italic>
+      promoter was found in only 6.9% of the scanned genomes, all corresponding to
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains. Consequently,
+      <italic>
+       ergAB
+      </italic>
+      is the unique member of ErfA ‘core’ regulon, and
+      <italic>
+       exlBA
+      </italic>
+      is part of its ‘accessory’ regulon that would be
+      <italic>
+       P. aeruginosa
+      </italic>
+      specific. A similar imbalance was found with Vfr that is conserved in nearly all strains, as only
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains, with a few exceptions, harbor a conserved VBS in the P
+      <italic>
+       exlBA
+      </italic>
+      region, further supporting the idea of an evolutionary acquired adapted regulatory network. Indeed, the Vfr protein is conserved in different lineages of
+      <italic>
+       P. aeruginosa
+      </italic>
+      ; it was shown to be important in an acute murine lung infection model (
+      ) and regulates a number of virulence-related factors including the T3SS (
+      ,
+      ), elastase, and exotoxin A (
+      ). Additionally, ErfA might respond to other signals through its C-terminal cupin domain, probably linked to ErgA and ErgB functions, which are beneficial to
+      <italic>
+       exlBA
+      </italic>
+      expression specifically in
+      <italic>
+       P. aeruginosa
+      </italic>
+      . It is likely that environmental species respond to signals that are different from those encountered by a human pathogen such as
+      <italic>
+       P. aeruginosa
+      </italic>
+      , and that they control
+      <italic>
+       exlBA
+      </italic>
+      expression using unique and specific molecular mechanisms that are best suited for their particular niches. Also, the synteny of the
+      <italic>
+       exlBA
+      </italic>
+      locus is not conserved in different species, indicating that the genetic environment is variable and might influence the operon expression (Figure
+      ). For instance, in
+      <italic>
+       P. chlororaphis
+      </italic>
+      , a plant-dwelling bacterium proposed as biocontrol agent,
+      <italic>
+       exlBA
+      </italic>
+      is found between genes encoding a two-component regulatory system and an operon involved in secondary messenger regulation. In
+      <italic>
+       P. aeruginosa
+      </italic>
+      , these two operons (
+      <italic>
+       PA3040
+      </italic>
+      to
+      <italic>
+       PA3045
+      </italic>
+      ) are contiguous (Figure
+      ) while
+      <italic>
+       exlBA
+      </italic>
+      is found in another unrelated location, along with a
+      <italic>
+       P. aeruginosa
+      </italic>
+      -specific sequence upstream of
+      <italic>
+       exlBA
+      </italic>
+      containing the promoter encompassing both ErfA- and Vfr-binding sites (Figure
+      ). Furthermore, we found that P
+      <italic>
+       exlBA
+      </italic>
+      is much less conserved than
+      <italic>
+       exlB
+      </italic>
+      and
+      <italic>
+       exlA
+      </italic>
+      coding sequences, demonstrating the strain-specific evolution of promoter sequence after acquisition of
+      <italic>
+       exlBA
+      </italic>
+      (Figure
+      ). It is established that DNA-binding regulatory proteins can readily acquire new targets, and we propose that the emergence of binding sites for Vfr and ErfA in the
+      <italic>
+       exlBA
+      </italic>
+      promoter region of
+      <italic>
+       P. aeruginosa
+      </italic>
+      wired the operon to the activator and the repressor regulons, balancing the operon transcription in response to signals specific to
+      <italic>
+       P. aeruginosa
+      </italic>
+      lifestyle.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="SEC4" sec-type="discussion">
+    <title>
+     DISCUSSION
+    </title>
+    <p>
+     We described a novel twist to HGT, where the expression of newly acquired genes is re-programed by adapting to the control of existing signaling pathways and TFs through concomitant evolution or capture of the appropriate regulatory sequences. This phenomenon arises from the fact that different organisms might need to acquire the same function, but do not need it in the same conditions. This is well exemplified by the difference in conservation rates between
+     <italic>
+      exlBA
+     </italic>
+     coding sequence and
+     <italic>
+      exlBA
+     </italic>
+     promoter. Indeed, while ExlBA proteins are well conserved, suggesting no major change in function between the different species, a much wider diversity of promoter sequences is found, including completely unrelated ones. In that regard, once a new trait is acquired, the evolutionary pressure might become stronger on its regulatory sequences so that it quickly falls under adequate expression control. The regulatory sequences found immediately upstream of the newly acquired structural genes may be modified by a series of mutations, leading to appearance of new binding sites for the corresponding TFs present in the recipient organism. This hypothesis is supported by the observed vast heterogeneity of
+     <italic>
+      exlBA
+     </italic>
+     promoter sequences suggesting a diversity of molecular mechanisms exerting the regulation of similar operons across
+     <italic>
+      Pseudomonas
+     </italic>
+     found in different environments. A broader examination of the conservation, or lack thereof, in regulatory sequences linked to genes acquired by HGT could reveal how common this adaptive mechanism shapes the outcome of molecular evolution giving an organism the ability to survive and thrive in a particular environment.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="SEC5" sec-type="data-availability">
+    <title>
+     DATA AVAILABILITY
+    </title>
+    <p>
+     The genome of IHMA879472 is available at NCBI under the accession numbers CP041354 and CP041355 for the chromosome and plasmid sequences, respectively. The RNA-seq, ChIP-seq and DAP-seq data are available under the GEO accession numbers GSE137485, GSE137484 and GSE137648, respectively.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="supplementary-material">
+    <title>
+     Supplementary Material
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  The type 3 secretion system requires actin polymerization to open translocon pores
+ </title>
+ <abstract>
+  <p>
+   Many bacterial pathogens require a type 3 secretion system (T3SS) to establish a niche. Host contact activates bacterial T3SS assembly of a translocon pore in the host plasma membrane. Following pore formation, the T3SS docks onto the translocon pore. Docking establishes a continuous passage that enables the translocation of virulence proteins, effectors, into the host cytosol. Here we investigate the contribution of actin polymerization to T3SS-mediated translocation. Using the T3SS model organism
+   <italic toggle="yes">
+    Shigella flexneri
+   </italic>
+   , we show that actin polymerization is required for assembling the translocon pore in an open conformation, thereby enabling effector translocation. Opening of the pore channel is associated with a conformational change to the pore, which is dependent upon actin polymerization and a coiled-coil domain in the pore protein IpaC. Analysis of an IpaC mutant that is defective in ruffle formation shows that actin polymerization-dependent pore opening is distinct from the previously described actin polymerization-dependent ruffles that are required for bacterial internalization. Moreover, actin polymerization is not required for other pore functions, including docking or pore protein insertion into the plasma membrane. Thus, activation of the T3SS is a multilayered process in which host signals are sensed by the translocon pore leading to the activation of effector translocation.
+  </p>
+  <p>
+   The type 3 secretion system (T3SS) is required for the virulence of a variety of bacteria that infect humans. The T3SS forms a pore in the host cell membrane that is a conduit for delivering virulence proteins into the cell. Here, we demonstrate that actin polymerization is necessary to convert T3SS pores into an open conformation that is competent for virulence protein delivery. We find that activation of type 3 secretion proceeds in a multistep process whereby bacteria dock onto the translocon pore and then activate secretion and delivery of virulence proteins.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="sec001" sec-type="intro">
+    <title>
+     Introduction
+    </title>
+    <p>
+     Type 3 secretion systems (T3SSs) are essential virulence factors of more than 30 gram-negative bacterial pathogens [
+     ,
+     ]. T3SS deliver bacterial virulence proteins—effectors—into the cytosol of a eukaryotic target cells [
+     –
+     ]. The delivered effectors coopt cellular signaling pathways, which enables the pathogen to establish a replicative niche [
+     –
+     ].
+    </p>
+    <p>
+     T3SSs are molecular syringes with a base that spans both membranes of the gram-negative bacterial envelope [
+     ], a needle that is anchored in the base and extends away from the bacterial surface [
+     ,
+     ], and a tip complex that prevents non-specific activation of the system [
+     ,
+     –
+     ]. Contact of the tip complex with the eukaryotic membrane induces the delivery and insertion of two bacterial proteins into the plasma membrane [
+     ,
+     ] that assemble into a heterooligomeric pore known as the translocon pore [
+     –
+     ]. The T3SS needle and tip complex stably associate with the translocon pore in a process known as docking [
+     –
+     ]. Docking establishes a continuous channel from the bacterial cytoplasm to the eukaryotic cytosol and enables the direct delivery of bacterial effectors into the host cytosol. For
+     <italic toggle="yes">
+      S
+     </italic>
+     .
+     <italic toggle="yes">
+      flexneri
+     </italic>
+     ,
+     <italic toggle="yes">
+      Salmonella enterica
+     </italic>
+     serovar Typhimurium, and
+     <italic toggle="yes">
+      Yersinia pseudotuberculosis
+     </italic>
+     , docking depends on the interaction of a cytosolic domain of the translocon pore with host intermediate filaments [
+     ,
+     ] and, at least in
+     <italic toggle="yes">
+      S
+     </italic>
+     .
+     <italic toggle="yes">
+      flexneri
+     </italic>
+     , a conformational change in the translocon pore induced by the interaction of the pore with intermediate filaments [
+     ] (
+     ). In addition, for several pathogens, including
+     <italic toggle="yes">
+      S
+     </italic>
+     .
+     <italic toggle="yes">
+      flexneri
+     </italic>
+     ,
+     <italic toggle="yes">
+      Y
+     </italic>
+     .
+     <italic toggle="yes">
+      pseudotuberculosis
+     </italic>
+     , and enterohemorrhagic
+     <italic toggle="yes">
+      E
+     </italic>
+     .
+     <italic toggle="yes">
+      coli
+     </italic>
+     , efficient T3SS effector translocation depends on host actin polymerization [
+     –
+     ]. Whereas the bacterial proteins that induce actin polymerization are known [
+     –
+     ], how actin polymerization contributes to effector protein translocation is unclear.
+    </p>
+    <p>
+     Here, we define the role of actin polymerization in type 3-mediated protein secretion by
+     <italic toggle="yes">
+      S
+     </italic>
+     .
+     <italic toggle="yes">
+      flexneri
+     </italic>
+     . We find that actin polymerization is required to convert the docking-competent pore to an open and translocation-competent pore. Only in the presence of actin polymerization are bacterial effectors translocated through the pore and delivered into the host cytosol. This conversion to an open pore is associated with actin polymerization-dependent conformational changes in the membrane-embedded pore protein IpaC. The actin polymerization process required for translocon pore opening is distinct from both actin polymerization-dependent membrane ruffling involved in bacterial uptake into cells and the interactions of the translocon pore with intermediate filaments. Together, these data provide mechanistic insight into the role of actin polymerization in the activation of translocon pore function and effector translocation.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec002" sec-type="results">
+    <title>
+     Results
+    </title>
+    <sec id="sec003">
+     <title>
+      Actin polymerization is required for type 3 effector protein translocation but not for bacterial docking
+     </title>
+     <p>
+      To test whether actin polymerization is required for type 3 effector protein translocation, we quantified the delivery of
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      effectors into the cytosol of HeLa cells in the presence of the actin polymerization inhibitor cytochalasin D (cytoD) [
+      ]. CytoD treatment significantly reduced the abundance of the effector OspB (detected via a C-terminal FLAG tag,
+      , p&lt;0.05) in the cytosol of HeLa cells. Similarly, the delivery of the effector IpaA (as IpaA-FLAG) was markedly reduced in the presence of cytoD (
+      , p&lt;0.05). The reduced abundance of effector proteins was not attributable to the FLAG tag
+      <italic toggle="yes">
+       per se
+      </italic>
+      , as similar results were obtained with OspB fused to TEM β-lactamase (
+      , p&lt;0.001). These results indicate that inhibition of actin polymerization with cytoD inhibits the delivery of effector proteins into cells.
+     </p>
+     <p>
+      When in contact with host cell membranes, the T3SS translocates effectors from the bacterial cytoplasm directly across the eukaryotic plasma membrane into the mammalian cell; effector secretion through the T3SS can be artificially induced from bacteria growing in liquid media in the absence of host cells by the dye Congo red (
+      and [
+      ]). To discriminate whether the effects of cytoD resulted specifically from inhibition of host actin polymerization or from nonspecific effects on T3SS
+      <italic toggle="yes">
+       per se
+      </italic>
+      , we tested the impact of cytoD on Congo red-induced secretion of
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      effectors into the extracellular space. Under these conditions, cytoD had no effect on type 3 secretion of effectors (
+      ), demonstrating the effect of cytoD was specific to translocation. Together, these data show that type 3 mediated effector protein translocation requires actin polymerization.
+     </p>
+     <p>
+      The interaction of intermediate filaments with IpaC induces a conformational change in the pore that is required for efficient docking (
+      , and [
+      ,
+      ]). We therefore investigated whether actin polymerization-induced effector translocation depended on this interaction. Using mouse embryonic fibroblasts (MEF) that encode or do not encode the intermediate filament vimentin (Vim
+      and Vim
+      ), we compared the number of
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      that docked in the presence and absence of cytoD; in these cells, vimentin is the only intermediate filament expressed [
+      ]. Since the number of bacteria that dock to cells will affect the amount of translocated protein, here we assessed translocation efficiency as the percentage of docked bacteria actively translocating effectors by using the fluorescent reporter TSAR (
+      <underline>
+       t
+      </underline>
+      ranscription-based
+      <underline>
+       s
+      </underline>
+      ecretion
+      <underline>
+       a
+      </underline>
+      ctivity
+      <underline>
+       r
+      </underline>
+      eporter,
+      and [
+      ]), which reports on T3SS effector secretion in individual bacteria. TSAR is activated when the effector protein OspD is secreted, which liberates the transcription factor MxiE and enables production of GFP from a MxiE-dependent promoter [
+      ]. Consistent with our prior findings [
+      ],
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      docked five-fold more efficiently to Vim
+      cells than to Vim
+      cells (
+      ). CytoD reduced bacterial docking to Vim
+      cells two-fold, but had no impact on bacterial docking to Vim
+      cells (
+      ). Among docked bacteria, actin polymerization was significantly required for T3SS effector translocation irrespective of the presence or absence intermediate filaments (
+      , p&lt;0.001 and p&lt;0.01, respectively). These results indicate that actin-polymerization is required for type 3 effector translocation independently of intermediate filament-induced stabilization of docking and intermediate filament-induced conformational changes in the pore. Moreover, these data show that docking and effector translocation are functionally separable processes.
+     </p>
+     <p>
+      To test whether the dependence on actin polymerization is generalizable to other cell types, we tested the effect of cytoD on TSAR activation during
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      infection of HeLa cells. Consistent with our findings in MEFs, T3SS effector translocation was markedly diminished when actin polymerization was inhibited in HeLa cells (
+      , p&lt;0.05). To test whether the effect of cytoD is generalizable to other chemicals that inhibit actin polymerization, we tested for an effect of latrunculin B on TSAR activation during
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      infection of HeLa cells. Latrunculin B binds to actin monomers and prevents their incorporation into actin filaments. Similar to cytoD, latrunculin B inhibited activation of TSAR (
+      ), which is consistent with previous reports showing latrunculin B blocks effector translocation by
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      [
+      ]. The concentrations of cytoD and latrunculin B used in our assays are sufficient to inhibit actin polymerization, as demonstrated by their ability to prevent
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      from forming the actin tails used for bacterial motility within the cell cytosol (
+      ). Altogether, these data show that type 3 effector translocation is disrupted when actin polymerization is inhibited.
+     </p>
+    </sec>
+    <sec id="sec004">
+     <title>
+      Actin polymerization is required to form open translocon pore complexes
+     </title>
+     <p>
+      Since actin polymerization was required for translocation but not docking, we investigated how actin polymerization alters the translocon pore. We employed an assay in which the formation of translocon pores in the plasma membrane causes release of the fluorescent dye BCECF from BCECF-loaded mammalian cells (
+      ). Because dye release is prevented by the presence of the &gt;30 effectors in
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      [
+      ,
+      ,
+      ], we used
+      <italic toggle="yes">
+       E
+      </italic>
+      .
+      <italic toggle="yes">
+       coli
+      </italic>
+      expressing the
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      T3SS (
+      <italic toggle="yes">
+       E
+      </italic>
+      .
+      <italic toggle="yes">
+       coli
+      </italic>
+      pSfT3SS) in the absence of all but four type 3 effectors, as previously described [
+      ,
+      ]. Upon addition of cytoD, the release of dye from cells was reduced from 75% of cells to fewer than 5% of cells (
+      , p&lt;0.001). Dye release depended on expression of the T3SS, induced in these experiments by IPTG (
+      ), and on bacterial infection, with the amount of release correlated with the MOI used for the infection (
+      and (21)). These results indicate that actin polymerization is required for the formation of an open translocon pore channel.
+     </p>
+    </sec>
+    <sec id="sec005">
+     <title>
+      Plasma membrane insertion of translocon pore proteins is independent of actin polymerization
+     </title>
+     <p>
+      We examined the possibility that actin polymerization was required to deliver sufficient pore protein into the plasma membrane by isolating plasma membranes from
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      or
+      <italic toggle="yes">
+       E
+      </italic>
+      .
+      <italic toggle="yes">
+       coli
+      </italic>
+      pSfT3SS infection of cells performed in the presence or absence of cytoD. Actin polymerization had no impact on the efficiency of insertion of translocon pore proteins into membranes by either
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      or
+      <italic toggle="yes">
+       E
+      </italic>
+      .
+      <italic toggle="yes">
+       coli
+      </italic>
+      pSfT3SS (
+      ). These results demonstrate that actin polymerization is required for open pore complex formation but does not impact pore protein insertion into the plasma membrane.
+     </p>
+    </sec>
+    <sec id="sec006">
+     <title>
+      Actin polymerization alters the conformation of the translocon pore
+     </title>
+     <p>
+      The conformational change induced by the interaction of intermediate filaments with IpaC is associated with altered accessibility of IpaC residues to the extracellular surface [
+      ,
+      ]. To test whether the conformation of the translocon pore is also altered by actin polymerization, we assessed the impact of actin polymerization on the extracellular accessibility of IpaC residues by monitoring the reactivity of single cysteine substitutions in IpaC with the sulfhydryl reactive probe methoxypolyethylene glycol maleimide (PEG5000-maleimide) [
+      ,
+      ], which does not cross the plasma membrane [
+      ] and is too large to pass through the translocon pore [
+      ,
+      ,
+      ,
+      ]. This approach specifically labels cysteine residues in IpaC accessible from the extracellular surface of the eukaryotic cell (
+      ). Since native IpaC lacks cysteine residues, it does not react with PEG5000-maleimide [
+      ,
+      ].
+     </p>
+     <p>
+      Extracellular accessibility of IpaC residues was determined in plasma membranes isolated from
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      -infected cells [
+      ,
+      ,
+      ,
+      ]. By testing in parallel the impact of actin polymerization and the impact of IpaC interaction with intermediate filaments on protein conformation, we assessed the relative contribution of each to the extracellular accessibility of specific IpaC residues. The experimental set-up included strains producing single cysteine substitutions in a wild-type (WT) IpaC backbone and strains producing the same single cysteine substitutions in an IpaC backbone that does not interact with intermediate filaments (IpaC R362W, [
+      ,
+      ]). We compared the extracellular accessibility of four IpaC single cysteine substitutions: S17C, which lies in the extracellular domain; A106C, which lies in the transmembrane span; and S349C and A358C, which are located on the cytosolic side of the plasma membrane in a region of IpaC thought to loop into the pore lumen (
+      and [
+      ]).
+     </p>
+     <p>
+      Actin polymerization and the interaction of IpaC with intermediate filaments had distinct effects on the accessibility of IpaC residues (
+      ). Consistent with our previous findings [
+      ], accessibility of IpaC A106C and IpaC S349C to PEG5000-maleimide was significantly greater in the presence than in the absence of IpaC interaction with intermediate filaments. Of note, in the presence of actin polymerization, IpaC R362W supports the formation of open pores [
+      ]. Accessibility of IpaC A106C to PEG5000-maleimide was only slightly impacted by actin polymerization, whereas in addition to depending on the interaction with intermediate filaments, the accessibility of IpaC S349C to PEG5000-maleimide significantly depended on actin polymerization. In contrast, accessibility of IpaC S17C to PEG5000-maleimide was significantly dependent on actin polymerization, but was independent of the interaction of IpaC with intermediate filaments (
+      ). The impact of actin polymerization on positioning of A106C in the IpaC R362W backbone could not be assessed, as it was inaccessible to PEG5000 labeling both in the presence and absence of cytoD. Thus, the topological positioning of the domains of IpaC evaluated here fall into three categories: IpaC A106, situated in the IpaC transmembrane domain, is shifted markedly by the interaction of IpaC with intermediate filaments. IpaC S17, situated in the extracellular domain, is shifted only by actin polymerization. IpaC S349, situated in a more proximal portion of the cytosolic domain, is shifted by both intermediate filaments and actin polymerization. Together, these data indicate that intermediate filaments and actin polymerization induce distinct conformational (or organizational) states in the translocon pore. Moreover, they show both are required for the generation of a translocation competent pore and for efficient effector protein translocation (
+      ).
+     </p>
+     <p>
+      In parallel, we assessed the role of actin polymerization on the proximity of adjacent IpaC molecules in plasma membrane-embedded pores, by examining the ability of cysteine substitution derivatives of IpaC to crosslink in the presence of the oxidant copper phenanthroline and focusing on derivatives we previously showed are amenable to crosslinking when the pore complex is in a conformation with an open pore channel (24). We tested a cysteine substitution of IpaC at residue A353 (A353C) because this residue is located on the cytosolic side of membrane-embedded IpaC and within the interior of the pore channel (
+      ), such that it might provide direct insight into the extent to which the pore channel is open. Since disulfide bonds cannot form in the cytosol, copper-mediated crosslinking at this site should only occur between IpaC monomers present in an open pore complex (
+      ). Whereas both IpaC A353C and the extracellular IpaC substitution S17C displayed copper mediated crosslinking in the absence of cytoD, neither showed efficient crosslinking in the presence of cytoD (
+      , p&lt;0.001 for each). As for cysteine accessibility analyses (above), these oxidative crosslinking data show that actin polymerization induces a distinct conformational (or organizational) state of IpaC that is required to form translocon pores with open pore channels that enable translocation.
+     </p>
+    </sec>
+    <sec id="sec007">
+     <title>
+      Formation of translocation-competent pores requires the IpaC coiled-coil domain
+     </title>
+     <p>
+      Within membrane-embedded translocon pores, the coiled-coil domain of IpaC lies on the cytosolic side of the plasma membrane [
+      ]. Because linker scanning mutagenesis of IpaC sequences adjacent to the coiled-coil domain identified residues necessary for
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      invasion of cells [
+      ], a process that depends upon T3SS translocation, we tested whether the coiled-coil domain is required for formation of translocation-competent pores. We compared translocation, docking, and the ability to form open pore complexes by
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      producing IpaC that lack the coiled-coil domain (IpaC Δcoiled-coil, residues 308–344,
+      ) or producing IpaC containing proline substitutions that disrupt the coiled-coil domain (IpaC I336P and IpaC L340P); prolines prevent oligomerization of coiled-coil domains by inducing a kink in one of the helices [
+      ]. Whereas
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      producing IpaC Δcoiled-coil, I336P, or L340P docked to MEFs efficiently, demonstrating that the coiled-coil domain is not required for docking (
+      ), they failed to activate the TSAR reporter (
+      , p&lt;0.001 for each), indicating that the coiled-coil domain is required for effector translocation. Consistent with our previous findings [
+      ,
+      ],
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      docking was dependent upon IpaC (
+      , p&lt;0.05).
+     </p>
+     <p>
+      To test whether the defect in translocation was attributable to differences in the ability of these strains to produce open translocon pores, we measured the ability of
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      producing IpaC coiled-coil domain mutants to lyse erythrocytes; the formation of open translocon pores in the erythrocyte membrane causes erythrocyte lysis and release of hemoglobin [
+      ,
+      ,
+      ,
+      ].
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      producing IpaC coiled-coil mutants released significantly less hemoglobin than
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      producing WT IpaC or an IpaC mutant that is unable to interact with intermediate filaments yet forms pores (IpaC R362W) (
+      ). The inability to form pores is not due to decreased production of these IpaC mutants, as
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      strains produce these IpaC alleles at similar levels (
+      ). These results indicate that the IpaC coiled-coil domain is dispensable for docking yet is required for the formation of translocon pores with an open channel.
+     </p>
+    </sec>
+    <sec id="sec008">
+     <title>
+      Actin polymerization-dependent pore opening is distinct from the actin ruffling required for bacterial uptake
+     </title>
+     <p>
+      Since the coiled-coil domain is required for the formation of an open pore, we sought to identify IpaC residues in the coiled-coil domain required for actin polymerization-dependent pore opening. To identify such residues, we generated libraries of
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      IpaC mutants. The first library was generated by replacing charged residues with alanine and expressing them in
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      Δ
+      <italic toggle="yes">
+       ipaC
+      </italic>
+      harboring the TSAR reporter, which enabled screening for the impact of the alanine mutation on effector translocation. From this library, we did not identify individual residues required for docking or translocation (
+      ).
+     </p>
+     <p>
+      As an alternative approach, we generated a library of IpaC mutants of the coiled-coil domain and flanking region using error prone PCR, which does not restrict residue substitutions to alanines. Among 600
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      isolates producing mutants of IpaC, we identified 137 that were significantly impaired compared to bacteria producing WT IpaC in their ability to activate translocation, as determined by the TSAR reporter. Sequencing of
+      <italic toggle="yes">
+       ipaC
+      </italic>
+      alleles from these strains identified 131 mutants with non-sense or frameshift mutations and six mutants with coding substitutions (G296V and S311R, G297V, G297V and S345N, G308P and L309I, A354P, and A354T). We tested strains of
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      that express
+      <italic toggle="yes">
+       ipaC
+      </italic>
+      alleles carrying no more than one missense mutation. Whereas TSAR was activated by greater than 80% of bacteria producing WT IpaC, it was activated by only approximately 50% of bacteria producing A354P and approximately 10% of bacteria producing Q308P (
+      , p&lt;0.01 and p&lt;0.001, respectively), indicating that these mutations significantly reduced the efficiency of
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      translocation.
+     </p>
+     <p>
+      We tested whether the failure of these mutants to efficiently translocate was associated with an inability to activate actin polymerization and/or form open translocon pore complexes. As IpaC is required for the actin polymerization-dependent formation of plasma membrane ruffles during bacterial invasion [
+      ], we visualized IpaC nucleation of actin-rich membrane ruffles at sites of bacterial contact with cells.
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      producing IpaC A354P or IpaC Q308P were significantly less efficient at inducing the formation of membrane ruffles associated with
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      invasion (
+      ). Since translocated effectors contribute to actin polymerization during bacterial invasion, it is possible that the reduced level of translocation observed for bacteria that produce IpaC A354P or IpaC Q308P contributes to the defect in actin ruffle formation, particularly for bacteria producing IpaC Q308P. In contrast, for bacteria producing IpaC A345P, compared to the observed 2-fold reduction in translocation, there is a 4-fold reduction in ruffle formation; this difference suggests that for bacteria producing IpaC A354P, the direct contribution of IpaC to ruffle formation is likely defective.
+     </p>
+     <p>
+      As actin polymerization is required for the formation of translocon pores with open channels (
+      ), we used the erythrocyte lysis assay to test whether IpaC mutants Q308P and A354P support the formation of pores in erythrocytes. Since these mutants failed to induce actin polymerization-dependent membrane ruffling (
+      ) and supported effector translocation with significantly diminished efficiency compared to WT IpaC (
+      ), we anticipated that their ability to support the formation of translocon pores would be defective. Consistent with this hypothesis, pores formed by IpaC Q308P released approximately 50% less hemoglobin than those formed by WT IpaC (
+      , p&lt;0.001). This mutant supported efficient insertion of the translocon pore proteins into the plasma membrane (Figs
+      and
+      ), indicating that the defect in hemoglobin release was not due to defects in membrane insertion of translocon proteins and that the pore formed by IpaC Q308P is partially closed. In contrast to our hypothesis, pores formed by IpaC A354P efficiently released hemoglobin from erythrocytes, indicating that this mutant supports formation of a fully open pore channel (
+      ). Interestingly, despite not inducing actin ruffles, bacteria producing IpaC A354P remained sensitive to cytoD treatment, as cytoD inhibited TSAR activation for bacteria producing IpaC A354P, as for bacteria producing WT IpaC (
+      , p&lt;0.001 for each). These data indicate that the actin dependent process required to form open translocon pores is distinct from actin-dependent ruffle formation.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec009" sec-type="conclusions">
+    <title>
+     Discussion
+    </title>
+    <p>
+     Here we show that actin polymerization induces conformational changes to the T3SS translocon pore complex that open the channel of the pore and activate effector protein translocation. Our data herein demonstrate that although docking is necessary for effector translocation [
+     ], it is not sufficient. Our findings herein and our previous work together demonstrate that effector translocation depends on two distinct cellular processes: actin polymerization-induced conformational changes in the pore protein complex induces formation of translocon pores with open channels that enable activation of effector translocation (
+     ), and intermediate filament binding to IpaC induces conformational changes in the pore protein complex that enable stable docking of bacteria onto the pore protein complex [
+     ]. Because we found that in the absence of docking, pore opening occurs at wild-type levels (
+     ), yet in the absence of actin polymerization, docking occurs at reduced levels (
+     ), we favor a model in which actin polymerization induced conformational changes occur either prior to or simultaneously with intermediate filament interactions with IpaC (
+     ).
+    </p>
+    <p>
+     Our data demonstrate that bacterial docking is functionally separable from actin polymerization-dependent opening of the pore. In the absence of actin polymerization, the translocon pore proteins are sufficiently assembled to promote bacterial docking (
+     ), a process that is known to depend on the T3SS translocon pore proteins [
+     ,
+     ]. Thus, whereas both actin polymerization and docking are necessary to trigger effector delivery, they are separable biological processes. These results indicate that the translocon pore proteins form a complex even in the absence of actin polymerization; as this complex does not have an open pore (
+     ), it might appropriately be considered a closed intermediate pore complex.
+    </p>
+    <p>
+     Our isolation of an IpaC point mutant (A354P) that supports actin polymerization dependent pore opening but not membrane ruffle formation (
+     ) demonstrates that these two actin dependent processes are independent. The observation that bacteria producing IpaC A354P translocate effectors but do not induce membrane ruffles is in line with the phenotypes of EHEC and EPEC, which require actin polymerization for translocation [
+     ,
+     ] but do not invade. Moreover, the
+     <italic toggle="yes">
+      Yersinia
+     </italic>
+     effector YopE represses pore formation by limiting actin polymerization [
+     ]. These data suggest that the actin dependent opening of the pore channel is likely conserved among pathogens requiring T3SS activity whether or not they invade mammalian cells.
+    </p>
+    <p>
+     The observation that BCECF release is inhibited by cytoD, which blocks actin polymerization (
+     ) demonstrates that actin polymerization promotes opening of the pore. Interestingly, bacteria producing IpaC A354P form pores in erythrocytes similarly to bacteria producing WT IpaC but, as measured by TSAR activation, are less efficient at effector translocation (
+     ). Why translocation occurs at lower levels is unclear. It is possible that the typical actin ruffles that occur with strains producing WT IpaC create membrane contact sites with the bacteria that promote effector translocation and that for strains producing IpaC A354P, because actin ruffles are diminished, fewer contact sites are formed. These additional membrane contacts may also enhance docking, as we observe a 2-fold reduction of docking in the presence of cytoD (
+     ) and cytoD inhibits both actin-dependent pore opening and actin-dependent ruffles. In
+     <italic toggle="yes">
+      Yersinia
+     </italic>
+     , T3SS apparati are upregulated at sites of active secretion [
+     ]; whether this also occurs for
+     <italic toggle="yes">
+      S
+     </italic>
+     .
+     <italic toggle="yes">
+      flexneri
+     </italic>
+     is not clear. An alternative explanation for the observed lower levels of translocation supported by IpaC A354P is that the character of the open pore is different; the presence of a proline in this position might lead to a steric effect that limits the efficiency of translocation. It is also possible that the proline mutation allows the opening of the translocon pore but limits the generation of a signal that is required to activate and/or regulate the magnitude of translocation. If a signal is required for translocation to occur, our investigation into the accessibility of the IpaC cysteine substitutions may provide relevant insights. We would anticipate that residues at the N-terminus, such as S17C, would label efficiently in the presence or absence of CytoD, as we predict they are located on the surface of the cell. Yet, we observed reduced labeling for S17C in the presence of cytoD (
+     ), indicating that actin polymerization is necessary for this residue to be more accessible at the cell surface. We speculate that prior to opening of the pore, the N-terminal region of IpaC interacts more tightly with the T3SS needle. Such a stabilizing interaction could be beneficial to the pathogen: while the pore is assembling in the plasma membrane, this interaction could enable the delivery of additional pore proteins in the proximity of pore proteins that have already been delivered, and the release of the N-terminus from the needle could contribute to the generation of a signal to activate secretion. It is also possible that rather than actin polymerization
+     <italic toggle="yes">
+      per se
+     </italic>
+     , the presence of an intact actin cytoskeleton is necessary to promote pore opening and translocation. Further investigation into the nature of the interaction of the pore proteins with the T3SS needle will likely provide additional insights into the processes that promote translocation.
+    </p>
+    <p>
+     A major outstanding question in the field of type 3 secretion is how host cell contact is sensed and translated to activate effector secretion. Our data indicate that conformational or organizational changes to the translocon pore that arise from actin polymerization (this report) and interaction of the pore with intermediate filaments [
+     ] are both required to activate secretion. Therefore, interaction of IpaC with intermediate filaments and/or actin polymerization trigger a signal to the T3SS sorting platform to initiate secretion through the T3SS of effectors. These findings are consistent with previous reports showing conformational changes to the pore were required to activate translocation by
+     <italic toggle="yes">
+      Pseudomonas aeruginosa
+     </italic>
+     [
+     ]. Our documentation that actin polymerization induces conformational changes in the translocon pore provides support to the existing model that these conformational changes are transferred from the translocon pore through the needle [
+     ,
+     ,
+     ,
+     ] to the base of the T3SS [
+     ] and then to the sorting complex, which is in the bacterial cytoplasm and triggers activation of secretion [
+     ,
+     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec010" sec-type="materials|methods">
+    <title>
+     Materials and methods
+    </title>
+    <sec id="sec011">
+     <title>
+      Bacterial strains
+     </title>
+     <p>
+      For all experiments using
+      <italic toggle="yes">
+       Shigella flexneri
+      </italic>
+      , serovar 2a strain 2457T was used, and all strains are isogenic to it.
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      was cultured in trypticase soy broth with appropriate antibiotics. Strains used in this study are listed in
+      . The expression of recombinant IpaC was regulated by the pBAD promoter and induced by the inclusion of 1.2% arabinose in the media.
+      <italic toggle="yes">
+       E
+      </italic>
+      .
+      <italic toggle="yes">
+       coli
+      </italic>
+      pSfT3SS [
+      ] was cultured in lysogeny broth (LB) containing appropriate antibiotics, and the expression of the T3SS in this strain was regulated by IPTG.
+     </p>
+    </sec>
+    <sec id="sec012">
+     <title>
+      Cell culture
+     </title>
+     <p>
+      HeLa cells were acquired from ATCC (CCL2). Vim
+      and Vim
+      MEFs were generously provided by Victor Faundez (Emory University). MEFs and HeLa cells were cultured in DMEM supplemented with 0.45% glucose and 10% FBS. All cells were cultured at 37°C in humidified air containing 5% CO
+      <sub>
+       2
+      </sub>
+      . All cells are periodically tested for mycoplasma.
+     </p>
+    </sec>
+    <sec id="sec013">
+     <title>
+      Bacterial effector translocation
+     </title>
+     <p>
+      For quantification of bacterial effector translocation into the cytosol of mammalian cells by western blot, HeLa cells were seeded at 3 x 10
+      cells per well in a six-well plate the day prior to the experiment.
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      strains were cultured to exponential phase at 37°C, and the expression of effectors was induced with 100 mM IPTG. HeLa cells were pretreated for 30 minutes prior to infection with or without cytochalasin D at 0.5 μg/mL. Bacteria were added to HeLa cells at a multiplicity of infection (MOI) of 200 and were centrifuged onto cells at 800 x
+      <italic toggle="yes">
+       g
+      </italic>
+      for 10 minutes at room temperature. Bacteria and HeLa cells were co-cultured for an additional 50 minutes at 37°C. The cells were washed with HBSS and lysed with RIPA buffer (50 mM Tris, pH 8 containing 150 mM NaCl, 1% Nonidet-P40, 0.1% SDS, 10 mM NaF, and EDTA-free protease inhibitor cocktail, Roche). Cellular debris and bacteria were removed by centrifugation and collected as the bacterial fraction. The abundance of OspB or IpaA delivered to the cytosol was determined by western blot.
+     </p>
+    </sec>
+    <sec id="sec014">
+     <title>
+      Translocation and docking
+     </title>
+     <p>
+      The measurement of docking and effector protein secretion was performed as previously described [
+      ,
+      ,
+      ]. Briefly, HeLa cells or Vim
+      or Vim
+      MEFs were seeded onto a glass coverslip at 3 x 10
+      cells per well of a six-well plate.
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      that constitutively produce mCherry under the rpsM promoter and harbor the TSAR reporter were grown to exponential phase. GFP expression from the TSAR reporter is regulated by an MxiE dependent promoter, and MxiE transcription is induced by the secretion of OspD through the T3SS (
+      ). Cells were pretreated for 30 minutes prior to infection with or without cytochalasin D at 0.5 μg/mL or Latrunculin B (Sigma) at 0.5–10 μM. Bacteria were added to cells at an MOI of 200 and centrifuged onto the cells at 800 x
+      <italic toggle="yes">
+       g
+      </italic>
+      for 10 minutes at room temperature. The co-culture was incubated at 37°C for an additional 50 minutes. The infected cells were washed with HBSS and fixed with 3.7% paraformaldehyde. Coverslips were mounted onto glass slides with ProLong Diamond (Invitrogen). Bacteria were examined by epifluorescence microscopy. Bacterial docking was quantified by determining the number of mCherry-producing bacteria that remained associated with cells. Bacterial effector translocation was determined by counting the number of cell-associated bacteria expressing GFP.
+     </p>
+    </sec>
+    <sec id="sec015">
+     <title>
+      Congo red induced T3SS secretion
+     </title>
+     <p>
+      WT
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      were grown to exponential phase, were recovered by centrifugation, and were resuspended in phosphate-buffered saline (PBS) with or without 10 μM Congo red in the presence or absence of cytoD at 0.5 μg/mL. The mixture was incubated for 60 minutes at 37°C. The bacteria were centrifuged at 15,000 x
+      <italic toggle="yes">
+       g
+      </italic>
+      , and the supernatant and pellet were collected and resuspended in equal volumes. Silver staining of SDS-PAGE gels was performed using Silver Stain Plus Kit (Bio-Rad). Alternatively, western blots were performed to assess the impact of cytoD and Congo red on the secretion of specific proteins.
+     </p>
+    </sec>
+    <sec id="sec016">
+     <title>
+      Measurement of actin tail formation
+     </title>
+     <p>
+      HeLa cells were seeded onto glass coverslips in the well of a six-well plate at 4 x 10
+      cells per well. The following day the cells were infected with
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      at a MOI of 200 in DMEM supplemented with 10% FBS. The bacteria were centrifuged onto the cells at 800 x
+      <italic toggle="yes">
+       g
+      </italic>
+      for 10 minutes at room temperature. The co-culture was allowed to incubate for an additional 40 minutes at 37°C with 5% CO
+      <sub>
+       2
+      </sub>
+      . The cells were washed three times and the media was changed to DMEM supplemented with 10% FBS and either DMSO, 0.5 μg/mL of cytoD, or 5 μM of Latrunculin B. The infection was allowed to incubate for an additional 45 minutes at 37°C with 5% CO
+      <sub>
+       2
+      </sub>
+      . The cells were washed five times with HBSS and fixed with 4% FBS in PBS for 30 minutes. The membranes were permeabilized by 1% Triton X-100 in PBS for 30 minutes at room temperature. The DNA was stained with Hoechst and the actin was stained with Alexa Fluor Plus 750 conjugated to Phalloidin (Invitrogen). Coverslips were mounted onto glass slides with ProLong Diamond (Invitrogen) and images were collected by epifluorescence microscopy. Images displayed are maximum intensity projections of Z-stacks that underwent a Richardson-Lucy deconvolution.
+     </p>
+    </sec>
+    <sec id="sec017">
+     <title>
+      Pore formation by BCECF release
+     </title>
+     <p>
+      For the measurement of pore formation in nucleated cells, a 2’-7’-bis-(2-carboxyethyl)-5-(and-6)-carboxyfluorescein (BCECF) release assay was performed, as described previously [
+      ]. Briefly, 2 x 10
+      HeLa cells were seeded per well in a 96-well plate the day prior to the experiment. On the day of the experiment, the media was removed, replaced with HBSS containing BCECF-AM (BCECF, Invitrogen, B1170) and Hoechst (Invitrogen), and cells were incubated for 30 minutes at 37°C in humidified air containing 5% CO
+      <sub>
+       2
+      </sub>
+      in the presence or absence of cytochalasin D at 0.5 μg/mL. The cells were washed with HBSS and were infected with
+      <italic toggle="yes">
+       E
+      </italic>
+      .
+      <italic toggle="yes">
+       coli
+      </italic>
+      pSfT3SS at an MOI of 100 (or as otherwise indicated), with centrifugation of bacteria onto the cells at 800 x
+      <italic toggle="yes">
+       g
+      </italic>
+      for 10 minutes at room temperature. The co-culture was incubated at 37°C for 1 hour. The co-culture was then centrifuged at 100 x
+      <italic toggle="yes">
+       g
+      </italic>
+      for four minutes, the media replaced, and images of live cells were collected by epifluorescence microscopy.
+     </p>
+    </sec>
+    <sec id="sec018">
+     <title>
+      Pore formation by erythrocyte lysis
+     </title>
+     <p>
+      Defibrinated sheep erythrocytes (HemoStat) were pelleted at 2,000 x
+      <italic toggle="yes">
+       g
+      </italic>
+      and resuspended in 100 μL of PBS. Cells were infected at an MOI of 25 in 100 μl of PBS supplemented as appropriate with 1.2% arabinose to induce expression of bacterial virulence factors. Bacteria were centrifuged onto the erythrocytes at 2,000 x
+      <italic toggle="yes">
+       g
+      </italic>
+      for 10 minutes at 25°C and were co-cultured with the erythrocytes for 50 minutes at 37°C, after which the bacteria and erythrocytes were pelleted at 2,000 x
+      <italic toggle="yes">
+       g
+      </italic>
+      for 10 minutes at 25°C. As a positive control for lysis, a portion of uninfected erythrocytes were treated with 0.02% SDS. The supernatants were collected, and their absorbance at 570 nm was determined using an Epoch II plate reader (BioTech).
+     </p>
+    </sec>
+    <sec id="sec019">
+     <title>
+      Labeling of IpaC cysteine residues by PEG5000-maleimide
+     </title>
+     <p>
+      The labeling of cysteine substitutions in IpaC by PEG5000-maleimide was performed as previously described [
+      ,
+      ]. HeLa cells were seeded at 4 x 10
+      cells per well in a six-well plate. HeLa cells were pretreated for 30 minutes prior to infection with or without cytochalasin D at 0.5 μg/mL.
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      strains harboring the Afa-1 pilus and indicated IpaC mutant were cultured to exponential phase at 37°C, and production of IpaC was induced by addition of 1.2% arabinose for 2 hours. Cells were infected at an MOI of 500 in 50 mM Tris, pH 7.4, supplemented with 150 mM NaCl, 1.2% arabinose, and 2.5 mM PEG5000-maleimide, with or without cytoD at 0.5μg/mL. The bacteria were centrifuged onto the cells at 800 x
+      <italic toggle="yes">
+       g
+      </italic>
+      for 10 minutes at 25°C and were co-cultured with the cells for an additional 20 minutes at 37°C. The cells were washed with ice-cold 50 mM Tris, pH 7.4, supplemented with protease inhibitors, and the cells were scraped from the dishes. The membranes were isolated from the cells by detergent fractionation as previously described [
+      ,
+      ,
+      ]. Cells were centrifuged at 3,000 x
+      <italic toggle="yes">
+       g
+      </italic>
+      for three minutes at 25°C, resuspended in 50 mM Tris, pH 7.4, supplemented with protease inhibitors and 0.2% saponin, and were incubated on ice for 20 minutes. The cells were pelleted at 21,000 x
+      <italic toggle="yes">
+       g
+      </italic>
+      for 30 minutes at 4°C; the resulting supernatant contained the cytosolic fraction. The pellet was resuspended in 50 mM Tris, pH 7.4, supplemented with protease inhibitors and 0.5% Triton X-100, was incubated for 30 minutes on ice, and was centrifuged at 21,000 x
+      <italic toggle="yes">
+       g
+      </italic>
+      for 15 minutes at 4°C. The resulting supernatant contained the solubilized membrane, and the resulting pellet contained bacteria, cellular nuclei, and debris. The efficiency of IpaC labeling by PEG-5000 maleimide was determined by western blot.
+     </p>
+    </sec>
+    <sec id="sec020">
+     <title>
+      Quantification of pore protein insertion into plasma membranes
+     </title>
+     <p>
+      HeLa cells were seeded at 4 x 10
+      cells per well in a six-well plate. HeLa cells were pretreated for 30 minutes prior to infection with or without cytochalasin D at 0.5 μg/mL.
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      strains harboring indicated IpaC mutant were cultured to exponential phase at 37°C and, IpaC production was induced by addition of 1.2% arabinose for 2 hours. Cells were infected at an MOI of 500 in DMEM supplemented with 10% FBS with or without cytoD at 0.5μg/mL. The bacteria were centrifuged onto the cells at 800 x
+      <italic toggle="yes">
+       g
+      </italic>
+      for 10 minutes at 25°C, and were co-cultured with cells for an additional 20 minutes at 37°C. The cells were washed with ice-cold 50 mM Tris, pH 7.4, supplemented with protease inhibitors, and the cells were scraped from the dishes. The membranes were isolated from the cells by detergent fractionation as described above and previously described [
+      ,
+      ,
+      ]. The efficiency of IpaC labeling by PEG-5000 maleimide was determined by western blot.
+     </p>
+    </sec>
+    <sec id="sec021">
+     <title>
+      Quantification of actin-mediated membrane ruffle formation
+     </title>
+     <p>
+      The day prior to infection, HeLa cells were seeded on coverslips at 4 x 10
+      cells per well in a six-well plate. Cells were infected at an MOI of 400 and were centrifuged onto the cells at 800 x
+      <italic toggle="yes">
+       g
+      </italic>
+      for 10 minutes at room temperature. The cells and bacteria were co-cultured for 30 minutes at 37°C. The cells were washed five times with warm HBSS and fixed with 3.7% PFA in F buffer for 20 minutes. The cells were permeabilized for 30 minutes with 1% Triton X-100 at room temperature on a rocker at low speed, were washed with PBS, and were blocked with 10% goat serum in PBS for 30 minutes. The cells were then incubated overnight at 4°C with rabbit anti-
+      <italic toggle="yes">
+       Shigella
+      </italic>
+      conjugated to FITC (ViroStat, catalog no. 0903). The next day, the cells were washed with PBS and were incubated with 1:50 dilution of phalloidin-Alexa Fluor 594 (ThermoFisher, Cat# A12381) for 30 minutes at room temperature. After additional washing, and the coverslips were mounted onto slides with Prolong Diamond (ThermoFisher, cat # P36970). The efficiency of ruffle formation was determined as the percentage of cell-associated bacteria with polymerized actin outlining the bacteria.
+     </p>
+    </sec>
+    <sec id="sec022">
+     <title>
+      Generation of IpaC mutants by splice-overlap-PCR
+     </title>
+     <p>
+      Charged residues within the coiled-coil region were replaced with alanine by splice overlap PCR mutagenesis using Accuprime
+      <italic toggle="yes">
+       pfx
+      </italic>
+      polymerase (Invitrogen). PCR products containing the alanine mutation were cloned under the control of the
+      <italic toggle="yes">
+       ara
+      </italic>
+      promoter by insertion into pBAD33 by digestion with Kpn1 (NEB) and Sph1 (NEB). The plasmids were expressed in
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      2457T Δ
+      <italic toggle="yes">
+       ipaC
+      </italic>
+      pTSAR. The same approach was used to generate IpaC lacking the coiled-coil region, residues 308–344.
+     </p>
+    </sec>
+    <sec id="sec023">
+     <title>
+      Screen to identify IpaC residues required for actin polymerization-dependent translocation
+     </title>
+     <p>
+      A library of IpaC mutants with missense mutations in the coiled-coil domain and flanking regions was generated using error-prone PCR with the GeneMorphII (Agilent) domain mutagenesis kit. The library was cloned under the control of the
+      <italic toggle="yes">
+       ara
+      </italic>
+      promoter and was expressed in
+      <italic toggle="yes">
+       S
+      </italic>
+      .
+      <italic toggle="yes">
+       flexneri
+      </italic>
+      2457T Δ
+      <italic toggle="yes">
+       ipaC
+      </italic>
+      pTSAR. The resulting strains were arrayed and were used to infect MEFs seeded at 2 x 10
+      cells per well in a 96-well plate. The bacteria were pelleted onto the cells at 800 x
+      <italic toggle="yes">
+       g
+      </italic>
+      for 10 minutes at 25°C. Following an additional 50 min incubation at 37°C, the cells were washed and fixed with 3.7% paraformaldehyde. Fixed cells were stained with Hoechst and were imaged using a Cell Discover 7 automated microscope at the Harvard Center for Biological Imaging. Images were manually screened to identify IpaC variants that supported fewer GFP-positive bacteria associating with cells. 137 clones meeting these criteria were identified; for each, the
+      <italic toggle="yes">
+       ipaC
+      </italic>
+      -containing plasmid DNA was isolated, and
+      <italic toggle="yes">
+       ipaC
+      </italic>
+      was sequenced. 131 of the
+      <italic toggle="yes">
+       ipaC
+      </italic>
+      mutants contained non-sense or frameshift mutations. Six contained one or two missense mutations.
+     </p>
+    </sec>
+    <sec id="sec024">
+     <title>
+      Copper mediated crosslinking of IpaC
+     </title>
+     <p>
+      HeLa cells were seeded at 4 x 10
+      cells per well in a 6-well plate. The cells were washed once with Hank’s Balanced Salt Solution (HBSS) containing 4% FBS and 1.2% arabinose. The cells were infected at an MOI of 200 in HBSS containing 4% FBS and 1.2% arabinose, with or without 25 μM copper phenanthroline [
+      ]. The bacteria were centrifuged onto cells at 800
+      <italic toggle="yes">
+       g
+      </italic>
+      for 10 minutes at 25°C and incubated at 37°C in humidified air with 5% CO
+      <sub>
+       2
+      </sub>
+      for 10 min. IpaC delivered to cell membranes was recovered as done previously [
+      ]. Briefly, cells were washed with HBSS and lysed with 0.5% Triton X-100, and bacteria and cellular debris were removed by two successive centrifugations at 21,000
+      <italic toggle="yes">
+       g
+      </italic>
+      for 2 minutes each at 25°C.
+     </p>
+    </sec>
+    <sec id="sec025">
+     <title>
+      Antibodies for western blots
+     </title>
+     <p>
+      The following antibodies were used for western blots: mouse anti-FLAG, (Sigma, catalog no. F1804) (1:10,000), rabbit anti-TEM β-lactamase (5 Prime-3 Prime Inc., catalog no. 7–661211) (1:1,000), rabbit anti-β-actin conjugated with HRP (Sigma, catalog no. A3854) (1:20,000), rabbit anti-IpaC (gift from Wendy Picking; diluted 1:10,000), mouse anti-IpaB clone 1H4 (Gift of Robert Kaminski; diluted 1:10,000); rabbit anti-GroEL (Sigma, catalog no. G6352) (1:1,000,000), rabbit anti-caveolin-1 (Sigma, catalog no. C4490), rabbit anti-SepA [
+      ] (1:1000), mouse anti-IpgD (gift of Armelle Phalipon [
+      ]) (1:3000), goat anti-rabbit conjugated with horseradish peroxidase (HRP) (Jackson ImmunoResearch, catalog no. 115-035-003) (1:5,000), goat anti-mouse conjugated with HRP (Jackson ImmunoResearch, catalog no. 111-035-003) (1:5,000).
+     </p>
+    </sec>
+    <sec id="sec026">
+     <title>
+      Microscopy and image analysis
+     </title>
+     <p>
+      Images were collected using a Nikon TE-300 or Nikon TE-2000S microscope equipped with Q-Imaging Exi Blue Cameras (Q-imaging), Chroma Filters, and IVision Software (BioVision Technologies), or a Nikon Ti-2 microscope equipped with an Iris15 camera (Photometrics) and an Orca Fusion-BT camera (Hamamatsu), Semrock filters, and NIS-Elements software (Nikon). Unless noted otherwise, images were randomly collected across a coverslip. Single channel images were pseudo-colored and assembled in Photoshop (Adobe).
+     </p>
+     <p>
+      Chemiluminescent signals from western blots were captured by film. The developed film was scanned using a Perfection 4990 scanner (Epson), and the density of bands was determined using ImageJ (NIH).
+     </p>
+    </sec>
+    <sec id="sec027">
+     <title>
+      Statistical analysis
+     </title>
+     <p>
+      For the comparison of means, a Student’s t-test was used to compare experiments containing two groups and an ANOVA was used for experiments containing three or more groups using Prism 9 (GraphPad Software). Unless otherwise noted, at least three independent experiments were performed on independent days using independent bacterial cultures. Data points represent independent experiments.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec028" sec-type="supplementary-material">
+    <title>
+     Supporting information
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

@@ -1,0 +1,1456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Genomic and Metabolic Characteristics of the Pathogenicity in
+ </title>
+ <abstract>
+  <p>
+   In recent years, the effectiveness of antimicrobials in the treatment of
+   <italic toggle="yes">
+    Pseudomonas aeruginosa
+   </italic>
+   infections has gradually decreased. This pathogen can be observed in several clinical cases, such as pneumonia, urinary tract infections, sepsis, in immunocompromised hosts, such as neutropenic cancer, burns, and AIDS patients. Furthermore,
+   <italic toggle="yes">
+    Pseudomonas aeruginosa
+   </italic>
+   causes diseases in both livestock and pets. The highly flexible and versatile genome of
+   <italic toggle="yes">
+    P. aeruginosa
+   </italic>
+   allows it to have a high rate of pathogenicity. The numerous secreted virulence factors, resulting from its numerous secretion systems, the multi-resistance to different classes of antibiotics, and the ability to produce biofilms are pathogenicity factors that cause numerous problems in the fight against
+   <italic toggle="yes">
+    P. aeruginosa
+   </italic>
+   infections and that must be better understood for an effective treatment. Infections by
+   <italic toggle="yes">
+    P. aeruginosa
+   </italic>
+   represent, therefore, a major health problem and, as resistance genes can be disseminated between the microbiotas associated with humans, animals, and the environment, this issue needs be addressed on the basis of an One Health approach. This review intends to bring together and describe in detail the molecular and metabolic pathways in
+   <italic toggle="yes">
+    P. aeruginosa
+   </italic>
+   ’s pathogenesis, to contribute for the development of a more targeted therapy against this pathogen.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="sec1-ijms-22-12892" sec-type="intro">
+    <title>
+     1. Introduction
+    </title>
+    <p>
+     One of the current greatest global public health problems is the pathogenesis associated with the emergence of generalized infectious bacteria [
+     ].
+     <italic toggle="yes">
+      Pseudomonas aeruginosa
+     </italic>
+     has the ability to infect not only humans, but also animals and plants. Given its role as an important human pathogen, several virulence factors have been studied, as well as their regulatory systems [
+     ]. This pathogen is armed with a wide set of virulence factors, allowing it to harm host cells and modulate human adaptive immune mechanisms, thus causing the appearance of new infections [
+     ]. The T3SS system is one of its main virulence factors, and a very complex matrix of environmental signals is integrated to tightly control the injection of proteins into host cells, where they are directed to specific compartments and manipulate a number of cell processes [
+     ]. However, the pathogenesis of this bacterium is not exclusively focused on the emergence of new infectious diseases, but also on biofilm formation and on the appearance of new antibiotic-resistant strains, or on the increase in prevalence of already known strains [
+     ]. The acquisition of resistance to two or more classes of antibiotics by pathogenic bacteria is denominated as multidrug-resistance (MDR) [
+     ].
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     is one of the bacterial species that have developed an alarming number of multidrug-resistant strains. These strains are associated with significant morbidity and mortality and they are responsible for 10% of nosocomial infections [
+     ]. This review aims to provide an overview of the metabolic pathways underlying the pathogenicity of
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     and to describe minutely mechanisms such as its different virulence factors and their multiple regulatory systems, as well as the biofilm formation and resistance to different antibiotics. The purpose of this review is also to provide a better understanding of these mechanisms and to support further research into alternatives to combat this pathogen.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec2-ijms-22-12892">
+    <title>
+     2.
+     <italic toggle="yes">
+      Pseudomonas aeruginosa
+     </italic>
+    </title>
+    <p>
+     <italic toggle="yes">
+      Pseudomonas aeruginosa
+     </italic>
+     is a ubiquitous bacterium, present both in terrestrial and aquatic ecosystems. As a result, it can be found in many foodstuffs but also in hospital environments.
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     is considered to be a bacterium of major medical importance due to its great ability to adapt to different environments, but also because of its ability to cause chronic infection in vulnerable people [
+     ]. The first report describing the genus
+     <italic toggle="yes">
+      Pseudomonas
+     </italic>
+     came from the German botanist Walther Migula in the late 19th century. He visualized mobile cells with spores, such as the nanoflagellate
+     <italic toggle="yes">
+      Monas
+     </italic>
+     spp. Thus, the name
+     <italic toggle="yes">
+      Pseudomonas
+     </italic>
+     was generated from the identification of this false or “pseudo”
+     <italic toggle="yes">
+      Monas
+     </italic>
+     spp. nanoflagellate [
+     ]. However, the specific name “
+     <italic toggle="yes">
+      aeruginosa
+     </italic>
+     ” was described earlier in 1872 by Schroeter because of the color of the colonies on certain media, resembling copper rust or verdigris color, hence being green. Schroeter attached the name to the genus
+     <italic toggle="yes">
+      Bacterium
+     </italic>
+     , to give
+     <italic toggle="yes">
+      Bacterium aeruginosum
+     </italic>
+     , and later, Migula transferred the species to the newly described genus
+     <italic toggle="yes">
+      Pseudomonas
+     </italic>
+     [
+     ].
+    </p>
+    <p>
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     is a gram-negative, bacillus-shaped bacterium (size from 0.5 to 3.0 µm), with an aerobic metabolism and a single flagellum that helps in move. It is a non-fermentative bacterium which, in aerobic situations, uses the glycolytic pathway for glucose degradation, with oxygen as its final electron acceptor. However, under anaerobic conditions, nitrogen can be used as an electron acceptor. Furthermore, ATP acquisition is achieved by the action of several membrane ATPases reusing ADP and H
+     from previous reactions. It should be noted that sometimes, aromatic compounds like phenolsulfates and phenylalanine can be considered as putative substrates for this species’ catabolic activity [
+     ]. This species can survive in a wide range of environmental conditions (mostly regarding their chemical composition), it can use a variety of different carbon, nitrogen and energy sources, but it has a rather limited range of growth temperatures [
+     ].
+    </p>
+    <sec id="sec2dot1-ijms-22-12892">
+     <title>
+      2.1. Bacterial Pathogenesis
+     </title>
+     <p>
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      is adaptable to different environments and metabolically versatile, covering a wide variety of habitats, including the human body, soil, water, hospital environment, drains, but also other water-rich locations (swimming pools), as well as non-household environments (such as river water), and can also be isolated from vegetables [
+      ,
+      ,
+      ,
+      ]. This is due to the minimum nutritional requirements necessary for the growth of this bacterium and its ability to survive under a variety of environmental and physical conditions [
+      ,
+      ]. The dissemination of new infections that come from the environment and hospitals requires special attention in order to minimize the chance of nosocomial infection by this pathogen [
+      ,
+      ].
+     </p>
+     <p>
+      The ubiquity of
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      in nature comes from its natural ability to use several mechanisms to resist against other organisms. For example, when using the type III secretion system to directly inject cytotoxic effector proteins into the cytosol of eukaryotic cells, a polysaccharide-encased community (a biofilm) of
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      can be formed and this community can resist to predation by protozoa [
+      ,
+      ].
+     </p>
+     <p>
+      The infection potential of
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      comes in part from the presence of virulence factors and the ability to metabolize many antibiotics (encoded in genes that are collectively organized in genomic islands), consequently, promoting infectivity potential [
+      ,
+      ,
+      ]. In general, virulence factors can be classified as cell- associated or extracellular virulence factors [
+      ,
+      ], both being secreted via secretion systems. Cell-associated virulence factors are important for the bacterial colonization process and they are secreted and bound to the cell envelope (inner or outer membrane) [
+      ]. On the other hand, extracellularly virulence factors are released by
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      after colonization and they are secreted into the extracellular medium (exoproteins) [
+      ].
+     </p>
+    </sec>
+    <sec id="sec2dot2-ijms-22-12892">
+     <title>
+      2.2. Clinical Impact of Pseudomonas aeruginosa
+     </title>
+     <p>
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      is an opportunistic pathogen. It lives as a commensal and environmental organism, but can occasionally change to a pathogenic state, causing infections that are difficult to treat [
+      ]. For example,
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      is the major cause of infections such as ventilator-associated pneumonia, urinary tract, bloodstream, and chronic infections [
+      ,
+      ,
+      ]. In immunocompromised hosts, like AIDS or diabetes mellitus patients, bacteremia caused by this bacterium is a common complication [
+      ]. In animals,
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      causes diseases in both livestock and pets. For example, it causes otitis and urinary tract infections in dogs, mastitis in dairy cows, hemorrhagic pneumoniae in fur-bearing animals such as mink or foxes, and endometritis in horses [
+      ].
+     </p>
+     <p>
+      This bacterium displays a natural resistance to many classes of antibiotics and its capacity to rapidly develop new ones during treatment represents one of the most common reasons for therapeutic failures [
+      ].
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      is one of the six “ESKAPE” pathogens belonging to the World Health Organization “priority pathogens” list of antibiotic resistance [
+      ]. The resistance rate of
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      to antibiotics is increasing worldwide and that is why it is necessary to increase monitorization of infections in animals and humans in order to minimize possible transfers between hosts [
+      ].
+     </p>
+     <p>
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      can also develop and grow in a sessile community structure that provides protection against antibiotics, host defense mechanisms, desiccation, ultraviolet light, and disinfectants [
+      ]. Given its resistance to antibiotics, the opportunistic, and resilient character, it has become one of the most concerning issues of pathogenesis nowadays and has drawn the attention of many researchers in the quest to obtain more knowledge and understanding [
+      ,
+      ,
+      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec3-ijms-22-12892">
+    <title>
+     3. Genome Structure in
+     <italic toggle="yes">
+      Pseudomonas aeruginosa
+     </italic>
+    </title>
+    <p>
+     The genetic repertoire of
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     reflects the adaptative character of this bacterial species [
+     ]. The metabolic versatility is provided by genes encoding enzymes that participate in the metabolic pathways, transcriptional regulators, and regulatory systems [
+     ]. The whole genome sequence of
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     strain type PAO1 was published by Stover and other collaborators in 2000. Thereafter, several strains have had their whole genomes sequenced [
+     ]. The
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     PAO1 genome is used as a reference for comparing with the genomes of other strains [
+     ].
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     PAO1 has a very large and complex genome, around 6.3 Mbp (G + C content 66.6%), encoding 5700 genes, including 5584 predicted open read frames (ORFs) [
+     ,
+     ]. In addition, it is estimated that 150 of the genes identified in
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     PAO1 encode outer membrane proteins related to adhesion, movement, antibiotics, and virulence factor output (
+     ) which represents a much higher number when compared to other genomes [
+     ].
+    </p>
+    <p>
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     has a mosaic genome, composed of many core genes interspersed by strain-specific blocks of genes [
+     ,
+     ]. As a result of comparative genomic studies within the species, the genome of
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     has been classified in three groups depending on its characteristics: the core genome, the accessory genome, and the pan-genome [
+     ,
+     ,
+     ,
+     ,
+     ].
+    </p>
+    <p>
+     The core genome defines the region of the genome possessed by almost all
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     strains, interspersed with “accessory” genomic elements that are present in some, but absent in other strains of the same species [
+     ,
+     ]. The core genome regions represent approximately 90% of the total
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     genome, display low levels of genetic diversity (0.5–0.7%), contain the majority of genes with housekeeping functions, and do not tolerate excessive changes over short evolutionary periods [
+     ,
+     ,
+     ].
+    </p>
+    <p>
+     The accessory genome of
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     consists of non-conserved, variable-length stretches of DNA, generally located in extrachromosomal elements, and blocks of inserted DNA in certain loci [
+     ,
+     ]. These DNA segments tend to cluster at certain loci, rather than being randomly distributed throughout the core genome [
+     ]. These loci are often referred as genomic islands (&gt;10 kb) [
+     ]. This part of genome is very relevant for its clinical implications, since it harbors genes that encode proteins with homologies to virulence factors and genes that encode resistance to various classes of antibiotics [
+     ,
+     ]. For example, genomic island of
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     PAPI-2 contain the gene encoding ExoU, a type-III secreted effector protein linked to increased virulence in animal models and human patients [
+     ]. The intrinsic determinants of antibiotic resistance in
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     , such as efflux pumps and a β-lactamases, are located in the core genome. However, genes of acquired antibiotic resistance are present in the accessory genome [
+     ,
+     ]. Indeed, the dissemination of multidrug-resistant strains is often due to the resistance genes present in the accessory genome [
+     ]. Therefore, identification of these accessory genomic elements in
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     has a major impact on the study of the evolution, adaptation, and infectious potential of this organism [
+     ].
+    </p>
+    <p>
+     The general architecture of the
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     pan-genome can be represented as a circular chromosome with polymorphic strain-specific segments, flanked by conserved genes referred to as anchors [
+     ]. Basically, this genome consists of genes within the core genome and accessory genome, with the latter containing all “dispensable”, strain-specific genes present only in a subset of strains [
+     ]. The size of the pan-genome currently exceeds 10 Mbp, whereas the core genome is roughly 5.84 Mbp, representing 89.7% of the total genome, and the accessory genome is about 727 kbp, representing, in average, 11.1% of the total genome [
+     ]. The
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     pan-genome contains approximately 54,272 genes, 665 of which are core genes, 26,420 are accessory genes, and 27,187 are unique genes (present in one strain only) [
+     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec4-ijms-22-12892">
+    <title>
+     4. Metabolic Pathways Associated with Pathogenicity
+    </title>
+    <p>
+     With new and robust results of genome sequencing, an increasing interest in the
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     genome has taken place, mainly with the purpose of better understanding its adaptive mechanisms and multi-omics interactions [
+     ]. Studies have shown that, although the
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     genome is well conserved and shows moderate genetic variability, non-synonymous mutations, and recombination events play an important role in phenotypic diversification [
+     ]. Genes that encode for aerobic respiration, denitrification, and anaerobic fermentation, found in the core genome, have been identified in all strains of
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     , highlighting the metabolic versatility of this bacterium [
+     ]. Proteins involved in regulation, transport, virulence and resistance also contribute to the high nutritional versatility and adaptive capacity of this bacterium [
+     ]. Thus, the study of extracellular proteins is of high interest due to their essential roles in bacterial lifestyle [
+     ]. Currently, although antibiotic pressure, airway heterogeneity and the natural versatility of
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     play an important role in its diversification, the exact mechanisms that drive adaptability and diversification in this species are still not fully understood [
+     ,
+     ,
+     ].
+    </p>
+    <sec id="sec4dot1-ijms-22-12892">
+     <title>
+      4.1. Virulence Factors
+     </title>
+     <sec id="sec4dot1dot1-ijms-22-12892">
+      <title>
+       4.1.1. Secretion Systems
+      </title>
+      <p>
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       possesses a series of complex secretion systems, which deliver virulence factors such as toxins, elastases, lipases, and proteases, either to the extracellular environment or within the cytosol of the host cell [
+       ].
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       contains five secretion systems: type I, type II, type III, type V and type VI (
+       ) [
+       ].
+      </p>
+      <p>
+       Type I secretion system (T1SS) is one of the simplest bacterial secretion systems described to date. T1SS require three components: an outer membrane (OM) protein, an ABC (ATP-binding cassette) transporter, which is inserted in the inner membrane (IM) and provides energy to the transport process, and an adaptor protein connecting these two components in the periplasm [
+       ]. In
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       , two types of T1SS exist. One of these types is the HasAp system, that consists of an ABC transporter (HasD), adaptor (HasE), and OMF (HasF) [
+       ,
+       ]. The HasAp protein is a hemophore, with the ability to bind heme from hemoglobin. This protein is considered crucial component for the survival of
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       and is especially important during the early stages of infection, where iron is scarce, as it can allow the acquisition of heme iron from hemoglobin [
+       ]. The other type of T1SS is the Apr system, which involves an ABC transporter (AprD), adaptor (AprE), and OMF (AprF), and is implicated in the extracellular secretion of the alkaline protease AprA and of AprX [
+       ,
+       ], which is a virulence factor involved in various infections caused by this bacterium [
+       ].
+      </p>
+      <p>
+       Type II secretion system (T2SS) is a very versatile system. Being widely preserved in Gram-negative bacteria, its sole purpose is to promote the transport of large multimeric proteins, previously folded in the periplasm, by the outer membrane [
+       ]. T2SS uses a two-stage process for the delivery of extracellular proteins: the first one involves the Sec- or Tat-dependent delivery from the cytoplasm into the periplasm, and the second stage involves T2SS complex-mediated further secretion into the extracellular space [
+       ]. In
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       , there are two different T2SS types: the Xcp (extracellular protein) system can secrete at least 14 proteins with different functions, such as proteases and lipases, and the Hxc (homologous to Xcp) system, only functional in phosphate-limiting growth conditions [
+       ].The latter system can only secrete one protein, LapA, an alkaline phosphatase. The Xcp system is encoded by 11 genes organized into two divergent operons, xcpP to Q and xcpR to Z. Moreover, there is a 12th gene, xcpA/pilD, located beyond the 2 xcp operons [
+       ,
+       ]. Some examples of secreted proteins include elastase (LasB, LasA), phospholipases, and lipases (PlcN, PlcH, LipA and LipC), as well as exotoxin A (ToxA), all of which playing major roles during infection. Elastase leads to the degradation of the connective tissue in the lungs, which is mainly composed of elastin [
+       ]. Also affecting the pulmonary system, phospholipases and lipases degrade surfactants and modify immune function in these organs [
+       ,
+       ]. On the other hand, exotoxin A is one of the most important virulence factors in
+       <italic toggle="yes">
+        P. aeruginosa,
+       </italic>
+       because it inhibits protein synthesis by ADP-ribosylation of cell elongation factor-2 in the host cell, consequently leading to cell death [
+       ]. A study carried out by Mapipa and his collaborators demonstrated that samples of
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       in hospital wastewater harbored virulence traits through the identification of genes that conferred this virulence on them, such as
+       <italic toggle="yes">
+        popB
+       </italic>
+       ,
+       <italic toggle="yes">
+        lasB
+       </italic>
+       ,
+       <italic toggle="yes">
+        lasA and toxA.
+       </italic>
+       This demonstrates a serious public health problem since these virulence factors can stimulate the adaptability of these bacteria to the environment and exert pathogenicity on the susceptible host [
+       ].
+      </p>
+      <p>
+       The type III secretion system (T3SS) forms a needle complex which allows the injection of effector proteins from the bacterial cytosol to the extracellular environment [
+       ], and is also related to the flagellar assembly machine [
+       ]. This involves a high degree of complexity; therefore, this system has thirty-six genes, encoded in five operons, that are organized and clustered together in the
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       chromosome. These genes are implicated in the biogenesis and regulation of the type III secretory-translocation machinery [
+       ]. One of the important components of T3SS in
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       is the production of at least four effector proteins: ExoS, ExoT, ExoU, and ExoY, that cause cytotoxicity at different levels [
+       ]. The ExoT and ExoS are homologous bifunctional effectors and are both ADP-ribosyltransferases (ADPRT) and GTPase-activating protein (GAP) activity. These effector proteins seem to target host signaling pathways, specifically through ADP-ribosylation of Ras, affecting the function of the host cell [
+       ,
+       ,
+       ]. ExoU is an effector with lipase activity that has broad substrate specificity, causing tissue destruction. ExoY is an adenylate cyclase that increases cAMP levels intracellularly and induces rounding of cells by disrupting the actin in their cytoskeleton [
+       ].
+      </p>
+      <p>
+       In
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       , type III secretion is regulated at two levels: transcription of T3SS genes and initiation of secretion. Both are switched on upon contact with host cells, leading to the production of a large amount of secreted type III components [
+       ,
+       ]. Transcription of T3SS genes is induced under limiting calcium conditions or shortly after contact of these bacteria with their host cells [
+       ]. Transcription of T3SS genes is controlled by the ExsA master regulator, which is a member of the AraC family of transcriptional activators [
+       ]. ExsA binds to a nucleotide sequence upstream of the RNA polymerase binding site of T3SS promoters [
+       ]. ExsA autoregulates its expression by binding to the promoter region of
+       <italic toggle="yes">
+        exsCEBA
+       </italic>
+       (coding region of the T3SS regulatory complex) [
+       ]. Downstream of this regulatory complex operon is the anti-activator
+       <italic toggle="yes">
+        exs
+       </italic>
+       D gene which inhibits exsA-dependent transcription [
+       ]. The exsC, an anti-anti-activator, binds directly to exsD in under low calcium conditions, which promotes the inactivation of ExsA, thus allowing interaction with the promoter region [
+       ]. There is also a secreted anti-anti-anti-activator, ExsE, that binds to ExsC preventing it from inhibiting ExsD [
+       ]. In general, when ExsE is secreted, it remains intracellularly, which favors the formation of ExsE-ExsC and ExsA-ExsD complexes, thus avoiding ExsA-dependent transcription. On the other hand, in the absence of ExsE, no binding to ExsC takes place. Thus, ExsC sequesters ExsD, allowing ExsA to activate the transcription of T3SS genes [
+       ,
+       ]. Besides this pathway, the T3SS regulon is under control by several upstream regulators, including cAMP biosynthesis [
+       ], a global regulator, Vfr, and ResT/LadS/GacAS two-component regulatory systems [
+       ,
+       ].
+      </p>
+      <p>
+       Another trigger for the expression of genes in the T3SS system is a spermidine transporter, SpuDEFGH, which allows
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       to have the ability to detect and sense the signaling molecules in the fluid of its host’s tissues and, consequently, induces the expression of T3SS genes [
+       ]. When the spermidine transporter genes are deleted, host-cell-dependent induction of T3SS genes is inhibited, and so are bacterial cytotoxicity and expression of
+       <italic toggle="yes">
+        exsCEBA
+       </italic>
+       and effector genes induced by calcium depletion [
+       ]. Spermidine is an organic polycation, belonging to the group known as polyamines, which play important roles in stress response, acid tolerance, and antimicrobial resistance [
+       ,
+       ,
+       ]. Some studies show that polyamines can either induce resistance to various classes of antibiotics or increase susceptibility. For example, in
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       , polyamines can induce resistance to aminoglycosides and quinolone antibiotics. On the other hand, it was also shown that exogenous addition of spermidine and other polyamines increases the susceptibility to β-lactam antibiotics, trimethoprim, chloramphenicol, and nalidixic acid, by inducing the expression of the efflux pump
+       <italic toggle="yes">
+        oprH-phoPQ
+       </italic>
+       operon and of an LPS modification operon [
+       ,
+       ]. Thus, the identification of the spermidine signal and its transporter could provide a good approach to control infections by
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       .
+      </p>
+      <p>
+       The type V secretion system (T5SS) is the simplest secretion pathway described so far. The T5SS consists of autotransporters (AT or T5aSS) and two-partner secretion systems (TPS or T5bSS) [
+       ]. Basically, in this system, proteins are transported to, and remain associated with, the outer face of the outer membrane, or are released into the extracellular medium after proteolytic cleavage [
+       ]. The T5aSS proteins are modular proteins consisting of a signal peptide at the extreme N terminus and a β-domain of 12 β-strands at the C terminus, connected by a “passenger” domain that harbors the catalytic domain of the protein. The signal peptide crosses the inner membrane and is subsequently cleaved. In the periplasm, the C terminus domain is inserted into the outer membrane and forms a β-barrel. This process results in the exposure of the passenger domain on the surface of the bacteria or its release into the extracellular medium after cleavage either by autoproteolysis or by a protease [
+       ]. In
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       , the EstA is the only characterized T5aSS [
+       ]. EstA has an autotransporter esterase activity and is located on the outer side of the outer membrane. It has been shown to be important for the production of rhamnolipid, which in turn affects cell motility and biofilm formation [
+       ]. The T5bSS is very similar to T5aSS, except that the passenger domain is called TpsA and the β domain TpsB, and both are independent proteins [
+       ]. In general, the TpsA and TpsB proteins cross the inner membrane through the Sec export pathway. TpsA is converted to a pro-protein after maturation of its signal peptide. In the outer membrane, TpsB recruits TpsA through POTRA domains that interact with the TpsA T5bSS motif. The pro-TpsA protein is subsequently cleaved to form a mature TpsA protein, which may remain anchored to the surface of the bacteria or be released into the extracellular milieu [
+       ]. In the genome of PAO1, six groups of T5bSS were noted, among which LepA/LepB, that secretes a protease influencing the host’s response to bacterial infection. CdrA/CdrB is responsible for transporting CdrA to the outer membrane, promoting biofilm formation and auto-aggregation in liquid culture [
+       ,
+       ].
+      </p>
+      <p>
+       The type VI secretion system (T6SS) is also a needle-like complex and is widely spread in Gram-negative bacteria [
+       ]. In this secretion system, proteins without a signal peptide, denominated by Hcp (hemolysin-coregulated protein) and VgrG (valine-glycine repeat), require a functional T6SS for their release into the extracellular medium [
+       ]. The crystal structure of the
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       Hcp1 protein reveals a hexameric ring structure, homologous to the tube domain of the T4 phage tail (gp19 protein). On the other hand, the conserved N-terminal region of VgrGs shares similarities with the T4 phage proteins (gp5 and gp27 proteins). The gp5 and gp27 multimers constitute the bacteriophage tail spike used for puncturing the bacterial envelope and to inject DNA into the cytoplasm [
+       ]. Thus, it was proposed that recognition of the target cell and effective delivery occur in a similar way to bacteriophage entry in the host cell [
+       ]. Other components of T6SS are: a ClpV ATPase, a FHA regulatory domain protein that is the target of a pair of Ser/Thr kinase and phosphatase, DotU- and IcmF-like proteins, and an outer membrane lipoprotein [
+       ].
+      </p>
+      <p>
+       In
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       , there are three loci encoding T6SS components (HSI-I, HSI-II and HSI-III), which constitute a set of 15–20 genes involved in interaction with other bacteria and the environment, similar to the T3SS [
+       ]. At least six effector proteins (Tse1-6) are secreted through the T6SS. Tse1 and Tse3 are inserted into the periplasm and hydrolyse peptidoglycan, consequently causing the lysis of bacterial cells. Tse2 arrests the growth of both prokaryotic and eukaryotic cells. Tse4, Tse5 and Tse6 function as antibacterial effectors [
+       ,
+       ]. The HSI-I needle is a dynamic contractile structure, much like a phage tail, projecting from the cytosol onto the bacterial surface; it is regulated by two-component systems and sRNAs [
+       ,
+       ]. HSI-II increases bacterial internalization in epithelial cells, while HSI-III plays important roles in pathogenesis [
+       ]. Regulators and expression of the HSI-II or HSI-III are affected by transcriptional factor MvfR, a quorum sensing (QS) regulator [
+       ]. In addition, in
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       , HSI-II and HSI-III play important roles in the infection process in animals and plants [
+       ].
+      </p>
+      <p>
+       This diversity of secretion systems may have resulted from an evolutionary process that optimized various biological functions in
+       <italic toggle="yes">
+        P. aeruginosa.
+       </italic>
+       Although this pathogen lacks some secretion systems, such as T4SS, it still has a great diversity of systems. All of these systems enable
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       to cause various types of infections in various human and animal tissues, since they endow it with numerous virulence factors.
+      </p>
+     </sec>
+     <sec id="sec4dot1dot2-ijms-22-12892">
+      <title>
+       4.1.2. Motility
+      </title>
+      <p>
+       In bacteria, motility plays a fundamental role in the colonization of abiotic surfaces (e.g., medical devices) and biotic surfaces (e.g., damaged tissues), as well as in the spreading of bacteria across the surface [
+       ], thereby contributing to virulence. Motility contributes to the formation of biofilm and, consequently, the formation of problematic bacterial communities, with increased resistance to antimicrobial agents [
+       ]. In
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       , cell surface organelles, flagella, and pili are used for motility. The surface-associated, twitching motility, is dependent on the extension and retraction of type IV pili. The flagellum allows this bacterium to swim in liquid media and swarm across a solid surface (
+       ) [
+       ,
+       ].
+      </p>
+      <p>
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       has a single polar flagellum, composed of a flagellin protein named FliC [
+       ]. The flagellum consists of a basal body and a motor situated within the cell membrane, and of a rod which extends through the peptidoglycan and outer layers of the cell, to which the hook and filament are attached (
+       ). Swimming and swarming actions are driven by rotation of the flagellum, which allows
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       to move. Forward propulsion results from an anti-clockwise rotation of the flagellum, while tumbling motion results from its clockwise revolution. Changes in the direction of movement result from chemotaxis and are triggered by chemical signals [
+       ,
+       ].
+      </p>
+      <p>
+       Twitching motility involves the movement of cell surface appendages called pili. In
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       , type IV pili (T4P) are the specific pili. These pili are synthesized within the cell and this process involves a series of proteins (PilA, PilC, PilB, PilQ) that intervene in the rapid assembly and disassembly, leading to a twitching movement [
+       ]. This movement results in small clusters of cells that come together to form a networked cell structure, with the vanguard actively involved in migration, fixation, and biofilm formation [
+       ,
+       ]. The nucleotide signaling molecule cyclic-di-GMP controls sessile motility switch. The cyclic-di-GMP regulates a transition from the mobile and planktonic state to sessile, favoring biofilm development, by inhibiting the flagella and pili that allow for this type of movement. When levels of this nucleotide signaling molecule are low, a motile lifestyle is favored [
+       ]. Badal and his collaborators show that some of the two-component systems biofilm regulators regulate flagellum-dependent swimming motility and type IV pilus-dependent contraction motility. For example, when comparing the two-component system mutants with their isogenic parent
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       PA14 (using controls PA14
+       <italic toggle="yes">
+        rhlR
+       </italic>
+       as positive control and PA14
+       <italic toggle="yes">
+        pilW
+       </italic>
+       and negative control), it was demonstrated that parent PA14 and PA14
+       <italic toggle="yes">
+        rhlR
+       </italic>
+       were capable of twitching but not the PA14
+       <italic toggle="yes">
+        pilW
+       </italic>
+       mutant [
+       ].Thus, motility is a virulence factor that is essential for several functions, such as surface detection and translocation, lifestyle change, and biofilm formation. Motility and adherence seem to play important roles in triggering host immune responses, biofilm formation, and the development of chronic infection [
+       ].
+      </p>
+     </sec>
+     <sec id="sec4dot1dot3-ijms-22-12892">
+      <title>
+       4.1.3. Secondary Metabolites
+      </title>
+      <p>
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       uses peptides and proteins, especially a series of secondary metabolites that give them an advantage in different environments, as virulence factors. These metabolites negatively affect prokaryotic and eukaryotic cells, through growth inhibition or cell death [
+       ]. Within the secondary metabolites, the most important classes for virulence are phenazine, alkyl quinolones, homoserine lactones, and rhamnolipids [
+       ]. Phenazines, such as pyocyanin, are one of the most important secondary metabolites of
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       . They are redox-active, colored heterocyclic compounds and are responsible for the green fluorescence of the
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       [
+       ]. Basically, pyocyanin can cause harmful oxidative stress to host cells by generating reactive oxygen species, superoxide, and hydrogen peroxide [
+       ,
+       ]. The genes required to produce pyocyanin are two single genes,
+       <italic toggle="yes">
+        phzM
+       </italic>
+       and
+       <italic toggle="yes">
+        phzS
+       </italic>
+       (responsible for the final conversion into pyocyanin) and two seven-gene homologous operons, phzA1B1C1D1E1F1G1 and phzA2B2C2D2E2F2G2 [
+       ]. The operons encode the synthesis of phenazine-1-carboxylic acid from its precursor, chorismic acid. Phenazine-1-carboxylic acid is then converted to pyocyanin by a methyltransferase encoded by the
+       <italic toggle="yes">
+        phzM
+       </italic>
+       gene and a flavin-containing monooxygenase encoded by the
+       <italic toggle="yes">
+        phzS
+       </italic>
+       gene [
+       ].
+      </p>
+      <p>
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       is one of the few organisms capable of synthesizing hydrogen cyanide (HCN) [
+       ]. This secondary metabolite is maximally produced under high cell densities and at low oxygen tension during the transition from exponential to stationary growth phase. The HCN synthase is encoded in an operon,
+       <italic toggle="yes">
+        hcnABC
+       </italic>
+       [
+       ]. The CN- ions are non-competitive inhibitors, as they can bind to Fe
+       in heme, which in turn binds to cytochrome c oxidase, consequently preventing oxygen from binding. Thus, the host cell is unable to perform aerobic respiration [
+       ]. Among bacteria, HCN has been shown to kill competitors by increasing their susceptibility to antibiotics, through inhibition of efflux pumps that depend on cytochrome oxidase activity [
+       ,
+       ].
+      </p>
+     </sec>
+     <sec id="sec4dot1dot4-ijms-22-12892">
+      <title>
+       4.1.4. Multiple Signalling Systems in the Regulation of Virulence Genes
+      </title>
+      <sec>
+       <title>
+        Quorum Sensing System
+       </title>
+       <p>
+        Bacterial communication is the term given to the regulation of bacterial behavior in response to the presence of other cells. Cell-to-cell communication is based on the generation and release of small signaling molecules. These small signaling molecules, called autoinducers, are involved in a form of regulation known as quorum sensing (QS) [
+        ]. QS is often referred to as “density-dependent” because a critical density of bacterial cells is necessary for the level of autoinducer to reach the limit, stimulus concentration and bind to the activator protein, causing expression of the target gene [
+        ]. QS signaling molecules also regulate the expression of various virulence factors, adhesion, and motility, and control biofilm formation by
+        <italic toggle="yes">
+         P. aeruginosa
+        </italic>
+        [
+        ]. Three distinct quorum sensing systems have been described in
+        <italic toggle="yes">
+         P. aeruginosa
+        </italic>
+        : two LuxIR homologs (
+        <italic toggle="yes">
+         las
+        </italic>
+        and
+        <italic toggle="yes">
+         rhl
+        </italic>
+        ), involving two N-acyl homoserine lactone (AHLs) dependent systems, and the 2-heptyl-3-hydroxy-4-(1H)-quinolone (PQS) [
+        ,
+        ].
+       </p>
+       <p>
+        The
+        <italic toggle="yes">
+         las
+        </italic>
+        system is composed of LasI, a synthase protein, which produces the autoinducer N-3-oxo-dodecanoyl homoserine lactone (3OC12HSL), that binds to the transcriptional activator protein (LasR) at a threshold concentration. The 3OC12HSL-LasR complex binds to promoter regions upstream of genes that encode for a range of virulence factors (such as elastase, exotoxin A, and alkaline protease). The
+        <italic toggle="yes">
+         las
+        </italic>
+        system positively regulates the
+        <italic toggle="yes">
+         rhl
+        </italic>
+        and
+        <italic toggle="yes">
+         pqs
+        </italic>
+        systems. On the other hand, the
+        <italic toggle="yes">
+         rhl
+        </italic>
+        system negatively regulates the
+        <italic toggle="yes">
+         pqs
+        </italic>
+        system. The
+        <italic toggle="yes">
+         pqs
+        </italic>
+        system can autoinducer PQS synthesis and activates over-expression of the
+        <italic toggle="yes">
+         rhl
+        </italic>
+        system [
+        ]. When the induction of the
+        <italic toggle="yes">
+         rhl
+        </italic>
+        transcriptional activator protein, RhlR, binding with N-butyryl homoserine lactone, (C4HSL) occurs, it leads to the synthesis of the autoinducer synthase protein (RhlI) [
+        ]. The Rh1R-C4HSL complex can also induce the expression of several genes encoding virulence factors (such as alkaline protease, elastase, rhamnolipid, pyocyanin, and HCN) and can activate genes under the control of LasR [
+        ]. The
+        <italic toggle="yes">
+         las
+        </italic>
+        and
+        <italic toggle="yes">
+         rhl
+        </italic>
+        systems do not act independently of each other: rather, they are organized in an established hierarchy with a signaling cascade [
+        ].
+       </p>
+       <p>
+        The third
+        <italic toggle="yes">
+         P. aeruginosa
+        </italic>
+        QS system, PQS, is synthesized via condensation of anthranilate and
+        <italic toggle="yes">
+         β
+        </italic>
+        -keto dodecanoate [
+        ]. The
+        <italic toggle="yes">
+         pqsABCD
+        </italic>
+        operon encoded 2-heptyl-4(1H)-quinolone, PQS precursor, is converted to PQS by PqsH, a putative monooxygenase [
+        ,
+        ]. The LysR-type regulator PqsR (also known as MvfR) regulates the PQS. This system controls the biosynthesis of AHL-associated virulence factors like pyocyanin and rhamnolipids. It also affects biofilm development [
+        ]. Thus, the PQS pathway is linked to the LasI/LasR and RhlI/RhlR QS systems, influencing the production of virulence factors. The PQS HHQ precursor also acts as a cell-to-cell signal. HHQ can be released into the extracellular medium and then be absorbed by neighbouring cells, where it can be converted to PQS by PqsH, or bind directly to PqsR, in both cases activating PQS-regulated gene expression to levels similar to those observed in response to PQS itself [
+        ].
+       </p>
+       <p>
+        Specific environmental conditions and host immune factors were associated with changes in the QS response of
+        <italic toggle="yes">
+         P. aeruginosa
+        </italic>
+        . For example, under anaerobic conditions, QS systems and transcriptional regulators (such as ANR) allow for bacterial growth and expression of virulence [
+        ].
+       </p>
+      </sec>
+      <sec>
+       <title>
+        GacS/GacA, Two-Component Systems
+       </title>
+       <p>
+        It should be noted that, besides the existence of the QS-systems,
+        <italic toggle="yes">
+         P. aeruginosa
+        </italic>
+        also has two-component regulatory systems that control both its virulence phenotype and its response to environmental stimuli. Basically, the two-component regulatory systems are formed by two proteins: a histidine kinase (HK) and a response regulator (RR). One of the most important of such systems is GacS/GacA, which plays a critical role in controlling
+        <italic toggle="yes">
+         P. aeruginosa
+        </italic>
+        infectious processes by counter-regulating the expression of virulence factors associated with acute infection, such as T3SS, type IV pili, and flagellum formation, as well as mechanisms associated with chronic infection, such as T6SS and biofilm formation [
+        ]. The GacS/GacA system consists of a transmembrane hybrid sensor HK, GacS. The function of GacS is to phosphorylate the response regulator (RR) and histidine phosphotransfer (Hpt) domains, resulting in their transfer to GacA in the cytosol. GacA promotes the transcription of two regulatory sRNAs (RsmZ and RsmY). These two bind to the small RNA-binding protein RsmA, through characteristic GGA motifs, preventing it from attaching to its target mRNAs, avoiding their translation suppression and increasing mRNA turnover, positively regulating the expression of genes related to T3SS, type IV pili, and flagellum formation, while negatively regulating the expression genes involved in T6SS and biofilm formation [
+        ,
+        ]. The GacS/GacA regulators are LadS, RetS, and PA1611. LadS, a hybrid histidine kinase, promotes autophosphorylation of GacS by shuttling additional phosphate groups into its Hpt domain [
+        ]. RetS, a hybrid histidine kinase, captures phosphate groups from the GacS, preventing the autophosphorylation of GacS [
+        ]. The PA1611, a hybrid histidine kinase, interacts with RetS, thus preventing RetS from inhibiting GacS [
+        ]. However, the ligands binding to the sensor domain of GacS are unknown. Studies in mice have shown that the loss of RsmA results in a reduction in colonization during the early stages of acute infection, but also favors chronic infection, resulting in increased inflammation in the lungs of infected mice [
+        ].
+       </p>
+      </sec>
+      <sec>
+       <title>
+        Nucleotide Signals
+       </title>
+       <p>
+        Studies related to signal propagation have shown that a group of nucleotide-based molecules also plays an important role in bacterial control [
+        ]. The 3′, 5′-cyclic adenosine monophosphate (cAMP) is an essential signaling molecule for the regulation of virulence factors in acute infections [
+        ]. Basically, cAMP binds and activates transcription factors from the CRP family. In the genome of
+        <italic toggle="yes">
+         P. aeruginosa
+        </italic>
+        PAO1, cAMP synthesis is driven by two adenylate cyclases, CyaA and CyaB [
+        ,
+        ]. In mice, the enzymatic activity of CyaB is increased in response to specific signals, such as low calcium levels, showing that the most significant contribution to cellular levels of cAMPs is derived from CyaB [
+        ]. The production of various virulence factors such as upregulating exotoxin A, T3SS, T2SS, and the
+        <italic toggle="yes">
+         las
+        </italic>
+        and
+        <italic toggle="yes">
+         rhl
+        </italic>
+        QS systems, can be directly or indirectly controlled by binding cAMP to the homologous CRP VfR regulator (virulence factor regulator). On the other hand, flagellar gene expression is downregulated by repressing expression of
+        <italic toggle="yes">
+         fleQ
+        </italic>
+        [
+        ,
+        ]. In
+        <italic toggle="yes">
+         P. aeruginosa
+        </italic>
+        , mutations in
+        <italic toggle="yes">
+         mucA
+        </italic>
+        (virulence factor that regulates alginate) and activation of AlgU inhibit cAMP-VfR signaling, proving that this type of cAMP-Vfr signaling works as a complex signalling cascade with many regulatory inputs [
+        ].
+       </p>
+       <p>
+        The other group is the cellular alarmones ppGpp (5′-diphosphate 3′-diphosphate guanosine) and pppGpp (5′-triphosphate 3′-diphosphate guanosine) [
+        ]. The cellular pool of ppGpp can be controlled by two classes of enzymes: monofunctional synthetases and bifunctional synthetase–hydrolase enzymes. The monofunctional synthetases (RelA proteins) use GTP and ATP to generate pppGpp, which is then converted in ppGpp. Bifunctional synthetase–hydrolase enzymes (SpoT and Rel proteins) can act on ppGpp and pppGpp, and ppGpp hydrolyses the nucleotides to yield either GDP and pyrophosphate (PP
+        <sub>
+         i
+        </sub>
+        ), whereas pppGpp hydrolyses GTP and PP
+        <sub>
+         i
+        </sub>
+        [
+        ,
+        ]. The association of ppGpp with the transcriptional regulator DksA (global regulator of metabolism) allows the interaction between ppGpp and the RNA polymerase, inhibiting the transcription of ribosomal RNA promoters. This inhibition occurs simultaneously with the activation of stress response genes transcription and upregulation of amino acid biosynthesis pathways [
+        ,
+        ]. The interaction of ppGpp and DksA can also indirectly regulates the transcription process known as σ-factor competition.
+        <italic toggle="yes">
+         P. aeruginosa
+        </italic>
+        has many σ-factors encoded in its genome, with 24 putative σ-factors identified so far [
+        ]. In general, the σ-factor binds to the RNA polymerase core enzyme producing a holoenzyme. Once this happens, the σ-factor can recognize its cognate promoter sequence leading to a binding process between them. This facilitates the opening of the double-stranded DNA, leading to the initiation of transcription by allowing the transcription machinery to bind. In the end, elongation of the transcript from the template strand leads to the finished mRNA that can be then translated into proteins or processed further [
+        ,
+        ]. σ-factors are responsible for the transcription of genes that are necessary under certain conditions. For example, σ-factor σ
+        (also known as RpoD), is needed in exponential growth while σ
+        (also known as RpoS), is needed in the stationary phase [
+        ,
+        ]. Additionally, the expression of RpoS is important for tolerance against antibiotics during stationary phase [
+        ].
+       </p>
+       <p>
+        The cyclic-3′5′-diguanylic acid (c-di-GMP) is another nucleotide-signaling molecule, playing a very important role in the post-transcriptional regulation of biofilm formation. This small molecule has the ability to increase the triggers for biofilm formation, meanwhile inhibiting motility [
+        ]. The c-di-GMP signaling system is very complex and consists of two groups of proteins: diguanylate cyclases (DGCs) (containing GGDEF motif), responsible for c-di-GMP synthesis, and phosphodiesterase (PDEs) (containing EAL or HD-GYP motif) involved in c-di-GMP degradation [
+        ]. These enzymes control many factors, such as biosynthesis of adhesins and exopolysaccharides, motility, environmental stress adaptation, synthesis of secondary metabolites, virulence in animal and plant hosts, among others [
+        ]. The transduction of phosphorylation events via the GacS/GacA regulatory systems controls biofilm formation. In this GacS/GacA two-component system, the RsmA RNA-binding protein negatively controls biofilm formation pathways, by inhibiting production of GGDEF/EAL encoding proteins and it consequently inhibits the increase in cyclic di-GMP levels. When
+        <italic toggle="yes">
+         P. aeruginosa
+        </italic>
+        is under stress, this pathway generates RsmY and RsmZ (non-coding RNAs), which neutralize the translational repression activity of RsmA. Accordingly, there is an increase in the level of cyclic di-GMP, promoting the biosynthesis of polysaccharides (alginate and Pel) and resulting in biofilm formation [
+        ].
+       </p>
+       <p>
+        Therefore, quorum sensing and the multiple different bacterial signaling systems have a major impact on bacterial control in relation to the environment and in the regulation of its various virulence factors. A better understanding of these multiple signaling systems will, in the future, allow for a better control and combat of bacterial infections.
+       </p>
+      </sec>
+     </sec>
+    </sec>
+    <sec id="sec4dot2-ijms-22-12892">
+     <title>
+      4.2. Biofilm
+     </title>
+     <p>
+      Bacterial biofilms are structured colonial aggregates of cells, most often embedded in a matrix of extracellular polymeric substances (EPS) [
+      ]. These biofilms are resistant to antibiotics, phagocytosis, and surfactants, making them difficult to remove once established [
+      ]. Biofilm formation in
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      is triggered upon association with a biotic or abiotic surface, leading to the specific production and secretion of extracellular matrix, that can include exopolysaccharides, DNA and/or protein [
+      ]. The development of
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      PAO1 biofilms is divided in five stages. The first stage is the reversible attachment, where planktonic cells attach to the substratum by means of their flagella. In the second stage, there is a continuous influx of motile cells to the site of biofilm initiation. Subsequently, the bacteria form microcolonies. At this stage, type IV pili maintain twitching motility. After definitive fixation,
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      starts the expression of the
+      <italic toggle="yes">
+       algC
+      </italic>
+      ,
+      <italic toggle="yes">
+       algD
+      </italic>
+      , and
+      <italic toggle="yes">
+       algU
+      </italic>
+      genes, responsible for the synthesis of the alginate extracellular polymeric substances. At the third stage, cell proliferation and loss of motility organelles mark the beginning of the biofilm maturation process, during which exponential upregulation of certain genes is observed. In the fourth stage, biofilm maturation and thickening are now complete. The initial monolayer cell mat transforms into a three-dimensional structure and structurally adopts a mushroom-shaped multicellular assembly. The fifth and last state is the detachment of single cells or aggregates from the biofilm, leading to the dispersion of the planktonic cells back into the environment, which can re-form a new biofilm elsewhere. For dispersion and separation of bacterial cells from the biofilm, the swimming capacity of
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      and enzymatic degradation of the EPS matrix are important factors [
+      ,
+      ].
+     </p>
+     <p>
+      In
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      , the
+      <italic toggle="yes">
+       Psl
+      </italic>
+      system, encoded by the
+      <italic toggle="yes">
+       psl
+      </italic>
+      operon, which contains many
+      <italic toggle="yes">
+       psl
+      </italic>
+      genes, contributes to the formation of biofilm, allowing to increase cell surface and intercellular adhesion [
+      ]. The
+      <italic toggle="yes">
+       psl
+      </italic>
+      locus encodes the synthesis of polysaccharides rich in galactose and mannose, which play an essential role in the cell surface, cell interactions, and biofilm formation. Pellicle (Pel) polysaccharide, a glucose-rich matrix material, is another biofilm formation system. It is encoded by the
+      <italic toggle="yes">
+       pelABCDEF
+      </italic>
+      operon, containing six genes. When this operon is active, a glucose-rich, cellulase-sensitive matrix is created [
+      ,
+      ]. The Pel and Psl systems are involved in the early stages of biofilm formation [
+      ]. The
+      <italic toggle="yes">
+       pel
+      </italic>
+      operon is necessary for the formation of biofilm on certain surfaces. It was demonstrated when comparing
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      strain PA14 and
+      <italic toggle="yes">
+       pelA
+      </italic>
+      mutant of PA14
+      <italic toggle="yes">
+       pelA
+      </italic>
+      ::Tn that the increase in biomass was significantly greater in wild type PA14 than in PA14
+      <italic toggle="yes">
+       pelA
+      </italic>
+      at all time points after inoculation [
+      ].
+     </p>
+     <p>
+      Regulation of biofilm formation involves multiple bacterial machineries, such as the QS systems (
+      <italic toggle="yes">
+       las
+      </italic>
+      and
+      <italic toggle="yes">
+       rhl
+      </italic>
+      ), two-component regulatory systems, and the nucleotide signaling molecule c-di-GMP (
+      ) [
+      ,
+      ,
+      ]. The
+      <italic toggle="yes">
+       las
+      </italic>
+      system intervenes in biofilm formation and maturation. The QS regulator LasR appears to bind to the promoter region of the
+      <italic toggle="yes">
+       psl
+      </italic>
+      operon, suggesting that this QS system regulates
+      <italic toggle="yes">
+       psl
+      </italic>
+      expression [
+      ]. On the other hand, the
+      <italic toggle="yes">
+       rhl
+      </italic>
+      system intervenes in the formation of biofilm by increasing biosynthesis of the Pel polysaccharide. For instance, the transcription of the
+      <italic toggle="yes">
+       pelABCDEF
+      </italic>
+      operon has been reported to be drastically reduced in the
+      <italic toggle="yes">
+       RhlI
+      </italic>
+      mutant, however, the
+      <italic toggle="yes">
+       rhlR
+      </italic>
+      mutant did not [
+      ,
+      ]. In two-component regulatory systems (GacS/GacA), the RsmA represses the expression of the
+      <italic toggle="yes">
+       pel
+      </italic>
+      and
+      <italic toggle="yes">
+       psl
+      </italic>
+      genes. The interaction between GacS and RetS makes phosphorylation of GacS impossible and, consequently, there is no inhibition of RsmA, making RetS a negative regulator for biofilm formation [
+      ]. The binding of c-di-GMP and proteins PelD and AlgA-44 is necessary for formation of the Pel polymer and alginate, respectively. Thus, high levels of c-di-GMP promote polysaccharide biosynthesis, while low levels promote motility through flagellar formation [
+      ].
+     </p>
+     <p>
+      eDNA is also a major matrix component of
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      biofilm. It participates in the early development of biofilms and facilitates its motility-mediated expansion. Furthermore, biofilms with an eDNA deficit are more sensitive to detergents [
+      ].
+     </p>
+    </sec>
+    <sec id="sec4dot3-ijms-22-12892">
+     <title>
+      4.3. Antibiotic Resistance
+     </title>
+     <p>
+      The use of antibiotics to treat infectious diseases has proven clinically successful, although researchers say that success comes at the expense of resistance. There are several reasons for acquiring the various types of resistance presently encountered. The direct cause of drug resistance is exposure of microorganisms to antibiotics, which leads to the natural selection of individuals with resistance genes to various antibiotics [
+      ]. The plasticity of the bacterial genome, through spontaneous or induced mutations, also represents one of the main factors for the acquisition of antibiotic resistance. The horizontal transfer of genes or transmissible plasmids are also responsible for the acquisition of resistance genes among bacteria [
+      ]. Therefore, recently, several studies have been conducted to develop new strategies to combat multidrug resistance pathogens. For example, Galdino and collaborators demonstrated in their studies that two metal complexes, Ag-phendione and Cu-phendione, as powerful inhibitors of lasB, since these complexes are able to interact with the active site of lasB and decrease the activity of purified lasB and from the secreted lasB. These complexes can be a promising avenue for the treatment of antibiotic-resistant
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      through the lasB target, since this enzyme promotes several pathophysiological events during bacterial-host interactions [
+      ]. Metal-based antibacterial complexes have been studied as an alternative to conventional antibiotics due to their differentiating modes of action and effective in combating pathogens [
+      ]. Namely, silver, gold, bismuth, ruthenium, copper and manganese are the most studied compounds whose effects show a promising impact in combating antimicrobial resistance. These metal-based antibacterial complexes act essentially at the level of the DNA, RNA and bacterial membrane, disrupting the basic survival functions of the bacteria [
+      ,
+      ]. In addition to these more modern alternatives, the use of phages and bacteriocins has also been studied as an alternative to antibiotics [
+      ,
+      ].
+     </p>
+     <p>
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      infections are increasingly difficult to treat, as this pathogen has a natural resistance to multiple antibiotics, and the number of its multidrug-resistant strains is increasing globally [
+      ]. Many antibiotics are used to treat
+      <italic toggle="yes">
+       P. aeruginosa
+      </italic>
+      infections, including a number of β-lactams such as cephalosporins (e.g., ceftazidime), carbapenems (e.g., meropenem, imipenem), and monobactams (e.g., aztreonam), aminoglycosides (e.g., gentamicin, tobramycin, amikacin), fluoroquinolones (ciprofloxacin, levofloxacin), and, recently, polymyxins (e.g., colistin, polymyxin B). Normally, the major mechanisms used to counter antibiotic attack can be classified into intrinsic, acquired, and adaptive resistance [
+      ].
+     </p>
+     <sec id="sec4dot3dot1-ijms-22-12892">
+      <title>
+       4.3.1. Intrinsic Antibiotic Resistance
+      </title>
+      <p>
+       The intrinsic antibiotic resistance means the innate ability to decrease the effectiveness of a particular antibiotic through structural or functional characteristics conferring protection against toxic molecules and antimicrobials [
+       ].
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       exhibits lower outer membrane permeability compared to other Gram-negative bacteria. The Gram-negative membrane is an asymmetric bilayer of phospholipid and LPS, and it works as a selective barrier to prevent the penetration of antibiotics [
+       ]. To survive,
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       must allow the entry of nutrients. This entry is accomplished through a collection of β-barrel proteins producing water-filled diffusion channels called porins [
+       ]. The family of porins can be divided into four classes: non-specific porins, specific porins, gated porins, and efflux porins. Non-specific porins, the main of which is OprF, allow the slow diffusion of most small hydrophilic molecules. Specific porins, OprB, OprD, OprE, OprO, and OprP, have specific sites that bind to a particular set of molecules. Gated porins, TonB-dependent, OprC, and OprH, are responsible for the uptake of ion complexes. The OprM, OprN, and OprJ efflux porins are important components of efflux pumps [
+       ]. Porins not only play an important role in the transport of sugars, amino acids and other nutrients, but are also involved in the transport of certain hydrophilic antibiotics such as β-lactams, aminoglycosides, tetracyclines, and some fluoroquinolones [
+       ]. In
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       , one of the intrinsic mechanisms is the limitation of entry of hydrophilic antibiotics, through decreased outer membrane permeability, by reducing the number of non-specific porin proteins and replacing the porins with specific or selective channels that absorb only the necessary nutrients [
+       ]. The other intrinsic mechanisms occur in carbapenem-resistant clinical strains of
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       , which have been shown to be deficient in the OprD porin.
+      </p>
+      <p>
+       Efflux pumps also play an important role in intrinsic antibiotic resistance. These efflux pumps can be substrate-specific or can extrude a wide range of compounds, including antibiotics from several structurally unrelated classes [
+       ]. Efflux pumps have been classified in five superfamilies, namely: ATP-binding cassette, small multidrug resistance, major facilitator, resistance-nodulation-division (RND), and multidrug and toxic compound extrusion. PAO1 genome encodes multiple efflux pumps from all five superfamilies, but the resistance-nodulation-division (RND) type is the most prevalent [
+       ,
+       ]. The four most important RND efflux pumps are MexAB-OprM, MexCD-OprJ, MexEF-OprN, and MexXY/OprM(OprA). There are other forms of multidrug efflux pumps, but they are not expressed in wild-type strains, albeit they may contribute to adaptive resistance such as MexJK, MexGHI-OpmD, MexVW, MexPQ-OpmE, MexMN, and TriABC [
+       ]. It was demonstrated that the MexEF-OprN and MexGHI-OpmD sets can modulate QS systems by exporting the quinolone signalling molecule PQS, reducing its concentration and, consequently, reducing the production of the virulence factors, which favours the establishment of chronic infections [
+       ]. The pumps consist of three components: an efflux transporter in the inner membrane, an outer membrane channel, and an accessory protein connecting the two in the periplasm. In this complex, the inner membrane protein captures the substrates from either the phospholipid bilayer in the inner membrane of the bacterial cell envelope or the cytoplasm and transports them into the extracellular medium via the outer membrane protein. The cooperation between these proteins is mediated by a periplasmic protein [
+       ].
+      </p>
+      <p>
+       Another intrinsic resistance determinant in
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       is the inducible
+       <italic toggle="yes">
+        ampC
+       </italic>
+       gene, encoding the hydrolytic enzyme β-lactamases [
+       ]. β-lactamases can be divided into four classes, on the basis of their amino acid sequences: A, B, C, and D. Class B β-lactamases are metalloenzymes that require divalent zinc ions for β-lactam hydrolysis. On the other hand, classes A, C, and D hydrolyse β-lactams through an active site serine [
+       ]. The expression of β-lactamase AmpC confers a low level of resistance to aminopenicillins and most cephalosporins strongly induce the production of AmpC, which consequently hydrolyses these substrates [
+       ]. In wild-type basal expression of
+       <italic toggle="yes">
+        ampC
+       </italic>
+       , during normal cell wall recycling, 1,6-anhydromuropeptides are removed from the cell wall and transported into the cytoplasm via the AmpG permease. The 1,6-anhydromuropeptides are cleaved by AmpD to generate free tripeptides, which are later converted into UDP-MurNAc-pentapeptides. This UDPMurNAc-pentapeptide interacts with AmpR bound to the
+       <italic toggle="yes">
+        ampR-ampC
+       </italic>
+       intergenic region, creating a conformation that represses transcription of
+       <italic toggle="yes">
+        ampC
+       </italic>
+       , resulting in lower production of AmpC [
+       ]. In the presence of a β-lactam antibiotic, it enters the periplasmic space through the outer membrane porins and interacts with specific PBPs. Because of the increase in 1.6-anhydromuropeptides pools, AmpD is unable to efficiently process the higher levels of those fragments. Anhydro-MurNAc peptides replace UDP-MurNAc-pentapeptides and then bound to AmpR, resulting in a conformational change in the protein. AmpR is converted to a transcriptional activator,
+       <italic toggle="yes">
+        ampC
+       </italic>
+       is expressed at higher levels leading to the increase of AmpC in the periplasmic space [
+       ,
+       ]. AmpC, being a β-lactamase, interacts with the antibiotic leading to its degradation.
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       , through the acquisition of ESBL genes, can also produce extended-spectrum-β-lactamases (ESBLs)which confer a high degree of resistance to the majority of β-lactam antibiotics, including penicillins and cephalosporins [
+       ].
+      </p>
+      <p>
+       Antimicrobial peptides (AMPs) are also promising models for the development of new antibiofilm drugs. To date, more than 3000 natural AMPs have been isolated and characterized have been isolated and characterized [
+       ]. Natural and artificially synthesized AMPs can be a gold mine for the development of new antimicrobial agents [
+       ]. Due to their mechanism of action, which depends on the permeabilization of bacterial membranes, AMPs exhibit numerous advantages such as: (1) broad-spectrum activity; (2) low tendency to induce resistance and (3) high potential to target metabolically dormant cells that are found at a high rate within microbial biofilms [
+       ]. There are numerous AMPs that have already been studied for their antimicrobial activity. Example, HBD2 (human beta-defensin 2), in nanomolar concentrations, and regardless of its chiral status, significantly reduces biofilm formation in
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       without affecting its metabolic activity. This reduction in biofilm formation adds importance to the role of HBD2 in innate host defense during the initial interaction between host and pathogen [
+       ]. Another study performed with semi-synthetic peptide lin-SB056-1 and its dendrimeric derivative (lin-SB056-1)2-K demonstrated that lin-SB056-1 was effective in reducing
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       biofilm formation and that the dimeric derivative (lin-SB056-1) 2-K demonstrated greater biofilm inhibitory activity compared to lin-SB056-1 [
+       ]. Analogs of jelleine-1, another AMP, were synthesized for their study of antimicrobial functions and toxicity. However, jelleine-1 has been shown to have low antimicrobial potency against the gram-negative and gram-positive bacteria tested. In order to overcome this obstacle, an attempt was made to replace amino acids in order to make it more effective. It was shown that the introduction of Trp and Arg in the jelleine-1 sequence significantly increased its antimicrobial efficiency [
+       ]. Although more studies are needed for this AMP, it is a potential candidate for the treatment of gram-negative bacterial infection.
+      </p>
+      <p>
+       It was recently understood that
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       has the ability to alter its membrane under phosphorus stress conditions and, consequently, the fight against antibiotics such as polymyxin B is more effective. Basically, glycerophospholipids are the main lipids that form a membrane lipid bilayer in bacteria. Under phosphorus limiting conditions,
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       produces surrogate glycolipids in order to replace phospholipids in response to this limitation. This lipid renovation pathway is strictly conserved in all
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       strains. As a result of this membrane renewal, there is a trade-off in terms of antibiotic resistance. These membrane-added glycolipids can protect the bacteria from attacks by cationic antimicrobial peptides, highlighting a new mechanism of resistance to polymyxin B [
+       ].
+      </p>
+     </sec>
+     <sec id="sec4dot3dot2-ijms-22-12892">
+      <title>
+       4.3.2. Acquired Resistance
+      </title>
+      <p>
+       Although there is intrinsic resistance to certain antibiotics without prior exposure to antibiotics, acquired resistance is a consequence of antibiotic exposure, which leads to the selection of chromosomal genetic mutations or horizontal acquisition of genetic elements (plasmids, transposons, among others) [
+       ]. For example, plasmids do not harbor essential genes for bacterial functioning under normal conditions, but contain genes that are advantageous for bacterial growth and multiplication under unfavorable conditions, such as the antibiotic resistance genes, heavy metal resistance, and virulence genes [
+       ]. However, plasmid typing in
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       is particularly complicated due to insertion, deletion, co-integration, and exchange events that determine a low phylogenetic agreement between plasmid core genes [
+       ]. Although acquisition of resistance genes is not as common in
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       as in many other bacteria, it has been shown to acquire plasmid-encoded carbapenemases (single metallo- β-lactamases) that can hydrolyse most β-lactams, including carbapenems [
+       ]. Lopatkin and collaborators demonstrated that reducing antibiotic use alone is not enough to combat antibiotic resistance, as plasmids are transferred at high rates even in the absence of antibiotic selection [
+       ]. Horizontal gene transfer occurs by transformation, transduction, and conjugation. It is an important means for bacteria to acquire several resistance genes from their counterparts, as is the case of acquisition of resistance to aminoglycoside, fluoroquinolones, and β-lactam resistance genes [
+       ]. Resistance to colistin (polymyxin E), an antibiotic that belongs to the polymyxin family, can be plasmid-mediated through mobilization of the
+       <italic toggle="yes">
+        mcr
+       </italic>
+       -
+       <italic toggle="yes">
+        1
+       </italic>
+       gene [
+       ].
+      </p>
+      <p>
+       Interference with antibiotic targets is also a common strategy that bacteria use to prevent the action of antibiotics. For instance, modification of quinolone target sites is one such resistance mechanism. Quinolones inhibit bacterial DNA replication by targeting DNA gyrase and topoisomerase IV. When mutations in the
+       <italic toggle="yes">
+        gyrA-gyrB
+       </italic>
+       and
+       <italic toggle="yes">
+        parC-parE
+       </italic>
+       genes (encoding DNA gyrase and topoisomerase IV, respectively) occur, there is a decrease in the binding affinity of the encoded proteins to quinolones, resulting in greater resistance to these antibiotics in
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       [
+       ].
+      </p>
+      <p>
+       In
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       , one of the acquired resistance mechanisms is resistance to carbapenems, which involves mutations that lead to loss (by a mutation in the
+       <italic toggle="yes">
+        oprD
+       </italic>
+       gene itself or in one of its regulatory proteins, such as mexT) or reduction in the production of the OprD specific outer membrane porin channel [
+       ]. Mutations in the
+       <italic toggle="yes">
+        mexT
+       </italic>
+       gene not only reduce OprD expression but also increase MexEF-OprN expression, leading to higher resistance to imipenem and antibiotics that are substrates for this pump [
+       ].
+      </p>
+      <p>
+       Another well-studied mechanism of acquired resistance in
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       is the mutations that cause overexpression of enzymes that inactivate antibiotics [
+       ]. In clinical isolates of
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       , AmpC overexpression was mostly associated
+       <italic toggle="yes">
+        ampC
+       </italic>
+       gene mutations, a gene encoding the
+       <italic toggle="yes">
+        ampC
+       </italic>
+       repressor. This led to the hyperproduction of β-lactamases and consequently, greatly increased resistance to cephalosporins [
+       ,
+       ].
+      </p>
+     </sec>
+     <sec id="sec4dot3dot3-ijms-22-12892">
+      <title>
+       4.3.3. Adaptive Resistance
+      </title>
+      <p>
+       Unlike other types of resistance, adaptive resistance depends on growth circumstances that trigger regulatory events in the cell, and susceptibility usually reverses when inducing conditions are removed. Adaptive resistance is basically induced by environmental stresses and by the presence of specific antibiotics [
+       ]. In
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       , the best characterized adaptive resistance mechanism is biofilm formation, associated with the development of resistance to polymyxins, aminoglycoside, and cationic antimicrobial peptides [
+       ]. It is already known that biofilm-producing bacteria are more resistant to antimicrobial agents and to the host’s immune response compared to other bacteria [
+       ]. For example, eDNA, in addition to being a major component of the
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       biofilm matrix, also has the ability to acidify the cellular environment, changing membrane permeability and causing structural changes in the lipid A of LPS, leading to different responses to antimicrobials like colistin or to other polymyxins [
+       ].
+      </p>
+     </sec>
+     <sec id="sec4dot3dot4-ijms-22-12892">
+      <title>
+       4.3.4. The Case of Multiple Colistin Response Mechanisms
+      </title>
+      <p>
+       Polymyxin is a peptide antibiotic composed of five chemically different compounds (polymyxins A-E). In clinical practice, only polymyxin B and polymyxin E (colistin) are used [
+       ]. For the treatment of some infections, colistin alone is still an effective antibiotic [
+       ]. This antibiotic is used in human medicine, but it has also been widely used in veterinary medicine for the treatment of various infections or in farm animal production, to aid their growth [
+       ,
+       ]. Since 2006 the use antibiotics as growth promoters is no longer allowed in the European Union [
+       ].
+      </p>
+      <p>
+       Colistin is polycationic and has both hydrophilic and lipophilic moieties. It causes destabilization of the outer membrane, leading to pore formation, thus increasing membrane permeability [
+       ]. Colistin, which is positively charged, binds through electrostatic interaction to the negatively charged phosphate groups of lipid A subunits present in the structure of lipopolysaccharide (LPS) [
+       ]. The initial binding to an anionic LPS component displaces divalent calcium cations (Ca
+       ) and magnesium (Mg
+       ) in a competitive way, damaging the LPS three-dimensional structure. It is subsequently inserted at the hydrophobic terminal acyl fat chain, the external outer membrane (OM) monolayer is thus expanded, and membrane permeability is increased [
+       ].
+      </p>
+      <p>
+       Colistin resistance mechanisms can be accounted for by many different mechanisms [
+       ,
+       ]. The transmissibility of a plasmid that contains the colistin resistance gene (
+       <italic toggle="yes">
+        mcr-1
+       </italic>
+       ) is one of the resistance mechanisms adopted by
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       [
+       ]. The fast dissemination of this resistance gene may be due to the recurrent use of colistin in veterinary medicine, which has consequently accelerated the dissemination between animals and humans [
+       ].
+      </p>
+      <p>
+       Overall, two main mechanisms of resistance to colistin in
+       <italic toggle="yes">
+        P. aeruginosa
+       </italic>
+       are chromosomal mutation and adaptation. Resistance caused by the chromosomal mutation is hereditary and is independent of the presence of antibiotics. One such example is the overexpression of efflux pumps (MexAB-OprM and MexXY-OprM), which are expressed in wild-type cells and contribute to the intrinsic resistance of several antibiotics [
+       ].
+      </p>
+      <p>
+       In
+       <italic toggle="yes">
+        P. aeruginosa,
+       </italic>
+       adaptive resistance to colistin occurs when extracellular concentrations of divalent cations Ca
+       and Mg
+       are limited and is controlled by the two-component regulators PmrA-PmrB and PhoP-PhoQ (
+       ) [
+       ,
+       ]. The PhoP/PhoQ system is a global regulatory system that autoregulates the
+       <italic toggle="yes">
+        oprH-phoP-phoQ
+       </italic>
+       operon when there is a limitation of divalent cations in the environment. PhoP phosphorylation increases the transcription of several genes, such as
+       <italic toggle="yes">
+        pmrD
+       </italic>
+       , whose product binds to PmrA, when in the phosphorylated state [
+       ]. In the PmrA/PmrB, the
+       <italic toggle="yes">
+        pmrA/B
+       </italic>
+       also directly controls the
+       <italic toggle="yes">
+        arnBCADTEF
+       </italic>
+       (also called
+       <italic toggle="yes">
+        pmrHFIJKLM
+       </italic>
+       ) and
+       <italic toggle="yes">
+        pmrCAB
+       </italic>
+       operons, involved in LPS modification. The
+       <italic toggle="yes">
+        pmrCAB
+       </italic>
+       operon encodes PEtN and the
+       <italic toggle="yes">
+        arnBCADTEF
+       </italic>
+       encodes the enzymes for covalent addition of 4-amino-4-deoxy-L-arabinose (L-Ara4N) to lipid A. After binding to lipid A, changes in the negative charge of the cell membrane take place, due to neutralization of the negatively charged phospholipids [
+       ,
+       ,
+       ]. Regardless of the characterization of these loci, the evolutionary dynamics of colistin resistance is still poorly understood and the adaptive mutations reported to date are probably incomplete [
+       ].
+      </p>
+     </sec>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec5-ijms-22-12892" sec-type="conclusions">
+    <title>
+     5. Conclusions
+    </title>
+    <p>
+     This review clearly demonstrates the threat that
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     represents to public health. Although many of the mechanisms and features of the metabolism of
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     are still far from being fully understood, which constitutes an obstacle to build proper strategies to fight this problematic. It is true that the search for new antibiotics is at the heart of the solutions to achieve this, but researchers must also bear in mind that bacteria are, in general, fully armed and are adaptive organisms. Therefore, the problem should not be addressed only by the discovery of new antibiotics. That being said, all characteristics involving virulence and pathogenicity should also be addressed, taking into account the specific metabolic pathways that have an impact on the virulence of each organism. Secretion systems are proteins that allow the release of effector molecules, such as toxins, but also of proteins such as elastases, lipases, and proteases that can degrade molecules in the environment to release essential nutrients for the bacteria. In
+     <italic toggle="yes">
+      P. aeruginosa
+     </italic>
+     , biofilm formation and resistance to antimicrobial agents are important for the ability to establish infections and cause disease in humans and animals. All these mechanisms are regulated by multiple regulatory systems such as the quorum sensing system, two-component systems, and nucleotide signals. Understanding where and how these systems are regulated can provide essential information for the control of this pathogen.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  PrtA immunization fails to protect against pulmonary and invasive infection by
+ </title>
+ <abstract>
+  <p id="Par1">
+   <italic>
+    Streptococcus pneumoniae
+   </italic>
+   is a respiratory pathogen causing severe lung infection that may lead to complications such as bacteremia. Current polysaccharide vaccines have limited serotype coverage and therefore cannot provide maximal and long-term protection. Global efforts are being made to develop a conserved protein vaccine candidate. PrtA, a pneumococcal surface protein, was identified by screening a pneumococcal genomic expression library using convalescent patient serum. The
+   <italic>
+    prtA
+   </italic>
+   gene is prevalent and conserved among
+   <italic>
+    S. pneumoniae
+   </italic>
+   strains. Its protective efficacy, however, has not been described. Mucosal immunization could sensitize both local and systemic immunity, which would be an ideal scenario for preventing
+   <italic>
+    S. pneumoniae
+   </italic>
+   infection.
+  </p>
+  <p id="Par2">
+   We immunized BALB/c mice intranasally with a combination of a PrtA fragment (amino acids 144–1041) and Th17 potentiated adjuvant, curdlan. We then measured the T-cell and antibody responses. The protective efficacy conferred to the immunized mice was further evaluated using a murine model of acute pneumococcal pneumonia and pneumococcal bacteremia.
+  </p>
+  <p id="Par3">
+   There was a profound antigen-specific IL-17A and IFN-γ response in PrtA-immunized mice compared with that of adjuvant control group. Even though PrtA-specific IgG and IgA titer in sera was elevated in immunized mice, only a moderate IgA response was observed in the bronchoalveolar lavage fluid. The PrtA-immunized antisera facilitated the activated murine macrophage, RAW264.7, to opsonophagocytose
+   <italic>
+    S. pneumoniae
+   </italic>
+   D39 strain; however, PrtA-specific immunoglobulins bound to pneumococcal surfaces with a limited potency. Finally, PrtA-induced immune reactions failed to protect mice against
+   <italic>
+    S. pneumoniae-
+   </italic>
+   induced acute pneumonia and bacterial propagation through the blood.
+  </p>
+  <p id="Par4">
+   Immunization with recombinant PrtA combined with curdlan produced antigen-specific antibodies and elicited IL-17A response. However, it failed to protect the mice against
+   <italic>
+    S. pneumoniae
+   </italic>
+   -induced infection.
+  </p>
+  <p>
+   The online version of this article (10.1186/s12931-018-0895-8) contains supplementary material, which is available to authorized users.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="Sec1">
+    <title>
+     Background
+    </title>
+    <p id="Par12">
+     <italic>
+      Streptococcus pneumoniae
+     </italic>
+     is a gram-positive encapsulated coccus that generally colonizes the upper respiratory tract in humans without symptoms [     ]. However, it may cause community-acquired pneumonia and invasive infections owing to mucosal translocation, such as bacterial meningitis, bacteremia, and otitis media [     ,     ]. Therefore,
+     <italic>
+      S. pneumoniae
+     </italic>
+     remains the most common acute pneumonia-causing pathogen in infants and the elderly worldwide [     ,     ]. Not only is it a common cause of primary bacterial pneumonia,
+     <italic>
+      S. pneumoniae
+     </italic>
+     also frequently causes secondary bacterial pneumonia following influenza virus infection, thus becoming the main cause of high mortality in adults [     ,     ].
+    </p>
+    <p id="Par13">
+     Considering
+     <italic>
+      S. pneumoniae
+     </italic>
+     ’s impact on morbidity and mortality, healthcare providers promote vaccination to prevent pneumococcal infection. PPSV23 and conjugate vaccines PCV10 and PCV13 are currently available for use as vaccines [     ,     ]. The unconjugated polysaccharide PPSV23 vaccine provides higher coverage of serotypes against pneumococci than the other vaccines, but it cannot be administered to infants owing to their underdeveloped immune system. The conjugated vaccine has reduced the occurrence of invasive pneumococcal diseases since PCV7 was introduced in 2000 [     ,     ]; however, cases of pneumococcal infections increased because of non-vaccine serotypes [     ,     ]. In fact, invasive diseases attributable to serotypes that are included in the current polysaccharide vaccines may still threaten the protective effect [     ]. Notably, capsular polysaccharide vaccines are less effective against acute otitis media and non-bacteremic pneumococcal pneumonia in adult populations [     ,     ], possibly due to capsule shedding in response to the epithelium during mucosal infection [     ]. Therefore, efforts are being made to develop vaccines containing highly conserved, immunogenic protein antigens, which are selected by immunoscreening with the patients’ sera [     ] or by reverse vaccinology [     ], among other approaches.
+    </p>
+    <p id="Par14">
+     PrtA, a cell wall-associated protein, was screened from convalescent patient serum after
+     <italic>
+      S. pneumoniae
+     </italic>
+     infection [     ] and was identified as a serine protease. The amino terminal of PrtA, containing catalytic domains, was highly conserved among 78 clinical pneumococcal isolates displaying 22 different serotypes, including the D39 strain [     ]. The deletion of the
+     <italic>
+      prtA
+     </italic>
+     in
+     <italic>
+      S. pneumoniae
+     </italic>
+     D39 reduced mortality at 36 h after intraperitoneal infection [     ] and alleviated lung inflammation at 48 h after intranasal infection [     ]. Furthermore,
+     <italic>
+      prtA
+     </italic>
+     expression in
+     <italic>
+      S. pneumoniae
+     </italic>
+     could be induced during epithelial cell contact, pneumococcal bacteremia, and meningitis in infected mice [     ]. Although the immunogenicity, conservation, and virulence of PrtA have been reported, the efficacy of PrtA as a vaccine against pneumococcal infection has not been studied.
+    </p>
+    <p id="Par15">
+     The Th17 response is considered effective against
+     <italic>
+      S. pneumoniae
+     </italic>
+     infection. The intratracheal administration of recombinant IL-17A can stimulate the local release of MIP-2 and IL-1β, leading to the recruitment of polymorphonuclear leukocytes to the lungs [     ]. Th17 response also triggers the mucosal epithelium to generate anti-microbial peptides, which facilitate the elimination of mucosal pathogens [     ]. Mice lacking the IL-17A receptor, but not IFN-γ or IL-4 receptors, demonstrated decreased protection against
+     <italic>
+      S. pneumoniae
+     </italic>
+     [     ]. Thus, screening for Th17-based antigens is a feasible approach to select vaccine candidates that could reduce
+     <italic>
+      S. pneumoniae
+     </italic>
+     colonization [     ]. Adjuvants provide an alternative approach to support ideal vaccine candidates and develop appropriate cellular immunity.
+    </p>
+    <p id="Par16">
+     Curdlan is a linear and nonionic β-1,3-glucan isolated from the bacterium
+     <italic>
+      Alcaligenes faecalis
+     </italic>
+     . Due to its non-toxicity [     ,     ] and heat-based gel-forming capabilities [     ], curdlan has been approved as a food additive by the U.S. Food and Drug Administration. Curdlan is an agonist of Dectin-1, activating dendritic cells to induce Th17 differentiation [     ], along with being a strong inducer of Th17 response [     ]. Therefore, curdlan has been successfully adopted as a vaccine adjuvant against
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     pulmonary infection [     ], and lethal Candida infection [     ], among other infections [     ]. In the present study, we investigated the efficacy of PrtA immunization combined with curdlan to prevent
+     <italic>
+      S. pneumoniae
+     </italic>
+     infection. We used BALB/c mice to deliver the vaccine via the nasal route to trigger both local mucosal and systemic immune responses, we also checked the vaccines’
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec2">
+    <title>
+     Methods
+    </title>
+    <sec id="Sec3">
+     <title>
+      Bacterial strains and media
+     </title>
+     <p id="Par17">
+      <italic>
+       Escherichia coli
+      </italic>
+      strains DH5α and BL21 (DE3) were used for plasmid cloning and protein expression, respectively. The strains harboring plasmids were grown in Luria–Bertani medium supplemented with kanamycin (50 μg/ml).
+      <italic>
+       S. pneumoniae
+      </italic>
+      D39 (NCTC7466) was purchased from the National Collection of Type Cultures (London, UK), and
+      <italic>
+       S. pneumoniae
+      </italic>
+      TIGR4 (ATCC BAA-334) was obtained from American Type Culture Collection (Manassas, VA, USA).
+      <italic>
+       S. pneumoniae
+      </italic>
+      strains were cultured at 37 °C in 5% CO
+      <sub>
+       2
+      </sub>
+      in Todd–Hewitt broth supplemented with 0.5% yeast extract (THY) until mid-log phase for the bacterial challenge, and on sheep-blood agar plates for bacterial load examination after infection.
+     </p>
+    </sec>
+    <sec id="Sec4">
+     <title>
+      Construction of expression vector
+     </title>
+     <p id="Par18">
+      The gene encoding a PrtA fragment (amino acids 144–1041) was cloned into plasmid pET29a using the primer pair F1-AATCGAGCTCCTATCCAATC and R1-TGAGCCTCGAGAGGATTTCC to construct pET-PrtA105-His. The underlined primer sequences were modified to obtain appropriate restriction sites. To generate recombinant PrtA with dual tags, another primer pair, F2-AGGGTACCGTATTCATGTCC and R2-GCAGATCGTCAGTCAGTCAC, was used to clone DNA encoding glutathione S transferase (GST) from pGEX-4 T-1, which was inserted into pET-PrtA105-His to construct pET-GST-PrtA105-His.
+     </p>
+    </sec>
+    <sec id="Sec5">
+     <title>
+      Purification of recombinant proteins
+     </title>
+     <p id="Par19">
+      <italic>
+       E. coli
+      </italic>
+      BL21 (DE3) was transformed with an expression vector. Protein expression was induced in the exponential phase [optical density (OD) at 600 nm = 1] using 1 mM isopropyl β-D-1-thiogalactopyranoside (IPTG). At 3 h after induction, the bacteria were harvested and resuspended in lysis buffer [20 mM Tris (pH 8.0), 5 mM imidazole, 500 mM NaCl, 10% glycerol, 1% Triton X-100, 1 mM phenylmethylsulfonyl fluoride, 1× protease inhibitor cocktail (Roche)], followed by sonication on ice. The recombinant protein PrtA105-His (PrtA1) was purified using Ni-NTA resin (GE Healthcare) according to the manufacturer’s instructions. The other recombinant protein, GST-PrtA105-His (PrtA2), was further purified with glutathione-Sepharose® 4B (Millipore). Lipopolysaccharide (LPS) contamination was reduced by using 0.1% Triton X-114 in the washing step [      ]. The residual LPS was less than 1 EU/μg protein, as determined by a ToxinSensor™ Gel Clot Endotoxin Assay Kit (GenScript).
+     </p>
+    </sec>
+    <sec id="Sec6">
+     <title>
+      Mice
+     </title>
+     <p id="Par20">
+      BALB/c mice used in the immunization and challenge experiments were purchased from the National Laboratory Animal Center, NARLabs, Taiwan.
+     </p>
+    </sec>
+    <sec id="Sec7">
+     <title>
+      Mice immunization
+     </title>
+     <p id="Par21">
+      Male mice (3–4 weeks old) were treated intranasally with 8 μg recombinant PrtA1 combined with 0.2 mg curdlan (Sigma) in 20 μl phosphate-buffered saline (PBS) once a week for 3 weeks under anesthesia (intramuscular injection of 40 μl PBS containing Zoletil 50 and 1% Rompun®). One week after the last immunization, mice were restrained to collect saliva before sacrificing them to collect nasal washes, sera, bronchoalveolar lavage fluid (BALF), and spleens.
+     </p>
+     <p id="Par22">
+      For PPSV23 vaccination, Pneumovax®23 (Merck &amp; Co., Inc.) vaccines were 10      diluted in saline, and 100 μl was injected intraperitoneally into five-week-old mice. Booster immunizations were administered after 2 weeks.
+     </p>
+    </sec>
+    <sec id="Sec8">
+     <title>
+      Identification of CD4      T cell subsets
+     </title>
+     <p id="Par23">
+      CD4      T cell subsets (Th1 [IFN-γ-producing CD4      T cells], Th2 [IL-4-producing CD4      T cells], and Th17 [IL-17A-producing CD4      T cells]) were identified by intracellular cytokine staining. To estimate the total effector T cell ratio, splenocytes (2 × 10      cell/ml) were seeded in 24-well plates and stimulated with phorbol 12-myristate13-acetate (PMA) (20 ng/ml) and ionomycin (1 μM) for 6 h while incubating with 4 μM monensin. The antibodies used were FITC-anti-IFN-γ (XMG1.2), PE-anti-IL-4 (11B11), APC-anti-CD4 (RM4–5) (eBioscience), and PE-anti-IL-17A (TC11-18H10) (BD Biosciences). Intracellular staining was performed after treatment with permeabilization buffer (eBioscience) containing 0.1% saponin according to the instructions provided by eBioscience, and the effector T cell ratio was analyzed by flow cytometry using a FACSCalibur™ (BD Biosciences).
+     </p>
+    </sec>
+    <sec id="Sec9">
+     <title>
+      PrtA-specific cytokine responses
+     </title>
+     <p id="Par24">
+      Splenocytes were prepared and seeded at 4 × 10      /well using ten wells of a 96-well plate. Recombinant PrtA2 was added at 10 μg/ml and incubated for 48 h. Then, the supernatants were pooled and stored at − 80 °C until use. The cytokine levels were measured using a DuoSet® ELISA (enzyme-linked immunosorbent assay) Development System (R&amp;D Systems).
+     </p>
+    </sec>
+    <sec id="Sec10">
+     <title>
+      PrtA-specific antibody titers
+     </title>
+     <p id="Par25">
+      PrtA-specific isotype antibody titers were measured in the sera, saliva, nasal washes, and BALF, as described previously [      ,      ]. In brief, a 96-well plate was coated with 100 ng/50 μl PrtA2 in PBS and incubated overnight at 4 °C. After blocking with a 50 μl blocking buffer [0.5% bovine serum albumin (BSA), 0.05% Tween-20, and 1 mM EDTA in PBS], 50 μl of twofold serially diluted samples were added and incubated at room temperature for 2 h. Following three washes, horseradish peroxidase-labeled goat anti-mouse IgG or rat anti-mouse IgA (Southern Biotech) was added, and the plate was incubated at room temperature for 2 h. The color was developed using tetramethylbenzidine (Science Products, Inc.). The endpoint titer was expressed as the reciprocal log
+      <sub>
+       2
+      </sub>
+      of the last dilution that gave an OD of 0.1 or 0.2 at 450 nm for IgG and IgA, respectively.
+     </p>
+     <p id="Par26">
+      To analyze the titers of PrtA-specific IgG subclasses, modified mouse Ig isotyping ELISA was used. Slightly, diluted rat anti-mouse Ig isotype antibodies (1 × 10      ; IgG1, IgG2a, IgG2b, and IgG3) (Affymetrix, eBioscience) were used to detect the levels of PrtA-bound IgG subclasses in 96-well plates as described earlier. HRP-labeled donkey anti-rat Ig antibodies (Jackson ImmunoResearch) were pre-adsorbed with 2% nonimmune mouse sera to minimize the cross-reaction.
+     </p>
+    </sec>
+    <sec id="Sec11">
+     <title>
+      Detection of PrtA on pneumococcal surfaces using vaccinated mouse sera
+     </title>
+     <p id="Par27">
+      <list list-type="simple">
+       <list-item>
+        <label>
+         A.
+        </label>
+        <p id="Par28">
+         Flow cytometry assay
+        </p>
+       </list-item>
+      </list>
+     </p>
+     <p id="Par29">
+      Bacteria cultured from stock for less than 13 h were diluted 1:50 in THY broth and cultured until the mid-log phase. Next, 1 ml bacterial broth was centrifuged and resuspended in filtered PBS containing 1% BSA. PrtA was detected using vaccinated mouse sera (1:20 dilution) by incubating at 37 °C for 20 min. The mouse sera collected from adjuvant-treated littermates were used as controls. The pneumococcal surface-bound Ig was detected using FITC-anti-mouse IgG antibody (eBioscience) and was analyzed by flow cytometry using a FACSCalibur™. Anti-cell wall polysaccharide (CWPS) antisera (SSI Diagnostica) were diluted 1:100 to interact with D39 cells as another control. Surface-bound Ig was identified using FITC-anti-rabbit IgG antibody (BD).
+      <list list-type="simple">
+       <list-item>
+        <label>
+         B.
+        </label>
+        <p id="Par30">
+         Immunofluorescence assay
+        </p>
+       </list-item>
+      </list>
+     </p>
+     <p id="Par31">
+      <italic>
+       S. pneumoniae
+      </italic>
+      D39 cells were labeled with 0.5 mg/mL FITC, as described previously [      ,      ], and were resuspended in PBS. The whole-cell immunofluorescence assay was performed according to the method published by Jose et al. [      ] with slightly modification. The cells dried on the round coverslips were first fixed with 4% paraformaldehyde for 20 min and then washed by PBS for three times. After blocking with 3% BSA in PBS, FITC-labeled D39 cells were incubated with 1/150 diluted antisera at room temperature for 1 h. The pneumococcal surface-bound Ig was identified using DyLight™ 649-conjugated anti-mouse IgG antibody (1:150) (BioLegend) or Cy5-anti-rabbit IgG antibody (Abcam) (1:150), and then was visualized using immunofluorescence microscopy with DeltaVision™ Elite.
+     </p>
+    </sec>
+    <sec id="Sec12">
+     <title>
+      Opsonophagocytosis assay
+     </title>
+     <p id="Par32">
+      The opsonophagocytosis assay was performed according to the method published by Martinez et al. [      ], by using murine RAW264.7 macrophages. An aliquot of 20 μl of bacterial suspension containing 8 × 10      CFU FITC-labeled D39 cells was mixed in a 96-well round bottom plate with 1:1 serially diluted antiserum from the vaccinated mice. The plate was incubated at 37 °C for 30 min with shaking at 200 rpm. Opsonized bacterial cells were then co-cultivated with RAW264.7 macrophages in 24-well plates, that were activated with 100 nM PMA for 3 days. The opsonophagocytosis was conducted at 37 °C for 30 min with shaking at 200 rpm. The bacterial cells were then washed twice with cold PBS, and RAW264.7 macrophages were detached with 2% EDTA in PBS. Extracellular FITC was quenched with 20 μg/ml trypan blue followed by flow cytometry analysis by using FACSCalibur™.
+     </p>
+    </sec>
+    <sec id="Sec13">
+     <title>
+      Bacterial challenge of immunized mice
+     </title>
+     <p id="Par33">
+      Bacteria cultured overnight were diluted 1:50 in THY broth and cultured until the mid-log phase. Following washing with PBS, and the OD at 580 nm was adjusted to 3.0 before aliquots were stored at − 80 °C. The bacterial counts were estimated after plating. Mice with complete vaccinations were challenged with
+      <italic>
+       S. pneumoniae
+      </italic>
+      D39 on day 14 after the last boost. The mice were injected with 2.5 × 10      CFU of
+      <italic>
+       S. pneumoniae
+      </italic>
+      D39 in 100 μl PBS via the retro-orbital venous sinus or anesthetized and infected with 1–3 × 10      CFU of D39 in 40 μl PBS intranasally. Bacterial counts in the blood were monitored at 1–3 days after infection. Blood was collected by submandibular bleeding using a lancet. At 1–3 days after infection, the mice were sacrificed to remove the lungs, which were homogenized to examine bacterial load during acute infection. The humane endpoint was applied to the survival experiment to reduce distress to the animals. We monitored the health of the mice every 12 h for 6 days after the bacterial challenge. If the mice were found to experience labored breathing, lethargy, or inability to ambulate, then they were killed instead of letting them suffer and progress to the experimental endpoint.
+     </p>
+    </sec>
+    <sec id="Sec14">
+     <title>
+      Statistics
+     </title>
+     <p id="Par34">
+      Significant differences between groups were analyzed using Student’s
+      <italic>
+       t
+      </italic>
+      -test or Mann-Whitney test. The value indicated in the figures represents mean and standard deviation (SD). The survival rate was investigated using the Kaplan–Meier estimation, and the significance was evaluated by the log-rank test.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec15">
+    <title>
+     Results
+    </title>
+    <sec id="Sec16">
+     <title>
+      Expression and purification of the conserved amino terminal of PrtA
+     </title>
+     <p id="Par35">
+      The PrtA fragment containing the catalytic triad was cloned into the pET29a expression vector, and its expression was induced under an optimal IPTG concentration and temperature. The expressed PrtA1 recombinant protein was in-frame with the histidine (His) tag and purified using Ni-NTA resin. Additionally, a PrtA fragment in-frame with both the GST and His tags (PrtA2) was purified using Ni-NTA resin and glutathione-Sepharose 4B. The molecular weight of PrtA1 and PrtA2 were approximately 105 and 130 kDa, respectively (Fig.      ). PrtA2 had a higher purity than PrtA1. However, PrtA2 yield dramatically decreased after complete purification. Thus, PrtA1 was used for vaccination and PrtA2 was used to analyze the antigen-specific immune response in vitro.
+     </p>
+    </sec>
+    <sec id="Sec17">
+     <title>
+      PrtA1 vaccination elicited an antigen-specific cellular immune response
+     </title>
+     <p id="Par36">
+      IL-17A is crucial in the pulmonary defense of a host, therefore, the PrtA1 immunogen was combined with curdlan to induce a strong IL-17A response when administered intranasally [      ]. Since pulmonary pneumococcal infection still threatens neonates and infants in a clinical setting, immunization was induced in infant mice (3–4 weeks old) to evaluate the efficacy of vaccination. After exposure to the immunogen on three occasions, the immune response was determined 1 week after the last immunization.
+     </p>
+     <p id="Par37">
+      After three rounds of immunization, vaccine-sensitized splenocytes were treated with PMA and ionomycin to determine whether immunization with PrtA1 combined with curdlan (PrtA1/curdlan) could activate effector T cells. PrtA1/curdlan did not increase the proportion of Th1 nor Th2 cells within the total number of CD4 T cells. However, PrtA1/curdlan induced an increase in the number of Th17 cells by over twofold compared with the adjuvant control group (Fig.      ). Antigen-recall assay showed that the spleens belonging to the mice in the PrtA1/curdlan group exhibited higher levels of antigen-specific Th17 cells than those of the mice in the adjuvant control group (Fig.      ). After recombinant PrtA protein stimulation in vitro for 48 h, the splenocytes belonging to the PrtA1/curdlan immunization group showed a higher potential to produce antigen-specific IL-17A than those belonging to the adjuvant control group (Fig.      ). Although in vitro stimulation of PrtA did not recall a high percentage of IFN-γ-positive CD4      effector T cells (Fig.      ), it triggered PrtA1/curdlan-immunized splenocytes to produce high levels of antigen-specific IFN-γ (Fig.      ). In contrast, PrtA1/curdlan immunization did not induce antigen-specific Th2 cells (Fig.      ). For the reason that the levels of PrtA-specific IL-4/IL-13 production by splenocytes were lower than the assay’s limit of detection, we measured IL-4/IL-13 levels after the splenocytes were treated with anti-CD3/CD28 antibodies for 24 h. The levels of both IL-4 and IL-13 produced by the splenocytes of mice belonging to the PrtA1/curdlan-immunized and adjuvant control groups were similar (Fig.      ). Splenocytes from the mice immunized with PrtA1 alone produced undetectable levels of PrtA-responsive cytokines (data not presented). This indicates that curdlan induced PrtA to produce antigen-specific IL-17A and IFN-γ, but not Th2 response.
+     </p>
+    </sec>
+    <sec id="Sec18">
+     <title>
+      PrtA induced an antigen-specific humoral response
+     </title>
+     <p id="Par38">
+      To assess the antibody response after PrtA immunization, sera and mucosal secretions (BALF, nasal washes, and saliva) were collected from the mice to measure PrtA-specific IgG and IgA responses. The anti-PrtA IgG titer in the sera and BALF was significantly higher after immunization with PrtA1/curdlan than that of the adjuvant control group and PrtA1-only group (Fig.      ). This indicated that curdlan supplementation improved the PrtA-specific IgG titers in the sera and BALF. The PrtA-specific IgA titer also increased markedly in the sera when it was combined with curdlan. Mucosal secretions, saliva, and nasal washes showed higher PrtA-specific IgA titers for the immunized mice than the control mice; however, the IgA titer did not increase in BALF (Fig.      ). The titers of the IgG subclasses after immunization were also measured and showed that PrtA-specific IgG1, IgG2a, IgG2b, and IgG3 titers of PrtA1/curdlan-immunized mice increased significantly (Fig.      ).
+     </p>
+     <p id="Par39">
+      To check whether the PrtA-specific antibody could bind to the surface of
+      <italic>
+       S. pneumoniae
+      </italic>
+      cells,
+      <italic>
+       S. pneumoniae
+      </italic>
+      strains D39 and TIGR4 were incubated with the sera from immunized mice and IgG binding was evaluated using an anti-mouse IgG-FITC antibody. The sera from PrtA1/curdlan-immunized mice showed that the PrtA-specific antibody bound to the surface of D39 cells [serotype 2] and not TIGR4 cells [serotype 4]; the sera from adjuvant control group failed to elicit antibodies specific to the bacterial cells (Fig.      ). However, the anti-PrtA antisera did not interact with the entire pneumococcal population. We used an anti-cell wall polysaccharide antibody (anti-CWPS antisera, SSI Diagnostica) to rule out the possibility that the bacterial capsule impeded with the binding of the bacterial cells to the antigen-specific antibody. It showed that the anti-CWPS antisera could access the target cells independent of the capsular serotype with more than 90% of conjugation on the whole population (Fig.      ). These results indicated that although PrtA immunization elicited antigen-specific antibodies, PrtA-immunized antisera selectively bound to the surface of the pneumococcal cells with limited potency.
+     </p>
+    </sec>
+    <sec id="Sec19">
+     <title>
+      PrtA-specific antisera facilitated opsonophagocytosis of
+      <italic>
+       S. pneumoniae
+      </italic>
+     </title>
+     <p id="Par40">
+      We further checked the efficacy of PrtA1/curdlan-immunized antisera in assisting the opsonophagocytosis of FITC-labeled D39 cells. The capability of immunized antisera-opsonized bacterial cells was first accessed with immunofluorescence assay. It showed that PrtA-specific antisera potentiated opsonization of the D39 cells, while adjuvant control antisera bound to the D39 cell surface with little efficacy (Fig.      ). The PPSV23-immunized antisera were used as positive control and PBS-treated control antisera functioned as parallel negative control. Compared with PPSV23, antisera from PrtA-immunized mice revealed considerably weaker activity when bound to pneumococcal surfaces, suggesting that surface-bound Ig levels were lower in PrtA-antisera than in PPSV23-antisera. Although PrtA-immunized antisera could conjugate to D39 cell surface, the distribution of surface-bound Ig signal was not well correlated with that of FITC-labeled D39 cells (Additional file      ). In contrast, signals from capsule targeting Ig in PPSV23 antisera were well distributed and superimposed on where FITC signals (D39 cells) presented (Additional file      ). It suggested portion of bacterial cells eluding PrtA-specific Ig recognition, which was in accordance with the result of our flow cytometry assay (Fig.      ).
+     </p>
+     <p id="Par41">
+      We then co-cultivated the activated RAW264.7 macrophages and the opsonized bacterial cells with shaking to reduce non-specific interaction. It revealed that PrtA-immunized antisera facilitated the phagocytosis of D39 cells by the macrophages (Fig.      ) owing to its higher capability of opsonizing pneumococci compared with adjuvant control antisera. We found that the bacterial cells opsonized by PrtA-antisera could be ingested by the phagocytes as potently as by PPSV23-antisera regardless of the quantity of Ig on the surface of the bacterial cells (Fig.      ). This suggests phagocytes could clear opsonized bacterial cells with similar potency irrespective of the degree of Ig conjugation on the bacterial cell surface. The data indicates that intranasal immunization with PrtA1/curdlan triggered systemic humoral immune responses and facilitated opsonophagocytosis of
+      <italic>
+       S. pneumoniae
+      </italic>
+      cells
+      <italic>
+       .
+      </italic>
+     </p>
+    </sec>
+    <sec id="Sec20">
+     <title>
+      PrtA combined with curdlan immunization failed to protect against pneumococcal pneumonia and systemic invasion
+     </title>
+     <p id="Par42">
+      PrtA1/curdlan immunization induced high IgA titers in sera as well as nasal washes and also induced a higher level of PrtA-specific IL-17A production. Therefore, we tested the efficacy of PrtA immunization against pneumococcal pneumonia. BALB/c mice with complete immunizations were challenged with 1–3 × 10      CFU of
+      <italic>
+       S. pneumoniae
+      </italic>
+      D39 in 40 μl PBS via nasal administration. After 1–3 days of infection, bacterial colonization was examined by plating out the lung homogenates. Although PrtA immunization elicited a high IgG titer in the BALF, it did not promote D39 clearance in the lungs during acute infection (Fig.      ). The bacterial load in the blood was further examined, and there was no significant difference in the D39 count between the immunization group and adjuvant control group (Fig.      ). PrtA1/curdlan seemed to reduce the bacterial load in the infected lungs of the mice on day 3 and tended to alleviate the mucosal invasion; however, day 3 data might reveal a biased trend since some mice in both groups (four in curdlan group; three in PrtA1/curdlan group) died due to severe pneumonia or bacteremia at midnight, which were excluded in the experimental results. These data suggest that PrtA1/curdlan did not effectively protect the mice against
+      <italic>
+       S. pneumoniae
+      </italic>
+      -induced acute pneumonia and the resulting systemic invasion.
+     </p>
+    </sec>
+    <sec id="Sec21">
+     <title>
+      PrtA immunization failed to suppress blood propagation of
+      <italic>
+       S. pneumoniae
+      </italic>
+      cells
+     </title>
+     <p id="Par43">
+      Although PrtA1/curdlan immunization increased the PrtA-specific IgA titer in most mucosal secretions as shown earlier, the rising antibody titer in paired samples seemed to be insufficient in controlling bacterial burden in the respiratory tract. Because PrtA/curdlan immunization markedly increased antigen-specific IgG and IgA titers in the sera, we checked the protective efficacy against blood propagation of
+      <italic>
+       S. pneumoniae
+      </italic>
+      . D39 cells were injected intravenously into immunized and nonimmunized mice, and the bacterial load after infection as well as the approximative survival rate was ascertained to evaluate the vaccine efficacy. The bacterial burden in the blood of curdlan control mice increased from day 1 to day 2, whereas it was restrained in PrtA1/curdlan immunized mice (Fig.      ), suggesting that the PrtA-specific Ig potentiated bacterial clearance during the early infection phase. However, PrtA immunization did not increase the survival rate of mice compared with adjuvant control group or untreated mice (Fig.      ). Clinical PPSV23 vaccine was administered as the positive control, which protected the mice from lethality. PPSV23 prevented bacterial propagation via the blood from day 1 of infection, which was examined by the plating count (data not presented). Our results indicate that although PrtA1/curdlan immunization reduced bacterial load in the blood during the early phase of infection, it failed to alleviate the severity of pneumococcal bacteremia.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec22">
+    <title>
+     Discussion
+    </title>
+    <p id="Par44">
+     Overall results indicate that on one hand PrtA/curdlan immunization activated antigen-specific antibody and IL-17A response in the mice, but on the other, it failed to protect against pneumococcal pneumonia and invasive infection. PrtA mediates human apolactoferrin cleavage to yield an N-terminal lactoferricin-like peptide that is more efficient than apolactoferrin as a bactericide against
+     <italic>
+      S. pneumoniae
+     </italic>
+     [     ]. It suggested that human innate immunity provided defense against pneumococci with assistance from PrtA and considered PrtA inadequate as a vaccine candidate. It is unknown if mouse apolactoferrin is the PrtA substrate, but a
+     <italic>
+      prtA
+     </italic>
+     mutation reduced the virulence of
+     <italic>
+      S. pneumoniae
+     </italic>
+     in a murine pneumonia model [     ,     ,     ], thereby suggesting that it plays a pathogenic role.
+    </p>
+    <p id="Par45">
+     PrtA was selected using convalescent-phase serum [     ] and was considered an immunogen. Zysk et al. could not confirm the immunoreactivity of PrtA based on 45 serum samples from patients with invasive pneumococcal diseases [     ]. However, they used part of the
+     <italic>
+      prtA
+     </italic>
+     gene (nucleotides 330–1041) to express recombinant PrtA as an antigen and that it was highly hydrophobic indicated by TopPred 2 [     ]; thus it might not have been an ideal T or B cell receptor ligand in all patients. Another study also observed no significant difference in the anti-PrtA IgG titer in sera from acute and convalescent patients with pneumococcal bacteremia [     ]. They further indicated that anti-PrtA IgG titers were higher among healthy children with pneumococcal carriage [     ], thereby suggesting that higher antibody titers are insufficient against pneumococcal colonization. In the present study, immunization with recombinant PrtA generated anti-PrtA IgG that bound to the surface of D39 pneumococci but failed to mediate protection against pneumococcal pneumonia and blood stream invasion. It is well known that prior exposure to whole
+     <italic>
+      S. pneumoniae
+     </italic>
+     provides immunity against pneumococcal colonization, which depends on CD4     T cells and IL-17A, a neutrophil-activating cytokine [     ,     ]. This suggests that the IL-17A response aids vaccine efficacy. Curdlan is an agonist of dectin-1, which activates Syk-CARD9 signaling in dendritic cells to induce Th17 differentiation [     ]. As mentioned earlier, we saw that PrtA-specific IL-17A response was induced in the mice with curdlan as an adjuvant, but it did not protect against pneumococcal pneumonia. Curdlan has been previously shown to facilitate a conserved protein vaccine, PopB, in preventing
+     <italic>
+      P. aeruginosa
+     </italic>
+     -induced pneumonia [     ]. With the potency of Th17 stimulation, it is noteworthy to mention that PopB/curdlan could induce a 30-fold higher antigen-specific IL-17A response than PrtA/curdlan, as seen in the antigen-recall T cell activation assay. The distinct IL-17A responses induced by the vaccines used in this study, combined with curdlan, might be attributable to the innate properties of the immunogens along with the potency of being conjugated with curdlan. Curdlan retains antigen in the polymer microspheres via protein-polysaccharide interaction and is extensively used as an adjuvant. High retention of immunogens with curdlan-based support would be expected to provide ideal adjuvant activity. A high molecular weight tetanus anatoxin (150 kDa) has been previously shown to provide about 16-fold lower retention on curdlan than a low molecular weight lysozyme (14.6 kDa) [     ]. PrtA is 105 kDa in size which is self-evidently higher than the 40 kDa PopB, that the inefficiency of the IL-17A response induced by PrtA was probably attributable to the low retention on curdlan.
+    </p>
+    <p id="Par46">
+     Although PopB/curdlan confers higher protection against pulmonary infection, 40% lethality is still observed within 5 days [     ], which might be correlated with an antibody response that is ineffective suppressing bacterial propagation.
+     <italic>
+      S. pneumoniae
+     </italic>
+     D39 is a highly invasive, encapsulated strain with the ability to mediate antiphagocytosis [     ]. Clinical PPSV23 vaccine offered 100% protection to mice infected with D39 due to optimal antibody binding, which results in complement deposition or opsonophagocytosis leading to effective pneumococcal clearance. Examination of the protective efficacy of PrtA immunization by determination of the bacterial load in the blood after intravenous infection revealed that the PrtA1/curdlan immunized group, but not the adjuvant control group, restrained bacteria proliferation during the first 2 days (Fig.     ). However, it failed to protect against lethal bacteremia (Fig.     ). We determined the potency of PrtA-antisera bound to pneumococcal surfaces and found only a portion of the pneumococcal population was conjugated (Fig.     , Additional file     ), which might be the point of vulnerability leading to immune escape and disease progression.
+    </p>
+    <p id="Par47">
+     PrtA1/curdlan did not induce marked antigen-specific Th2 response, which was possibly attributable to Th1 skewing by curdlan modulation. Because Th1/2 imbalance could limit the antibody responses, we verified the efficacy of an alternative immunization with PrtA combined with traditional complete Freund’s adjuvant-incomplete Freund’s adjuvant (CFA-IFA), which was assumed to efficiently enhance global immune responses. When combined with CFA-IFA, PrtA immunization induced a considerably higher antigen-specific Th1 and Th2 response than did PrtA1/curdlan; Th17 induction was comparable with PrtA1/curdlan (Fig.     , Additional file     ). Although CFA-IFA facilitated Th2 activation, PrtA-specific antibody titers did not improve in the sera or mucosal secretions compared with PrtA1/curdlan (Fig.     , Additional file     ). Unlike the limited interaction of PrtA1/curdlan antisera with TIGR4 cells (Fig.     ), the antisera from PrtA/CFA-IFA-immunized mice could successfully recognize D39 as well as TIGR4 cells (Additional file     ), possibly because of the T-cell receptor repertoire induced by CFA-IFA [     ]. However, the potency of antigen-specific antibody conjugation on the pneumococcal cell surface was still limited (Additional file     ). Moreover, it failed to improve bacterial clearance from the blood and could not stop the progression of bacteremia (Additional file     ).
+    </p>
+    <p id="Par48">
+     The number of effective immunoglobulins from both PrtA-immunized antisera (PrtA/curdlan and PrtA/CFA-IFA) bound to pneumococcal cell surfaces was lower than that from PPSV23-immunized antisera (Additional file     ). This suggested that fewer epitopes on the pneumococcal cell surface were recognized by the PrtA-antisera than by PPSV23 antisera. Moreover, higher number of pneumococci were not conjugated by Ig in PrtA-antisera than in PPSV23 antisera, highlighting the imperfect reactivity of PrtA-antisera against the pneumococci due to population heterogeneity [     ,     ]. The inefficiency of PrtA/curdlan antisera was not different from that of PPSV23 antisera in the opsonophagocytosis assay (Fig.     ). It seemed that the ratio of bacterial cells opsonized by either PrtA- or PPSV23 antisera versus phagocytes in the assay could be large enough to ignore the proportion of bacterial cells eluding Ig recognition. These escaped pneumococci might have continued to replicate; thereby, breaching the infectivity threshold. This is in accordance with the outcome of the systemic invasion murine model, which restrained bacteria load in day 2 but could not stop the bacterial propagation and disease severity to the end of experiment. The mechanism underlying the variable expression of PrtA on the pneumococcal surface remains unclear, and if elucidated, might partly explain the failure of PrtA immunization against
+     <italic>
+      S. pneumoniae
+     </italic>
+     invasion.
+    </p>
+    <p id="Par49">
+     Although the PrtA/curdlan vaccine did not suppress pneumococcal invasion, we found that it tended to reduce the bacterial load in the lung after 3 days of infection, in addition to seemingly restricting the bacterial propagation during the early phase of blood invasion, despite the limited potency of the antibody response. We have previously found that BABL/c mice might not be suitable for evaluating vaccine efficacy because they are more resistant to
+     <italic>
+      S. pneumoniae
+     </italic>
+     infection than other mouse strains [     ]. Furthermore, a high dose of infection, which is needed to potentiate pneumococcal disease, could exceed the threshold of protection conferred by the PrtA/curdlan vaccine. This limitation might also partly explain the failure of the PrtA vaccine.
+    </p>
+    <p id="Par50">
+     Global efforts are being made to develop efficient protein vaccine candidates against
+     <italic>
+      S. pneumoniae
+     </italic>
+     . An effective mucosal Th2 response and IgA titer, in addition to antigen-specific Th17 are essential to prevent pneumococcal colonization of the lungs. A high titer of antigen-specific IgG and sufficient potency to bind to the surface of all bacteria in population, are critical to prevent pneumococcal invasion. Thus, the variable expression of selected pneumococcal vaccine candidates needs to be considered in the field.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="Sec23">
+    <title>
+     Conclusions
+    </title>
+    <p id="Par51">
+     Combining a PrtA fragment (amino acids 144–1041) with curdlan induced antigen-specific Th17 and antibody response in BALB/c mice after immunization. However, the PrtA/curdlan vaccine did not effectively protect the mice against acute pneumonia, along with failing to suppress pneumococcal propagation in the blood. The failure of the vaccine might be attributable to the limited potency of PrtA-specific antibodies bound to the pneumococcal cell surface.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="supplementary-material">
+    <title>
+     Additional files
+    </title>
+    <sec id="Sec24">
+     <p/>
+    </sec>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

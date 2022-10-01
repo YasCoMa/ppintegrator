@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  A global view of
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    Staphylococcus aureus
+   </italic>
+   , a leading cause of chronic or acute infections, is traditionally considered an extracellular pathogen despite repeated reports of
+   <italic>
+    S. aureus
+   </italic>
+   internalization by a variety of non-myeloid cells
+   <italic>
+    in vitro
+   </italic>
+   . This property potentially contributes to bacterial persistence, protection from antibiotics and evasion of immune defenses. Mechanisms contributing to internalization have been partly elucidated, but bacterial processes triggered intracellularly are largely unknown.
+  </p>
+  <p>
+   We have developed an
+   <italic>
+    in vitro
+   </italic>
+   model using human lung epithelial cells that shows intracellular bacterial persistence for up to 2 weeks. Using an original approach we successfully collected and amplified low amounts of bacterial RNA recovered from infected eukaryotic cells. Transcriptomic analysis using an oligoarray covering the whole
+   <italic>
+    S. aureus
+   </italic>
+   genome was performed at two post-internalization times and compared to gene expression of non-internalized bacteria. No signs of cellular death were observed after prolonged internalization of
+   <italic>
+    Staphylococcus aureus
+   </italic>
+   6850 in epithelial cells. Following internalization, extensive alterations of bacterial gene expression were observed. Whereas major metabolic pathways including cell division, nutrient transport and regulatory processes were drastically down-regulated, numerous genes involved in iron scavenging and virulence were up-regulated. This initial adaptation was followed by a transcriptional increase in several metabolic functions. However, expression of several toxin genes known to affect host cell integrity appeared strictly limited.
+  </p>
+  <p>
+   These molecular insights correlated with phenotypic observations and demonstrated that
+   <italic>
+    S. aureus
+   </italic>
+   modulates gene expression at early times post infection to promote survival.
+   <italic>
+    Staphylococcus aureus
+   </italic>
+   appears adapted to intracellular survival in non-phagocytic cells.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec>
+    <title>
+     Background
+    </title>
+    <p>
+     <italic>
+      Staphylococcus aureus
+     </italic>
+     is a versatile pathogenic bacterium capable of rapidly developing or acquiring multiple antibiotic resistances, and is now recognized as a worldwide health problem [
+     ].
+     <italic>
+      S. aureus
+     </italic>
+     is responsible for a wide spectrum of human and animal diseases, ranging from benign skin infections to severe diseases, such as arthritis, osteomyelitis, endocarditis or fatal sepsis [
+     ]. Acute infections are related to the organisms\ capacity to secrete a plethora of exotoxins [
+     ,
+     ] and catabolic enzymes [
+     ,
+     ], as documented previously in different experimental models of acute infections [
+     -
+     ].
+     <italic>
+      S. aureus
+     </italic>
+     is also responsible for chronic diseases such as osteomyelitis [
+     ], rhinosinusitis [
+     ], or otitis [
+     ]. These infections are difficult to eradicate and often relapse even after prolonged and adapted antibiotic therapy [
+     ,
+     ], suggesting that
+     <italic>
+      S. aureus
+     </italic>
+     has developed specific strategies for intracellular persistence. In addition, anti-infective agents commonly used for the treatment of
+     <italic>
+      S. aureus
+     </italic>
+     infections could enhance selection of invasive intracellular strains [
+     ].
+    </p>
+    <p>
+     In contrast to other persistent human pathogens,
+     <italic>
+      S. aureus
+     </italic>
+     is not traditionally considered as an intracellular pathogen [
+     ]. Nevertheless, substantial evidence strongly supports that
+     <italic>
+      S. aureus
+     </italic>
+     can be internalized and survive in a variety of non-professional phagocytic cells
+     <italic>
+      in vitro
+     </italic>
+     [
+     ,
+     -
+     ] and
+     <italic>
+      in vivo
+     </italic>
+     [
+     ,
+     ]. The endocytic uptake of
+     <italic>
+      S. aureus
+     </italic>
+     by non-myeloid cells involves active cellular processes that depend upon F-actin polymerization and is similar in many respects to that observed in professional phagocytes [
+     ]. Whereas entero-invasive pathogens utilize secretion systems to actively induce their own uptake by the host cell, internalization of
+     <italic>
+      S. aureus
+     </italic>
+     by non-professional phagocytes shows similar efficiency
+     <italic>
+      in vitro
+     </italic>
+     with live or killed bacteria [
+     ,
+     ]. The mechanism relies on an interaction between fibronectin binding protein and host-cell α5β1 integrins [
+     ,
+     ,
+     ]. The role of other bacterial surface proteins like clumping-factor A or host cell Src kinase also appears important in the mediation of
+     <italic>
+      S. aureus
+     </italic>
+     uptake and intracellular persistence [
+     ,
+     ]. After internalization, the behavior of the bacterium varies according to cell-line or bacterial strain. For example, some authors reported active intracellular bacterial replication within vacuoles [
+     ] or rapid bacterial escape from vacuole and induction of cellular apoptosis [
+     -
+     ], while others described persistence for several days before induction of escape processes [
+     ]. The production of α-toxin appears correlated with the induction of apoptosis [
+     ,
+     ,
+     ]. Regulation of α-toxin expression is complex and involves multiple regulators that include
+     <italic>
+      agr
+     </italic>
+     ,
+     <italic>
+      sarA
+     </italic>
+     homologues, or
+     <italic>
+      svrA
+     </italic>
+     [
+     -
+     ].
+    </p>
+    <p>
+     Molecular details that govern
+     <italic>
+      S. aureus
+     </italic>
+     extended persistence are largely unknown. Metabolic alterations leading to small colony variant (SCV) microorganisms are one possibility that has been described [
+     -
+     ]. Such
+     <italic>
+      S. aureus
+     </italic>
+     variants were recently shown to efficiently invade endothelial cells
+     <italic>
+      in vitro
+     </italic>
+     and display a markedly higher content in fibronectin-binding proteins than the parental strain [
+     ]. SCVs display a major alteration in their ability to produce or export exotoxins [
+     ] and reveal extensive changes in their global regulatory network [
+     ]. Overall this persistent behavior, possibly related to alteration of regulatory networks, appears compatible with the property of
+     <italic>
+      S. aureus
+     </italic>
+     to generate relapsing infections even years after a first episode was apparently cured [
+     ,
+     ].
+    </p>
+    <p>
+     Several studies have examined details of cellular responses after
+     <italic>
+      S. aureus
+     </italic>
+     internalization in either phagocytic or non-phagocytic cells [
+     ,
+     ]. However, little is known about bacterial gene expression upon cellular internalization. Recent efforts in high throughput sequencing have contributed to the elucidation of numerous bacterial genomes. To date, eight fully annotated
+     <italic>
+      S. aureus
+     </italic>
+     genomes are publicly available [
+     -
+     ] allowing the design of DNA microarrays to probe the bacterial transcriptome [
+     -
+     ], or to catalogue and type variation among clinical isolates [
+     ,
+     ,
+     ].
+    </p>
+    <p>
+     In this study, we describe an
+     <italic>
+      in vitro
+     </italic>
+     model where
+     <italic>
+      S. aureus
+     </italic>
+     is able to persist for up to two weeks in the absence of either cellular death or emergence of small colony variants.
+     <italic>
+      S. aureus
+     </italic>
+     gene expression changes between adherent bacteria and those arising 2 h and 6 h after cellular internalization were compared using a custom-designed and validated
+     <italic>
+      S. aureus
+     </italic>
+     oligoarray [
+     ]. Profound shut-down of gene expression was observed shortly after internalization for bacterial metabolic functions and transport. This period was followed by resumption of transcriptional activity for metabolic and energy production functions correlating with moderate bacterial multiplication. These findings suggest that
+     <italic>
+      S. aureus
+     </italic>
+     extensively reprograms its transcriptome to adjust to the intracellular environment. Detailed study of these changes may help understanding the molecular mechanisms governing establishment and maintenance of persistent
+     <italic>
+      S. aureus
+     </italic>
+     infections and potentially helpful for the design of new antibacterial drugs.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Results
+    </title>
+    <sec>
+     <title>
+      Infection model and bacterial RNA isolation
+     </title>
+     <p>
+      We developed a model system that displayed protective survival of
+      <italic>
+       S. aureus
+      </italic>
+      6850 within human lung epithelial cells A549. Control experiments were performed to examine infection parameters and determine the saturation of internalization. Figure
+      shows bacterial internalization as a function of the multiplicity of infection (m.o.i). The profile describes a linear dose-response until saturation for m.o.i higher than 286
+      <italic>
+       S. aureus
+      </italic>
+      per cell. We next examined the intracellular survival of strain 6850 as a function of time using the lysostaphin/gentamicin protection assay, as shown Figure
+      . We observed substantial intracellular survival during the first 24 hour post-internalization. Notably, we observed a 3-fold increase in viable bacteria recovered at 6 hours post internalization compared with 2 hours indicating most probably that bacterial replication, or completion of cell division, had occurred. Viable bacterial counts diminished slightly in the 6–24 h interval. A 3 log decrease in recovered bacteria was observed in the interval from 1–4 days post-infection indicating substantial infection clearance. Nevertheless, viable bacteria could be recovered in this model system up to 2 weeks post infection. Strain 6850 produces strong α-toxin amounts as revealed on blood agar plates as well as in strains recovered from the intracellular survival assay (data not shown). We observed no emergence of SCV at any time point in the assay. We conclude that the model reflects both a window of bacterial survival and replication as well as persistent infection and we focused in early time-points (2, 6 hours) for subsequent detailed study. Microscopic observations with trypan blue revealed no significant cytotoxicity as well as the absence of any cellular morphologic alteration during the first 14 days of co-incubation (Figure
+      ). Subsequent viability assays were performed at a sub-saturating m.o.i. of 100:1 using strains 6850 or ATCC29213, previously described as cytotoxic in other cell lines [
+      ,
+      ,
+      ]. Control Jurkat T cells revealed altered cellular viability in the presence of any of the two bacterial strains or by contact with pro-apoptotic compounds (Figure
+      ). In contrast, a total absence of cellular toxicity was observed in A549 cells in the presence of either 6850 or ATCC strains. Similarly to previously published observation [
+      ], anti-CD95 failed also to affect A549 viability whereas etoposide showed a significant impact on A549 viability (Figure
+      ).
+     </p>
+     <p>
+      Purification of bacterial RNA from intracellular bacteria proved difficult due to significant excess of eukaryotic material. After protocol optimizations, the extraction and amplification procedures showed appreciable reproducibility (additional file
+      ) with Pearson correlation value of 0.9–0.93, an important parameter in microarray experiments [
+      ,
+      ]. Nevertheless, bacterial RNA preparations contained detectable contaminating RNA traces from host-cell. Absence of detectable cross-hybridization on the microarray with cellular RNA demonstrates the high specificity of the microarray for bacterial messengers resulting from the design strategy (data not shown).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Analysis of gene expression changes in extracellular and adherent bacteria
+     </title>
+     <p>
+      We first performed several microarray experiments to evaluate the impact of cell culture medium, presence of cells, presence of cytochalasin D, and bacterial attachment to cells, on the bacterial transcriptome expression. The experimental design and pairwise comparisons performed are depicted in Figure
+      . The following conditions were tested: i) bacteria propagated in invasive medium alone, ii) non-adherent bacteria cultivated in the presence of cells, iii) non-adherent bacteria recovered from infections in the presence of cytochalasin D, and iv) cell-adherent bacteria in the presence of cytochalasin D. No significant changes in gene regulation were recorded from all possible pair-wise comparisons. We conclude from this analysis that exposure of bacteria to our experimental parameters prior to cellular internalization does not result in detectable alteration of bacterial transcriptome. We then compared expression values obtained at time 0 in the culture medium against those obtained after 2 or 6 hours of internalization.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Analysis of intracellular bacterial gene expression changes
+     </title>
+     <p>
+      Previous studies performed in our laboratory indicated that bacterial uptake by both A549 and MRC5 lung epithelial cells is a rapid process (&lt; 30 minutes) [
+      ]. From this result, as well as those presented in Figure
+      , we reasoned that 2 and 6 hour time points would reveal new information about bacterial transcriptomic program required for early essential adaptation to the intracellular environment. We therefore evaluated the transcriptome of
+      <italic>
+       S. aureus
+      </italic>
+      after 2 and 6 h post-internalization.
+     </p>
+     <p>
+      Comparison of gene expression between control (time 0) and 2 h or 6 h post-infection conditions revealed extensive modifications in bacterial gene regulation. The complete raw data set as imported from the array scanner as well as the 2 h, 6 h, and functional group cluster is available online [
+      ].
+     </p>
+     <p>
+      Statistically significant changes in gene expression were found for 1042 and 766 genes after 2 h or 6 h of infection, respectively (including 338 and 165 hypothetical proteins). After 2 h of infection, 346 genes were up-regulated whereas 696 were down-regulated, while 169 genes were found up-regulated and 600 genes down-regulated 6 h post-infection (Figure
+      ). The numbers of genes showing differential expression levels only for one of the two time-points were 89 and 362 for 2 or 6 h, respectively. Since all tested control conditions did not result in significant changes in gene expression, we conclude that these massive alterations in transcription profiles are triggered upon bacterial internalization.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Clustering and functional group assignment
+     </title>
+     <p>
+      Differentially expressed genes were clustered by functional group categories according to the COG classification [
+      ] (additional file
+      ). An additional category consisting in documented virulence factors was added (Table
+      and Figure
+      ), according to established criteria [
+      ]. Overall, the general trend revealed a substantial down-regulation of genes involved in metabolic functions (additional file
+      ). For example, among the 55 ORFs encoding for ribosomal proteins, &gt; 40 were found down-regulated at 2 h, or 6 h. This reduction concerned also the totality of the
+      <italic>
+       atp
+      </italic>
+      operon (
+      <italic>
+       atpA
+      </italic>
+      to
+      <italic>
+       atpH
+      </italic>
+      ) responsible for ATP synthesis and genes involved in nucleotide and amino acid metabolism. Note however that the majority of these genes were up-regulated between 2 and 6 hours. Similar responses were also observed for numerous genes involved in sugar metabolism and energy production. A more balanced picture was observed among signal transduction and transcription regulators (additional file
+      ). Changes in gene expression of hypothetical reading frames were observed to be equally distributed between down- and up-regulated genes. Among genes that were up-regulated, we noted a significant number of targets involved in iron metabolism and other inorganic ions (additional file
+      ) contributing to oxidative stress protection. Among the most significantly up-regulated genes, we observed defense genes, such as
+      <italic>
+       sodA
+      </italic>
+      ,
+      <italic>
+       ahp
+      </italic>
+      and also transcription regulators of virulence factors (Table
+      ), RNAIII,
+      <italic>
+       sarS
+      </italic>
+      (also named
+      <italic>
+       sarH1
+      </italic>
+      ) and
+      <italic>
+       svrA
+      </italic>
+      (SA0323 or SAV0334 according to the annotation of
+      <italic>
+       S
+      </italic>
+      .
+      <italic>
+       aureus
+      </italic>
+      N315 and Mu50, respectively) which are known to modulate the expression of the
+      <italic>
+       agr
+      </italic>
+      locus [
+      ,
+      ]. Another category showing important changes in gene expression was transporters (additional file
+      ). More than 40 genes were found significantly differentially regulated including transporters of iron, sugars, nucleotides and amino-acids. Importantly, expression of toxic virulence factors and α-hemolysin were found either down-regulated, or unchanged, compared to the control conditions (Table
+      ). Finally, the number of genes involved in biosynthesis or degradation of bacterial envelopes showed contrasted levels of expression after internalization as compared to extracellular control bacteria (see Materials and Methods). Whereas cell-wall metabolism enzymes (the autolysin
+      <italic>
+       lytM
+      </italic>
+      , and several amidases
+      <italic>
+       lytA
+      </italic>
+      ,
+      <italic>
+       sgtA and
+      </italic>
+      SA1759) showed drastic up-regulation, transpeptidase, acid techoic synthesis genes, the
+      <italic>
+       mur
+      </italic>
+      operon and several
+      <italic>
+       cap
+      </italic>
+      genes showed massive down-regulation after internalization (additional file
+      ).
+     </p>
+     <p>
+      Based on the time-points studied, two major regulation profiles were found composed of genes showing: i) large down-regulation after 2 h, then a slight increase at 6 h, and ii) up-regulation at 2 h then only marginal change at 6 h. These two categories are presented in Figure
+      in the upper-right and lower-left corners, respectively. Grouping by functional category revealed that the first expression profile is mainly composed of mobile elements, transporters, regulators and iron metabolism (Fig.
+      ). The other categories were mainly composed of genes involved in nutrient transport, general and nucleotide metabolism, and ribosomal proteins, but also in DNA replication and carbohydrate metabolism (Fig.
+      ).
+     </p>
+     <p>
+      Analysis of gene expression changes in the interval 2 h-6 h post-infection. To examine gene expression changes occurring during its intracellular passage, we extracted a list of genes that were differentially expressed (determined by ANOVA) between times 2 h and 6 h after internalization. A striking up-regulation of gene expression was observed at 6 h post-infection in most functional categories, consistent with bacteria readapting their energy production, intermediary metabolism, protein synthesis, and nucleotide biosynthesis. This finding is consistent with metabolic restart necessary for the observed bacterial doublings in the 2–6 h time interval (Figure
+      ).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      qPCR validation of array data for selected genes
+     </title>
+     <p>
+      As an independent measure of differential gene expression, we examined the relative levels of 6 genes selected from different functional categories by quantitative real-time PCR showing up- or down-regulation or unchanged level of expression. As previously established in other studies, the absolute magnitudes of normalized signals reflects the broader dynamic range of the qPCR method compared to microarray measurements [
+      ,
+      ]. The results are shown in Figure
+      and are correlated in terms of up- or down-regulation with microarray determinations. Notably, the data confirms the observed down-regulation of
+      <italic>
+       agr
+      </italic>
+      expression correlated with the absence of
+      <italic>
+       hla
+      </italic>
+      transcription. Congruent changes were observed for
+      <italic>
+       lytM
+      </italic>
+      ,
+      <italic>
+       sarS
+      </italic>
+      and
+      <italic>
+       sodA
+      </italic>
+      that showed up-regulation of their expression as previously recorded using microarrays (Figure
+      ).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Discussion
+    </title>
+    <p>
+     Recent efforts in the field of high-throughput sequencing contributed to the public release of numerous bacterial genomes of medical importance. This information allowed the development of microarrays able to monitor gene expression changes at the genome scale. We report here the utilization of a microarray covering the whole genome of
+     <italic>
+      Staphylococcus aureus
+     </italic>
+     to evaluate the behavior of the bacterium upon cellular internalization, a phenomenon potentially contributing to bacterial protection against host defenses, and important in the context of chronic infections. Our overall findings are in agreement with previous studies utilizing experimental cellular models of bacterial internalization, using either intracellular or facultative intracellular pathogens. If the ability of
+     <italic>
+      S. aureus
+     </italic>
+     to persist in different
+     <italic>
+      in vitro
+     </italic>
+     models is widely accepted, the capacity of
+     <italic>
+      S. aureus
+     </italic>
+     to escape from host-defenses and persist intracellularly
+     <italic>
+      in vivo
+     </italic>
+     is still debated [
+     ]. In this respect, the call to document "the presence of staphylococci within non-professional phagocytes at sites of infection in clinicopathological tissues" [
+     ] has been recently demonstrated by Clément and colleagues, who identified
+     <italic>
+      S. aureus
+     </italic>
+     residing in human nasal epithelial cells
+     <italic>
+      in vivo
+     </italic>
+     , a probable cause of recurrent rhinosinusitis infection [
+     ]. This
+     <italic>
+      in vivo
+     </italic>
+     survival capacity was further documented in the same population and shown to constitute a significant risk factor for recurrent episodes of rhinosinusitis refractory to antimicrobial and surgical therapy [
+     ]. Similar behavior was also observed in an experimental model of mastitis [
+     ].
+    </p>
+    <p>
+     In our model, the presence of cells or the attachment of bacteria to A549 cells (in the presence of cytochalasin) showed limited impact on bacterial transcriptome. This observation is in accordance with previous reports from our group showing that no active bacterial process is require for internalization [
+     ]. With respect to bacterial pathogenesis, this observation suggests that
+     <italic>
+      S. aureus
+     </italic>
+     internalization is probably not rare as it requires only a minimal number of bacterial factors [
+     ]. In contrast to other microorganisms known to invade eukaryotic cells and rapidly divert cellular compounds and energy to actively multiply [
+     ], our study indicates that upon cellular internalization,
+     <italic>
+      S. aureus
+     </italic>
+     transiently shuts down most of its metabolic functions and adopts an apparent "dormant state" without extensively initiating classic starvation or stress process. These profound changes in the bacterial transcriptome affect approximately 40% of all putative ORFs identified in the genomic sequence of the bacterium and appear related to an extensive adaptation to the new environment constituted by the intracellular compartment. The majority of genes involved in energy production (citrate and ATP cycles, pyruvate metabolism, and oxidative phosphorylation) were drastically reduced after 2 h internalization. Consequently, &gt; 75% of
+     <italic>
+      S. aureus
+     </italic>
+     ribosomal proteins showed a significant down-regulation, which constitutes a common trait with streptococcal exposition to endothelial cell [
+     ], another Gram positive pathogen able to invade non-phagocytic cells before inducing apoptosis [
+     ]. For these 2 pathogens, metabolic and cellular division machineries appear strongly down-regulated rapidly after internalization [
+     ]. This situation is markedly different from that observed in invasive intracellular pathogens such as
+     <italic>
+      Salmonella
+     </italic>
+     [
+     ],
+     <italic>
+      Shigella
+     </italic>
+     [
+     ,
+     ], or
+     <italic>
+      Pasteurella
+     </italic>
+     [
+     ], which show up-regulation of most cellular processes upon internalization and are able to multiply actively before disseminating to other cells [
+     ,
+     ]. In our model, a significant increase in colony forming unit counts was observed between 2 and 6 h of intracellular persistence. This cellular multiplication parallels up-regulation of
+     <italic>
+      lytM
+     </italic>
+     , as well as that of numerous amidases involved in cell-wall processing [
+     ]. Concurrently, a slight up-regulation of cell-wall and techoic acid synthesis genes was observed between these time points, suggesting evidence of intracellular replication or completion of cell division, as observed in the context of
+     <italic>
+      S. aureus
+     </italic>
+     phagocytosis by neutrophils [
+     ]. This metabolic evolution was paralleled by a massive up-regulation of numerous transporters. In our study, more than 40 transporters, involved in inorganic ions, nucleotides or peptides, or urea were found significantly up-regulated. Transporters involved in metabolic pathways contribute to the direct rerouting of cellular resources by the internalized bacterium. Illustrative examples are the up-regulation of
+     <italic>
+      uhpT
+     </italic>
+     (observed at 2 and 6 h internalization), allowing glucose-6-phosphate acquisition, as observed during internalization of other bacterial species [
+     ,
+     ] or during
+     <italic>
+      in vitro
+     </italic>
+     [
+     ] or intracellular exposition of
+     <italic>
+      S. aureus
+     </italic>
+     to acidic environments [
+     ].
+     <italic>
+      S. aureus
+     </italic>
+     genome contains 7 putative iron transporters [
+     ] that are important mediators of bacterial virulence. Iron transporters are typically up-regulated in various internalized invasive pathogens [
+     ,
+     ,
+     ]. In our study,
+     <italic>
+      isdF
+     </italic>
+     , SA0567 and particularly
+     <italic>
+      bitC
+     </italic>
+     , were drastically up-regulated in
+     <italic>
+      S. aureus
+     </italic>
+     , thus providing probably sufficient amounts of iron from the intracellular medium, whereas all genes composing the
+     <italic>
+      fhu
+     </italic>
+     operon, encoding ferric hydroxamate assimilation proteins were down-regulated, in accordance with their function of iron transporters under specific environmental conditions [
+     ].
+    </p>
+    <p>
+     Intracellular survival can potentially expose the bacterium to cellular defense mechanisms such as oxygen radicals. In our study, the number of up-regulated genes involved in stress protection or bacterial defense revealed surprisingly low. Except for
+     <italic>
+      sodA
+     </italic>
+     and
+     <italic>
+      cysM
+     </italic>
+     , whose products protect bacterial cell against oxidative stress [
+     ], a majority of genes involved in oxidative stress response appeared down-regulated. This finding is markedly different than the behavior of
+     <italic>
+      Shigella
+     </italic>
+     [
+     ], but consistent with previous reports about
+     <italic>
+      S. pneumoniae
+     </italic>
+     [
+     ]. Note however that experiments performed in A549 cells failed to detect production of reactive oxygen species upon bacterial uptake (not shown). Internalized
+     <italic>
+      S. aureus
+     </italic>
+     appeared to solicit protective functions but in a different context than that requiring preservation of the cellular machinery integrity as described by Voyish in the context of resistance to neutrophil phagocytosis [
+     ]. In non-phagocytic cells, the expression of capsule operon, Clp proteases family and chaperones, as well as their known regulators
+     <italic>
+      ctsR
+     </italic>
+     and
+     <italic>
+      sigB
+     </italic>
+     [
+     ], potentially conferring survival against toxic cellular metabolites was drastically down-regulated.
+    </p>
+    <p>
+     The expression of numerous bacterial virulence factors is modulated through complex networks of regulatory molecules including two-component systems and global regulators such as
+     <italic>
+      agr
+     </italic>
+     or
+     <italic>
+      sar
+     </italic>
+     . Multiple regulatory pathways contributed not only to the rapid adaptation of the bacteria to environmental changes but also to the regulation of toxins or cell-surface components expression during bacterial growth-phases [
+     ,
+     ]. In our system, upon contact with cell monolayers, strain 6850 was in early exponential phase of growth where
+     <italic>
+      agr
+     </italic>
+     activity is limited. Following internalization and metabolic restart, general metabolic functions appeared up-regulated in the absence of
+     <italic>
+      agr
+     </italic>
+     induction. In addition, internalized bacteria showed an increase in expression of
+     <italic>
+      sarS
+     </italic>
+     and
+     <italic>
+      svrA
+     </italic>
+     simultaneously to a marked down-regulation of
+     <italic>
+      saeRS
+     </italic>
+     genes, which are important compounds known to modulate
+     <italic>
+      agr
+     </italic>
+     expression [
+     ,
+     ]. In parallel to a moderately increased expression of RNAIII, a compound known to induce
+     <italic>
+      agr
+     </italic>
+     expression
+     <italic>
+      in vitro
+     </italic>
+     , this regulation pattern results in the reduced expression of
+     <italic>
+      hla
+     </italic>
+     that potentially mediates apoptosis induction in some systems [
+     ,
+     ,
+     ]. This uncoupling between
+     <italic>
+      agr
+     </italic>
+     and RNAIII expression has been previously observed
+     <italic>
+      in vivo
+     </italic>
+     in an experimental model of endocarditis [
+     ]. The restricted level of
+     <italic>
+      hla
+     </italic>
+     expression suggests a different regulation behavior under these experimental conditions or the action of another unknown regulator. The latter hypothesis is further supported by the results of Goerke [
+     ], who showed that mutation in
+     <italic>
+      agr
+     </italic>
+     and
+     <italic>
+      sar
+     </italic>
+     had no consequence for
+     <italic>
+      hla
+     </italic>
+     expression
+     <italic>
+      in vivo
+     </italic>
+     . This unknown target is probably not
+     <italic>
+      sigB
+     </italic>
+     , a regulator found drastically down-regulated upon internalization as well as the totality of related
+     <italic>
+      rsb
+     </italic>
+     partners in our model.
+     <italic>
+      SigB
+     </italic>
+     has been recently suggested as a potential partner involved in the persistence of SCVs recovered from cystic fibrosis [
+     ]. In our study, we failed to detect such SCVs as
+     <italic>
+      S. aureus
+     </italic>
+     recovered after 2 weeks of internalization yielded significant hemolysis when plated on blood agar. However, this observation does not rule out the emergence of SCVs in our model as this phenotype appears able to revert spontaneously [
+     ]. These observations are directly related to the absence of cytotoxicity on A549 cells even after two weeks of infection, an observation common between our study and previous work using SCVs [
+     ].
+    </p>
+    <p>
+     In contrast to the behavior of internalized SCVs, Bantel and colleagues reported 6850-evoked induction of apoptosis using Jurkat T cells [
+     ], which is consistent with our control assays confirming that strain 6850 was able of provoking cytotoxic effects. In addition, Qazi and colleagues reported the induction of
+     <italic>
+      agr
+     </italic>
+     and bacterial escape from endosomal vesicles rapidly after internalization using
+     <italic>
+      S. aureus
+     </italic>
+     RN6390 and MAC-T [
+     ]. On the contrary, Kahl reported that i) rifampicin-treated bacteria failed to induce apoptosis and that ii) Cowan I -a strain that failed to multiply in epithelial cells- does not show appreciable cytotoxic effects [
+     ]. These observations are important concerning
+     <italic>
+      S. aureus
+     </italic>
+     pathogenicity and suggest that certain combinations of host cells and bacteria can result in different biological outcomes. Altogether, results obtained with different models strongly suggest that the internalization of
+     <italic>
+      S. aureus
+     </italic>
+     is a key factor in chronic infections, as intracellular survival occurs in cells showing a long lifespan such as fibroblasts or epithelial cells.
+     <italic>
+      S. aureus
+     </italic>
+     intracellular survival appears related to its capability to adopt a discrete behavior instead of actively duplicating.
+     <italic>
+      S. aureus
+     </italic>
+     then benefits from natural or programmed cell death to re-emerge and trigger another episode of infection, leading to chronicity.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Conclusion
+    </title>
+    <p>
+     Internalization of
+     <italic>
+      S. aureus
+     </italic>
+     in non-phagocytic cells explaining its resistance properties against cellular or humoral host defenses is an attractive hypothesis relying on its particular ability to generate chronic diseases. In our model of cellular persistence,
+     <italic>
+      S. aureus
+     </italic>
+     strain 6850 is able to reside intracellularly for prolonged period of time. Microarray experiments provide a global picture of genes possibly involved in
+     <italic>
+      S. aureus
+     </italic>
+     pathogenesis, and in particular, the capacity of the bacterium to diminish most of its metabolic functions, despite soliciting numerous transporters allowing maintenance of vital functions but limiting its multiplication. Limited bacterial growth and expression of regulators of virulence factors leads to a finely controlled expression of cell-active toxins insuring intracellular bacterial survival. Global bacterial responses upon internalization appears complex but in accordance with the capacity of the bacterium to reside intracellularly. Finally, the study has uncovered dozens of potential targets for anti-infective therapeutics.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="methods">
+    <title>
+     Methods
+    </title>
+    <sec>
+     <title>
+      Bacterial strains and cell culture
+     </title>
+     <p>
+      A549 cells (ATCC CCL-185, human lung adenocarcinoma) were maintained under 5% CO
+      <sub>
+       2
+      </sub>
+      in minimal essential medium (MEM, Gibco) supplemented with 10% heat-inactivated fetal calf serum (Gibco) and 100 U penicillin/ml. Two days prior to infection, 6 × 10
+      cells were seeded in 10 cm wells yielding weakly confluent monolayers (2 × 10
+      cells/well) at the time of infection.
+      <italic>
+       S. aureus
+      </italic>
+      6850 is derived from multifocal osteomyelitis, is fully pigmented, and maintains a stable virulence phenotype [
+      ]. Overnight cultures in Mueller-Hinton broth (MHB, BD-Difco) were diluted with fresh media and grown to early log phase for 3 hours. Cells were washed twice in PBS, filtered (5 μm, Sartorius) to reduce aggregation and re-suspended in MEM at 1 × 10
+      cells/ml. Jurkat T cells (kind gift of D. Trono, Univ. of Geneva) were cultivated in RPMI (Gibco) supplemented with 10% heat-inactivated fetal calf serum (Gibco) and 100 U penicillin/ml.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Cell infection and control conditions
+     </title>
+     <p>
+      Three hours before infection, A549 cells were washed once with MEM, then placed in 5.5 ml invasion medium (IM) consisting of MEM enriched with 10% human albumin (ZLB Biopharma). Infections were initiated with a multiplicity of infection (m.o.i. 100:1 bacteria/cells) using bacteria in early logarithmic growth phase (OD
+      <sub>
+       600
+      </sub>
+      = 0.2). Cultures were incubated 30 min at 37°C in 5% CO
+      <sub>
+       2
+      </sub>
+      with 2 × 10
+      washed bacteria to allow adhesion and internalization. Non-adherent bacteria were collected (control bacteria) and fixed with ice cold acetone/EtOH (1:1). Infected monolayer cells were washed twice with MEM to remove residual non-adherent bacteria then incubated 20 min at 37°C in MEM supplemented with 4 μg/ml lysostaphin. Cells were then washed twice with MEM and placed in 20 ml MEM containing 100 μg/ml gentamicin (defines time = 0). At 2 and 6 hours post-infection, cells were washed twice with PBS, fixed in acetone/EtOH (1:1) and processed for RNA extraction.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Cell viability test
+     </title>
+     <p>
+      Cells (1 × 10
+      ) were seeded in triplicate into culture plates 24 h prior to treatment. Bacterial infections were performed as described for the standard lysostaphin/gentamycin protection assay. Control experiments using anti-CD95 ligation (1 μg/ml) or etoposide (100 μM final concentration) were included for cytotoxicity measurements with trypan blue. At 24 hours post-internalization, cells were washed and the viability of monolayers determined using Trypan blue dye exclusion. Viability was evaluated and expressed as a percentage of the control condition plate. In some cases, we examined combined culture supernatants and monolayers to detect the presence of non-viable detached cells. No difference was noted from viability measurements of monolayers alone.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Mock infection and cytochalasin D experiments
+     </title>
+     <p>
+      Fixation and RNA extractions were identical for every condition as described above. Cells were pretreated 30 minutes prior infection with 1 μg/ml cytochalasin D (Sigma) and also 60 minutes post-infection. Culture supernatants were collected and non-adherent bacterial cells were harvested, washed twice with PBS and fixed. Cell surface-attached bacteria were detached from A549 monolayer by rapid trypsin incubation, harvested, washed, and fixed. For mock infection, bacterial suspensions were prepared in IM in the absence of A549 cells.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      RNA extraction and purification
+     </title>
+     <p>
+      For all experiments, material (host cells or free bacteria) were lysed in the presence of ice cold acetone:ethanol (1:1) for 4 minutes. Cell monolayers were maintained on ice, then scraped and centrifuged briefly at 4°C. Cellular debris and bacterial pellets were suspended in ice cold RLT buffer (Qiagen) and centrifuged, then washed four times in ice cold TE (10 mM Tris/HCl, 1 mM EDTA pH 8.0). Fixed and washed bacteria were lysed in TE containing 200 μg/ml lysostaphin for 15 minutes at 37°C as previously described [
+      ,
+      ]. RNA was purified using RNeasy columns (Qiagen) following the manufacturer\s instructions. For each infection experiment, RNA from 6 wells was pooled. Purified total RNA extracts were treated with MicrobENRICH (Ambion) following the manufacturer\s instructions. RNA quality and yields were monitored before and after enrichment using a 2100 BioAnalyzer (Agilent) on PicoLab chip kit (Agilent).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      cDNA synthesis, amplification, and fluorescent labeling
+     </title>
+     <p>
+      Total RNA (300 ng per condition) was converted into cDNA by Superscript II (Invitrogen) and amplified following a previously described method [
+      ] yielding limited bias and robust amplification [
+      ]. Briefly, 20 ng of ds cDNA was amplified using the Genomiphi kit (Amersham Biosciences) according to the manufacturer\s recommendations, then labeled with Cy3-dCTP (Perkin Elmer) using BioPrime DNA Labeling System (Invitrogen). Cy5-dCTP (Perkin Elmer) labeled genomic DNA (0.5 mg) pooled from
+      <italic>
+       S. aureus
+      </italic>
+      strains N315, Mu50, COL, and MW2 was used as reference for the normalization process, according to previous work [
+      ,
+      ].
+     </p>
+    </sec>
+    <sec>
+     <title>
+      <italic>
+       S. aureus
+      </italic>
+      microarray and hybridization conditions
+     </title>
+     <p>
+      The
+      <italic>
+       S. aureus
+      </italic>
+      60-mer oligonucleotide microarray contains 8455 oligonucleotides probes covering &gt; 99% of genes of 4 sequenced
+      <italic>
+       S. aureus
+      </italic>
+      strains: N315, Mu50, MW2 and COL [
+      ]. Labeled cDNA (signal channel, Cy3) and genomic DNA (control channel, Cy5) were mixed in 250 μL Agilent hybridization buffer and hybridized at 60°C for 17 hours. Slides were washed, dried under nitrogen, and scanned at 100% photomultiplier tube power for both wavelengths (Agilent). Microarrays for all experimental time-points were performed in triplicate.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Data analysis
+     </title>
+     <p>
+      Local background subtracted signals were calculated from three independent experiments using Feature Extraction software (Agilent version A6.1.1). To ensure spot quality, features and their respective background which were not uniform in pixel fluorescence intensity distribution in both channels were flagged (non-uniformity outlier flagging algorithm). Spots showing a genomic DNA reference signal not significantly different from corresponding background were also flagged (two-tailed Student\s
+      <italic>
+       t
+      </italic>
+      -test feature versus background with
+      <italic>
+       p
+      </italic>
+      &lt; 0.05). Raw data were imported and analyzed using GeneSpring 7.2 (Agilent). Data were normalized using both per spot (signal channel divided by the corresponding control channel and generation of log
+      <sub>
+       10
+      </sub>
+      ratio) and per chip (to the 50
+      percentile). Flagged spots of low quality were excluded from further analysis. Replicates from the same test condition were grouped and the mean calculated. Significance of normalized data was determined using Welch\s approximate
+      <italic>
+       t
+      </italic>
+      -test adjusting individual
+      <italic>
+       P
+      </italic>
+      values with the Benjamini-Hochberg correction for false discovery rate multiple test. Genes showing significant change in expression between two conditions and fold change ≥ 3 were defined as differentially expressed. Fold changes for the complete dataset is available online as additional file
+      .
+     </p>
+     <p>
+      The analysis of differential gene expression patterns in nine possible combinations when comparing 0, 2, and 6 h was performed using the Welch conditional parametric test and false discovery rate correction (variances assumed unequal,
+      <italic>
+       p
+      </italic>
+      &lt; 0.05). Genes showing fold changes &gt; 1.5 are shown.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Quantitative PCR
+     </title>
+     <p>
+      To confirm microarray results, the expression levels of
+      <italic>
+       hla
+      </italic>
+      ,
+      <italic>
+       sigB
+      </italic>
+      ,
+      <italic>
+       agrA
+      </italic>
+      ,
+      <italic>
+       sodA, sarS and lytM
+      </italic>
+      genes were determined by real-time PCR analysis. Genomiphi-amplified material (1 ng) from independent experiments was assembled with specific primers (Invitrogen) and fluorescent probes (Table
+      ) designed using the PrimerExpress software (Applied Biosystems) in specific enzymatic kit mixtures (Eurogentec). PCR reactions were performed in a final volume of 20 μl in a SDS7700 (Applied Biosystems). Relative expression levels were determined by comparing cycle threshold (Ct) of each gene to the Ct value of the
+      <italic>
+       hu
+      </italic>
+      gene for the same cDNA preparation [
+      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Authors\ contributions
+    </title>
+    <p>
+     CG contributed to the design of the study, performed the totality of microarray experiments including RNA extraction, amplification and data analysis, PF and JS conceived the study, contributed to experimental design and analysis and coordinated final writing, CT contributed to the real-time PCR validation experiments, AH and YC contributed to the design of the microarray and developed the required bioinformatics, SL was involved in microarray interpretation, SC was involved in the design and interpretation of results obtained in the infection model, AR was involved in microarray interpretation and contributed to MS elaboration, DL and PV contributed to manuscript elaboration, WK was involved in the design, experiments and analysis related to the infection model including apoptosis experiments and in the elaboration of the manuscript.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="supplementary-material">
+    <title>
+     Supplementary Material
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

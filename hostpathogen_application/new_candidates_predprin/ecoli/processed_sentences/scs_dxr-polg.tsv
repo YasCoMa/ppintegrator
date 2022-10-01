@@ -1,0 +1,2 @@
+id_pmc	sentence location	highlighted phrase	interacting verbs	number of interacting verbs	experimental methods found	number of experimental methods	protein entities found	number of protein entities
+4548715	body	p53 can interact with polg ( achanta et al. , 2005 ) , and is important for protecting mtdna from damage by ethidium bromide ( achanta et al. , 2005 ) and dxr ( nithipongvanitch et al. , 2007b ) .	interact	1		0	polg|dxr|p53	3

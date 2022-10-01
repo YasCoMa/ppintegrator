@@ -1,0 +1,2 @@
+id_pmc	sentence location	highlighted phrase	interacting verbs	number of interacting verbs	experimental methods found	number of experimental methods	protein entities found	number of protein entities
+3968373	body	in agreement with such a hypothesis , it was recently shown that the major e. coli stress chaperone dnak ( hsp70 ) interacts with at least four antitoxins in vivo , namely maze , relb , mqsa and dinj , whose respective toxin partners mazf , rele mqsr , and yafq were shown to affect translation [ 79 ] .	interact	1		0	dnak|relb|hsp70|mazf|rele|mqsr|yafq	7

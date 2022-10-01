@@ -1,0 +1,1757 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Global analysis of the eukaryotic pathways and networks regulated by
+ </title>
+ <abstract>
+  <p>
+   Acute enteritis caused by
+   <italic>
+    Salmonella
+   </italic>
+   is a public health concern.
+   <italic>
+    Salmonella
+   </italic>
+   infection is also known to increase the risk of inflammatory bowel diseases and cancer. Therefore, it is important to understand how
+   <italic>
+    Salmonella
+   </italic>
+   works in targeting eukaryotic pathways in intestinal infection. However, the global physiological function of
+   <italic>
+    Salmonella
+   </italic>
+   typhimurium in intestinal mucosa
+   <italic>
+    in vivo
+   </italic>
+   is unclear. In this study, a whole genome approach combined with bioinformatics assays was used to investigate the
+   <italic>
+    in vivo
+   </italic>
+   genetic responses of the mouse colon to
+   <italic>
+    Salmonella
+   </italic>
+   . We focused on the intestinal responses in the early stage (8 hours) and late stage (4 days) after
+   <italic>
+    Salmonella
+   </italic>
+   infection.
+  </p>
+  <p>
+   Of the 28,000 genes represented on the array, our analysis of mRNA expression in mouse colon mucosa showed that a total of 856 genes were expressed differentially at 8 hours post-infection. At 4 days post-infection, a total of 7558 genes were expressed differentially. 23 differentially expressed genes from the microarray data was further examined by real-time PCR. Ingenuity Pathways Analysis identified that the most significant pathway associated with the differentially expressed genes in 8 hours post-infection is oxidative phosphorylation, which targets the mitochondria. At the late stage of infection, a series of pathways associated with immune and inflammatory response, proliferation, and apoptosis were identified, whereas the oxidative phosphorylation was shut off. Histology analysis confirmed the biological role of
+   <italic>
+    Salmonella
+   </italic>
+   , which induced a physiological state of inflammation and proliferation in the colon mucosa through the regulation of multiple signaling pathways. Most of the metabolism-related pathways were targeted by down-regulated genes, and a general repression process of metabolic pathways was observed. Network analysis supported IFN-γ and TNF-α function as mediators of the immune/inflammatory response for host defense against pathogen.
+  </p>
+  <p>
+   Our study provides novel genome-wide transcriptional profiling data on the mouse colon mucosa\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\s response to the
+   <italic>
+    Salmonella typhimurium
+   </italic>
+   infection. Building the pathways and networks of interactions between these genes help us to understand the complex interplay in the mice colon during
+   <italic>
+    Salmonella
+   </italic>
+   infection, and further provide new insights into the molecular cascade, which is mobilized to combat
+   <italic>
+    Salmonella
+   </italic>
+   -associated colon infection
+   <italic>
+    in vivo
+   </italic>
+   .
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec>
+    <title>
+     Background
+    </title>
+    <p>
+     <italic>
+      Salmonella
+     </italic>
+     is a leading cause of gastrointestinal disease worldwide [     ]. The overall estimated 2-4 million cases of
+     <italic>
+      Salmonella
+     </italic>
+     -induced gastroenteritis constitute a significant economic loss of productive work time, reported to exceed $2 billion annually [     -     ].
+     <italic>
+      Salmonella
+     </italic>
+     infection can appear as enteric fever, gastroenteritis, bacteremia, or extra intestinal focal infection. Central to
+     <italic>
+      S
+     </italic>
+     . typhimurium pathogenesis is its ability to induce intestinal inflammation [     ]. Beyond the public health problem caused by
+     <italic>
+      Salmonella
+     </italic>
+     , recent studies further have demonstrated that
+     <italic>
+      Salmonella
+     </italic>
+     infection increases the risk of developing inflammatory bowel diseases (IBDs) [     ]. Moreover,
+     <italic>
+      Salmonella
+     </italic>
+     infection increases the risk of other gastrointestinal (GI) diseases, including chronic inflammation and gallbladder cancer [     ,     ]. Therefore, it is important to understand which pathway
+     <italic>
+      Salmonella
+     </italic>
+     target that may potentially contribute to chronic inflammation and tumorigenesis.
+    </p>
+    <p>
+     Increasing evidence links some
+     <italic>
+      Salmonella
+     </italic>
+     species to carcinogenesis, whereas others appear promising in the diagnosis, prevention, or treatment of cancers [     ].
+     <italic>
+      Salmonella
+     </italic>
+     and its derivatives prefer solid tumors over normal tissue in animal models [     ,     ]. Using
+     <italic>
+      Salmonella
+     </italic>
+     DNA or plasmids to cancer therapy is a very active field. Alive, mutated, non-invasive
+     <italic>
+      Salmonella
+     </italic>
+     has been used as a vector to specifically target cancer cells [     ]. It may be controversial if
+     <italic>
+      Salmonella
+     </italic>
+     could contribute to intestinal inflammation and cancer. Hence, it is necessary to understand the global facets of
+     <italic>
+      Salmonella
+     </italic>
+     in the intestine using animal models.
+    </p>
+    <p>
+     Gene expression array technology is a powerful tool in expanding the understanding of host-pathogen interactions. Although many genes that respond to
+     <italic>
+      Salmonella
+     </italic>
+     infection have been identified in previous genomics research [     -     ], the majority of such studies generally result in the identification of hundreds of genes that are involved in many different biological processes and pathways. The mouse model is widely used to study the mechanisms of systemic salmonellosis [     ,     ]. A number of reports have described host transcriptional responses to bacterial infection using microarrays [     ,     -     ]. The intestinal epithelial cells are constitutively exposed to commensal flora and pathogenic bacteria, and they play barrier, structural, and host defense roles [     -     ]. The global physiological function and pathway analysis of
+     <italic>
+      Salmonella
+     </italic>
+     on intestinal mouse mucosa is unclear. We lack the knowledge of the most affected gene networks and pathways in response to
+     <italic>
+      Salmonella
+     </italic>
+     infection in mouse colon mucosa
+     <italic>
+      in vivo
+     </italic>
+     .
+    </p>
+    <p>
+     In this study, we focused on the intestinal responses at the early phase (8 hours) and the late phase (4 days) after
+     <italic>
+      Salmonella
+     </italic>
+     infection. The histologic assay of intestine indicated that 8 hours is the early stage of the
+     <italic>
+      Salmonella
+     </italic>
+     infection and 4 days is the late stage of infection [     ]. Hence, we chose these two time courses in the current study. We used the
+     <italic>
+      Salmonella
+     </italic>
+     typhimurium wild-type SL1344 because it is a mouse-virulent strain and well-documented in
+     <italic>
+      in vitro
+     </italic>
+     and
+     <italic>
+      in vi
+     </italic>
+     vo studies [     ]. A whole genome approach combined with bioinformatics assays was used to dissect the genetic responses of the mouse colon to
+     <italic>
+      Salmonella in vivo
+     </italic>
+     .
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="methods">
+    <title>
+     Methods
+    </title>
+    <sec>
+     <title>
+      Bacterial strains and growth condition
+     </title>
+     <p>
+      <italic>
+       Salmonella
+      </italic>
+      typhimurium wild-type strain SL1344 (WT) was used in this study (provided by Dr. Jorge Galan at the Yale University) [      ]. Non-agitated microaerophilic bacterial cultures were prepared by inoculating 10 ml of Luria-Bertani broth with 0.01 ml of a stationary phase culture followed by overnight incubation (~18 h) at 37°C as previously described [      ].
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Streptomycin pre-treated mouse model
+     </title>
+     <p>
+      Animal experiments were performed using specific-pathogen-free female C57BL/6 mice (Taconic, Hudson, NY, USA) that were 6-7 weeks old. The protocol was approved by the University of Rochester University Committee on Animal Resources (UCAR). Water and food were withdrawn 4 hours before oral gavage with 7.5 mg/mouse of streptomycin. Afterwards, animals were supplied with water and food ad libitum. Twenty hours after streptomycin treatment, water and food were withdrawn again for 4 hours before the mice were infected with 1 × 10      CFU of
+      <italic>
+       S. Typhimurium
+      </italic>
+      (100 μl suspension in HBSS) or treated with sterile HBSS (control) by oral gavage as previously described [      ]. At 8 hours and 4 days after infection, mice were sacrificed and tissue samples from the intestinal tracts were removed for analysis, as previously described [      ].
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Sample RNA preparation
+     </title>
+     <p>
+      Mice were sacrificed at 8 hours and 4 days after
+      <italic>
+       Salmonella
+      </italic>
+      infection, and tissue samples from the intestinal colon mucosa were removed. Total RNAs were isolated using TRIzol reagent (Invitrogen, Carlsbad, CA, USA) following the manufacturer\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\s protocol, followed by on-column digestion of DNA using the RNeasy Mini Kit (Qiagen, Valencia, CA, USA). RNA quantity and quality were assessed with a Beckman Coulter DU 640 Spectrophotometer (Beckman Coulter, Brea, CA, USA) and Agilent 2100 Bioanalyzer (Agilent, Santa Clara, CA, USA), following the manufacturer\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\s protocols.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Gene array processing and statistical analysis
+     </title>
+     <p>
+      The biotinylated single-stranded cDNA was prepared from 100 ng total intact RNA extracted from uninfected mouse control samples. Mouse mucosa at 8 hours and 4 days post infection was collected. Mouse cDNA was hybridized to the Mouse Gene 1.0 ST array, a microarray chip containing 28,000 sequenced mouse genes (Affymetrix). After hybridization, the array was washed and stained with streptavidin-phycoerythrin, and scanned in a proprietary Affymetrix scanner, according to the GeneChip      Whole Transcript Sense Target Labeling Assay manual. The fluorescence values for each feature on the array were measured and recorded. Command Console software (Affymetrix) was used to produce a CEL file. All procedures were performed in three biological replicates at the Functional Genome Center of the University of Rochester. The data were processed with Expression Console (Affymetrix) using the PLIER algorithm
+      <italic>
+       (Affymetrix
+      </italic>
+      Guide to Probe Logarithmic Intensity Error (PLIER) Estimation.
+      <ext-link ext-link-type="uri" ns0:href="http://www.affymetrix.com/support/technical/technotes/plier_technote.pdf">
+       http://www.affymetrix.com/support/technical/technotes/plier_technote.pdf
+      </ext-link>
+      ), which uses quantile normalization. Fold change was calculated for each strain relative to the uninfected control. Statistical significance (p value) was calculated by Student\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\s
+      <italic>
+       t
+      </italic>
+      test, based on the results of three arrays per condition. Insignificant genes that changed by less than 1.2 fold and p value &gt; 0.05 were removed from subsequent analysis. We set 1.2 as the cut-off (p &lt; 0.05) standard in order to analyze more genes involved in intestinal homeostasis and this cut-off is acceptable in the field [      ,      ]. The false discovery rate (Q value) was calculated for each
+      <italic>
+       P
+      </italic>
+      -value using R program according to the Storey and Tibshirani method [      ]. We also estimated false discovery rate using Significance Analysis of Microarrays [      ]. The microarray data used in this analysis have been submitted to NCBI GEO database under accession number GSE22215.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Functional interpretation of microarray data as well as pathway and network analysis
+     </title>
+     <p>
+      Ingenuity Pathways Analysis (IPA) (Ingenuity Systems
+      <ext-link ext-link-type="uri" ns0:href="http://www.ingenuity.com">
+       http://www.ingenuity.com
+      </ext-link>
+      ) is a web-based software application tool which is designed to organize biological information in a way that allows one to gain a high level overview of the general biology that is associated with microarray data [      -      ].
+     </p>
+     <p>
+      In this study, the biofunctional analysis identified the molecular and cellular function that was most significant to the data set as a whole, thus generating functional interpretation of microarray data. Fischer\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\s exact test was used to calculate a p-value determining the probability that each biofunction assigned to that data set is due to chance alone. IPA Canonical Pathways Analysis tool was used to identify the signaling and metabolic pathways associated with the database. Genes from the dataset that met the fold change cut-off of 1.2 were considered for the analysis. The significance of the association between the dataset and the canonical pathway was measured in two ways, the ratio and the significance. The ingenuity network analysis was used to display an interactive graphical representation of the interrelationships between molecules.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Real-time quantitative reverse transcriptase PCR
+     </title>
+     <p>
+      Quantitative PCR technology was used to verify the differential expression of 23 genes, including some genes around the two networks IFN-γ and TNF-α, at early and late response stages as identified by the microarray. Total RNA was reverse transcribed with oligoDT primer using an Invitrogen SuperScript III kit. The cDNA was subject to qRT-PCR using SYBR Green Supermix (Bio-Rad, Hercules, CA, USA). Primers of target genes are listed in Additional file      Table S1. The amplification conditions were optimized for the MJ research DNA Engine instrument, using melting curve and electrophoresis analysis. The threshold cycle (Ct) was determined, i.e., the cycle number at which the fluorescence of the amplified product crosses a specific threshold value in the exponential phase of amplification. Relative quantification of target gene expression was evaluated using the comparative cycle threshold (
+      <italic>
+       C
+      </italic>
+      <sub>
+       T
+      </sub>
+      ) method as previously described by Livak and Schmittgen [      ]. A value of p ≤ 0.05 was considered statistically significant. Correlation analysis was performed by comparing expression ratios from the microarray results with the ratios tested by the qRT-PCR analysis. The Pearson correction coefficient between the qRT-PCR and microarray was analyzed.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      <italic>
+       Salmonella
+      </italic>
+      -induced mouse cytokine secretion
+     </title>
+     <p>
+      Mouse blood samples were collected by cardiac puncture and placed in tubes containing EDTA (10 mg/ml) [      ,      ]. Mouse cytokines were measured using mouse cytokine 10-Plex Panel kit (Invitrogen) according to the manufacturer\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\s instructions. Briefly, beads of defined spectral properties were conjugated to protein-specific capture antibodies, and then samples were added (including standards of known protein concentration, control samples, and test samples) into the wells of a filter-bottom microplate where proteins bound to the capture antibodies over the course of a 2 hour incubation. After washing the beads, protein-specific biotinylated detector antibodies were added and incubated with the beads for 1 hour. After removal of excess biotinylated detector antibodies, streptavidin conjugated to the fluorescent protein, then R-Phycoerythrin (Streptavidin- RPE) was added and allowed to incubate for 30 minutes. After washing to remove unbound Streptavidin-RPE, the beads were analyzed with the Luminex detection system (PerkinElmer CS1000 Autoplex Analyzer, Covina, CA, USA) [      ].
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Immunoblotting
+     </title>
+     <p>
+      Mouse colonic mucosa was collected by scraping the mouse colon, including proximal and distal regions [      ]. Cells were sonicated in lysis buffer (1% Triton X-100, 150 mM NaCl, 10 mM Tris pH 7.4, 1 mM EDTA, 1 mM EGTA pH 8.0, 0.2 9 mM sodium ortho-vanadate, protease inhibitor cocktail). The protein concentration was measured using BioRad Reagent (BioRad). Cultured cells were rinsed twice in ice-cold HBSS, lysed in protein loading buffer (50 mM Tris, pH 6.8, 100 mM dithiothreitol, 2% SDS, 0.1% bromophenol blue, 10% glycerol), and sonicated. Equal amounts of protein were separated by SDS-polyacrylamide gel electrophoresis, transferred to nitrocellulose, and immunoblotted with primary antibodies. The following antibodies were used: monoclonal Rabbit anti-Akt (Cell Signal, Beverly, MA, USA), Anti-Villin (Santa Cruz Biotechnology, Santa Cruz, CA, USA) and anti-actin (Sigma-Aldrich, Milwaukee, WI, USA).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Histology and immunofluorescence of mouse colon
+     </title>
+     <p>
+      Colonic tissues from the proximal and distal portion of the colon were freshly isolated and embedded in paraffin wax after fixation with 10% neutral 10 buffered formalin. Sections (5 μm) were stained with hematoxylin and eosin (H and E). For immunofluorescence microscopy, tissue samples were processed for immunofluorescence as described previously [      ,      ,      -      ]. In short, tissue samples were blocked in PBS containing 5% BSA and 10% goat serum, then incubated overnight with Sheep anti-Brdu (treated sample using HCL for 90 min before incubating) or Rrabbit anti-Akt antibodies. Immunofluorescence staining was performed by utilizing red fluorescent anti-sheep or anti-rabbit IgG (Alex 594, Invitrogen) for one hour, then cover slips were washed three times with PBS (10 min/each time). DAPI was added in the final wash, then mounted with SlowFade (SlowFade      AntiFade Kit, Molecular Probes, Invitrogen) and followed by a cover slip. Edges were sealed to prevent drying. Samples were viewed with an Olympus Ax70 microscope. Captured images were analyzed using Image-pro plus 5.0 software.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Results
+    </title>
+    <sec>
+     <title>
+      Global gene differential expression during the time course of
+      <italic>
+       Salmonella
+      </italic>
+      infection in the mouse colon mucosa
+     </title>
+     <p>
+      In this current study, we focused on the mouse colon mucosa\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\s responses to
+      <italic>
+       Salmonella
+      </italic>
+      infection at both 8 hours and 4 days post infection
+      <italic>
+       in vivo
+      </italic>
+      . Previous studies indicate that the 8 hours post-infection provides insights into the early events of
+      <italic>
+       Salmonella
+      </italic>
+      infection in the colon, whereas investigation of the gene expression response at 4 days post-infection can show the outcome of infection and inflammation [      ,      ,      ,      ]. Hence, we selected genes that changed in response to
+      <italic>
+       Salmonella
+      </italic>
+      infection at 8 hours and 4 days. In total, we hybridized 9 different samples (3 individual mice from each of the three groups) to the microarray chip in this study.
+     </p>
+     <p>
+      FDR and nominal P were similar at 4 days, the analysis was based on the nominal P values (all FDR values &lt; 10% when nominal P &lt; 0.05). At 8 hours, the FDR values were high for all probe sets (&gt; 46%). However, we included this time point because it allows us to investigate how many genes began to respond at the early stage of infection and how many genes are dependent on the time-course responses.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Top differentially regulated genes in response to infection
+     </title>
+     <p>
+      Differential expression analyses between the normal control and the
+      <italic>
+       Salmonella
+      </italic>
+      -infected group were carried out with GeneSifter software (VizX Labs, Seattle, WA). GeneSifter™ is unique in the field of microarray data analysis software because it is the only package that is wholly web-based
+      <ext-link ext-link-type="uri" ns0:href="http://www.geospiza.com/Products/AnalysisEdition.shtml">
+       http://www.geospiza.com/Products/AnalysisEdition.shtml
+      </ext-link>
+      . Of the 28,000 genes represented on the array, our analysis of mRNA expression in mouse colon mucosa showed that a total of 856 genes were expressed differentially (Figure      and Additional file      Table S2) in the pathogenic SL1344 infected group at 8 hours. Of these 856 genes, 453 genes (53%) were up-regulated and 403 (47%) were down-regulated. 99% selected genes showed 1.2-2 fold times change (Figure      , black and white). There were only 4 up-regulated and 5 down-regulated genes with a fold change range from 2 to 5 times.
+     </p>
+     <p>
+      At 4 days post-infection, we identified 7558 genes that were expressed differentially (Additional file      Table S3). The majority of the selected genes showed moderate alterations in expression of between 1.2 and 2.0 fold (Figure      ). Figure      also showed that 389 up-regulated genes and 681 down-regulated genes with a fold change range from 2 times to 5 times, 69 up-regulated genes and 50 down-regulated genes with a fold change range from 5 times to 10 times, and 75 up-regulated genes and 24 down-regulated genes with a fold change greater than 10 times. The data for differentially expressed genes are shown in Table S2-S3.
+     </p>
+     <p>
+      For the differential expression genes between animals infected for 8 hours and 4 days, we identified 7127 genes that were expressed differentially during two time course (Additional file      Table S4). Total 4951 genes (69% genes) showed down-regulated and 2176 genes (31%) showed up-regulated. 3798 down-regulated genes between animals infected for 8 hours and 4 days showed the similar expression pattern as the gene list between the control and 4 days post-infection group. Therefore, we focused on the differential expression between non infected and infected mice at either 8 hours or 4 days post-infection.
+     </p>
+     <p>
+      Two genes,
+      <italic>
+       Hist1hle
+      </italic>
+      and
+      <italic>
+       Arnt1
+      </italic>
+      showed up-regulated between 4 days post-infection and the control group without treatment, but showed down-regulated between 4 days post-infection and 8 hours post-infection. The up-regulated 1328 genes between 4 days and 8 hours post-infection showed the similar expression pattern as the genes between 4 days post-infection to control. Other 846 up-regulated genes were new responses between 4 days and 8 hours post-infection, and 90% of these genes had a fold change range from 1.2 times to 2 times. Three genes, Olfr1257 and other two unknown genes, were down-regulated between 4 days post-infection and control, but up-regulated between 4 days post-infection and 8 hours post-infection. Overall, the data indicate that pathogenic
+      <italic>
+       Salmonella
+      </italic>
+      regulates the gene expression in intestinal mucosa at the early stage of infection, but more profound changes in gene expression occurred in the late stage of infection.
+     </p>
+     <p>
+      We further analyzed the top up-regulated and down-regulated genes in every infection group to identify the specific responses induced by
+      <italic>
+       Salmonella
+      </italic>
+      -infection (Table      ). Of the 10 annotated up-regulated genes in SL1344 infection at 8 hours, R
+      <italic>
+       ETNLB
+      </italic>
+      as a colon-specific gene has been reported to associate with bacteria infection, and
+      <italic>
+       RETNLB
+      </italic>
+      in situ hybridization occurs in proliferative mouse epithelial cells [      ]. IPA data base showed
+      <italic>
+       RETNLB
+      </italic>
+      and
+      <italic>
+       FDPs
+      </italic>
+      were associated with endocrine system disorders;
+      <italic>
+       CAPG
+      </italic>
+      ,
+      <italic>
+       ACOT9, FDPS
+      </italic>
+      , and
+      <italic>
+       IMPDH2
+      </italic>
+      were associated with genetics disorder.
+      <italic>
+       CAPG
+      </italic>
+      encodes a member of the gelsolin/villin family of actin-regulatory proteins. By capping the barbed ends of actin filaments, the encoded CAPG protein contributes to the control of actin-based motility in non-muscle cells [      ].
+      <italic>
+       Salmonella
+      </italic>
+      effector proteins promote bacteria internalization by binding to actin and directly modulating actin dynamics [      -      ]. CAPG may be involved in regulation of actin microfilament remodeling which is required for
+      <italic>
+       Salmonella
+      </italic>
+      invasion at the early stage of infection. IPA data base showed that
+      <italic>
+       NOV, TIPIN
+      </italic>
+      , and
+      <italic>
+       IMPDH2
+      </italic>
+      are associated with cellular growth and proliferation. TIPIN has been shown to interact with Replication protein A [      ]. It is also associated with the cell cycle and DNA replication [      ]. The other 2 up-regulated genes,
+      <italic>
+       2010109I03RIK
+      </italic>
+      and
+      <italic>
+       FBXW12
+      </italic>
+      are associated with bio-process and molecular function and diseases.
+     </p>
+     <p>
+      Of the top 10 annotated down-regulated genes in SL1344 infected group at 8 hours, we found most of the genes were relative to the cell cycle and cell death process:
+      <italic>
+       TP53INP1, SGK1
+      </italic>
+      ,
+      <italic>
+       SSTR1
+      </italic>
+      and
+      <italic>
+       EMX2
+      </italic>
+      were involved in cell cycle;
+      <italic>
+       TP53INP1
+      </italic>
+      ,
+      <italic>
+       TGFBI
+      </italic>
+      ,
+      <italic>
+       SGK1
+      </italic>
+      and
+      <italic>
+       PLK3
+      </italic>
+      were involved in cell death. The result supports that
+      <italic>
+       Salmonella
+      </italic>
+      infection plays a role in regulating the host\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\s cell cycle and cell death process at early stages of infection, as we reported in a recent study [      ].
+     </p>
+     <p>
+      At 4 days post-infection, of the 10 annotated up-regulated genes, 70% genes are involved in inflammatory response and bacterial infection; only
+      <italic>
+       LGR1
+      </italic>
+      is involved in connective tissue development. Interestingly,
+      <italic>
+       S100
+      </italic>
+      family proteins are involved in the regulation of a number of cellular processes, and two members of this gene family,
+      <italic>
+       S100A8
+      </italic>
+      and
+      <italic>
+       S100 A9
+      </italic>
+      , were significantly up-regulated with a large fold change at 4 days post infection relative to non-infected mouse. In agreement with our results, Rodenburg
+      <italic>
+       et al
+      </italic>
+      also reported up-regulation of
+      <italic>
+       S100A8
+      </italic>
+      and
+      <italic>
+       S100A9
+      </italic>
+      in the rat colonic mucosa infected by
+      <italic>
+       Salmonella
+      </italic>
+      [      ].
+     </p>
+     <p>
+      Of the top 10 annotated down-regulated genes in SL1344 infected at 4 days (Table      ), 80% genes were involved in the regulation of cell cycle, cellular growth and proliferation and metabolism process, but
+      <italic>
+       SSTR1
+      </italic>
+      was also involved in inflammatory response. Interestingly,
+      <italic>
+       SSTR1
+      </italic>
+      showed continual down-regulation at both 8 hours and 4 days post-infection. The
+      <italic>
+       SSTR1
+      </italic>
+      gene encodes a protein called somatostatin receptor type 1. Somatostatin plays an important role in many physiological processes, such as growth hormone release, cell anti-proliferation, and inhibition of gastrointestinal motility and regulate a variety of signal transduction pathways [      -      ]. Moreover, we found that there are three protein families in this list that are involved in xenobiotic metabolism, such as cytochrome P450 (CYP4B1 and CYP2C18), sulfotransferase (SULT1A1), and carboxylesterase (CES1 and CES3). Downregulation of Cytochromes P450 (CYPs) in intestinal epithelium was also shown in response to chicken with
+      <italic>
+       Salmonella
+      </italic>
+      infection [      ] and proinflammatory cytokines [      ,      ].
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Relevant functions, pathways, and biological networks in intestinal mucosa post
+      <italic>
+       Salmonella
+      </italic>
+      infection
+     </title>
+     <p>
+      In order to identify the gene function and associated biological process for all of differentially expressed genes, the 453 up-regulated genes and 403 down-regulated genes in the 8 hours post-infection group (Figure      ), and the 2315 up-regulated genes and 5243 down-regulated genes in the 4 days post-infection group (Figure      ), were assigned to Ingenuity Pathways Analysis (IPA). In total, 229 up-regulated and 254 down-regulated GeneIDS at the 8 hours post-infection group, and 1427 up-regulated and 3368 down-regulated GeneIDS at the 4 days post-infection group, were eligible to biological process and gene network.
+     </p>
+     <p>
+      An over-representation of a specific biological process does not indicate whether the process in question is being stimulated or repressed overall. The interaction of
+      <italic>
+       Salmonella
+      </italic>
+      with intestine is a key event in the early phases of infection. Still, the signaling steps taking place during this interaction remain largely unknown. Therefore, we used IPA software to further investigate over- or under-represented pathway responses by
+      <italic>
+       Salmonella
+      </italic>
+      infection. In order to further investigate the global expression response to infection with
+      <italic>
+       Salmonella
+      </italic>
+      and to define how individual up-regulated and down-regulated genes interact to have a coordinated role in specific pathways, we further identified potential networks of response to
+      <italic>
+       Salmonella
+      </italic>
+      infection at the early stage and late stage, respectively.
+     </p>
+     <sec>
+      <title>
+       Relevant functions, pathways, and biological networks 8 hours post infection
+      </title>
+      <p>
+       In the 8 hours post-infection group, major functional gene categories were especially up-regulated by
+       <italic>
+        Salmonella
+       </italic>
+       infection including DNA replication, recombination and repair, cellular assembly and organization, cellular function and maintenance, and metabolism (Figure       ). Down-regulated genes at 8 hours post-infection were functionally associated with cellular development and carbohydrate metabolism, molecular transport, and small molecular biochemistry (Figure       ). However, pathways linked to gene expression and the cell cycle displayed altered regulation (Figure       and       ). The top canonical signaling and metabolic pathways within all of differentially expressed genes at 8 hours post infection group are shown in Figure       . All the pathways that were affected showed lower significance, which indicated that the pathways linked to these genes had no profound change for cell signaling and transduction at the early stage of infection.
+      </p>
+      <p>
+       As shown in Figure       the most significant pathway associated with differentially expressed genes in 8 hours post-infection is oxidative phosphorylation. The up-regulated genes involved in the pathway were localized in the mitochondria. Accordingly, we found that the pathway related to mitochondrial dysfunction is affected (Figure       ). These data suggested that the signaling response for mitochondrial function is a major event at the early stage of infection. Moreover, we found that most of genes associated with p53 signaling are down-regulated (Figure       and Additional file       Table S5). Significantly, there was prominent down-regulation mRNA level of
+       <italic>
+        TP53
+       </italic>
+       .
+      </p>
+      <p>
+       We further identify the network at 8 hours post
+       <italic>
+        Salmonella
+       </italic>
+       infection. Network 1 consists of 26 DEGs genes that almost all interact directly with nuclear factor-kappa B transcription factor (NF-κB) (Figure       and Additional file       Table S6). NF-κB pathway has been previously reported to be activated by
+       <italic>
+        Salmonella
+       </italic>
+       infection [       ,       -       ]. Our data showed that the network 1 is associated with Cellular Assembly and Organization (
+       <italic>
+        ENG, TRIP6ANXA1, ANXA2ITGB1BP1, CAPN10
+       </italic>
+       ), Cellular Function and Maintenance (
+       <italic>
+        ANX1 MUC1
+       </italic>
+       ), Antigen Presentation (
+       <italic>
+        ANXA1, ANXA2, IL18RAP CD69
+       </italic>
+       ) and Inflammatory Response (
+       <italic>
+        ANXA1, ANXA2, CD69, GPX1, IFITM2, IL18RAP, MX2
+       </italic>
+       ).
+      </p>
+      <p>
+       Overall, we identified 14 highly significant networks of potentially interacting up-regulated genes at 8 hours post-infection group (Additional file       Table S7). The highest ranked network is provided as Figure       . However, for down-regulated genes at 8 hours post infection, we identified 16 highly significant networks of potentially interacting down-regulated genes (Additional file       Table S8) and did not identify a network with center regulation.
+      </p>
+     </sec>
+     <sec>
+      <title>
+       Relevant functions, pathways, and biological networks 4 days post infection
+      </title>
+      <p>
+       In the 4 days post-infection group (Figure       ), major functional gene categories that were specifically up-regulated in
+       <italic>
+        Salmonella
+       </italic>
+       infection included cell-to-cell signaling and interaction, cellular movement, cellular development, antigen presentation, cell death, cellular growth and proliferation, and cellular function and maintenance. The pathways associated with RNA post-transcriptional modification, DNA replication, recombination, and repair, protein synthesis, lipid metabolism, post-translational modification and cell cycle were down-regulated (Figure       ), whereas pathways linked to gene expression displayed altered regulation (Figure       and       ).
+      </p>
+      <p>
+       We identified canonical pathways involving signaling that is associated with differential genes at 4 days post-infection (Additional file       Table S9 and Table       ). Table       lists the 20 most significant pathways for fold ≥ 1.2. As shown in Table       diverse and complex signals related to cell growth and proliferation, apoptosis signal, and cell immune/inflammatory transduction pathways are involved in the colon mucosa at 4 days post-infection.
+      </p>
+      <p>
+       These data revealed a unique landscape where induction of certain pathways limits the inflammatory response (e.g., IL-4, IL-9 and Interferon signaling), and was coupled with promoting the inflammatory response, such as acute phase response signaling and glucocorticoid receptor signaling. Pathway analysis revealed that two signaling pathways related to protein synthesis (EIF2 signaling as well as Role of PKR in Interferon induction and antiviral response) and three pathways related to lipid metabolism (Xenobiotic metabolism signaling, LPS/IL-1-mediated inhibition of RXR function, and LXR/RXR activation) were inhibited by
+       <italic>
+        Salmonella
+       </italic>
+       infection. Two pathways most related to cell growth and proliferation (IL-9 signaling and EGF signaling) were activated by
+       <italic>
+        Salmonella
+       </italic>
+       infection (Additional file       Figure S1 EGF and Figure S2 IL-9), but two pathways, Insulin receptor signaling and Estrogen receptor signaling related to cell growth and proliferation were inhibited. Three pathways most related to cell death and apoptosis (NRF2-mediated Oxidative Stress Response, p38 MAPK signaling and LPS-stimulated MAPK signaling) were activated.
+      </p>
+      <p>
+       We identified canonical pathways involving metabolism that are associated with differential genes at 4 days post infection. Figure       Additional file       Table S11, and Additional file       S12 show most of the genes involved in these metabolic pathways and all the metabolism pathways involved in mouse mucosa infection. Valine, leucine, and lsoleucine degradation and carbohydrate metabolism are the two most significant pathways in the analysis list. The top function of valine, leucine, and isoleucine degradation involves lipid metabolism, molecular transport, and nucleic acid metabolism.
+      </p>
+      <p>
+       Moreover, we identified 23 highly significant networks of interacting genes from amongst the up-regulated genes at 4 days post-infection group (Additional file       Table S13). For down-regulated genes, we identified 23 networks (Additional file       Table S14). The two highest ranked networks, IFN-γ and TNF-α, are provided in Figure       and Figure       .
+      </p>
+      <sec>
+       <title>
+        IFN-
+        <italic>
+         γ
+        </italic>
+       </title>
+       <p>
+        Network 2 presents IFNG (IFN-γ) in central positions and consists of 35 DEGs genes that are all regulated positively by IFN-γ (Figure        and Additional file        Table S15). The network is correlated with following functions: cell growth and proliferation (
+        <italic>
+         C190RF10, IFNG, LY6E, ATF1
+        </italic>
+        and
+        <italic>
+         IRGM
+        </italic>
+        ), inflammatory response (
+        <italic>
+         IFNG, IRGM, CD274
+        </italic>
+        and
+        <italic>
+         IFI44
+        </italic>
+        ), lipid metabolism
+        <italic>
+         (IFNG, DPAGT1, PHGDH
+        </italic>
+        ,
+        <italic>
+         H6PD, GBP5
+        </italic>
+        , and
+        <italic>
+         GPR109A
+        </italic>
+        ), and small molecule biochemistry (
+        <italic>
+         IFNG, DPAGT1, PHGDH, LY6E, H6PD, GBP5
+        </italic>
+        , and
+        <italic>
+         GPR109A
+        </italic>
+        ). Microarray data showed that all genes in the network were prominently up-regulated.
+       </p>
+       <p>
+        In order to confirm the physiological relevance of IFN-γ
+        <italic>
+         in vivo
+        </italic>
+        , we further investigated the secretion of the IFN-γ cytokine in mouse serum. In Figure        , significant differences were found between control and 4 days post-infection. Using real-time PCR, we further verified the expression of some genes in the IFN-γ network (Figure        ).
+        <italic>
+         IFNG, GBP4
+        </italic>
+        , and
+        <italic>
+         GBP5
+        </italic>
+        showed dramatic increase post
+        <italic>
+         Salmonella
+        </italic>
+        infection.
+       </p>
+      </sec>
+      <sec>
+       <title>
+        TNF-α
+       </title>
+       <p>
+        The network3 presents TNF (TNF-α) in central positions and consists of 28 DEGs genes that are all positively regulated by TNF-α (Figure        and Additional file        Table S16). The network is linked to the following functions: nucleic acid metabolism (SLC28A2), lipid metabolism (
+        <italic>
+         PDPN, ASAH1, LSS
+        </italic>
+        ,
+        <italic>
+         NAMPT
+        </italic>
+        and
+        <italic>
+         TNF
+        </italic>
+        ), small molecule biochemistry (
+        <italic>
+         ASAH1, LSS, NAMPT, TNF and SLC28A2
+        </italic>
+        ), cell death (
+        <italic>
+         NAMPT, TNF, CHI3L1
+        </italic>
+        and
+        <italic>
+         ASAH1
+        </italic>
+        ), hematological system development and function (
+        <italic>
+         CHST4, TNF and SLFN12L
+        </italic>
+        ), immune cell trafficking (
+        <italic>
+         CHI3L1, TNF
+        </italic>
+        and
+        <italic>
+         CHST4
+        </italic>
+        ), cellular function and maintenance (
+        <italic>
+         CTSZ
+        </italic>
+        and
+        <italic>
+         TNF
+        </italic>
+        ), genetic disorder (
+        <italic>
+         ASAH1
+        </italic>
+        and
+        <italic>
+         BTNL2
+        </italic>
+        ), inflammatory disease (
+        <italic>
+         BTNL2
+        </italic>
+        and
+        <italic>
+         TNF
+        </italic>
+        ), antigen presentation (
+        <italic>
+         CTSZ
+        </italic>
+        and
+        <italic>
+         TNF
+        </italic>
+        ), cellular growth and proliferation (
+        <italic>
+         C11ORF82, SLFN12L
+        </italic>
+        and
+        <italic>
+         TNF
+        </italic>
+        ), and inflammatory response (OAS1 and TNF).
+       </p>
+       <p>
+        We also investigated the secretion of the TNF-α cytokine in mouse serum. In Figure        , significant difference was found between control and 4 days post infection. Moreover, the expressions of some genes from the TNF-α network were verified using real-time PCR assay (Figure        ).
+       </p>
+      </sec>
+      <sec>
+       <title>
+        NR3C1
+       </title>
+       <p>
+        The NR3C1 protein is a receptor for glucocorticoids that can act as both a transcriptional factor and as a regulator of other transcription factors. As shown in Figure        and Additional file        Table S17, NR3C1 was in the central position of the network. This network was consisted of 35 down-regulated genes that are all positively regulated by NR3C1. We observed that top functions these genes involved are RNA post-Transcriptional Modification (
+        <italic>
+         CLP1 TSEN2
+        </italic>
+        and
+        <italic>
+         TSEN54
+        </italic>
+        ) and infectious disease and inflammatory disease (
+        <italic>
+         NR3C1, PPP3CC
+        </italic>
+        , and
+        <italic>
+         PPP3R1
+        </italic>
+        ). Down-regulation of this gene is caused by glucocorticoid resistance, or cortisol resistance. Currently, glucocorticoid resistance or insensitivity is a major barrier in the treatment of several common inflammatory diseases [        ].
+       </p>
+      </sec>
+     </sec>
+    </sec>
+    <sec>
+     <title>
+      Co-regulated biological and common pathways at both times post
+      <italic>
+       Salmonella
+      </italic>
+      infection
+     </title>
+     <p>
+      The IPA analysis confirmed the major functionally related groups that were found to be commonly up-or down-regulated in both of the time-point infection groups. Thus, the pathways functionally linked to cell function and maintenance were induced at both the early stage and late stage of infection (Figure      and      ). The pathways functionally related to cell cycle control and gene expression displayed suppression in
+      <italic>
+       Salmonella
+      </italic>
+      infection at both time points (Figure      and      ), whereas the pathway functionally related to lipid metabolism showed up-regulation in response to
+      <italic>
+       Salmonella
+      </italic>
+      infection at early stage, but showed down-regulation at the late stage of 4 days post infection.
+     </p>
+     <p>
+      To investigate the co-regulated biological processes during the early and late stages of SL1344 infection, we searched for co-differentially expressed genes among both groups. A set of 43 genes was found to be commonly up-regulated in response to
+      <italic>
+       Salmonella
+      </italic>
+      infection at the early and late stage of infection (Additional file      Table S18). The top five functional categories associated with these common up-regulated genes are as follows: cellular assembly and organization (
+      <italic>
+       DYNLT1
+      </italic>
+      ,
+      <italic>
+       ANXA1
+      </italic>
+      ,
+      <italic>
+       BARD1
+      </italic>
+      ,
+      <italic>
+       SRF
+      </italic>
+      ,
+      <italic>
+       ANXA2
+      </italic>
+      ,
+      <italic>
+       ENG
+      </italic>
+      and
+      <italic>
+       TMSB10
+      </italic>
+      ); cellular development (
+      <italic>
+       MUC1
+      </italic>
+      ,
+      <italic>
+       DYNLT1
+      </italic>
+      ,
+      <italic>
+       PCSK9
+      </italic>
+      ,
+      <italic>
+       ANXA1
+      </italic>
+      ,
+      <italic>
+       SRF
+      </italic>
+      ,
+      <italic>
+       CAPG
+      </italic>
+      ,
+      <italic>
+       JUNB
+      </italic>
+      ,
+      <italic>
+       ENG
+      </italic>
+      and
+      <italic>
+       PLAC8
+      </italic>
+      ); gene expression (
+      <italic>
+       MUC1
+      </italic>
+      ,
+      <italic>
+       IL18RAP
+      </italic>
+      ,
+      <italic>
+       SRF
+      </italic>
+      ,
+      <italic>
+       JUNB
+      </italic>
+      , and
+      <italic>
+       ENG
+      </italic>
+      ); cell growth and proliferation (
+      <italic>
+       MUC1
+      </italic>
+      ,
+      <italic>
+       IL18RAP
+      </italic>
+      ,
+      <italic>
+       BARD1
+      </italic>
+      ,
+      <italic>
+       RRM2
+      </italic>
+      ,
+      <italic>
+       SRF
+      </italic>
+      ,
+      <italic>
+       ANXA2
+      </italic>
+      ,
+      <italic>
+       JUNB
+      </italic>
+      ,
+      <italic>
+       FGFBP1
+      </italic>
+      ,
+      <italic>
+       ANXA1
+      </italic>
+      ,
+      <italic>
+       CYBB
+      </italic>
+      ,
+      <italic>
+       ENG
+      </italic>
+      ,
+      <italic>
+       PLAC8
+      </italic>
+      and
+      <italic>
+       TMSB10
+      </italic>
+      ); cell death (
+      <italic>
+       MUC1
+      </italic>
+      ,
+      <italic>
+       BARD1
+      </italic>
+      ,
+      <italic>
+       CYBB
+      </italic>
+      ,
+      <italic>
+       GMFG
+      </italic>
+      and
+      <italic>
+       TMSB10
+      </italic>
+      ) (Additional file      Table S19). Interestingly, Mucin 1 (
+      <italic>
+       MUC1
+      </italic>
+      ) was found to be involved in a variety of biological processes, and
+      <italic>
+       MUC1
+      </italic>
+      \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\s role in host defense has been revealed by McAuley JL et al (2007)[      ].
+     </p>
+     <p>
+      A set of 173 genes was found to be commonly down-regulated in response to
+      <italic>
+       Salmonella
+      </italic>
+      infection at both the early and late stage (Additional file      Table S20). The top five functional categories associated with these common down-regulated genes are shown in Additional file      Table S21. They are as follows: cellular development (
+      <italic>
+       KITLG
+      </italic>
+      ,
+      <italic>
+       CBX7
+      </italic>
+      ,
+      <italic>
+       SLC4A2
+      </italic>
+      ,
+      <italic>
+       TBX3
+      </italic>
+      ,
+      <italic>
+       STRBP
+      </italic>
+      , SAFB,
+      <italic>
+       ROBO2
+      </italic>
+      ); cellular compromise (
+      <italic>
+       KITLG
+      </italic>
+      ,
+      <italic>
+       PRSS23, NFE2L2
+      </italic>
+      ); cellular movement (
+      <italic>
+       KITLG
+      </italic>
+      ,
+      <italic>
+       NOV
+      </italic>
+      ,
+      <italic>
+       NDEL1
+      </italic>
+      ,
+      <italic>
+       LPAR1
+      </italic>
+      ,
+      <italic>
+       HSF2
+      </italic>
+      ,
+      <italic>
+       ROBO2
+      </italic>
+      ,
+      <italic>
+       NFE2L2
+      </italic>
+      ,
+      <italic>
+       SLC12A6
+      </italic>
+      ); cell cycle (
+      <italic>
+       KITLG, BHLHE40, HSF2, CHKA, SSTR1, MNAT1
+      </italic>
+      ); RNA post-transcriptional modification (
+      <italic>
+       YTHDC1
+      </italic>
+      ,
+      <italic>
+       RBM16
+      </italic>
+      ,
+      <italic>
+       PNN
+      </italic>
+      ,
+      <italic>
+       RPS28
+      </italic>
+      ,
+      <italic>
+       SAFB
+      </italic>
+      ,
+      <italic>
+       RPL26
+      </italic>
+      ,
+      <italic>
+       EXOSC7
+      </italic>
+      ). Remarkably,
+      <italic>
+       KITLG
+      </italic>
+      was also found to be involved in a variety of biological processes (Table S7). The role of
+      <italic>
+       KITLG
+      </italic>
+      in the maintenance and survival of hematopoietic stem cells and of mast cells is well recognized [      ] and was believed to play a role in tumorigenesis [      ]. Downregulation of
+      <italic>
+       KITLG
+      </italic>
+      may inhibit cell migration and stem cell hemtopoiesis during the whole infection process.
+     </p>
+     <p>
+      In order to identity co-regulated pathway, we further performed pathway analysis. For these differentially expression genes between 8 hours pos-infection and 4 days post-infection, the metabolic pathways are shown in Figure S3 and the top canonical signaling pathways are in Figure S4. All of canonical signaling and metabolic pathway are listed in Tables S11 and S18. Comparing to 8 hours post-infection group, oxidative phosphorylation, ubiquinone biosynthesis, and mitochondrial dysfunction were totally shut-off at the 4 days post infection (Additional file      Figure S3 and S4). As shown in Table S18 (Additional file      ), most of signaling pathway list is similar to that of the pathway analysis for these genes between the 4 days post-infection group and the control group. The early modified signaling pathways, such as p53 signaling, was not maintained 4 days post infection. Moreover, pathway comparison analysis for the data of the 8 hours post-infection relative to control with the 4 days post-infection relative to control confirmed these results (Additional file      Figure S5).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Validation of differentially expressed genes by real-time-PCR
+     </title>
+     <p>
+      To validate the microarray results, we analyzed 13 transcripts, in addition to the 10 genes from the IFN-γ and TNF-α networks, by quantitative real time-PCR (Figure      ). These genes were selected because of their top ranking positions on the differentially expressed gene list at both time points. Results showed that all of genes exhibited a similar transcriptional profile to that of microarray data. The Pearson correction coefficient between the qRT-PCR and microarray data for 13 top ranking differentially expressed was 0.86. Moreover, 10 genes with lower or medium fold change around both INF-γ and TNF-α network (Figure      and Figure      ) were also analyzed using samples generated from infected animals. Real-time PCR results showed 9 genes were up-regulated with the similar transcriptional profile as that of microarray data, except IL1RN without any change. Hence, the microarray provided a reliable comparison of gene expression in mouse mucosa samples at 8 hours and 4 days post-infection.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Validation of differentially expressed genes at the protein level by Western blot
+     </title>
+     <p>
+      Akts are crucial mediators of various cellular processes, such as cell proliferation, apoptosis, regulation of the cell cycle and metabolism, and protein synthesis. Pathway analysis indicated that Akt3 is involved in the following pathways, including NF-κB pathway, EIF2 signaling, Glucocorticoid receptor signaling, eIF4 and p70S6K signaling, IL-4 signaling, Insulin receptor signaling, mTOR signaling, Jak/Stat Signaling, and VEGF signaling (Additional file      Table S5). In order to confirm Akt\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\s function in
+      <italic>
+       Salmonella
+      </italic>
+      infection, we further analyzed Akts protein expression level using Western blot and immunofluorescence.
+     </p>
+     <p>
+      As analyzed by Western Blot (Figure      ),
+      <italic>
+       Salmonella
+      </italic>
+      infection increased the expression of total Akt proteins compared to the control. This result is in agreement with changes at the mRNA expression level. An important step in Akt activation is its translocation from the cytosol to the plasma membrane [      ]. Therefore, we tested whether Akt became activated in response to the infection of
+      <italic>
+       salmonella
+      </italic>
+      in colon mucosa. We found that the total Akt protein was located in cytosol of the normal colon. In contrast, most of the Akt was translocated in the plasma membrane with stronger staining in the infection group (Figure      bright red staining).
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Histopathological analysis of
+      <italic>
+       Salmonella
+      </italic>
+      -infected and non infected tissues
+     </title>
+     <p>
+      To confirm the
+      <italic>
+       Salmonella
+      </italic>
+      -induced colon mucosal inflammation, we performed histopathological analysis of H&amp;E-stained tissue sections. As shown in Figure      , we did not observe inflammatory pathological changes in the infection group at 8 hours compared to the control group. Both the infection group at 8 hours and control group showed the integrity of the epithelial layer identical to that of control group. However, at 4 days post infection, H&amp;E-stained tissue sections revealed extensive pathological changes in the colon epithelium. We observed several inflammatory features, including crypt destruction and villin degradation, as well as the presence of necrotic epithelial cells (Figure      ). In addition, immunostaining data also showed the presence of
+      <italic>
+       Salmonella
+      </italic>
+      in mouse colon 4 days post-infection (Figure      ).
+     </p>
+     <p>
+      Gut homeostasis is maintained through a balance between cell damage due to the collateral effects of bacterial killing and epithelial repair by proliferation. At the late stage of infection, a series of pathways associated with inflammatory response and proliferation were identified (Table      ). Next, we examined the biological effect of
+      <italic>
+       Salmonella
+      </italic>
+      infection expression on epithelial proliferation, which is regulated by multiple pathways, including the Akt and EGF pathways. BrdU staining was performed to measure the BrdU incorporation into newly synthesized DNA. As shown in Figure      , BrdU-positive staining (pink) in the merged BrdU staining (red) and DAPI (blue) showed that
+      <italic>
+       Salmonella
+      </italic>
+      infection induced a more dramatic increase in epithelial cell proliferation compared to the control group without any treatment. The number of the proliferating cells per intestinal gland further showed that
+      <italic>
+       Salmonella
+      </italic>
+      increased epithelia proliferation to 12 proliferative cells per intestinal gland (Figure      ). Our biophysiologic data is consistent with the microarray pathway analysis.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Discussion
+    </title>
+    <p>
+     In the current study, the
+     <italic>
+      Salmonella
+     </italic>
+     -induced pathway and network changes were mainly observed to show inflammatory inhibition and oxidative stress in mitochondria at the early stage of infection, while at the late stage of infection, the dramatic changes in thousands of gene expression are characterized.
+    </p>
+    <p>
+     Two networks for up-regulated genes around IFN-γ and TNF-α were identified and cross-talked with some identified signaling pathways. Furthermore, a series of pathways associated with inflammatory/immune response, cell proliferation, cell apoptosis, and developmental disorder were appraised. The biochemical and pathologic data were consistent with the microarray analysis and confirmed the biological role of
+     <italic>
+      Salmonella
+     </italic>
+     in inducing inflammation and epithelium cell proliferation through the regulation of multiple signaling pathways.
+    </p>
+    <sec>
+     <title>
+      <italic>
+       Salmonella
+      </italic>
+      infection and apoptosis
+     </title>
+     <p>
+      Intestinal epithelial apoptosis is a response to bacterial infection [      ].
+      <italic>
+       Salmonella
+      </italic>
+      effector AvrA dampened the proapoptotic innate immune response to
+      <italic>
+       Salmonella
+      </italic>
+      at the mouse intestinal mucosa [      ]. Our microarray data also showed that a number of genes involved in apoptosis presented
+      <italic>
+       Salmonella
+      </italic>
+      -induced expression changes, including up-regulated Caspase family members (
+      <italic>
+       CASP3, CASP7
+      </italic>
+      ,
+      <italic>
+       CASP8 and CASP12
+      </italic>
+      ), Poly (ADP-ribose) polymerase family members
+      <italic>
+       (PARP3, PARP9, PARP12 and PARP14
+      </italic>
+      ) and some down-regulated genes (
+      <italic>
+       Famim3, Stk4, Stk17 and Nalp1
+      </italic>
+      ). Accordingly, as shown in Table      strong induction of apoptosis-related pathways were involved in response to
+      <italic>
+       Salmonella
+      </italic>
+      infection at 4 days, such as IL-9 (anti-apoptosis), retinoic acid mediated apoptosis (pro-apoptosis), caspase family mediated apoptosis(pro-apoptosis), and LPS-stimulated MAPK pathway (pro-apoptosis). These apparently contradictory pathways may reflect the complexity of the apoptosis process in mouse colon mucosa responded to
+      <italic>
+       Salmonella
+      </italic>
+      infection.
+     </p>
+     <p>
+      <italic>
+       Salmonella
+      </italic>
+      effector protein SigD/SopB protects epithelial cells from apoptosis by sustained activation of Akt [      ,      ]. Our microarray analysis along with the Western blots and immunostaining
+      <italic>
+       in vivo
+      </italic>
+      confirmed these previous researches. Overall, these results suggest that
+      <italic>
+       Salmonella
+      </italic>
+      infection
+      <italic>
+       in vivo
+      </italic>
+      increased Akt protein levels and induced Akt activation, thus regulating multiple signaling pathways.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Epidermal growth factor receptor (EGFR) is involved in
+      <italic>
+       Salmonella
+      </italic>
+      infection
+      <italic>
+       in vivo
+      </italic>
+     </title>
+     <p>
+      EGFR is a transmembrane glycoprotein with an intrinsic tyrosine kinase. Ligand binding to the EGFR activates cell signaling. Galan
+      <italic>
+       et al
+      </italic>
+      . (1992) [      ] reported that stimulation of the EGF receptor is involved in the invasion of cultured Henle-407 cells by
+      <italic>
+       Salmonella
+      </italic>
+      infection. EGFR downstream signaling proteins initiate several signal transduction cascades, principally the Stat3/Stat1, MAPK, Akt and JNK pathways, leading to DNA synthesis and cell proliferation [      ]. Bertelson
+      <italic>
+       et a
+      </italic>
+      l. further reported
+      <italic>
+       Salmonella
+      </italic>
+      effector SigD can activate the EGFR signaling in T84 epithelial monolayers cells through downstream signaling PI3K, and pointed out that this activation may induce different actions than what is observed in the EGFR pathway [      ]. We observed the mRNA level of
+      <italic>
+       EGFR
+      </italic>
+      to be up-regulated (Additional file      Table S22 and Figure S1), and downstream signaling protein, such as STAT3, STAT1, AKT3 and MKK4 also showed up-regulation at 4 days post infection. Hence, our microarray data confirms previous research and extends the down-stream signaling of EGFR response to
+      <italic>
+       Salmonella
+      </italic>
+      infection and provides more comprehensive information about the EGFR pathway involved in
+      <italic>
+       Salmonella
+      </italic>
+      infection.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      Oxidative stress response signaling and metabolism
+     </title>
+     <p>
+      NRF2-mediated oxidative stress response signaling was the most significant pathway at 4 days post infection (Table      ). This pathway involved 55 up-regulated genes and 24 down-expressed genes. Oxidative stress is caused by an imbalance between the production of reactive oxygen and the detoxification of reactive intermediates. Severe oxidative stress can trigger apoptosis and necrosis. The cellular defense response to oxidative stress includes induction of detoxifying enzymes, heat shock proteins, and antioxidant enzymes (microarray data suggested). Roland Nilsson et al found that LPS stimulation is a pivotal role for NRF-2 in orchestrating the LPS response in macrophages [      ]. NRF2-mediated oxidative stress response signaling in the mouse colon intestine may be activated by
+      <italic>
+       Salmonella
+      </italic>
+      LPS. Interestingly, heat shock protein 40 (DNJ family) showed significant change in this pathway (Additional file      Table S23). Of the DNJ members, DNJ5 showed the most significant up-regulation. Takaya A et al (2004)[      ] reported that DnaK/DnaJ chaperone machinery is involved in the bacterial invasion of intestine epithelial cells. Recently, ERdj3, an endoplasmic reticulum luminal chaperone of the Hsp40/DnaJ family, is further indentified as a target for
+      <italic>
+       Salmonella
+      </italic>
+      effector protein SlrP in HeLa cells [      ]. Taken together,
+      <italic>
+       Salmonella
+      </italic>
+      effector Slrp may play a role in transmitting NRF2-mediated oxidative stress response signaling in colon mucosa.
+     </p>
+     <p>
+      As shown in Additional file      , Figure S6 and Additional file      Table S24, all genes involved in antigen presentation pathway were up-regulated. These results are consistent with the gene expression patterns observed in the porcine lung during
+      <italic>
+       Salmonella
+      </italic>
+      infection [      ]. These data illustrate that the antigen processing pathway was activated by pathogenic
+      <italic>
+       Salmonella
+      </italic>
+      infection in colon mucosa (Table      Figure S6).
+     </p>
+     <p>
+      Most genes, such as
+      <italic>
+       CD80
+      </italic>
+      ,
+      <italic>
+       FAS, PLA2G12A, PLA2G12B, PTGS, TNFRSF1A, TNFSF1B, IIGP1
+      </italic>
+      ,
+      <italic>
+       TRAF1, TIRAP, AKT3, TLR2, TLR3, TLR4, STAT1, STAT2, SLC11A1, SLC16A3, IRF9 IFIT2, and IL1B
+      </italic>
+      , which are known to be involved in innate/inflammatory pathway, increase their RNA expression levels significantly at 4 days post-infection. Accordingly, p38 MAPK signaling, MIF regulation of innate immunity, and LPS-stimulated MAPK signaling pathways were all activated. Most of interferon-induced protein, such as
+      <italic>
+       IFI35
+      </italic>
+      ,
+      <italic>
+       IFI73
+      </italic>
+      ,
+      <italic>
+       IFNAR2
+      </italic>
+      and
+      <italic>
+       IFNG
+      </italic>
+      , were up-regulated by
+      <italic>
+       Salmonella
+      </italic>
+      . At 4 days post-infection, interferon signaling pathways were strongly affected (Table      Additional file      Figure S7 and Additional file      Table S15). Top functions of these genes were associated with antigen presentation, cell morphology and cell to cell signaling.
+     </p>
+     <p>
+      As shown Additional file      Table S25, 43 enzymes in the valine, leucine, and isoleucine degradation pathway were down-regulated at 4 days post-infection, including acetyl-Coenzyme A acyltransferase family member (
+      <italic>
+       ACAA1, ACAA2
+      </italic>
+      and
+      <italic>
+       ACAA1B
+      </italic>
+      ), acyl-Coenzyme A dehydrogenase family member (
+      <italic>
+       ACAD8, ACAD10, ACADL, ACADM
+      </italic>
+      and
+      <italic>
+       ACADS
+      </italic>
+      ), and aldehyde dehydrogenase family member (
+      <italic>
+       ALDH2, ALDH1A1, ALDH1A3, ALDH1A7, ALDH1B1, ALDH1B1, ALDH3A2
+      </italic>
+      and
+      <italic>
+       ALDH6A1, ALDH7A1
+      </italic>
+      ). Interestingly, we observed that these enzymes are also involved in other metabolic pathways including valine, leucine, and isoleucine degradation, propanoate metabolism, fatty acid metabolism, and fatty acid elongation in mitochondria. Thus, down-regulation of these important genes may play key role in disordering embolism activities of colon mucosa.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      NF-κB
+     </title>
+     <p>
+      NF-κB is a key transcriptional regulator of innate and adaptive immunity. We found that
+      <italic>
+       S100A1
+      </italic>
+      ,
+      <italic>
+       MUC1
+      </italic>
+      ,
+      <italic>
+       and TRIP6
+      </italic>
+      around NF-κB increases NF-κB activity, but rather,
+      <italic>
+       BEX2, GLRX3, GPX1
+      </italic>
+      and
+      <italic>
+       PXCARD
+      </italic>
+      decreases NF-κB activity. Interestingly, our microarray data showed that the expression level of
+      <italic>
+       BEX2, GLRX3, GPX1
+      </italic>
+      and
+      <italic>
+       PXCARD
+      </italic>
+      were down-regulated at 4 days post-infection, which is different from the up-regulated mRNA level at 8 hours post infection. However,
+      <italic>
+       S100A1, MUC1
+      </italic>
+      , and
+      <italic>
+       TRIP6
+      </italic>
+      showed a continued up-regulated status at 4 days post-infection.
+     </p>
+     <p>
+      <italic>
+       I
+      </italic>
+      κ
+      <italic>
+       Bα
+      </italic>
+      and
+      <italic>
+       I
+      </italic>
+      κ
+      <italic>
+       Bz
+      </italic>
+      as inhibitory genes are activated by NF-κB in a negative feed back loop, which provides an effective mechanism for controlling the NF-κB activity [      ,      ]. However, we found both genes were not indentified in this network. Further microarray data also showed mRNA level of
+      <italic>
+       I
+      </italic>
+      κ
+      <italic>
+       Bα
+      </italic>
+      and IκBz remained unchanged at 8 hours post infection, but showed prominent change at 4 days post infection.
+     </p>
+     <p>
+      Based on the above microarray information, we speculate that NF-κB activity undergoes early stimulation without demonstrable feedback regulation, but at with demonstrable feedback regulation at the late stage of infection. Porcine MLN during
+      <italic>
+       Salmonella
+      </italic>
+      infection also showed the similar regulation process [      ].
+     </p>
+    </sec>
+    <sec>
+     <title>
+      IFN-γ and TNF-α
+     </title>
+     <p>
+      IFN-γ is a remarkable cytokine that orchestrates many distinct cellular programs through transcriptional controlling over large numbers of genes [      ]. The role of IFN-γ is related to host defense against
+      <italic>
+       Salmonella
+      </italic>
+      infection [      ]. Actually, the network analysis supports that interferon signaling was activated by
+      <italic>
+       Salmonella
+      </italic>
+      infection. We further pointed out the central role that IFN-γ plays in mice colonic against bacterial infection (Figure S7 and Table S15).
+     </p>
+     <p>
+      GTPase family is clearly regulated by IFN-γ-induced genes [      ], which regulate the survival of pathogens residing in phagosomes vacuoles. We observed that GTPase family members, such as
+      <italic>
+       GViN1, Gbp8, Gbp5, IIGP1
+      </italic>
+      and
+      <italic>
+       IRGM
+      </italic>
+      , are directly targeted by IFN-γ (Figure      ). The data correlate with the observation in rat colonic cells infected with
+      <italic>
+       Salmonella
+      </italic>
+      [      ,      ]. In particular,
+      <italic>
+       IIGP1
+      </italic>
+      was found to be highly up-regulated in our microarray data (90 fold times). Uthaiah RC et al (2003) [      ] also reported that recombinant IIGP1 showed cooperative enzymatic activity and GTP-dependent multimerization.
+     </p>
+     <p>
+      TNF-α encodes a multifunctional proinflammatory cytokine that belongs to the tumor necrosis factor (TNF) superfamily. This cytokine is involved in the regulation of a wide spectrum of biological processes including cell proliferation, differentiation, apoptosis and lipid metabolism [      ,      ]. As expected, the genes in this network are associated with TNF function. Interestingly, we observed
+      <italic>
+       GBP4
+      </italic>
+      and
+      <italic>
+       GBP6
+      </italic>
+      as IFN-γ induced genes (Figure      ) that are also involved in TNF-α network.
+      <italic>
+       GBP4
+      </italic>
+      showed highly up-regulated in microarray data. Degrandi
+      <italic>
+       et al
+      </italic>
+      . (2007)[      ] reported mouse TNF-α protein increases expression of mouse
+      <italic>
+       GBP4
+      </italic>
+      mRNA in ANA-1 cells, but we did not find other reports showing that
+      <italic>
+       GBP6
+      </italic>
+      were TNF-α-induced genes. Therefore, further experiment is needed to establish whether this gene is up-regulated by TNF-α in mouse colonic mucosa after
+      <italic>
+       Salmonella
+      </italic>
+      infection.
+     </p>
+     <p>
+      Clare
+      <italic>
+       et al
+      </italic>
+      . (2003) used ICAM (-/-) knockout mice to demonstrate that ICAM-1 plays a critical role during the rechallenge of immunized mice with virulent
+      <italic>
+       Salmonella
+      </italic>
+      [      ]. Our network and microarray data also confirmed that the intracellular adhesion molecule ICAM was induced by TNF-α. We further observed
+      <italic>
+       CTSZ
+      </italic>
+      as an antigen presentation molecule is also up-regulated. Thus, the network analysis is consistent with the previous experiment results: production of TNF-α in the intestinal tract following
+      <italic>
+       S
+      </italic>
+      .
+      <italic>
+       typhimurium
+      </italic>
+      infection and the observation that early pathology induced by
+      <italic>
+       Salmonella
+      </italic>
+      infection of the gastrointestinal tract is mediated by immune mechanisms [      ].
+     </p>
+     <p>
+      Overall, the number of connections among the molecules other than TNF-α or IFN-γ is quite limited (Figure      and Figure      ). Most of genes are targeted directly by TNF-α or IFN-γ, which are very different from that of NF-κB network shown in Figure      . Hence, these TNF-α or IFN-γ networks further reflect the pleiotropic action of proinflammatory cytokine involved in host defense against
+      <italic>
+       Salmonella
+      </italic>
+      infection by regulating extensive biological process.
+     </p>
+    </sec>
+    <sec>
+     <title>
+      T helper 2 (Th2) immune response
+     </title>
+     <p>
+      Both Interleukin-4 (IL-4) and Interleukin-9 (IL-9) are multifunctional cytokine secreted by T helper 2 (Th2) lymphocytes. IL-9 stimulates the growth and proliferation of T cells, and promotes the proliferation and differentiation of mast cells and hematopoietic progenitors [      ,      ]. IL-4 plays a critical role in the regulation of immune responses [      ] and the pathogenesis of inflammatory bowel disease [      ,      ].
+     </p>
+     <p>
+      Previous research study reveled that IL-9 receptor and IL-4 receptor ligation results in auto and/or trans-phosphorylation of Janus kinases 1 and 3 (JAK1 and JAK3) phosphorylation of the receptor, and activation of the pathways involved in IL-9 signaling and IL-4 signaling [      ,      ]. These pathways include signal transducer and activator of transcription 1, 3, 5 and 6 (STAT1, STAT3, and STAT5 and STAT6), Insulin receptor substrate 1 and 2 (IRS-1 and IRS-2)/Phosphoinositide-3-kinase (PI3K regulatory subunit) and Extracellular signal regulated kinases 1 and 2 (ERK1/2) [      -      ].
+     </p>
+     <p>
+      We observed the mRNA level of IL-9 receptor (
+      <italic>
+       IL-2 R
+      </italic>
+      ) and IL-4 receptor (
+      <italic>
+       IL-2R, IL-4R IL-13 R
+      </italic>
+      ) are up-regulated and that downstream signaling protein, such as JAK2 JAK3, STAT1, STAT2, STAT3, IRS1, SOCS1 and SOCS3 showed up-regulation at 4 days post infection (Figure S2, Figure S8, Additional file      Table S26, and Additional file      Table S27). Dumoutier
+      <italic>
+       et al
+      </italic>
+      . reported that STAT1 and STAT3, activated by IL-9, then up-regulate the transcription of IL-3 and IL-22, which are involve in the generation of inflammatory and allergic responses [      ]. Accordingly, we also observed that Interleukin-3 and 22 were up-regulated in mouse colon mucosa with
+      <italic>
+       Salmonella
+      </italic>
+      infection at four days (Additional file      Table S2). IL-4 is produced in response to IL-18 or IL-33 stimulation from mouse basophils [      ]. We also found IL-18b and IL-33 to be up-regulated (Additional file      Table S2). Overall, these data illustrate that the IL-4 and IL-9 signaling pathway associated with TH2 immune response was activated by pathogenic
+      <italic>
+       Salmonella
+      </italic>
+      infection in colon mucosa.
+     </p>
+     <p>
+      Recent advances have called attention to the the involvement of allergen- and parasite product-mediated activation of epithelial cells, basophils and dendritic cells and the functions of the cytokines IL-4, IL-25, IL-33 in the initiation and amplification of TH2-type immune responses
+      <italic>
+       in vivo
+      </italic>
+      [      ,      ].
+     </p>
+     <p>
+      Cytokines play a key role in IBD that determine T cell differentiation of Th1, Th2, T regulatory and newly described Th17 cells [      ]. Hence, IL-4 and IL-9 signaling pathway activated in mouse mucosa with
+      <italic>
+       Salmonella
+      </italic>
+      infection provides more comprehensive information about how the Th2 immune system interplays with signaling transducers in colon mucosal inflammation.
+     </p>
+     <p>
+      In
+      <italic>
+       Drosophila
+      </italic>
+      , the Janus kinases-signal transducers and activators of transcription (Jak-Stat) pathway plays an important role in hematopoiesis, stress response, stem cell proliferation, and antiviral immunity in intestine [      ,      -      ]. Interestingly, mouse microarray data showed Jak2, Stat1 and Stat3 as vital proteins in this pathway and were up-regulated at the 4 days post-infection. The mouse colon mucosal complex system is different from
+      <italic>
+       Drosophila
+      </italic>
+      gut, stat proteins are intracellular effector molecules of cytokine-modulated signaling in mammalian immune system [      ]. Further research is needed to validate our analysis and how JAK-Stat signaling regulates the host response during
+      <italic>
+       Salmonella
+      </italic>
+      infection.
+     </p>
+     <p>
+      However, even if we confirmed the coherence of our microarray data by other molecular biology approaches, this study has limitations: transcriptional changes not representing the changes at the post-transcriptional level, posttransductional behavior of the differentially expressed genes, and statistical error. For example, our published data showed that
+      <italic>
+       Salmonella
+      </italic>
+      effector AvrA can activate the beta-catenin pathway through deubquitination [      ]. However, this activated pathway was not revealed in this analysis. Further studies combining genomic and proteomic are necessary to find out more details of host cell interplay with
+      <italic>
+       Salmonella
+      </italic>
+      . Moreover, the colon mucosa tissue samples used in this experiment contained several cell types. Diverse pathways may be activated in different cell types, not necessarily within one kind of cells. Future research on structured information and pathways occurring in individual kind of cells is required.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Conclusion
+    </title>
+    <p>
+     In this current study, we are the first to show a bioinformatics strategy to investigate global pathway and network of host responses to
+     <italic>
+      Salmonella
+     </italic>
+     infection in mouse colon mucosa at the early and chronic infection stages. We found that
+     <italic>
+      Salmonella
+     </italic>
+     infection caused dramatic changes in gene expression of colon mucosa, which further leads to a sequence of cellular events that involve activating and blocking signaling modulation responses in colon mucosa. IFN-γ- and TNF-α receptor-mediated signaling cascades stimulated the expression of IFN-γ- and TNF-α-inducible genes. We not only confirmed IFN-γ and TNF-α secretion in mice infected with
+     <italic>
+      Salmonella
+     </italic>
+     , but also observed that many of the genes regulated by cytokine IFN-γ and TNF-α contributed to the modulation of cell proliferation and growth, apoptosis, and developmental disorders.
+    </p>
+    <p>
+     Moreover, we observed a general repression process of metabolic pathways, specifically shown in the amino acid metabolic and lipid metabolic related pathways. These changed genes are not commonly altered in a cytokine-dependent manner. We speculate that the inhibited metabolic pathways in host cells combined with the relevant signaling pathways presumably increase the opportunities of bacteria growth in host cells, and can further lead to metabolic, infectious, and inflammatory diseases in the intestine.
+    </p>
+    <p>
+     Overall, our data provide not only new networks between the genes for understanding the biologic properties of
+     <italic>
+      Salmonella
+     </italic>
+     infection in mouse colon mucosa, but also provide useful pathway maps for future understanding of the pathology of inflammatory bowel diseases, inflammation associated colon tumorigensis and other diseases. It will help us to develop a new protocol for anti-bacterial infection, risk assessment, and prevention of the intestinal illness and other chronic diseases.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Abbreviations
+    </title>
+    <p>
+     DEG: Differentially expression gene; EGF: Epidermal growth factor; EGFR: Epidermal growth factor receptor; ERK: extracellular signal-regulated kinases; IBD: inflammatory bowel diseases; ICAM: intercellular adhesion molecule; IFNG: Interferon-gamma; IPA: Ingenuity Pathways Analysis; IL-4: Interleukin-4; IL-9: Interleukin-9; JAK-STAT: Janus kinases- Signal Transducers and Activators of Transcription protein; JNK: JUN-NH
+     <sub>
+      2
+     </sub>
+     -terminal kinase; LPS: Lipopolysaccharides; MAPK: mitogen-activated protein kinase; MTOR: mammalian target of rapamycin; NF-κB: Nuclear factor κB; PXR: pregnane × receptor, or NR1I2 (nuclear receptor subfamily 1, group I, member 2); RXR: Retinoid × receptor; TNF: Tumor necrosis factor; TTSS: Type Three Secretion System; STAT: Signal transducer and activator of transcription.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Authors\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ contributions
+    </title>
+    <p>
+     XL: participated in experimental design, animal experiment, preparation of RNA sample, real-time PCR, western blot and immunofluorescence analysis, acquisition of data, analysis and interpretation of data, carried out bioinformatics analysis, and drafted table, figure and the manuscript.
+    </p>
+    <p>
+     RL: participated in experimental design, analysis and interpretation of data, real-time PCR analysis, drafted tables and figures, and carried out animal experiments.
+    </p>
+    <p>
+     YX: participated in interpretation of data, performed statistical analysis, and edited the manuscript for important intellectual content.
+    </p>
+    <p>
+     JS: participated in study concept and design, acquisition of data, analysis and interpretation of data, material support, writing and critical revision of the manuscript for critical intellectual content, obtained funding, and supervised study.
+    </p>
+    <p>
+     All authors read and approved the final manuscript.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Acknowledgements and Funding
+    </title>
+    <p>
+     We thank Dr. Constance D. Baldwin and Julia Militar at the University of Rochester for critical revising and editing of this manuscript, Xi Emma Li for her excellent technical support, and Jody Bown and Stephen L. Willie for helpful suggestion on microarray software. This work was supported by the National Institutes of Health (DK075386-0251, R03DK089010-01), the American Cancer Society (RSG-09-075-01-MBC), and the IDEAL award from the New York State\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\s Empire State Stem Cell Board (N09G-279) to Jun Sun.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec sec-type="supplementary-material">
+    <title>
+     Supplementary Material
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

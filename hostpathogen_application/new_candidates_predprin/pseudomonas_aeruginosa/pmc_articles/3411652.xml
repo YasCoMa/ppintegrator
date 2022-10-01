@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  An Orphan Chemotaxis Sensor Regulates Virulence and Antibiotic Tolerance in the Human Pathogen
+ </title>
+ <abstract>
+  <p>
+   The synthesis of virulence factors by pathogenic bacteria is highly regulated and occurs in response to diverse environmental cues. An array of two component systems (TCSs) serves to link perception of different cues to specific changes in gene expression and/or bacterial behaviour. Those TCSs that regulate functions associated with virulence represent attractive targets for interference in anti-infective strategies for disease control. We have previously identified PA2572 as a putative response regulator required for full virulence of
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   , the opportunistic human pathogen, to
+   <italic>
+    Galleria mellonella
+   </italic>
+   (Wax moth) larvae. Here we have investigated the involvement of candidate sensors for signal transduction involving PA2572. Mutation of
+   <italic>
+    PA2573
+   </italic>
+   , encoding a probable methyl-accepting chemotaxis protein, gave rise to alterations in motility, virulence, and antibiotic resistance, functions which are also controlled by PA2572. Comparative transcriptome profiling of mutants revealed that PA2572 and PA2573 regulate expression of a common set of 49 genes that are involved in a range of biological functions including virulence and antibiotic resistance. Bacterial two-hybrid analysis indicated a REC-dependent interaction between PA2572 and PA2573 proteins. Finally expression of
+   <italic>
+    PA2572
+   </italic>
+   in the
+   <italic>
+    PA2573
+   </italic>
+   mutant background restored virulence to
+   <italic>
+    G. mellonella
+   </italic>
+   towards wild-type levels. The findings indicate a role for the orphan chemotaxis sensor PA2573 in the regulation of virulence and antibiotic tolerance in
+   <italic>
+    P. aeruginosa
+   </italic>
+   and indicate that these effects are exerted in part through signal transduction involving PA2572.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="s1">
+    <title>
+     Introduction
+    </title>
+    <p>
+     Bacterial genomes encode a multitude of sensory systems that allow them to detect alterations in their extracellular and intracellular environments and to respond appropriately. Two-component signal transduction systems (TCS) comprise a sensor kinase, which in many cases is directly responsible for signal perception, and a response regulator that has a receiver domain and an output domain that exerts a particular regulatory action. Chemosensory two-component systems contain additional machinery for signal transduction such as methyl-accepting chemotaxis proteins (MCPs). Importantly, some TCSs have been shown to play a role in the virulence of diverse pathogenic bacteria including the human pathogen
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     –
+     . As no such systems have been found in mammals, TCSs could provide attractive targets for anti-infective therapies
+     . Such a strategy for
+     <italic>
+      P. aeruginosa
+     </italic>
+     requires identification of those signalling systems that are key for virulence from the inventory of 26 MCPs and 47 other TCSs encoded by the genome
+     .
+    </p>
+    <p>
+     Although most response regulators contain DNA-binding output domains and serve as transcriptional regulators, other classes of output domain are seen
+     . These classes include enzymes involved in the turnover of the nucleotide second messenger cyclic di-GMP
+     ,
+     ; GGDEF domain proteins are diguanylate cyclases (DGCs) catalyzing cyclic di-GMP synthesis whereas EAL and HD-GYP domain proteins are phosphodiesterases (PDEs) catalyzing degradation of cyclic di-GMP. Such regulators can exert their effects via an influence on cyclic di-GMP levels but also through protein-protein interactions
+     –
+     . Of particular interest here are the proteins of
+     <italic>
+      P. aeruginosa
+     </italic>
+     with an HD-GYP domain. The
+     <italic>
+      P. aeruginosa
+     </italic>
+     PAO1 proteome contains three HD-GYP domain proteins. PA4108 and PA4781 are enzymatically active phosphodiesterases, whereas PA2572 encodes a non-canonical variant YN-GYP and does not have detectable activity in cyclic di-GMP degradation. Despite these differences, all three HD-GYP domain proteins play a role in the regulation of biofilm formation, production of virulence factors and virulence in the
+     <italic>
+      Galleria mellonella
+     </italic>
+     model of infection
+     . Both PA4781 and PA2572 have an N-terminal Receiver (REC) domain, which suggests that they are regulatory components of signal transduction pathways associated with virulence. In this study we examined the involvement of candidate sensory proteins in signal transduction involving PA2572.
+    </p>
+    <p>
+     Genes flanking
+     <italic>
+      PA2572
+     </italic>
+     on the PAO1 chromosome encode candidate sensors for signal transduction involving PA2572; PA2571 is a probable two-component sensor kinase, and PA2573 is a probable methyl-accepting chemotaxis protein (
+     ). Although the three genes are predicted to be in separate transcriptional units,
+     <italic>
+      PA2573
+     </italic>
+     is co-expressed with
+     <italic>
+      PA2572
+     </italic>
+     under several conditions including aerobic growth in the presence of nitrate and in bacteria co-cultured with respiratory epithelia cells
+     –
+     . We investigated the potential interplay between these sensors and the regulator PA2572 utilizing bacterial two-hybrid assay to assess protein-protein interactions together with phenotypic and comparative transcriptome profiling analysis of mutants. The findings indicate a role for the orphan chemotaxis sensor PA2573 in the regulation of virulence and antibiotic tolerance in
+     <italic>
+      P. aeruginosa
+     </italic>
+     and suggest that these effects are exerted in part through signal transduction involving PA2572.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s2" sec-type="materials|methods">
+    <title>
+     Materials and Methods
+    </title>
+    <sec id="s2a">
+     <title>
+      Bacterial Strains, Plasmids, Primers and Culture Conditions
+     </title>
+     <p>
+      <italic>
+       Pseudomonas aeruginosa
+      </italic>
+      and
+      <italic>
+       Escherichia coli
+      </italic>
+      strains were cultured in Luria-Bertani (LB) broth at 37°C. For solid media, 1.5% agar was added. Bacterial strains used in this study are listed in
+      . Antibiotics, obtained from Sigma Chemical Company, gentamycin (Gm), chloramphenicol (Cm) and tetracycline (Tc) were added where appropriate. Oligonucleotide primers were synthesized by MWG (Germany) and are listed in
+      .
+     </p>
+    </sec>
+    <sec id="s2b">
+     <title>
+      Construction and Complementation of
+      <italic>
+       PA2571
+      </italic>
+      ,
+      <italic>
+       PA2572
+      </italic>
+      , and
+      <italic>
+       PA2573
+      </italic>
+      Mutants
+     </title>
+     <p>
+      Gene disruption mutants were created using the suicide plasmid pEX18Gm (
+      ). In short, central fragments of each gene were amplified using primers (
+      ) and cloned into pEX18Gm. Restriction enzymes and T4 ligase used for cloning purposes were obtained from Roche Diagnostics and used according to the manufacturer’s instructions. This construct was isolated using the Qiagen QIAprep Spin Miniprep Kit and subsequently introduced into the wild-type
+      <italic>
+       P. aeruginosa
+      </italic>
+      PAO1 strain by electroporation. Integration results in the formation of a stable Gm
+      mutant and was confirmed by colony PCR using primers detailed in
+      . Complementation clones were assembled in pBBR1MCS using wild-type gene amplifications from genomic DNA with primers listed in
+      . The resulting constructs were introduced into the appropriate disruption mutants by electroporation. These strains were selected on LB agar medium containing Gm (20 µg/ml) and Cm (50 µg/ml) and confirmed by colony PCR.
+     </p>
+    </sec>
+    <sec id="s2c">
+     <title>
+      Motility
+     </title>
+     <p>
+      Swimming and swarming phenotypes of
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains were assessed on LB media with 0.3% agar and Eiken media with 0.5% agar, respectively. Motility plates were inoculated by sterile tips using freshly streaked cultures grown on LB media. Plates were incubated at 37°C for 24 to 48 hours.
+     </p>
+    </sec>
+    <sec id="s2d">
+     <title>
+      Pyoverdine and Pyocyanin Production
+     </title>
+     <p>
+      For pyoverdine production, a conical flask containing 30 ml of F broth, comprised of 20 g/l bacteriological peptone (Oxoid), 1.5 g/l magnesium sulphate hydrated (Fluka), 1.5 g/l dipotassium phosphate (Sigma), and 10 ml/l glycerol, was inoculated with
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains (1∶1000). OD
+      <sub>
+       420
+      </sub>
+      measurements were taken from supernatants removed from cultures grown to an OD
+      <sub>
+       600
+      </sub>
+      of 2.0. Pyoverdine production was calculated as OD
+      <sub>
+       420
+      </sub>
+      /OD
+      <sub>
+       600
+      </sub>
+      . For production of pyocyanin, 30 ml of P broth, comprised of 20 g/l bacteriological proteose peptone no. 3 (Oxoid), 1.4 g/l magnesium chloride anhydrous (Sigma), 10 g/l potassium sulphate (Sigma) and 10 ml/l glycerol, was inoculated with
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains (1∶1000). Cultures were grown at 37°C for 24 to 48 hours and 3 ml chloroform was added to supernatant removed from 5 ml of culture. This suspension was vortexed for 10 sec and centrifuged for 5 min at 5,000 rpm. 1.5 ml of chloroform was removed and samples were re-extracted with 2 ml of 0.2N HCl, vortexed for 3 sec and left still to separate. OD
+      <sub>
+       520
+      </sub>
+      measurements were taken from the top phase and the concentration of pyocyanin determined as described previously
+      .
+     </p>
+    </sec>
+    <sec id="s2e">
+     <title>
+      Antibiotic Susceptibility
+     </title>
+     <p>
+      Strains were subcultured and grown to logarithmic phase (0.6−0.7 OD
+      <sub>
+       600
+      </sub>
+      ) at 37°C, washed twice and resuspended in phosphate buffered saline (PBS) (Sigma). 300 µl of cell suspensions were spread onto 150×20 mm Petri dishes (Sarstedt) containing 60 ml of LB agar and left to dry for 10 min. Antibiotic E-test strips (Biomerieux) were overlaid and plates were incubated at 37°C for 24 hours. Minimum inhibitory concentrations (MIC) (µg/ml) for each antibiotic were recorded in triplicate in two separate experiments for each strain.
+     </p>
+    </sec>
+    <sec id="s2f">
+     <title>
+      <italic>
+       Galleria mellonella
+      </italic>
+      Virulence Assay
+     </title>
+     <p>
+      Virulence of
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains was assessed as previously described by Ryan
+      <italic>
+       et al
+      </italic>
+      .
+      . Briefly, bacteria from overnight cultures were washed twice and re-suspended in PBS. Serial 10-fold dilutions were made in PBS and 10 µL aliquots were injected into each larva, with 10 larvae inoculated for each dilution. A minimum of three different dilutions were inoculated per strain in three independent experiments. Uninoculated larvae and larvae injected with PBS alone served as control groups for each experiment. Larvae were incubated in the dark at 37°C in Petri dishes lined with Whatman paper. Minimum inoculum required to kill all 10 larvae was determined for each strain.
+     </p>
+    </sec>
+    <sec id="s2g">
+     <title>
+      RNA Extraction
+     </title>
+     <p>
+      Three independent cultures of each
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain was sub-cultured and grown to logarithmic phase (0.6−0.7 OD
+      <sub>
+       600
+      </sub>
+      ) at 37°C in LB broth without selection. 800 µl of RNA protect (Qiagen) was added to 400 µl culture and incubated at room temperature for 5 min. Cell suspensions were centrifuged, the supernatant was disregarded, and pellets were stored at −80°C. After thawing, 100 µl TE-lysozyme (400 µg/ml) was added and samples were incubated at room temperature. Total RNA was isolated using the RNeasy Mini Kit (Qiagen) whereby cells were homogenized utilizing a 20-gauge needle and syringe. Samples were treated with DNase (Ambion) according to manufacturer’s instructions and the removal of DNA contamination was confirmed by PCR.
+     </p>
+    </sec>
+    <sec id="s2h">
+     <title>
+      Transcriptome Profiling and Analysis
+     </title>
+     <p>
+      RNA samples were analysed using the Affymetrix GeneChip technology platform at University College Dublin Conway Institute of Biomolecular and Biomedical Research. Analysis of microarray data was achieved using GeneSpring Multi-Omic Analysis Version 11.5 (Agilent Technologies). Two-fold changes in gene expression between mutant and the wild-type parental
+      <italic>
+       P. aeruginosa
+      </italic>
+      PAO1 strain were considered to be significant (p≤0.05). The microarray data set has been deposited into ArrayExpress Database under the accession number [pending].
+     </p>
+    </sec>
+    <sec id="s2i">
+     <title>
+      Semi-quantitative and Quantitative Real-time PCR
+     </title>
+     <p>
+      Semi-quantitative and quantitative RT-PCRs were used to validate microarray data. Reverse transcription PCR was achieved using a cDNA synthesis kit (Promega) according to the manufacturer’s instructions. Specific RT-PCR primers (
+      ) were used to amplify central fragments of approximately 200 bp in length from different genes. Semi-quantitative RT-PCRs were completed using 250 ng/µl cDNA template and PCR Mastermix (Promega) for 24–36 cycles. For qRT-PCRs, quantification of gene expression and melting curve analysis were completed using a LightCycler (Roche) and Platinum SYBR Green qPCR Supermix-UGD (Invitrogen) was used according to manufacturer’s instructions. The constitutively expressed housing keeping gene,
+      <italic>
+       16S rRNA
+      </italic>
+      was used as a reference to standardize all samples and replicates.
+     </p>
+    </sec>
+    <sec id="s2j">
+     <title>
+      Bacterial Two-hybrid Analysis
+     </title>
+     <p>
+      BacterioMatch II Two-Hybrid System Vector Kit (Agilent Technologies) was used to evaluate protein-protein interactions of
+      <italic>
+       P. aeruginosa
+      </italic>
+      PAO1 proteins in
+      <italic>
+       E. coli
+      </italic>
+      . This analysis was carried out according to manufacturer’s instructions. The pBT bait plasmid and the pTRG target plasmid containing partial and full-length gene fragments were constructed using primers listed in
+      . A co-transformant containing empty pBT and pTRG vectors served as a negative control and a co-transformant containing pBT-LGF2 and pTRG-GAL11P served as a positive control, validated by growth of colonies on M9+ His-dropout media containing 5 mM 3-amino-1,2,4, triazole (3-AT). Co-transformations for detecting interactions between bait and target proteins were plated on selective screening medium (SSM) (5 mM 3-AT) and on non-selective screening medium (NSSM) (without 3-AT) to serve as a control.
+     </p>
+    </sec>
+    <sec id="s2k">
+     <title>
+      Expression of Individual Domains and Full Length PA2572 in
+      <italic>
+       PA2572
+      </italic>
+      and
+      <italic>
+       PA2573
+      </italic>
+      Mutant Backgrounds
+     </title>
+     <p>
+      PA2572 complementation clones were created using pME6032 plasmid (
+      ). Briefly, primers (
+      ) were used to amplify DNA encoding the REC domain, the YN-GYP domain and the full length
+      <italic>
+       PA2572
+      </italic>
+      gene. The amplicons were sequenced and were cloned into pME6032. These three constructs were transformed into Top 10
+      <italic>
+       E. coli
+      </italic>
+      cells (Invitrogen) and isolated using the Qiagen QIAprep Spin Miniprep Kit. Constructs were subsequently introduced into the PA2572 and PA2573 mutant strains and into the parental PAO1 strain by electroporation. As an additional control, the empty pME6032 vector was introduced into all strains. The presence of pME6032 containing the relevant DNA fragment was confirmed using primers (
+      ) corresponding to the multiple cloning site of the plasmid.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s3">
+    <title>
+     Results
+    </title>
+    <sec id="s3a">
+     <title>
+      Mutation of
+      <italic>
+       PA2572
+      </italic>
+      and
+      <italic>
+       PA2573
+      </italic>
+      but not
+      <italic>
+       PA2571
+      </italic>
+      Influences Virulence of
+      <italic>
+       P. aeruginosa
+      </italic>
+      in the Greater Wax Moth Larvae Model
+     </title>
+     <p>
+      Virulence of
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains in the
+      <italic>
+       G. mellonella
+      </italic>
+      larvae model was assessed by determination of the minimum CFU required to kill all of a group of 10 larvae in which each member received an inoculum from a 10-fold serial dilution series (see Materials and Methods). This minimum inoculum for the parental PAO1 strain was 9±6 CFU (
+      <italic>
+       n
+      </italic>
+      = 8) (
+      ). The minimum inoculum for the
+      <italic>
+       PA2571
+      </italic>
+      mutant was similar to that of the wild-type, suggesting no effect on virulence (
+      ). In contrast, considerably higher numbers of the
+      <italic>
+       PA2572
+      </italic>
+      and
+      <italic>
+       PA2573
+      </italic>
+      mutant strains were required, indicating that both PA2572 and PA2573 contribute to the full virulence of
+      <italic>
+       P. aeruginosa
+      </italic>
+      in the
+      <italic>
+       G. mellonella
+      </italic>
+      model of infection. These findings for PA2572 confirm our earlier published work
+      . Importantly, complementation of the
+      <italic>
+       PA2572
+      </italic>
+      and
+      <italic>
+       PA2573
+      </italic>
+      mutants with wild-type copies of the appropriate genes restored virulence to wild-type levels (
+      ).
+     </p>
+    </sec>
+    <sec id="s3b">
+     <title>
+      Bacterial Two-hybrid Analysis Reveals Direct Interaction between PA2572 and PA2573
+     </title>
+     <p>
+      The BacterioMatch II Two-Hybrid System was used to evaluate potential protein-protein interactions between the putative regulator PA2572 and the predicted sensor proteins PA2571 and PA2573. For these experiments, the pBT bait plasmid and the pTRG target plasmid expressing full-length PA2571, PA2572, and PA2573 or different domains of the proteins were constructed following PCR amplification of the appropriate DNA fragments using primers listed in
+      . The domain structures of the full-length proteins and protein fragments used in this analysis are illustrated in
+      . Detection of interactions between bait and target proteins was based on growth of co-transformant colonies on SSM media containing 5 mM 3-AT (
+      ).
+     </p>
+     <p>
+      No interaction was detected between PA2572 and PA2571 in experiments using either the full-length proteins or any of the domains of these proteins. In contrast, protein-protein interactions between PA2572 and the predicted methyl-accepting chemotaxis protein PA2573 were detected in three independent experiments. Furthermore, interactions between PA2572 and the predicted cytoplasmic portion of PA2573 (comprising the HAMP and methyl-accepting domains) and between the REC domain of PA2572 and full-length PA2573 were detected (
+      ). No protein-protein interaction was detected between PA2573 and the REC domain of PA4781, an enzymatically-active HD-GYP domain protein, suggesting a specificity of interaction with PA2572. Taken together, these results suggest an interaction between PA2572 and PA2573 mediated by the REC domain of PA2572 and the cytoplasmic portion of PA2573, but no interaction between PA2572 and PA2571. These findings and the virulence phenotypes of different mutants outlined above suggest no role for PA2571 in virulence-related signal transduction involving PA2572. As a consequence, subsequent experiments focussed on the role of PA2573.
+     </p>
+    </sec>
+    <sec id="s3c">
+     <title>
+      Comparison of Phenotypic Effects of Mutation of
+      <italic>
+       PA2572
+      </italic>
+      and
+      <italic>
+       PA2573
+      </italic>
+     </title>
+     <p>
+      The
+      <italic>
+       PA2572
+      </italic>
+      and
+      <italic>
+       PA2573
+      </italic>
+      mutant strains were assessed for phenotypes associated with
+      <italic>
+       P. aeruginosa
+      </italic>
+      virulence including production of pyocyanin and the siderophore pyoverdine as well as motility. Mutation of
+      <italic>
+       PA2572
+      </italic>
+      and
+      <italic>
+       PA2573
+      </italic>
+      resulted in strains with a reduced ability to produce pyoverdine (
+      ). Complementation of the mutations with wild-type copies of the genes cloned into the pBBR1MCS vector restored pyoverdine levels to near wild-type. Mutation of
+      <italic>
+       PA2573
+      </italic>
+      also led to a reduction of pyocyanin production, although this effect was not seen in the
+      <italic>
+       PA2572
+      </italic>
+      mutant (
+      ). Complementation of the PA2573 mutations restored pyocyanin levels to wild-type (
+      ). Disruption of
+      <italic>
+       PA2572
+      </italic>
+      and
+      <italic>
+       PA2573
+      </italic>
+      had a notable influence on both swimming and swarming motility; mutant strains displayed a significant reduction in motility compared to PAO1 (
+      ). Complementation of mutant strains restored both swarming and swimming motility to wild-type levels.
+     </p>
+    </sec>
+    <sec id="s3d">
+     <title>
+      Comparative Global Gene Expression Profiles in
+      <italic>
+       PA2572
+      </italic>
+      and
+      <italic>
+       PA2573
+      </italic>
+      Mutant Strains
+     </title>
+     <p>
+      To compare the influence of PA2572 and PA2573 on gene expression, the transcriptomes of
+      <italic>
+       PA2572
+      </italic>
+      and
+      <italic>
+       PA2573
+      </italic>
+      mutant strains and wild-type were compared through microarray analysis using the
+      <italic>
+       P. aeruginosa
+      </italic>
+      Affymetrix GeneChip. For these experiments, RNA was isolated from bacterial strains growing in exponential phase in LB medium. Transcriptome profile analysis revealed that expression of 152 genes was significantly altered (≥2.0-fold) by the disruption of
+      <italic>
+       PA2572
+      </italic>
+      (
+      ). Disruption of
+      <italic>
+       PA2573
+      </italic>
+      appeared to have a broader influence on global gene expression as 450 genes were significantly differentially expressed in the mutant compared to PAO1. PA2572 and PA2573 influenced expression of a common set of 49 genes: 24 genes with an increase in expression and 25 genes with a decrease in expression (
+      ). These genes were involved in a range of biological functions including virulence, membrane transport, multidrug resistance, amino acid biosynthesis and signal transduction. Additionally, microarray analysis revealed 12 genes whose expression levels were altered in opposite directions following mutation of
+      <italic>
+       PA2572
+      </italic>
+      and
+      <italic>
+       PA2573
+      </italic>
+      . These genes included
+      <italic>
+       pqsA
+      </italic>
+      involved in the biosynthesis of the
+      <italic>
+       Pseudomonas
+      </italic>
+      quinolone signal (PQS)
+      and several genes of the lipopolysaccharide modification operon
+      <italic>
+       arnBCADTEF
+      </italic>
+      ,
+      . Differentially expressed genes in mutant strains compared to PAO1 with a fold change ≥3.0 are listed in
+      and
+      along with their assigned annotations.
+     </p>
+     <p>
+      Notably, expression of several genes encoding components of the
+      <italic>
+       P. aeruginosa
+      </italic>
+      type III secretion system were down-regulated in both
+      <italic>
+       PA2572
+      </italic>
+      and
+      <italic>
+       PA2573
+      </italic>
+      mutants compared to the wild-type. These virulence genes included those encoding PopB and PopD, which are essential for the translocation process, the chaperone PcrH, and the secreted toxin ExoS
+      ,
+      . Disruption of
+      <italic>
+       PA2572
+      </italic>
+      and
+      <italic>
+       PA2573
+      </italic>
+      also led to common expression of a number of genes involved in signal transduction including
+      <italic>
+       PA4781
+      </italic>
+      encoding an HD-GYP domain phosphodiesterase
+      ,
+      <italic>
+       PA3271
+      </italic>
+      encoding a probable two-component sensor, and
+      <italic>
+       pctC
+      </italic>
+      encoding a chemotactic transducer.
+     </p>
+     <p>
+      Both semi-quantitative and qRT-PCR methods were used to confirm alterations in gene expression revealed by microarray analysis (
+      ). The genes selected for these analyses represented those with a range of fold change of expression and of diverse functional classes. The relative expression levels of seven genes measured using qRT-PCR and ten genes using semi-quantitative RT-PCR reflected in each case the differences in gene expression observed by transcriptome analysis (
+      ).
+     </p>
+    </sec>
+    <sec id="s3e">
+     <title>
+      PA2572 and PA2573 Regulate Expression of Genes Involved in the Antibiotic Tolerance of
+      <italic>
+       P. aeruginosa
+      </italic>
+     </title>
+     <p>
+      Transcriptome profiling revealed that both PA2572 and PA2573 regulate a number of genes associated with antibiotic tolerance (
+      ). Significant increases in expression (∼9- to 17-fold) were observed for
+      <italic>
+       mexX
+      </italic>
+      and
+      <italic>
+       mexY
+      </italic>
+      that encode Resistance-Nodulation-Cell Division (RND) multidrug efflux proteins involved in resistance to aminoglycoside antibiotics in
+      <italic>
+       P. aeruginosa
+      </italic>
+      ,
+      . The
+      <italic>
+       oprD
+      </italic>
+      gene, that encodes an outer membrane porin that facilitates the uptake of carbapenem antibiotics
+      , was also seen to be downregulated in both mutant strains compared to the wild-type. Conversely, disruption of
+      <italic>
+       PA2572
+      </italic>
+      and
+      <italic>
+       PA2573
+      </italic>
+      resulted in the differential regulation of
+      <italic>
+       pmrA,
+      </italic>
+      a gene encoding a two-component regulator associated with resistance to cationic antimicrobial peptides
+      ; expression of
+      <italic>
+       pmrA
+      </italic>
+      increased in the
+      <italic>
+       PA2572
+      </italic>
+      mutant but decreased in the
+      <italic>
+       PA2573
+      </italic>
+      mutant when compared to wild-type. Additionally, mutation of
+      <italic>
+       PA2572
+      </italic>
+      also led to the up-regulation of
+      <italic>
+       pmrB
+      </italic>
+      encoding the sensor kinase component of this two-component system.
+     </p>
+     <p>
+      These effects on gene expression prompted us to examine the antibiotic tolerance of the different
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains. Minimum inhibitory concentrations (MIC) of antibiotics towards
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains grown to exponential phase were assessed using E-test strips (Biomerieux) after 24 hours (
+      ). Both
+      <italic>
+       PA2572
+      </italic>
+      and
+      <italic>
+       PA2573
+      </italic>
+      mutants demonstrated substantially increased tolerance to the aminoglycosides amikacin and tobramycin compared to the parental PAO1 strain (
+      ). Complementation of the mutations restored susceptibility to both aminoglycosides towards wild-type levels. Mutation of
+      <italic>
+       PA2572
+      </italic>
+      led to increased tolerance to the cationic antimicrobial peptides, polymyxin B and colistin, although mutation of
+      <italic>
+       PA2573
+      </italic>
+      had the opposite effect. Intriguingly, genes involved in resistance appeared to be divergently transcribed. Tolerance to ceftazidime, meropenem and ciprofloxacin was minimally affected by disruption of
+      <italic>
+       PA2572
+      </italic>
+      and
+      <italic>
+       PA2573
+      </italic>
+      .
+     </p>
+    </sec>
+    <sec id="s3f">
+     <title>
+      Expression of the PA2572 YN-GYP Domain Partially Restores Virulence of the
+      <italic>
+       PA2573
+      </italic>
+      Mutant
+     </title>
+     <p>
+      The findings described above indicate a role for the PA2573 sensor in the regulation of virulence and antibiotic tolerance in
+      <italic>
+       P. aeruginosa
+      </italic>
+      . The overlap in regulatory influence of PA2572 and PA2573 at the level of gene transcription and on various phenotypes including virulence suggests that these effects may be exerted in part through signal transduction involving PA2572. For a number of two-component systems, it has been shown that over-expression of the response regulator can restore the phenotypes of a mutant lacking the related sensor to wild-type phenotypes
+      ,
+      . Accordingly, we assessed the effects of expression of the full length PA2572, and the component REC or YN-GYP domains on the virulence of the
+      <italic>
+       PA2573
+      </italic>
+      mutant. For this experiment the DNA fragments were cloned into pME6032 and introduced into
+      <italic>
+       PA2573
+      </italic>
+      mutant and wild-type, as a control. Subsequently, all strains were assessed for their virulence potential in the
+      <italic>
+       Galleria mellonella
+      </italic>
+      model of infection (
+      ,
+      ). The empty pME6032 vector had no effect on the virulence of
+      <italic>
+       PA2573
+      </italic>
+      mutant or wild-type strain (
+      ). While expression of the REC domain and the full length PA2572 in the
+      <italic>
+       PA2573
+      </italic>
+      mutant had a small negative influence on virulence, introduction of the YN-GYP domain resulted in a significant increase in virulence (
+      ).
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s4">
+    <title>
+     Discussion
+    </title>
+    <p>
+     The work in this paper had the aim of identifying signalling partners for the putative response regulator PA2572, which we have previously shown to contribute to the virulence of
+     <italic>
+      P. aeruginosa
+     </italic>
+     to
+     <italic>
+      Galleria mellonella
+     </italic>
+     larvae. Two candidates were examined: the probable two-component sensor kinase PA2571 and probable methyl-accepting chemotaxis protein PA2573. It has been shown previously that
+     <italic>
+      PA2573
+     </italic>
+     is co-expressed with
+     <italic>
+      PA2572
+     </italic>
+     under several conditions including aerobic growth in the presence of nitrate and in bacteria co-cultured with respiratory epithelia cells
+     –
+     . Here we present a number of lines of evidence that suggest regulatory interplay between PA2573 and PA2572. We have shown that PA2572 and PA2573 are both involved in the regulation of motility, virulence and antibiotic tolerance and influence the expression of a common set of 49 genes. Furthermore, we have demonstrated using bacterial two-hybrid analysis that protein-protein interactions can occur between PA2573 and PA2572 and that these involve the REC domain of PA2572. In contrast, PA2571 does not influence virulence and no interaction with PA2572 was evident in bacterial two-hybrid analysis. The findings indicate for the first time a role for the orphan chemotaxis sensor PA2573 in the regulation of virulence and antibiotic tolerance in
+     <italic>
+      P. aeruginosa
+     </italic>
+     and suggest that the action of PA2573 is exerted in part through signal transduction involving PA2572.
+    </p>
+    <p>
+     For a number of two-component systems it has been shown that over-expression of the response regulator can restore to wild-type the phenotypes of a mutant lacking the related sensor. Overproduction of response regulators is often thought to mimic the physiological phosphorylation response. For many two-component regulators, interactions between the unphosphorylated receiver domain and the effector domain prevent effector domain activity by restricting it in an unfavorable conformation; phosphorylation of the REC domain relieves this inhibition
+     . However over-expression of PA2572 had a small but negative effect on the virulence of the
+     <italic>
+      PA2573
+     </italic>
+     mutant. Intriguingly, over-expression of the YN-GYP domain of PA2572 gave a substantial increase in virulence, which was restored towards wild-type levels. We speculate that this effect is due to release of the YN-GYP effector domain from a negative influence of the REC domain.
+    </p>
+    <p>
+     While genes encoding cognate two-component signal transduction proteins are often found flanking one another on the genome, there is evidence that a number of signalling systems employ orphan histidine kinases (HK) and response regulators not encoded in the genomic vicinity of their partners
+     –
+     . Under the conditions tested, PA2571 does not appear to have a role in virulence of
+     <italic>
+      P. aeruginosa
+     </italic>
+     and there was no evidence for an interaction between PA2571 and PA2572. While it is possible that an orphan HK is part of the machinery for this proposed signalling pathway involving PA27573 and PA2572, we cannot exclude that that regulatory interplay between PA2571 and PA2572 occurs under different environmental conditions.
+    </p>
+    <p>
+     Mutation of
+     <italic>
+      PA2573
+     </italic>
+     influenced the expression of a broader range of genes than mutation of
+     <italic>
+      PA2572
+     </italic>
+     , suggesting that PA2573 may interact with additional response regulators in other signaling pathways. However mutation of either
+     <italic>
+      PA2573
+     </italic>
+     or
+     <italic>
+      PA2572
+     </italic>
+     leads to enhanced expression of genes associated with antibiotic tolerance, which is reflected in increased MICs for the aminoglycoside antibiotics amikacin and tobramycin in these mutant strains. Mutation of
+     <italic>
+      PA2573
+     </italic>
+     or
+     <italic>
+      PA2572
+     </italic>
+     both lead to the down-regulation of several genes encoding virulence factors including those involved in type III secretion (
+     <italic>
+      popB
+     </italic>
+     ,
+     <italic>
+      popD
+     </italic>
+     ,
+     <italic>
+      pcrH
+     </italic>
+     , as well as the secreted effector
+     <italic>
+      exoS
+     </italic>
+     (
+     and
+     ). This is reflected in a decreased virulence of both mutants.
+    </p>
+    <p>
+     Several laboratories have described modified chemotaxis systems that are linked to alterations in the levels of nucleotide second messengers in
+     <italic>
+      P. aeruginosa.
+     </italic>
+     The Wsp system functions to regulate cellular processes such as EPS production and biofilm formation
+     ,
+     . Transduction of environmental signals through the MCP WspA and a soluble sensor kinase WspE leads to phosphorylation of the response regulator WspR, activating this GGDEF domain protein for the synthesis of cyclic di-GMP. The Chp chemosensory system is linked to cAMP-dependent virulence response in
+     <italic>
+      P. aeruginosa
+     </italic>
+     through modulation of adenylate kinase activity
+     . In a similar fashion, we propose that a novel signalling pathway that includes an orphan chemosensory protein component (PA2573) and a response regulator (PA2572) with a variant HD-GYP domain acts in regulation of factors promoting the virulence and antibiotic tolerance of
+     <italic>
+      P. aeruginosa
+     </italic>
+     . Although the mechanisms by which PA2572 exerts a regulatory action remain obscure, the discovery of a role of PA2573 in virulence in model organisms suggests that further studies of this system are warranted.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s5" sec-type="supplementary-material">
+    <title>
+     Supporting Information
+    </title>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

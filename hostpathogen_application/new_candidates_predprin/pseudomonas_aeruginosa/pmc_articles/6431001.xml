@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Mechanistic research holds promise for bacterial vaccines and phage therapies for
+ </title>
+ <abstract>
+  <p>
+   Vaccines for
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   have been of longstanding interest to immunologists, bacteriologists, and clinicians, due to the widespread prevalence of hospital-acquired infection. As
+   <italic>
+    P. aeruginosa
+   </italic>
+   becomes increasingly antibiotic resistant, there is a dire need for novel treatments and preventive vaccines. Despite intense efforts, there currently remains no vaccine on the market to combat this dangerous pathogen. This article summarizes current and past vaccines under development that target various constituents of
+   <italic>
+    P. aeruginosa
+   </italic>
+   . Targeting lipopolysaccharides and O-antigens have shown some promise in preventing infection. Recombinant flagella and pili that target TLR5 have been utilized to combat
+   <italic>
+    P. aeruginosa
+   </italic>
+   by blocking its motility and adhesion. The type 3 secretion system components, such as needle-like structure PcrV or exotoxin PopB, are also potential vaccine targets. Outer membrane proteins including OprF and OprI are newer representatives of vaccine candidates. Live attenuated vaccines are a focal point in this review, and are also considered for novel vaccines. In addition, phage therapy is revived as an effective option for treating refractory infections after failure with antibiotic treatment. Many of the aforementioned vaccines act on a single target, thus lacking a broad range of protection. Recent studies have shown that mixtures of vaccines and combination approaches may significantly augment immunogenicity, thereby increasing their preventive and therapeutic potential.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec sec-type="intro">
+    <title>
+     Introduction to
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     vaccines
+    </title>
+    <p>
+     <italic>
+      P. aeruginosa
+     </italic>
+     is a Gram-negative bacterium that often infects immunocompromised individuals with cystic fibrosis (CF), HIV-1, cancer, and surgical or burn wounds.
+     <italic>
+      P. aeruginosa
+     </italic>
+     can also cause serious infections in the corneas of patients with extended use of contact lenses and also in the urinary tract.
+     <italic>
+      P. aeruginosa
+     </italic>
+     accounts for 10.1% of nosocomial infections, making it a highly significant bacterium in hospital settings.     Because of
+     <italic>
+      P. aeruginosa’s
+     </italic>
+     ubiquitous nature and extremely complex genomic diversity, scientists have put earnest effort into developing effective vaccines over the years, but the results are not so encouraging.
+    </p>
+    <p>
+     Thus far, a number of vaccine candidates for
+     <italic>
+      P. aeruginosa
+     </italic>
+     have been tested and most of them are based on one of the major components of the bacterium, especially lipopolysaccharide (LPS), polysaccharide, polysaccharide conjugates, extracellular protein, outer membrane protein (OMP), flagella, type 3 secretion system (T3SS), pili, and so on (     ). Furthermore, whole organisms, such as killed whole-cell and live attenuated
+     <italic>
+      P. aeruginosa
+     </italic>
+     , are being tested for preventive ability.     However, the search for a truly applicable vaccine still proves difficult, and no single vaccine has surpassed all preclinical tests and been approved for the clinics. Although the use of various cellular components of
+     <italic>
+      P. aeruginosa
+     </italic>
+     , such as OMP and LPS, has been shown to be immunogenic and/or beneficial for hosts, the high diversity of
+     <italic>
+      P. aeruginosa
+     </italic>
+     serotypes has created much difficulties in designing a vaccine to be effective for all serotypes of the pathogen.     Many such vaccines that have been created show fantastic effects against their homologous strain; but when used against differing serotypes, they prove to be largely inefficient in eliciting an effective immune response. The following sections highlight vaccine research targeting various pathogenic components, analyze the potential difficulties, and discuss the future directions (     ).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Lipopolysaccharide
+    </title>
+    <p>
+     The LPS of
+     <italic>
+      P. aeruginosa
+     </italic>
+     has been a fascinating candidate for possible vaccines. LPS is a major constituent of the outer leaflet of the Gram-negative cell membranes – a defining feature that distinguishes these bacteria from their Gram-positive counterparts, which lack the outer LPS cell membrane and consist primarily of peptidoglycans and teichoic acids.     LPS is highly pyogenic and toxic when used in a purified state, primarily due to the lipid component.     Current research has been directed toward two separate avenues of LPS-based vaccines.     The first strategy utilizes lipid droplets to carry entire LPS components into the host. These lipid droplets are used to protect the body from the otherwise virulent effects of pure, unbound LPS.     The second and more widely used strategy is based upon stripping the lipid portion off the LPS, creating serotype-specific protection.     The serotype or serogroup is determined by varying surface antigens of the pathogen, giving rise to 20 different O-antigens according to the International Antigenic Typing System (IATS).
+    </p>
+    <p>
+     The classification proposed by IATS is highly complex and can be broken down further based on O-antigens. O-antigens found on the surface of
+     <italic>
+      P. aeruginosa
+     </italic>
+     are linked to lipid A, which anchors LPS to the outer portion of the cell membrane.     As there are 13 different O-serogroups, generating a multivalent vaccine is required for stronger antibacterial effects. Both the lipid A and core protein are considered to be the most conserved portions of LPS, but new data demonstrate their intricate variable regions relating to the number of O-antigen, and increased O-acetylation of the protein core.     Thus, these regions may be unlikely candidates for vaccination. Little is known about variability of the LPS protein core, although previous research has shown its consistency between laboratory grown
+     <italic>
+      P. aeruginosa
+     </italic>
+     and CF isolates.     Although O-polysaccharides have great diversity, there is sequence and structure overlapping among 11 of the 13 O-serogroups.     Hence, much
+     <italic>
+      P. aeruginosa
+     </italic>
+     vaccine research has been directed toward the O-antigen in LPS. One of the problems with multivalent LPS O-antigen vaccines composed of antigens from serologically different strains within the same serogroup, though, is that there can be interference between the antigens, sacrificing the immuno-genicity of the vaccine.     Furthermore, when an octavalent vaccine,
+     <italic>
+      Aerugen
+     </italic>
+     (Crucell, Berne, Switzerland), was finally created, it failed to reduce the incidence and severity of
+     <italic>
+      P. aeruginosa
+     </italic>
+     from the airways in a Phase III clinical trial.     Even though the O-antigen of LPS is believed to mediate immunity in acute
+     <italic>
+      P. aeruginosa
+     </italic>
+     infections, a vaccine with multifactorial effects has been extremely hard to find.     The possible reasons for this difficulty are poor immunogenicity of purified O-antigens, serological diversity, and the need to conjugate isolated O-antigens to various protein carriers for maximal effects.     To help boost the immunogenicity of the polysaccharide vaccines, a study used a detoxified LPS (D-LPS) conjugated with diphtheria toxoid (DT), where the DT was used as a protein carrier. Fortunately, the immune potency was improved compared to D-LPS alone and DT alone.     Studies like this may show that the key to increasing LPS immunogenicity is to conjugate it with a proper protein carrier.
+    </p>
+    <p>
+     The largest downfall for O-antigen–based vaccines is their single serotype, which is not protective against other serotypes of the pathogen and is essentially unreliable as a protective measure against
+     <italic>
+      P. aeruginosa
+     </italic>
+     .     Nevertheless, LPS O-antigens have been at the forefront of
+     <italic>
+      P. aeruginosa
+     </italic>
+     research for a long time due to their great serotype-specific immunogenicity. It has been suggested by Gerald Pier et al that the O2/O5 serogroup is the most complex in various strains including PAO1, a common laboratory strain that has a fully sequenced genome. Pier’s group used an
+     <italic>
+      aroA
+     </italic>
+     deletion mutant of
+     <italic>
+      P. aeruginosa
+     </italic>
+     serogroup O2/O5 strain PAO1, naming it PAO1Δ
+     <italic>
+      aroA
+     </italic>
+     . This strain achieved high levels of protection against the ExoU-expressing cytotoxic variant of the parental strain PAO1, but failed to protect against serogroup heterologous strains.     Other studies creating live attenuated vaccines have shown that multivalent vaccination elicits broader in vivo protection than monovalent vaccination. Bivalent vaccines, surprisingly, provided in vivo protection against a non-cytotoxic O-antigen–heterologous strain – something that has never been previously achieved in studies with
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains, namely, PA14Δ
+     <italic>
+      aroA
+     </italic>
+     . One of the key findings by Pier’s group, though, is that live attenuated vaccines avoid many of the limitations that prior purified LPS O-antigen vaccines had.     Among these limitations are competition among related polysaccharide antigens for the limited amount of antibodies on B cells, in vivo antigenic variation of the O-antigen during infection, evolutionary selection for
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains making O-antigens that elicit antibody primarily to non-protective epitopes, and decreased immunogenicity in the absence of conjugation of polysaccharide O-antigen to a carrier.     Creating an attenuated vaccine that targets the LPS core, of which there are only four variants as opposed to the 20–30 serotypes in O-antigens, results in stronger immunity response.     A recent development of vaccine KBPA-101 that targets LPS has been tested against
+     <italic>
+      P. aeruginosa
+     </italic>
+     serotype O11 pneumonia in a Phase 1/2 trial (NCT00851435).     Due to the continuing efforts and progress, the vaccines targeting LPS may have real opportunity to become effective preventive products for the clinics.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Flagella
+    </title>
+    <p>
+     Due to their high immunogenicity, flagellin and flagella have also been considered as potential targets for vaccination against
+     <italic>
+      P. aeruginosa
+     </italic>
+     .     Flagellin is the major structural protein component forming the flagellar filament. This protein is formally subdivided into A and B groups.     Flagella not only serve primarily for motility in
+     <italic>
+      P. aeruginosa
+     </italic>
+     , but also assist attachment to the respiratory epithelium and activation of TLR5.     TLR5 is a type of pathogen recognition receptor that recognizes pathogen-associated molecular patterns and initiates innate immunity. Once the bacterium has attached to the respiratory epithelium, the flagella are shed, and with the aid of pili,
+     <italic>
+      P. aeruginosa
+     </italic>
+     is able to infiltrate the epithelium.     It has been found that purified flagellin is much more potent in activating TLR5 and also elicits a higher TLR5–neutralizing effect through antibodies than immunization with crude flagella.     However, flagella, composed of FliC protein, type-specific FliD cap protein, and basal body components, are a better candidate for vaccines against
+     <italic>
+      P. aeruginosa
+     </italic>
+     than simple monomeric flagellin-based vaccines.
+     <italic>
+      P. aeruginosa
+     </italic>
+     flagellin is required for virulence and targeted by protective antibodies in animal models. A combination vaccine of
+     <italic>
+      Klebsiella pneumoniae
+     </italic>
+     with
+     <italic>
+      P. aeruginosa
+     </italic>
+     glycoconjugate (comprising four common types of human infections, O1, O2, O3, and O5) has been developed through chemical linking to various flagellin types of
+     <italic>
+      P. aeruginosa
+     </italic>
+     .     By generating proper antibodies without hampering TLR5 activation, flagella have demonstrated better vaccine capabilities than flagellin in other Gram-negative bacteria including
+     <italic>
+      Escherichia coli
+     </italic>
+     .     Although there has been some success with flagella-based vaccines – even in Phase III studies – the overall impact including opsonic phagocytosis, antibody response, and inflammasome activation is not as efficient as LPS O-antigens, which explains why O-antigen–based immunity remains the major vaccination strategy. Overall, flagella have become a new option for
+     <italic>
+      P. aeruginosa
+     </italic>
+     vaccines, but other components of
+     <italic>
+      P. aeruginosa
+     </italic>
+     display higher probability of producing a vaccine that is both safe and effective in overall protection of the body than flagella.     Taking this into account, fusion proteins have been created to combat
+     <italic>
+      P. aeruginosa
+     </italic>
+     . In one particular study, mice were immunized with ExoA and flagellin that were cloned in
+     <italic>
+      E. coli
+     </italic>
+     as well as a ExoA–flagella recombinant fusion protein. All showed a marked increase in IgG, but the ExoA–flagella showed significant protection against intraperitoneal infection by
+     <italic>
+      P. aeruginosa
+     </italic>
+     .     Hence, flagella vaccines can be complementary to other therapies.
+    </p>
+    <p>
+     Immunotherapy with both recombinant proteins and antibodies is at the forefront of cancer therapy, but the application of biologics in bacterial therapy is much less explored. Behrouz et al developed an effective recombinant type B flagellin (r-b-flagellin) to elicit a response that cross-reacts with different heterologous bacterial strains, consistent with past reports on flagellin being a potent antibody stimulator. Specifically, r-b-flagellin prompts T
+     <sub>
+      H
+     </sub>
+     1 and T
+     <sub>
+      H
+     </sub>
+     2 responses involving both B- and T-cells. In addition, r-b-flagellin can induce a Th17 response critical for neutrophil recruitment. T
+     <sub>
+      H
+     </sub>
+     17-mediated immunity has been demonstrated to play a substantial role in the development of autoimmune diseases, but has also been recently linked to infectious disease. Furthermore, r-b-flagellin achieves a desired protective effect in a burn murine model, suggesting that it is worth further testing for clinical relevance.
+    </p>
+    <p>
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains display heterogeneity, and isolates from chronic CF patients exhibit different properties from individuals with acute infections. After acute infection, bacteria start losing their flagella and pili and begin to downregulate their T3SS.     Strains derived from chronic CF patients tend to form more biofilms and overexpress exopolysaccharide alginate, becoming mucoid.     A vaccine based on flagella is only directed toward motile bacteria and not established biofilm-forming strains often seen in chronic infections, so flagella may be a reasonable target for the initial onset of infection. Because of the great number of hospital-acquired acute infections, even targeting acute infection alone can provide substantial relief by preventing pathogenic invasion and spread.
+    </p>
+    <p>
+     Recent studies have revealed novel important functions for flagella involving the type 6 secretion system (T6SS), especially in coordinating secretion toxins or delivering outer membrane vesicles (OMVs) critical for bacterial pathogenesis.     ,     del Tordello et al exploited the T6SS using sheaths composed of ClpV-interacting protein A and B heterodimers to generate immunogenic multivalent particles for vaccine delivery.     Despite a long road ahead, flagella may still hold potential for future vaccine development as their molecular function continuously unfolds.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Pili
+    </title>
+    <p>
+     Pili have also historically been at the forefront of research on vaccines against
+     <italic>
+      P. aeruginosa
+     </italic>
+     . The polar type 4 secretion system (pili) is located on the outer cell membrane, a characteristic common among all Gram-negative bacteria.     Pili are hair-like appendages that have the capability of being extended or retracted through the utilization of pilin monomers arranged helically. One of the most important functions of pili is attachment and infiltration of the airway epithelium and also in twitching motility which allows bacterial translocation over moist surfaces.     The pilus is composed mainly of major pilin subunits, while the less-abundant minor pilins FimU-PilVWXE and the putative adhesion PilY1 prime pilus assembly are proposed to form the pilus tip.     By pulling the bacterium closer to the epithelium surface, pili allow for the release of substances such as exoenzyme S, enhancing the interaction between
+     <italic>
+      P. aeruginosa
+     </italic>
+     and the epithelium.     Twitching motility is also essential for the bacterium’s success in infiltrating the airway by acting as a grapple and hook, allowing
+     <italic>
+      P. aeruginosa
+     </italic>
+     to essentially glide across the airway surface to its desired location. This movement is accomplished through the expression of various genes and through multiple signal transduction systems. Twitching motility and the overall structure of piliated bacteria, especially
+     <italic>
+      P. aeruginosa
+     </italic>
+     , allow for easy accumulation, attachment, and movement upon the surface of the respiratory epithelium.     Users of soft contact lenses, especially extended-use and overnight wearers, are especially prone to corneal
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection. These infections, similar to infections of the airways, are very difficult to treat.
+    </p>
+    <p>
+     All the above characteristics make pili a potential candidate for vaccines. Similar to other vaccines previously discussed, one of the greatest difficulties in creating a pili-based vaccine against
+     <italic>
+      P. aeruginosa
+     </italic>
+     is that different bacterial strains produce distinct and sometimes very divergent pilin variants. The pili group can be further divided into five distinct phylogenetic groups. Nevertheless, pilin vaccines have demonstrated some success in a preclinical setting utilizing PAO1 as a challenge strain. Loss of specific minor pilins relieves feedback inhibition of FimS-AlgR, increasing transcription of the AlgR regulon and delaying
+     <italic>
+      Caenorhabditis elegans
+     </italic>
+     killing. Reporter assays demonstrate that FimS-AlgR is required for increased expression of the minor pilin operon upon loss of select minor pilins.     Only time will tell what success pilin will bring into the clinics as a future
+     <italic>
+      P. aeruginosa
+     </italic>
+     vaccine.     Mechanistically, both the pili and flagella of
+     <italic>
+      P. aeruginosa
+     </italic>
+     induce IL-8 secretion by binding to GalNAcβ1–4 Gal receptors on the respiratory epithelium.     These receptors are drastically elevated in CF patients.     Upon binding, the respiratory epithelial cells begin to release IL-8, which is followed by recruitment of polymorphonuclear leukocytes that produce elastase and superoxide to defend against the invading pathogen.     This further stimulates IL-8, cycling through further inflammation until the pili and flagella are no longer directly opposed to the epithelium due to the formation of microcolonies that eventually form biofilm.     Once these components are masked by the biofilm, IL-8 peters off, and the body has great difficulty in ridding itself of the pathogen. PilY1 and the minor pilins inhibit their own expression, and loss of these proteins leads to FimS-mediated activation of AlgR that suppresses expression of acute-phase virulence factors and delays killing. This mechanism could contribute to adaptation of
+     <italic>
+      P. aeruginosa
+     </italic>
+     in chronic lung infections, as mutations in the minor pilin operon result in the loss of piliation and increased expression of AlgR-dependent virulence factors that are characteristic of such infections.
+    </p>
+    <p>
+     Another study found that PA14 with an
+     <italic>
+      aroA
+     </italic>
+     deletion mutation (PA14Δ
+     <italic>
+      aroA
+     </italic>
+     ) immunization exhibited much higher levels of IL-17 in bronchoalveolar lavage fluid than unimmunized or
+     <italic>
+      E. coli
+     </italic>
+     -immunized mice, leading to protection against lethal pneumonia. When IL-17 was depleted before a challenge or it was lacking altogether, PA14Δ
+     <italic>
+      aroA
+     </italic>
+     mutant vaccination lost its protective abilities. These results indicate that IL-17 plays an important role in protection against LPS-heterologous strains of
+     <italic>
+      P. aeruginosa
+     </italic>
+     in the lung.     Growing research on IL-17 has shown that a lineage of IL-17–secreting T helper cells (Th17) plays an important role in neutrophil recruitment and activation of memory CD4     T-cells.     Many other cytokines, chemokines, and other factors along with multiple intracellular signaling cascades may be involved in immunization of the lower respiratory tract.     These cascades, including Ras, Src, and EEK1/2 MAP kinases, are activated by several bacterial components.     These components can either be disrupted in parts of the cascades or aberrantly overexpressed: overstimulation of matrilysin by flagella causes lung pathology in CF.     There are countless other secreted factors and cascades involved with
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection, a topic that is also intensely studied. A study using a recombinant PilA (r-PilA) showed increased humoral immunity in a murine burn model. This r-PilA also reduced bacterial burden on organs, such as the liver and spleen, in infected mice and increased overall survivability of the
+     <italic>
+      P. aeruginosa
+     </italic>
+     challenge.     The same investigators took it one step further by mixing r-PilA and a recombinant full-length type b flagellin (r-b-flagellin). By attacking both virulence factors, the r-PilA + r-b-flagellin immunization induced vigorous opsonophagocytic killing of both the PAO1 strain and a multidrug-resistant strain.     Vaccines utilizing recombinant PilA are currently under clinical test.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Exoenzymes and T3SS
+    </title>
+    <p>
+     Once in close contact with the surface of its host,
+     <italic>
+      P. aeruginosa
+     </italic>
+     is internalized into multiple types of epithelial cells in vitro and in vivo, although it was often regarded as an exclusively extracellular pathogen that utilizes a T3SS     to deliver exoenzymes, such as ExoS, ExoT, ExoU, and ExoY, into eukaryotic cells.     Paradoxically, ExoS, a T3SS effector, has antiphagocytic activities required for intracellular survival of
+     <italic>
+      P. aeruginosa
+     </italic>
+     and its occupation of bleb niches in epithelial cells.
+    </p>
+    <p>
+     This is accomplished through a system of 20 proteins that utilize a needle-like structure to penetrate the plasma membrane of the target cell, injecting effector proteins from the bacterial cytoplasm into the membrane and cytoplasm of the host cell.     Current research on T3SS vaccines is directed toward utilizing needle tip proteins such as IpaD in
+     <italic>
+      Shigella flexneri
+     </italic>
+     , LcrV in
+     <italic>
+      Yersinia
+     </italic>
+     spp., and PcrV in
+     <italic>
+      P. aeruginosa
+     </italic>
+     as possible candidates. The specific PcrV class of needle tip proteins has been found to localize at the extracellular end of the T3SS apparatus needle, working to regulate flow of proteinaceous contents into the target cell. Like pilin, T3SS vaccines have only been studied in a preclinical setting; thus, more research needs to be accomplished before determining its efficacy in the clinic. It is also true that the protective activity of T3SS is not as good as that of LPS O-antigens, and little is still understood about the genetic, protein, and serologic variability in PcrV among diverse
+     <italic>
+      P. aeruginosa
+     </italic>
+     isolates.     MEDI3902 is an antibody vaccine targeting
+     <italic>
+      P. aeruginosa
+     </italic>
+     virulence factors PcrV and Psl     ,     that enhance neutrophil uptake. Pre-clinical data have shown that MEDI3902 can protect against
+     <italic>
+      Pseudomonas
+     </italic>
+     pneumonia.     ,
+    </p>
+    <p>
+     Recently, the use of T3SS-based bacterial live vectors for immunotherapy has been explored, notably because of its potential in triggering antigen-specific cytotoxic CD8     T-lymphocyte responses, a very important component of the body’s defense against
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection.
+     <italic>
+      P. aeruginosa
+     </italic>
+     and corresponding effector-null isogenic T3SS mutants, effector-null mutants of cytotoxic bacterium with and without ExoS transformation, antibiotic exclusion assays, and imaging using a T3SS-GFP reporter were internalized into target cells. Intracellular bacteria showed that T3SS activation continued in replicating daughter cells.
+    </p>
+    <p>
+     It has been shown that some pathogens (
+     <italic>
+      Mycobacterium tuberculosis
+     </italic>
+     or
+     <italic>
+      Salmonella typhimurium
+     </italic>
+     ) activate CD4 and CD8 lymphocytes;     however,
+     <italic>
+      P. aeruginosa
+     </italic>
+     has been demonstrated to specifically activate a CD8     T-cell response. One of the limitations of this type of research is the intrinsic toxicity of these vectors; however, lesser virulence has been achieved through deletion of various genes of the T3SS toxin exoenzymes, ExoS, and ExoT, and ExoU.     Through further attenuating
+     <italic>
+      P. aeruginosa
+     </italic>
+     T3SS-based vectors, toxicity can be reduced and overall vaccination efficacy can be improved. Wang et al used T3SS to deliver ovalbumin (OVA) antigen into respiratory epithelial cells to induce an immune response against OVA-expressing cells. The OVA antigen was greatly attenuated by deleting various genes, such as quorum-sensing (QS) genes and the
+     <italic>
+      aroA
+     </italic>
+     gene.     The
+     <italic>
+      aroA
+     </italic>
+     mutation causes T3SS to function at a higher level and reduces toxicity greatly, while a QS mutation shows slightly reduced toxicity and a reduced negative effect of QS molecules on the immune system. Overall, research involving the utilization of T3SS
+     <italic>
+      P. aeruginosa
+     </italic>
+     live vector to deliver antigens to the host’s immune system is a very promising and novel approach for creating attenuated vaccines. Due to their high immunogenicity and low toxicity, the use of Polack et al’s Δ
+     <italic>
+      aroA
+     </italic>
+     mutants (CHA-OA and CHA-OAL) may have the potential for further development of a vaccine. Quite notably, Polack et al also demonstrated that the T3SS of
+     <italic>
+      P. aeruginosa
+     </italic>
+     could also be utilized to deliver in vivo tumor antigens, which activate the body’s innate immunity. Certain characteristics of the epitopes’ composition and/or peptide length, such as long peptides with immunodominant, cryptic CD8     epitopes and strong CD4     T
+     <sub>
+      H
+     </sub>
+     epitopes, direct the overall immune response, especially upon the activation of cytotoxic T-lymphocyte–mediated immunity.
+    </p>
+    <p>
+     Sawa et al generated a murine monoclonal anti-PcrV antibody, mAB166, which inhibits the T3SS toxin translocation. Phase IIa clinical trials have begun in France to evaluate a recombinant, PEGylated, human Fab’ anti-PcrV fragment (KB001) involving ten intensive care units to see its effect on ventilator-associated pneumonia. They looked at 39 mechanically ventilated patients who had been colonized, but not infected. The KB001 has been shown to be well tolerated by patients and could neutralize PcrV for at least a month and prevented patients from developing pneumonia within that period.     In addition, clinical trials led by researchers in the USA found a dose-dependent reduction in IL-1β, IL-8, and myeloperoxidase when administering the KB001 vaccine. Sputum samples showed a decrease in neutrophil elastase and neutrophil counts at a 10 mg/kg dose. These findings indicate an auxiliary treatment to reduce inflammation and harm to patients with chronic pneumonia and CF.
+    </p>
+    <p>
+     PcrV is not the only promising target for a
+     <italic>
+      P. aeruginosa
+     </italic>
+     vaccine. PopB/PopD, which helps the translocation of exotoxins across the host’s cell membrane, is a target for Th17 cells. These subsets of helper T-cells elicit a response via production of IL-17 to enhance bacterial clearance. A live attenuated PopB vaccine showed reduced bacterial loads within the lungs and spleen 18 hours post-infection.     An issue with these findings is that PopB is likely not exposed on the surface of live
+     <italic>
+      P. aeruginosa
+     </italic>
+     , making it difficult to recognize whole PAO1 cells along with opsonophagocytic killing of invading bacteria.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Outer membrane proteins
+    </title>
+    <p>
+     Other important vaccine candidates for
+     <italic>
+      P. aeruginosa
+     </italic>
+     infections include OMPs, flagellin–OMP fusion proteins, ExoA, alginate, DNA and viral vector vaccines, and passive immunization. Many of these candidates have shown moderate success in preclinical and even in some clinical studies.     Some of the conserved antigens of
+     <italic>
+      P. aeruginosa
+     </italic>
+     are not required for full virulence, and vaccines targeting any one of these components may select for the emergence of vaccine-resistant strains instead of producing protection. Conversely, utilizing an aggregation of targets of
+     <italic>
+      P. aeruginosa
+     </italic>
+     genes may enhance the immune potency and, in turn, achieve better protection. Westritschnig et al attempted to create systemic, nasal, and oral live vaccines against
+     <italic>
+      P. aeruginosa
+     </italic>
+     . These vaccines were designed to utilize immunogenic epitopes of the OMPs OprF and OprI of
+     <italic>
+      P. aeruginosa
+     </italic>
+     .     One vaccine that has recently been developed to target OprF and OprI is the VLA43 vaccine.     Understanding
+     <italic>
+      P. aeruginosa
+     </italic>
+     pathogenesis mechanisms could immensely benefit the development of novel prevention and treatment strategies. To identify novel vaccine candidates, researchers comprehensively examined the expression levels of all known OMPs in two
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains in a murine acute pneumonia model. OprH was one of the most highly expressed proteins during infection. In addition, OprH is known to be highly immunogenic and accessible by host proteins.
+    </p>
+    <p>
+     As the OMPs are far more conserved than other virulence factors of
+     <italic>
+      P. aeruginosa
+     </italic>
+     , OMP-based vaccines may engender total immunogenicity to provide better protection.     Herein, the OprF–OprI protein showed protective capabilities against systemic
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection, and was found to be safe with tolerable side effects in a clinical setting. Importantly, attenuated
+     <italic>
+      Salmonella
+     </italic>
+     was further used to express OprF–OprI as an oral live vaccine     and demonstrate cross-reactivity with all known serotypes of
+     <italic>
+      P. aeruginosa
+     </italic>
+     , resulting in vigorous antibody induction in the lower respiratory tract.     The OMP oral and live vaccines have both resulted in greater levels of IgA antibodies at the bronchial surface, whereas only nasal vaccination induced a strong serum antibody response.     ,     Recent studies indicate that
+     <italic>
+      Salmonella
+     </italic>
+     invasion requires CF transmembrane conductance regulator protein, a component of the respiratory airways but not the gastrointestinal tract. Oral live vaccination of CF patients using
+     <italic>
+      Salmonella
+     </italic>
+     strains may be as effective as airway delivery.     ,     A Phase I study was conducted using a recombinant OMP called IC43 that consisted of both OprF and OprI epitopes, given twice intramuscularly. The OprF–OprI titers were markedly different between 7 and 14 days after vaccination. A dose of 50 µg or greater induced a plateau in IgG antibody response.     A different Phase III study on 483 CF patients produced high and long-lasting serum anti-flagella IgG titers with an overall 34% degree of protection.     Overall, both nasal and oral OprF–OprI vaccines may represent promising attenuated vaccines for
+     <italic>
+      P. aeruginosa
+     </italic>
+     .
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Outer membrane vesicles
+    </title>
+    <p>
+     Like other Gram-negative bacteria,
+     <italic>
+      P. aeruginosa
+     </italic>
+     secretes OMVs that fuse with lipid rafts on its cell membrane as a means to deliver virulence factors to distant locations.     Due to the growing understanding of how OMVs influence bacterial pathogenesis in the past decade, utilization of this entity for vaccination is a topic that is also heating up. Previous research showed that OMVs elicit heightened innate immune responses by the combined sensing of both LPS and protein components.     –     Indeed, OMVs may be promising vaccine candidates against several species of bacteria.     –     Remarkably, vaccines developed based on
+     <italic>
+      Neisseria lactamica
+     </italic>
+     OMVs rendered effective protection against meningococcal infection and underwent a Phase I clinical trial for safety and immunogenicity studies with adult volunteers.     Furthermore, OMVs from
+     <italic>
+      P. aeruginosa
+     </italic>
+     triggered production of cytokines in epithelial cells and macrophages,     such as IL-1 and IL-6, via the TLR4 signaling pathway requiring LPS.
+    </p>
+    <p>
+     Unlike whole bacterium vaccines, OMVs have a significant advantage in reducing virulence repertoire, thus drastically quenching safety concerns if applied in clinics. Hence, naturally produced
+     <italic>
+      P. aeruginosa
+     </italic>
+     OMV vesicles have the potential to protect the immunized host against subsequent pseudomonal infections. Taken together, a well-designed vaccine based on OMVs will offer enhanced safety, improved immunogenicity, and elevated efficacy for prevention of pseudomonal diseases.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Phage therapy
+    </title>
+    <p>
+     Although practically an ancient topic, phage therapy has been revitalized over the recent years and put back into conversations regarding viable treatment options, especially for patients who are non-responsive to broad spectrum antibiotic treatment. Bacteriophages, which are considered to be among the most ubiquitous and diversified organisms on Earth and, are believed to exist wherever their hosts thrive.     Although advanced techniques for formulating phage cocktails, training phages, and collecting phage libraries have improved efficacy in vitro, whether personalized or ready-to-use therapeutic approaches or phages and antibiotics combination are effective and safe in vivo, and can reduce
+     <italic>
+      P. aeruginosa
+     </italic>
+     biofilms, remains to be answered.
+    </p>
+    <p>
+     There are two types of phages: lytic and temperate. For therapeutic purposes, only the lytic phages are used, which adsorb on the host cell surface and proceed to inject and replicate their DNA into host cells to induce host cell lysis.     Subsequently, the progeny phages are released and advance the infection by targeting other bacteria. Phage therapy was proposed &gt;100 years ago by d’Herelle,     but the notion was subdued after antibiotics proved more impactful and cost-effective. Due to the strong support for antibiotics and arguments against phage therapy experiments, enthusiasm for phage therapy drastically diminished over the years. By the time World War II had ended, phage therapy was nearly abandoned in the western world.
+    </p>
+    <p>
+     Due to the growing concerns of rapidly increasing antibiotic resistance or multidrug-resistant superbugs, scientists are beginning to renew the interests in phage therapy as a clinical option. To date, there are 137 known phages that have been completely sequenced on public databases that attack
+     <italic>
+      P. aeruginosa
+     </italic>
+     , most coming from the Caudovirales order. There have been studies done both in vitro and in vivo, besides many therapeutic cases without academic publications (but searchable on the Internet). One example is a lytic phage that prevents biofilm formation on
+     <italic>
+      P. aeruginosa
+     </italic>
+     in hydrogel-coated catheters. Fu et al pretreated the catheters with Myoviridae phage M4 for 2 hours prior to bacterial challenge. Results showed a 2.8 log decrease in the number of viable cells compared to the control,     although at the 24–48-hour period, there was formation of a phage-resistant biofilm. In addition, phages can also affect
+     <italic>
+      Pseudomonas
+     </italic>
+     spp. by changing their natural environment and influencing the virulence and other pathogenicity. This sudden marked reduction followed by a lagging phage-resistant biofilm seemed to be the trend of the therapy across multiple studies.     The same phenomenon occurred in another group’s study when phages were administered 2 hours after an onset of infection. The result was a 95% survival rate in immunocompetent mice. There was also a 4-day preventive treatment of bacteriophages that showed a 100% survival rate, which highlights both the curative and preventative aspects that bacteriophages can offer.     Some researchers use a mixture of bacteriophages and antibiotics to treat
+     <italic>
+      P. aeruginosa
+     </italic>
+     . This method solves the initial problem, but still involves the disadvantages of antibiotic treatment.     While most cases have suggested treatment using a single phage, Hall et al utilized a combination of two to four phages – a phage cocktail – which appears to be more effective than use of a single bacteriophage. Therefore, broad host-range phage cocktails potentiate the efficacy of phage therapy.     ,
+    </p>
+    <p>
+     Human trials of phage therapy have also shown their warrant as a viable therapy. Small studies have shown marked reduction in bacterial colonies with just a single dose of phage therapy.     Most studies have been done on burn victims where the phages were applied topically on the wounds. Also, very little to no adverse effects are observed with phage therapy, further highlighting its promise.     ,
+     <italic>
+      P. aeruginosa
+     </italic>
+     is a ubiquitous pathogen infecting many organs and systems. It would be curious to see phage studies done on individuals with chronic CF or COPD to see its viability as a therapy in that regard to chronic diseases, where the resistance to antibiotics is particularly severe.
+    </p>
+    <p>
+     There are still some challenges that phage therapy faces. Among the challenges include phage-neutralizing antibodies produced by the body’s immune system and safety concerns regarding endo- and exotoxins in phage preparations. The limited spectrum of activity also limits applications for this therapy. Another disadvantage is that bacteria are rapidly becoming resistant to phages, chiefly due to the existence of clustered regularly interspaced palindromic repeats (CRISPR), a bacterial adaptive immunity system, which can degrade with high specificity invading DNA or RNA via short guide RNAs.     ,     For example, Cady et al found that PA14 CRISPR-Cas systems mediate resistance to engineered phages.     There is an emergence of research to tackle the problem of CRISPR-Cas system by means of manipulating genes to change the bacterial host defense and pathogenesis. By halting the bacteria’s ability to illicit an immune response, phages are able to gain access and work as intended. The goal then becomes producing reliable pro- or anti-sense proteins to manipulate the CRISPR-Cas system. Maxwell et al found that the anti-CRISPR protein AcrF1 acts a potent inhibitor of CRISPR-Cas systems by locking the Csy complex into a conformation that diminishes its ability to bind to DNA.     All type I-F CRISPR-Cas systems are vulnerable to inhibition by anti-CRISPR proteins.     To further expand this field, type I CRISPR-Cas systems may be utilized to invade hosts and evade immune response through the QS regulator LasR, hindering TLR4’s ability to recognize the pathogen.     This CRISPR-Cas system is a double-edged sword, though. By using the same mechanism that the bacteria use to become resistant, scientists can use it to create synthetic phages with desired characteristics and precise genomic content.     ,     With the decreasing cost of DNA sequencing, scientists have a more precise engineering method to combat this bacterial foe.     In addition to CRISPR resistance, the bacteria still have many other antiviral mechanisms, such as preventing phage adsorption, inhibiting phage DNA entry, and aborting infection systems.     These evasive strategies will make it increasingly difficult to apply phage therapy generally; but with advancement of basic scientific research as well as clinical testing, we anticipate a rejuvenated research field for phage therapy of bacterial infections.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Live attenuated vaccines
+    </title>
+    <p>
+     Attenuated bacteria, a lesser-developed field of research with regard to
+     <italic>
+      P. aeruginosa
+     </italic>
+     vaccination, can also be used for prevention and therapy. Attenuated vaccines for preventing
+     <italic>
+      P. aeruginosa
+     </italic>
+     are among the least researched, but have shown to be one of the most successful in the preclinical setting in the last few years.     Since this topic has partially been covered in previous sections, we will just focus on more mechanistic research in the attenuated bacterial vaccine field. One of the main advantages of attenuated whole bacterial vaccines is their broad coverage of bacterial virulence factors and generation of a more complete and effective response. Gerald B Pier and his colleagues at Harvard Medical School have explored
+     <italic>
+      P. aeruginosa
+     </italic>
+     live attenuated vaccines for quite some time, reporting that vaccine strains provide protection against acute fatal pneumonia in mice caused by serogroup-homologous strains, but little protection against serogroup-heterologous, highly virulent, ExoU-positive cytotoxic strains.     The high virulence of these latter strains limits the doses of bacterial challenge during survival experiments, thereby rendering less-potent immune effects. In a more recent study, Pier’s team used a mucosal vaccination route to deliver monovalent to quadrivalent combinations of live attenuated
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains.     Interestingly, a multifactorial immunity was induced by the vaccination, one that involves both humoral and cellular components – both antibodies and T-cells. Through this simultaneous induction of immune components, a diverse array of antigens from
+     <italic>
+      P. aeruginosa
+     </italic>
+     was targeted. This multifactorial immunity was associated with broad in vivo protection against acute lung infection caused by a wide range of
+     <italic>
+      P. aeruginosa
+     </italic>
+     strains, including both ExoU-negative and -positive strains.
+    </p>
+    <p>
+     Novel ideas also emerged as
+     <italic>
+      Francisella tularensis
+     </italic>
+     was genetically modified to express the surface proteins OprFPa, PilAPa, and FliCPa of
+     <italic>
+      P. aeruginosa
+     </italic>
+     . Out of these three surface proteins, only FliCPa showed immune protection in a murine model.     Currently, multiple efforts are being made to develop other live attenuated vaccines such as
+     <italic>
+      Mycobacterium tuberculosis
+     </italic>
+     (Mtb).     These endeavors demonstrate that live attenuated vaccines may be a more viable means of producing a broader protection. Even though these vaccines are different in genus, there is hope to draw parallels in techniques and procedures in the hope of producing viable vaccines. To add even more utility to attenuated
+     <italic>
+      P. aeruginosa,
+     </italic>
+     there has been a long-term interest of using live attenuated bacterial vectors for antigen delivery in cancer immunotherapy.
+    </p>
+    <p>
+     Live attenuated vaccinations against
+     <italic>
+      P. aeruginosa
+     </italic>
+     are relatively new; in fact, live attenuated bacterial vaccines in humans have only been tested using the Ty21A strain of
+     <italic>
+      Salmonella enteritidis
+     </italic>
+     and the CVD 103-HgR strain of
+     <italic>
+      Vibrio cholerae
+     </italic>
+     . Producing a live attenuated vaccine against
+     <italic>
+      P. aeruginosa
+     </italic>
+     has the possibility of being quite inexpensive and very effective if a proper means to attenuate virulence is discovered while maintaining immunogenicity.     Despite some promising results, there has been strong resistance from the well-known use of live attenuated bacterial vaccines due to their intrinsic virulence/toxicity and limited commercial success in the past. Also, with the potential use of attenuated vaccines, developers must be aware of the appropriate recombinant antigens to use. Particularly, in Robinson’s
+     <italic>
+      F. tularensis
+     </italic>
+     LVS, some recombinant antigens were non-immunogenic.     Despite huge challenges in this area, live attenuated vaccines are offering some great hope for conquering the bacterium. The Pier’s research group has also pushed toward understanding more about the role of effector CD4 T-cells, which seem to be important for overall protection from
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection.
+    </p>
+    <p>
+     As the field matures, different techniques may be used for generating attenuated vaccines and understanding host– pathogen interaction may help in technical development. Over the recent years, autophagy has emerged as an important alternative mechanism for delivering pathogen-deprived antigens to the major histocompatibility complex class I and II presentation pathways in Mtb,     whereas this may be different for
+     <italic>
+      P. aeruginosa
+     </italic>
+     .     In both cases, autophagy was utilized as a defense mechanism against phagocytosis by macrophages.
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection induces assembly of the NLRP3 inflammasome, which later leads to the secretion of caspase 1 and IL-1β. Release of IL-1β leads to increased macrophage autophagy and decreased macrophage-mediated phagocytosis along with subdued NO and ROS production.     ,     One hurdle to cross would be to either find a way for the autophagy to become more beneficial in pathogen presentation or for there not to be a loss of macrophage function. Yet, other studies have revealed that
+     <italic>
+      P. aeruginosa
+     </italic>
+     triggers the TLR2/Lyn pathway, which initiates recruitment of autophagic components. They found that there is increased survival of host cells when autophagy-related phagocytosis occurs.     Deeper understanding of autophagy or other related host response may open an avenue to attenuate virulence while maintaining immunogenicity.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     New mechanistic insight into vaccine research
+    </title>
+    <p>
+     As mentioned above and shown in     , the main problem with vaccine research is the lack of full protection with various components targeted at
+     <italic>
+      P. aeruginosa
+     </italic>
+     . Another is to strike a balance between attenuation and immunogenicity. To achieve full protection against various
+     <italic>
+      P. aeruginosa
+     </italic>
+     clinical isolates, vaccine-based defense should cover multiple bacterial antigenic components with diverse immunologic effects generated by the host. However, there is currently only a partial understanding of the range of effectors involved in acquired immunity contributing to protection against
+     <italic>
+      P. aeruginosa
+     </italic>
+     infections in humans. A limited array of effectors may be insufficient to protect against all types of clinically relevant strains encountered by humans.     Current data from preclinical experiments show almost all aspects of the humoral and cellular immune systems as mediators of adaptive immunity against
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection.     Mucosal induced tolerance is a major direction of research. This tolerance involves the induction of serum antibodies – specifically IgG and to a lesser extent IgA – and upregulation of the secretion of various cytokines and chemokines, such as IL-8, IL-17, IL-4, IL-10, TGF-β, and interferon gamma.     Currently, there is debate over the Th1/Th2 balance of the immune response as to which components of the cellular immune system will provide the greatest results. While systemic vaccination, especially with vaccines that are alive, tends to induce a Th2-directed response, nasal and oral vaccination with
+     <italic>
+      Salmonella
+     </italic>
+     induces a mixed, but more so Th1-biased type of response.     There are examples, however, such as r-b-flagellin, that elicit both Th1 and Th2 responses.     To add more to the debate, Th17 and its IL-17 cytokine bear great promise in light of the recent discovery of their origin and function.     But when it comes to vaccine design with Th17 in mind, there seems to be a sharp contrast with individuals suffering from chronic forms of pneumonia such as CF to more acute forms such as pneumonia. With chronic forms, IL-17 levels are elevated and may be linked to inflammation causing damage in the lungs, although with acute forms, the elevated IL-17 is needed for neutrophil recruitment and ultimately for bacterial removal.     ,
+    </p>
+    <p>
+     A proposition can be made in this review on providing a broad range of protection. There may not be a single factor-targeting vaccine, but a combination of different vaccines to provide full or nearly full protection. The examples above were based on the r-PilA + r-b-flagellin or the phage cocktail. This could be the most viable option of closing the gap of immunity. The bottleneck is to develop a technology for easily targeting multiple components, and fortunately, the Cas gene editing tools provide a fresh air in the vaccine field.     CRISPR/Cas has enabled the possibility of quick diagnosis of multiple pathogens.     We may soon see more effective vaccines or preventive weapons being developed with improved CRISPR-Cas technology.
+    </p>
+    <p>
+     Besides working to produce a live attenuated vaccine against
+     <italic>
+      P. aeruginosa
+     </italic>
+     , researchers have also studied other aspects of the pathology involved in lower respiratory tract infection. The discovery of QS systems in Gram-negative bacteria left researchers perplexed for quite some time, because little was known about the capability that the bacteria have to communicate with each other.     QS serves as a special form of communication in
+     <italic>
+      P. aeruginosa
+     </italic>
+     , helping in the control of biofilm production, cell aggregation, and exopolysaccharide production. QS allows
+     <italic>
+      P. aeruginosa
+     </italic>
+     to grow quietly until the population is high enough to attack host cells.     Precise coordination by QS gives
+     <italic>
+      P. aeruginosa
+     </italic>
+     an advantage in successfully growing within the host, especially in conditions where patients have ventilator-associated pneumonia and other previous conditions.     This is proving to be a major hurdle in finding a valid vaccine for
+     <italic>
+      P. aeruginosa
+     </italic>
+     . Many of
+     <italic>
+      P. aeruginosa’s
+     </italic>
+     virulence factors have been shown to be regulated by QS, including phospholipase C, pyocyanin, lecithinase, elastase, and rhamnolipids. It is not yet known whether live attenuated vaccines can combat this cell-to-cell communication. This may be one of the keys to unlocking a reliable prevention strategy, which should be scrutinized in vaccine research.
+    </p>
+    <p>
+     QS also activates three key facets of the prokaryotic adaptive immune system, also called the CRISPR-Cas system. The QS-mediated activation of CRISPR-Cas shows downregulation of phage receptors, leading to reduced ability to combat phage invasion. When a phage enters the cytoplasm of a bacterium, an immune response is activated through the CRISPR-Cas system. Modifying the CRISPR-Cas system may make bacteria more susceptible to phage therapies,     which may point out new avenues of therapies as well as fresh challenges.
+    </p>
+    <p>
+     Studying other older therapies with new modern solutions has also emerged, for instance, the study of antimicrobial peptides (AMPs). The creation of synthetic analogs that mimic natural AMPs can produce a broad spectrum of protection from microbial challenges.     ,     Also, photodynamic therapy (PDT) has shown some promise in studies. This technique was discovered over 100 years ago and has been used in localized treatments of cancers and macular degeneration.     –     With the use of protease-stable polycationic photosensitizers, PDT has been highly effective against Gram-positive bacteria. New studies have shown ways of high selectivity of Gram-negative bacteria with incubation rates as short as 1 minute.     This shows great potential for the rapid eradication of localized infections.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Concluding remarks
+    </title>
+    <p>
+     Scientists have searched for
+     <italic>
+      P. aeruginosa
+     </italic>
+     vaccines for over half a century. While many vaccines, such as antitoxin antibodies, opsonophagocytic killing antibodies, and other antibodies, are under clinical trials or preclinical studies now, there is currently no product available for clinical application.     Further understanding of the molecular pathogenesis of
+     <italic>
+      P. aeruginosa
+     </italic>
+     may hold the key to development of novel vaccines and therapies against this pathogen. There will always be new development for improved vaccine candidates. A critical recent vaccine candidate, targeting a heme-containing catalase KatA (bacterial defense against osmotic stress and H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     attack by phagocytes), effectively eradicates bacterial growth in cells and in mice with better outcomes than the leading vaccine candidate OprF–OprI.     Another development is the vaccine created for serogroup B
+     <italic>
+      Neisseria meningitidis
+     </italic>
+     (MenB). MenB is a serious and frequent cause of meningitis and septicemia. Vaccines directed against MenB have been used for years by targeting the OMV,     and new recombinant protein-based MenB vaccines, MenB-4C and MenB-FHbp,     ,     can induce a long-lasting immune response. This is encouraging, representing many ongoing efforts to find better vaccines to combat Gram-negative bacteria. These and other transformative research will advance into clinical application. Technologically, rapid and continued development of core genomics, proteomics, pan-genomics, high-throughput genomic sequencing, and reverse vaccinology will be beneficial for inventing clinically effective vaccine candidates because only the vaccine that covers multiple bacterial antigenic components with the most diverse immunologic effects generated by the host will have the potential of broad-spectrum targeting.     ,     In addition, pipelines, such as VacSol,     VaxiJen,     and Vaxign,     for automating the high-throughput in silico vaccine candidates are highly promising. Peptide-based vaccines hold strong potential to develop multi-epitope-based constructs/formulation along with suitable adjuvants and linkers to target various antigenic and immunogenic epitopes.     It is clear that we should not put all of our eggs in one basket, and with fruitful results continuing to be published, the future may look bright on finding a potential prevention as well as treatment (     ).
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

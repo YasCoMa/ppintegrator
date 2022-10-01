@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Diverse Secreted Effectors Are Required for
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    Salmonella enterica
+   </italic>
+   serovar Typhimurium causes typhoid-like disease in mice and is a model of typhoid fever in humans. One of the hallmarks of typhoid is persistence, the ability of the bacteria to survive in the host weeks after infection. Virulence factors called effectors facilitate this process by direct transfer to the cytoplasm of infected cells thereby subverting cellular processes. Secretion of effectors to the cell cytoplasm takes place through multiple routes, including two separate type III secretion (T3SS) apparati as well as outer membrane vesicles. The two T3SS are encoded on separate pathogenicity islands, SPI-1 and -2, with SPI-1 more strongly associated with the intestinal phase of infection, and SPI-2 with the systemic phase. Both T3SS are required for persistence, but the effectors required have not been systematically evaluated. In this study, mutations in 48 described effectors were tested for persistence. We replaced each effector with a specific DNA barcode sequence by allelic exchange and co-infected with a wild-type reference to calculate the ratio of wild-type parent to mutant at different times after infection. The competitive index (CI) was determined by quantitative PCR in which primers that correspond to the barcode were used for amplification. Mutations in all but seven effectors reduced persistence demonstrating that most effectors were required. One exception was CigR, a recently discovered effector that is widely conserved throughout enteric bacteria. Deletion of
+   <italic>
+    cigR
+   </italic>
+   increased lethality, suggesting that it may be an anti-virulence factor. The fact that almost all
+   <italic>
+    Salmonella
+   </italic>
+   effectors are required for persistence argues against redundant functions. This is different from effector repertoires in other intracellular pathogens such as
+   <italic>
+    Legionella
+   </italic>
+   .
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="s1">
+    <title>
+     Introduction
+    </title>
+    <p>
+     <italic>
+      Salmonellae
+     </italic>
+     are versatile and robust organisms capable of surviving in diverse nutrient environments and infecting a wide variety of animals.
+     <italic>
+      Salmonella enterica
+     </italic>
+     serovar Typhimurium (or
+     <italic>
+      S.
+     </italic>
+     Typhimurium) causes self-limiting gastroenteritis in humans and a typhoid-like disease in mice. Because
+     <italic>
+      S. enterica
+     </italic>
+     serovar Typhi causes typhoid fever in humans,
+     <italic>
+      S.
+     </italic>
+     Typhimurium infection of mice is used as a model to study typhoid fever. Typhoid fever can be both an acute and chronic disease followed by a carrier state in which
+     <italic>
+      S
+     </italic>
+     . Typhi is carried indefinitely and shed without symptoms
+     ,
+     .
+     <italic>
+      Salmonella
+     </italic>
+     becomes systemic either by invading and destroying the M cells of the intestinal epithelium thereby gaining access to the lymphatic system or by carriage directly to the bloodstream within CD18 positive cells such as macrophages, dendritic cells and neutrophils
+     ,
+     . Intraperitoneal (IP) infection of mice is commonly equated with systemic infection
+     ,
+     , although there are clearly multiple steps in the process
+     . IP infection of specific strains of mice results in persistence and allows identification of genes required for resistance to the adaptive immune system and other factors. In contrast, infection of susceptible strains of mice, containing mutations in Nramp1, only identifies mutations more sensitive to innate immune components.
+    </p>
+    <p>
+     During the course of infection,
+     <italic>
+      Salmonella
+     </italic>
+     uses two type three secretion systems (T3SS) to aid infection
+     ,
+     . The secretion systems are encoded within
+     <italic>
+      Salmonella
+     </italic>
+     pathogenicity island-1 (SPI-1) and
+     <italic>
+      Salmonella
+     </italic>
+     pathogenicity island-2 (SPI-2). The proteins secreted by these two T3SS directly manipulate host cell functions. SPI-1 is important for gaining entry into the host cell, intestinal inflammation, and dissemination
+     . Once inside the host cell, bacteria reside within a modified lysosome called the
+     <italic>
+      Salmonella
+     </italic>
+     containing vacuole (SCV). SPI-2 effectors are required for systemic infection, cell-to-cell spread, and for resistance to some bacteriocidal factors but not intracellular replication per se
+     . Some effectors are secreted independent of the T3SS and are translocated to the host cell via outer membrane vesicles (OMV) while the secretion mechanism of a few proteins is not yet known
+     . Effector functions include altering the membrane and cytoskeleton of the host cell, manipulation of vesicular trafficking, inhibition of cell death pathways, and blocking innate and adaptive immunity. For SPI-1 T3SS effectors, there is ordered secretion
+     and this is likely to be true for other T3SS. Both SPI-1 and SPI-2 have been reported to play roles in persistent infections, but the effectors responsible have not been elucidated.
+    </p>
+    <p>
+     Previous genome-wide screens identified genes essential for persistent infections in mice by microarray screening of a library of transposon mutations following infection to identify genes that are lost
+     . These approaches used transposon insertion libraries, which may miss genes due to insertion specificity, identify false positives, or affect the expression of downstream genes. Here we describe our efforts to determine the essentiality of 48
+     <italic>
+      Salmonella
+     </italic>
+     effectors in murine pathogenesis and to differentiate those that are required for persistence. Rather than relying upon a conventional competitive index (CI) assay, which uses phenotypic differences to differentiate wild-type and mutant strains, we used a qPCR (CI
+     <sub>
+      qPCR
+     </sub>
+     ) method recently developed in our lab
+     . Using this approach, we evaluated the
+     <italic>
+      Salmonella
+     </italic>
+     effector repertoire en masse to establish each effector\s contribution towards persistence at different times after infection.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s2">
+    <title>
+     Results
+    </title>
+    <p>
+     To study the role of different effectors in persistence, we made non-polar deletions in each of the 48 effector genes. Using homologous sequence-mediated recombination
+     , each mutant was tagged with a unique 24-nt barcode sequence
+     (
+     ). Amplification efficiency of each barcode sequence was determined beforehand and only the ones with similar cycle threshold values in qPCR were used
+     . For the wild-type control in these experiments, we substituted the pseudogene STM0314 with its own unique barcode. This replacement did not impact
+     <italic>
+      Salmonella
+     </italic>
+     virulence
+     . The CI
+     <sub>
+      qPCR
+     </sub>
+     method drastically reduces the number of mice required for the study as up to 25 strains can be simultaneously infected. The number of mutants that can be compared in a study is thus no longer limited by the scarcity of selectable markers, as is the case for a conventional CI test. The results obtained by using the CI
+     <sub>
+      qPCR
+     </sub>
+     method were shown to be comparable to those obtained using the conventional CI test
+     .
+    </p>
+    <p>
+     Each mutant strain was mixed in equal proportions with a wild-type reference strain and co-infected by IP injection into female 5–6 week old 129SvJ mice at 10
+     CFU in total. This strain of mice is now commonly used for persistence studies
+     . For IP infection there does not appear to be a bottleneck for access to systemic sites
+     ,
+     because a large number of targets were observed and most proved to be attenuated when subsequently tested. In contrast, each time mice are orally infected with a mixture of strains, a subset of only a few strains are recovered from the spleen and those strains are different upon repetition of the experiment
+     ,
+     .
+    </p>
+    <p>
+     Groups of five mice were euthanized at days 2, 6, 9, and 14 post-infection. Previous persistence studies in mice recovered bacteria from both spleen and liver. However, we observed few differences between the two organs
+     and the spleen contains all WBCs in which
+     <italic>
+      Salmonella
+     </italic>
+     has been observed to replicate
+     . For that reason, we analyzed bacterial populations recovered from the spleen. Barcode sequences from each mutant were quantitatively measured by qPCR and compared to the CI value from the wild-type reference strain to establish a completive index (CI
+     <sub>
+      qPCR
+     </sub>
+     ). For each effector we used an arbitrary five-fold cut-off to establish significant differences in the CI
+     <sub>
+      qPCR
+     </sub>
+     values although the small standard deviation suggests that this is conservative. All mouse infections were performed at least twice for each time point. The following analysis is demarcated based upon previously published secretion pathways.
+    </p>
+    <sec id="s2a">
+     <title>
+      Effectors reported to be translocated only by the SPI-1 T3SS
+     </title>
+     <p>
+      SPI-1 effectors are required for the invasion of epithelial cells and intestinal inflammation, which results in gastroenteritis. This secretion system has also been shown to be essential for persistence in mice
+      and this was true in our study as well. The CI
+      <sub>
+       qPCR
+      </sub>
+      data for all SPI-1 effectors is depicted in
+      and is summarized next.
+     </p>
+     <p>
+      During the course of our study, the Δ
+      <italic>
+       sipA
+      </italic>
+      strain was attenuated at all time points tested (
+      ). SipA is produced and stored in the cytoplasm by
+      <italic>
+       Salmonella
+      </italic>
+      prior to cell invasion
+      . SipA injection activates the protein kinase C alpha (PKCα) signaling pathways and causes pro-inflammatory stimulation, which leads to the recruitment of professional phagocytes that carry
+      <italic>
+       Salmonella
+      </italic>
+      from the lumen of the intestine to the blood stream
+      ,
+      . SipA also inhibits actin depolymerization and increases cell invasion frequency
+      ,
+      .
+     </p>
+     <p>
+      SipB and SipC insert into the plasma membrane and form a channel in the host plasma membrane that permits effector translocation but they also possess enzymatic activities. SipB associates with the proapoptotic protease caspase-1, and induces apoptosis of macrophages possibly permitting bacterial dissemination during infection
+      .
+      <italic>
+       Salmonella
+      </italic>
+      invasion of epithelial cells takes place via ruffling of the host cell membrane, which is caused by actin rearrangements
+      . SipA and SipC limit host membrane ruffling to the point of bacterial contact
+      ,
+      . Both the s
+      <italic>
+       ipB
+      </italic>
+      and
+      <italic>
+       sipC
+      </italic>
+      mutants were attenuated for persistence (
+      ). Similarly, SipD forms the tip of the SPI-1 T3SS needle and regulates translocon assembly and effector translocation
+      . The Δ
+      <italic>
+       sipD
+      </italic>
+      strain showed between 10- and 100-fold decrease in persistence (
+      ), reflecting its role in SPI-1 secretion. Unlike SipB and SipC, no other virulence function has been assigned to SipD.
+     </p>
+     <p>
+      The effector SopA showed the largest persistence defect of all SPI-effectors, about 100-fold by day 14 (
+      ). SopA is a HECT E3 ubiquitin ligase mimic
+      –
+      . The strong phenotype of the
+      <italic>
+       sopA
+      </italic>
+      mutant suggests that this effector must be critical for persistence and the target of the ligase is of great interest. SopB is a phosphoinositide phosphatase that localizes to the host membrane early in infection and aids in the internalization of
+      <italic>
+       Salmonella
+      </italic>
+      . SopB depletes the phagosomal membrane of negative charge, providing one of the mechanisms by which SCV-lysosome fusion is inhibited
+      ,
+      . Consequently, the Δ
+      <italic>
+       sopB
+      </italic>
+      strain also exhibited a persistence defect in mice (
+      ). SopD is essential for optimal replication in mouse macrophages and has previously been shown to be required for systemic infection
+      . Likewise, we observed at least a 10-fold decrease in the number of Δ
+      <italic>
+       sopD
+      </italic>
+      bacteria compared to the parent even at the earliest time point (
+      ). SopE2 is required for
+      <italic>
+       Salmonella
+      </italic>
+      invasion of epithelial cells and plays a role in the disruption of tight junction structure and function, which can lead to diarrhea when combined with the inflammatory response induced by other effectors
+      . In our study, Δ
+      <italic>
+       sopE2
+      </italic>
+      also had a persistence defect (
+      ). We next examined effectors that can be secreted via either the SPI-1 or the SPI-2 encoded T3SS.
+     </p>
+    </sec>
+    <sec id="s2b">
+     <title>
+      Effectors reported to be translocated by either the SPI-1 or the SPI-2 T3SS
+     </title>
+     <p>
+      The CI
+      <sub>
+       qPCR
+      </sub>
+      data for all effectors that can be secreted by either SPI-1 or SPI-2 is shown in
+      . The first strain, Δ
+      <italic>
+       avrA
+      </italic>
+      , showed a persistence defect of about 4-fold at early time points and was attenuated by more than 10-fold on day 14 (
+      ). AvrA inhibits inflammation, represses apoptosis and innate immunity, and stabilizes tight junctions
+      –
+      . The Δ
+      <italic>
+       gtgE
+      </italic>
+      strain also showed a defect (
+      ). GtgE is a unique lambdoid phage Gifsy-2 virulence factor with no significant homology discernable in the sequence databases
+      . GtgE alters vesicular traffic by cleaving Rab29
+      . GtgE is not encoded in human adapted strains (
+      <italic>
+       S
+      </italic>
+      . Typhi and
+      <italic>
+       S
+      </italic>
+      . Paratyphi). SlrP confers host specificity, decreases thioredoxin activity, promotes cell death, and interferes with antigen presentation in dendritic cells
+      –
+      . According to our 5-fold cutoff, the Δ
+      <italic>
+       slrP
+      </italic>
+      strain was not significantly attenuated although it had reduced levels at all time points (
+      ). SpvC has phosphothreonine lyase activity and inhibits MAP kinase signaling
+      . The Δ
+      <italic>
+       spvC
+      </italic>
+      strain did not exhibit a significant persistence defect as was observed for Δ
+      <italic>
+       spvD
+      </italic>
+      , which is in agreement with previous reports (
+      )
+      .
+     </p>
+     <p>
+      SptP is a guanine activating protein (GAP). Its C-terminal domain is thought to prevent fusion with specific vesicles
+      ,
+      . We observed decreased persistence for the Δ
+      <italic>
+       sptP
+      </italic>
+      strain, which was pronounced (&gt;10-fold) at days 9 and 14 post-infection (
+      ). The
+      <italic>
+       sseK1
+      </italic>
+      deletion strain did not show a significant persistence phenotype (
+      ). It has been demonstrated that after translocation, SseK1 localizes to the host cytosol, which is uncommon for
+      <italic>
+       Salmonella
+      </italic>
+      effectors
+      . SspH1 contains leucine-rich repeats that interact with mitogen activated protein kinase 1
+      . SspH1 downregulates inflammatory responses, which may be a result of this interaction. The Δ
+      <italic>
+       sspH1
+      </italic>
+      strain showed about a 10-fold reduction when compared to the parent (
+      ).
+     </p>
+     <p>
+      SteA is required for efficient mouse spleen colonization
+      . The
+      <italic>
+       steA
+      </italic>
+      deletion strain exhibited attenuation at all time points but the most significant difference was observed on day 14 post-infection (
+      ). SteB is annotated as a putative dipicolinate reductase and was not significantly attenuated (
+      ), confirming a previous study
+      .
+     </p>
+    </sec>
+    <sec id="s2c">
+     <title>
+      Effectors reported to be translocated only by the SPI-2 T3SS
+     </title>
+     <p>
+      The CI
+      <sub>
+       qPCR
+      </sub>
+      data for all effectors that are dependent only on the SPI-2 T3SS is depicted in
+      . CigR is an effector that was discovered recently in our laboratory by proteomic analysis of culture supernatants
+      . In contrast to the other effectors we tested, persistence of the
+      <italic>
+       cigR
+      </italic>
+      mutant was elevated with respect to the wild-type strain at all time points, suggesting that this effector may be an anti-virulence factor. To confirm this observation, 129SvJ mice were infected IP with wild-type, Δ
+      <italic>
+       cigR
+      </italic>
+      , and a complemented derivative of this strain expressing cigR from a low coy plasmid. Mice infected with Δ
+      <italic>
+       cigR
+      </italic>
+      bacteria succumbed to infection, whereas mice infected with the wild-type or a complemented strain did not die (
+      ). Thus, CigR functions as an anti-virulence factor.
+     </p>
+     <p>
+      A Δ
+      <italic>
+       gogB
+      </italic>
+      and a Δ
+      <italic>
+       gtgA
+      </italic>
+      deletion strain showed attenuation at 10 and 14 days post infection (
+      ). GogB is encoded within the bacteriophage Gifsy-1. Likewise, GtgA is a bacteriophage encoded virulence determinant of unknown function
+      ,
+      . It is possible that these effectors are required for resistance to the adaptive immune system based on the fact that significant loss only occurred after day 7.
+     </p>
+     <p>
+      Both Δ
+      <italic>
+       pipB
+      </italic>
+      and Δ
+      <italic>
+       pipB2
+      </italic>
+      strains showed wild-type persistence levels (
+      ). Neither PipB nor PipB2 has been reported to have a virulence phenotype
+      , although they associate with detergent resistant lipid rafts on the SCV
+      .
+     </p>
+     <p>
+      SifA is required for full virulence in mice. It plays an important role in maintaining SCV membrane integrity and in the formation of
+      <italic>
+       Salmonella
+      </italic>
+      induced filaments (SIF)
+      ,
+      . The Δ
+      <italic>
+       sifA
+      </italic>
+      strain showed a persistence defect of about 10-fold (
+      ). SifB is also targeted to SCV and SIFs
+      . The
+      <italic>
+       sifB
+      </italic>
+      deletion strain displayed a small, but consistent persistence defect across all time points (
+      ).
+     </p>
+     <p>
+      The Δ
+      <italic>
+       sopD2
+      </italic>
+      strain did not show a significant persistence defect compared to the wild-type strain (
+      ). SopD2 aids in SIF formation, interferes with antigen presentation on dendritic cells, and is required for efficient replication in macrophages and mice
+      . The discrepancy between the previously published results and our own may relate to the different strain of mouse being used (BALB/c Nramp1
+      versus 129SvJ Nramp1
+      )
+      . This possibility has been observed before in which a mutation of
+      <italic>
+       spvR
+      </italic>
+      had a strong phenotype in Nramp1
+      mice but none in congenic Nramp1
+      .
+     </p>
+     <p>
+      The Δ
+      <italic>
+       spiC
+      </italic>
+      strain had a very strong persistence defect (
+      ) equaled only by Δ
+      <italic>
+       sseC
+      </italic>
+      and Δ
+      <italic>
+       sseD
+      </italic>
+      . All are components of the secretion apparatus. SpiC was originally reported as an effector that interferes with vesicular trafficking, vacuole-associated actin polymerization (VAP), and SIF formation
+      ,
+      . Recent studies have demonstrated that SpiC forms a complex with SsaM and SsaL to regulate effector translocation
+      . A mutation of
+      <italic>
+       spiC
+      </italic>
+      is tantamount to a deletion of the SPI-2 T3SS although this does not rule out additional roles in virulence.
+     </p>
+     <p>
+      SpvB is essential for delayed host cell death by apoptosis following intracellular infection and inhibits VAP and SIF formation
+      –
+      . The Δ
+      <italic>
+       spvB
+      </italic>
+      strain showed more than 10-fold attenuation compared to wild-type but only at day 14 (
+      ), perhaps suggesting a role in dissemination or resistance to adaptive immune components.
+     </p>
+     <p>
+      SseB, C and D form the needle tip of the SPI-2 T3SS and the translocon pore through the mammalian vesicle membrane
+      ,
+      . Deleting
+      <italic>
+       sseB
+      </italic>
+      ,
+      <italic>
+       sseC
+      </italic>
+      , and
+      <italic>
+       sseD
+      </italic>
+      led to persistence defects following infection (
+      ). SseF and SseG contribute to SIF formation along with SifA and are also important for positioning the SCV near the perinuclear/Golgi region
+      ,
+      . Deleting these two genes reduced persistence although the phenotype for
+      <italic>
+       sseG
+      </italic>
+      was stronger than
+      <italic>
+       sseF
+      </italic>
+      (
+      ).
+     </p>
+     <p>
+      SrfH (SseI) promotes rapid septicemia minutes after oral infection, blocks dendritic cell motility, and reduces the inflammatory response
+      ,
+      . The
+      <italic>
+       srfH
+      </italic>
+      deletion strain showed attenuation at later times (
+      ), which is consistent with previous reports
+      . SseJ is a cholesterol deacylase and also has acyltransferase activity
+      ,
+      . SseJ is required for intracellular replication in the host, and the Δ
+      <italic>
+       sseJ
+      </italic>
+      strain was attenuated for persistence (
+      ).
+     </p>
+     <p>
+      The
+      <italic>
+       sseK2
+      </italic>
+      and
+      <italic>
+       K3
+      </italic>
+      deletion strains were not significantly attenuated in our study (
+      ). In BALB/c mice, deletion of
+      <italic>
+       sseK2
+      </italic>
+      did not have any effect on virulence
+      . Other researchers found a small effect of the
+      <italic>
+       sseK
+      </italic>
+      family on virulence but observed no effect by deleting
+      <italic>
+       sseK3
+      </italic>
+      alone
+      . The SseL effector inhibits apoptosis and downregulates the inflammatory response
+      ,
+      . However, it was not significantly attenuated in our study (i.e. &lt;5-fold) (
+      ). As there are multiple effectors already identified that inhibit innate immune signaling and inflammation, SseL may be redundant or simply not necessary in this infection model.
+     </p>
+     <p>
+      Several
+      <italic>
+       Salmonella
+      </italic>
+      effectors share sequence similarity within the first 120 amino acids (SlrP, SspH1, SspH2, SrfH (SseI), SseJ, SifA and SifB)
+      . SspH2 and SrfH differ by only two amino acids within the first 129 amino acids. This conserved region encodes an S-palmitolylation motif (GSGC) that begins 6 bp from the annotated N terminus and requires sequences encoded within the first 100 AA for palmitolyation. Palmitolylation is necessary for plasma membrane localization and activity (at least of SrfH). SspH2 is predicted to be a unique E3 ubiquitin ligase for which the target protein has not yet been identified. The
+      <italic>
+       sspH2
+      </italic>
+      deletion strain showed a persistence defect (
+      ). SspH2 has been shown to be important for virulence in a calf model
+      and it interferes with antigen presentation in dendritic cells
+      . SteC has kinase activity that is required for actin remodeling in infected cells
+      . SteC has been previously shown to be important for virulence
+      , but the
+      <italic>
+       steC
+      </italic>
+      deletion strain was only mildly attenuated for persistence in 129SvJ mice (
+      ). In contrast, the
+      <italic>
+       steD
+      </italic>
+      deletion strain did not show a persistence defect (
+      ), which is in agreement with a previous study
+      .
+     </p>
+    </sec>
+    <sec id="s2d">
+     <title>
+      Effectors reported to be secreted independent of T3SS
+     </title>
+     <p>
+      The CI
+      <sub>
+       qPCR
+      </sub>
+      data for all effectors that are not secreted by T3SS is represented in
+      . PagJ, PagK1, and PagK2 are close homologs with unknown functions
+      . They are translocated into cells by outer membrane vesicles (OMV), and deletion of these genes showed a small persistence defect (
+      ). Our results for PagK2 are consistent with a previous report
+      . The
+      <italic>
+       pagC
+      </italic>
+      deletion strain also showed attenuation in 129SvJ mice but only after 9 days (
+      ). PagC is a membrane bound effector present in the periplasm, in OMV, or on the outside of the cell and helps
+      <italic>
+       Salmonella
+      </italic>
+      resist defensins, and potentially other microbiocidal host factors present in the phagolysome
+      . PagD may play a role in the survival of
+      <italic>
+       Salmonella
+      </italic>
+      within macrophages
+      . The
+      <italic>
+       pagD
+      </italic>
+      deletion strain was less persistent than the wild-type (
+      ). Both PagC and PagD were identified in a secretome analysis of proteins secreted under conditions partially mimicking infection and may be secreted in OMV although this has not been directly demonstrated
+      .
+     </p>
+     <p>
+      The secretion mechanisms for SssA and SssB/YdgH are unknown but may be OMV. The
+      <italic>
+       sssA
+      </italic>
+      deletion strain did not show significant attenuation compared to wild-type (
+      ). The
+      <italic>
+       sssB
+      </italic>
+      deletion strain was attenuated compared to wild-type at later time points (
+      ). SssB is secreted by SPI-2 but appears to also go out via OMV based on secretion that was partially dependent on T3SS. Proteins that are secreted via OMV have a secretion signal that directs them to the periplasm, which is observed in YdgH although not all periplasmic proteins are secreted
+      .
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s3">
+    <title>
+     Discussion
+    </title>
+    <p>
+     In this study we evaluated the effect of deleting 48
+     <italic>
+      Salmonella
+     </italic>
+     effectors on persistence, an important virulence attribute
+     ,
+     . By using a CI
+     <sub>
+      qPCR
+     </sub>
+     method, we were able to mix multiple mutant strains with wild-type bacteria, thereby reducing the number of mice required. This approach yielded several intriguing observations. We found that all but seven effectors, SseK1, SteB, PipB, PipB2, SopD2, SseK2, and SseK3, contributed to persistence. Several of the mutant strains (
+     <italic>
+      avrA
+     </italic>
+     ,
+     <italic>
+      steA
+     </italic>
+     ,
+     <italic>
+      pagC
+     </italic>
+     ,
+     <italic>
+      spvB
+     </italic>
+     ,
+     <italic>
+      sopB
+     </italic>
+     , and
+     <italic>
+      sssB
+     </italic>
+     /
+     <italic>
+      ydgH
+     </italic>
+     ) did not show a strong defect until two weeks after infection while others were lost within the first few days of infection. This suggests that they confer resistance to different aspects of host defense. Interestingly, we also discovered that the CigR effector functioned as an anti-virulence factor.
+    </p>
+    <p>
+     The CI
+     <sub>
+      qPCR
+     </sub>
+     method has many of the advantages of conventional competitive index assay in that even small differences in virulence can be observed but it does not have the disadvantage of requiring a different mouse for each mutant tested. We have used a persistence model because, as observed previously, it is more sensitive than an acute infection model and reflects additional virulence attributes
+     ,
+     . In an acute infection model, the mice succumb before they have a chance to mount an adaptive immune response whereas in a persistence assay there are likely to be many other factors that contribute to bacterial survival. In fact, several of the mutant strains did not show a strong defect until two weeks after infection including
+     <italic>
+      avrA
+     </italic>
+     ,
+     <italic>
+      steA
+     </italic>
+     ,
+     <italic>
+      pagC
+     </italic>
+     ,
+     <italic>
+      spvB
+     </italic>
+     ,
+     <italic>
+      sopB
+     </italic>
+     , and
+     <italic>
+      sssB
+     </italic>
+     (
+     <italic>
+      ydgH
+     </italic>
+     ).
+    </p>
+    <sec id="s3a">
+     <title>
+      SPI-1 effectors
+     </title>
+     <p>
+      SPI-1 was previously shown to be required for persistence in a murine model
+      . We found that deletion of all SPI-1 effectors individually led to a persistence defect. SopA was notable in that its deletion resulted in a &gt;100-fold difference when compared to wild-type. This was surprising when compared to mutations within the translocase proteins SipB, SipC and SipD, which did not have as strong a phenotype as a
+      <italic>
+       sopA
+      </italic>
+      mutant. It is possible that SopA can be secreted by an alternative mechanism similar to SipA, which can be secreted by the flagella. To test for this possibility we constructed CyaA\ fusions to SopA, SopB, and SopE2 and tested each of them for translocation into J774 macrophages when expressed from a strong constitutive promoter. Under these conditions, each of these fusions could be translocated by the SPI-2 encoded T3SS (data not shown). The difference between this result and what others have reported for their SPI-1 dependent secretion may simply be that their expression was poor under the conditions they employed (late log in LB medium). In fact, an earlier study demonstrated that
+      <italic>
+       Salmonella
+      </italic>
+      is present in all WBCs of the spleen of infected C57/Bl6 mice, even T-cells, which are normally non-phagocytic and even in a strain missing a structural component of the SPI-1 T3SS. Thus, SPI-1 effectors may have an additional secretion pathway to explain
+      <italic>
+       Salmonella
+      </italic>
+      invasion of non-phagocytic cells.
+     </p>
+    </sec>
+    <sec id="s3b">
+     <title>
+      Effectors translocated by either SPI-1 or SPI-2
+     </title>
+     <p>
+      For effectors that can be secreted by either SPI-1 or SPI-2 T3SS, we observed decreased persistence for all mutant strains except
+      <italic>
+       ΔsseK1
+      </italic>
+      at later times post-infection suggesting that they were essential for persistence in the host. Of these genes, mutations in
+      <italic>
+       avrA
+      </italic>
+      ,
+      <italic>
+       sptP
+      </italic>
+      ,
+      <italic>
+       sspH1
+      </italic>
+      , and
+      <italic>
+       steA
+      </italic>
+      showed at least a 10-fold decrease relative to the parent after two weeks.
+     </p>
+    </sec>
+    <sec id="s3c">
+     <title>
+      SPI-2 effectors
+     </title>
+     <p>
+      Most strains with deletions of SPI-2 effectors showed attenuation compared to wild-type except for
+      <italic>
+       cigR
+      </italic>
+      ,
+      <italic>
+       pipB
+      </italic>
+      ,
+      <italic>
+       pipB2
+      </italic>
+      ,
+      <italic>
+       sopD2
+      </italic>
+      ,
+      <italic>
+       sseK2
+      </italic>
+      , and
+      <italic>
+       sseK3
+      </italic>
+      . Deletion of effectors GogB, GtgA, SifA, SpiC, SpvB, SseC, SseD, SseG, and SseJ showed at least a 10-fold loss at two weeks. Of these effectors, SpiC, SseC and SseD showed the strongest effect probably because they are structural as well. A dual role, both as a component of the secretion apparatus and as an effector is suggested for SpiC, whereas SseC and SseD are translocon components although they were observed to be secreted previously
+      . CigR was unique in that a deletion of this effector increased virulence. In 129SvJ mice following injection with 10
+      bacteria, a mutant of
+      <italic>
+       cigR
+      </italic>
+      killed all the mice by day 14 but the complemented mutant and wild-type parent did not (
+      ). The simplest explanation for this observation is that CigR is specifically recognized by the innate immune system similar to many T3SS effectors in plants
+      . This possibility is also suggested by the fact that it is one of the few conserved effectors present in many enterics and thus direct recognition by a component of the innate immune system seems more likely.
+     </p>
+    </sec>
+    <sec id="s3d">
+     <title>
+      Effectors secreted independent of T3SS
+     </title>
+     <p>
+      Of all the effectors secreted via OMV, only SssB (YdgH) had a strong persistence defect at two weeks post-infection. The fact that it is secreted by OMV was based on its identification in the secretome and the presence of a signal peptide expected to deliver it to the periplasm. However, there was no direct identification in secreted vesicles. Because OMV are diffusible, the persistence defect we observed may be partially complemented by other strains in a mixed infection and would require testing individual mutations. Previously no virulence defect was noted for a mutation in
+      <italic>
+       sssB
+      </italic>
+      , but this was assessed in Nramp1
+      mice following an acute infection. SrfN has a structure related to SssB and is secreted by OMV based on direct identification. SrfN shows a small virulence defect. These effectors are part of a large family of conserved structurally related proteins without a known function (duf 1471) but present in many enteric bacteria.
+     </p>
+    </sec>
+    <sec id="s3e">
+     <title>
+      Complementation by co-infection
+     </title>
+     <p>
+      One question that arises when considering a large number of
+      <italic>
+       Salmonella
+      </italic>
+      mutants co-infecting a mouse is whether a factor produced by one mutant could complement a defect present in another mutant. For example, if the mutation is located in a diffusible factor such as a protein secreted in OMV, the other bacteria could provide the factor. These mutants will not be observed unless mutations are tested one by one. We (and others) have looked for such mutants unsuccessfully. For any genes that normally inhibit the adaptive immune response, the phenotype of the mutant in a mixed infection is less clear. Certainly if most bacteria are inhibiting T-cell replication and only a few do not, those that inhibit are more likely to win and thus the defect would not be observed. Both SrfH (SseI) and AvrA inhibit the adaptive immune response and yet are lost from a mixed infection. Surprisingly, the opposite effect has been noted i.e. mutations that are only observed during a mixed infection but when tested one by one have no phenotype
+      .
+     </p>
+    </sec>
+    <sec id="s3f">
+     <title>
+      Persistence pathways
+     </title>
+     <p>
+      To our knowledge this is the first time that 48
+      <italic>
+       Salmonella
+      </italic>
+      effectors have been studied en masse for a persistence phenotype. Surprisingly, the vast majority was required, suggesting that
+      <italic>
+       Salmonella
+      </italic>
+      effectors lack redundant functions. This observation contrasts starkly with other bacteria such as
+      <italic>
+       Legionella
+      </italic>
+      where effector deletion has no effect and is compensated by other effectors with similar activities
+      . Persistence may be a consequence of effector activities and is likely coordinated.
+      <italic>
+       Salmonella
+      </italic>
+      at systemic sites can re-seed the gut via the hepatic duct, but this may not be the only route. Identifying the effectors responsible for persistence, as we have done, is the first step in elucidating complex virulence pathways and how the bacteria responds to different environments within the host by expressing specific effectors.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s4" sec-type="materials|methods">
+    <title>
+     Materials and Methods
+    </title>
+    <p>
+     Mouse experiments were approved under the protocol of the Oregon Health &amp; Science University Institutional Animal Care and Use Committee (OHSU IACUC; IS00001304: 2013) and performed in accordance with the guidelines for the Care and Use of Laboratory Animals of the National Institutes of Health to minimize animal suffering.
+    </p>
+    <sec id="s4a">
+     <title>
+      Bacterial strains and plasmids
+     </title>
+     <p>
+      All
+      <italic>
+       Salmonella
+      </italic>
+      strains used in this study are
+      <italic>
+       Salmonella enterica
+      </italic>
+      serovar Typhimurium 14028 s and its isogenic derivatives. The mutant strains with deletions of different genes were generated using modified pKD13 (pKD13-mod) plasmids (pKD13; GenBank accession number AY048744), which were designed to replace target genes with 135-nucleotide (nt) barcode sequences following homologous recombination
+      . Briefly, linearized PCR products amplified from a pKD13-mod plasmid comprise a
+      <italic>
+       kan
+      </italic>
+      cassette in the middle and a 40-nt sequence at each terminus. The 40-nt termini are homologous to the target gene and facilitate homologous recombination at the appropriate chromosomal location
+      . PCR was used to confirm the substitution of the gene of interest by a
+      <italic>
+       kan
+      </italic>
+      cassette. Then the mutant allele was moved to a “clean” genetic background by using P22 transduction and the position of the
+      <italic>
+       kan
+      </italic>
+      cassette in the transductant was confirmed by PCR. The elimination of the
+      <italic>
+       kan
+      </italic>
+      cassette was carried out via site-specific recombination by expressing FLP recombinase in trans, resulting in in-frame, nonpolar deletions of target genes
+      . The deletions were confirmed by PCR as well as DNA sequencing.
+      depicts the unique sequences inserted in place of target genes. 48 effector genes were deleted for this study, and are catalogued in
+      . For complementation experiments, the
+      <italic>
+       cigR
+      </italic>
+      gene plus 1,000 bp of upstream sequence encoding the promoter were PCR amplified from genomic DNA using primers
+      <named-content content-type="gene">
+       5′-ACTAGTGGATCCCCCGGGTTCTGCTGGAAAAAGATCTCATG-3′
+      </named-content>
+      and
+      <named-content content-type="gene">
+       5′-GCTTGATATCGAATTCTTAATCAAATACGCCATTAATAATCG-3′
+      </named-content>
+      . The PCR product was cloned into pWSK29 cut with SmaI and EcoRI using the In-Fusion Cloning Kit (Clontech). The resulting plasmid was electroporated into the 14028 s Δ
+      <italic>
+       cigR
+      </italic>
+      background. Corresponding controls were established by electroporating pWSK29 into both 14028 s and Δ
+      <italic>
+       cigR
+      </italic>
+      backgrounds.
+     </p>
+    </sec>
+    <sec id="s4b">
+     <title>
+      CI
+      <sub>
+       qPCR
+      </sub>
+      in mouse
+     </title>
+     <p>
+      A slight variation of the method described previously was used
+      . The mutant strains were divided into two groups for the infection study. SPI-2 effectors were infected along with the wild-type strain in one experiment and all the other effectors were infected with the wild-type control in a separate experiment. Each
+      <italic>
+       Salmonella
+      </italic>
+      strain containing a deleted gene as well as the reference strain was grown overnight in Luria-Bertani (LB) broth separately. On the following day, all the strains were washed three times with phosphate-buffered saline (PBS). The optical density at 600 nm was measured (OD
+      <sub>
+       600
+      </sub>
+      ) and the strains (including the reference strain) were mixed equivalently and diluted to 10
+      CFU/mL. Female 5- to 6-week old 129SvJ mice (Jackson Laboratory) were intraperitoneally injected with 100 µL of the mixed
+      <italic>
+       Salmonella
+      </italic>
+      strains at a final dose of 10
+      CFU/mouse. The number of injected bacteria was confirmed by plating serial dilutions of the inoculum on LB agar plates and counting colonies on the following day. A portion of the inoculum, corresponding to 2×10
+      CFU, was resuspended in distilled water and used in nested PCR for determination of
+      <italic>
+       C
+       <sub>
+        T
+       </sub>
+      </italic>
+      values of all the strains in the input. The mice were euthanized on days 2, 6, 9, and 14 after infection in order to compare bacterial persistence between strains. Five mice were used for each time point. The spleens were extracted from the mice, homogenized, and plated on LB agar to isolate intracellular
+      <italic>
+       Salmonellae
+      </italic>
+      . The bacterial colonies from these plates were scraped and resuspended in PBS. A mixture of bacterial cells corresponding to 2×10
+      CFU was resuspended in distilled water and used as the template for nested PCR using two outside primers that are common to all the mutant strains. Barcode DNAs amplified from nested PCRs of input and output samples served as template DNAs in the qPCR step. The efficiency of each barcode was calculated as stated previously
+      . The procedure used for nested PCR and qPCR as well as the calculations for CI
+      <sub>
+       qPCR
+      </sub>
+      were carried out exactly as described previously
+      .
+     </p>
+    </sec>
+    <sec id="s4c">
+     <title>
+      CigR complementation
+     </title>
+     <p>
+      129SvJ mice were infected IP with wild-type, Δ
+      <italic>
+       cigR
+      </italic>
+      , and a complemented derivative of this strain expressing CigR from a low coy plasmid. For each bacterial strain, five 129SvJ mice were infected at a dose of 10
+      CFU/mouse and monitored for 14 days. Differences in survival were statistically analyzed with a Kaplan-Meier test.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Investigation of the Dependence of the Flory-Huggins Interaction Parameter on Temperature and Composition in a Drug-Polymer System.
+ </title>
+ <abstract>
+  <AbstractText>
+   The Flory-Huggins (F-H) solubility equation has been widely used to describe the solubility of a small-molecule drug in a polymeric carrier and thus determine the design space available for formulating a stable amorphous solid dispersion. The F-H interaction parameter (χ) describes the thermodynamic properties of drug-polymer solutions and accounts for any enthalpic and entropic changes in solubility. Many studies have found that for a limited compositional range, χ varies proportionally to the inverse of the melting temperature of the drug. We explored this relationship using a highly sensitive DSC technique to detect remaining residual crystalline active pharmaceutical ingredients (APIs) following annealing of ball milled mixtures of crystalline itraconazole (ITZ) and either Soluplus or hydroxypropyl methylcellulose phthalate (HPMCP) at temperatures near the estimated solubility curve. Depending on the experimental approach taken, the measurement of drug-polymer solubility can be restricted to mixtures with a high proportion of drug, but in this study, solubility was experimentally determined for mixtures with API content as low as 10 wt %. Results suggest that the proposed linear relationship does not extend to compositions with smaller amounts of API, instead indicating that χ was both temperature- and composition-dependent for the systems studied. The feasibility of this technique to measure interactions in a ternary system containing itraconazole and both polymers was also determined; ITZ-HPMCP exhibited the most favorable values of χ, while ITZ-Soluplus and ITZ-Soluplus-HPMCP demonstrated similar interaction parameters.
+  </AbstractText>
+ </abstract>
+</article>

@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  Effect of Two Unique Nanoparticle Formulations on the Efficacy of a Broadly Protective Vaccine Against
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   is an opportunistic pathogen responsible for a wide range of infections in humans. In addition to its innate antibiotic resistance,
+   <italic>
+    P. aeruginosa
+   </italic>
+   is very effective in acquiring resistance resulting in the emergence of multi-drug resistance strains and a licensed vaccine is not yet available. We have previously demonstrated the protective efficacy of a novel antigen PaF (Pa Fusion), a fusion of the type III secretion system (T3SS) needle tip protein, PcrV, and the first of two translocator proteins, PopB. PaF was modified to provide a self-adjuvanting activity by fusing the A1 subunit of the heat-labile enterotoxin from Enterotoxigenic
+   <italic>
+    E. coli
+   </italic>
+   to its N-terminus to give L-PaF. In addition to providing protection against 04 and 06 serotypes of
+   <italic>
+    P. aeruginosa
+   </italic>
+   , L-PaF elicited opsonophagocytic killing and stimulated IL-17A secretion, which have been predicted to be required for a successful vaccine. While monomeric recombinant subunit vaccines can be protective in mice, this protection often does not transfer to humans where multimeric formulations perform better. Here, we use two unique formulations, an oil-in-water (o/w) emulsion and a chitosan particle, as well as the addition of a unique TLR4 agonist, BECC438 (a detoxified lipid A analogue designated Bacterial Enzymatic Combinatorial Chemistry 438), as an initial step in optimizing L-PaF for use in humans. The o/w emulsion together with BECC438 provided the best protective efficacy, which correlated with high levels of opsonophagocytic killing and IL-17A secretion, thereby reducing the lung burden among all the vaccinated groups tested.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="s1">
+    <title>
+     Introduction
+    </title>
+    <p>
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     (Pa) is an important opportunistic human pathogen responsible for severe infections in patients with burns, severe wounds, pneumonia, and critically ill patients who require intubation (ventilator-associated pneumonia) or catheterization (urinary tract infections) (
+     ;
+     ). Clearing Pa has become increasingly difficult due to innate and acquired antibiotic resistance (
+     ). Multidrug-resistant (MDR) Pa was classified as a serious threat in the CDC Antibiotic Resistance Threats report 2019 (
+     ). In 2017, there were ∼32,600 cases of MDR Pa infection in hospitalized patients causing an estimated 2,700 deaths and costing $757 million in health care costs in the United States (
+     ). A 2016 report describes Pa as the most common Gram-negative infection amongst troops with combat-related injuries in Afghanistan with 10% being MDR (
+     ). Pa is also the major cause of pulmonary infections in cystic fibrosis (CF) patients with &gt;70% of this group being chronically colonized by their late teens (
+     ). Pa infections in chronic pulmonary conditions such as chronic obstructive pulmonary disease (COPD) and non-CF bronchiectasis (nCFB) have poor prognoses (
+     ;
+     ). Despite the ability to cause disease in humans who have been injured or hospitalized, aging represents the biggest risk factor for acquiring acute lethal Pa infection (
+     ).
+    </p>
+    <p>
+     There are no licensed vaccines to prevent Pa infections, but several are in the pipeline (
+     ;
+     ). Many of the vaccines, however, only protect against a subset of Pa strains. In contrast, the proteins of the surface localized type three secretion system apparatus (T3SA) are highly conserved. PcrV and PopB are essential surface localized T3SS proteins that are &gt;96–99% conserved among PAO1/PA14-like strains (
+     ). Because these are T3SS scaffold proteins required for the early stages of infection for these strains (
+     ), vaccine escape is reduced due to the fact that mutations in these proteins would impact assembly of an active T3SS and render them nonpathogenic (
+     ). When delivered intranasally (IN), we demonstrated that PcrV + PopB admixed with dmLT (double-mutant labile toxin from Enterotoxigenic
+     <italic>
+      E. coli
+     </italic>
+     ) protected mice against acute Pa pulmonary challenge (
+     ). To reduce costs associated with their production and formulation, we genetically fused PcrV and PopB to produce PaF (Pa Fusion), which elicited protection against Pa in mouse and rat models (
+     ). To further reduce the potential reactogenicity associated with IN delivery of dmLT (
+     ), we fused the A1 subunit (LTA1) to PaF (L-PaF) (
+     ). LTA1 has been shown to stimulate a balanced Th1/Th2/Th17 and mucosal immune response characterized by production of IgA and IL-17A (
+     ). When delivered IN to mice and rats, L-PaF elicited strong IgG and IgA titers with high levels of opsonophagocytic killing (OPK) activity. It also expedited the serotype independent clearance of homologous and heterologous Pa strains from the lungs of the challenged rodents (
+     ). It has been postulated that high levels of OPK and IL-17A are important for generating a protective immune response in humans against Pa (
+     ;
+     ).
+    </p>
+    <p>
+     Vaccination is perhaps the greatest public health achievement of our time and L-PaF represents a unique subunit vaccine platform for preventing Pa infections. Nevertheless, while protective antigens have been identified and shown to be successful as vaccines in mice, they often fail once they are introduced into human trials (
+     ;
+     ). Some of these failures are associated with the use of soluble antigens with adjuvants that can elicit a significant immune response in rodents, but do not elicit the same response in humans (
+     ;
+     ). In addition to preclinical formulation to develop a stable protein formulation, studies have shown a better response in humans when the antigen is presented as a multimer in the context of a nanoparticle (
+     ;
+     ). Many nanoparticle formulations are now being tested for use in intramuscular and intranasal routes. The most well-known multimerization method is the use of aluminum salts such as Alhydrogel, however, the adjuvant activity of aluminum salts tends to skew the immune response to a Th2 response, which is more aligned with the humoral response and not the balanced responses often required for clearing mucosal pathogens (
+     ).
+    </p>
+    <p>
+     Herein, as a method to create multimers of L-PaF, we formulate L-PaF into two unique formulations with respect to size, composition and mechanism of immune system induction. We show that an o/w emulsion, is superior to the use chitosan nanoparticles. This o/w emulsion contains squalene, which has been shown to promote protection against influenza in an older population (
+     ) Additionally, we have added the Bacterial Enzymatic Combinatorial Chemistry candidate 438 (hereafter referred to as BECC438), a novel TRL-4 agonist that is a bisphosphorylated and detoxified lipid A biosimilar (
+     ). In addition to fusion with LTA1, use of BECC438 further promotes a balanced Th1-Th2 immune response and increases protection elicited by PaF and further decreases the antigen dose needed to elicit protection.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s2" sec-type="materials|methods">
+    <title>
+     Materials and Methods
+    </title>
+    <sec id="s2-1">
+     <title>
+      Materials
+     </title>
+     <p>
+      Squalene was purchased from Echelon Biosciences (Salt Lake City, UT), Chitosan and C48/80 from Millipore-Sigma (St. Louis, MO). All other buffers chemicals were reagent grade.
+     </p>
+    </sec>
+    <sec id="s2-2">
+     <title>
+      Protein Preparation
+     </title>
+     <p>
+      L-PaF was made as previously described (
+      ). Briefly,
+      <italic>
+       E. coli
+      </italic>
+      Tuner (Goure, Pastor et al.) cells expressing L-PaF/His-Tag PcrH were grown in TB media supplemented with chloramphenicol (34 μg/ml) with a fed-batch mode in a 10 L bioreactor (Labfors 5, Infors USA Inc., MD). An overnight starter was expanded to 1L and ∼800 ml was transferred to the bioreactor containing 9 L of TB media supplemented with chloramphenicol (34 μg/ml). The culture temperature was maintained at 30°C and protein expression was induced adding IPTG to 1 mM when the culture reached an A
+      <sub>
+       600
+      </sub>
+      of ∼25. After 3 h, the bacteria were collected and processed for purification. The L-PaF/His-Tag PcrH was captured on an IMAC column followed by Q anion exchange chromatography. Lauryldimethylamine oxide (LDAO) was added to a final concentration of 0.1% to release the HT-PcrH. The protein solution was passed over a final IMAC column with the L-PaF passing through the column. L-PaF was dialyzed into PBS with 0.05% LDAO and stored at −80°C. LPS levels were determined using a NexGen PTS with EndoSafe cartridges (Charles River Laboratories, Wilmington, MA). All proteins had LPS levels &lt;5 Endotoxin units/mg protein based on analysis using an Endosafe system (Charles River Labs). Each of the proteins used here (PcrV, PopB, PaF and L-PaF) were checked for quality and purity using SDS-PAGE (
+      ) [(
+      )].
+     </p>
+    </sec>
+    <sec id="s2-3">
+     <title>
+      Preparation of L-PaF ME and L-PaF BECC438/ME Formulations
+     </title>
+     <p>
+      Squalene (8% by weight) and polysorbate 80 (2% by weight) were mixed to achieve a homogenous oil phase. Using a Silverson L5M-A standard high-speed mixer, 40 mM Histidine (pH 6) and 20% sucrose were added to the oil phase and mixed at 7,500 RPM followed by six passes in a Microfluidics 110P microfluidizer at 20,000 psi to generate a milky emulsion of 4XME (MedImmune Emulsion). Polysorbate 80 acted as an emulsifying agent to stabilize the emulsion. BECC438 (2 mg/ml) was prepared in 0.5% triethanolamine by vortexing followed by sonicating for 30 min in a 60°C water bath sonicator until the BECC438 was completely dissolved. The pH of BECC438 solution was adjusted to 7.2 with 1 M HCl. To make the L-PaF with ME, the protein was added to the ME with a final concentration of 0.67 mg/ml, vortexed and allowed to incubate overnight at 4°C. To make the L-PaF with ME and BECC438 formulation, ME and BECC438 were mixed by vortexing for 2 min and incubated overnight at 4°C. The next day, L-PaF was mixed with ME-BECC438 solution at a volumetric ratio of 1:1 to achieve desired final antigen concentration.
+     </p>
+    </sec>
+    <sec id="s2-4">
+     <title>
+      Preparation of L-PaF Chitosan-C48/80 (Chi) and L-PaF BECC438/Chi Formulations
+     </title>
+     <p>
+      To make chitosan nanoparticles, 1 gm of chitosan was added in 10 ml of a 1 M NaOH solution and stirred for 3 h at 50°C (
+      ). The chitosan solution was then filtered through 0.45 µm membrane and the resulting pellet was washed with 20 ml of MilliQ water. The recovered chitosan was resuspended in 200 ml of 1% (v/v) acetic acid solution and stirred for 1 h. The solution was filtered through 0.45 µm membrane, and 1 M NaOH was added to adjust the pH to 8.0, resulting in purified chitosan. Purified chitosan was vacuum dried for 24 h at 40°C. C48/80 loaded chitosan nanoparticles (Chi) were prepared by adding dropwise 3°ml of an alkaline solution (5 mM NaOH) containing C48/80 and Na
+      <sub>
+       2
+      </sub>
+      SO
+      <sub>
+       4
+      </sub>
+      (0.3 mg/ml and 2.03 mg/ml, respectively) to 3 ml of a chitosan solution (1 mg/ml in acetic acid 0.1%) with high-speed vortexing. The Chi was formed using magnetic stirring for an additional 1 h (
+      ). Chi was then collected by centrifugation at 4500Xg for 30 min and the pellet resuspended in MOPS buffer (20 mM, pH 7). The L-PaF in PBS was exchanged into MOPS buffer (20 mM, pH 7) using an Amicon Ultra-4 centrifugal filter. To make L-PaF Chi, L-PaF was added to the Chi solution to a weight ratio of 1:4. To make L-PaF BECC438/Chi, the nanoparticles were mixed with BECC438 by vortexing and incubating for 10 min. L-PaF was then added, mixed by vortexing and incubated for 2 h at 4°C.
+     </p>
+    </sec>
+    <sec id="s2-5">
+     <title>
+      Intrinsic Tryptophan Fluorescence
+     </title>
+     <p>
+      Intrinsic tryptophan fluorescence spectra were obtained as described previously (
+      ;
+      ). Briefly, intrinsic tryptophan fluorescence was measured by a fluorescence plate-reader (Fluorescence Innovations, Minneapolis, MN), which is equipped with a tunable pulsed dye laser, a temperature controlled 384-well sample holder (Torrey Pines Scientific, Carlsbad, CA), and a high-speed digitizer. L-PaF and formulated L-PaF samples (20 µl) were loaded into a Hard-Shell 384-well PCR plates. Samples were excited at 295 nm and steady state emission spectra were collected using a charged coupled device detector from 310 to 400 nm. Fluorescence moment (mean center of spectra mass peak position or MSM peak position) was reported. Temperature ramps were set from 10 to 95°C with an increment of 1°C per step and an equilibration time of 60 s at each temperature. Moment (MSM peak position) were plotted as a function of temperature and first derivative of the resulting data was used to calculate the melting temperature (T
+      <sub>
+       m
+      </sub>
+      ) using Origin 7.0 (OriginLab, Northampton, MA).
+     </p>
+    </sec>
+    <sec id="s2-6">
+     <title>
+      Size and Zeta Potential
+     </title>
+     <p>
+      The hydrodynamic diameter of L-PaF and formulations were determined using dynamic light scattering (DLS) with Zetasizer Ultra (Malvern Instruments). Formulations were diluted in 1:10 with water in triplicate and measured in disposable polystyrene cuvettes. The SOP parameters were set up as following: material RI = 1.59, dispersant RI (water) = 1.33, T = 25°C, viscosity (water) = 0.887 cP, measurement angle = 173° backscatter with automatic attenuation. The Z-average values of the hydrodynamic diameter of samples were calculated via cumulant analysis. To gain more information on the particle size and concentration, Multi-Angle Dynamic Light Scattering (MADLS) measurements with the Zetasizer Ultra were performed to collect the intensity of backscattering, forward scattering, and side scattering.
+     </p>
+     <p>
+      Zeta potential measurements were performed via electrophoretic light scattering using the Zetasizer Ultra. Samples were diluted 10-fold in water before analysis. Samples were introduced into disposable folded capillary cells at 25°C. Scans were performed until the results had acceptable correlation functions (typically 50–100 scans). Three independent measurements were performed, and the zeta potential was calculated based on electrophoretic mobility of sample particles.
+     </p>
+    </sec>
+    <sec id="s2-7">
+     <title>
+      Mice and Immunizations
+     </title>
+     <p>
+      The mouse animal protocols were reviewed and approved by the University of Kansas Institutional Animal Care and Use Committee Practices (protocol AUS 222-03). Six-to eight-week-old female BALB/c mice (n = 10/group) (Charles River Laboratories, Wilmington, MA) were used for all experiments. Prior to administration, the following were prepared in 30 µl volumes: PBS, 1 μg L-PaF (L-PaF), 1 μg L-PaF in ME (L-PaF ME), 1 μg L-PaF in BECC438-ME (L-PaF BECC438/ME), 1 μg L-PaF in Chitosan-C48/80 (L-PaF Chi), and 1 μg L-PaF in BECC438-Chitosan-C48/80 (L-PaF BECC438/Chi). For immunizations, mice were anesthetized using isoflurane and vaccine formulations administered intranasally (IN) as previously described (
+      ). Immunizations were on days 0, 14, and 28 for this study. Blood was collected prior to each vaccination and at days 42 and 56.
+     </p>
+    </sec>
+    <sec id="s2-8">
+     <title>
+      Antigen-Specific IgG and IgA
+     </title>
+     <p>
+      Antibodies specific for PcrV and PopB were determined by ELISA, as described previously (
+      ). Briefly, 96-well plates coated with PcrV or PopB (1 μg/ml in PBS) were blocked overnight with 10% milk (Omniblok, americanbio) in PBS. Each well was incubated with serum samples for 1 h at 37°C. After washing the plates with PBS-Tween (0.05%), secondary antibody (KPL, Gaithesburg, MD) was added and incubated for 1 h at 37°C. Levels of IgG (H + L) and IgA were determined using horseradish peroxidase-conjugated secondary antibodies (human serum adsorbed) raised in goat (Southern Biotech, Birmingham, AL). 3,3′,5,5′-Tetramethylbenzidine (TMB) substrate was added, and reaction was stopped with H
+      <sub>
+       3
+      </sub>
+      PO
+      <sub>
+       4
+      </sub>
+      . Endpoint titers were calculated and represented as ELISA units per mL (EU ml
+      ).
+     </p>
+    </sec>
+    <sec id="s2-9">
+     <title>
+      Opsonophagocytosis Assay
+     </title>
+     <p>
+      OPK was carried out as previously described (
+      ). Briefly, Pa strain mPA08-31 was grown overnight at 37°C. A new culture was started by adding 200 µl of the overnight culture to 20 ml of LB media and grown to A
+      <sub>
+       600
+      </sub>
+      of 0.3. Bacteria were collected by centrifugation and a portion of the resuspension adjusted to a concentration of 2x10
+      cells/mL in Minimal Essential Medium (MEM, ThermoFisher, Waltham, MA) containing 10% bovine serum albumin (BSA, Sigma, St. Louis, MO). The J774A.1 (ATCC, Manassas, VA) murine macrophage cell line was grown to 90% confluency in Dulbecco’s Modified Eagle’s Medium (DMEM, ThermoFisher, Waltham, MA) and was adjusted to allow for a final multiplicity of infection (MOI) of 0.1 in 10% MEM-BSA. At 42 Days Post-Immunization (DPIm) sera from the vaccinated mouse groups (5 µl from each mouse were mixed) were heat treated at 56°C for 30 min to destroy complement. Serum (1:500), bacteria and macrophages were mixed at a 1:1:1 ratio to a final volume of 300 µl and kept for 30 min at 37°C. The suspension was then serially diluted and plated on
+      <italic>
+       Pseudomonas
+      </italic>
+      Isolation Agar (PIA, BD, Franklin Lakes, NJ). Percent killing = {[(CFU from T
+      <sub>
+       0
+      </sub>
+      )–(CFU from T
+      <sub>
+       30min
+      </sub>
+      )]/(CFU fromT
+      <sub>
+       0
+      </sub>
+      ) × 100}. An appropriate serum control was used where MEM-BSA was used in the published protocol. Technical quadruplets from each group were assessed and statistical comparisons made as described below.
+     </p>
+    </sec>
+    <sec id="s2-10">
+     <title>
+      IL-17A ELISpot
+     </title>
+     <p>
+      Immunized mouse lungs were extracted and processed to single cell suspensions according to manufactures specifications (Miltenyibiotec). Lung cells (1 x 10
+      cells/well) were incubated for 24 h at 37°C in the presence of 5 μg/ml PcrV, PopB, or PBS, in plates coated with antibodies against IL-17A for a color assay as per manufacturer’s specifications (ImmunoSpot). The IL-17A secreting cells were quantified using a CTL immunospot reader. Biological negative controls were maintained as PBS mice group while technical negative controls were cells without any protein treatment.
+     </p>
+    </sec>
+    <sec id="s2-11">
+     <title>
+      Cytokine Determinations
+     </title>
+     <p>
+      Lung cells were incubated with 10 μg/ml PcrV, PopB, or PBS for 48 h at 37°C. Supernatants were collected and analyzed with U-PLEX kits for cytokines: IFN-γ, IL-2, IL-6, IL-17A, and TNF-α. Cytokine concentrations were determined using an MSD plate reader with associated analytical software (Meso Scale Discovery, Rockville, MD). For post-challenge cytokine determination, cells were not stimulated with PcrV or PopB. Instead, mice lungs were assessed to determine
+      <italic>
+       in vivo
+      </italic>
+      pro-inflammation resulting from bacterial challenge. Control groups were maintained as described above.
+     </p>
+    </sec>
+    <sec id="s2-12">
+     <title>
+      <italic>
+       Pseudomonas Aeruginosa
+      </italic>
+      Challenge
+     </title>
+     <p>
+      The mucoid Pa strain mPA08-31 was streaked onto
+      <italic>
+       Pseudomonas
+      </italic>
+      isolation agar (PIA) and incubated overnight at 37°C with shaking at 180 rpm. A 200 µl aliquot from the overnight culture was inoculated into 20 ml of LB and grown at 37°C with 250 rpm shaking the A
+      <sub>
+       600 nm
+      </sub>
+      reached ∼0.3. Pa were collected by centrifugation, washed once, resuspended in PBS, and diluted to 4x10
+      CFU/30 µl. On day 56, mice were anesthetized by isoflurane and challenged IN. Clinical body scores have been documented as follows: 1: Bright, alert, reactive, shiny hair coat, no piloerection; 2: Quiet, alert, reactive, early-stage piloerection, mild dehydration; 3: Quiet, not very reactive, mild piloerection, moderate dehydration; 4: Minimally reactive, severe piloerection, dull, dirty hair, hunched posture, respiratory distress. On day 3 post-infection, mice (n = 4) from each group were euthanized and the lungs were collected and processed to assess the immune response in terms of secreted cytokine levels. Additionally, the CFU/lung was enumerated for each mouse by plating a portion of the lung extract on PIA.
+     </p>
+    </sec>
+    <sec id="s2-13">
+     <title>
+      Correlation Studies
+     </title>
+     <p>
+      Linear correlation studies were carried out using bivariate correlation in the form of Pearson r. They were further analyzed via simple linear regression. Both operations were carried out with 95% confidence interval, using GraphPad Prism 8.1.2.
+      <list list-type="simple">
+       <list-item>
+        <p>
+         1) Cytokines and lung burden. Post-challenge lung cytokines and lung burden were checked for linear correlation as described above.
+        </p>
+       </list-item>
+       <list-item>
+        <p>
+         2) OPK and lung burden
+         <italic>
+          in vitro
+         </italic>
+         bacterial killing ability of the serum was checked with
+         <italic>
+          in vivo
+         </italic>
+         lung burden to find out a possible correlation between them.
+        </p>
+       </list-item>
+      </list>
+     </p>
+    </sec>
+    <sec id="s2-14">
+     <title>
+      Statistical Analysis
+     </title>
+     <p>
+      GraphPad Prism 8.1.2 was used to generate graphics and to perform all statistical comparisons. Differences among treatment groups were analyzed using two-way ANOVA. Challenge groups were compared to PBS with Dunnett’s multiple comparisons tests. A
+      <italic>
+       p
+      </italic>
+      value of less than 0.05 was considered significant for all comparisons. *
+      <italic>
+       p
+      </italic>
+      &lt; 0.05; **
+      <italic>
+       p
+      </italic>
+      &lt; 0.01; ***
+      <italic>
+       p
+      </italic>
+      &lt; 0.001. Pearson’s r values were mentioned at appropriate places along with R squared values from simple linear regression analyses.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s3" sec-type="results|discussion">
+    <title>
+     Results and Discussion
+    </title>
+    <sec id="s3-1">
+     <title>
+      L-PaF Interacts With ME
+     </title>
+     <p>
+      Having previously demonstrated broad protection of L-PaF, we sought to produce two multimeric formulations that were unique in size, composition, and induction of the immune system
+      <italic>
+       via
+      </italic>
+      different mechanisms. The first formulation examined was an o/w emulsion referred to as ME (MedImmune Emulsion). ME is ∼100 nm in size and can thus be taken up directly by dendritic cells (
+      ;
+      ). We determined that L-PaF was associated with ME by measuring the particle size distribution and zeta potential of ME before and after mixing with L-PaF. The zeta potential of ME mixed with L-PaF had a slight positive value as compared to the negative values of ME or L-PaF alone, which suggests that their association significantly alters the resulting particle’s surface features (
+      ). With respect to particle size, L-PaF had a high polydispersity index (PdI &gt;80%) with a size distribution ranging from about 8 to 400 nm, suggesting that L-PaF has the tendency to form aggregates (
+      ). Conversely, ME had a unimodal size distribution with a low polydispersity index (PdI &lt;10%) (
+      ). Mixing L-PaF with ME increased the particle size from 113 to 143 nm without an increase in polydispersity (PdI &lt;10%) (
+      ). In other work, it was found that the addition of BECC438 did not significantly change the size of the ME (data not shown).
+     </p>
+     <p>
+      To investigate the change of particle size with the addition of L-PaF to ME further, we performed MADLS measurements (
+      ) (
+      ;
+      ). These results confirmed that L-PaF is heterogeneous with four distinct particle size populations based on intensity-based measurements, however particle numbers indicated that the smallest species (∼8 nm) was dominant. Meanwhile, ME is largely homogenous in size with an ∼100 nm particle size. When 10,000X diluted ME (designated ME-3) was mixed with L-PaF, there were two populations of particle size based on intensity (
+      ). One population was ∼10 nm close to the size of L-PaF alone and the other was ∼100 nm, suggesting not all L-PaF was incorporated into ME particle (
+      ). In contrast, when 1,000X diluted ME was mixed with L-PaF (designated ME-1), only one population of particle size was observed for both based on number and intensity (
+      ). Our results confirmed that the mixing of L-PaF with ME leads to the incorporation of L-PaF into the ME particle with an excess of ME leading to a single homogenous population L-PaF/ME nanoparticles.
+     </p>
+     <p>
+      As a second method to assess the L-PaF interaction with ME, we monitored intrinsic (tryptophan) fluorescence of the L-PaF. The intrinsic fluorescence spectra of L-PaF in PBS with (blue) and without (red) ME at 10°C were obtained and normalized to allow direct comparison of formulations (
+      ). PBS and ME alone scans were also obtained so that these background measurements could be subtracted to obtain only the spectral data of the L-PaF. ME by itself showed an unexpected fluorescence signal from 300 to 400 nm when exited at 295 nm, thereby necessitating its subtraction. Whether with or without ME, L-PaF exhibited similar emission spectra with maximal emission around 339 nm at 10°C. This confirmed that the overall tertiary structure of L-PaF was not changed significantly by its association with ME (
+      ). Thermal melting profiles using the normalized fluorescence intensities and moment (MSM peak position) were plotted to compare the thermal transitions for both L-PaF alone and L-PaF with ME (
+      ). While neither plot of the thermal melts for L-PaF demonstrated an obvious transition (red plots), the L-PaF associated with ME showed a noticeable thermal transition at about 36°C (indicated by black arrow for each blue plot).
+     </p>
+    </sec>
+    <sec id="s3-2">
+     <title>
+      L-PaF Interacts With Mucus-Interacting Chi-C48/80 (Chi)
+     </title>
+     <p>
+      As a second unique particulate formulation, L-PaF was bound to chitosan (∼600 nm particles). Chitosan nanoparticles are somewhat unusual due to their positive charge which allows them to interact with negatively charged polysaccharides such as mucin, which is the major component of mucus layer on the surface of nasal epithelial cells. The DLS and zeta potential measurement confirmed the interaction of our preparation of Chi with mucin (
+      ). The Z-average value (size) of Chi increased from 635 to 709 nm after adding mucin while the zeta potential was decreased from 17.2 mV to −1.0 mV for Chi-mucin (
+      ). To determine the percentage of L-PaF associated the Chi, we assessed protein adsorption efficiency to Chi by measuring the soluble L-PaF after centrifugation of the binding reaction and found that approximately 35% of the L-PaF was associated with Chi. The relatively low adsorption efficiency may be due to the pI of L-PaF (pI = 6.1). We were unable to determine the amount of BECC438 bound to Chi, however, based on the interaction of Chi with mucin, we assume that the BECC438, a negatively charged molecule, is able to interact with the Chi.
+     </p>
+    </sec>
+    <sec id="s3-3">
+     <title>
+      L-PaF is Immunogenic Regardless of Formulation
+     </title>
+     <p>
+      Mice were vaccinated using a prime-boost-boost scheme at 14-days intervals. We found that all formulations containing L-PaF induced comparable amounts of serum antibodies (
+      ). While L-PaF BECC438/ME elicited the highest antibody responses among all the groups, no statistical significance was detected in most cases (
+      ). In contrast, L-PaF Chi at day 42 did not induce comparable antibody levels (for both IgG and IgA) against PopB, while an increase was observed by day 56 (
+      ). A general trend of increasing antibody production was observed for IgG with the lowest titers at day 28 and similar titers seen at days 42 and 56 against both proteins (
+      ). In contrast, the highest IgA titers were observed at day 42 with a decline at day 56 (
+      ). Significant class switching was observed mainly for L-PaF BECC/ME group.
+     </p>
+     <p>
+      Measurement of different IgG subtypes in day 56 sera (
+      ) showed a slight Th1 bias against PcrV and Th2 bias against PopB (
+      ). Heat map was generated where the
+      <italic>
+       X
+      </italic>
+      axis is showing the groups and
+      <italic>
+       Y
+      </italic>
+      axis is showing the antibodies tested. A reference bar has been added indicating antibody titers (EU/ml). The most abundant subtype was found to be IgG1 followed by IgG2a and IgG3. A clear difference was observed in the cases of IgG2a and IgG3, where PcrV caused a greater induction of these antibodies than PopB. The literature suggests that IgG2a and IgG3 (Th1-specific) can fix complement better than IgG1 (Th2-specific). IgG3 can also bind directly to bacteria to provide protection is the same way that IgG1 does (
+      ). This might have been the cause of the higher OPK response seen previously for PopB vaccinated mice in the absence of complement
+      <italic>
+       in vitro
+      </italic>
+      (using heat-inactivated serum) (
+      ). Conversely, PcrV appears to impart its potency
+      <italic>
+       in vivo
+      </italic>
+      by activating the host immune system in a way that leads to complement mediated lysis of Pa. Activation of the adaptive immune response following L-PaF vaccination, thus provides early hints about its immunogenicity and efficacy as a Pa vaccine.
+     </p>
+    </sec>
+    <sec id="s3-4">
+     <title>
+      L-PaF Vaccination Leads to a Maintained Th1-Th17 Skewed Cytokine Profile in the Lungs of Immunized Mice Prior to Challenge
+     </title>
+     <p>
+      While B cell activation was found to be Th1 skewed, T cell activation followed a Th1-Th17 skewing following vaccination. On day 56, extracted lungs from vaccinated mice (n = 5) were processed and IL-17A secreting cells were determined (
+      ). Cells from mice vaccinated with L-PaF alone or with BECC438/ME that were treated with PcrV had significantly higher frequencies of IL-17A secreting cells compared to the control groups. While IL-17A secreting cells were also found after treatment with PopB, no statistical significance was observed. Negative control cells (not receiving any protein stimulation) did not show any significant IL-17A secreting cells either (data not shown).
+     </p>
+     <p>
+      We also used pre-challenge lung cells to assess the secretion of different cytokines after stimulation with PcrV or PopB. Th1-Th17 bias was measured based on detection of potent Th1 and Th17 cytokines, namely, IFN-γ, the master regulator IL-2, pro-inflammatory IL-6, TNF-α, and IL-17A. Although no statistical significance was found for IFN-γ and TNF-α (
+      ), the other three cytokines showed different secretion patterns among the groups. (
+      ). IL-2, IL-6, and IL-17A were significantly upregulated in lung cells from the L-PaF BECC438/ME immunized mice (after stimulation with either PcrV or PopB). IL-2 is the master regulator that activates various downstream pathways leading to immune response. Significant upregulation was seen for PcrV and PopB treated cells collected from L-PaF BECC438/ME immunized mice (
+      ). PcrV and PopB treated cells collected from L-PaF and L-PaF BECC438/ME immunized mice, respectively, also had elevated amounts of IL-6 (
+      ). Conversely, significant secretion of IL-17A was detected from cells from all the immunized mice groups except for L-PaF Chi (
+      ). Cells from mice vaccinated with PBS had very low or no response under any treatment conditions. Negative control group, where no protein stimulation was provided, only had significant IL-17A in L-PaF BECC438/ME immunized lung cells (&lt;500 pg/ml) (data not shown), but the quantity was much lower than that seen for the treated groups (&gt;3,000 pg/ml). The ability to generate IL-17A without any treatment indicates the immunogen’s potency towards protection. Literature suggests the positive association of IL-17A with mucosal vaccination in the form of memory B cell generation (
+      ;
+      ). Generation of IL-2 and IL-6 has their own merits too. Post-immunization moderate response of these cytokines ensures the generation of a protective immune response (
+      ). Moreover, IL-6 helps the host immune system in the transition of innate to acquired (
+      ).
+     </p>
+    </sec>
+    <sec id="s3-5">
+     <title>
+      Protective Efficacy
+     </title>
+     <sec id="s3-5-1">
+      <title>
+       The
+       <italic>
+        in Vivo
+       </italic>
+       Lung Burden was Reduced Significantly for the ME-and ME BECC438-Containing Groups
+      </title>
+      <p>
+       On day 56, we challenged the vaccinated mice with the clinical mucoid isolate, Pa mPa08-31 and monitored their morbidity over a 3-day period. No mortality was seen during this time. While PBS mice were sick with higher health scores, indicating morbidity, the immunized mice displayed little or no morbidity. Extracted lungs were processed and colony forming units (CFU) lung burden was determined by dilution plating of the homogenates on
+       <italic>
+        Pseudomonas
+       </italic>
+       Isolation Agar (PIA) (
+       ). Lungs from L-PaF ME and L-PaF BECC438/ME vaccinated mice had significantly lower bacterial burden than the other groups. Lung bacterial burden is a clear indicator of the immunogen’s protective efficacy in mice, with the highest fold change (and % compared to PBS) observed for the L-PaF BECC438/ME vaccinated group (
+       ). We have previously demonstrated that L-PaF is protective against multiple Pa serotypes (
+       ), so here we focused on showing that the protective efficacy of L-PaF could be improved by formulating it into a nanoparticle containing the TLR4 agonist BECC438.
+      </p>
+     </sec>
+    </sec>
+    <sec id="s3-6">
+     <title>
+      Serum From the Immunized Groups Reduced Bacterial Burden
+      <italic>
+       in Vitro
+      </italic>
+     </title>
+     <p>
+      Opsonophagocytic killing (OPK) is an important marker of
+      <italic>
+       in vitro
+      </italic>
+      functional protective efficacy (
+      ;
+      ;
+      ). Sera from mice immunized with all L-PaF formulations were found to possess significant bactericidal capability (
+      ). Serum from immunized groups showed a bacterial killing ability in the range of 4–76%, with highest killing potential seen for sera from mice vaccinated with L-PaF BECC438/ME. Although L-PaF BECC438/Chi group showed a slightly higher killing ability than L-PaF ME
+      <italic>
+       in vitro
+      </italic>
+      , this was at odds with protective capacity
+      <italic>
+       in vivo
+      </italic>
+      . A negative percent killing indicates into bacterial replication and this was only seen for the serum control and PBS groups. Although L-PaF alone serum did not possess a striking level of OPK ability, it was significantly better that the controls in which the Pa population expanded. When the
+      <italic>
+       in vivo
+      </italic>
+      and
+      <italic>
+       in vitro
+      </italic>
+      data were compared, a clear negative correlation was found, meaning that a higher
+      <italic>
+       in vitro
+      </italic>
+      killing (OPK) coincides with a reduced bacterial burden in the lung (
+      ). These results demonstrate the immunogenicity and protective efficacy of L-PaF with or without formulation.
+     </p>
+    </sec>
+    <sec id="s3-7">
+     <title>
+      Colonization Reduction and Lesser Morbidity Associates With Post-challenge
+      <italic>
+       in Vivo
+      </italic>
+      High IL-17A and Low TNF-α
+     </title>
+     <p>
+      To begin dissecting the mechanism of protection elicited by the best L-PaF formulation(s), we further assessed lung cells from the challenged mice to detect secretion of pro-inflammatory cytokines, IL-17A and TNF-α, which play a crucial role following immunization and challenge (
+      ). Unlike the pre-challenge cells, these cells were not stimulated with PcrV or PopB prior to cytokine measurement. Thus, cytokines here were generated because of the infection/challenge regardless of whether the mice were vaccinated. The L-PaF BECC438/ME group showed significantly higher levels of IL-17A secretion than the other groups (
+      ). This was inversely correlated with lung burden: i.e., less IL-17A produced post-challenge equates to a higher lung burden (
+      ). This same group had significantly less TNF-α in comparison to the other groups (
+      ). The literature suggests that IL-17A is an important cytokine for proper immune stimulation and maintenance against Pa infection (
+      ). Similar trend was observed in the present study with high IL-17A present in pre-challenge lung cells (
+      ,
+      ). Furthermore, another trend that was observed here was that a sustained presence of pro-inflammatory cytokines (IL-2, IL-6, and IL-17A) prior to infection deemed important to reduce the extent of the infection. TNF-α concentrations were maintained low during this period. On the other hand, a high TNF-α following Pa challenge was positively associated with high bacterial burden (
+      ). As already described, difference in expression of pre-challenge TNF-α was not statistically significant among the groups. We hypothesize this high amount of TNF-α in the groups except for L-PaF BECC438/ME, disrupts the host immune homeostasis. It can thus be concluded that high post-challenge
+      <italic>
+       in vivo
+      </italic>
+      IL-17A acted as a protective barrier against infection just like the pre-challenge levels, while a high TNF-α following infection was positively associated with lung burden.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="s4" sec-type="conclusion">
+    <title>
+     Conclusion
+    </title>
+    <p>
+     Our previous work has demonstrated the protective efficacy of the L-PaF against a homologous and heterologous Pa challenge. However, in humans monomeric antigens tend to not elicit a strong protective response and require a multimeric presentation (
+     ;
+     ). As such this proof-of-concept study sought to examine the efficacy of L-PaF in two multimeric formulations with unique sizes, compositions, and mechanism of induction of the immune system. ME is a w/o emulsion with a diameter of ∼100 nm which should be taken up by dendritic cells. In contrast, the chitosan formulation is ∼600 nm in diameter and binds to mucin to potentially act with a depot effect. We found that, while both formulations provide some protection, the ME formulation is superior to the chitosan formulation. The further contribution of the TLR4 agonist, BECC438, was also monitored. Comparative analysis of these newly formulated immunogens showed that the L-PaF BECC438/ME formulation was highly immunogenic and provided the best protective efficacy. While we see high antibodies titers, these antibodies do not provide complete protection as we have seen with our similar vaccine against
+     <italic>
+      Shigella
+     </italic>
+     spp. and
+     <italic>
+      Salmonella enterica
+     </italic>
+     (
+     ;
+     ;
+     ;
+     ). In concordance with these findings, the observed Th1/Th17 skewed immune response resulted in upregulation of different pro-inflammatory cytokines pre-challenge, further contributing to protection. On the other hand, the presence of elevated TNF-α post-challenge was found to directly correlate with higher bacterial burden in mice lung. Because of the nature of the L-PaF BECC438/ME emulsion (size, composition, and surface biophysical properties), it is possible that this novel formulation is better suited for use in humans than is the L-PaF alone.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

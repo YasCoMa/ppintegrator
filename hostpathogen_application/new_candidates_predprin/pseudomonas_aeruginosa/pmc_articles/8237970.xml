@@ -1,0 +1,2810 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:ns0="http://www.w3.org/1999/xlink">
+ <title>
+  An Organ System-Based Synopsis of
+ </title>
+ <abstract>
+  <p>
+   Driven in part by its metabolic versatility, high intrinsic antibiotic resistance, and a large repertoire of virulence factors,
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   is expertly adapted to thrive in a wide variety of environments, and in the process, making it a notorious opportunistic pathogen. Apart from the extensively studied chronic infection in the lungs of people with cystic fibrosis (CF),
+   <italic>
+    P. aeruginosa
+   </italic>
+   also causes multiple serious infections encompassing essentially all organs of the human body, among others, lung infection in patients with chronic obstructive pulmonary disease, primary ciliary dyskinesia and ventilator-associated pneumonia; bacteremia and sepsis; soft tissue infection in burns, open wounds and postsurgery patients; urinary tract infection; diabetic foot ulcers; chronic suppurative otitis media and otitis externa; and keratitis associated with extended contact lens use. Although well characterized in the context of CF, pathogenic processes mediated by various
+   <italic>
+    P. aeruginosa
+   </italic>
+   virulence factors in other organ systems remain poorly understood. In this review, we use an organ system-based approach to provide a synopsis of disease mechanisms exerted by
+   <italic>
+    P. aeruginosa
+   </italic>
+   virulence determinants that contribute to its success as a versatile pathogen.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec disp-level="1" id="s0001" sec-type="intro">
+    <title>
+     INTRODUCTION
+    </title>
+    <p>
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     is a ubiquitous Gram-negative bacterium found in soil and surfaces of aqueous environments. Because of its metabolic versatility and high intrinsic resistance to antimicrobials,
+     <italic>
+      P. aeruginosa
+     </italic>
+     efficiently adapts and thrives in a wide variety of natural and artificial settings, including in-hospital facilities and patient devices. Although rarely infecting healthy individuals,
+     <italic>
+      P. aeruginosa
+     </italic>
+     is a leading and notorious opportunistic pathogen [
+     ,
+     ], especially in immunocompromised patients with defective immune defenses, including chronic neutropenia and defects of neutrophil function, cancers, human immunodeficiency (HIV) acquired immunodeficiency syndrome (AIDS), and diabetes mellitus.
+     <italic>
+      P. aeruginosa
+     </italic>
+     is best known to chronically colonize and infect the lung of people with cystic fibrosis (CF) and advanced stages of chronic obstructive pulmonary disease (COPD) [
+     ,
+     ]. Also,
+     <italic>
+      P. aeruginosa
+     </italic>
+     is responsible for approximately 4% total cases of hospital-acquired bloodstream infections, and was the third leading cause among Gram-negative pathogens [
+     ]. Nosocomial pneumonia, especially the ventilator-associated pneumonia (VAP) is a major cause of morbidity and mortality in critically ill patients, and the isolation of
+     <italic>
+      P. aeruginosa
+     </italic>
+     is associated with worse clinical outcomes [
+     ,
+     ].
+     <italic>
+      P. aeruginosa
+     </italic>
+     is also known to cause a wide variety of other infections, encompassing all organs of the human body, including soft tissue infection in burns, open wounds and postsurgery; urinary tract infection associated with the use of urinary catheter; foot infection in diabetics and individuals with impaired microvascular circulation; ear infection, especially otitis externa and chronic suppurative otitis media associated with tissue injury and water blockage; and keratitis associated with extended contact lens wear and contaminated contact lens [
+     ]. Other rarer but serious infections include endocarditis occurring in patients with or without injection drug use [
+     ,
+     ]; and meningitis associated with penetrating trauma to the head, placement of a CNS shunt (such as a ventriculoperitoneal (VP) shunt), or post-neurosurgical procedures [
+     ,
+     ]. Poor antibiotic stewardship in the past few decades has led to emergence and spread of multidrug-resistant strains. Effective treatment options are increasingly scarce; consequently,
+     <italic>
+      P. aeruginosa
+     </italic>
+     infections are associated with high morbidity and mortality. Not surprisingly, carbapenem-resistant
+     <italic>
+      P. aeruginosa
+     </italic>
+     is classified as a serious threat by the Centers for Disease Control and Prevention of the United State (US CDC,
+     <underline>
+      <ext-link ext-link-type="uri" ns0:href="https://www.cdc.gov/drugresistance/biggest-threats.html">
+       https://www.cdc.gov/drugresistance/biggest-threats.html
+      </ext-link>
+     </underline>
+     ), and is on the World Health Organization (WHO) Priority 1 list of pathogens for research and development of new antibiotics (
+     <underline>
+      <ext-link ext-link-type="uri" ns0:href="https://www.who.int/medicines/publications/WHO-PPL-Short_Summary_25Feb-ET_NM_WHO.pdf">
+       https://www.who.int/medicines/publications/WHO-PPL-Short_Summary_25Feb-ET_NM_WHO.pdf
+      </ext-link>
+     </underline>
+     ). In this review, we use an organ system-based approach to provide a brief overview of pathogenic mechanisms exerted by
+     <italic>
+      P. aeruginosa
+     </italic>
+     virulence factors that contribute to its success as a versatile pathogen (
+     ).
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0002">
+    <title>
+     VIRULENCE FACTORS
+    </title>
+    <p>
+     This section presents a brief summary of the main virulence factors of
+     <italic>
+      P. aeruginosa
+     </italic>
+     and their mechanisms of action. Detailed function of these virulence factors specific to individual organ systems are presented in their respective sections.
+    </p>
+    <sec disp-level="2" id="s0002-s2001">
+     <title>
+      Biofilm formation
+     </title>
+     <p>
+      Establishment of a microbial biofilm relies on the formation of a matrix composed of extracellular polymeric substances that embeds the bacteria together into a robust colony [
+      <italic>
+       P. aeruginosa
+      </italic>
+      biofilm formation has been reviewed in details here [
+      ]]. The production of this matrix allows for long-term persistence of
+      <italic>
+       P. aeruginosa
+      </italic>
+      on biotic and abiotic surfaces by shielding the population from antimicrobial agents and adverse conditions. Three exopolysaccharides – Pel, Psl and alginate – along with extracellular DNA and proteins constitute the bulk of the exopolymeric substances forming the matrix. These bacterial biofilm communities are typically refractory to antibiotic therapy and resistant to host immunity, and are therefore, difficult to treat.
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0002-s2002">
+     <title>
+      Exoproducts and secretion systems
+     </title>
+     <p>
+      <italic>
+       P. aeruginosa
+      </italic>
+      secretes a multitude of toxic metabolites, often through protein complexes called secretion systems (reviewed in the context of
+      <italic>
+       P. aeruginosa
+      </italic>
+      [
+      ]; all known families of secretion systems [
+      ]). The Type 1 secretion system (T1SS) exports the alkaline protease AprA. The Type 2 secretion system (T2SS) is responsible for the secretion of multiple virulence factors, notably: exotoxin A (ToxA), proteases LasA and LasB, and the hemolytic phospholipase C (PlcH) [
+      ]. The Type 3 secretion system (T3SS) is a needlelike nanomachine that delivers toxic effectors – ExoS, ExoT, ExoU and ExoY – into the target host cell (reviewed in [
+      ]). Additionally, a subgroup of T3SS-deficient
+      <italic>
+       P. aeruginosa
+      </italic>
+      clinical isolates cause hemorrhagic pneumonia by secreting the exolysin ExlA through the Type 5 secretion system (T5SS) [
+      ]. The Type 6 secretion system (T6SS) apparatus is mostly involved in secretion of effectors for interbacterial killing, although some T6SS effectors target eukaryotic hosts [
+      ].
+     </p>
+     <p>
+      Pyocyanin is one of the phenazines secreted by
+      <italic>
+       P. aeruginosa
+      </italic>
+      that imparts a blue color to many abscesses and burn wounds infected by the pathogen. Among the phenazines, pyocyanin is best studied, and is considered most toxic because of its redox-active and zwitterionic properties. Pyocyanin easily traverses the cell membrane and causes oxidative stress by generating reactive oxygen and nitrogen species (ROS and RNS), which allow
+      <italic>
+       P. aeruginosa
+      </italic>
+      to kill competitor microbes inhabiting the same niche, as well as damaging host cells or modulating their immune signaling [
+      ].
+     </p>
+     <p>
+      <italic>
+       P. aeruginosa
+      </italic>
+      also produces rhamnolipids (RLs), a class of amphiphilic glycolipids with surface-active properties [
+      ]. Despite the immense interest toward RLs as an ecological alternative to synthetic surfactants [
+      ], their role in
+      <italic>
+       P. aeruginosa
+      </italic>
+      virulence has been proportionally underappreciated.
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0002-s2003">
+     <title>
+      Quorum sensing
+     </title>
+     <p>
+      “Quorum sensing” (QS) is the archetypal intercellular signaling system used by many bacteria to regulate their gene expression co-ordinately and synergistically as a group [
+      ].
+      <italic>
+       N
+      </italic>
+      -acyl-L-homoserine lactones (AHLs) are the signals mediating the well-characterized QS system used by many Gram-negative bacteria [
+      ,
+      ]. The complex QS regulatory pathway in
+      <italic>
+       P. aeruginosa
+      </italic>
+      controls the expression of multiple virulence factors (recently reviewed in [
+      ,
+      ]). In this species, two separate transcriptional regulator/autoinducer synthase pairs, LasR/LasI and RhlR/RhlI, modulate the transcription of target genes in response to their respective cognate AHLs, oxo-C
+      <sub>
+       12
+      </sub>
+      -HSL and C
+      <sub>
+       4
+      </sub>
+      -HSL [
+      ].
+      <italic>
+       P. aeruginosa
+      </italic>
+      also produces QS signals distinct from AHLs, the 4-hydroxy-2-alkylquinolines (HAQs)[
+      ], such as 3,4-dihydroxy-2-heptylquinoline, the
+      <italic>
+       Pseudomonas
+      </italic>
+      Quinolone Signal (PQS) [
+      ]. The transcriptional activator MvfR (aka PqsR) controls the biosynthesis of HAQs [
+      ] by the
+      <italic>
+       pqsABCDE
+      </italic>
+      operon [
+      ,
+      ,
+      ]. The enzyme PqsH [
+      ,
+      ] is also required for synthesis of PQS, the main autoinducer of MvfR [
+      ,
+      ]. All three QS systems play a vital role in
+      <italic>
+       P. aeruginosa
+      </italic>
+      pathogenesis [
+      ], upregulating (directly or indirectly) the transcription of over 300 genes [
+      ], many encoding virulence functions [
+      ,
+      ], including the elastase LasB [
+      ], hydrogen cyanide, phenazines such as pyocyanin [
+      ], RLs [
+      ], biofilm development [
+      ] and two of the T6SSs [
+      ,
+      ].
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0002-s2004">
+     <title>
+      Iron acquisition systems
+     </title>
+     <p>
+      Since iron is a limiting microelement in the environment because of its low solubility in the ferric form (Fe
+      ),
+      <italic>
+       P. aeruginosa
+      </italic>
+      evolved multiple molecular mechanisms to scavenge this essential but scarce resource (reviewed in [
+      ]). Two iron-binding siderophores, pyoverdine and pyochelin, are secreted. These siderophores have high and low affinities for ferric iron, respectively, and once iron-bound they can be imported back into the cell. When ferrous iron (Fe
+      ) is available, for instance, under anaerobic conditions or following reduction by phenazines,
+      <italic>
+       P. aeruginosa
+      </italic>
+      utilizes its Fe
+      uptake system FeoABC.
+      <italic>
+       P.aeruginosa
+      </italic>
+      also possesses three heme import systems to acquire iron from the host hemoproteins, including the Phu (
+      <italic>
+       Pseudomonas
+      </italic>
+      heme uptake) and the Has (heme assimilation system), and the recently discovered Hxu system [
+      ].
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0002-s2005">
+     <title>
+      Cellular appendages and adhesins
+     </title>
+     <p>
+      <italic>
+       P. aeruginosa
+      </italic>
+      possesses various means of motility and attachment, namely a polar flagellum (reviewed in [
+      ]), multiple types of type IV pili (T4P: type IVa, IVb pili, tight adherence pili; all reviewed in [
+      ]), chaperone-usher-pathway (cup) fimbriae (reviewed in [
+      ]), and other adhesins such as the two carbohydrate-specific lectins: PA-IL (also named LecA) and PA-IIL (also named LecB) (reviewed in [
+      ]). The lipopolysaccharide (LPS) is a constituent of the external layer of the outer membrane comprised of lipophilic anchor lipid A, an inner oligosaccharide core and an outer oligosaccharide chain, the O-antigen [
+      ]. The presence of these appendages on the bacterial cell surface means that they are recognized by the immune system of the host.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0003">
+    <title>
+     LUNG INFECTION
+    </title>
+    <p>
+     The human respiratory system is divided into the upper and lower tracts. The upper tract is composed of nasal cavity, pharynx and larynx whereas the lower tract includes the trachea, primary, secondary and tertiary bronchi, bronchioles and ≥ 700 millions alveoli with a mesh-like network of tiny capillaries and venules where gas exchanges occur. Apart from gas exchanges, the respiratory system as a whole is also involved in sensing the environment, secretion, regeneration, preventing infections, processing toxins and removing debris. Airway secretory cells produce mucins and antimicrobial peptides and metabolize toxins, whereas ciliated cells use their cilia to propel debris out of the lung [
+     ]. A recent single-cell RNA sequencing analysis of approximately 75,000 cells spanning the entire lung compartments and circulating blood has further defined the gene expression profiles and anatomical locations of 58 cell populations within the human lung, including 14 uncharacterized cell types. This molecular atlas provides novel insights into the functions, regulation and interactions of the known and new cell types, and will likely engender major advances in our understanding of pulmonary biology and the interactions between lung and
+     <italic>
+      P. aeruginosa
+     </italic>
+     and other respiratory pathogens[53
+     ].
+    </p>
+    <p>
+     The human lung presents a challenging immunological dilemma for the host. While simultaneously facilitating vital gas exchanges, it is constantly bombarded by chemicals, pollutants and microbes inhaled from the environment [
+     ]. The epithelial surface of healthy airways is covered by the airway surface liquid (ASL), which is comprised, among others, of mucins, antimicrobial peptides and proteins, innate immune cells, and signaling molecules. The bilayer ASL contains the periciliary layer sandwiched between the top mucus gel layer and the bottom airway epithelium, forming the so called “gel-on-brush” structure [
+     ]. Hydrogel within the periciliary layer provides space for ciliary beating and supports mucociliary clearance. The predominant mucins MUC5AC and MUC5B provide viscosity and gel-forming properties to mucus, which traps inhaled pathogens and irritants, keeps moisture in the airway epithelium [
+     ], and helps to maintain the periciliary layer and mucociliary clearance. Both MUC5AC [
+     ] and MUC5B [
+     ] are critical for innate immune defense of the airways against microbial infection. However, excessive mucus and failure in clearance by the mucociliary escalator will clog the airways, which will then reduce and prevent air flow into the alveolar space. This is a common pathological condition found in multiple lung diseases such as cystic fibrosis (CF), chronic obstructive pulmonary disease (COPD), asthma, primary ciliary dyskinesia, chronic bronchitis and VAP. Excessive mucus creates a niche for microbial colonization, which will exacerbate vicious cycles of proinflammatory response, lung damage, and morbidity and mortality [
+     ].
+    </p>
+    <p>
+     Two of the best-studied chronic lung diseases where microbial infections play a critical role in disease pathogenesis are CF and COPD. CF is a fatal genetic disorder affecting approximately 70,000 individuals world-wide. Although most commonly found in the Caucasian population, with 1 in 2,000 to 3,500 cases, CF is also found among other ethnic populations, at 1 in 16,000 to 17,000 among Africans, and at 1 in 30,000 among Asians. CF is caused by mutations in the
+     <bold>
+      c
+     </bold>
+     ystic
+     <bold>
+      f
+     </bold>
+     ibrosis
+     <bold>
+      t
+     </bold>
+     ransmembrane
+     <bold>
+      c
+     </bold>
+     onductance
+     <bold>
+      r
+     </bold>
+     egulator (CFTR) gene, which encodes a chloride (Cl
+     ) channel. The loss of CFTR function reduces Cl
+     secretion, causing an increased transepithelial absorption of sodium and water. This results in thickening of the mucus in the airways, which slows down and disables the mucociliary escalator function, creating a suitable niche for microorganisms to thrive [
+     ,
+     ,
+     ]. The major clinical problem for CF patients is progressive loss of pulmonary function caused by chronic lung infection with
+     <italic>
+      P. aeruginosa
+     </italic>
+     , which causes morbidity and mortality, with an average life expectancy in the 40s. Repeated bouts of inflammation triggered by the bacterium progressively damage the lung. Although antibiotics can decrease the frequency and duration of acute infectious exacerbations, this opportunistic pathogen establishes permanent residence and is never completely eradicated from lungs. COPD is a leading cause of morbidity and mortality worldwide, affecting 329 million people and cause over 3 million deaths annually [
+     ,
+     ]. The odds of developing COPD are increased by cigarette smoking, exposure to air pollutants, biomass smoke (e.g., indoor wood burning), and toxic desert dusts inhaled by soldiers in the Middle East [
+     ]. Long-term exposure to these irritants exacerbates the inflammatory response, narrows the small airways, and causes emphysema. The most common symptoms of COPD are excessive mucus and sputum, shortness of breath, chest tightness and wheezing. The majority of cases of acute exacerbation in COPD are caused by microbial infections [
+     ,
+     ], among which,
+     <italic>
+      P. aeruginosa
+     </italic>
+     is a common cause of severe exacerbations, especially in advanced stages of COPD [
+     ,
+     ,
+     ].
+    </p>
+    <p>
+     Because
+     <italic>
+      P. aeruginosa
+     </italic>
+     is metabolically versatile, possesses high intrinsic antibiotic resistance, and expresses a large repertoire of virulence factors, it is proficiently adapted to thrive in a wide variety of environments, and in the process, making it a notorious opportunistic pathogen in the complex proinflammatory milieu within chronically diseased lungs such as CF and COPD. Most of our understanding of
+     <italic>
+      P. aeruginosa
+     </italic>
+     pathogenesis is derived from the context of CF. Various virulence factors that drive lung colonization and infection are briefly summarized below.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0004">
+    <title>
+     EXOPOLYSACCHARIDES AND BIOFILMS
+    </title>
+    <sec disp-level="2" id="s0004-s2001">
+     <title>
+      Biofilms
+     </title>
+     <p>
+      Biofilm formation plays key roles in the persistence of
+      <italic>
+       P. aeruginosa
+      </italic>
+      in chronically diseased lungs, especially in CF (reviewed in [
+      ]). Long-term growth in the CF lung environment gives rise to different phenotypic variants of
+      <italic>
+       P. aeruginosa
+      </italic>
+      , two of which exhibit enhanced biofilm-producing phenotypes: mucoid variants and small colony variants (SCVs) [
+      ,
+      ].
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0004-s2002">
+     <title>
+      Exopolysaccharides alginate, Pel and Psl
+     </title>
+     <p>
+      Mucoidy results from the overproduction of alginate, due to a mutation in the gene coding for the anti-sigma factor MucA[
+      ]. A long-term study of 56 CF patients revealed a median time of about 11 years for the transition of non-mucoid
+      <italic>
+       P. aeruginosa
+      </italic>
+      (normally acquired in the first years of life) to a mucoid variant, a transition followed with worsening symptoms [
+      ]. Production of alginate has been linked to increased resistance to host-produced antimicrobial peptides, phagocytosis by leukocytes and antibiotics [
+      ]. Despite their apparent benefits, mucoid isolates are often present as mixed populations with their non-mucoid counterpart, the latter often being the product of phenotypic reversion due to suppressor mutations in
+      <italic>
+       algT
+      </italic>
+      [
+      ,
+      ]. Such mixed population might be at an advantage, as Malhotra
+      <italic>
+       et al
+      </italic>
+      . (2018) demonstrated that a mixed population of mucoid and non-mucoid variants is more resistant to both antimicrobial peptides (conferred by mucoid members of the population) and H
+      <sub>
+       2
+      </sub>
+      O
+      <sub>
+       2
+      </sub>
+      (resistance granted by the non-mucoid subpopulation) [
+      ]. A recent study assessing the distribution of mucoid and non-mucoid isolates from bronchoalveolar lavages of specific lobar regions of the lungs confirmed that mucoid variants do not preferentially localize to certain lobes, and that their presence is marked by elevated levels of proinflammatory cytokines in colonized regions[
+      ]. Alginate might also play an important role in the context of mixed bacterial infections in the CF lungs. Alginate leads to reduced killing of
+      <italic>
+       Staphylococcus aureus
+      </italic>
+      by
+      <italic>
+       P. aeruginosa
+      </italic>
+      in an
+      <italic>
+       in vitro
+      </italic>
+      co-culture [
+      ]. The same study showed that this protective effect can be achieved simply by adding exogenous alginate to a co-culture with an alginate biosynthesis deficient mutant of
+      <italic>
+       P. aeruginosa
+      </italic>
+      . Exogenous alginate increased the persistence of
+      <italic>
+       Burkholderia cenocepacia, B. multivorans, Haemophilus influenzae
+      </italic>
+      , but not
+      <italic>
+       Stenotrophomonas maltophilia
+      </italic>
+      and
+      <italic>
+       B. cepacia
+      </italic>
+      , in the lungs of a CFTR knockout mouse [
+      ]. These six other bacterial pathogens are also prevalent in the CF lungs [
+      ].
+     </p>
+     <p>
+      Like their name suggests, SCVs appear as smaller colonies when grown on an agar surface (reviewed in [
+      ]). The emergence of a subpopulation of SCVs is a frequently observed feature of
+      <italic>
+       P. aeruginosa
+      </italic>
+      isolates from CF lungs biofilms [
+      ,
+      ]. The first characterization of SCVs from CF patients highlighted a two to eight-fold increase in resistance to antibiotics [
+      ]. This same study also indicated that SCVs are found more predominantly in patients undergoing aerosolized antibiotics therapy in contrast to those with intravenous therapy. These results suggest that antibiotic aerosolization leads to the emergence of drug tolerance in SCVs. The presence of SCV is also correlated with severe impairment of lung function [
+      ]. Like the mucoid variants, SCVs promote persistence in the CF lungs as they possess higher resistance to neutrophil antimicrobials such as H
+      <sub>
+       2
+      </sub>
+      O
+      <sub>
+       2
+      </sub>
+      and antimicrobial peptides and cause more inflammation [
+      ].
+     </p>
+     <p>
+      The importance of biofilms in pulmonary infections is also highlighted in a study where transcriptomics were used to compare transcript levels between multiple CF sputum samples and lab-grown clinical isolates were compared[
+      ]. Among the key differences between both groups of samples, there was a marked increase in the transcript levels of Pel, Psl and alginate biosynthesis pathways in CF sputum samples compared to lab-grown isolates [
+      ]. Both Pel and Psl, but not extracellular DNA, were found to play an important role in the
+      <italic>
+       in vitro
+      </italic>
+      formation of biofilm by mucoid
+      <italic>
+       P. aeruginosa
+      </italic>
+      ; both exopolysaccharides also contributed to the resistance of the same mucoid strain against host defense in a mouse model of acute pneumonia [
+      ].
+     </p>
+     <p>
+      <italic>
+       P. aeruginosa
+      </italic>
+      biofilms also play a role in the pathogenesis of VAP (reviewed in [
+      ]). Biofilms will form on the endotracheal tube upon intubation of a patient, providing a direct access to the lower respiratory tract [
+      ]. A study compared the
+      <italic>
+       in vitro
+      </italic>
+      biofilm formation capabilities of clinical isolates from mechanically ventilated patients and CF patients, and found that all isolates from intubated patients produced more biofilm in a 96-well plate assay than both CF isolates and the reference strain PAO1 [
+      ]. Although not fully understood, these VAP strains are likely better adapted to form biofilms on rough and porous plastic surfaces of microtiter plates and medical devices. Additionally, these authors also found that strains which produce more biofilms are positively correlated to heightened antibiotic resistance, particularly to β-lactam antibiotics, suggesting a selection pressure to hyper biofilms producing phenotype.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0005">
+    <title>
+     QUORUM SENSING
+    </title>
+    <p>
+     QS mutants of
+     <italic>
+      P. aeruginosa
+     </italic>
+     are attenuated in their ability to cause mortality in various hosts [
+     ].
+     <italic>
+      P. aeruginosa
+     </italic>
+     mutants lacking QS regulatory genes cause less lung pathology in mouse and rat models, suggesting that cell-to-cell signaling plays a key role in virulence [
+     ,
+     ,
+     ]. For instance, a
+     <italic>
+      lasR-
+     </italic>
+     mutant was virtually avirulent in a neonatal mouse model of pulmonary infection compared to pneumonia caused by the parental wild type strain PAO1 [
+     ]. In addition, sputum samples and lung exudates from CF patients chronically infected with
+     <italic>
+      P. aeruginosa
+     </italic>
+     contain significant amounts of AHLs and PQS, indicating that all three QS systems are functioning during human infection [
+     ,
+     ].
+    </p>
+    <p>
+     It is noteworthy that
+     <italic>
+      P. aeruginosa
+     </italic>
+     isolates from chronically infected CF patient lungs, but not from acute infections, frequently contain
+     <italic>
+      lasR
+     </italic>
+     mutations. [
+     ] Loss of LasR function occurs over the years in these chronically colonized individuals, indicating strong selective pressure against LasR activity [
+     ].; a marker of poor prognosis, these mutants are associated with progression of the CF disease [
+     ]. Interestingly, Feltner
+     <italic>
+      et al.
+     </italic>
+     (2016) have shown that some LasR-deficient variants isolated from CF lungs have maintained a QS-dependent virulence gene expression, through RhlR activity [
+     ]. In these isolates, the authors noted that “
+     <italic>
+      there is apparently no correlation between the absence of a functional LasR and a variety of quorum-regulated phenotypes”.
+     </italic>
+    </p>
+    <p>
+     Multiple studies have demonstrated that AHLs, especially oxo-C
+     <sub>
+      12
+     </sub>
+     -HSL, are able to modulate host immune functions, with either detrimental or beneficial effects [reviewed here [
+     ,
+     ]]. Oxo-C
+     <sub>
+      12
+     </sub>
+     -HSL induces the chemotaxis of neutrophils, and increases their phagocytic capacity, which could be due to modulation of (CD)11b/CD18 integrins and CD16 and CD64 immunoglobulin receptors [
+     ]. Similarly, oxo-C
+     <sub>
+      12
+     </sub>
+     -HSL stimulates phagocytic activity of human macrophages by inducing the p38 MAPK, which causes positive changes in cell volume, morphology, and water channel AQP9 that promotes phagocytosis [
+     ]. In contrast, oxo-C
+     <sub>
+      12
+     </sub>
+     -HSL, but not C
+     <sub>
+      4
+     </sub>
+     -HSL, induces apoptosis in phagocytic cells [
+     ], interferes with proper functioning of mitochondria [
+     ], and alters the expression and secretion of multiple pro- and anti-inflammatory cytokines and chemokines [
+     ,
+     ]. However, these results need to be interpreted with caution because the vast majority of host modulation studies were performed
+     <italic>
+      in vitro
+     </italic>
+     using oxo-C
+     <sub>
+      12
+     </sub>
+     -HSL in concentrations between 300 and 600 μM, often in different immortalized cell lines. In contrast, only low μM concentrations of C
+     <sub>
+      4
+     </sub>
+     -HSL and low nM concentrations of C
+     <sub>
+      12
+     </sub>
+     -HSL have been detected in CF lungs [
+     ,
+     ,
+     ,
+     ]. Nevertheless, it is possible that during biofilm-mediated infection, locally-enhanced concentrations of QS molecules and virulence factors could modulate host immune functions.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0006">
+    <title>
+     CELL APPENDAGES AND ADHESINS
+    </title>
+    <sec disp-level="2" id="s0006-s2001">
+     <title>
+      Flagellum
+     </title>
+     <p>
+      As presented above,
+      <italic>
+       P. aeruginosa
+      </italic>
+      uses various mechanisms for attachment and motility. A
+      <italic>
+       P. aeruginosa
+      </italic>
+      mutant that lacks its flagellar fiber is more sensitive to the membrane permeabilizing activity of the pulmonary surfactant protein A. This protective effect was linked in part to a lack of O-antigen in the outer membrane of flagellum-null mutants and reduced expression of secreted proteases which would degrade the surfactant protein A [
+      ,
+      ]. In a mouse model of acute pneumonia, a non-lethal dose of
+      <italic>
+       P. aeruginosa
+      </italic>
+      expressing its flagellin fiber was cleared more rapidly by the host, while challenge with a lethal dose (equivalent to the LD
+      <sub>
+       50
+      </sub>
+      ) led to more rapid killing of mice, compared to mutants lacking the flagellum [
+      ]. The flagellin acts as an adhesin capable of binding to the mucin Muc1 when expressed in the CHO cell line [
+      ].
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0006-s2002">
+     <title>
+      Type IV pili
+     </title>
+     <p>
+      <italic>
+       P. aeruginosa
+      </italic>
+      mutants lacking either
+      <italic>
+       pilT
+      </italic>
+      and
+      <italic>
+       pilU
+      </italic>
+      , both encoding proteins responsible for the retraction of the T4P, still express surface T4P but show reduced cytotoxicity against lung pneumocytes, lower cell adhesion and attenuated virulence in a mouse model of acute pneumonia [
+      ]. In the same study, a pilin (
+      <italic>
+       pilA
+      </italic>
+      )-null mutant showed an even more pronounced reduction in virulence [
+      ]. Similar to flagellin, the presence of T4P at the surface of the cell also confers a protective effect against the opsonizing activity of the surfactant protein A, which implicates a O-glycosylation present in group I alleles of the pilin subunit [
+      ]. A study reported an increased prevalence of group I pilin alleles in isolates from CF patients, compared to non-CF clinical isolates[
+      ].
+     </p>
+     <p>
+      Both the flagellum and T4P are known to play a role in the formation of biofilm
+      <italic>
+       in vitro
+      </italic>
+      , as mutants of each appendage are impaired at the step of initial attachment and microcolony formation, respectively [
+      ]. These appendages are both important for the binding to lung epithelial cells through different mechanisms: T4P will bind N-glycans at the apical surface of polarized cells while the flagellum will bind to heparan sulfate present at the basolateral side of the cells [
+      ]. Both events will lead to the internalization of
+      <italic>
+       P. aeruginosa
+      </italic>
+      into the cells [
+      ].
+     </p>
+     <p>
+      On the other hand, using Tn-seq with a transposon mutant library of strain PA14 in an acute pneumonia mice model, Lorenz
+      <italic>
+       et al
+      </italic>
+      . (2019) found that the flagellum and T4P were not required to cause infections [
+      ]. In fact, mutants with transposon insertions in the pili and flagellar biogenesis operons (
+      <italic>
+       pil, flg
+      </italic>
+      and
+      <italic>
+       fli
+      </italic>
+      operons) were enriched (positively selected) in this infection model. Since both pili and flagellar fiber proteins can be recognized by the immune system of the host, the authors suggested that loss of those components might help with immune evasion to prevent bacterial clearance [
+      ,
+      ]. Mucoid variants from CF lungs are non-motile: the lack of functional MucA in these variants will lead to a constant activation of the alternative sigma factor AlgT, which will in turn activate a repressor of flagellar biosynthesis (AmrZ) [
+      ,
+      ]. The flagellum and T4P are still useful during the initial process of infection; however, it is likely that some selective pressure will lead to members of the total bacterial population to lose this trait over time. Part of the selection pressure is mediated through the interaction between the flagellum and NLRC4 inflammasome. Induction of NLRC4 by the flagellum, primarily in alveolar macrophages, impaired
+      <italic>
+       P. aeruginosa
+      </italic>
+      clearance and increased apoptosis/pyroptosis and mortality in a murine model of acute pneumonia [
+      ].
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0006-s2003">
+     <title>
+      Lectins
+     </title>
+     <p>
+      LecA and LecB produced by
+      <italic>
+       P. aeruginosa
+      </italic>
+      have multiple roles in the outcome of lung infections. Single mutants of both lectins are impaired in their ability to adhere to a human lung epithelial cell line, have reduced cytotoxicity and cause reduced permeabilization of the alveolar capillary barrier in mice (without affecting mortality) [
+      ]. The same study showed that carbohydrate lectin inhibitor will counter the effect of their respective lectin by titrating their binding sites. LecA binds to the glycosphingolipids Gs3, triggering phosphorylation of the adaptor protein CrkII by activating the non-receptor tyrosine kinase Abl inside the host’s cell that initiates the internalization of
+      <italic>
+       P. aeruginosa
+      </italic>
+      [
+      ]. Mutation in either
+      <italic>
+       lecA
+      </italic>
+      or
+      <italic>
+       lecB
+      </italic>
+      genes will result in impaired biofilm formation by
+      <italic>
+       P. aeruginosa
+      </italic>
+      [
+      ,
+      ]. A recent study reported that LecB binds to the side chain of Psl and help stabilize the biofilm matrix [
+      ]. LecB is also implicated in the reduction of tissue healing [
+      ,
+      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0007">
+    <title>
+     EXOPRODUCTS AND SECRETION SYSTEMS
+    </title>
+    <sec disp-level="2" id="s0007-s2001">
+     <title>
+      Secretion systems
+     </title>
+     <p>
+      As discussed above,
+      <italic>
+       P. aeruginosa
+      </italic>
+      expresses five different secretion systems that play a role in virulence (reviewed in [
+      ]). The alkaline protease AprA exported by TSS1 cleaves the γ-subunit of the epithelial sodium channel ENaC
+      <italic>
+       in vitro
+      </italic>
+      on both CF and non-CF lung epithelial cells, leading to changes in the sodium balance near the cells. AprA also cleaves other proteins including transferrin, complements and cytokines, hence facilitating iron uptake and immune evasion [
+      ,
+      ].
+     </p>
+     <p>
+      The T2SS secretes ToxA, LasA, LasB, and PlcH [
+      ]. The elastase LasB degrades a number of components in both the innate and adaptive immune systems, for instance an absence of LasB secretion impairs the ability of
+      <italic>
+       P. aeruginosa
+      </italic>
+      to degrade pulmonary surfactant protein-A, both
+      <italic>
+       in vitro
+      </italic>
+      and in mouse lungs [
+      ]. By assessing the virulence of T2SS-null mutant deficient in the Xcp secretin, a study highlighted the importance of the effectors secreted by this system: lack of T2SS increased the survival of mice in the context of lung infection [
+      ]. The same study reported that T3SS is responsible for the early killing of mice, while T2SS has a more pronounced impact at later stages of the infection process. This is in agreement with the fact that Xcp and its effectors are positively regulated by the QS [
+      ].
+     </p>
+     <p>
+      Of the four T3SS effectors injected into the host cells, ExoU contributes the most to the virulence in a mouse model of lung infection, followed by ExoS [
+      ]. ExoS, ExoT and ExoY are all implicated in the systemic dissemination of
+      <italic>
+       P. aeruginosa
+      </italic>
+      from the lung during acute pneumonia [
+      ]. The main cell types injected with ExoU were macrophages during early pneumonia, followed by neutrophils in the latter time points once the immune systems starts building its response to the infection [
+      ]. In a mouse model of acute pneumonia, the transcription of
+      <italic>
+       exoU
+      </italic>
+      was increased as early as 3 hours post-infection, and a delayed expression of this exoenzyme resulted in a significantly reduced bacterial burden [
+      ]. Both ExoU and ExoS are mutually exclusive in the arsenal of
+      <italic>
+       P. aeruginosa
+      </italic>
+      , with the presence of
+      <italic>
+       exoU
+      </italic>
+      in clinical isolates being lower [
+      ]. None of 24 nonclonal isolates from adult CF patients harbor the exoU gene [
+      ]. The contribution of ExoY to
+      <italic>
+       P. aeruginosa
+      </italic>
+      pathogenesis is not as obvious [
+      ]. Loss of
+      <italic>
+       exoY
+      </italic>
+      or its effect alone have little impact on the outcome; however, its overexpression by a high-copy-number plasmid leads to increased and sustained inflammation in a mouse model of lung infection [
+      ]. ExoY is a nucleotidyl cyclase that produces cyclic nucleotides, mainly cUMP, which in turn causes a dysregulation of microtubules, reduction of tissue healing and release of toxic phosphorylated tau proteins [
+      ]. Interestingly, the T3SS nanomachine in itself also bear some importance in the pathogenesis of
+      <italic>
+       P. aeruginosa
+      </italic>
+      independent of its known secreted effectors since a mutant lacking the translocator protein PopB was more avirulent than mutants lacking all T3SS effectors in an mouse model of acute pneumonia [
+      ].
+     </p>
+     <p>
+      The hemolysin ExlA secreted by the T5SS perforates mammalian cell membranes and disrupts the ion balance of the host cells, leading to cell death [
+      ]. ExlA also breaks down the alveolar-capillary barrier and facilitates invasive dissemination of
+      <italic>
+       P. aeruginosa
+      </italic>
+      to other organs [
+      ].
+     </p>
+     <p>
+      Although most effectors secreted by the T6SS are devoted to interbacterial killing and competition, some of them also modulate host response [
+      ]. Two such T6SS effectors are the phospholipase D PldA and PldB (also known as Tle5 and Tle5B) secreted by the third T6SS complex (H3-T6SS), both can cause lysis of other prokaryotes and trigger pathways that will facilitate
+      <italic>
+       P. aeruginosa
+      </italic>
+      entry into the mammalian host cell [
+      ,
+      ]. Phospholipase D is also associated with persistency since
+      <italic>
+       pldA
+      </italic>
+      -null mutants were severely outcompeted by their wild-type parental strain in a rat chronic lung infection model [
+      ].
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0007-s2002">
+     <title>
+      Rhamnolipids
+     </title>
+     <p>
+      For decades, RLs were only known as the heat-stable extracellular hemolysin of
+      <italic>
+       P. aeruginosa
+      </italic>
+      [
+      ]. Then Kownatzki
+      <italic>
+       et al.
+      </italic>
+      found that sputum samples obtained from people with CF colonized with
+      <italic>
+       P
+      </italic>
+      . aeruginosa contained RLs [
+      ]. This was followed by measurement of even higher levels in secretions of a lung removed from a CF patient [
+      ], suggesting that higher concentrations are present in the lower respiratory tract. Eventually, a correlation was reported between elevated levels of RLs and worsened patient’s clinical status [
+      ]. This is not restricted to CF, though, as another study found that patients persistently colonized by
+      <italic>
+       P. aeruginosa
+      </italic>
+      isolates producing high levels of RLs were at increased risk of developing a VAP [
+      ]. Significantly, the importance of RLs for the establishment of an actual infection was demonstrated: a RL-negative mutant was more rapidly cleared from a pulmonary infection mice model compared to the wild type strain [
+      ].
+     </p>
+     <p>
+      Several properties of RLs makes them versatile virulence factors. RLs inhibit ciliary function of the bronchial epithelium. They alter respiratory epithelial ion transport through reduced sodium absorption and unidirectional chloride fluxes across human bronchial epithelium [
+      ], they interfere with the normal tracheal ciliary function of rabbit tracheal epithelium [
+      ] and slow down the ciliary beat frequency of cultured human airway epithelium [
+      ,
+      ]. RLs also stimulate the release of mucus glycoconjugates from feline trachea and human bronchial mucosa [
+      ,
+      ].
+     </p>
+     <p>
+      RLs are involved in the early disruption of the integrity of the polarized bronchial epithelia. Normal function of tight junction protein complexes is crucial for lung defense against infections. RLs promote infiltration of
+      <italic>
+       P. aeruginosa
+      </italic>
+      by altering tight junctions in the respiratory epithelium [
+      ]. For instance, RLs disrupt transcellular ion transport, as observed by a decrease in amiloride-sensitive short-circuit current across sheep tracheal epithelium [
+      ].
+      <italic>
+       P. aeruginosa
+      </italic>
+      required the production of RLs to invade respiratory epithelia reconstituted with primary human respiratory cells [
+      ]. Using an air-liquid model of human airway epithelia, Halldorsson
+      <italic>
+       et al
+      </italic>
+      . (2010) found that RLs reduced transepithelial electrical resistance and tight junction rearrangement [
+      ].
+     </p>
+     <p>
+      RLs have been proposed to solubilize the phospholipids composing the lung surfactant, making them more easily cleavable by phospholipase C (PlcH). The resulting loss of lung surfactant may be responsible for the atelectasis associated with acute and chronic
+      <italic>
+       P. aeruginosa
+      </italic>
+      lung infections. RLs may also intercalate into, and thus perturb, the phosphatidylcholine bilayers, affecting the alveolar surface layer and thus the function of the membrane [
+      ,
+      ].
+     </p>
+     <p>
+      Not surprisingly, considering they are surfactants, RLs act directly on immune cells. The production of RLs appears important for the initial stage of infection to protect bacteria against the cellular components of the immune system. RLs injected intratracheally into rat lungs inhibited the response of alveolar macrophages [
+      ], and, at higher concentrations, they were cytolytic to human monocyte-derived macrophages [
+      ].
+      <italic>
+       P. aeruginosa
+      </italic>
+      responds to the presence of polymorphonuclear leukocytes (PMNs), major immune determinants of the CF lungs, by upregulating the production of several virulence factors, including RLs, acting to inactivate cells of the host defense. RLs induce the lysis of PMNs while [
+      ,
+      ,
+      ], at subtoxic levels, they stimulate both chemotaxis and chemokinesis of PMNs [
+      ]. RLs also induce histamine release from mast cells [
+      ], stimulate the production of the inflammatory mediators serotonin and 12-hydroxyeicosatetraenoic acid from human platelets [
+      ], and also stimulate the release of interleukin (IL)-8, GM-CSF, and IL-6 from nasal epithelial cells[
+      ].
+     </p>
+     <p>
+      Finally, although the direct effect on
+      <italic>
+       in vivo
+      </italic>
+      biofilm has yet to be directly demonstrated, RLs are involved in the regulation of
+      <italic>
+       in vitro
+      </italic>
+      biofilm development, a key virulence function in lung infection, as discussed above. This role of RLs has been reviewed previously [
+      ], and therefore is only briefly discussed here. RLs participate in the regulation of cell-surface hydrophobicity and in the modification of bacterial adhesive interactions [
+      ]. They facilitate the initial formation of microcolonies and the differentiation of the biofilm structure [
+      ], by mediating the detachment and dispersion of
+      <italic>
+       P. aeruginosa
+      </italic>
+      cells from the biofilm [
+      ,
+      ] and by maintaining open the channels inside the biofilm [
+      ].
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0007-s2003">
+     <title>
+      Pyocyanin
+     </title>
+     <p>
+      Pyocyanin has been recovered from CF and non-CF bronchiectatic airways at 0.1 mM concentrations [
+      ,
+      ]. Earlier studies have shown that pyocyanin damages ciliated epithelium, interferes with ciliary function, inhibits mucous transport [
+      ], induces neutrophilia and bronchoconstriction in sheep airways [
+      ,
+      ], and decreases mucus velocity in trachea [
+      ,
+      ]. Additionally, the levels of pyocyanin negatively correlate with the lung function of CF patients [
+      ]. Importantly, pyocyanin has been shown to be important for both acute and chronic lung infection [
+      ,
+      ]. Further studies have shown that mouse lungs chronically exposed to pyocyanin develop goblet cell metaplasia and hyperplasia, mucus hypersecretion, fibrosis, emphysema, polarization of an initially T helper cell (Th) 1 toward a Th2 response at chronic stage, with influx of neutrophils, CD4
+      T cells and activated macrophages [
+      ]. These phenotypes are similar to chronically-diseased airways and to
+      <italic>
+       foxa2
+      </italic>
+      mice [
+      ]. FOXA2 is a major transcriptional regulator of airway mucus homeostasis [
+      ]. Subsequently, it was shown that pyocyanin drives goblet cell metaplasia and hyperplasia and mucus hypersecretion by activating both IL-4/IL-13-STAT6-SPDEF and ROS-EGFR-MEK1/2-ERK1/2 signaling pathways, which converged to inhibit FOXA2 [
+      ,
+      ]. Finally, pyocyanin also inhibit FOXA2 expression by ROS/RNS-mediated posttranslational modifications [
+      ].
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0007-s2004">
+     <title>
+      IRON ACQUISITION SYSTEMS
+     </title>
+     <p>
+      Using dual-seq transcriptomics of
+      <italic>
+       P. aeruginosa
+      </italic>
+      infection, Damron
+      <italic>
+       et al
+      </italic>
+      . (2016) highlighted what they called a “battle for iron” [
+      ], Transcript levels of iron acquisition systems in
+      <italic>
+       P. aeruginosa
+      </italic>
+      were found upregulated while the host cells increased its expression of iron sequestering proteins such as ferritin, lactoferrin, ceruloplasmin and haptoglobin [
+      ].
+      <italic>
+       P. aeruginosa
+      </italic>
+      produces two siderophores – pyoverdine and pyochelin – the former is required for growth in a medium where iron is bound to transferrin, underlining a better capacity for pyoverdine to compete with host iron carriers. The iron-starvation sigma factor PvdS is expressed by
+      <italic>
+       P. aeruginosa
+      </italic>
+      in infected CF lungs [
+      ], and is required for biofilm formation [
+      ]. PvdS also regulates the transcription of genes encoding major virulence factors such as pyoverdine, PrpL and AprA proteases [
+      ], and ToxA [
+      ]. In a mouse model of acute pneumonia, a
+      <italic>
+       P. aeruginosa
+      </italic>
+      mutant deficient in pyoverdine production was more severely attenuated and caused less mortality when compared to a mutant without pyochelin [
+      ]. Additionally, the loss of the
+      <italic>
+       tonB
+      </italic>
+      gene, which encodes a protein that delivers energy to outer membrane transporters important for the uptake of iron, siderophores and other nutrients, renders the mutant bacterium completely avirulent [
+      ,
+      ]. Significantly,
+      <italic>
+       in vivo
+      </italic>
+      pyoverdine production by CF isolates of
+      <italic>
+       P. aeruginosa
+      </italic>
+      correlated to their virulence potential during murine lung infection [
+      ]. However, it is important to note that a sizable portion of CF isolates has also lost their ability to produce pyoverdine, possibly through the emergence of cheaters [
+      ], or adaption toward heme acquisition [
+      ]. Both the ferrous iron uptake system Feo and heme uptake systems Has and Phu also play a minor role in virulence, less important than pyoverdine [
+      ]. The Hxu system has a minor role in heme acquisition when the Has and Phu systems are fully functional, or when other sources of iron are present. However, in the absence of the Has system,
+      <italic>
+       P. aeruginosa
+      </italic>
+      upregulates the expression of Hxu. The contribution of the Hxu system to
+      <italic>
+       P. aeruginosa
+      </italic>
+      virulence remains uncharacterized [
+      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0008">
+    <title>
+     GENETIC TRANSFER, DRUG RESISTANCE AND INCREASED VIRULENCE
+    </title>
+    <p>
+     The evolutionary process of natural selection, gene loss and acquisition [
+     ,
+     ], natural genetic transformation [
+     ], horizontal gene transfer [
+     ], and emergence of hypermutators during acute VAP and/or chronic CF lung infection can lead to changes in antimicrobial resistance (AMR) and virulence behavior of
+     <italic>
+      P. aeruginosa
+     </italic>
+     [
+     ,
+     ]. The
+     <italic>
+      P. aeruginosa
+     </italic>
+     pan-genome contains a collection of 3,010 putative and plasmids DNA genes obtained by horizontal gene transfer with 5% to 12% encoding AMR and virulence genes [
+     ]. Diversification of the
+     <italic>
+      P. aeruginosa
+     </italic>
+     population in flexible genes indicated that 10,515 (40%) of the 26,420 flexible genes were found in one group of isolates; whereas 85 genes were in more than 90% of the isolates of a single group and were not found in the other groups. Flexible genes (15,905, 60%) present in multiple groups indicated an upper estimate of genes from HGT events. This would suggest that there is a link between virulence factor profiles, AMR and the population structure in
+     <italic>
+      P. aeruginosa.
+     </italic>
+    </p>
+    <p>
+     Finally, although
+     <italic>
+      P. aeruginosa
+     </italic>
+     virulence determinants that are key to COPD chronic infections have been poorly studied, there are indications they are very similar to those involved in CF [218
+     ,
+     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0009">
+    <title>
+     EAR INFECTIONS
+    </title>
+    <p>
+     Middle ear infections (otitis media, OM) are among the most common ear diseases affecting humans. Children, especially those under the age of two, are particularly susceptible to develop OM. Typically, OM is caused by a dysfunction of the eustachian tube connecting the middle ear to the throat. The eustachian tube equalizes the pressure between the outer ear and the middle ear. However, disruption of eustachian tube caused by a common cold, allergies and/or malformations prevents proper drainage, leading to a buildup of middle ear fluid behind the eardrum. The accumulated fluid becomes a culture media supporting the growth of bacteria and viruses that lead to acute OM. If improperly treated, OM can cause considerable morbidity and with extra- and intracranial complications, which seriously compromise the quality of life in patients. OM can be further broadly classified into acute otitis media (AOM) and chronic suppurative otitis media (CSOM). AOM is characterized by tympanic membrane swelling and/or otorrhea caused primarily by
+     <italic>
+      Streptococcus pneumoniae, Haemophilus influenzae
+     </italic>
+     , and
+     <italic>
+      Moraxella catarrhalis
+     </italic>
+     , although occasionally,
+     <italic>
+      P. aeruginosa
+     </italic>
+     is present [
+     ].
+    </p>
+    <p>
+     Despite appropriate therapy, AOM can progress into CSOM associated with ear drum perforation and purulent discharge. Approximately 1% of human population develop CSOM in their lifetime. CSOM is initiated by an episode of acute infection, followed by recurrent or persistent ear discharge through a perforation of the tympanic membrane.
+     <italic>
+      P. aeruginosa
+     </italic>
+     is the most common pathogen involved in CSOM, with a prevalence, depending on studies, between 18% and 67% [
+     ]. The pathophysiology of CSOM begins with irritation and subsequent inflammation and edema of the middle ear mucosa. Ongoing inflammation eventually leads to mucosal ulceration and consequent breakdown of the epithelial lining. The cycle of inflammation, ulceration, infection, and granulation tissue formation may continue, destroying surrounding bony margins and ultimately leading to the various complications associated with CSOM, among others, including hearing loss and delayed language development in children, and serious extracranial and intracranial complications.
+    </p>
+    <p>
+     Additionally,
+     <italic>
+      P. aeruginosa
+     </italic>
+     is also the most common cause of otitis externa (OE), commonly known as “swimmer’s ear”, an infection of the external ear canal [
+     ,
+     ]. A large multicenter study that identified the microorganisms from 2049 ears (children and adults) with acute otitis externa (AOE) revealed that
+     <italic>
+      P. aeruginosa
+     </italic>
+     accounted for 71.3% of all Gram‐negative organisms and for 37.7% of the total number of microbial pathogens recovered from AOE. In some rare instances, AOE can spread to surrounding tissue, including the bones of the jaw and face. This infection is known as malignant otitis externa (OEM), a virulent infection that usually affects elderly with diabetic mellitus, immunosuppressed individuals and advanced age patients. If not diagnosed and treated promptly, OEM can cause facial nerve paralysis with high mortality rate, reported to be up to 53% [
+     ,
+     ].
+    </p>
+    <p>
+     <italic>
+      P. aeruginosa
+     </italic>
+     is also a major pathogen implicated in cholesteatoma, a destructive and expanding growth consisting of keratinizing squamous epithelium in the middle ear and/or mastoid part of the temporal bone [
+     ]. About 40% of CSOM patients develop cholesteatoma. Bacterial-infected cholesteatomas are more aggressive than uninfected ones. Additionally, recent study suggests that the keratinizing squamous epithelia could be predisposed to infection by human papillomavirus, and DNA belonging to oncogenic HPV16 has been detected in cholesteatoma tissues [
+     ]. Several virulence factors of
+     <italic>
+      P. aeruginosa
+     </italic>
+     have been identified to play a role in the aforementioned ear infections. They are briefly summarized below.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0010">
+    <title>
+     EXOENZYMES AND SECRETION SYSTEMS
+    </title>
+    <sec disp-level="2" id="s0010-s2001">
+     <title>
+      Proteases
+     </title>
+     <p>
+      The expression of proteases is regulated by QS [
+      ] as well as iron availability [
+      ].
+      <italic>
+       P. aeruginosa
+      </italic>
+      proteases participate in CSOM pathogenesis. The activity of two matrix metalloproteinases, elastase and alkaline protease, along with the serine protease neutrophil elastase, were detected in the otorrhea samples from patients with OM and CSOM [
+      ,
+      ]. The importance of elastase and alkaline protease was confirmed by the same authors in a chinchilla model where inhibition of both proteases by the matrix metalloproteinases inhibitor GM 6001 (N-(2(R)-2(hydroxyamido carbonylmethyl)-4-methylpentanoyl)-L-tryptophane methylamide) afforded higher survival rate, less severe facial paralysis, and less vestibular toxicity than animals in other cohorts treated with the gentamicin, gentamicin plus GM 6001, or control groups, although these differences were not statistically significant [
+      ]. Because excess neutrophil elastase causes tissue damage and alters the remodeling process in many clinical conditions including OM, most likely both
+      <italic>
+       P. aeruginosa
+      </italic>
+      and host proteases synergistically contribute to CSOM pathogenesis. Therefore, a protease inhibitor-based therapy targeting all these proteases will likely to be more effective [
+      ].
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0010-s2002">
+     <title>
+      T3SS
+     </title>
+     <p>
+      Although well known to be an important component of
+      <italic>
+       P. aeruginosa
+      </italic>
+      virulence arsenals, virtually nothing is known about the pathogenic role of T3SS during ear infection. Park
+      <italic>
+       et al.
+      </italic>
+      (2017) found that
+      <italic>
+       P. aeruginosa exoU
+      </italic>
+      -positive strains were more readily isolated from CSOM than from respiratory infections and bacteremia. Furthermore, these
+      <italic>
+       exoU
+      </italic>
+      -positive isolates were significantly more resistant to ciprofloxacin and tobramycin, which may explain the chronicity and intractability of CSOM infection [
+      ].
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0010-s2003">
+     <title>
+      ToxA
+     </title>
+     <p>
+      <italic>
+       ToxA is a protein with ADP ribosyltransferase activity that targets host elongation factor 2. It inhibits protein biosynthesis, and in microgram quantities, could penetrate and cause irreversible damage to the inner ears of chinchillas
+       In addition, ToxA induces excessive inflammatory response dominated by polymorphonuclear leukocytes (PMNs) and monocytes/macrophages. Also, epithelial cells often showed signs of metaplasia and hyperplasia, followed by degradation through necrosis and/or apoptosis, resulting in denudation of the submucosal layer
+       Also, a wild-type P. aeruginosa strain (ToxA
+       ) caused significantly more semicircular canal injury and hearing loss than an isogenic ToxA
+       mutant
+      </italic>
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0010-s2004">
+     <title>
+      Pyocyanin
+     </title>
+     <p>
+      As discussed above in the lung section, pyocyanin is redox-active, and ROS and RNS generated by pyocyanin damage proteins, lipids and DNA, and alters host immune signaling [
+      ,
+      ,
+      ]. A major pathophysiological consequence of pyocyanin lies in its ability to cause excessive expression of mucin glycoproteins MUC5AC and MUC5B [
+      ,
+      ,
+      ]. Importantly, pyocyanin has been detected in concentrations up to 2.714 nmoles/g ear effusion of patients suffering from various ear infections, including CSOM [
+      ]. Although MUC5B and MUC5AC play major innate immunity roles against ear infection, excessive induction of these mucins will lead to clogging of inner ear compartments, creating a niche for long term colonization and infection by microbial pathogens [
+      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0011">
+    <title>
+     EXOPOLYSACCHARIDES AND BIOFILMS
+    </title>
+    <sec disp-level="2" id="s0011-s2001">
+     <title>
+      Biofilms
+     </title>
+     <p>
+      Biofilm formation is important in the pathogenesis of CSOM by bacterial pathogens [
+      ], although their precise pathogenic mechanisms in the middle ear are not fully understood.
+      <italic>
+       P. aeruginosa
+      </italic>
+      inoculated into cynomolgus monkeys which underwent perforation of the tympanic membrane formed biofilms on the middle ear mucosal surface [
+      ]. Both the ability to produce c-di-GMP and QS were found to be important for persistence and virulence in a chinchilla model of CSOM. However, flagella were dispensable for biofilm persistence [
+      ]. Interestingly, biofilms seem to be dispensable for cholesteatoma pathogenesis. Many
+      <italic>
+       P. aeruginosa
+      </italic>
+      mutants deficient in components required for normal biofilm formation (e.g., FleQ, PilA, AlgD, GalU) caused similar amounts of cholesteatomas growth and bone destruction and deposition as their parental wild-type strain [
+      ,
+      ]. Interestingly, the same authors have found that a T4P mutant (Δ
+      <italic>
+       pilA
+      </italic>
+      ) derived from the CSOM strain OPPA8 was attenuated in cholesteatoma pathogenesis in Mongolian gerbils, although the reason for this discrepancy could be caused by strain variation [
+      ]. Even much less is known about the role of polymicrobial biofilms in CSOM, but biofilms composed of
+      <italic>
+       P. aeruginosa
+      </italic>
+      and methicillin-resistant
+      <italic>
+       Staphylococcus aureus
+      </italic>
+      (MRSA) induced a very different gene expression profiles that are involved in immune response, inflammation, signaling, development, and defense; that are not expressed with single biofilms formed by either pathogen [
+      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0012">
+    <title>
+     CELLULAR APPENDAGES AND ADHESINS
+    </title>
+    <sec disp-level="2" id="s0012-s2001">
+     <title>
+      LPS
+     </title>
+     <p>
+      During
+      <italic>
+       P. aeruginosa
+      </italic>
+      -mediated CSOM, LPS causes mucociliary dysfunction in the middle ear by inducing nitrosylative nitric oxide (NO) and peroxynitrite (ONOO
+      )-mediated pathways [
+      ]. The presence of LPS also positively correlates with several cytokines, including IL1-β, IL-8, TNF-α and RANTES in middle ear effusion aspirate from patients, suggesting that the endotoxin-induced local production of these cytokines plays a role CSOM pathogenesis [
+      ,
+      ]. The involvement of LPS is confirmed in the C3H/HeJ mice that harbor a single amino acid substitution in TLR4, making them insensitive to endotoxin and spontaneously develop CSOM caused by Gram-negative bacteria [
+      ,
+      ]. Humans with polymorphisms and reduced expression of TLRs are more susceptible to CSOM [
+      ,
+      ]. Finally, LPS has been implicated in the bone resorption in mouse model of CSOM and cholesteatomas [
+      ].
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0012-s2002">
+     <title>
+      OprF
+     </title>
+     <p>
+      The outer membrane protein OprF of
+      <italic>
+       P. aeruginosa
+      </italic>
+      activates the host PKC pathway by phosphorylation of PKC‐alpha, leading to the invasion of human middle ear epithelial cells. Induction of PKC can activate the expression of proinflammatory cytokines such as TNF‐α and IL‐1β that can contribute to chronic inflammation [
+      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0013">
+    <title>
+     OCULAR INFECTIONS
+    </title>
+    <p>
+     The healthy cornea of both eyes is constantly exposed to environmental pollutants, allergens and microbial pathogens, yet maintains immunologically quiescent, thus minimizing excessive damaging proinflammatory responses. However, how the cornea resists microbial infection is not fully understood. The healthy and intact mouse eyes could resist ~10
+     bacterial cells of either
+     <italic>
+      P. aeruginosa
+     </italic>
+     or
+     <italic>
+      S. aureus
+     </italic>
+     , two most important corneal pathogens, with very few bacteria adhering to the surface and none penetrating the cornea [
+     ,
+     ]. Similar phenomena were observed
+     <italic>
+      ex vivo
+     </italic>
+     using excised intact eyes submerged in bacterial suspension [
+     ], suggesting that components within tear fluid are not required for resistance to bacterial adhesion and infection. Eye infection by
+     <italic>
+      P. aeruginosa
+     </italic>
+     is primarily due to breach of barrier (e.g., scratches on cornea) caused by contact lens immersed in contaminated cleaning solutions, eye trauma and recent ophthalmic surgery. There are more than 140 million contact lens wearers worldwide, with an annualized infection rate between ~2 to ~20 cases per 10,000 wearers. Bacterial keratitis accounts for 90% of all microbial keratitis cases, with
+     <italic>
+      P. aeruginosa
+     </italic>
+     as the most prevalent pathogen, responsible for anywhere between 23% to &gt;50% cases [
+     ,
+     ]. The intrinsic ability of
+     <italic>
+      P. aeruginosa
+     </italic>
+     to resist disinfectants and to adhere to plastic surfaces facilitates its introduction and penetration into the compromised corneal epithelium, gaining further entrance into the corneal stroma. Typically, bacterial keratitis cases can be managed by antibiotic treatment, however, if left untreated, may result in perforation, endophthalmitis and loss of vision. Corneal ulcers caused by
+     <italic>
+      P. aeruginosa
+     </italic>
+     are more severe and difficult to treat, resulting in worse visual impairment [
+     ,
+     ], and may predispose to corneal infection by
+     <italic>
+      Streptococcus pneumoniae
+     </italic>
+     [
+     ,
+     ]. For a comprehensive review on the role of
+     <italic>
+      P. aeruginosa
+     </italic>
+     in contact lens-mediated corneal infection, please refer to Fleiszig
+     <italic>
+      et al.
+     </italic>
+     [
+     ].
+    </p>
+    <p>
+     As discussed above, intact cornea is resistant to bacterial infection. Most virulence studies in cornea use injury models that bypass the epithelial and basal lamina barriers of cornea and directly deposit bacteria into the stroma [
+     ]. However, these models are imprecise because the presence of live/dead
+     <italic>
+      P. aeruginosa
+     </italic>
+     cells and associated pattern recognition receptor ligands (e.g., LPS, pili, flagellum, outer membrane proteins) could trigger host inflammatory responses and mask the pathogenic potential triggered by other virulence factors [
+     ]. The recently developed contact lens-wearing animal models are expected to circumvent the aforementioned challenges [
+     ]. Nevertheless, “scratched” corneal models of infection have helped to identify
+     <italic>
+      P. aeruginosa
+     </italic>
+     virulence factors and host immune responses to infection. Below, we summarize various virulence factors of
+     <italic>
+      P. aeruginosa
+     </italic>
+     that are important for corneal infection.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0014">
+    <title>
+     CELLULAR APPENDAGES AND ADHESINS
+    </title>
+    <sec disp-level="2" id="s0014-s2001">
+     <title>
+      LPS, T4P and flagella
+     </title>
+     <p>
+      <italic>
+       P. aeruginosa
+      </italic>
+      initiates infection by binding to receptors on corneal epithelial cells through several “adhesins” including LPS, T4P and flagella. The uptake of
+      <italic>
+       P. aeruginosa
+      </italic>
+      is mediated through the interaction between the outer core of LPS with the cystic fibrosis transmembrane-conductance regulator (CFTR) on lipid rafts, and contributes to persistence, intracellularly survival and disease pathogenesis in the injured murine cornea [
+      ]. The LPS-CFTR interaction likely activates PI3K/Akt signaling, leading to the disruption of epithelial cell polarity to promote internalization [
+      ]. In addition to LPS,
+      <italic>
+       P. aeruginosa
+      </italic>
+      uses T4P for adhesion to contact lenses [
+      ] and to sialo-glycoprotein receptor of corneal epithelial cells [
+      ,
+      ]. T4P are important for twitching motility-mediated spread, invasion of corneal epithelial cell multilayers, intracellular movement along collagen fiber, and exiting invaded corneal epithelial cells, as well as
+      <italic>
+       in vivo
+      </italic>
+      virulence [
+      ,
+      ,
+      ]. Because flagellin is a ligand for the TLR5, it has been difficult to disentangle the virulence roles of flagella and flagellar-mediated motility from immune response generated during flagellin-TLR5 interactions. Nevertheless, various flagellar components including FlhA (flagellar assembly), FliC (flagellin) and FleQ (regulator flagellar gene expression) are important for adhesion and invasion into the corneal epithelial cells [
+      ,
+      ]. Anti-flagellar antibody protects mouse corneal from infection by
+      <italic>
+       P. aeruginosa
+      </italic>
+      [
+      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0015">
+    <title>
+     EXOENZYMES AND SECRETION SYSTEMS
+    </title>
+    <sec disp-level="2" id="s0015-s2001">
+     <title>
+      T3SS effectors
+     </title>
+     <p>
+      The ExsA-regulated T3SS effectors (ExoU, ExoS, ExoT, ExoY) are major virulence components of
+      <italic>
+       P. aeruginosa
+      </italic>
+      responsible for cytotoxicity in corneal epithelial cells. Invasive
+      <italic>
+       P. aeruginosa
+      </italic>
+      corneal isolates express ExoS, but not ExoU, with the opposite generally true for cytotoxic isolates [
+      ]. Keratitis isolates tend to favor epidemic clones that express ExoU [
+      ], most likely because they are more resistant to both contact lens disinfection solutions [
+      ], and antimicrobials [
+      ,
+      ]. The activity of RhoGAP domain of ExoT or ExoS alone inhibits the ability of corneal epithelial cells to uptake
+      <italic>
+       P. aeruginosa
+      </italic>
+      bacteria [
+      ]. Additionally, ExoY, which is an adenylate cyclase, is also anti-phagocytic [
+      ]. ExoS and ExoT cause neutrophil apoptosis
+      <italic>
+       via
+      </italic>
+      their ADP ribosyltranferase activity [
+      ], and ADP-ribosylation of Ras by ExoS promotes
+      <italic>
+       P. aeruginosa
+      </italic>
+      survival in the cornea by blocking neutrophil oxidative burst [
+      ]. Also, ExoS causes membrane blebbing within corneal epithelial cells, which are then utilized as a site for bacterial replication and motility [
+      ]. ExoU is a phospholipase that is required for colonization and disease pathogenesis during corneal infection [
+      ]. ExoU promotes traversal in cultured corneal epithelial cells [
+      ], and
+      <italic>
+       P. aeruginosa
+      </italic>
+      survival in a murine scarification model by modulating survival inside phagocytes and infiltration of immune cells called ring infiltration in cornea of infected animals [
+      ].
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0015-s2002">
+     <title>
+      Proteases
+     </title>
+     <p>
+      Liquefactive necrosis of the corneal stroma is a major clinical feature of
+      <italic>
+       P. aeruginosa
+      </italic>
+      keratitis. This bacterium secretes multiple proteases that contribute to the pathogenesis of keratitis [
+      ]. Injection of purified LasB elastase and alkaline protease into the corneal stroma results in significant tissue necrosis and keratitis [
+      ,
+      ]. Protease IV contributes to the virulence in keratitis by cleaving multiple host defense proteins including immunoglobulins, complements, antimicrobial peptides and surfactant proteins [
+      ]. The
+      <italic>
+       Pseudomonas aeruginosa
+      </italic>
+      small protease (PASP) degrades collagen, a major structural component of the corneal stroma [
+      ]. When injected into rabbit cornea, PASP destroys the epithelium and cause erosions reaching into the stroma. Additionally, the MucD protease promotes
+      <italic>
+       P. aeruginosa
+      </italic>
+      evasion of immune response during keratitis by inhibiting IL-1β, KC and MIP2 production, neutrophil recruitment and enhancing bacterial survival [
+      ]. Among
+      <italic>
+       P. aeruginosa
+      </italic>
+      proteases, it appears that LasA protease is dispensable for corneal infection [
+      ], most likely due to functional redundancy among proteases expressed by the pathogen.
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0015-s2003">
+     <title>
+      ToxA
+     </title>
+     <p>
+      ToxA disrupts barrier function of corneal epithelial cell monolayers, and exhibits a complementary role with proteases in facilitating
+      <italic>
+       P. aeruginosa
+      </italic>
+      traversal [
+      ]. Direct injection of purified ToxA into the corneal stroma of rabbits caused widespread cell death in a dose-dependent manner [
+      ]. ToxA-deficient mutants were able to induce keratitis as efficiently as their parental wild-type but were more readily cleared by the host, suggesting it plays a role in
+      <italic>
+       P. aeruginosa
+      </italic>
+      persistence during keratitis [
+      ]. Finally, ToxA inhibits synthesis of many proteins including host matrix metalloproteinase 9 (MMP9), while activating other host MMPs in whole rabbit cornea, but the importance of this study is uncertain [
+      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0016">
+    <title>
+     EXOPOLYSACCHARIDES AND BIOFILMS
+    </title>
+    <sec disp-level="2" id="s0016-s2001">
+     <title>
+      Biofilms
+     </title>
+     <p>
+      <italic>
+       P. aeruginosa
+      </italic>
+      can readily form biofilms on contact lenses worn by rats
+      <italic>
+       in vivo
+      </italic>
+      [
+      ,
+      ], and biofilms represent a significant threat to the cornea from several different perspectives, including increased resistance to antimicrobial factors such as those at the ocular surface.
+      <italic>
+       P. aeruginosa
+      </italic>
+      readily forms biofilms in contact lens storage cases and contact lenses, from which they can disperse and continuously reseed the eyes [
+      ]. As noted above c-di-GMP is an intracellular signaling molecule that coordinates the switch from planktonic to biofilm mode of growth by increasing the production of extracellular matrix components (exopolysaccharides, proteins, extracellular DNA) to form the biofilms [
+      ]. Cyclic-di-GMP binds effector proteins, including FleQ that stimulates the expression of
+      <italic>
+       cdr, pel
+      </italic>
+      , and
+      <italic>
+       psl
+      </italic>
+      genes that control production of adhesins and exopolysaccharides, critical components for biofilm formation [
+      ]. Importantly, FleQ also regulates
+      <italic>
+       P. aeruginosa
+      </italic>
+      invasion of corneal epithelial cells, with contributions in addition to that of flagellin [
+      ].
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0016-s2002">
+     <title>
+      IRON ACQUISITION SYSTEMS
+     </title>
+     <p>
+      Iron acquisition plays an important role in ocular infection. Multiple virulence factors important for eye infection, including Protease IV and ToxA are regulated by iron availability and pyoverdine [
+      ]. Accordingly, a pyoverdine biosynthetic mutant (
+      <italic>
+       pvdE
+      </italic>
+      ) exhibits poor invasive ability into corneal epithelial cells, and has attenuated virulence in a murine model of keratitis [
+      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0017">
+    <title>
+     BONE AND PERIPROSTHETIC JOINT INFECTIONS
+    </title>
+    <p>
+     Orthopedic issues, ranging from bone fractures to joint replacements, are the most common causes of medical care consultation [
+     ], with more than 2.5 million individuals with total hip replacement and 4.7 million individuals with total knee replacement in the United States alone [
+     ]. The demand is expected to increase rapidly with the aging population across the world, and the desire for individuals to stay functional at all ages [
+     ,
+     ]. Periprosthetic joint infection is a devastating complication of total joint arthroplasty and a leading cause of total hip and knee arthroplasty failure [
+     ,
+     ]. Current infection risk reduction approaches to infection include either coating the implant surface with porous or grooved biomaterials to promote soft-tissue ingrowth [
+     ,
+     ], reducing the surface energy to inhibit bacterial adhesion [
+     ], or applying layers of antibacterials on the surface to kill the bacteria in vicinity [
+     ]. However, implant devices composed of porous materials are associated with a high risk of acute infection in experimental canine and rabbit models [
+     ,
+     ]. Over the longer term, low-energy surfaces become ineffective when a few bacteria attach and eventually form biofilms [
+     ]. Due to elution, tolerance and resistance with recurring use, the efficacy of controlled-release antibiotics will decline overtime [
+     ]. Biofilms gradually develop at the abutment-soft tissue interface, leading to recurring and difficult-to-treat infections [
+     ,
+     ]. Superficial infections not only cause pain, erythema, swelling, or purulent discharge at the skin–abutment interface, but could lead to more severe deep infections, and even implant loosing [
+     ].
+    </p>
+    <p>
+     <italic>
+      P. aeruginosa
+     </italic>
+     is a major pathogen in osteomyelitis and periprosthetic joint infection [
+     ]. For example,
+     <italic>
+      P. aeruginosa
+     </italic>
+     causes upward to 75–95% of infections in patients with skull-based osteomyelitis, which typically arise as a complication of OEM (see above ear infection section) with temporal bone involvement [
+     ].
+     <italic>
+      P. aeruginosa
+     </italic>
+     and other pseudomonads are also responsible for 3–15% of reported cases of diabetic foot osteomyelitis [
+     ]. Although most periprosthetic joint infections are caused by methicillin-sensitive and methicillin-resistant staphylococci [
+     ,
+     ,
+     ], Gram-negative bacterial pathogens maintain a moderate proportion (5%-23%), of these,
+     <italic>
+      P. aeruginosa
+     </italic>
+     is responsible for 25–40% of reported cases [
+     ,
+     ]. Also,
+     <italic>
+      P. aeruginosa
+     </italic>
+     is one of the main pathogens (in addition to
+     <italic>
+      S. aureus
+     </italic>
+     and
+     <italic>
+      S. epidermidis
+     </italic>
+     ) involved in soft tissue infections among individuals who undergo osseointegration after limb amputation. Finally,
+     <italic>
+      P. aeruginosa
+     </italic>
+     is a significant cause of septic arthritis, one of the most aggressive joint diseases characterized by rapidly progressing joint and cartilage destruction, with a mortality rate of 5–25%
+     [
+     ,
+     ]. The incidence of
+     <italic>
+      P. aeruginosa
+     </italic>
+     -mediated septic arthritis is higher in immunocompromised patients and intravenous drug abusers. Also, septic arthritis caused by
+     <italic>
+      P. aeruginosa
+     </italic>
+     and other Gram-negative bacteria is associated with higher mortality than those involving Gram-positive organisms (25% vs 6%, respectively), with only 20% of patients with septic arthritis triggered by Gram-negative bacteria regaining joint function [
+     ]. Despite its clinical significance, virtually nothing is known about the molecular pathogenesis and virulence factors required for orthopedic infections. Most of the published studies are clinical case reports and reviews.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0018">
+    <title>
+     BIOFILMS AND SECRETION SYSTEMS
+    </title>
+    <sec disp-level="2" id="s0018-s2001">
+     <title>
+      Biofilms and T3SS
+     </title>
+     <p>
+      Recently, Thompson
+      <italic>
+       et al
+      </italic>
+      . (2018) have developed a new mouse model of prosthetic joint infection by using titanium implant, which showed bacterial infection of the bone/joint tissue, biofilm formation on the implants, reactive bone changes, and inflammatory immune cell infiltrates [
+      ]. These authors also demonstrated that a bispecific antibody targeting both T3SS translocon protein PcrV and exopolysaccharide biofilm matrix Psl successfully reduced the burden
+      <italic>
+       P. aeruginosa
+      </italic>
+      in the joint infection. These findings suggest that both T3SS and biofilms participate in the orthopedic infection by
+      <italic>
+       P. aeruginosa
+      </italic>
+      . The importance of T3SS is further corroborated by finding that cartilages of articular joints, which are anatomical sites rarely infected by bacteria, secrete the cartilage-associated antimicrobial factor (CA-AMF), with significantly more antimicrobial activity against
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains with a functional T3SS. The authors proposed that CA-AMF has evolved to selectively target pathogenic bacteria among the beneficial and commensal microflora [
+      ], though the molecular mechanism such antagonism remains not understood. Finally, a recently developed mouse model of septic arthritis infection by
+      <italic>
+       P. aeruginosa
+      </italic>
+      has revealed a protective role by neutrophils against septic arthritis. In contrast, CD4
+      T-cells play pathogenic role in
+      <italic>
+       P. aeruginosa
+      </italic>
+      mediated septic arthritis [
+      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0019">
+    <title>
+     GASTROINTESTINAL TRACT INFECTIONS
+    </title>
+    <p>
+     <italic>
+      P. aeruginosa
+     </italic>
+     is usually a transient and not a common pathogen in the gastrointestinal (GI) tract, and isolation of the bacterium in stool is of no clinical significance. However, the presence of
+     <italic>
+      P. aeruginosa
+     </italic>
+     in the proximal intestinal tract is associated with a 70% death rate in critically ill patients, a 3-fold increase over age-matched patients who have negative cultures for this organism [
+     ].
+     <italic>
+      P. aeruginosa
+     </italic>
+     causes necrotizing enterocolitis in premature infants and in neutropenic cancer patients. For example,
+     <italic>
+      P. aeruginosa
+     </italic>
+     has caused outbreaks of diarrheal diseases in neonatal and pediatric patients [
+     ], mostly associated with antibiotic exposure [
+     ,
+     ].
+     <italic>
+      P. aeruginosa
+     </italic>
+     -mediated neonatal necrotizing enterocolitis are also more frequent in formula-fed newborns [
+     ]. One of the most serious forms of diarrheal diseases caused by
+     <italic>
+      P. aeruginosa
+     </italic>
+     is Shanghai fever, a highly fatal necrotizing enteritis due to rapid onset of septic shock and multiple-organ dysfunction syndrome (MODS) [
+     ].
+     <italic>
+      P. aeruginosa
+     </italic>
+     also causes infections in individuals who undergo endoscopy. Because endoscopes are made of heat-sensitive materials, they cannot be autoclaved. Endoscopy-related infection by
+     <italic>
+      P. aeruginosa
+     </italic>
+     is typically associated with improper sterilization of reprocessed endoscopes contaminated with gut flora of a patient from previous use [
+     ]. Finally,
+     <italic>
+      P. aeruginosa
+     </italic>
+     is responsible for significant post-surgical infections within the GI tract, and is associated with poor outcome and lack of preoperative oral antibiotic prophylaxis [
+     ]. However, very little is known about the virulence mechanisms governing the aforementioned GI-infections.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0020">
+    <title>
+     QUORUM SENSING
+    </title>
+    <p>
+     Besides acting as a QS signal, oxo-C
+     <sub>
+      12
+     </sub>
+     -HSL disrupts barrier integrity in the human intestinal epithelial Caco-2 cells by activating p38 and p42/44 kinases, resulting in decreased transepithelial electrical resistance, increased paracellular flux, reduction in the expression and distribution of ZO-1 and occludin, and reorganization of F-actin[
+     ]. Oxo-C
+     <sub>
+      12
+     </sub>
+     -HSL also disrupts epithelial barrier formed by Caco-2 cells by modulating calcium signaling and phosphorylation status of ZO-3 and JAM-A, resulting in reduced expression and distribution of these junction proteins[
+     ]. Oxo-C
+     <sub>
+      12
+     </sub>
+     -HSL also interacts with the IQ-motif-containing GTPase-activating protein IQGAP1, resulting in changes in the phosphorylation status of Rac1 and Cdc42, altering the cytoskeleton network and inducing migration of Caco-2 cells in a dose- and time-dependent manner[
+     ]. Again, these
+     <italic>
+      in vitro
+     </italic>
+     observations need to be interpreted with caution as non-physiological concentrations of oxo-C
+     <sub>
+      12
+     </sub>
+     -HSL were used in the studies using immortalized cell line. A more detailed review of modulation of gut immunity by QS molecules can be found here[
+     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0021">
+    <title>
+     CELLULAR APPENDAGES AND ADHESINS
+    </title>
+    <sec disp-level="2" id="s0021-s2001">
+     <title>
+      LecA
+     </title>
+     <p>
+      <italic>
+       P. aeruginosa
+      </italic>
+      can use the LecA lectin to adhere to epithelial surfaces. Binding of purified LecA reduces the tight junction permeability formed by Caco-2 cells. Injection of
+      <italic>
+       P. aeruginosa
+      </italic>
+      or LecA-ToxA cocktail directly into the cecum of mice which previously underwent 30% surgical hepatectomy resulted in lethality. Disruption of intestinal tight junction barrier and mouse lethality could be blocked by pretreatment with N-acetyl-D-galactosamine (GalNAc), a receptor for LecA [
+      ,
+      ]. These results indicate that LecA drives the pathogenesis of
+      <italic>
+       P. aeruginosa
+      </italic>
+      in the GI tract by inducing a permeability defect in gut epithelium that allow other virulence factors such as ToxA to penetrate and induce lethality. The expression of LecA is positively regulated by QS, as well as increased by contact with intestinal epithelium and unknown host factors [
+      ]. Interestingly, some of these factors could be the relative concentrations of opioid versus phosphate within the intestinal microenvironment during surgical stress [
+      ].
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0021-s2002">
+     <title>
+      T4P
+     </title>
+     <p>
+      Deletion of the pilin-encoding
+      <italic>
+       pilA
+      </italic>
+      gene did not attenuate adhesions to Caco-2 cells, but rather, blocked both penetration and disruption of Caco-2 cell monolayers. Additionally, the T4P were required for injection of the T3SS effector ExoS into host cells [
+      ]. Finally, a PilA-deficient mutant was attenuated in a silkworm model of intestinal infection. Collectively, the aforementioned studies illustrate a pathogenic process where
+      <italic>
+       P. aeruginosa
+      </italic>
+      binds to intestinal epithelium via LecA and uses T4P to facilitate the delivery of virulence factors that disrupt the epithelial barrier.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0022">
+    <title>
+     EXOENZYMES AND SECRETION SYSTEMS
+    </title>
+    <p>
+     The T3SS effector ExoS mediates the penetration of
+     <italic>
+      P. aeruginosa
+     </italic>
+     through the intestinal epithelial cell barrier. After being injected intracellularly, ExoS binds to, and inactivates, the FXYD domain-containing ion transport regulator 3 (FXYD3), resulting in reduction of Na,K-ATPase activity. Inactivation of Na,K-ATPase inhibits the expression of ZO-1 and occludin, leading to a disruption of the tight junction formed by Caco-2 cells, which allows
+     <italic>
+      P. aeruginosa
+     </italic>
+     to transmigrate effectively through the broken epithelial cell barrier [
+     ].
+    </p>
+    <sec disp-level="2" id="s0022-s2001">
+     <title>
+      IRON ACQUISITION SYSTEMS
+     </title>
+     <p>
+      By comparative genome hybridization analysis of high and low virulence strains, Okuda
+      <italic>
+       et al.
+      </italic>
+      (2012) have identified
+      <italic>
+       P. aeruginosa
+      </italic>
+      genes that are associated with bacterial translocation from the gut epithelial barrier. Among these, the pyoverdine biosynthetic gene
+      <italic>
+       pvdE
+      </italic>
+      is required for penetration through Caco-2 epithelial cell monolayers, and for translocation of
+      <italic>
+       P. aeruginosa
+      </italic>
+      from the gut to the hemolymph in infected silkworms [
+      ]. Analyzing the synergy between PvdE and ExoS revealed that the latter is required for penetration through the intestinal epithelial cell barrier while PvdE is required for virulence and replication in the hemolymph of silkworms, independent of ExoS.
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0022-s2002">
+     <title>
+      Virulence genes identified through transcriptomic and mutant library screens
+     </title>
+     <p>
+      Using the insertion-sequencing (INSeq) approach, Skurnik
+      <italic>
+       et al
+      </italic>
+      . (2013) analyzed the contribution to fitness of all non-essential genes in the chromosome of
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain PA14 during GI tract colonization [
+      ]. Mutants with insertion in almost all known virulence factors as well as genes with unknown functions were identified to be putatively attenuated. Interestingly, 90% of these non-essential genes were required for
+      <italic>
+       in vivo
+      </italic>
+      survival following systemic dissemination during neutropenia [
+      ]. However, the results from an earlier study from the same group seem to contradict these results. Koh
+      <italic>
+       et al
+      </italic>
+      . (2010) compared virulence gene expression from the GI tracts of
+      <italic>
+       P. aeruginosa
+      </italic>
+      -colonized mice to that from the drinking water used to colonize the mice. The expression of genes involved in biofilm formation and T3SS were significantly increased during gut colonization. However, none of the biofilm formation genes were required for GI colonization in the Tn mutant library screen. Similarly, T3SS mutants deficient in ExoS, ExoU, ExoT, and PopB were dispensable for GI colonization and neutropenia-induced dissemination in mice, suggesting that changes in the gene expression during GI colonization is not predictive of an essential role for the gene product in either colonization or overall survival following induction of neutropenia [
+      ].
+     </p>
+     <p>
+      In a separate study, it was found that monosaccharides present in formula versus those in human milk also appear to modulate the expression of
+      <italic>
+       P. aeruginosa
+      </italic>
+      virulence genes, which may have implication in the pathogenesis of neonatal necrotizing enterocolitis. Arabinose (present in formula), xylose (present in human milk), and galactose (present in both formula and feces from milk-fed infants) caused a significant increase in the expression of virulence genes. In contrast, mannose (present in the feces of milk-fed infants) significantly attenuated the expression of virulence genes [
+      ]. In another study, mucin glycoproteins, which are major components of mucus lining the GI tract and forms the first line of defense against microbial infection, were shown to downregulate the expression of virulence genes that are involved in QS, siderophore biosynthesis and toxin secretion, as well as rapidly disintegrate biofilms in an
+      <italic>
+       in vitro
+      </italic>
+      3D mucus model [
+      ]. Similar to the aforementioned studies, the importance of
+      <italic>
+       P. aeruginosa
+      </italic>
+      virulence genes would have to be authenticated through single infection in order to clarify their roles in GI infection. However, in a
+      <italic>
+       Caenorhabditis elegans
+      </italic>
+      model of intestinal infection,
+      <italic>
+       P. aeruginosa
+      </italic>
+      seems to have evolved a strategy to exploit host mucin to derive monosaccharides required for a successful infection [
+      ]. Again, these studies underscore the complexity of host–pathogen interactions between
+      <italic>
+       P. aeruginosa
+      </italic>
+      and GI tract, and a caution is in order to properly interpret results from various experiments.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0023">
+    <title>
+     URINARY TRACT INFECTIONS (UTI)
+    </title>
+    <p>
+     Urinary tract infections (UTI) are caused by multiple bacterial species and can be community-acquired or nosocomial. Among health care-associated infections, UTI are the most common after surgical site infections and pneumonia.
+     <italic>
+      P. aeruginosa
+     </italic>
+     itself only represents about 5 to 10% of those reported UTI [
+     ]. However, among patients with a complicated UTI, outcomes are usually worst when infected with
+     <italic>
+      P. aeruginosa
+     </italic>
+     [
+     ]. Most
+     <italic>
+      P. aeruginosa
+     </italic>
+     -driven UTI are hospital-acquired through the use of urinary catheters, causing catheter-associated UTI (CAUTI). These infections are characterized by the formation of surface-associated biofilm inside indwelling catheters, leading to an entryway to the urinary tract. From there,
+     <italic>
+      P. aeruginosa
+     </italic>
+     can colonize the bladder and reach the kidneys. (The role of
+     <italic>
+      P. aeruginosa
+     </italic>
+     virulence factors in UTI has been reviewed recently [
+     ], and more extensively but slightly dated[
+     ]). Being the versatile pathogen that it is,
+     <italic>
+      P. aeruginosa
+     </italic>
+     uses multiple-virulence factors to facilitate its survival in the human host. In term of UTI, no specific virulence factor has been described as strictly required for these infections. However, most isolates obtained from UTI are notably proficient at forming biofilms, at producing exoproteases (LasB, AprA) and at causing hemolysis [
+     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0024">
+    <title>
+     EXOPOLYSACCHARIDES AND BIOFILMS
+    </title>
+    <sec disp-level="2" id="s0024-s2001">
+     <title>
+      BIOFILMS
+     </title>
+     <p>
+      The formation of biofilms appears to be a main feature of
+      <italic>
+       P. aeruginosa
+      </italic>
+      CAUTI, as this phenotype is enhanced in CAUTI isolates compared to those from UTI [
+      ]. The biofilm matrix in CAUTI seems to rely more on extracellular DNA secretion than polysaccharide; this was clearly shown as a Pel- Psl-null double mutant was still capable of colonizing its hosts in a CAUTI mouse model in a manner dependent on extracellular DNA (i.e., sensitive to DNase treatments) [
+      ]. Alginate production is specifically reduced in UTI biofilms, a clear contrast to the biofilms formed in the lungs of CF patients, where isolated strains are often mucoid because they overproduce alginate [
+      ]. Those differences could be linked to the composition of urine: a study combining transcriptomics, proteomics and metabolomics of
+      <italic>
+       P. aeruginosa
+      </italic>
+      PAO1 biofilms grown in artificial urine medium revealed a reduction in alginate synthesis and an increase in the transcription of Fur-regulated genes – including siderophores pyoverdine and pyochelin – compared to biofilms grown in diluted Lysogeny Broth (LB) medium [
+      ]. This study also reported various metabolic adaptations such as reduced denitrification, increased amino acid metabolism and increased expression of QS-regulated virulence factors (proteases LasB and AprA, the lipase LipA and the LecA when grown in artificial urine [
+      ].
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0024-s2002">
+     <title>
+      QUORUM SENSING
+     </title>
+     <p>
+      While QS-null mutants were capable of dissemination through the urinary tract of infected mice, they failed to colonize the organs (bladder and kidney) and cause tissue damage, and were instead rapidly cleared [
+      ]. In contrast, this seems to not be the case for CAUTI: another study highlights that QS-null mutants of strain PA14 can colonize the urinary tract as effectively as the wild type in a CAUTI mouse model [
+      ]. The authors also report a reduced expression of QS-related genes when
+      <italic>
+       P. aeruginosa
+      </italic>
+      was grown in PBS-Tryptone combined with human urine; adding urea to the culture medium also reduced the expression of QS-related virulence factors without affecting acyl-homoserine lactone (AHL) production, instead reducing the detection of AHL by their cognate receptors LasR and RhlR [
+      ]. Such a divergence in requirement for QS might depend on the mode of infection, as QS appears to be more important in regulating virulence factors involved in acute vs chronic infections.
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0024-s2003">
+     <title>
+      IRON ACQUISITION SYSTEMS
+     </title>
+     <p>
+      Because urine is recognized as a low-iron environment [
+      ], it is not surprising that siderophore production would be a key virulence determinant of
+      <italic>
+       P. aeruginosa
+      </italic>
+      UTI. The importance of siderophore is highlighted by multiple studies that characterized the
+      <italic>
+       in vitro
+      </italic>
+      production of virulence factors of
+      <italic>
+       P. aeruginosa
+      </italic>
+      isolates from UTI. About 2.5% and 7.5% of 121
+      <italic>
+       P. aeruginosa
+      </italic>
+      UTI isolates were deficient in pyochelin and pyoverdine production, respectively, when grown under iron-depleted conditions [
+      ]; none of 30 isolates were deficient in pyoverdine production from another study [
+      ]. For the same reason, isolates from UTI often display a proteolytic potential
+      <italic>
+       in vitro
+      </italic>
+      [
+      ]. Proteases such as the LasB and the AprA facilitate iron scavenging by disrupting transferrin – a common iron-bound proteins in urine [
+      ,
+      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0025">
+    <title>
+     EXOENZYMES AND SECRETION SYSTEMS
+    </title>
+    <sec disp-level="2" id="s0025-s2001">
+     <title>
+      Hemolysins
+     </title>
+     <p>
+      High production of hemolysin might be another factor facilitating the colonization of the urinary tract: Mittal
+      <italic>
+       et al
+      </italic>
+      . measured the activity of multiple virulence factors
+      <italic>
+       in vitro
+      </italic>
+      between urine isolates and assessed their virulence in a mouse model of acute ascending pyelonephritis. They reported a positive correlation between the hemolytic activity and the bacterial load and tissue damage in this model [
+      ]. In a study where virulence determinants of clinical isolates from different infection sites were quantified and compared
+      <italic>
+       in vitro
+      </italic>
+      , isolates from urine had more phospholipase C activity compared to isolates from other infection sites. There were also reduced amounts of ExoS activity produced by urine isolates compared to most other sampling sites, but increased elastase activity compared to blood isolates [
+      ]. In contrast, in another similar study,
+      <italic>
+       P. aeruginosa
+      </italic>
+      isolates from the urinary tract of patients had a pronounced increase in ExoS activity measured
+      <italic>
+       in vitro
+      </italic>
+      compared to tracheal and wound isolates, along with lower ToxA activity. No differences were reported in the activity levels of LasB elastase and phospholipase C between the different groups of isolates [
+      ].
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0025-s2002">
+     <title>
+      Pyocyanin
+     </title>
+     <p>
+      Pyocyanin, the characteristic blue phenazine of
+      <italic>
+       P. aeruginosa
+      </italic>
+      , seems to be less important in the setting of UTI, with an overall lower prevalence of production among isolates from UTI, according to different studies [
+      ,
+      ]. Despite its low reported occurrence, one study described the cytotoxic effects that pyocyanin has on renal tubular epithelial cell when a concentration of pyocyanin ranging between 30 and 60 µM was added to the growth medium: a rise in endoplasmic reticulum vacuolization and proteotoxicity attributed to the strong redox potential of pyocyanin [
+      ].
+     </p>
+     <p>
+      In summary, to properly colonize the urinary tract of its host,
+      <italic>
+       P. aeruginosa
+      </italic>
+      relies on its capability to form a biofilm and scavenge iron from the scarce environment of the urine. Reliance on QS-regulated virulence factors seems restricted to dissemination of bacteria to upper organs.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0026">
+    <title>
+     BLOOD-RELATED INFECTIONS
+    </title>
+    <p>
+     Blood-related infection occurs mostly among patients in intensive-care units and among immunocompromised individuals. Currently,
+     <italic>
+      Pseudomonas
+     </italic>
+     spp. represent a significant cause of hospital-acquired bacteremia, being the third leading cause of Gram-negative bloodstream infections (BSI) [
+     ]. Several studies indicate an increased risk of mortality among patients with
+     <italic>
+      P. aeruginosa
+     </italic>
+     BSI, as compared with the risk for similar patients with other Gram-negative bacteria infections [
+     ]. BSI start when
+     <italic>
+      P. aeruginosa
+     </italic>
+     breaks the epithelial barrier of an affected organ such as lungs, urinary tract or gastrointestinal tract to enter the bloodstream. Central venous catheters can also act as entry points. This often leads to dissemination toward other organs and sepsis, with poorer outcome compared to other bacterial species [
+     ]. Occasionally, this bacterium also causes endocarditis, but occurrence is only significant among intravenous drug users and patients with heart prosthetics [
+     ,
+     ]. Notably, endocarditis can be defined as either left-sided (aortic and mitral valve vegetation) and right-sided (tricuspid valve vegetation), both sides will contain different environmental conditions that will affect the outcome of the infective endocarditis – with left-sided infection linked to poorer outcome [
+     ].
+    </p>
+    <sec disp-level="2" id="s0026-s2001">
+     <title>
+      Prevalence of virulence factors
+     </title>
+     <p>
+      The high mortality rate of
+      <italic>
+       P. aeruginosa
+      </italic>
+      BSI has been mostly linked to inappropriate initial antimicrobial treatment, typically a consequence of high resistance to antibiotics, instead of the expression of certain virulence factors [
+      ]. A study assessed the presence of virulence genes between high mortality rate and low mortality rate of
+      <italic>
+       P. aeruginosa
+      </italic>
+      bloodstream isolates: by comparing patient data with the genomic profiles of the isolated strains, no clear link could be made between the presence of certain virulence factors and the outcome of infection [
+      ]. However, this study was limited because of its small sample size of ten isolates/patients. When comparing the virulence of bloodstream isolates to those from peripheral organs in the
+      <italic>
+       Galleria mellonella
+      </italic>
+      larvae infection model, Hickey
+      <italic>
+       et al
+      </italic>
+      . (2018) remarked that cell-free supernatant from bloodstream isolates killed the larvae much quicker than the peripheral isolates from the same patient [
+      ]. Using proteomics, they identified a higher abundance of the LecA lectin in the supernatant of BSI isolates, among other. Using a mouse bacteremia model, others have pointed at the contribution of pathogenicity island 1 (notably coding for CupD fimbriae and type IVb pili) and pathogenicity island 2 (coding for the potent T3SS effector ExoU) to the virulence of strain UCBPP-PA14 in this infection model [
+      ]. Poor patient outcome was also linked to the presence of ExoU instead of ExoS, presence of these exotoxins being mutually exclusive in
+      <italic>
+       P. aeruginosa
+      </italic>
+      strains [
+      ,
+      ]. The former is generally less prevalent in clinical isolates [
+      ]. In term of lifestyle, isolates from catheter-associated BSI were found to be more motile than those from CAUTI, the latter relying more on biofilm formation [
+      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0027">
+    <title>
+     EXOENZYMES AND SECRETION SYSTEMS
+    </title>
+    <sec disp-level="2" id="s0027-s2001">
+     <title>
+      T3SS and elastase
+     </title>
+     <p>
+      To reach the bloodstream from an infected organ,
+      <italic>
+       P. aeruginosa
+      </italic>
+      needs to traverse the epithelial barrier of the organ and the endothelium of the adjacent blood vessel. To that end,
+      <italic>
+       P. aeruginosa
+      </italic>
+      will use T3SS and its effectors to induce tissue damage [
+      ]. ExoU is a potent toxin with a intracellular phospholipase activity akin to the human phospholipase A2 that will induce plasma membrane disruption upon translocation into the cytosol of host’s epithelial cells [
+      ]. An
+      <italic>
+       exoU
+      </italic>
+      -positive genotype is an independent predictor of early mortality in
+      <italic>
+       P. aeruginosa
+      </italic>
+      BSI [
+      ]. ExoS and ExoT are both proteins containing GTPase-activating domain and ADPRT domain inhibiting the actin cytoskeleton and leading to cell death [
+      ]. The role of ExoS in the dissemination from the alveolar epithelium through the endothelium of blood vessels into the blood stream is already reviewed elsewhere [
+      ]. In short, ExoS will partner with the LasB elastase: the former will cause damage to the epithelial cells while the latter – given access to the endothelium of the blood vessel – will cleave vascular endothelium cadherin and disrupt anchor between neighboring cells by damaging tight junction-associated proteins. Apart from T3SS-mediated toxicity, other factors contribute to the damage that
+      <italic>
+       P. aeruginosa
+      </italic>
+      can cause to the tissue.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0028">
+    <title>
+     EXOPOLYSACCHARIDES AND BIOFILMS
+    </title>
+    <sec disp-level="2" id="s0028-s2001">
+     <title>
+      Alginate
+     </title>
+     <p>
+      In the case of endocarditis, only a few studies report the role of certain virulence factors. By comparing the virulence of a mucoid
+      <italic>
+       P. aeruginosa
+      </italic>
+      strain and a non-mucoid variant in a rabbit endocarditis model, Bayer
+      <italic>
+       et al
+      </italic>
+      . (1992) demonstrated that the mucoid strain resisted antibiotic treatment and killing by polymorphonuclear leukocytes much better than its non-mucoid counterpart, resistance that was abolished with the injection of alginase[
+      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0029">
+    <title>
+     IRON ACQUISITION SYSTEM
+    </title>
+    <p>
+     Another study reports that the alternative sigma factor PvdS plays a role in the development of aortic valve infected vegetation (left-side), as a
+     <italic>
+      pvdS
+     </italic>
+     - mutant reached lower bacterial loads and induced less metastatic infections than the wild type, a difference that was not observed during infection of the tricuspid valve (right-side) [
+     ]. It is likely that this results from the difference in oxygen levels between the two sides of the heart, as the oxygen levels in the aorta are higher. They also demonstrated
+     <italic>
+      in vitro
+     </italic>
+     PvdS expression is higher when
+     <italic>
+      P. aeruginosa
+     </italic>
+     is grown under aerobic vs microaerobic conditions [
+     ].
+    </p>
+    <p>
+     In summary, it is clear from numerous studies that motility, lectins and T3SS are involved in BSI. Virulence factors regulated by PvdS and alginate play a role in the establishment of infective endocarditis.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0030">
+    <title>
+     BRAIN
+    </title>
+    <p>
+     <italic>
+      P. aeruginosa
+     </italic>
+     is a rare causative agent of bacterial meningitis and ventriculitis. Such pathologies happen in the most cases following neurosurgeries, such as shunt insertions and external ventricular cerebrospinal fluid drainages, which serve as a direct mode of entry for this pathogen [
+     ]. As is the case for most
+     <italic>
+      P. aeruginosa
+     </italic>
+     infections, poor outcome is tightly linked to the antibiotic resistance profile of the infecting strain and the timely administration of the antibiotic therapy, with intrathecal injection showing the best outcome with adequate antibiotics [
+     ,
+     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0031">
+    <title>
+     EXOENZYMES AND SECRETION SYSTEMS
+    </title>
+    <sec disp-level="2" id="s0031-s2001">
+     <title>
+      T3SS
+     </title>
+     <p>
+      There have been association between neurodegenerative diseases and the presence of
+      <italic>
+       P. aeruginosa
+      </italic>
+      . During acute pneumonia, patients were found to have an increased amount of amyloid β and tau protein in their cerebrospinal fluid and bronchoalveolar lavages [
+      ]. Reduction of amyloid β 42 and increase in phosphorylated tau proteins in the cerebrospinal fluid are biomarkers of the development of neurological disorders such as dementia and Alzheimer’s disease [
+      ]. Both exoenzymes ExoU and ExoY induce phosphorylation of tau protein, each with a distinct mechanism [
+      ]. ExoY acts as an adenylate cyclase that causes the phosphorylation of tau through the AMPc-dependent protein kinase A and its release from microtubules [
+      ]. ExoU is a phospholipase that releases arachidonic acid after its enzymatic cleavage of a phospholipid, which was shown to induce polymerization of tau
+      <italic>
+       in vitro
+      </italic>
+      [
+      ,
+      ]. Additional research is needed to further characterized the role of various virulence factors in this organ.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0032">
+    <title>
+     SKIN AND SOFT TISSUE INFECTIONS
+    </title>
+    <p>
+     Our skin serves as the first barrier against the entry of external pathogens. However, once injured – through heavy burns or other wounds – bacterial colonization becomes possible.
+     <italic>
+      P. aeruginosa
+     </italic>
+     causes a variety of skin and soft tissue infections ranging from benign to life-threatening, and it is an especially common pathogen of skin in burn wound, surgical wounds and diabetic foot ulcers. While burn wound infections are often considered acute and lead to rapid dissemination into the bloodstream and lethal sepsis, surgical wounds and ulcer-related infections are considered chronic infections that persist for longer time [
+     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0033">
+    <title>
+     WOUND AND BURN WOUND INFECTIONS
+    </title>
+    <sec disp-level="2" id="s0033-s2001">
+     <title>
+      EXOPOLYSACCHARIDES AND BIOFILMS
+     </title>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0034">
+    <title>
+     Biofilms
+    </title>
+    <p>
+     <italic>
+      P. aeruginosa
+     </italic>
+     is a prevalent pathogen in burn wound infections, accounting for about 30% of reported cases [
+     ]. An important factor for chronic
+     <italic>
+      P. aeruginosa
+     </italic>
+     infection of the skin is the formation of a biofilm. Using a model of full thickness scald burn wound rat model, Brandenburg
+     <italic>
+      et al
+     </italic>
+     . (2019) observed a bacterial biofilm that is produced on the burned skin by
+     <italic>
+      P. aeruginosa
+     </italic>
+     [
+     ]. They quantified an elevated expression of
+     <italic>
+      alg
+     </italic>
+     and
+     <italic>
+      pel
+     </italic>
+     from this biofilm, which indicates to importance of both exopolysaccharides in the composition of skin biofilm.
+    </p>
+    <sec disp-level="2" id="s0034-s2001">
+     <title>
+      QUORUM SENSING
+     </title>
+     <p>
+      Mutants in the main components of the
+      <italic>
+       las
+      </italic>
+      and
+      <italic>
+       rhl
+      </italic>
+      QS systems were much less virulent in an acute burn mouse model [
+      ]. Interestingly, loss of these QS systems does not abolish biofilm formation on the skin of burned mice, nor colonization around blood vessels, as demonstrated with electron and confocal microscopy [
+      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0035">
+    <title>
+     EXOENZYMES AND SECRETION SYSTEMS
+    </title>
+    <sec disp-level="2" id="s0035-s2001">
+     <title>
+      Volatile metabolites
+     </title>
+     <p>
+      Wounds heavily infected with
+      <italic>
+       P. aeruginosa
+      </italic>
+      have a distinctive odor resembling grape. This odor is caused by the volatile metabolite 2-aminoacetophenone [
+      ], that is used by
+      <italic>
+       P. aeruginosa
+      </italic>
+      to promote its chronic infection phenotype [
+      ], including through immunomodulation [
+      ].
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0035-s2002">
+     <title>
+      Pyocyanin
+     </title>
+     <p>
+      It seems that
+      <italic>
+       P. aeruginosa
+      </italic>
+      can sense the damaged state of wounds, as a recent study demonstrated that growth with homogenized fascia – the collagen-rich connective tissue that envelops muscles – significantly induces the production of pyocyanin and the transcription of pyochelin biosynthesis genes [
+      ]. Another study quantified the amount of pyocyanin from burn wound exudates to assess its importance in tissue damage. The levels of pyocyanin reached up to 5.3 µg per grams of exudates [
+      ]. When similar concentrations of pyocyanin were applied to human fibroblasts, it caused a reduction in tissue repair and cell doubling rate.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0036">
+    <title>
+     CELLULAR APPENDAGES AND ADHESINS
+    </title>
+    <sec disp-level="2" id="s0036-s2001">
+     <title>
+      Flagella and T4P
+     </title>
+     <p>
+      Turner
+      <italic>
+       et al
+      </italic>
+      . (2014) used Tn-Seq to assess the fitness determinants in acute burn and chronic wound infection of a mouse model [
+      ]. They identified flagellar motility and chemotaxis as important for the fitness of
+      <italic>
+       P. aeruginosa
+      </italic>
+      PAO1 in the burn wound setting, while T3SS and T6SS were important factors in the chronic wound model. T4P and Psl production were required in both infection types to maintain a high fitness. Using RNA-seq, they also highlighted that iron acquisition gene, T2SS and T3SS are upregulated
+      <italic>
+       in vivo
+      </italic>
+      – in both acute and chronic models – compared to lab-grown planktonic bacteria. LPS modification clusters were downregulated in both infection settings, especially in the chronic wound model [
+      ]. In addition, metabolic transcription profiles indicated that growth in wounds relies on long chain fatty acids metabolism, mutants incapable of catabolizing such carbon source having a virulence defect in both mouse models. This study highlighted the physiological differences that occur depending of the infection caused by
+      <italic>
+       P. aeruginosa
+      </italic>
+      . The importance of flagella and pili assembly genes had previously been demonstrated in a burn wound mouse model, where mutants unable to form either (or both) flagellum and T4P had reduced lethality and dissemination to other organs [
+      ,
+      ]. Indeed, the flagellum has been implicated as a major virulence determinant in normal epidermis tissue invasion: flagellin-null mutants – but not T2SS or T3SS mutants – were unable to penetrate and invade the epithelial layer during infection of reconstructed human epithelium. This was confirmed in mouse model of sub-cutaneous infection [
+      ].
+     </p>
+    </sec>
+    <sec disp-level="2" id="s0036-s2002">
+     <title>
+      Virulence genes revealed by transcriptomic approach
+     </title>
+     <p>
+      Because bloodstream infections often occur after a severe burn trauma, Kruczek
+      <italic>
+       et al
+      </italic>
+      . (2016) compared transcription profile of
+      <italic>
+       P. aeruginosa
+      </italic>
+      PA14 between growth in whole blood from a healthy volunteer and from three severe burn victims [
+      ]. Iron acquisition genes were amongst the most affected in their regulation: transcription of ferrous uptake genes and pyochelin synthesis genes, but not pyoverdine, was markedly increased. On the other hand, QS-regulated genes were under-expressed in whole blood from burn victims compared to the healthy individual. Pilin and fimbriae genes were downregulated, but flagellum genes were upregulated, suggesting activation of flagellar motility by the blood of burned patients compared to the blood of healthy volunteers. It appears from these studies that QS, iron uptake and motility systems play major roles in the unfolding of burned skin infections.
+     </p>
+     <p>
+      Another study used RNA-seq to evaluate changes in the transcription profile of
+      <italic>
+       P. aeruginosa
+      </italic>
+      PAO1 when grown in burn wound exudates [
+      ]. Under these culture conditions, iron-acquisition and heme-import clusters were upregulated. In addition, T6SS was upregulated while T3SS was downregulated. The transcription of genes involved in QS and its related virulence factors was activated very early during growth in burn wound exudates. By comparing the chemical composition of the medium before and after the growth of
+      <italic>
+       P. aeruginosa
+      </italic>
+      , the authors noticed that triglycerides, cholesterol and lactate were consumed first [
+      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0037">
+    <title>
+     CHRONIC FOOT ULCERS
+    </title>
+    <sec disp-level="2" id="s0037-s2001">
+     <title>
+      BIOFILMS, EXOENZYMES AND SECRETION SYSTEM
+     </title>
+     <p>
+      Prevention of wound healing is a trait of chronic skin infection. Biofilm formation delays tissue repair of chronic diabetic foot ulcers, venous leg ulcers and pressure ulcers [
+      ,
+      ]. Infecting a biopsy-punch wound of diabetic mice with biofilm-grown
+      <italic>
+       P. aeruginosa
+      </italic>
+      delayed wound healing from 4 weeks to 6–8 weeks compared to uninfected wounds [
+      ]. Both LasB elastase and protease IV reduced wound repair through the inhibition of cell migration and angiogenesis [
+      ]. Both proteases were better produced by high biofilm-forming strains isolated from diabetic foot ulcers compared to moderate or low biofilm-forming isolates from the same infection site. This impact on wound healing was demonstrated by treating mouse wounds with each purified proteases [
+      ]. Jacobsen
+      <italic>
+       et al
+      </italic>
+      . (2012) also demonstrated that
+      <italic>
+       P. aeruginosa
+      </italic>
+      wildtype supernatant – but not supernatant from double
+      <italic>
+       lasR- rhlR
+      </italic>
+      - QS mutant – impaired cell migration of keratinocytes and fibroblasts [
+      ]. The T3SS apparatus also plays a role in these infections. T3SS was demonstrated to contribute to the delay in wound healing in a diabetic mouse model [
+      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0038">
+    <title>
+     FOLLICULITIS
+    </title>
+    <sec disp-level="2" id="s0038-s2001">
+     <title>
+      BIOFILMS, SECRETION SYSTEM AND CELLULAR APPENDAGES
+     </title>
+     <p>
+      Finally, maybe the most common
+      <italic>
+       P. aeruginosa
+      </italic>
+      infection is a skin rash: this pathogen causes hot tub dermatitis, a condition characterized by a folliculitis that frequently afflicts users of pools and hot tubs [
+      ]. This community-acquired skin infection results from the colonization of hair follicles following exposure to contained, contaminated water (e.g., whirlpools, swimming pools, water slides, bathtubs). Normally benign, such infections can evolve in immunocompromised individuals into severe ecthyma gangrenosum, expressed as gangrenous ulcers with erythematous borders [
+      ]. There is close to no information on the virulence factors required to induce folliculitis and dermatitis. Intriguingly,
+      <italic>
+       P. aeruginosa
+      </italic>
+      serotype O11 was shown to be very prevalent in these types of skin infections [
+      ,
+      ]. Although they were predominant in whirlpool water, these isolates were not more resistant to chlorine [
+      ]. However, we know that the ability to form stress-resistant biofilms is a feature required for the colonization of plumbing fixtures in whirlpool recirculation systems [
+      ]. Furthermore,
+      <italic>
+       P. aeruginosa
+      </italic>
+      isolates secreting ExoU are frequently serotyped as O11 and typically isolated from acute infections [
+      ]. Maybe not surprisingly, a correlation was found between the O11 serotype, positivity for
+      <italic>
+       exoU
+      </italic>
+      and novel
+      <italic>
+       pilA
+      </italic>
+      type in a collection of corneal ulcer isolates with good twitching motility [
+      ]. In a sub-cutaneous infection model, exoenzyme ExoU was shown to be required to induce formation of abscesses in healthy mice, but not in neutropenic mice. The authors suggested that inhibition of neutrophils through the T3SS might be the cornerstone of bacterial growth and tissue invasion in skin diseases [
+      ].
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0039">
+    <title>
+     FUTURE PERSPECTIVES
+    </title>
+    <p>
+     Tremendous amount of advances have been achieved in the understanding of
+     <italic>
+      P. aeruginosa
+     </italic>
+     pathogenesis over the last few decades. What are the opportunities and challenges lying ahead in the age of “omics”? Some of these major challenges, with a focus on specific tissues and organs are: 1) direct
+     <italic>
+      in vivo
+     </italic>
+     analysis of the expression of key virulence factors during infection of specific organs; 2) direct analysis of the
+     <italic>
+      P. aeruginosa
+     </italic>
+     virulence process and its interactions with host cells through the initiation of an infection to resolution of the disease in tissues and organs. These challenges can now be addressed by using
+     <italic>
+      in vivo
+     </italic>
+     and single-cell transcriptomics, and by three-dimensional bioprinting of so-called primitive human lungs combined with comparative transcriptomics profiling of healthy versus diseased primitive lung constructs.
+    </p>
+    <p>
+     Direct
+     <italic>
+      in
+     </italic>
+     <italic>
+      vivo P. aeruginosa
+     </italic>
+     transcriptomics has been attempted using different strategies and identified hundreds of genes specifically expressed during infection but not
+     <italic>
+      in vitro
+     </italic>
+     [
+     ]. For example, Conforth
+     <italic>
+      et al.
+     </italic>
+     (2018) compared the
+     <italic>
+      P. aeruginosa
+     </italic>
+     gene expression patterns of clinical samples analyzed directly with
+     <italic>
+      a
+     </italic>
+     <italic>
+      priori
+     </italic>
+     no growth
+     <italic>
+      in vitro
+     </italic>
+     from CF sputum, chronic wound infections, and burned wound infections, or
+     <italic>
+      in vivo
+     </italic>
+     mouse models of acute pneumonia, burn infections or surgical wound infections. These authors found that transcriptomic profiles of
+     <italic>
+      P. aeruginosa
+     </italic>
+     genes obtained from murine surgical wound model was more closely resembled those of human infections. In contrast, the transcriptomic profiles of
+     <italic>
+      P. aeruginosa
+     </italic>
+     genes in murine models of acute pneumonia and burn sepsis more resembled
+     <italic>
+      in vitro
+     </italic>
+     gene expression profiles. Additionally, some of the genes were not so-called typical virulence factors but instead
+     <italic>
+      lexA
+     </italic>
+     (SOS stress response),
+     <italic>
+      mex
+     </italic>
+     (efflux pumps),
+     <italic>
+      fts
+     </italic>
+     H (protease),
+     <italic>
+      ZnuABC
+     </italic>
+     (bacterial growth),
+     <italic>
+      faoAB
+     </italic>
+     (long-chain fatty-chain metabolism), and a collection of hypothetical genes [
+     ].
+    </p>
+    <p>
+     The analysis of within-host evolution of
+     <italic>
+      P. aeruginosa
+     </italic>
+     and other bacterial pathogens is now possible by using single-cell transcriptomics, and may lead to the prediction of clinical progression of bacterial infections and options in therapy [
+     ]. For example, single-cell RNA sequencing was used to examine immune cell dysfunction in the pathogenesis of bacterial pneumonia-derived sepsis [
+     ]. A combined strategy could be used by following gene expression of
+     <italic>
+      P. aeruginosa
+     </italic>
+     lung infections using micro-biopsied lung samples and single bacterial cells isolated from tissues by laser microdissection. Although challenging, these technologies are constantly improving and excellent trajectory is being made in single-cell genomics and transcriptome profiling, which will offer different insights into bacterial pathogenesis over metagenomic approaches [
+     ].
+    </p>
+    <p>
+     It is well known that, in many cases, data acquired through animal models do not faithfully recapitulate various human lung pathologies and diseases, including CF [
+     ]. Due to major genotypic, phenotypic and metabolic differences, novel therapeutics derived from animal models do not always translate into efficacy in humans [
+     ]. In addition, classical cell culture approaches lack the complexity and tissue-like structures relevant to detailed biological analysis. Recent progress and feasibility has been obtained in development of organs-on-a-chip [
+     ], and new technologies that pave the way for 3D bioprinting of complex tissues, including human skin, cartilage, bone, and the air-blood barrier [
+     ,
+     ]. Even though human lungs contain a repertoire of more than 60 specialized cells, we have initiated the next level of lung 3D bioprinting and transcriptomics profiling by focusing on lung epithelial and alveolar cells, leading to a systematic scaling-up approach for additional lung cells and vascularized constructs (Kukavica-Ibrulj I, Potvin, M. and Levesque R. C., unpublished). Another area of advances is in the development of organoids derived from human pluripotent stem cells to model organ development and disease pathogenesis, including in the context of lung–pathogen interactions [
+     ]. Combining these new advances with newly developed high-definition spatial transcriptomics [
+     ,
+     ] that can be coupled with single-cell analysis [
+     ,
+     ] to perform
+     <italic>
+      in situ
+     </italic>
+     profiling of infected organs and tissues will be highly desirable. Additionally, implementation of the novel integrative multi-omics approaches to acquire, analyze, and model multimodal data will facilitate disentanglement of the influences of genetic, environment, immune status, (post)transcriptional, (post)translational, and metabolic processes driving the initiation and resolution of disease pathogenesis [
+     ,
+     ].
+    </p>
+    <p>
+     Finally, antibodies against single
+     <italic>
+      P. aeruginosa
+     </italic>
+     epitopes have been examined for a long time, but without satisfactory protective efficacy. In recent years, there has been an effort to develop bispecific monoclonal antibody (mAb) that simultaneously targets two surface epitopes on
+     <italic>
+      P. aeruginosa
+     </italic>
+     . Significantly, when administered prophylactically or post-infection, the bispecific mAb targeting a component of the T3SS translocon PcrV and the biofilm exopolysaccharide Psl protected against mouse models of lethal acute pneumonia [
+     ], and joint infection [
+     ]. Additionally, when administered either prophylactically or post-infection, subtherapeutic dose of bispecific mAb synergized with subtherapeutic doses of the antibiotics to protect mice in a lethal pneumonia model [
+     ]. Importantly, similar efficacy was achieved by using a DNA delivery method, which circumvents the hurdles of traditional mAb delivery through direct,
+     <italic>
+      in vivo
+     </italic>
+     immunoglobulin production [
+     ]. Finally, in contrast to the broad-spectrum antibiotic approach, pathogen-specific targeting with therapeutic bispecific mAbs would leave the beneficial microbiota intact.
+    </p>
+    <p>
+     Overall, the aforementioned approaches will expand the current frontiers in our understanding of
+     <italic>
+      P. aeruginosa
+     </italic>
+     pathogenic processes and host responses in tissues and organs.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec disp-level="1" id="s0040">
+    <title>
+     CONCLUSIONS
+    </title>
+    <p>
+     In summary, many years of dedicated research has significantly advanced our understanding of
+     <italic>
+      P
+     </italic>
+     . aeruginosa pathogenesis, especially in the context of chronic lung infections in CF (
+     ). However, much is still to be revealed about the virulence mechanisms in the rest of organ systems. Because of its ubiquitous presence in the environment, metabolic versatility, high intrinsic resistance to different types of chemotherapeutic agents and antibiotics, and large repertoire of virulence arsenals,
+     <italic>
+      P. aeruginosa
+     </italic>
+     is a very difficult pathogen to control and will likely persist as a significant clinical challenge to modern medicine for many years to come. Therefore, more in-depth understanding of
+     <italic>
+      Pseudomonas
+     </italic>
+     virulence regulation, development of novel antimicrobial approaches, better antibiotic stewardship, as well as vaccine development are warranted. Development of novel animal models that better mimic
+     <italic>
+      P. aeruginosa
+     </italic>
+     infectious diseases of humans as well as rapid advances in the new “omics” technologies will greatly advance these challenges. Particularly, major increase in the understanding in the molecular and cellular events governing free living planktonic mode of growth to biofilm formation, and transition from acute infection to chronic colonization may drive novel anti-
+     <italic>
+      Pseudomonas
+     </italic>
+     approaches.
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

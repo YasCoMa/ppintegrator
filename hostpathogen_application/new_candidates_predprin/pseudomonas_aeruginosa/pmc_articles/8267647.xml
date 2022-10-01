@@ -1,0 +1,1899 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  Metallacarborane Derivatives Effective against
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   is an opportunistic human pathogen that has become a nosocomial health problem worldwide. The pathogen has multiple drug removal and virulence secretion systems, is resistant to many antibiotics, and there is no commercial vaccine against it.
+   <italic>
+    Yersinia pestis
+   </italic>
+   is a zoonotic pathogen that is on the Select Agents list. The bacterium is the deadliest pathogen known to humans and antibiotic-resistant strains are appearing naturally. There is no commercial vaccine against the pathogen, either. In the current work, novel compounds based on metallacarborane cage were studied on strains of
+   <italic>
+    Pseudomonas aeruginosa
+   </italic>
+   and a
+   <italic>
+    Yersinia pestis
+   </italic>
+   substitute,
+   <italic>
+    Yersinia enterocolitica
+   </italic>
+   . The representative compounds had IC
+   <sub>
+    50
+   </sub>
+   values below 10 µM against
+   <italic>
+    Y. enterocolitica
+   </italic>
+   and values of 20–50 μM against
+   <italic>
+    P. aeruginosa
+   </italic>
+   . Artificial generation of compound-resistant
+   <italic>
+    Y. enterocolitica
+   </italic>
+   suggested a common mechanism for drug resistance, the first reported in the literature, and suggested
+   <italic>
+    N
+   </italic>
+   -linked metallacarboranes as impervious to cellular mechanisms of resistance generation. SEM analysis of the compound-resistant strains showed that the compounds had a predominantly bacteriostatic effect and blocked bacterial cell division in
+   <italic>
+    Y. enterocolitica
+   </italic>
+   . The compounds could be a starting point towards novel anti-
+   <italic>
+    Yersinia
+   </italic>
+   drugs and the strategy presented here proposes a mechanism to bypass any future drug resistance in bacteria.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec id="sec1-ijms-22-06762" sec-type="intro">
+    <title>
+     1. Introduction
+    </title>
+    <p>
+     Resistance to current antibiotics is a problem gaining broad attention worldwide. The problem is considered extremely important by the World Health Organization and has led to the formation of several groups and initiatives aimed at finding a solution. The most notable of which is the CARB-X initiative based at Boston University, Boston, US, supported by the governments of the US, UK, and EU, as well as private foundations including the Bill and Melinda Gates foundation. The group prioritizes human pathogens of particular importance to public health which have been designated on the ESKAPE list [
+     ,
+     ]. Members of the group include
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     , a human pathogen for which there is no commercially available vaccine. The pathogen is known to have a high rate of antibiotic resistance acquisition and to be specifically troublesome in hospitals where close contact is responsible for the ease of transmission. Part of the problem may be the
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     genome that codes for multiple drug resistance pumps, posing challenges for antibiotic design [
+     ]. The pathogen also possesses at least two major secretory systems: a type III secretion system (T3SS) [
+     ], and the type VI secretion system (T6SS) [
+     ]. The former is used mainly for defeating host immune systems, while the latter has a major role in defense against other bacteria [
+     ] and fungi [
+     ]. The T6SS also contributes to the defense of bacteria against the host, but its role is limited mainly to interference with inflammasome formation and signaling [
+     ,
+     ]. The type II secretion system (T2SS) [
+     ]—a minor secretory system, as judged by its lesser role in infection—also contributes to the virulence of the pathogen.
+    </p>
+    <p>
+     Vaccine design against
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     has not reached a commercial stage despite many years of research and funding by different agencies and groups. Previous strategies used O-antigens as adjuvants but success was very low [
+     ]. Inclusion of flagellins was attempted by different groups [
+     ,
+     ,
+     ] but none were cleared commercially, despite at least one candidate reaching phase III clinical trials [
+     ]. Porins were also trialed as vaccine candidates [
+     ,
+     ] but none were found to provide a benefit in human trials, despite promising results in animals [
+     ,
+     ]. Elements of the type III secretion system were also trialed as vaccine candidates. Inclusion of PcrV only in the vaccine was not sufficient to protect animal subjects completely based on survival rates [
+     ,
+     ,
+     ,
+     ,
+     ,
+     ]. However, immunization with rPcrV and subsequent challenge with a fully virulent strain administered with anti-PcrV antibodies could completely protect mice from a lethal dose of
+     <italic>
+      P. aeruginosa
+     </italic>
+     in a lung model of infection [
+     ]. Other attempts used translocator proteins PopB/PopD [
+     ,
+     ] or the needle protein YscF [
+     ]. In a change of strategy, outer membrane vesicles (OMVs) were used as vaccine candidates [
+     ]. These constructs contain many secreted proteins and should be able to offer a polyvalent vaccine candidate. However, the survival rate was only 60–90% against different clinical strains.
+    </p>
+    <p>
+     Attempts to develop therapeutics targeting the offensive weaponry of the pathogen have faltered and also failed to reach the commercial stage [
+     ,
+     ,
+     ,
+     ,
+     ]. Inhibition of other secretory systems, tat or T2SS, has been attempted with varying degrees of success [
+     ,
+     ]. None of these solutions, however, have passed all the human clinical trials.
+    </p>
+    <p>
+     <italic>
+      Yersinia pestis
+     </italic>
+     is a zoonotic pathogen which infects humans. Historically, the pathogen is responsible for the Black Death epidemic in Europe which killed about a third of the population in the Middle Ages. The pathogen is the most lethal bacterium known to humans [
+     ] and is of interest to the US and other countries’ militaries. It has resistance to many antibiotics, either engineered or natural [
+     ,
+     ,
+     ], and represents a biosafety problem. These properties of pathogen, combined with the lack of commercial vaccines and emerg-ing vaccine candidate resistance in animals, add additional urgency to finding new ther-apeutics against
+     <italic>
+      Yersinia pestis
+     </italic>
+     and are of high importance for many countries to develop such countermeasures. Similar to
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     , the
+     <italic>
+      Yersinia pestis
+     </italic>
+     bacterium also codes for a specialized virulence factor delivery system, the T3SS, either chromosomally or on a plasmid [
+     ]. The system is critical for the virulence of the pathogen [
+     ] and its inactivation is a target of indirect-acting drugs including virulence blockers, which are developed by many groups [
+     ,
+     ]. Due to the structural similarity between many orthologous proteins from the T3SS, the drugs could offer a broad-spectrum specificity [
+     ,
+     ]. However, testing potential solutions against the pathogen requires high-security facilities which are costly and difficult to maintain. Therefore, substitute pathogens are used to test potential solutions. Common replacements are
+     <italic>
+      Y. enterocolitica
+     </italic>
+     [
+     ] and attenuated strains of
+     <italic>
+      Y. pestis
+     </italic>
+     [
+     ].
+    </p>
+    <p>
+     Existing antibiotics against
+     <italic>
+      P. aeruginosa
+     </italic>
+     and
+     <italic>
+      Y. pestis
+     </italic>
+     rely mainly on novel generations of β-lactamase and DNA gyrase/topoisomerase inhibitors [
+     ,
+     ,
+     ]. Both classes have proven to be the only effective solutions after extensive use. The overreliance on these two classes led to a fast rise of resistance which could not be countered using traditional approaches. Therefore, new classes of antibiotics based on different strategies are needed and researched extensively.
+    </p>
+    <p>
+     Modification of therapeutic scaffold by the inclusion of boron, mostly as a nucleophile trap, has been used in the past [
+     ,
+     ,
+     ,
+     ,
+     ]. Other approaches include the addition of boron atoms or boron clusters linked to inhibitors, or metabolites used by bacteria [
+     ,
+     ,
+     ,
+     ,
+     ]. This approach generated compounds with bacteriostatic properties and MIC values below 1 μM, and the antibacterial spectrum included
+     <italic>
+      P. aeruginosa
+     </italic>
+     and
+     <italic>
+      S. aureus
+     </italic>
+     —another member of the ESKAPE group.
+    </p>
+    <p>
+     In the era of newly emerging diseases and increasing problems of drug-resistant infections, there is an urgent need for the development of novel, unusual building blocks to design therapeutic molecules. Recently, there is an increasing interest in the biological and therapeutic activity of icosahedral boron cluster compounds, especially metallacarboranes [
+     ,
+     ,
+     ]. Metallacarboranes are composed of two dicarbollide ligands
+     <italic>
+      nido
+     </italic>
+     -[C
+     <sub>
+      2
+     </sub>
+     B
+     <sub>
+      9
+     </sub>
+     H
+     <sub>
+      11
+     </sub>
+     ]
+     that sandwich a central metal cation. The lead structure presented in this paper is metallacarborane containing the cobalt(III) ion—systematically named 3,3′-commo-bis[closo-1,2-dicarba-3-cobaltadodecaborate](1-) and often abbreviated as COSAN. The compound is highly stable under acidic and alkaline conditions, can easily penetrate cells, and is generally nontoxic to mammalian cells [
+     ]. An 8-ethoxy-8′-iodo derivative of cobalt bis(1,2-dicarbollide) was shown as a novel antibacterial agent capable of fast-killing methicillin-resistant
+     <italic>
+      Staphylococcus aureus
+     </italic>
+     (MRSA) [
+     ]. Other compounds based on the metallacarborane clusters were also shown to have antimicrobial and antibiofilm formation activities against different bacterial and fungal pathogens [
+     ,
+     ,
+     ], including
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     and
+     <italic>
+      Candida parapsylosis
+     </italic>
+     [
+     ].
+    </p>
+    <p>
+     Investigation of metallacarborane clusters as potential drug leads provided insight into their toxicity towards mammalian cells. COSAN, a cobaltabisdicarbollide anion, reversibly blocks cell growth in mammalian cell culture of most cells at concentrations above 100 µM. However, the addition of iodine atoms in I
+     <sub>
+      2
+     </sub>
+     -COSAN decreases the ED
+     <sub>
+      50
+     </sub>
+     values approximately threefold [
+     ]. The compounds, COSAN and I
+     <sub>
+      2
+     </sub>
+     -COSAN, could easily penetrate mammalian cells at lower concentrations and be removed over a longer period. Physical damage to cellular membranes was not observed and the effect on cells was only cytostatic.
+    </p>
+    <p>
+     Additionally, boron clusters are abiotic structures; living organisms lack enzymes that could metabolize these compounds. In contrast to organic molecules involved in life processes that have extensive hydrogen-bonding capabilities, boron clusters are incapable of forming classical hydrogen bonds and instead prefer dihydrogen bonds, additionally combining dispersed charge and hydrophobicity. The compounds are not recognized by cellular efflux systems, which is typically a major problem in anticancer therapy. Potential use against bacteria would be promising if the pathogens were not able to develop drug resistance.
+    </p>
+    <p>
+     In the current work, a new class of synthetic compounds based on COSAN and capable of blocking bacterial growth at low micromolar concentrations was identified. The compounds were evaluated as potential starting points for novel therapeutics against
+     <italic>
+      P. aeruginosa
+     </italic>
+     and a
+     <italic>
+      Y. pestis
+     </italic>
+     substitute,
+     <italic>
+      Y. enterocolitica
+     </italic>
+     . Artificial generation of resistance in
+     <italic>
+      Y. enterocolitica
+     </italic>
+     identified compounds capable of generating tolerance against the novel therapeutics. The data are in strong contrast with the reported results, where resistance to closely-related metallacarboranes could not be generated [
+     ]. In the current manuscript, we generate resistance to the closely related compounds [
+     ] and provide structural requirements necessary for avoiding drug resistance in metallacarboranes. It is the first report in the literature providing such information for this class of compounds.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec2-ijms-22-06762" sec-type="results">
+    <title>
+     2. Results
+    </title>
+    <p>
+     For the synthesis of presented COSAN derivatives, we used iodonium bridge opening reaction (
+     ) with selected alcohols and amines [
+     ,
+     ,
+     ]. We obtained an 8,8′-di-iodo derivative of COSAN (1) and two different groups of compounds with iodine atoms at the B(8′) position and a second organic substituent at B(8). Analogs were synthesized where the same organic part was linked via oxygen (B(8)-O bond) giving anionic products and the nitrogen atom (B(8)-N giving zwitterionic products.
+    </p>
+    <sec id="sec2dot1-ijms-22-06762">
+     <title>
+      2.1. Compound Screening and Selection
+     </title>
+     <p>
+      Initial screening of small molecule metallacarborane library was performed in three stages (
+      ).
+     </p>
+     <p>
+      The diversity set used for the identification of potential hits selected compounds that had substantial antibacterial activity against
+      <italic>
+       Yersinia enterocolitica
+      </italic>
+      strain 2080 at 20 μM (
+      ).
+     </p>
+     <p>
+      At this stage, the most active compounds were compounds 1–5 and 7, which were predominantly
+      <italic>
+       O
+      </italic>
+      -linked derivatives with two exceptions: the original compound 1 and the
+      <italic>
+       N
+      </italic>
+      -linked compound 7 (
+      and
+      ).
+     </p>
+     <p>
+      All compounds had short (four to five C atoms) aliphatic chains except for compound 5, which had a cyclohexyl ring.
+     </p>
+     <p>
+      Analogous strategy for the
+      <italic>
+       Pseudomonas aeruginosa
+      </italic>
+      strain 2058 did not produce significant hits at the 20 μM screening stage. The reason was a weak inhibition of growth which forced the selection of compounds from the 200 μM screening step (
+      ).
+     </p>
+     <p>
+      The most active compounds were again 1–5 and 7, which were predominantly
+      <italic>
+       O
+      </italic>
+      -linked derivatives (
+      ) with two exceptions: the original compounds 1 and 7.
+     </p>
+     <p>
+      Analysis of substitutions (
+      and
+      ) showed that the predominant part contained short (four to five C atoms) aliphatic chains. The exception was compound 5, with a cyclohexyl ring.
+     </p>
+    </sec>
+    <sec id="sec2dot2-ijms-22-06762">
+     <title>
+      2.2. IC
+      <sub>
+       50
+      </sub>
+      Determination
+     </title>
+     <p>
+      The candidate compounds were characterized further by the determination of IC
+      <sub>
+       50
+      </sub>
+      values on two strains of each pathogen:
+      <italic>
+       Y. enterocolitica
+      </italic>
+      2080 and 2090, and
+      <italic>
+       P. aeruginosa
+      </italic>
+      2058 and 499 (
+      ). All measured IC
+      <sub>
+       50
+      </sub>
+      values for
+      <italic>
+       Y. enterocolitica
+      </italic>
+      were below 10 μM and the trend was as observed for the 20 μM screen (
+      ).
+     </p>
+     <p>
+      A literature search did not reveal any metallacarborane derivatives with anti-
+      <italic>
+       Yersinia spp
+      </italic>
+      . activities. However, boron-containing compounds were tested against
+      <italic>
+       Yersinia ruckerii
+      </italic>
+      and showed MIC values above 1500 μg/mL [
+      ].
+     </p>
+     <p>
+      Compounds found in the current work are, then, the best growth inhibitors of
+      <italic>
+       Yersinia spp
+      </italic>
+      . reported in the literature. Structurally, they constitute a different class [
+      ].
+     </p>
+     <p>
+      Activity against
+      <italic>
+       Pseudomonas aeruginosa
+      </italic>
+      was approximately an order of magnitude worse (
+      ) than for
+      <italic>
+       Y. enterocolitica
+      </italic>
+      . The trend in inhibition was as observed previously for the 200 μM screen (
+      ). Analysis of literature data indicates that the reported values are the best values measured for
+      <italic>
+       Yersinia spp
+      </italic>
+      . [
+      ].
+     </p>
+    </sec>
+    <sec id="sec2dot3-ijms-22-06762">
+     <title>
+      2.3. Metallacarborane Resistance Generation
+     </title>
+     <p>
+      Compounds found in the current work have unusual chemistry in addition to their antibacterial properties. Anionic boron clusters are man-made, inorganic compounds and as such living organisms lack enzymes that could metabolize them. It was, then, of interest to investigate if the compounds could be used to generate resistance against themselves and to elucidate a possible mechanism. To this end,
+      <italic>
+       Y. enterocolitica
+      </italic>
+      was selected as the pathogen of interest, based on the very low IC
+      <sub>
+       50
+      </sub>
+      values. Three compounds were selected: 1, 7, and 3, showing different substitutions to the same scaffold. After at least nine cycles of growth, the compounds were tested against each other using a matrix-type approach (
+      ).
+     </p>
+     <p>
+      Only compound 7 could be defended against, regardless of the starting compound (
+      , middle column). This result is startling as the almost identical compound 3 did not elicit the same resistance. At present, there is no explanation for the result.
+     </p>
+    </sec>
+    <sec id="sec2dot4-ijms-22-06762">
+     <title>
+      2.4. SEM Investigation of Resistant Bacteria
+     </title>
+     <p>
+      The generation of cross-resistance to compound 7 suggests that the underlying mechanism of defense against COSAN derivatives may be common for all three compounds. Carborane clusters are not reported to be metabolized by any species. However,
+      <italic>
+       nido
+      </italic>
+      -carboranylporphyrins are easily uptaken by human, mouse, and rat cells and retained inside [
+      ], possibly due to the lack of an efficient efflux system for these compounds.
+     </p>
+     <p>
+      To help us investigate the issue of potential mechanism, the drug-resistant variants of
+      <italic>
+       Y. enterocolitica
+      </italic>
+      2080 strain were examined under SEM (
+      A–F).
+     </p>
+     <p>
+      Compound 1 generally inhibited bacterial growth and analysis of silicon chips showed only a few bacteria (
+      B) in the field of view. On the other hand, compounds 7 and 3 did not inhibit the growth of bacteria, and clusters of pathogens could be easily observed (
+      C,D and
+      E,F, respectively). The shapes of the bacteria treated with compounds 7 and 3 were comparable to the untreated ones. Morphologically, the cells looked very similar and maintained their integrity. The compounds’ mode of action seems to be bacteriostatic, targeting bacterial cell division.
+     </p>
+    </sec>
+    <sec id="sec2dot5-ijms-22-06762">
+     <title>
+      2.5. Mammalian Cell Toxicity Studies
+     </title>
+     <p>
+      To measure potential toxicity towards mammalian cells, the compounds were tested for interference with cellular proliferation using two mammalian cell lines: the human lung epithelial cell line MCF 10A and mouse embryonic fibroblasts BALB/3T3 (
+      ,
+      ).
+     </p>
+     <p>
+      For the MCF 10A cell line, the original compound 1 and the
+      <italic>
+       O
+      </italic>
+      -linked boron derivatives, 2–5, exhibited relatively low antiproliferative effects. In contrast, the
+      <italic>
+       N
+      </italic>
+      -linked boron derivatives, 6–9, showed high antiproliferative activity with IC
+      <sub>
+       50
+      </sub>
+      values ranging from 40–160 nM. The results mirrored the data trend for the mouse BALB/3T3 line (
+      ). However, the IC
+      <sub>
+       50
+      </sub>
+      values for the
+      <italic>
+       O
+      </italic>
+      -linked boron derivatives were about 4–5× lower than for the MCF 10A cell line. Compound 1 had an equal antiproliferative effect on both lines.
+     </p>
+     <p>
+      In summary, the antiproliferative effect was much smaller for the
+      <italic>
+       O
+      </italic>
+      -linked derivatives than for the
+      <italic>
+       N
+      </italic>
+      -linked ones. Results inversely correlated with the overall negative charge of the former, since its neutralization by the addition of a positive charge on the boron-linked nitrogen dramatically increased overall cellular toxicity.
+     </p>
+    </sec>
+    <sec id="sec2dot6-ijms-22-06762">
+     <title>
+      2.6. Zebrafish Toxicity Studies
+     </title>
+     <p>
+      The final test for toxicity was performed on zebrafish. This animal is commonly used in toxicology studies.
+     </p>
+     <p>
+      The compounds chosen for animal studies were 1, 4, and 5. Compound 1 was shown to be an effective bacterial growth blocker for
+      <italic>
+       Y. enterocolitica
+      </italic>
+      (
+      ) and relatively nontoxic to mammalian cells (
+      ,
+      ). Compound 4 was also a good bacterial growth blocker for
+      <italic>
+       Y. enterocolitica
+      </italic>
+      (
+      ) and was the least toxic compound towards the human epithelial cell line MCF 10A (
+      and
+      ). Compound 5 was almost as effective as compound 4 towards
+      <italic>
+       Y. enterocolitica
+      </italic>
+      (
+      ) and was the second-best in terms of toxicity towards the human MCF 10A epithelial line (
+      and
+      ).
+     </p>
+     <p>
+      In the zebrafish larvae toxicity studies (
+      ), compound 1 induced visible morphological deformities in animals at 10 μM concentration, but not at the lower ones.
+     </p>
+     <p>
+      The changes were visible in the shape of the tail (TA), the dorsal string (S), and the heart (PE). Compounds 4 and 5 did not induce visible deformities at concentrations of up to 10 μM (
+      ), the latter causing deformities of dorsal string only at 20 μM concentration.
+     </p>
+     <p>
+      Analysis of mortality rates for the compounds (
+      ) showed that compound 5 had the lowest value of 20% at 20 μM concentration even at day 5 (
+      ).
+     </p>
+     <p>
+      Compounds 1 and 4 were lethal to all larvae on day 4 at the 20 μM concentration. At lower values, the mortality rates were only 20% even at day 5, except for the 2 μM concentration. In that case, none of the animals died up to day 5 post-exposure (
+      ).
+     </p>
+     <p>
+      In summary, morphological deformities were not observed only for compounds 4 and 5 at the 10 μM concentration (
+      ). The trend matched the mortality rates which showed that the concentration was not lethal to more than 20% of the population even at day 5 post-exposure. Compounds 4 and 5 were favored over compound 1 in the animal toxicity studies.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec3-ijms-22-06762" sec-type="discussion">
+    <title>
+     3. Discussion
+    </title>
+    <p>
+     Here we demonstrate new lead compounds based on boron-containing metallacarboranes and active against
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     and
+     <italic>
+      Yersinia spp
+     </italic>
+     . Our results indicate a novel mechanism for drug design that promises to overcome the drug resistance in these pathogens.
+    </p>
+    <p>
+     Widespread use of antibiotics and reliance on selected classes of drugs introduced to lower development costs have led to massive antibiotic resistance in human pathogens. This problem has been known for years but funding was not adequate and approval rates were too long to design new antibiotics before the emergence of massive resistance in the population. The situation is a public health problem for
+     <italic>
+      Pseudomonas aeruginosa
+     </italic>
+     , an ESKAPE-list pathogen. For
+     <italic>
+      Yersinia pestis
+     </italic>
+     , a class A select agent, the situation is not as critical due to the much better isolation procedures and active surveillance of potential outbreaks worldwide. In both cases, however, there is widespread resistance to antibiotics and a lack of commercial vaccines against either pathogen. In the current work, this problem was addressed by testing alternative scaffolds and chemistry as potential starting points to develop novel drugs suitable for these and other pathogens.
+    </p>
+    <p>
+     Metallacarboranes have extraordinary physicochemical properties and thus show encouraging biological activities. Amphiphilic behavior, interaction with proteins including inhibition of therapeutically important enzymes [
+     ,
+     ], low cytotoxicity towards mammalian cells [
+     ], and, finally, promising perspectives for antimicrobial activity [
+     ] make them very promising entities for designing drug candidates.
+    </p>
+    <p>
+     In the current work, we showed that a random screening of metallacarborane derivatives against two human pathogens,
+     <italic>
+      Y. enterocolitica
+     </italic>
+     as a substitute for
+     <italic>
+      Y. pestis
+     </italic>
+     , and
+     <italic>
+      P. aeruginosa
+     </italic>
+     , a member of the ESKAPE group, yielded compounds with biological activity against the former (
+     ) and the latter (
+     ). Expansion of testing against different strains of the two pathogens (
+     ) showed a good potency against
+     <italic>
+      Y. enterocolitica
+     </italic>
+     with IC
+     <sub>
+      50
+     </sub>
+     values below 10 μM. The same compounds had approximately 5–10× higher IC
+     <sub>
+      50
+     </sub>
+     values against
+     <italic>
+      P. aeruginosa
+     </italic>
+     , and the most biologically active compounds had a preference for short substitutions. At this stage, we do not have a good explanation for the preferences in substitutions or the overall lower biological activity of compounds against
+     <italic>
+      P. aeruginosa
+     </italic>
+     versus
+     <italic>
+      Y. enterocolitica
+     </italic>
+     .
+    </p>
+    <p>
+     Analysis of the literature for structures close to our compounds showed some similar metallacarborane scaffolds. Compound 1, also known as I
+     <sub>
+      2
+     </sub>
+     -COSAN, was shown as a good antibacterial agent against
+     <italic>
+      K. pneumoniae
+     </italic>
+     and
+     <italic>
+      E. coli
+     </italic>
+     [
+     ]. The reported values of ED
+     <sub>
+      50
+     </sub>
+     were at least twice and ten times as high as our reported values for
+     <italic>
+      P. aeruginosa
+     </italic>
+     and
+     <italic>
+      Y. enterocolitica
+     </italic>
+     , respectively (
+     ).
+    </p>
+    <p>
+     The literature search also identified 8-ethoxy-8′-iodo derivative of cobalt bis(1,2-dicarbollide), compound K121 [
+     ], as an analog of compound 2. The other compound was shown to have excellent antibacterial and antibiofilm formation properties against methicillin-resistant
+     <italic>
+      S. aureus
+     </italic>
+     (MRSA) [
+     ].
+    </p>
+    <p>
+     <italic>
+      N
+     </italic>
+     -linked derivatives of COSAN were tested against
+     <italic>
+      P. aeruginosa
+     </italic>
+     [
+     ]. The closest analog in our work was compound 7 (
+     ). The IC
+     <sub>
+      50
+     </sub>
+     values were about half the reported MIC
+     <sub>
+      80
+     </sub>
+     values (Table 1 in [
+     ]).
+    </p>
+    <p>
+     The introduction of longer chains connecting nucleophiles to the metallacarborane core was tested by another group [
+     ]. The compounds differed from our derivatives by the lack of iodine attached to the metallacarborane cage. In their work, the compounds showed MIC
+     <sub>
+      80
+     </sub>
+     values at least 2× higher than our values of IC
+     <sub>
+      50
+     </sub>
+     measured against
+     <italic>
+      P. aeruginosa
+     </italic>
+     (
+     ). However, the other compounds were very effective against different fungi.
+    </p>
+    <p>
+     There have not been any reports showing the generation of resistance against metallacarborane derivatives. This phenomenon is very intriguing as conjugation with boron clusters is the basis of upcoming anticancer neutron therapy, and the generation of resistance would call into question many aspects of the strategy. Therefore, we tried to artificially generate resistance against three compounds: 1, 7, and 3 (
+     ). Surprisingly, only resistance to the
+     <italic>
+      N
+     </italic>
+     -substituted metallacarborane 7 could not be generated despite different starting points. The explanation may be the
+     <italic>
+      N
+     </italic>
+     -linkage in compound 7 as opposed to compound 1. However, it would not explain the ability to generate resistance to compound 1, which was the starting core.
+    </p>
+    <p>
+     The generation of resistance to metallacarboranes in our work is in strong contrast to the work by Zheng et al. [
+     ]. In their work, the K121 metallacarborane was not able to generate resistance in MRSA after 20 passages. This difference may be attributed to a different mechanism of action, discussed later, and/or the selected pathogens and compounds used.
+    </p>
+    <p>
+     Metallacarboranes are man-made, extremely stable, caged structures; there are no reports in the literature showing biological degradation of this class of compounds. Removal of them was not shown, either, possibly due to the different recognition mechanisms by existing efflux systems. The compounds could potentially become the next generation of drugs if they had the proper characteristics.
+    </p>
+    <p>
+     To help us study the potential mechanism of biological activity, the drug-resistant pathogens were examined under SEM (
+     ). Compound 1 simply blocked bacterial growth very efficiently and may have a bactericidal effect. Exposure to compounds 3 and 7 did not create visible cellular damage or changes in morphology in the drug-resistant variants. The mechanism of biological activity is most likely related to the blockage of bacterial cell division for compounds 3 and 7, with compound 1 most likely being bactericidal at the tested 200 μM concentration.
+    </p>
+    <p>
+     Work by Zheng et al. [
+     ] showed that a metallacarborane K121, similar to our compound 2, most likely damaged bacterial membranes in
+     <italic>
+      S. aureus
+     </italic>
+     by the production of reactive oxygen species (ROS), a mechanism suggested for many nanoparticles [
+     ,
+     ,
+     ]. In our study, the membranes of bacteria seemed to be intact as observed under SEM (
+     ). This difference may be attributed to structural differences between the tested compounds and/or different strains of pathogens used in the studies.
+    </p>
+    <p>
+     Assessment of toxicity for compounds was performed against two mammalian cell lines, the human non-tumorogenic lung epithelial MCF 10A cells, and mouse fibroblasts BALB/3T3. In both cases, the
+     <italic>
+      O
+     </italic>
+     -linked metallacarboranes showed lower toxicity than the
+     <italic>
+      N
+     </italic>
+     -linked ones. This trend may be caused by charge neutralization in
+     <italic>
+      N
+     </italic>
+     -linked compounds, as opposed to the negative charge in
+     <italic>
+      O
+     </italic>
+     -linked compounds.
+    </p>
+    <p>
+     Additional testing against zebrafish larvae was performed for compounds 1, 4, and 5 as the most promising candidates. At lower concentrations, all compounds were relatively safe for the larvae judging by the appearance of developmental deformities. However, at higher concentrations, it was clear that compounds 4 and 5 were superior to core compound 1 (
+     ). This trend was confirmed by looking at the mortality rates (
+     ).
+    </p>
+    <p>
+     Analysis of the available literature did not show the generation of resistance to metallacarboranes. In our studies, we showed that resistance can be generated to the core and
+     <italic>
+      O
+     </italic>
+     -linked compounds but not to the
+     <italic>
+      N
+     </italic>
+     -linked ones. The implication of this finding may have far-reaching consequences in cancer treatment where boron compounds are used to enhance the killing potential in neutron therapy. In the development of antibacterial compounds, this finding may form a basis for a novel antibacterial strategy where using
+     <italic>
+      N
+     </italic>
+     -linked metallacarboranes, as opposed to
+     <italic>
+      O
+     </italic>
+     -linked ones, is the key to avoiding future drug resistance.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec id="sec4-ijms-22-06762">
+    <title>
+     4. Materials and Methods
+    </title>
+    <sec id="sec4dot1-ijms-22-06762">
+     <title>
+      4.1. Bacterial Strains and Media
+     </title>
+     <p>
+      Bacterial strains of
+      <italic>
+       Yersinia enterocolitica
+      </italic>
+      (PCM#2090, PCM#2080) were obtained from the Polish Collection of Microorganisms at the L. Hirszfeld Institute of Immunology and Experimental Therapy of Polish Academy of Science, Wroclaw, Poland. The
+      <italic>
+       Pseudomonas aeruginosa
+      </italic>
+      strain (PCM#2058) has a functional T3SS and was described previously [
+      ]. Bacterial growth media (Luria-Bertani with agar) were prepared in-house using publicly available procedures. The blood agar plates were also prepared in-house using sheep blood and widely available procedures.
+     </p>
+    </sec>
+    <sec id="sec4dot2-ijms-22-06762">
+     <title>
+      4.2. Cell Culture
+     </title>
+     <p>
+      BALB/3T3 (normal murine fibroblasts) and MCF 10A (human, non-tumorigenic mammary gland epithelial cells) were obtained from the American Type Culture Collection (ATCC; Rockville, Maryland, USA). The BALB/3T3 cell line was cultured in high glucose DMEM (Thermo Fisher Scientific) supplemented with 10% (
+      <italic>
+       v
+      </italic>
+      /
+      <italic>
+       v
+      </italic>
+      ) fetal bovine serum (FBS) and 2 mM L-glutamine (Sigma-Aldrich). The MCF 10A cell line was cultured in Ham’s F12 medium with glutamine (Corning Costar) supplemented with 5% (
+      <italic>
+       v
+      </italic>
+      /
+      <italic>
+       v
+      </italic>
+      ) FBS, 5% (
+      <italic>
+       v
+      </italic>
+      /
+      <italic>
+       v
+      </italic>
+      ) horse serum, 10 µg/mL insulin, 0.05 µg/mL cholera toxin, 0.5 µg/mL hydrocortisone, and 20 ng/mL hEGF (all from Sigma-Aldrich). All culture media contained 100 µg/mL streptomycin (Sigma-Aldrich) and 100 U/mL penicillin (Polfa Tarchomin SA, Warszawa, Poland). The cells were grown at 37 °C in a humid atmosphere saturated with 5% CO
+      <sub>
+       2
+      </sub>
+      .
+     </p>
+    </sec>
+    <sec id="sec4dot3-ijms-22-06762">
+     <title>
+      4.3. Antiproliferative Assay
+     </title>
+     <p>
+      Compounds’ antiproliferative activity was assessed utilizing the sulforhodamine B (SRB) assay [
+      ] with minor modifications. Briefly, cells were seeded in 384-well plates (Greiner) at a density of 2 × 10
+      cells/well, and after overnight incubation, the cells were exposed to compounds at a minimum of eight concentrations). After 72 h, the plates were fixed with 20% (
+      <italic>
+       v
+      </italic>
+      /
+      <italic>
+       v
+      </italic>
+      ) TCA (Sigma-Aldrich), washed with tap water, and the precipitated proteins were labeled with 0.1% (
+      <italic>
+       w
+      </italic>
+      /
+      <italic>
+       v
+      </italic>
+      ) SRB (Sigma-Aldrich) solution in 1% (
+      <italic>
+       v
+      </italic>
+      /
+      <italic>
+       v
+      </italic>
+      ) AcOH. Next, the plates were washed with 1% (
+      <italic>
+       v
+      </italic>
+      /
+      <italic>
+       v
+      </italic>
+      ) AcOH, and the remaining SRB dye was solubilized with 10 mM unbuffered TRIS (Sigma-Aldrich) solution. The entire procedure was performed using a semi-automatic washing station Biotek EL406 (BioTek Instruments, VT, USA). The absorbance was measured at 540 nm using a Biotek Hybrid H4 reader (BioTek Instruments, VT, USA). Mean proliferation inhibition was calculated for each compounds’ concentrations based on crude absorbance utilizing formula: %Inh = 100 − ((MeanAbsX − MeanAbsBLK)/(MeanAbsCTRL − MeanAbs-BLK)) × 100, where MeanAbsX is mean absorbance in compound/concentration-treated wells; MeanAbsCTRL is mean absorbance in vehicle-treated wells; and MeanAbsBLK is mean absorbance in cell-free wells. The results are expressed as the IC
+      <sub>
+       50
+      </sub>
+      (compound concentration that reduced cell growth by 50%) calculated in GraphPad Prism 7.04 (GraphPad Software Inc., La Jolla, CA, USA) using the log(inhibitor_conc) vs. response (variable slope; four parameters) function.
+     </p>
+    </sec>
+    <sec id="sec4dot4-ijms-22-06762">
+     <title>
+      4.4.
+      <italic>
+       Danio rerio
+      </italic>
+      Toxicity Assay
+     </title>
+     <p>
+      To determine acute toxicity of examined compounds modified Fish Embryo Toxicity (FET) test was performed of zebrafish (
+      <italic>
+       Danio rerio
+      </italic>
+      ) according to OECD Test Guideline 236. Briefly, the collected embryos were transferred to a Petri dish with E3 medium (5 mM NaCl, 0.33 mM MgCl
+      <sub>
+       2
+      </sub>
+      , 0.33 mM CaCl
+      <sub>
+       2
+      </sub>
+      , 0.17 mM KCl; pH 7.2) and then placed in 24-well plates, 5 embryos per well, 10 per group. Stock solutions of boron cluster compounds were prepared in DMSO. In these experiments, three series of solutions with different concentrations were employed, which were freshly prepared by dissolving stock solutions in the E3 solution each time directly before addition to the wells. The solutions were changed once daily and the embryos were maintained in the incubator at 28.5 °C. Zebrafish embryos were evaluated for developmental abnormalities and viability at 24 h intervals for up to 5 days using a stereomicroscope (Zeiss Axio Vert, ZEISS, Germany). Morphological deformities of the heart, dorsal string, and tail development were measured and compared with the control embryos. Image analysis was performed to determine the percentage of dead and malformed embryos over time using Zeiss software. The experiment was performed in triplicate. Fish were taken from own fish facility of The Centre of Experimental Medicine, Medical University of Lublin. For the experiment AB OMD strain was used.
+     </p>
+    </sec>
+    <sec id="sec4dot5-ijms-22-06762">
+     <title>
+      4.5. Chemical Reagents and Common Supplies
+     </title>
+     <p>
+      Cesium [3,3′-cobalt bis(1,2-dicarbollide)], Cs[COSAN] was purchased from Katchem (Prague, Czech Republic). DMSO (molecular biology grade, 99.9%+ purity) was purchased from Sigma-Aldrich (Sigma-Aldrich Sp. z o.o., Poznan, Poland). Premixed components for LB broth preparation were purchased either from Sigma-Aldrich (Sigma-Aldrich Sp. z o.o., Poznan, Poland) or from BioMaxima (BioMaxima SA, Lublin, Poland). Ninety-six-well sterile flat-bottom BioLite plates were purchased from Thermo Fisher Scientific (Thermo Fisher Scientific Polska Sp. z o.o., Warsaw, Poland). Solution basins and pipette tips were purchased from Sigma-Aldrich (Sigma-Aldrich Sp. z o.o., Poznan, Poland) and/or VWR (VWR International Sp. z o.o., Gdansk, Poland). Adhesive optically clear plate sealers were purchased from Sigma-Aldrich (Sigma-Aldrich Sp. z o.o., Poznan, Poland) and later from Thermo Fisher Scientific (Thermo Fisher Scientific Polska Sp. z o.o., Warszawa, Poland).
+     </p>
+    </sec>
+    <sec id="sec4dot6-ijms-22-06762">
+     <title>
+      4.6. LC-MS Measurements
+     </title>
+     <p>
+      HPLC analyses were carried using the Ultimate 3000 RS HPLC system (Dionex, Sunnyvale, CA, USA) equipped with a DAD detector. High-resolution mass spectrometry experiments were carried out on a MicrOTOF-Q II spectrometer (Bruker Daltonic, Bremen, Germany) equipped with an electrospray ion source. The instrument was operated in the negative-ion mode and calibrated with a sodium formate solution (10 mM). The spectra were recorded using an acetonitrile/water mixture (80:20;
+      <italic>
+       v
+      </italic>
+      /
+      <italic>
+       v
+      </italic>
+      ) containing 0.1% HCOOH.
+     </p>
+    </sec>
+    <sec id="sec4dot7-ijms-22-06762">
+     <title>
+      4.7. NMR Spectroscopy
+     </title>
+     <p>
+      The
+      H NMR,
+      C{
+      H} NMR, and
+      B{
+      H} NMR spectra were recorded on a 400 MHz Jeol ECZ 400S spectrometer in acetone-d
+      <sub>
+       6
+      </sub>
+      (Sigma-Aldrich catalog number 151793) as a solvent in Wilmad quartz NMR tubes (Sigma-Aldrich catalog number Z562262) at 400 MHz, 100 MHz, and 128 MHz, respectively. Additionally, in selected cases DEPT135 and HMQC spectra were measured on the same spectrometer. Chemical shifts (δ) were expressed in parts per million (ppm), while multiplicity was reported as follows: s = singlet, d = doublet, t = triplet, q = quartet, quint = quintet, sext = sextet, hept = heptet, nonet = nonet, m = multiplet (complex pattern), br = broad. For clarity, the set of broad multiplets of BH protons at approximately 1–4 ppm was omitted in the
+      H NMR description.
+     </p>
+    </sec>
+    <sec id="sec4dot8-ijms-22-06762">
+     <title>
+      4.8. Chemical Synthesis
+     </title>
+     <p>
+      <bold>
+       Synthesis of Cs[8-I-3,3′-Co(1,2-C
+       <sub>
+        2
+       </sub>
+       B
+       <sub>
+        9
+       </sub>
+       H
+       <sub>
+        10
+       </sub>
+       )(1′,2′-C
+       <sub>
+        2
+       </sub>
+       B
+       <sub>
+        9
+       </sub>
+       H
+       <sub>
+        11
+       </sub>
+       )] (Substrate-A)
+      </bold>
+      was performed according to literature methods [
+      ] without any modification. Yield 86%.
+     </p>
+     <p>
+      <bold>
+       Synthesis of [8,8′-µ-I-3,3′-Co(1,2-C
+       <sub>
+        2
+       </sub>
+       B
+       <sub>
+        9
+       </sub>
+       H
+       <sub>
+        10
+       </sub>
+       )
+       <sub>
+        2
+       </sub>
+       ] (Substrate-B)
+      </bold>
+      was performed using the modification of previously described methods [
+      ,
+      ]. Briefly, AlCl
+      <sub>
+       3
+      </sub>
+      (206 mg, 1.54 mmol, Sigma-Aldrich catalog number 294713) was added to a suspension of Cs[8-I-3,3′-Co(1,2-C
+      <sub>
+       2
+      </sub>
+      B
+      <sub>
+       9
+      </sub>
+      H
+      <sub>
+       10
+      </sub>
+      )(1′,2′-C
+      <sub>
+       2
+      </sub>
+      B
+      <sub>
+       9
+      </sub>
+      H
+      <sub>
+       11
+      </sub>
+      )] (Substrate-A): (300 mg, 0.515 mmol) in anhydrous toluene (70 mL) and was stirred for 20 h at room temperature under argon atmosphere. Then, the insoluble residue was filtered off and the filtrate was mixed with 0.4 g of silica gel for 5 min. The resulting solution was filtered and the solvent was evaporated. The red solid obtained was dried under vacuum for 24 h to give 220 mg (95%).
+     </p>
+     <p>
+      <bold>
+       Synthesis of Cs[8,8′-I
+       <sub>
+        2
+       </sub>
+       -3,3′-Co(1,2-C
+       <sub>
+        2
+       </sub>
+       B
+       <sub>
+        9
+       </sub>
+       H
+       <sub>
+        10
+       </sub>
+       )
+       <sub>
+        2
+       </sub>
+       ] (1):
+      </bold>
+      according to literature methods [
+      ] without any modification. Yield 80%.
+      H NMR (400 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 4.38 (br s, 4 × BCH, 4H);
+      B{
+      H} NMR (128 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 1.86 (br s, 2B), −4.38 (br s, 8B), −6.34 (br s, 2B), −18.03 (br s, 4B), −23.56 (br s, 2B);
+      C{
+      H} NMR (100MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 60.17 (br s, 4 × B
+      <underline>
+       C
+      </underline>
+      H). All spectra are in good agreement with literature data [
+      ,
+      ]. HPLC purity 98.8%, ESI-MS, [M]
+      m/z (calcd/found) 576.0768/576.0781.
+     </p>
+     <p>
+      <bold>
+       General Method of Preparation of compounds 2–5
+      </bold>
+      : approximately 100 mg of Substrate-B was dissolved in 10 mL of selected alcohol. The reaction mixture was left to stand for 20 h at room temperature (or in an oven thermostated at 40 °C, as indicated) under an argon atmosphere. The solvent was evaporated and a yellow solid was dried under vacuum. The crude product was dissolved in 8 mL of acetone and 300 mg CsCl in water (8 mL) was added. The resulting mixture was concentrated until the precipitation of an orange solid. This was filtered off (or centrifuged), washed with 3 mL of cold water and petroleum ether, and dried under a vacuum.
+     </p>
+     <p>
+      <bold>
+       Synthesis of Cs[8-O-
+       <italic>
+        n
+       </italic>
+       -Bu-8′-I-3,3′-Co(1,2-C
+       <sub>
+        2
+       </sub>
+       B
+       <sub>
+        9
+       </sub>
+       H
+       <sub>
+        10
+       </sub>
+       )
+       <sub>
+        2
+       </sub>
+       ] (2):
+      </bold>
+      127 mg (0.28 mmol) of Substrate-B was dissolved in 10 mL anhydrous
+      <italic>
+       n
+      </italic>
+      -butanol (Sigma-Aldrich catalog number 281549). The reaction mixture was left to stand for 20 h at room temperature. Yield: 113 mg (61%).
+      H NMR (400 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 0.84 (t, CH
+      <sub>
+       3
+      </sub>
+      , 3H,
+      <italic>
+       J
+      </italic>
+      = 7.6 Hz), 1.27 (sext, CH
+      <sub>
+       3
+      </sub>
+      <underline>
+       CH
+       <sub>
+        2
+       </sub>
+      </underline>
+      , 2H,
+      <italic>
+       J
+      </italic>
+      = 7.6 Hz), 1.39 (quint, CH
+      <sub>
+       3
+      </sub>
+      CH
+      <sub>
+       2
+      </sub>
+      <underline>
+       CH
+       <sub>
+        2
+       </sub>
+      </underline>
+      , 2H,
+      <italic>
+       J
+      </italic>
+      = 7.4 Hz), 3.36 (br t, CH
+      <sub>
+       2
+      </sub>
+      O, 2H,
+      <italic>
+       J
+      </italic>
+      = 6.2 Hz); 4.18 (br s, 2 × BCH, 2H), 4.33 (br s, 2 × BCH, 2H);
+      B{
+      H} NMR (128 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 20.84 (br s, 1B), −1.50 (br s, 2B), −5.66 (br s, 2B), −6.66 (br s, 4B), −8.14 (br s, 3B), −18.93 (br s, 2B), −20.86 (br s, 2B), −24.34 (br s, 1B), −28.32 (s, 1B);
+      C{
+      H} NMR (100 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 13.34, 19.17, 33.96, 54.46 (br s, 2 × B
+      <underline>
+       C
+      </underline>
+      H), 56.45 (br s, 2 × B
+      <underline>
+       C
+      </underline>
+      H), 68.48. All spectra are in good agreement with literature data [
+      ]. HPLC purity 95.3%, ESI-MS, [M]
+      m/z (calcd/found) 522.2379/522.2395.
+     </p>
+     <p>
+      <bold>
+       Synthesis of Cs[8-O-
+       <italic>
+        iso
+       </italic>
+       -Bu-8′-I-3,3′-Co(1,2-C
+       <sub>
+        2
+       </sub>
+       B
+       <sub>
+        9
+       </sub>
+       H
+       <sub>
+        10
+       </sub>
+       )
+       <sub>
+        2
+       </sub>
+       ] (3):
+      </bold>
+      130 mg (0.29 mmol) of Substrate-B was dissolved in 10 mL anhydrous
+      <italic>
+       iso
+      </italic>
+      -buthanol (Sigma-Aldrich catalog number 294829). The reaction mixture was left to stand for 20 h at room temperature. Yield: 109 mg (57.5%).
+      H NMR (400 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 0.78 (d, 2 × CH
+      <sub>
+       3
+      </sub>
+      , 6H,
+      <italic>
+       J
+      </italic>
+      = 6.8 Hz), 1.64 (nonet, CH, 1H,
+      <italic>
+       J
+      </italic>
+      = 6.8 Hz), 3.12 (d, CH
+      <sub>
+       2
+      </sub>
+      O, 2H,
+      <italic>
+       J
+      </italic>
+      = 6.4 Hz); 4.18 (br s, 2 × BCH, 2H), 4.37 (br s, 2 × BCH, 2H)
+      B{
+      H} NMR (128 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 20.75 (br s, 1B), −1.53 (br s, 2B), −5.63 (br s, 2B), −6.69 (br s, 4B), −8.25 (br s, 3B), −18.93 (br s, 2B), −20.84 (br s, 2B), −24.20 (br s, 1B), −28.43 (br s, 1B);
+      C{
+      H} NMR (100MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 18.82, 30.19, 54.35 (br s, 2 × B
+      <underline>
+       C
+      </underline>
+      H), 56.47 (br s, 2 × B
+      <underline>
+       C
+      </underline>
+      H), 75.72. Note: on the
+      H NMR spectrum additional signals of residual starting
+      <italic>
+       iso
+      </italic>
+      -butanol are present at 0.83 ppm and 3.26 ppm. The position of mentioned signals is in good agreement with literature data [
+      ]. HPLC purity 95.0%, ESI-MS, [M]
+      m/z (calcd/found) 522.2379/522.2370.
+     </p>
+     <p>
+      <bold>
+       Synthesis of Cs[8-O-CHEt
+       <sub>
+        2
+       </sub>
+       -8′-I-3,3′-Co(1,2-C
+       <sub>
+        2
+       </sub>
+       B
+       <sub>
+        9
+       </sub>
+       H
+       <sub>
+        10
+       </sub>
+       )
+       <sub>
+        2
+       </sub>
+       ] (4):
+      </bold>
+      103 mg (0.23 mmol) of Substrate-B was dissolved in 10 mL anhydrous 3-pentanol (Sigma-Aldrich catalog number P8025). The reaction mixture was left to stand for 20 h at 40 °C. Yield: 118 mg (77%).
+      H NMR (400 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 0.76 (t, 2 × CH
+      <sub>
+       3
+      </sub>
+      , 6H,
+      <italic>
+       J
+      </italic>
+      = 7.6 Hz), 1.34 (br m, 2 × CH
+      <sub>
+       3
+      </sub>
+      <underline>
+       CH
+       <sub>
+        2
+       </sub>
+      </underline>
+      , 4H), 3.23 (br m, CHO, 1H,), 4.14 (br s, 2 × BCH, 2H), 4.36 (br s, 2 × BCH, 2H);
+      B{
+      H} NMR (128 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 20.61 (br s, 1B), −1.46 (br s, 1B), −2.25 (br s, 1B), −6.69 (br s, 6B), −8.32 (br s, 3B), −18.91 (br s, 2B), −20.63 (br s, 2B), −24.79 (br s, 1B), −28.75 (br s, 1B);
+      C{
+      H} NMR (100 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 9.14, 27.63, 55.13 (br s, 2 × B
+      <underline>
+       C
+      </underline>
+      H), 55.94 (br s, 2 × B
+      <underline>
+       C
+      </underline>
+      H), 79.31. HPLC purity 96.8%, ESI-MS, [M]
+      m/z (calcd/found) 536.2537/536.2538.
+     </p>
+     <p>
+      <bold>
+       Synthesis of Cs[8-O-
+       <italic>
+        cyclo
+       </italic>
+       -C
+       <sub>
+        6
+       </sub>
+       H
+       <sub>
+        11
+       </sub>
+       -8′-I-3,3′-Co(1,2-C
+       <sub>
+        2
+       </sub>
+       B
+       <sub>
+        9
+       </sub>
+       H
+       <sub>
+        10
+       </sub>
+       )
+       <sub>
+        2
+       </sub>
+       ] (5):
+      </bold>
+      98 mg (0.22 mmol) of Substrate-B was dissolved in 10 mL anhydrous cyclohexanol (Sigma-Aldrich catalog number 105899). The reaction mixture was left to stand for 20 h at 40 °C. Yield: 119 mg (80%).
+      H NMR (400 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 1.10–1.27 (m, CH
+      <sub>
+       2
+      </sub>
+      , 6H), 1.38 (m, CH
+      <sub>
+       2
+      </sub>
+      , 1H), 1.5–1.7 (m, CH
+      <sub>
+       2
+      </sub>
+      , 3H),~3.30 (br m, CHO, 1H)*, 4.17 (br s, 2 × BCH, 2H), 4.35 (br s, 2 × BCH, 2H);
+      B{
+      H} NMR (128 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 20.60 (br s, 1B), −1.68 (br s, 2B), −5.64 (br s, 2B), −6.68 (br s, 4B), −8.00 (br s, 3B), −18.95 (br s, 2B), −20.87 (br s, 2B), −24.46 (br s, 1B), −28.68 (br s, 1B);
+      C{
+      H} NMR (100 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 23.58, 25.74, 34.19, 55.12 (br s, 2 × B
+      <underline>
+       C
+      </underline>
+      H), 56.16 (br s, 2 × B
+      <underline>
+       C
+      </underline>
+      H), 75.14. Due to total overlap of the CH-O signal with signals of BH protons, its integration on the
+      H NMR spectrum is overestimated. Its presence/position was confirmed by HMQC spectrum. HPLC purity 96.2%, ESI-MS, [M]
+      m/z (calcd/found) 548.2537/548.2524.
+     </p>
+     <p>
+      <bold>
+       General Method of Preparation of compounds 6–9:
+      </bold>
+      the selected amines were added to an approximately 100 mg suspension of Substrate-B in anhydrous cyclohexane (20 mL). The reaction mixture was stirred for 20–48 h at room temperature (or in an oven thermostated at 40 °C, as indicated) under an argon atmosphere. The desired compounds precipitated out of the reaction mixture as yellow solids. Then, the mixture was filtered and the solid was washed with cyclohexane and petroleum ether and dried under a vacuum.
+     </p>
+     <p>
+      <bold>
+       Synthesis of [8-NH
+       <sub>
+        2
+       </sub>
+       -
+       <italic>
+        n
+       </italic>
+       -Bu-8′-I-3,3′-Co(1,2-C
+       <sub>
+        2
+       </sub>
+       B
+       <sub>
+        9
+       </sub>
+       H
+       <sub>
+        10
+       </sub>
+       )
+       <sub>
+        2
+       </sub>
+       ] (6):
+      </bold>
+      200 µL (2 mmol) of
+      <italic>
+       n
+      </italic>
+      -butylamine (Sigma-Aldrich catalog number 471305) was added to a 130 mg (0.29 mmol) suspension of Substrate-B in anhydrous cyclohexane (20 mL). The reaction mixture was stirred for 20 h at room temperature. The precipitated yellow product was filtered, washed with cyclohexane and petroleum ether, and dried under a vacuum. Yield: 128 mg, (84%).
+      H NMR (400 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 0.92 (t, CH
+      <sub>
+       3
+      </sub>
+      , 3H,
+      <italic>
+       J
+      </italic>
+      = 7.2 Hz), 1.43 (sext, CH
+      <sub>
+       3
+      </sub>
+      <underline>
+       CH
+       <sub>
+        2
+       </sub>
+      </underline>
+      , 2H,
+      <italic>
+       J
+      </italic>
+      = 7.2 Hz), 1.79 (m, CH
+      <sub>
+       3
+      </sub>
+      CH
+      <sub>
+       2
+      </sub>
+      <underline>
+       CH
+       <sub>
+        2
+       </sub>
+      </underline>
+      , 2H); 3.02 (br t, CH
+      <sub>
+       2
+      </sub>
+      N, 2H,
+      <italic>
+       J
+      </italic>
+      = 7.8 Hz), 4.42 (br s, 2 × BCH, 2H), 4.58 (br s, 2 × BCH, 2H), 6.80 (br s, 2H, NH
+      <sub>
+       2
+      </sub>
+      );
+      B{
+      H} NMR (128 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 11.59 (br s, 1B), 2.10 (br s, 1B), −0.34 (br s, 1B), −2.43 (br s, 2B), −3.64 (br s, 1B), −4.75 (br s, 2B), −5.86 (br s, 2B), −7.74 (br s, 2B), −16.82 (br s, 2B), −17.75 (br s, 2B), −23.58 (br s, 2B);
+      C{
+      H} NMR (100 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 13.12, 19.71, 30.30, 49.46, 52.79 (br s, two overlapped signal all B
+      <underline>
+       C
+      </underline>
+      H carbons). HPLC purity 99.1%, ESI-MS, [M]
+      m/z (calcd/found) 521.2539/521.2543.
+     </p>
+     <p>
+      <bold>
+       Synthesis of [8-NH
+       <sub>
+        2
+       </sub>
+       -
+       <italic>
+        iso
+       </italic>
+       -Bu-8′-I-3,3′-Co(1,2-C
+       <sub>
+        2
+       </sub>
+       B
+       <sub>
+        9
+       </sub>
+       H
+       <sub>
+        10
+       </sub>
+       )
+       <sub>
+        2
+       </sub>
+       ] (7):
+      </bold>
+      100 µL (1 mmol) of
+      <italic>
+       iso
+      </italic>
+      -butylamine (Sigma-Aldrich catalog number I14150) was added to a 135 mg (0.30 mmol) suspension of Substrate-B in anhydrous cyclohexane (20 mL). The reaction mixture was stirred for 20 h in an oven thermostated at 40 °C. The precipitated yellow product was filtered, washed with cyclohexane and petroleum ether, and dried under a vacuum. Yield: 146 mg, (93%).
+      H NMR (400 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 1.07 (d, 2 × CH
+      <sub>
+       3
+      </sub>
+      , 6H,
+      <italic>
+       J
+      </italic>
+      = 6.8 Hz), 2.15 (nonet, (CH
+      <sub>
+       3
+      </sub>
+      )
+      <sub>
+       2
+      </sub>
+      <underline>
+       CH
+      </underline>
+      , 1H,
+      <italic>
+       J
+      </italic>
+      = 7.2 Hz), 2.95 (m, CH
+      <sub>
+       2
+      </sub>
+      N, 2H), 4.43 (br s, 2 × BCH, 2H), 4.58 (s, 2 × BCH, 2H), 6.71 (br s, 2H, NH
+      <sub>
+       2
+      </sub>
+      );
+      B{
+      H} NMR (128 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 11.58 (br s, 1B), 2.13 (br s, 1B), −0.58 (br s, 1B), −2.34 (br s, 2B), −3.76 (br s, 1B), −4.72 (br s, 2B), −5.88 (br s, 2B), −7.58 (br s, 2B), −16.78 (br s, 2B), −17.70 (br s, 2B), −23.67 (br s, 2B);
+      C{
+      H} NMR (100 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 19.80, 27.76, 52.69 (br s, 2 × B
+      <underline>
+       C
+      </underline>
+      H), 52.82 (br s, 2 × B
+      <underline>
+       C
+      </underline>
+      H), 56.60. HPLC purity 96.6%, ESI-MS, [M]
+      m/z (calcd/found) 521.2539/521.2516.
+     </p>
+     <p>
+      <bold>
+       Synthesis of [8-NH
+       <sub>
+        2
+       </sub>
+       -CHEt
+       <sub>
+        2
+       </sub>
+       -8′-I-3,3′-Co(1,2-C
+       <sub>
+        2
+       </sub>
+       B
+       <sub>
+        9
+       </sub>
+       H
+       <sub>
+        10
+       </sub>
+       )
+       <sub>
+        2
+       </sub>
+       ] (8
+      </bold>
+      )
+      <bold>
+       :
+      </bold>
+      200 µL (1.7 mmol) of 3-aminopentane (Acros catalog number 183700250) was added to a 110 mg (0.25 mmol) suspension of Substrate-B in anhydrous cyclohexane (20 mL). The reaction mixture was stirred for 48 h at room temperature. The precipitated yellow product was filtered, washed with cyclohexane and petroleum ether, and dried under a vacuum. Yield: 121 mg, (92%).
+      H NMR (400 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 0.99 (t, 2 × CH
+      <sub>
+       3
+      </sub>
+      , 6H,
+      <italic>
+       J
+      </italic>
+      = 7.6 Hz), 1.86 (m, 2 × CH
+      <sub>
+       3
+      </sub>
+      <underline>
+       CH
+       <sub>
+        2
+       </sub>
+      </underline>
+      , 4H), 3.07 (br m, CHN, 1H,), 4.49 (br s, 2 × BCH, 2H), 4.65 (s, 2 × BCH, 2H), 6.19 (br s, 2H, NH
+      <sub>
+       2
+      </sub>
+      );
+      B{
+      H} NMR (128 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 11.21 (br s, 1B), 2.21 (br s, 1B), −0.18 (br s, 1B), −2.56 (br s, 2B), −3.98 (br s, 1B), −4.74 (br s, 2B), −5.56 (br s, 2B), −7.74 (br s, 2B), −16.73 (br s, 2B), −17.91 (br s, 2B), −23.65 (br s, 2B);
+      C{
+      H} NMR (100 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 9.07, 24.29, 52.64 (br s, 2 × B
+      <underline>
+       C
+      </underline>
+      H), 53.71 (br s, 2 × B
+      <underline>
+       C
+      </underline>
+      H), 63.53. Note: on
+      H NMR and
+      C{
+      H} NMR spectra a peak of residual cyclohexane (reaction solvent) is present at 1.39 ppm and 26.68 ppm, respectively. The position of mentioned signals is in good agreement with literature data [
+      ]. HPLC purity 99.6%, ESI-MS, [M]
+      m/z (calcd/found) 535.2696/535.2691.
+     </p>
+     <p>
+      <bold>
+       Synthesis of [8-NH
+       <sub>
+        2
+       </sub>
+       -
+       <italic>
+        cyclo
+       </italic>
+       -C
+       <sub>
+        6
+       </sub>
+       H
+       <sub>
+        11
+       </sub>
+       -8′-I-3,3′-Co(1,2-C
+       <sub>
+        2
+       </sub>
+       B
+       <sub>
+        9
+       </sub>
+       H
+       <sub>
+        10
+       </sub>
+       )
+       <sub>
+        2
+       </sub>
+       ] (9):
+      </bold>
+      80 µL (0.7 mmol) of cyclohexylamine (Sigma-Aldrich catalog number 240648) was added to a 150 mg (0.33 mmol) suspension of Substrate-B in anhydrous cyclohexane (20 mL). The reaction mixture was stirred for 48 h at room temperature. The precipitated yellow product was filtered, washed with cyclohexane and petroleum ether, and dried under a vacuum. Yield: 144 mg, (78%).
+      H NMR (400 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 1.18 (m, C
+      <underline>
+       H
+      </underline>
+      H, 1H), 1.32 (m, CH
+      <underline>
+       H
+      </underline>
+      + C
+      <underline>
+       H
+      </underline>
+      H, 2H), 1.55 (m, CH
+      <underline>
+       H
+      </underline>
+      +C
+      <underline>
+       H
+      </underline>
+      H, 2H), 1.62 (m, CH
+      <underline>
+       H
+      </underline>
+      , 1H), 1.78 (m, 2 × C
+      <underline>
+       H
+      </underline>
+      H, 2H), 2.30 (m, 2 × CH
+      <underline>
+       H
+      </underline>
+      , 2H), 3.11 (br tt, CHN, 1H, J = 11.2 Hz, J = not resolve), 4.47 (br s, 2 × BCH, 2H), 4.62 (s, 2 × BCH, 2H), 6.41 (br s, 2H, NH
+      <sub>
+       2
+      </sub>
+      );
+      B{
+      H} NMR (128 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 11.23 (br s, 1B), 2.07 (br s, 1B), −0.34 (br s, 1B), −2.62 (br s, 2B), −3.79 (br s, 1B), −4.82 (br s, 2B), −5.65 (br s, 2B), −7.59 (br s, 2B), −16.76 (br s, 2B), −17.82 (br s, 2B), −23.62 (br s, 2B);
+      C{
+      H} NMR (100 MHz, acetone-d
+      <sub>
+       6
+      </sub>
+      ) δ: 24.57, 24.86, 31.77, 52.58 (br s, 2 × B
+      <underline>
+       C
+      </underline>
+      H), 53.80 (br s, 2 × B
+      <underline>
+       C
+      </underline>
+      H), 59.86. Note: as in the case of compound 8, on
+      H NMR and
+      C{
+      H} NMR spectra a peak of residual cyclohexane (reaction solvent) is present at 1.39 ppm and 26.68 ppm, respectively. HPLC purity 98.0%, ESI-MS, [M]
+      m/z (calcd/found) 547.2697/547.2700.
+     </p>
+    </sec>
+    <sec id="sec4dot9-ijms-22-06762">
+     <title>
+      4.9. Library Screening for Bacteria Growth Inhibition
+     </title>
+     <p>
+      A fresh LB agar plate was warmed up to RT for about 30 min and a 200 μL aliquot of 1:100 dilution of a fresh overnight culture of bacterial stock grown in 3 mL of LB medium was spread on the plate. The plate was left to dry under a biological safety cabinet (BSC) for approximately 30 min and a 10 μL aliquot of the compound in PBS at 200 μM concentration was added to the plate. Bacteria with the compound added were left under the BSC for another 30 min to dry before the plates were covered with a lid and put in a 37 °C incubator. The next day, plates were scored visually for bacterial growth inhibition: (a) strong—for a pronounced halo (5–8 mm diameter); (b) weak—for a visible disturbance of uniform bacterial growth at the site of compound application; and (c) no inhibition- for a lack of visible disturbance of bacterial lawn.
+     </p>
+    </sec>
+    <sec id="sec4dot10-ijms-22-06762">
+     <title>
+      4.10. Bacterial Growth Inhibition IC
+      <sub>
+       50
+      </sub>
+      Measurements
+     </title>
+     <p>
+      Bacterial growth inhibition was measured on a Spark 10 M (Tecan, AT) microplate reader as described previously (Swietnicki et al., 2019). Briefly, a bacterial culture in LB medium grown at 37 °C overnight was diluted 1:100 with a fresh medium and aliquoted into a 96-well plate at 98 μL/well with a multichannel pipette. A 2 μL aliquot of compound serially diluted in DMSO was added in triplicates, the plate was covered with a lid or a transparent plate sealer, and incubated at 37 °C for up to 24 h. Bacterial growth was monitored by following an A
+      <sub>
+       600
+      </sub>
+      reading every hour. After the experiment, the data were stored in Excel format, transferred into KaleidaGraph software (Synergy Software, Reading, PA, USA) and the A
+      <sub>
+       600
+      </sub>
+      was plotted versus log [Concentration]. The IC
+      <sub>
+       50
+      </sub>
+      values were determined by fitting the readings at the 8 h time point to a sigmoidal model of inhibition. Each experiment was repeated at least 3 times to verify the values.
+     </p>
+    </sec>
+    <sec id="sec4dot11-ijms-22-06762">
+     <title>
+      4.11. Compound Resistance Evolution
+     </title>
+     <p>
+      The evolution was performed in parallel using blood agar and LB agar plates prepared in-house. Briefly, a 200 μL aliquot of 200 μM compound in PBS was added to a fresh agar plate, spread on the surface, and left to dry in a BSC cabinet for approximately 30 min. After that time, a single colony from an overnight culture on a plate was spread on the surface before the plate was covered with a lid and left at 37 °C to incubate overnight. The procedure was repeated at least nine times for each plate. After the last step, a single colony was selected from a plate and added to a 3 mL aliquot of LB medium. The culture was incubated at 37 °C overnight and used later as a stock for the IC
+      <sub>
+       50
+      </sub>
+      determination of growth inhibition by compounds, as described previously. Dual selection on different plates was necessary in cases where the growth inhibition was too strong to obtain single colonies on LB agar plates. Typically, the colonies showed up on either medium after the third to fourth passage. Until then, the colonies were supplied from bacteria grown on the blood agar plates.
+     </p>
+    </sec>
+    <sec id="sec4dot12-ijms-22-06762">
+     <title>
+      4.12. Scanning Electron Microscopy (SEM)
+     </title>
+     <p>
+      Scanning electron microscopy of
+      <italic>
+       Y. enterocolitica
+      </italic>
+      was performed at a low accelerating voltage of the primary beam without any coating or heavy-metal contrasting of the samples, as described in previous work [
+      ]. Bacteria were applied onto a polished silicon crystal chip and allowed to adhere for 30 min. The samples were fixed with 2.5% glutaraldehyde in 0.1 M cacodylate buffer for 30 min at 4 °C, then washed in water and dehydrated in a series of methanol solutions (25%-50%-75%-100%-100%) in one-hour steps at 4 °C. Samples underwent critical point drying with methanol exchanged for liquid CO
+      <sub>
+       2
+      </sub>
+      in an automatized approach, (CPD300 AUTO, Leica Microsystems, Vienna, Austria) and imaged with a cross-beam scanning electron microscope equipped with a Schottky field-emission cathode (Auriga 60, Carl Zeiss, Oberkochen, Germany) at 0.8 kV accelerating voltage. Thus, the imaging was performed within a mode referred to as the low-voltage, field-emission scanning electron microscopy (LV-FESEM) of nonlabeled, critical point-dried samples.
+     </p>
+    </sec>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>

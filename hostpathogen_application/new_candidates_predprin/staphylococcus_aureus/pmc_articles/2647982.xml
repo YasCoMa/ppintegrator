@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+ <title>
+  None
+ </title>
+ <abstract>
+  <p>
+   <italic>
+    Salmonella
+   </italic>
+   pathogenesis relies upon the delivery of over thirty specialised effector proteins into the host cell via two distinct type III secretion systems. These effectors act in concert to subvert the host cell cytoskeleton, signal transduction pathways, membrane trafficking and pro-inflammatory responses. This allows
+   <italic>
+    Salmonella
+   </italic>
+   to invade non-phagocytic epithelial cells, establish and maintain an intracellular replicative niche and, in some cases, disseminate to cause systemic disease. This review focuses on the actions of the effectors on their host cell targets during each stage of
+   <italic>
+    Salmonella
+   </italic>
+   infection.
+  </p>
+ </abstract>
+ <sentences>
+  <textgroup>
+   <sec sec-type="intro">
+    <title>
+     Introduction
+    </title>
+    <p>
+     <italic>
+      Salmonellae
+     </italic>
+     are enteropathogenic Gram-negative bacteria that infect humans and animals, causing each year
+     <italic>
+      ∼
+     </italic>
+     1.3 billion cases of human disease ranging from diarrhoea to systemic typhoid fever. Following ingestion by the host,
+     <italic>
+      Salmonella
+     </italic>
+     invades the intestinal mucosa via several routes. Bacteria may be taken up by antigen-sampling M cells, be captured in the lumen by CD18-expressing phagocytes that penetrate the epithelial monolayer, or may force their own entry into non-phagocytic enterocytes. Upon internalisation into non-phagocytic cells,
+     <italic>
+      Salmonella
+     </italic>
+     becomes enclosed within an intracellular phagosomal compartment termed the
+     <italic>
+      Salmonella
+     </italic>
+     -containing vacuole (SCV). The maturing SCV traffics towards the Golgi apparatus, undergoing selective interactions with the host endocytic pathway. Once positioned within the perinuclear area, the SCV-enclosed bacteria replicate, a stage characterised by formation of tubulovesicular SCV structures called
+     <italic>
+      Salmonella
+     </italic>
+     -induced filaments (Sifs). Although most
+     <italic>
+      Salmonella
+     </italic>
+     infections remain localised to the intestine, where stimulation of inflammatory responses contributes to diarrhoea, in typhoid disease
+     <italic>
+      Salmonella
+     </italic>
+     survives in intestinal macrophages, disseminating to the liver and spleen via the bloodstream and lymphatic system (     ). This multi stage infection of the host is directed by
+     <italic>
+      Salmonella
+     </italic>
+     -mediated delivery of an array of specialised effector proteins into the eukaryotic host cells via two distinct type III secretion systems (T3SSs), encoded by pathogenicity islands 1 (SPI-1 T3SS) and 2 (SPI-2 T3SS). Additional secretion systems, including the
+     <italic>
+      sci
+     </italic>
+     -encoded (
+     <italic>
+      Salmonella enterica c
+     </italic>
+     entisome 7 genomic
+     <italic>
+      i
+     </italic>
+     sland) type VI secretion system [     ] and the ZirTS pathway [     ], appear to be functional during
+     <italic>
+      Salmonella
+     </italic>
+     infection and have been demonstrated to contribute towards virulence. However, these systems are not currently well characterised compared to the SPI-1 and SPI-2 T3SSs.
+    </p>
+    <p>
+     Over thirty SPI-1 and SPI-2 T3SS effectors have been shown to manipulate a succession of key host cellular functions, including signal transduction, membrane trafficking and pro-inflammatory immune responses (     , see     ). In this review, we will summarise the actions of these effectors on their host cell targets and indicate emerging examples of effector cooperation.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Effector-mediated forced entry into non-phagocytic epithelial cells
+    </title>
+    <p>
+     A subset of delivered SPI-1 effectors (SipA, SipC, SopB, SopD, SopE, SopE2) function to induce membrane deformation and rearrangement of the underlying actin cytoskeleton (‘membrane ruffling’), triggering bacterial internalisation into SCVs.
+    </p>
+    <p>
+     The C-terminus of the SPI-1 T3SS translocon component SipC (SspC) directly nucleates actin assembly leading to rapid filament growth from barbed ends, whereas its N-terminus bundles actin filaments [     ]. Although not necessary for
+     <italic>
+      Salmonella
+     </italic>
+     entry, SipA (SspA) increases invasion efficiency into cultured cells [     ] and enhances
+     <italic>
+      Salmonella
+     </italic>
+     enterocolitis
+     <italic>
+      in vivo
+     </italic>
+     [     ]. SipA promotes actin polymerisation by reducing the critical concentration for actin assembly [     ] and binds to F-actin with high affinity, resulting in mechanical stabilisation of filaments [     ]. SipA potentiates the actin nucleating and bundling activities of SipC [     ] and enhances the activity of the host actin bundling protein T-plastin (fimbrin) [     ]. SipA also prevents binding of the cellular actin depolymerising proteins ADF/cofilin to F-actin and displaces pre-bound ADF/cofilin from F-actin [     ]. The F-actin severing activity of cellular gelsolin was originally reported to be prevented by SipA [     ], but a later study showed that higher concentrations of gelsolin were able to partially sever SipA-F-actin complexes [     ]. In addition, SipA is able to reanneal gelsolin-severed and -capped actin filament fragments [     ].
+    </p>
+    <p>
+     In contrast to SipA and SipC, SopE and SopE2 do not bind actin. They modulate the host actin cytoskeleton indirectly by mimicking cellular guanine exchange factors (GEFs) [     ]. In particular, they catalyse the exchange of bound GDP for GTP to activate host Rho GTPases that stimulate downstream pathways that drive actin cytoskeletal assembly via Arp2/3.
+     <italic>
+      In vitro
+     </italic>
+     , SopE and SopE2 have differing substrate specificities; while SopE activates Rac-1 and Cdc42, SopE2 appears to exhibit specificity for Cdc42 [     ]. SopE-dependent activation of Rac-1 alone appears sufficient for bacterial internalisation [     ].
+    </p>
+    <p>
+     The inositol phosphatase SopB (SigD) dephosphorylates a range of phosphoinositide phosphate and inositol phosphate substrates
+     <italic>
+      in vitro
+     </italic>
+     [     ]. Inhibition of SopB phosphoinositide phosphatase activity attenuates
+     <italic>
+      Salmonella
+     </italic>
+     -induced cytoskeletal reorganisation [     ]. Recent work indicates that SopB-dependent stimulation of the cellular SH3-containing guanine nucleotide exchange factor, SGEF, activates the small GTPase RhoG, which contributes to the actin remodelling that occurs during
+     <italic>
+      Salmonella
+     </italic>
+     entry [     ].
+    </p>
+    <p>
+     SopB-dependent hydrolysis of PI(4,5)P
+     <sub>
+      2
+     </sub>
+     at the ruffling host membrane enhances the subsequent annealing of plasmalemmal invaginations to rapidly enclose bacteria within a sealed phagosome (the SCV) [     ]. In addition, SopB-dependent formation of PI(3)P at the host plasma membrane has been reported to contribute towards the formation of larger, more stable macropinosomes [     ] and has been shown to facilitate bacterial phagocytosis by recruiting the host SNARE protein VAMP8 [     ]. Another effector, SopD, cooperates with SopB to aid membrane fission and macropinosome formation [     ].
+    </p>
+    <p>
+     Following engulfment
+     <italic>
+      Salmonellae
+     </italic>
+     return the host cell cytoskeleton back to its resting state, an event mediated by the N-terminal GTPase activation (GAP) domain of SptP. This stimulates the intrinsic GTPase activities of SopE/SopE2/SopB-activated Cdc42 and Rac-1, causing their downregulation [     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Maturation and trafficking of the
+     <italic>
+      Salmonella
+     </italic>
+     -containing vacuole
+    </title>
+    <p>
+     When SCVs form, they acquire transiently cellular markers associated with the early endocytic pathway, e.g
+     <italic>
+      .
+     </italic>
+     the transferrin receptor (TfnR), early endosomal antigen 1 (EEA1) and several Rab GTPases such as Rab4, Rab5 and Rab11, and SCVs mature in a Rab7-dependent manner [     ]. SCVs may then uncouple from the endocytic pathway, to avoid lysosomal fusion [     ], although recent evidence suggests that late endosome/lysosome (LE/Lys) content is continually delivered to the SCV in a Rab7- and microtubule-dependent manner [     ]. Regardless of whether this LE/Lys interaction occurs, as the SCV matures, early markers are sequentially replaced by late endosome/lysosome markers including Rab7, vacuolar ATPase (v-ATPase) and lysosomal membrane glycoproteins (lpgs) e.g
+     <italic>
+      .
+     </italic>
+     LAMP-1 [     ].
+    </p>
+    <p>
+     SopE and the inositol phosphatase activity of SopB are required for SCV recruitment of Rab5 [     ], which binds the phosphatidylinositol 3-kinase Vps34 required for LAMP-1 recruitment [     ]. Vps34 in turn generates PI(3)P on the SCV membrane [     ], which is necessary for the recruitment of EEA1 [     ]. SopB also inhibits the degradation of epidermal growth factor receptors (EGFR) by lysosomes [     ], and has been recently shown to recruit sorting nexin-1 (SNX-1), which likely contributes to the disappearance of late endosomal/lysosomal markers, such as the mannose 6-phosphate receptor, from the maturing SCV [     ]. These observations in combination suggest that SopB plays a key role in diverting SCV trafficking from the endosomal maturation pathway. SopB is additionally required for activation of Akt [     ], which in turn deactivates the Rab14 GAP, AS160. Activated Rab14 increases intracellular
+     <italic>
+      Salmonella
+     </italic>
+     replication, possibly by delaying SCV-lysosomal fusion [     ]. In addition, SpiC is thought to prevent fusion of macrophage late endosomes/lysosomes with the SCV [     ].
+    </p>
+    <p>
+     The SPI-2 effector SseJ is required for full virulence during systemic infection of mice and localises to SCVs [     ]. It has deacylase activity
+     <italic>
+      in vitro
+     </italic>
+     [     ] and during
+     <italic>
+      Salmonella
+     </italic>
+     infection it esterifies cholesterol, a lipid enriched in SCV membranes. SseJ also exhibits phospholipase A activity [     ].
+    </p>
+    <p>
+     The SPI-1 effector SopA structurally and functionally mimics cellular HECT E3 ubiquitin ligases [     ], promoting bacterial escape from the SCV in HeLa cells. It may, therefore, have a role in disrupting SCV integrity [     ] although the significance of this activity is unclear.
+    </p>
+    <p>
+     Several hours post-infection of host cells, an F-actin meshwork assembles around the replicative SCV [     ], which appears to be bound and stabilised by SipA [     ]. Several SPI-2 effectors may also regulate SCV-associated actin dynamics. In particular, the kinase SteC is essential for the formation of SCV-associated F-actin [     ], while SseI and SspH2 co-localise with SCV-associated F-actin and bind the host actin-crosslinking protein filamin [     ]. Furthermore, SspH2 interacts with the cellular G-actin binding protein profilin and inhibits actin polymerisation rates
+     <italic>
+      in vitro
+     </italic>
+     [     ]. The plasmid-encoded effector SpvB ADP ribosylates monomeric actin preventing its polymerisation and inhibits the formation of SCV-associated F-actin [     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     SCV positioning and formation of
+     <italic>
+      Salmonella
+     </italic>
+     -induced filaments (Sifs)
+    </title>
+    <p>
+     As it matures, the SCV migrates towards the perinuclear region of the host cell by transiently recruiting the Rab7-interacting lysosomal protein (RILP), which in turn associates with the minus end-directed microtubule motor, dynein [     ]. Maintaining the SCV within the perinuclear region appears to be important for promoting bacterial replication. The close proximity of the SCV to the Golgi may facilitate interception of endocytic and exocytic transport vesicles to obtain nutrients and/or membrane [     ]. In support of this, SifA, SseG and SseF are required for re-direction of exocytic transport vesicles to the SCV [     ].
+    </p>
+    <p>
+     SseG and SseF have been suggested to maintain the SCV in the perinuclear region by forming a functional complex [     ] that either ‘tethers’ the SCV to the Golgi apparatus or manipulates dynein activity [     ]. By contrast, SifA binds the host protein SKIP (SifA and kinesin interacting protein) to downregulate PipB2-induced recruitment of the plus end-directed microtubule motor kinesin to the SCV [     ]. Efficient localisation of SifA to the SCV is mediated by the SPI-1 effector SipA [     ]. SopB-mediated phosphorylation of the actin-associated motor myosin II light chain (MLC), most likely via the Rho/ROCK/MLC signalling pathway, is also required for retention of the SCV within the perinuclear region of the host cell [     ].
+    </p>
+    <p>
+     Once the SCV is positioned, the bacteria begin to replicate. This replicative stage is characterised by the formation of LAMP-rich specialised tubulovesicular structures termed
+     <italic>
+      Salmonella
+     </italic>
+     -induced filaments (Sifs) that extend away from the SCV along the microtubule network. Sifs are thought to be generated by fusion of late endosomes/lysosomes with the SCV [     ], although their precise role in infection is undetermined. SifA is essential for Sif formation [     ] and maintenance of SCV integrity [     ]. Its transient overexpression is sufficient to induce swelling and aggregation of late endosomes and formation of Sif-like tubules in mammalian cells [     ]. Although the molecular mechanism by which SifA induces Sif formation is unclear, the effector has been shown to interact with Rab7 and is suggested to promote Sif extension by uncoupling Rab7 from RILP, preventing the recruitment of dynein to Sifs [     ]. The SPI-2 effector PipB2 also promotes Sif extension, most probably through a direct interaction with kinesin-1 [     ].
+    </p>
+    <p>
+     Both SseF and SseG are thought to augment Sif formation by modulating the aggregation of endosomal compartments.
+     <italic>
+      Salmonella
+     </italic>
+     mutants lacking
+     <italic>
+      sseF, sseG
+     </italic>
+     or another SPI-2 effector gene, s
+     <italic>
+      opD2
+     </italic>
+     induce fewer Sifs compared with wild type bacteria, but form a greater number of filamentous aggregates with punctate LAMP-1 distribution within infected cells. These ‘pseudo-Sifs’ may represent Sif precursors [     ].
+    </p>
+    <p>
+     By contrast, both SseJ and SpvB antagonise Sif formation. Mutation of
+     <italic>
+      sseJ
+     </italic>
+     or
+     <italic>
+      spvB
+     </italic>
+     increases the number of Sifs [     ], and transfection of epithelial cells with SseJ before
+     <italic>
+      Salmonella
+     </italic>
+     infection inhibits Sif formation [     ]. SseJ activity also appears to be required for loss of SCV integrity as, in contrast to a
+     <italic>
+      sifA
+     </italic>
+     mutant, a
+     <italic>
+      sifA sseJ
+     </italic>
+     double mutant retains its vacuolar membrane [     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Modulation of the innate immune response and host cell death
+    </title>
+    <p>
+     SPI-1 effectors additionally induce acute intestinal inflammation, a hallmark of
+     <italic>
+      Salmonella
+     </italic>
+     infection. Stimulation of Cdc42 by SopE/SopE2/SopB during
+     <italic>
+      Salmonella
+     </italic>
+     invasion leads to Raf1-dependent upregulation of Erk, Jnk and p38 mitogen-activated protein kinase (MAPK) pathways and subsequent activation of the transcription factors AP-1 and NFκB [     ]. This results in the release of proinflammatory cytokines including IL-8, stimulating the recruitment of polymorphonuclear leukocytes (PMNs). Simultaneously, a SipA N-terminal region triggers a novel Arf6- and phospholipase D signalling cascade that activates protein kinase Cα, leading to apical secretion of the potent PMN chemoattractant hepoxillin A3 [     ]. This promotes PMN transmigration across the epithelium into the intestinal lumen [     ], which is probably augmented by the E3 ubiquitin ligase activity of SopA [     ]. PMN transmigration appears to contribute towards diarrhoeal disease, enhancing
+     <italic>
+      Salmonella
+     </italic>
+     transmission via the faecal-oral route. Ins(1,4,5,6)P
+     <sub>
+      4
+     </sub>
+     production via SopB inositol phosphatase activity also plays a role in the induction of diarrhoea by promoting cellular chloride ion secretion and fluid flux [     ], while SopD contributes towards enteritis in infected calves through an unknown mechanism [     ]. Disruption of intestinal epithelial cell tight junctions by SopB, SopE, SopE2 and SipA is also likely to promote fluid flux and PMN transmigration [     ], although intriguingly, another SPI-1 effector, AvrA has been recently shown to counteract this activity [     ].
+    </p>
+    <p>
+     Inflammatory responses are further augmented by effector-induced macrophage cell death. This was thought to be due to direct activation of caspase-1 by SipB, resulting in release of proinflammatory cytokines [     ], but has been shown to depend on the delivery of flagellin into the macrophage cytosol, possibly via the SPI-1 T3SS [     ]. SipB additionally triggers a delayed caspase-1-independent cell death [     ]. More recently, SpvB and SseL have been reported to induce a slower SPI-2-dependent cell death pathway [     ].
+    </p>
+    <p>
+     <italic>
+      Salmonella
+     </italic>
+     also deliver effectors that suppress cellular immune responses. Both SptP GAP and tyrosine phosphatase activities play a role in reversing MAPK activation [     ] and AvrA acetyltransferase activity towards specific mitogen-activated protein kinase kinases (MAPKKs) prevents Jnk activation [     ]. SpvC also directly inhibits Erk, Jnk and p38 MAPKs through its phosphothreonine lyase activity [     ].
+    </p>
+    <p>
+     Finally,
+     <italic>
+      Salmonella
+     </italic>
+     targets transcription factors downstream of MAPK pathways. The SPI-2 deubiquitinase SseL suppresses NFκB activation by impairing IκBα ubiquitination and degradation [     ], an activity also reported for AvrA [     ]. SspH1 additionally inhibits NFκB-dependent gene expression, possibly via ubiquitination of the host cell kinase PKN1 [     ].
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     Perspectives–effector localisation and cooperation
+    </title>
+    <p>
+     <italic>
+      Salmonellae
+     </italic>
+     have evolved an array of subversive SPI-1 and SPI-2 effector proteins with diverse biochemical activities. The actions of individual SPI-1 effectors during
+     <italic>
+      Salmonella
+     </italic>
+     entry have been intensively studied, but it is not clear which effectors are present in the host cell at any one time, nor are the sequence and kinetics of effector translocation established, although work has begun to dissect this complex process [     ]. Likewise, it is still not completely understood how the discrete activities of all of these effectors are controlled, though effectors do appear to have varied half-lives following their translocation [     ]. Work on the localisation of effectors has shown that in addition to the translocase SipB, six other SPI-1 effectors (SipA, SipC, SopB, SopE, SopE2 and SptP) are delivered to the host plasma membrane, suggesting that this may provide an interface for effector–effector interplay [     ] as well as effector-target interaction(s) [     ] during bacterial entry. Combinatorial screens [     ] have confirmed known/proposed effector interactions [     ], and suggested two novel cooperative associations, SipC–SopB and SipC–SopE [     ], which require further investigation. However, interactions of SPI-2 effectors with their host cell targets, as well as with each other is a less well-understood area of
+     <italic>
+      Salmonella
+     </italic>
+     pathogenesis.
+    </p>
+    <p>
+     Recent work has challenged the conventional view that SPI-1 effectors solely mediate
+     <italic>
+      Salmonella
+     </italic>
+     invasion and SCV biogenesis, while SPI-2 effectors promote intracellular bacterial replication and systemic spread. SipA [     ], SopB [     ] and SptP (Humphreys
+     <italic>
+      et al
+     </italic>
+     ., unpublished) all persist in host cells hours after bacterial invasion and have key roles in SCV positioning and/or intracellular replication (     ), suggesting possible interplay between SPI-1 and SPI-2 effectors. Indeed, SipA has already been shown to cooperate with SifA to mediate perinuclear SCV positioning [     ]. Continued studies of effector action and interplay seem likely to explain further the processes underlying infection and highlight new facets of eukaryotic cell biology.
+    </p>
+   </sec>
+  </textgroup>
+  <textgroup>
+   <sec>
+    <title>
+     References and recommended reading
+    </title>
+    <p>
+     Papers of particular interest have been highlighted as:
+     <list list-type="simple">
+      <list-item>
+       <p>
+        • of special interest
+       </p>
+      </list-item>
+      <list-item>
+       <p>
+        •• of outstanding interest
+       </p>
+      </list-item>
+     </list>
+    </p>
+   </sec>
+  </textgroup>
+ </sentences>
+</article>
