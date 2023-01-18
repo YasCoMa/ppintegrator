@@ -4,12 +4,12 @@
 	"owner": "Yasmmin",
 	"email": "yasmmin.c.martins@gmail.com",
 	"datasets": [
-		{ "organism": "Arabidopsis Thaliana", "name": "hint_thaliana", "prefix": "hint_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/hint/a_thaliana/", "description": "" },
-		{ "organism": "Caenorhabditis Elegans", "name": "hint_elegans", "prefix": "hint_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/hint/c_elegans/", "description": "" },
-		{ "organism": "Drosophila Melanogaster", "name": "hint_melanogaster", "prefix": "hint_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/hint/d_melanogaster/", "description": "" },
-		{ "organism": "Escherichia Coli", "name": "hint_coli", "prefix": "hint_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/hint/e_coli/", "description": "" },
-		{ "organism": "Homo Sapiens", "name": "hint_sapiens", "prefix": "hint_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/hint/h_sapiens/", "description": "" },
-		{ "organism": "Mus Musculus", "name": "hint_musculus", "prefix": "hint_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/hint/m_musculus/", "description": "" },
-		{ "organism": "Saccharomyces Cerevisiae", "name": "hint_cerevisiae", "prefix": "hint_", "folder": "/home/yasminn/Documentos/tese/exp_ijmso/hint/s_cerevisiae/", "description": "" }
+		{ "organism": "Arabidopsis Thaliana", "name": "hint_thaliana", "prefix": "hint_", "folder": "hint/a_thaliana/", "description": "" },
+		{ "organism": "Caenorhabditis Elegans", "name": "hint_elegans", "prefix": "hint_", "folder": "hint/c_elegans/", "description": "" },
+		{ "organism": "Drosophila Melanogaster", "name": "hint_melanogaster", "prefix": "hint_", "folder": "hint/d_melanogaster/", "description": "" },
+		{ "organism": "Escherichia Coli", "name": "hint_coli", "prefix": "hint_", "folder": "hint/e_coli/", "description": "" },
+		{ "organism": "Homo Sapiens", "name": "hint_sapiens", "prefix": "hint_", "folder": "hint/h_sapiens/", "description": "" },
+		{ "organism": "Mus Musculus", "name": "hint_musculus", "prefix": "hint_", "folder": "hint/m_musculus/", "description": "" },
+		{ "organism": "Saccharomyces Cerevisiae", "name": "hint_cerevisiae", "prefix": "hint_", "folder": "hint/s_cerevisiae/", "description": "" }
     ]
 }

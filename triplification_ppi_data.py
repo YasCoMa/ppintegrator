@@ -201,8 +201,8 @@ class Triplification_process:
 
                     f.close()
                 self. graph_proteins.serialize(destination=base_annotation_folder+'/dataset_annotation_info.ttl', format='turtle')
-            else:
-                print("Error the files with protein functional features were not found in datasets folders")
+            #else:
+            #    print("Error the files with protein functional features were not found in datasets folders")
             
     def generate_results(self, config_exp, evidences_file):
         
@@ -397,7 +397,7 @@ class Triplification_process:
             AGRAPH_USER = os.environ.get('AGRAPH_USER')
             AGRAPH_PASSWORD = os.environ.get('AGRAPH_PASSWORD')
             
-            print("Inittializing repository")
+            print("Initializing repository")
             server = AllegroGraphServer(AGRAPH_HOST, AGRAPH_PORT, AGRAPH_USER, AGRAPH_PASSWORD)
             catalog = server.openCatalog('')
 
@@ -428,8 +428,8 @@ class Triplification_process:
                             organisms.append(sciname)
 
                 print("Loading ontology ontoppi for reasoning inference")
-                conn.addFile('ontoppi.nt', None, format=RDFFormat.NTRIPLES, context=None)
-
+                conn.addFile('ontoppi.ttl', None, format=RDFFormat.TURTLE, context=None)
+    
                 print("Loading knowledge base about proteins")
                 base_annotation_folder="knowledge_base_proteins"
                 conn.addFile(base_annotation_folder+'/dataset_annotation_info.ttl', None, format=RDFFormat.TURTLE, context=None)
@@ -495,6 +495,7 @@ class Running_config:
 
         print("Running all the processes")
         for i in information:
+            print("\tRunning now configuration for ", i[0])
             self.run_step1(i[0], i[1])
             self.run_step2(i[0])
             self.run_step3(i[0], i[1])
@@ -531,7 +532,7 @@ class Running_config:
             else:
                 if(args.file_experiment_config!="" and os.path.isfile(args.file_experiment_config)):
                     if(run==0 or run==1 or run==3):
-                        if(args.evidences_file==""):
+                        if(args.file_config_evidence==""):
                             print("Error: you have to give the file with the evidences specification")
                         else:
                             

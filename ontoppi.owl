@@ -1,0 +1,113 @@
+@prefix : <https://www.ypublish.info/protein_interaction_domain_ontology#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix biopax: <http://www.biopax.org/release/biopax-level2.owl#> .
+@prefix biomanta: <http://biomanta.sourceforge.net/2007/07/biomanta_extension_02.owl#> .
+@prefix uniprot: <http://purl.uniprot.org/core/> . 
+@prefix geo: <http://rdf.geospecies.org/ont/geospecies#> . 
+@base <https://www.ypublish.info/protein_interaction_domain_ontology#> .
+
+<https://www.ypublish.info/protein_interaction_domain_ontology#> rdf:type owl:Ontology ;
+																	rdfs:label "OntoPPI vocabulary"@en .
+
+:Experiment rdf:type owl:Class .
+:Experiment rdfs:subClassOf biomanta:PredictedObservation .
+
+:hasOwner rdf:type owl:DatatypeProperty .
+:hasOwner rdfs:domain :Experiment .
+
+:hasContactEmail rdf:type owl:DatatypeProperty .
+:hasContactEmail rdfs:domain :Experiment .
+
+:finalPredictionMethod rdf:type owl:DatatypeProperty .
+:finalPredictionMethod rdfs:domain :Experiment .
+
+:hasDataset rdf:type owl:ObjectProperty .
+:hasDataset rdfs:domain :Experiment .
+:hasDataset rdfs:range :PPIDataset .
+
+:usesEvidenceMethod rdf:type owl:ObjectProperty .
+:usesEvidenceMethod rdfs:domain :Experiment .
+:usesEvidenceMethod rdfs:range :Evidence .
+
+:PPIDataset rdf:type owl:Class .
+
+:hasDescription rdf:type owl:DatatypeProperty .
+:hasDescription rdfs:domain :Experiment .
+:hasDescription rdfs:domain :PPIDataset .
+:hasDescription rdfs:domain :EvidenceMethod .
+
+:fromOrganism rdf:type owl:ObjectProperty .
+:fromOrganism rdfs:domain :PPIDataset .
+:fromOrganism rdfs:range geo:IndividualOrganism . 
+
+uniprot:Taxon owl:equivalentClass geo:IndividualOrganism . 
+
+:hasFolder rdf:type owl:DatatypeProperty .
+:hasFolder rdfs:domain :PPIDataset .
+
+:hasPrefix rdf:type owl:DatatypeProperty .
+:hasPrefix rdfs:domain :PPIDataset .
+
+:EvidenceMethod rdf:type owl:Class .
+
+:hasType rdf:type owl:DatatypeProperty .
+:hasType rdfs:domain :EvidenceMethod .
+
+:PairComponent rdf:type owl:Class .
+:PairComponent rdfs:subClassOf biopax:Entity .
+
+:hasGO_cc_annotation rdf:type owl:DatatypeProperty .
+:hasGO_cc_annotation rdfs:domain :PairComponent .
+
+:hasGO_mf_annotation rdf:type owl:DatatypeProperty .
+:hasGO_mf_annotation rdfs:domain :PairComponent .
+
+:hasGO_bp_annotation rdf:type owl:DatatypeProperty .
+:hasGO_bp_annotation rdfs:domain :PairComponent .
+
+:hasPfam_annotation rdf:type owl:DatatypeProperty .
+:hasPfam_annotation rdfs:domain :PairComponent .
+
+:hasKo_annotation rdf:type owl:DatatypeProperty .
+:hasKo_annotation rdfs:domain :PairComponent .
+
+:hasUniprotCorrespondent rdf:type owl:ObjectProperty .
+:hasUniprotCorrespondent rdfs:domain :PairComponent .
+:hasUniprotCorrespondent rdfs:range uniprot:Protein . 
+
+:fromOrganism rdf:type owl:ObjectProperty .
+:fromOrganism rdfs:domain :PairComponent .
+:fromOrganism rdfs:range uniprot:Taxon . 
+
+:participant1 rdf:type owl:ObjectProperty .
+:participant1 rdfs:domain biopax:Interaction .
+:participant1 rdfs:range :PairComponent .
+
+:participant2 rdf:type owl:ObjectProperty .
+:participant2 rdfs:domain biopax:Interaction .
+:participant2 rdfs:range :PairComponent .
+
+:belongsTo rdf:type owl:ObjectProperty .
+:belongsTo rdfs:domain biopax:Interaction .
+:belongsTo rdfs:range :PPIDataset .
+
+:hasScore rdf:type owl:ObjectProperty .
+:hasScore rdfs:domain biopax:Interaction .
+:hasScore rdfs:range :EvidenceDecision .
+
+:EvidenceDecision rdf:type owl:Class .
+
+:basedOn rdf:type owl:ObjectProperty .
+:basedOn rdfs:domain :EvidenceDecision .
+:basedOn rdfs:range :EvidenceMethod .
+
+:supportingArticle rdf:type owl:DatatypeProperty .
+:supportingArticle rdfs:domain biopax:Interaction .
+
+:predictedValue rdf:type owl:DatatypeProperty .
+:predictedValue rdfs:domain :EvidenceDecision .
+
