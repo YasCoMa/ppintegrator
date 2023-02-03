@@ -15,7 +15,6 @@ This pipeline has as major goal provide a tool for protein interactions (PPI) pr
 * Python packages needed:
 	- pip3 install numpy
 	- pip3 install rdflib
-	- pip3 install urllib
 	- pip3 install uuid
 	- pip3 install SPARQLWrapper
 	- alegro graph tools (pip3 install agraph-python) <br > 
@@ -111,8 +110,10 @@ export AGRAPH_PASSWORD=chosen_password
 
 	5. Running to generate all semantic descrptions for STRING: <br>
 	````python3 triplification_ppi_data.py -rt 0 -fec params_string.json -fev evidences_information_string.json````
-
-	6. Running to execute data fusion of different sources (supposing you ran at least mode 1 and 3 for HINT, STRING and PredPrin): <br>
+    
+    **For the next options (4, 5 and 6), it is mandatory running at least mode 1 and 3 for HINT, STRING and PredPrin**
+    
+	6. Running to execute data fusion of different sources: <br>
 	````python3 triplification_ppi_data.py -rt 4 -fcv config_evidence_file.tsv````
 
 	7. Running to generate all semantic descriptions and execute data fusion of different sources (combines mode 0 and 4): <br>
@@ -145,4 +146,4 @@ File to use for this section: ````query_analysis_ppitriplificator.py```` <br>
 ## Reference
 
 ## Bug Report
-Please, use the [Issue](https://github.com/YasCoMa/PPITriplificator/issues) tab to report any bug.
+Please, use the [Issues](https://github.com/YasCoMa/ppintegrator/issues) tab to report any bug.
