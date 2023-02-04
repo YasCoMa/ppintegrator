@@ -24,6 +24,7 @@ This pipeline has as major goal provide a tool for protein interactions (PPI) pr
 ### Preparation:
 1. ````git clone https://github.com/YasCoMa/ppintegrator.git````
 2. ````cd ppintegrator````
+**Allegrograph is a triple store, which is a database to maintain semantic descriptions. This database's server provides a web application with a user interface to run, edit and manage queries, visualize results and manipulate the data without writing codes other than SPARQL query language. The use of the Allegregraph option is not mandatory, but if you want to export and use it, you have to install the server and the client.**
 3. if you want to use the Allegrograph server option (this triple store has free license up to 5,000,000 triples), install allegrograph server in your machine (configure a user and password): Server - https://franz.com/agraph/support/documentation/current/server-installation.html; Client - https://franz.com/agraph/support/documentation/current/python/install.html
 4. Export the following environment variables to configure Allegrograph server
 ````
