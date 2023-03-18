@@ -640,10 +640,13 @@
 
 :hasDescription rdf:type owl:DatatypeProperty ;
                 
-                rdfs:domain :EvidenceMethod ,
-                            :Experiment ,
-                            :PPIDataset .
-
+                rdfs:domain _:1 .
+_:1 rdf:first :EvidenceMethod .
+_:1 rdf:rest _:2 .
+_:2 rdf:first :Experiment .
+_:2 rdf:rest _:3 .
+_:3 rdf:first :PPIDataset .
+_:3 rdf:rest rdf:nil .
 
 
 ###  https://www.ypublish.info/protein_interaction_domain_ontology#hasFolder
