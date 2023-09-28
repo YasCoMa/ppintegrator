@@ -145,6 +145,7 @@ File to use for this section: ````query_analysis_ppitriplificator.py```` <br>
 		Change number 1 to the respective number of the query you want to perform
 
 ## Reference
+Martins, Y. C., Ziviani, A., Cerqueira e Costa, M. D. O., Cavalcanti, M. C. R., Nicolás, M. F., & de Vasconcelos, A. T. R. (2023). PPIntegrator: semantic integrative system for protein–protein interaction and application for host–pathogen datasets. Bioinformatics Advances, 3(1), vbad067.
 
 ## Bug Report
 Please, use the [Issues](https://github.com/YasCoMa/ppintegrator/issues) tab to report any bug.
