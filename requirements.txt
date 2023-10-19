@@ -1,0 +1,5 @@
+numpy
+rdflib
+uuid
+SPARQLWrapper
+agraph-python
